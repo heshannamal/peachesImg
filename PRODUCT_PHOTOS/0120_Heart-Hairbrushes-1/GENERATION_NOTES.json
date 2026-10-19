@@ -1,0 +1,51 @@
+{
+  "product_id": "0120",
+  "source": "Originals/IMG-20250203-WA0395.jpg",
+  "original_hashes": {
+    "Originals/IMG-20250203-WA0395.jpg": "682f35faf3528b65aca92a85aee3c66125713ee44ad0502ae1feda0ec063d3b6"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "cache_file": "/workspace/generated_images/exec-35c2f4f7-092b-4d41-9b54-08eeee629857.png",
+      "sha256": "d976dc4c4d042166966b211df81684b9e480da427997e3ea010e970735b3c6ba",
+      "prompt": "Edit reference into clear website-ready ecommerce white seamless photo soft shadows overhead. EXACT entire assortment ONE product: FOUR heart-shaped paddle hairbrushes in original fan arrangement with handles meeting near top, bristle faces visible below. Left purple cushion with lavender printed heart/star handle, second brightblue cushion with pink dolphin handle, third pale peach cushion with light lavender sea/dolphin pattern handle, right paleblue cushion with pink red-heart handle. Transparent plastic outer frames/handles and light pin bristles preserved, exact shapes/count/colours/positions/visible printed motifs. Remove cardboard background only, no invented backs/interiors or extra products/text.",
+      "checked": true,
+      "visual_check": "Basic check four heart brushes original fan order purple/brightblue/peach/paleblue, transparent printed handles/bristles visible, no extra products."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "cache_file": "/workspace/generated_images/exec-fff2557f-3062-4395-a903-321359e5e822.png",
+      "sha256": "24a31f2206d3d5943bbab5da62c36232f273eb11c47c8807eb3a3c4ebd025a6c",
+      "prompt": "Edit reference into clear website-ready ecommerce white seamless photo soft shadows overhead. EXACT entire assortment ONE product: FOUR heart-shaped paddle hairbrushes in original fan arrangement with handles meeting near top, bristle faces visible below. Left purple cushion with lavender printed heart/star handle, second brightblue cushion with pink dolphin handle, third pale peach cushion with light lavender sea/dolphin pattern handle, right paleblue cushion with pink red-heart handle. Transparent plastic outer frames/handles and light pin bristles preserved, exact shapes/count/colours/positions/visible printed motifs. Remove cardboard background only, no invented backs/interiors or extra products/text. BACKGROUND OVERRIDE lavender cream studio scene soft shadows, same entire4brush fan arrangement, no props/text.",
+      "checked": true,
+      "visual_check": "Basic check four source heart brushes, same fan layout/cushion colours transparent frames/printed handles, lavender studio."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "cache_file": "/workspace/generated_images/exec-67011a17-d567-405c-9a55-6cd6648dfd94.png",
+      "sha256": "fbd00b8680edf1a2809f76ea07b158f983f557ca97bbe19122a72ad2e27e939b",
+      "prompt": "Original source edit: four heart hairbrushes in fan layout on cream vanity, lavender room; preserve original shapes colours prints and bristle fronts.",
+      "checked": true,
+      "visual_check": "Recovered in-flight result; compared to source: four heart brushes same fan arrangement colour/printed handles and bristle fronts, cream table/lavender room, basic check passed."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "cache_file": "/workspace/generated_images/exec-d5692e05-b910-47ac-8417-b6a8bc5a546f.png",
+      "sha256": "d1aa8c9fd1aa03fc70e6f44ed9cbbc393d2d49224378e0d5567c29dcc92ed5d2",
+      "prompt": "Website-ready photorealistic MACRO DETAIL edit attached original. Tight crop of left purple heart hairbrush's cushion and clear outer rim at handle junction, showing original fine light pin bristles with rounded tips, purple cushion, transparent frame and partial lavender heart/star printed handle. Same visible front surfaces/colour/shape, no invented reverse or extra brushes. Not whole assortment. Cream lavender defocus, no added text.",
+      "checked": true,
+      "visual_check": "Basic visual check passed: tight purple cushion bristle and transparent rim/printed lavender handle crop, same visible front material and colour, no extra brushes."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "cache_file": "/workspace/generated_images/exec-eb784f6d-d548-443d-8328-2317c42e85ab.png",
+      "sha256": "f2c38a320ddf0918c69bd1f574354f10df7916f364fabb9aed8b0319a9de48fa",
+      "prompt": "Edit attached original into website-ready promotional photograph. EXACT entire assortment ONE product: four heart paddle hairbrushes original fan arrangement handles meeting top, bristle fronts visible below, left purple/lavender heart star handle, next brightblue/pink dolphin handle, third peach/lavender sea dolphin handle, right paleblue/pink redheart handle. Preserve transparent frames, printed motifs, shapes/count/colours/positions. Pale lavender cream studio background soft shadows. Compact dark plum heading 'Heart Hairbrush Collection' and small uppercase 'PRODUCT COLLECTION' above brushes. No invented rear/interior/new products, no price or claims, text does not cover product.",
+      "checked": true,
+      "visual_check": "Basic visual check passed: four original heart brushes colours/fan layout/printed clear handles, legible dark plum heading and PRODUCT COLLECTION on lavender backdrop."
+    }
+  ],
+  "generation_complete": true,
+  "originals_unchanged": true
+}

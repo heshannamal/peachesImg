@@ -1,0 +1,50 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250131-WA0424.jpg": "18f91b4f08671387a98ec8f3005314fbd81bb2ea471336b3d2bb8973ba3393ce"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-f385fa26-3e44-440a-8694-177b661088dd.png",
+      "prompt": "Edit reference into website-ready clean white seamless ecommerce photograph. Entire visible packaged pastel beaded jewellery/accessory assortment in reference: clear bags arranged roughly three columns by three rows with overlapping brown tags and lavender cords at top middle, small extra partly visible pink bag along bottom and partial bags at far right. Preserve exact visible package count and overlap, pearl-like crackle beads, gold spacers, small colourful character and flower charms, pink mint lavender aqua colours. This is beaded jewellery/accessories NOT phone cases. Do not invent contents hidden by overlap. Keep exact original count, geometry and colours. Remove shop background and old price or descriptive text overlays outside actual packaging. No added text. Full visible assortment, realistic soft shadows, natural sharp materials.",
+      "sha256": "e2688b049d3fa9fd811530c6fc6c8ac03d72031a18ad83f6d367ac73d05a178b",
+      "checked": true,
+      "visual_review": "Basic check: bagged pastel beads, charms and overlapping tags retain source identity and main grouping."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-efaa1a87-3c49-41d2-a896-b3b82ec0de78.png",
+      "prompt": "Website-ready styled ecommerce photograph on pale lavender ground with cream fabric edge. Entire visible packaged pastel beaded jewellery/accessory assortment in reference: clear bags arranged roughly three columns by three rows with overlapping brown tags and lavender cords at top middle, small extra partly visible pink bag along bottom and partial bags at far right. Preserve exact visible package count and overlap, pearl-like crackle beads, gold spacers, small colourful character and flower charms, pink mint lavender aqua colours. This is beaded jewellery/accessories NOT phone cases. Do not invent contents hidden by overlap. Preserve original product count shape colours and front view. Remove shop background and external price/specification overlays. No new text. Full visible assortment, simple realistic lighting.",
+      "sha256": "8955398fa391b8b54c691a985090e8da20faa462fa4ceb91d33782c46cf8cbaa",
+      "checked": true,
+      "visual_review": "Basic website check: main grouping shapes colours and packaging identity retained."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-cccd65cd-39b4-4b24-894b-96f9fcb60065.png",
+      "prompt": "Website-ready lifestyle product flatlay on a cream dressing table near a window, hint of lavender cloth at edge. Entire visible packaged pastel beaded jewellery/accessory assortment in reference: clear bags arranged roughly three columns by three rows with overlapping brown tags and lavender cords at top middle, small extra partly visible pink bag along bottom and partial bags at far right. Preserve exact visible package count and overlap, pearl-like crackle beads, gold spacers, small colourful character and flower charms, pink mint lavender aqua colours. This is beaded jewellery/accessories NOT phone cases. Do not invent contents hidden by overlap. Keep original product geometry, assortment grouping, shapes and actual colours. No people, no extra products or invented views. Remove external price/specification overlays, no added text.",
+      "sha256": "b82786ba811da2d2bd424d9fa84e21fb1deebe89bbf6e7e3c2671a79f2a5b1b3",
+      "checked": true,
+      "visual_review": "Basic website check: main product group, colours shapes and original packaging preserved in cream tabletop context."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-350c5311-81bd-4cc2-90d4-1deccde6d222.png",
+      "prompt": "Tight macro photograph cropped to a small section of reference beaded accessories inside clear packaging: pastel pink mint lavender crackle round beads, gold spacers and small blue flower charm. Preserve actual visible bead materials colours and charm style. Fill frame with texture, no full assortment, no invented product forms, no text.",
+      "sha256": "e5bafb7d7b79d39a16bbf5fa5062288f06b82d688ba89a6928cfe424029a76d7",
+      "checked": true,
+      "visual_review": "Basic macro check: actual source material/colour identity and close-up crop retained."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-55e2dc9d-2ecf-41a6-9cdf-aa5df4921bd9.png",
+      "prompt": "Create website-ready promotional product photograph on lavender and cream background with compact dark plum heading 'Pastel Beaded Accessory Collection' and subtitle 'PRODUCT COLLECTION'. Entire visible packaged pastel beaded jewellery/accessory assortment: clear bags roughly three columns by three rows with overlapping brown tags and lavender cords at top middle, small partly visible pink bag along bottom and partial bags at far right. Preserve exact visible package grouping and overlap, pearl-like crackle beads, gold spacers, small colourful character and flower charms, pink mint lavender aqua colours. These are beaded accessories NOT phone cases. Do not invent hidden contents. Preserve original assortment arrangement, actual shapes colours materials and packaging identity. No other products, no external shop price overlay or unrelated text. Realistic soft lighting.",
+      "sha256": "f89e060b01ae0c893be6075e5b330d9b8144faf2aeefa556c8afb2ce93d207b2",
+      "checked": true,
+      "visual_review": "Website-ready check: packaged beads retain main grouping, pastel colours, tags and accessory identity; heading legible."
+    }
+  ],
+  "status": "five images saved and visually checked"
+}

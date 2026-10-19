@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250120-WA0445.jpg": "7689d1434bff242a7173e1a22d85e0ea14956ab385fa79878a1d615e04a28d8b"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source": [
+        "Originals/IMG-20250120-WA0445.jpg"
+      ],
+      "prompt": "Edit this exact photograph into a square white background product photo. Remove hand, shop and price overlay ONLY. Preserve the entire original stacked overlapping assortment of fuzzy pink grey red bunny ear headbands inside clear bag, every visible flower cluster and polka dot bow, exact arrangement, colours, textures and occlusion. DO NOT separate the headbands or invent hidden parts. Whole clear package fully in frame. Realistic soft studio shadows.",
+      "sha256": "ade57250c28746c707a2052bfdfd5e82d2ce10d8eafa2f4af2855c7e0d5d80af",
+      "checked": true,
+      "visual_review": "Compared visible geometry, count, colours and original arrangement, including occlusion; preserved."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square premium ecommerce photo of EXACT entire assortment in reference on lavender and cream studio background. Preserve EXACT visible quantity, colour, pattern, shape, material, packaging, arrangement and occlusion. Keep overlapped fuzzy headbands in original clear bag, don't invent obscured parts. Realistic soft studio shadows, ample square margins, no new text.",
+      "sha256": "e6f64aec25f6860b067f3f6f09b9b4d38fc5ea744d21011a21029533ff82f85d",
+      "checked": true,
+      "visual_review": "Visible assortment compared against original: colours, shapes, packaging, occlusion and count retained."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square lifestyle ecommerce photograph of EXACT entire supplied assortment on cream vanity with softly blurred lavender bedroom and window light. Keep overlapping fuzzy bunny ear headbands in clear bag with every visible bow/flower, exact original arrangement and occlusion; don't reveal hidden parts. Same colours, shapes, packaging and textures. No hands/person, no new text or extra product.",
+      "sha256": "2cb435545a8e205d61b17ae6ac90250dc259007b5767c9999f0103e3c3305836",
+      "checked": true,
+      "visual_review": "Entire visible assortment compared with source; original arrangement/count and colours preserved."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square extreme macro crop ONLY of visible red fuzzy headband section with white black-polka-dot bow and adjacent colourful flower cluster seen in reference. Preserve visible exact materials, colour and shapes, clear wrapping film. Tight cropped detail, no complete headband or assortment, no invented hidden parts, no text, realistic photography.",
+      "sha256": "94e9a65acdc04f3ac496aadf566058100c3530d04041bf0ad4f9d1fed8813020",
+      "checked": true,
+      "visual_review": "Tight macro matches visible source material/design and colour."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square promotional product photograph. EXACT entire reference assortment unchanged, same count/colours/shape/packaging/arrangement and visible occlusion. Overlapping fuzzy headbands in clear bag, preserve all visible bows/flowers and hidden occlusion. Lavender cream background, ample margin for small elegant dark plum heading Floral Bunny Ear Headbands and small PRODUCT COLLECTION. No other text or price. Realistic studio light.",
+      "sha256": "d7fc2228a4e5dd9a2eb3170186f87ad66226366414e98cadb6dd0e99a455f2c9",
+      "checked": true,
+      "visual_review": "Promotional visible assortment compared with original, original count/colours/designs and occlusion retained."
+    }
+  ],
+  "status": "five images generated and visually checked"
+}

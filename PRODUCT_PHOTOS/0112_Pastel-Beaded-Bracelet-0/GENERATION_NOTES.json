@@ -1,0 +1,33 @@
+{
+  "tool": "built-in image_gen",
+  "status": "in_progress",
+  "original_hashes": {
+    "Originals/IMG-20250131-WA0100.jpg": "a49ae6454103891c4207cfb5791c49328755676a8f5a62150d82d3309f1c650a"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source": "/workspace/generated_images/exec-939fad20-4ef3-40ca-b86e-cb9a7b1efaa3.png",
+      "prompt": "Edit reference into one clean realistic website product photograph. The single foreground pale pink beaded elastic bracelet held on palm, with milky pink rounded beads, gold-tone tiny spacer balls and rhinestone rondelles, iridescent faceted cubes and pink crackle round accent beads near top, dangling gold-tone crystal cat charm at bottom. Retain exact bracelet beads, arrangement and cat charm; remove hand and unrelated bracelets behind, retain its white Fashion Jewelry hang tag but remove handwritten price. Whole assortment ONE product, preserve count, shapes, colour, material and arrangement. Pure white background, soft shadows, full product visible. Remove shop, hand, price. No additional parts, products, invented backs or text.",
+      "sha256": "af42eac0ca2b9ab04542987e02cca7bb51e6b863791ed90a0b67eff73989d5de",
+      "checked": true,
+      "visual_review": "Single pink bracelet retains pastel rounded beads, gold spacers, rhinestone rings, cube/crackle accents and crystal cat charm. Main identity, colour and count checked; white setting."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source": "/workspace/generated_images/exec-3765bb1a-fbb7-4966-a548-ab17c8275934.png",
+      "prompt": "One clean realistic website styled-background product photo of exact reference. The single foreground pale pink beaded elastic bracelet held on palm, with milky pink rounded beads, gold-tone tiny spacer balls and rhinestone rondelles, iridescent faceted cubes and pink crackle round accent beads near top, dangling gold-tone crystal cat charm at bottom. Retain exact bracelet beads, arrangement and cat charm; remove hand and unrelated bracelets behind, retain its white Fashion Jewelry hang tag but remove handwritten price. Whole assortment ONE product. Preserve count, shape, material, colours and arrangement. Warm cream background with lavender fabric outside product, natural shadows. Full product visible. Remove old price, hands, shop. No extra products, parts, text or new views.",
+      "sha256": "2d6cfb3882bda3137613255560eba0e4107bd9232464e71006c5837c3c5e8836",
+      "checked": true,
+      "visual_review": "Single pink bracelet retains pastel rounded beads, gold spacers, rhinestone rings, cube/crackle accents and crystal cat charm. Cream lavender styling, basic visual check passed."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source": "/workspace/generated_images/exec-9b0f8278-f3ae-4ec9-88ab-f8a3948e4c1d.png",
+      "prompt": "One clean realistic website lifestyle product photo of exact reference. The single foreground pale pink beaded elastic bracelet held on palm, with milky pink rounded beads, gold-tone tiny spacer balls and rhinestone rondelles, iridescent faceted cubes and pink crackle round accent beads near top, dangling gold-tone crystal cat charm at bottom. Retain exact bracelet beads, arrangement and cat charm; remove hand and unrelated bracelets behind, retain its white Fashion Jewelry hang tag but remove handwritten price. Preserve count, colours, shape, material and arrangement. Full product on tidy cream bedroom surface beside lavender linen and closed book well beyond product. Soft daylight, whole set inside frame. No people, hands, old prices, shop, extra accessories or invented parts. No text.",
+      "sha256": "515e77282a533903c72f1d5b78e066afe3dbf521fd502285abeadf421731883c",
+      "checked": true,
+      "visual_review": "Single pink bracelet retains pastel rounded beads, gold spacers, rhinestone rings, cube/crackle accents and crystal cat charm. Basic website check passed; full product visible in lifestyle setting."
+    }
+  ]
+}

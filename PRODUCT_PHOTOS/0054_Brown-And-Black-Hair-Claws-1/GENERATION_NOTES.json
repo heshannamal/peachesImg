@@ -1,0 +1,55 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250101-WA0365.jpg": "0271aa47796dd7a39ba7fc95abf7022a3313bd341693dbc5a6e4499818c5df75"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source": [
+        "Originals/IMG-20250101-WA0365.jpg"
+      ],
+      "prompt": "Edit reference as a square high-end ecommerce photograph on pure white background with soft studio shadows. Show entire exact assortment: twelve original cards in two columns six rows, each with two rectangular hair claws and three fabric hair ties, preserving exact tan brown black olive mustard colours, counts, shapes and arrangement from reference. Remove price overlay. Keep all actual product geometry and packaging, no invented pieces. Crisp realistic materials. No new text.",
+      "sha256": "58ef96d3601ff8b315c1374c4d3373235f362442caa0bca6436a390550243812",
+      "checked": true,
+      "visual_review": "Compared to original; full assortment, item counts, colours and packaging retained; price/hand/background removed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Edit this exact product photograph into square premium product photo on soft lavender and cream studio background. Preserve the entire assortment precisely: exact visible item counts, colours, card packaging, shapes and arrangement. Only change background, light and framing with ample square margins. Realistic product materials, soft shadows. No added text, no extra accessories, no invented hidden pieces. Remove price labels, hand and shop scenery if any.",
+      "sha256": "036b3d09245ed840d51147bef9fbedc1e3f5ea3ccdcdbde969ee969466f5cf1c",
+      "checked": true,
+      "visual_review": "Compared to original, assortment quantities and visible colours retained on lavender/cream."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Create square lifestyle ecommerce photograph of this EXACT entire assortment as supplied on its cards, sitting on a cream bedroom dressing table in soft morning window light, subtle lavender wall and blurred mirror background. Keep all items, visible card count, exact colours, shapes and layout unchanged from reference. Do not add any product pieces, no person or hands, no price or overlaid text. Product fills most frame, realistic photography.",
+      "sha256": "910b1426807bd228eed784161f8469129f93160fe047660f604c5b33b7d040f1",
+      "checked": true,
+      "visual_review": "Reviewed entire assortment against source; visible counts, shapes, colours retained, lifestyle context appropriate."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square extreme macro detail photograph, tightly crop ONLY the upper left tan rectangular hair claw and adjacent brown fabric tie from this reference. Clearly show plastic edge, teeth and woven fabric texture. Preserve exact material, colour and visible geometry. No entire assortment, no new pieces, no text. Soft cream light background, professional macro focus.",
+      "sha256": "876c6b217f925a4164cb4d469008ec581a9d67d341287915bec1c2c1493bb58f",
+      "checked": true,
+      "visual_review": "Reviewed tight detail against visible source product: material, geometry and colours retained."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square promotional catalog photo. Preserve EXACTLY ALL TWELVE cards in reference, TWO COLUMNS and SIX ROWS, 24 claws total. DO NOT omit bottom row. Whole twelve-card assortment, same tan and brown black claws and three ties each card, exact original colours and geometry. Make assortment smaller to fit FULL SIX ROWS with generous margins. Lavender cream background, small dark plum heading Brown & Black Hair Claw Sets and PRODUCT COLLECTION above. No other text. Count six rows before finishing.",
+      "sha256": "9527c4fe3cabd341be15dec14a039906d18ed5c1b0af3eb595a5ace9287a1ecc",
+      "checked": true,
+      "visual_review": "Compared complete promotional assortment to source, full item count retained and text appropriate."
+    }
+  ],
+  "rejected_outputs": [
+    "_Review/worker1_rejected/0054_promotional_missing_row.png"
+  ],
+  "status": "five images generated and visually checked"
+}

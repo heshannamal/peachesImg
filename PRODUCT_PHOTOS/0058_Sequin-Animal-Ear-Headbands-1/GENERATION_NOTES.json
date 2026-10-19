@@ -1,0 +1,40 @@
+{
+  "tool": "built-in image_gen",
+  "status": "five images saved and visually checked",
+  "original_sha256": "35057c306ef994dab07182ac160637e51ae3691805e97bf29a5465bf7bdbb139",
+  "whole_assortment": true,
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "sha256": "dc51bdb1b36276820c27a0ab9126498e7c094173d40002de938e56c884d7ad83",
+      "source_output": "/workspace/generated_images/exec-fcc6d1ef-a137-41dc-ab07-3c90c5d17e25.png",
+      "checked": true,
+      "visual_review": "Six sequined plush headbands retained in two-column arrangement; pink, light pink, burgundy, blue, beige and white colours checked."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "sha256": "2ea74c0eae0159a1669f52389c2d5e8ff41533c04704debf2e406662e7c065f7",
+      "checked": true,
+      "visual_review": "Six headbands retain two-column three-row layout and correct colour assortment; lavender ground and cream perimeter only."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "sha256": "998f64eccb1a253c63bca353fcb57831ae0f3fc06c109c59375dc21899998b37",
+      "checked": true,
+      "visual_review": "Six headbands and colour arrangement retained on cream vanity; background props visually separate from assortment."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "sha256": "2c8319094198afbc6f33100a94eae69a426e178b9816fc39ac9a16bf07d4accc",
+      "checked": true,
+      "visual_review": "True macro crop of hot pink ear; plush rim and sequined insert match visible reference material and colour."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "sha256": "2e13b33449297f36a7d9f1aa09fa6968b5e06eb7ff465fbaa355260763e391f1",
+      "checked": true,
+      "visual_review": "Six headbands retain assortment and ordering; promotional heading and PRODUCT COLLECTION correctly rendered in plum with lavender/cream ground."
+    }
+  ],
+  "prompt_source": "Built-in image_gen original-reference edit prompts: white seamless assortment, lavender/cream styled assortment, cream vanity lifestyle assortment, hot-pink ear tight macro, lavender/cream promotion with Sequin Animal-Ear Headbands and PRODUCT COLLECTION."
+}

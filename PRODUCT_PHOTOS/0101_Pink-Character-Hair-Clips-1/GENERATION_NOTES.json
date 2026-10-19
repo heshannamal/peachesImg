@@ -1,0 +1,63 @@
+{
+  "product_id": "0101",
+  "original_hashes": {
+    "Originals/IMG-20250128-WA0568.jpg": "0bbc95106053f3b2c00c33880d9d667650cf22903531f8d1bbfcdde96be39997"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "cache_source": "/workspace/generated_images/exec-36fd6a38-ceb7-47dd-b592-289c8b8e0cb1.png",
+      "sha256": "c8f13f3e7242515aaa93235b1e695fa44c2cb1b97fb65e0e9a92a481e8f87749",
+      "checked": true,
+      "visual_check": "Passed targeted correction: MADE IN CHINA restored below carrot clip. Five original fruit clips, card character, glitter and clear bag unchanged.",
+      "prompt_source": "_Review/RUN_100_worker_3_PROMPTS_13.json:prompt0101_fix"
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "cache_source": "/workspace/generated_images/exec-e89a5baa-cfb4-465e-8819-48f1444316c3.png",
+      "sha256": "89b56b8e160fab56cc31cbddc11d3b0e1f0a9a91cbe55eda61aeb0035b18c97b",
+      "checked": true,
+      "visual_check": "Passed styled view: five correct fruit clips source order glitter clear shells character packaging including MADE IN CHINA, lavender cream scene no hand price or shop.",
+      "prompt_source": "_Review/RUN_100_worker_3_PROMPTS.json"
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-e826f562-1559-421a-b69c-12f617bdc2ec.png",
+      "sha256": "147a9d15e3120b07b9747625fc067f7a36dd1d7f83de007bae8439476d0e2894",
+      "checked": true,
+      "visual_review": "Five fruit clips and source order preserved in lifestyle scene.",
+      "recovered_after_worker_limit": true
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-ec5b64ee-31b5-4b7a-90fe-34f6d91e6803.png",
+      "prompt": "Create ONE clean website product photograph from actual reference. Subject: Existing five clear glitter fruit clips on pink character card; strawberry,grapes,cherries,avocado,carrot in that order. Preserve actual product count, shape, colours and materials. Remove hand, shop, old price overlay and unrelated background products. No invented reverse sides or extra products. TIGHT MACRO DETAIL crop of only existing strawberry charm and glitter inside upper clip, filling frame. No whole card, collage or inset.",
+      "sha256": "8f855854e77c5095ab7af18744a1c24535b3ada0dde9a911a4fdb143dd17f685",
+      "checked": true,
+      "visual_review": "Compared with actual reference: visible product identity, shapes, colours and material retained; website-ready composition."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-ab69fd89-170a-4fe2-8864-76fbc48c2dc5.png",
+      "prompt": "Make ONE simple clean website promotional product photo from actual reference. Subject: Existing five clear glitter fruit clips on pink character card; strawberry,grapes,cherries,avocado,carrot in that order. Keep actual product count, shapes, colours and material. Remove hand/shop/old price overlays/unrelated background products. Whole subject centred with margins on pale lavender and cream studio background. Compact dark plum heading 'FRUIT GLITTER HAIR CLIPS', smaller 'PRODUCT COLLECTION'. No claims, extra items or invented reverse views.",
+      "sha256": "e602f93ea0afd190a198636a3a3c64fef9914355cfbc8cb2eaae6bee670fff2f",
+      "checked": true,
+      "visual_review": "Compared with original: main product count, arrangement, colours and shape preserved; clear website promotional composition."
+    }
+  ],
+  "status": "five images generated and visually checked",
+  "review_required": false,
+  "review_reason": "Packaging imprint omission corrected and visually rechecked.",
+  "rejected_outputs": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "cache_source": "/workspace/generated_images/exec-8d19b816-9a7f-45aa-b55b-15a72d019d99.png",
+      "sha256": "8caf43015119709b7b2e15de173dc3708b3fdce7a7cbb10fb91627f5b407bb8c",
+      "checked": true,
+      "visual_check": "Reviewed: five correct fruit clips in source order colours glitter clear shells and character card bag retained; bottom MADE IN CHINA imprint omitted and requires packaging review.",
+      "prompt_source": "_Review/RUN_100_worker_3_PROMPTS.json",
+      "rejected_file": "Rejected/01_White-Background_missing-imprint.png"
+    }
+  ],
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

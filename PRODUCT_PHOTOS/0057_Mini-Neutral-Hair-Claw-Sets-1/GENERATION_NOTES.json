@@ -1,0 +1,49 @@
+{
+  "tool": "built-in image_gen",
+  "status": "five images generated and visually checked",
+  "original_hashes": {
+    "Originals/IMG-20250101-WA0385.jpg": "b9e52cc78776fe98ffb818c633442a43525db7c27dcb35b8d285deeeb5394564"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source": "/workspace/generated_images/exec-e1082097-287c-4958-ab3c-87ef1fc9ec5f.png",
+      "prompt": "Edit the reference into one premium ecommerce product photo, not collage. Twelve white retail cards in exact 4 rows by 3 columns, each with four tiny neutral hair claws and three fabric hair ties. Top row charcoal brown claws, next taupe, next ivory cream, bottom black. 48 claws total. Preserve precise original geometry, material and package printing. Preserve every product part, count, arrangement, colours, proportions, packaging. Remove hand, shop background, old price overlay. Whole assortment is one product. Clean pure white seamless background, soft natural contact shadows, front-facing flat lay, crisp realistic detail, whole set comfortably inside frame. No extra products, invented backs or parts, no added text.",
+      "sha256": "8e32a5820deb24a9460867f02eec752ef90dd9fb742d44ad8989f88538136e13",
+      "checked": true,
+      "visual_review": "Compared with source. Entire assortment, packaging, original count and order retained; white background clean and hand and price removed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source": "/workspace/generated_images/exec-ea9bdd9a-ce1a-4c77-9e38-c5c251874b9e.png",
+      "prompt": "Create one premium photoreal ecommerce styled-background photo of this exact reference product. Twelve white retail cards in exact 4 rows by 3 columns, each with four tiny neutral hair claws and three fabric hair ties. Top row charcoal brown claws, next taupe, next ivory cream, bottom black. 48 claws total. Preserve precise original geometry, material and package printing. Entire assortment is one product. Preserve exact product count, original arrangement, colours, shape, size proportions, printed package details and material. Remove hand, store scene, price overlay. Use warm cream backdrop with soft lavender accent fabric outside the product edges; natural contact shadows, full set sharp and inside image. No new parts, no additional products, no text overlays.",
+      "sha256": "b6700e49c6dc4bb6fc22444a8f3ba83c740a6e87fb167da3ebdef4f05d711555",
+      "checked": true,
+      "visual_review": "Visual comparison confirms assortment counts, colours and package arrangement retained; lavender cream styling clean."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source": "/workspace/generated_images/exec-df8d2339-4925-493a-9289-096945400732.png",
+      "prompt": "One premium photoreal lifestyle ecommerce photograph of the exact product in reference. Twelve white retail cards in exact 4 rows by 3 columns, each with four tiny neutral hair claws and three fabric hair ties. Top row charcoal brown claws, next taupe, next ivory cream, bottom black. 48 claws total. Preserve precise original geometry, material and package printing. Keep entire assortment on its original packaging, with exact count, arrangement and original details; lay the full set on a tidy pale cream bedroom vanity beside a closed neutral book and lavender linen in the far background. Product dominates, sharp focus, soft morning window light. No people, hands, wearing demonstrations, extra hair accessories, invented parts or reverse views. Remove old price overlay and shop background. Full package within frame.",
+      "sha256": "94c6d4c6b25407a26512f9f9c81d694cc3cc3aeac06f80404fa517d5a955cfe5",
+      "checked": true,
+      "visual_review": "Visually checked whole assortment against original; colours, packaging and count retained. Lifestyle setting leaves product unobscured."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source": "/workspace/generated_images/exec-b2b6be4d-3ebc-464e-8e15-53b9fb55fe41.png",
+      "prompt": "Create one photoreal tight macro product-detail crop from this exact reference. Twelve white retail cards in exact 4 rows by 3 columns, each with four tiny neutral hair claws and three fabric hair ties. Top row charcoal brown claws, next taupe, next ivory cream, bottom black. 48 claws total. Preserve precise original geometry, material and package printing. This is DETAIL ONLY: zoom tightly into a taupe miniature hair claw and neighboring fabric ties showing original matte plastic, teeth and weave. Crop out most of full assortment; do not show full package or entire grid. Preserve precise original shape, colour, material and visible packaging. No invented reverse views, no new parts, no price text, no hands or shop. Soft cream background light, crisp premium macro photography.",
+      "sha256": "1189a481b5ee7c861eedb3d5d074c9de39e235a02fa3536b5363cfddd009838f",
+      "checked": true,
+      "visual_review": "Tight macro crop visually checked against visible source details, material and colour retained; no invented back views."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source": "/workspace/generated_images/exec-5b6ff1c2-2d01-4446-82d6-b285022d7bd1.png",
+      "prompt": "Promotional exact original twelve-card assortment, lavender cream background, dark plum Mini Neutral Hair Claw Sets heading, PRODUCT COLLECTION subtitle; preserve products, remove price and store.",
+      "sha256": "a68f7a7ad52503843223784ca9859d163488c0f71d5833eb82dd48e00ba12a73",
+      "checked": true,
+      "visual_review": "Checked all twelve cards, colours and counts; promotional heading clear and assortment unobscured."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "product_id": "0095",
+  "source": "Originals/IMG-20250128-WA0339.jpg",
+  "original_hashes": {
+    "Originals/IMG-20250128-WA0339.jpg": "dbd08eb9e17d4b1390dffd958436a2a6a057386db0f80aa1ff3dcf3278487a66"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "cache_file": "/workspace/generated_images/exec-c4a8904b-d115-4d58-974a-619a8f3a7cd7.png",
+      "sha256": "f5bc1ea6ad44accde5dc30b0a834be7572e4da5aecaf2edaf3f8a16fdc42593e",
+      "prompt": "Edit attached into premium ecommerce photograph pure white seamless soft shadows overhead same front view. EXACT complete assortment as one product: TWELVE white Beautiful display cards in4rows x3columns, each card has ONE elongated crossing-loop triangular hair claw and THREE fabric ties below. All12claws,36ties packaging and arrangement preserved. Top row black claws with brown/olive/mustard ties; second cream claws with black/darkbrown/olive ties; third dark taupe claws with brown/olive/mustard ties; bottom khaki taupe claws with black/darkbrown/olive ties. Preserve all visible springs, loop crossing geometry, teeth, materials/colours/card printing. Remove only cloth/shop background and1500Rs/12Pcs overlay. No new hidden parts/no rearrangement/no added text.",
+      "checked": true,
+      "visual_check": "Reviewed white result:12cards/12cross-loop claws/36ties,4x3layout and black cream taupe khaki rows preserved, white packaging retained, no price."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-0aebeaf1-8007-46af-8ea1-021620e8b9b8.png",
+      "sha256": "8d2f34523cba58b1b4cad7973aef3955eb61a742b73b8b02ba56f8c501c36776",
+      "checked": true,
+      "visual_review": "Twelve cards in four rows of three with loop claws and ties match source.",
+      "recovered_after_worker_limit": true
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-76518ebc-5c03-43f6-affe-eb2c3405a7ac.png",
+      "prompt": "Create ONE clean website product photograph from actual reference. Subject: Entire12white cards in3columns4rows, each one loop-shaped large claw and3fabric ties. Claw row colours black,cream,brown,taupe. Preserve12claws,36ties, exact cards and arrangement. Preserve actual product count, shape, colours and materials. Remove hand, shop, old price overlay and unrelated background products. No invented reverse sides or extra products. Whole assortment on light wood dressing table with cream cloth outside edges.",
+      "sha256": "19ba862417a509ad8e13ce883c8115b89f751e328500c73a5fd212f74b6324b4",
+      "checked": true,
+      "visual_review": "Compared with original; main product count, shape, colours and material retained. Suitable website image."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-dfc8fde4-0a53-4d1c-b0ce-e1314e1d51b8.png",
+      "prompt": "ONE clean website product photo edited from actual reference. Subject: Entire12white cards in3columns4rows, each one loop-shaped large claw and3fabric ties. Claw row colours black,cream,brown,taupe. Preserve12claws,36ties, exact cards and arrangement. Keep actual shapes, colours, materials and visible count. Remove hand, shop and old price overlay. No extra products or invented reverse views. TIGHT MACRO crop of existing cream loop-shaped claw hinge, coil spring and teeth. No whole assortment or collage.",
+      "sha256": "f8eaad30ec6baf23310afe686cbbe140ab6d6b813d660fe02517624956459363",
+      "checked": true,
+      "visual_review": "Compared with original: visible product shape, colour and material retained; suitable detail or lifestyle view for website."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-238edc36-6845-4754-937f-a329ceba5104.png",
+      "prompt": "Make ONE simple clean website promotional product photo from actual reference. Subject: Entire12white cards in3columns4rows, each one loop-shaped large claw and3fabric ties. Claw row colours black,cream,brown,taupe. Preserve12claws,36ties, exact cards and arrangement. Keep actual product count, shapes, colours and material. Remove hand/shop/old price overlays/unrelated background products. Whole subject centred with margins on pale lavender and cream studio background. Compact dark plum heading 'LOOP HAIR CLAW SETS', smaller 'PRODUCT COLLECTION'. No claims, extra items or invented reverse views.",
+      "sha256": "74bbc6297fb9e326d6e3e127089ef4f53c3ccae45712450590035a8aba615ef4",
+      "checked": true,
+      "visual_review": "Compared with actual reference: twelve cards, correct claw shapes, row colours and ties retained. Suitable website promotional image."
+    }
+  ],
+  "status": "five images generated and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

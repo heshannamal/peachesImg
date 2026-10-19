@@ -1,0 +1,50 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250127-WA0289.jpg": "551a91208d73fdbd18c599ad7f4b986b5a9f330d7353f77c6ac7f3e53355f7ba"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-6143a0d5-4709-4a67-89d0-9c9990a38dbe.png",
+      "prompt": "Edit reference into premium clean white seamless ecommerce photograph. The SINGLE foreground bright pink long shaggy fur teddy bear, round ears with smooth pink inner ear, smooth pink muzzle, glossy black triangular nose, stitched smile and tiny dark eyes partly hidden by fur, dark sheer green/plum bow, seated with two arms and large feet. Preserve actual face proportions fur colour bow and front pose. Background shop bears are not part of product. Keep exact original front view, count, arrangement, shapes and colours; do not invent backs or extra items. Remove hand, shop setting, background inventory and old price text overlay. No added text. All actual product visible, soft realistic shadows, sharp material details.",
+      "sha256": "8bd16a6941994d9f2580e9e3d7c609dadc47f3d4824f27fe3df4dff4fa736b93",
+      "checked": true,
+      "visual_review": "Single foreground pink bear retains shaggy fur, bow, muzzle nose and seated posture; background toys removed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-6b5bc674-5015-4438-afae-55ee10a86ba6.png",
+      "prompt": "Edit reference into styled premium ecommerce photograph on a pale lavender seamless setting with cream fabric edge outside product. The SINGLE foreground bright pink long shaggy fur teddy bear, round ears with smooth pink inner ear, smooth pink muzzle, glossy black triangular nose, stitched smile and tiny dark eyes partly hidden by fur, dark sheer green/plum bow, seated with two arms and large feet. Preserve actual face proportions fur colour bow and front pose. Background shop bears are not part of product. Preserve exact original front-facing pose and count; no invented product backs, no changed clothes. Remove hand shop background inventory and price overlay. Full product visible with soft shadows, no text.",
+      "sha256": "f86d1a4899e4ffc0a9a9b6454e86ff242b0743e1686d1c7bcc68745879d71e4c",
+      "checked": true,
+      "visual_review": "Count, seated front pose, actual fabric colours and accessory details retained on lavender/cream background."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-d02dbe09-cc9e-4985-a500-de885a14dac3.png",
+      "prompt": "Edit reference into realistic lifestyle product photograph on a cream upholstered bench in a softly lit lavender nursery corner. The SINGLE foreground bright pink long shaggy fur teddy bear, round ears with smooth pink inner ear, smooth pink muzzle, glossy black triangular nose, stitched smile and tiny dark eyes partly hidden by fur, dark sheer green/plum bow, seated with two arms and large feet. Preserve actual face proportions fur colour bow and front pose. Background shop bears are not part of product. Keep exact original seated front-facing pose, count and colours. No children or people, no other toys, no invented views or clothes. Remove hand shop setting and price overlay. Whole product visible; background tasteful and minimal.",
+      "sha256": "cf27058647a9d6cd0d5b75db4eff8afdc1f5434701f51224aa710fbc57bc267d",
+      "checked": true,
+      "visual_review": "Seated product configuration, count, colours and fabric details retained; cream bench nursery context checked."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-2f20a80b-8674-4196-bd92-0555e7d4a468.png",
+      "prompt": "Tight macro photograph cropped to this foreground pink teddy bear's muzzle nose smile and sheer dark bow. Fill frame with bright pink shaggy fibres, smooth pink muzzle, glossy black nose, black stitched smile and bow knot. Original front view texture only, no full bear, no extra parts, no text.",
+      "sha256": "df42128dca948383b39d066abe509323cfe25217a2cf596a8f41cf3fac527828",
+      "checked": true,
+      "visual_review": "Macro muzzle nose bow and shaggy pink fibres match reference materials."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-2e0c76e6-7ea0-49ad-9390-0e1c3085c6ee.png",
+      "prompt": "Create promotional ecommerce product photograph with lavender and cream background and compact dark plum heading exactly 'Pink Teddy Bear' and subtitle 'PRODUCT COLLECTION'. The SINGLE foreground bright pink long shaggy fur teddy bear, round ears with smooth pink inner ear, smooth pink muzzle, glossy black triangular nose, stitched smile and tiny dark eyes partly hidden by fur, dark sheer green/plum bow, seated with two arms and large feet. Preserve actual face proportions fur colour bow and front pose. Background shop bears are not part of product. Full product visible, preserve original front seated pose, count fabric and colour. Remove hand shop background inventory and price overlay; no added product parts or other text. Refined clean layout with realistic shadow.",
+      "sha256": "41d040b3b9290ca88d817c77edf834f068dae04b48f8c50c0c7124f56825f593",
+      "checked": true,
+      "visual_review": "Product count pose fabric colours and accessories retained; correct plum heading and PRODUCT COLLECTION."
+    }
+  ],
+  "status": "five images saved and visually checked"
+}

@@ -1,0 +1,50 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250117-WA0090.jpg": "df731aa3cc9f89c6d137fbd1d74f655f6f958417900d62cb3e7fe54a8a08ef4b"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-b52119b5-e8b6-4532-8a58-e078af64faf1.png",
+      "prompt": "Edit reference into premium clean white seamless ecommerce photograph. Whole assortment in clear package: twelve white Fashion Jewelry cards arranged two columns of six, each holds two translucent butterfly hair claws (24 total), preserve original row colours amber pink blue purple yellow as reference, gold springs and butterfly wings. Keep exact original front view, count, arrangement, shapes and colours; do not invent backs or extra items. Remove hand, shop setting, adjacent shop boxes and old price text overlay. No added text. All actual product visible, soft realistic shadows, sharp material details.",
+      "sha256": "041a1291768020e4bc89f7ec96724221d937c5c30b855789d85bd5da19efa688",
+      "checked": true,
+      "visual_review": "Twelve cards with24butterfly claws retained in two columns six rows, transparent colours and springs checked."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-57cdfcb0-722d-4cd3-8bb3-e31bd0381356.png",
+      "prompt": "Edit reference into styled ecommerce photograph on pale lavender ground with soft cream fabric at edges. Whole assortment in clear package: twelve white Fashion Jewelry cards arranged two columns of six, each holds two translucent butterfly hair claws (24 total), preserve original row colours amber pink blue purple yellow as reference, gold springs and butterfly wings. Keep exact original front-facing arrangement and product parts, no invented views. Remove hands shop surrounding boxes and old price overlay. Whole assortment visible, no new text. Sharp realistic materials, soft studio light.",
+      "sha256": "fe3e5575f1719d8d4f32956778e21ca6f91d3ee9ad4d73ac874b4544230e41ac",
+      "checked": true,
+      "visual_review": "Two columns of six cards with pairs of claws retained, transparent colour sequence checked."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-0ab8a139-075f-4e4f-a9d1-98f2d16275c4.png",
+      "prompt": "Edit reference into realistic lifestyle overhead flatlay on a cream tabletop near a softly lit window, hint of lavender fabric to side. Whole assortment in clear package: twelve white Fashion Jewelry cards arranged two columns of six, each holds two translucent butterfly hair claws (24 total), preserve original row colours amber pink blue purple yellow as reference, gold springs and butterfly wings. Keep exact original front-facing layout, materials and actual count, full product. No invented backs, no hands, no shop, no surrounding shop boxes, no old price overlay, no added text. Props minimal and outside assortment.",
+      "sha256": "08c6192297487fd331d693c438c0282a58b87230fdf53f2dab536fd74d0aca5e",
+      "checked": true,
+      "visual_review": "Whole assortment retains count, original front-facing configuration and colour arrangement; lifestyle context checked."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-11bc716a-6a7c-4c2a-98b4-7047f54c28b1.png",
+      "prompt": "Tight macro detail photograph cropped to ONE blue green translucent butterfly hair claw on its white retail card in reference. Fill frame with actual translucent butterfly wing surfaces and gold spring mechanism in original front angle. Retain small patch of packaging. No full assortment, no invented backside, no text overlays. Sharp realistic resin and metal detail.",
+      "sha256": "018c255dfcf32ebee2566b28e0d73e67bab4d1f2fa35bf34b38e3d2d3bbeaaf9",
+      "checked": true,
+      "visual_review": "Macro blue/green butterfly claw shows translucent wings and gold spring on card."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-a06a2af5-4a78-4eab-b3bc-24ca130e6b19.png",
+      "prompt": "Create promotional ecommerce product photograph with lavender and cream graphic background and compact dark plum heading exactly 'Butterfly Hair Claw Collection' and subtitle 'PRODUCT COLLECTION'. Whole assortment in clear package: twelve white Fashion Jewelry cards arranged two columns of six, each holds two translucent butterfly hair claws (24 total), preserve original row colours amber pink blue purple yellow as reference, gold springs and butterfly wings. Full assortment visible, original count front-facing arrangement and materials. Remove hand shop adjacent boxes and old price overlay; no extra product parts, no other text. Clean refined layout, realistic shadows.",
+      "sha256": "936c6b8dc1e7e5d58408149093f2e15f95e2a885d00905f148402d702998f4a5",
+      "checked": true,
+      "visual_review": "Whole assortment count colour order and arrangement retained; plum product heading and PRODUCT COLLECTION legible."
+    }
+  ],
+  "status": "five images saved and visually checked"
+}

@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250103-WA0425.jpg": "b5415643853e36e1c6e51d555103134ebf3335a4ffa58a137208814bb5db1420"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source": [
+        "Originals/IMG-20250103-WA0425.jpg"
+      ],
+      "prompt": "Create square premium white-background ecommerce photo of the FIVE standalone printed fabric knotted elastic headbands shown in reference collage. Preserve EXACT five patterns: navy multicolour tropical, cream red orange floral green leaves, yellow floral, white green botanical, dark navy botanical. All five shown as flat full closed loops, same twisted top and elastic lower edge. Remove human/model part of collage and all prices; no sixth item, no invented designs. Realistic fabric, soft studio shadows.",
+      "sha256": "470f739c11fd38f609fae5803d8b9f37bb50a1ef3e1b17a4ebca491e0130eb4c",
+      "checked": true,
+      "visual_review": "Compared against original; correct full visible assortment and exact colours retained."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square premium ecommerce photo of EXACT whole assortment in reference on lavender and cream studio background. Same quantity, each exact colour, pattern, shape, material, packaging and arrangement. Do not add/remove anything. Realistic soft studio shadows, ample square margins, no new text.",
+      "sha256": "bd60f982150c144e47202c307ac1d8af932cb571c6d87e658372584b8733741f",
+      "checked": true,
+      "visual_review": "Compared to source; quantity, colours and patterns retained on lavender cream."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square lifestyle ecommerce photograph. Entire EXACT assortment from reference laid on cream dressing table beside softly blurred mirror in lavender bedroom with warm daylight. Preserve exact visible count, colours, patterns, designs, geometry, packaging and arrangement. No person, no hands, no added product pieces or new text. Product fully in frame, realistic photography.",
+      "sha256": "a641b87cb5dd3fda8797a73522f03806fef13fdb264e5245fa0b3a5053f14af7",
+      "checked": true,
+      "visual_review": "Entire assortment compared with original, exact visible count/colour/design retained."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square extreme macro crop of ONLY the top twist knot of the yellow floral fabric headband from reference. Fill frame with yellow woven fabric, white blossom print, dark botanical outlines and seam/fold texture, exact visible pattern. No entire headband or assortment, no text. Soft cream background professional macro photography.",
+      "sha256": "62d19024c6d48fc575531f9d0b18236ac0d8f03dc6e3b05b26e6602bb7c8a3ec",
+      "checked": true,
+      "visual_review": "Tight detail reviewed against source; visible product material, colour and design retained."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square promotional premium product photograph. Preserve EXACT entire assortment from reference: ALL FIVE headbands, their exact floral/botanical prints, two top and three bottom. Lavender cream background. Reduce product scale to fit complete assortment and top margin. Small elegant dark plum heading Printed Fabric Headbands with small PRODUCT COLLECTION subheading. No price or other text. Realistic studio shadows.",
+      "sha256": "4d65a013a0fad52906e802eff3de9872627c7c19fcd88b297897603136dab17a",
+      "checked": true,
+      "visual_review": "Promotional full assortment reviewed, exact count/designs/colours retained and correct heading."
+    }
+  ],
+  "status": "five images generated and visually checked"
+}

@@ -1,0 +1,53 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250127-WA0293.jpg": "4a6ffa5c9b373618734a184e0d82145f5ef95536c09af1726e106709b15b64a9"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source": [
+        "Originals/IMG-20250127-WA0293.jpg"
+      ],
+      "prompt": "Square white-background ecommerce photograph of the exact single tan shaggy plush dog toy in reference. Preserve same front three-quarter view, floppy ears, black shiny eyes/nose, small red mouth/tongue, white patch under chest and tan paws, exact geometry and fur. Remove supporting hand, shop and price only. No invented hidden parts or extra toys, entire visible dog in frame. Realistic soft studio shadows.",
+      "sha256": "b0061b7903b10729eb27b736e4718890b174347f15ef3585f9c6948294aa2eb1",
+      "checked": true,
+      "visual_review": "Product visible shape, colour, fur, face and count compared to original and retained."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square premium ecommerce photograph. EXACT single tan shaggy plush dog from reference on lavender and cream studio background. Preserve same pose, visible shapes, fur, faces, colours, materials and arrangement, no invented hidden features or extra products. Fully in frame, realistic soft studio shadows, no text.",
+      "sha256": "5161f8a18cb52fbf69ed48b2eb67e5c227daefa82b241ce0a1691b4b9a9a6bef",
+      "checked": true,
+      "visual_review": "Source comparison confirms visible fur, colours, count and shape retained."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square lifestyle product photograph of EXACT single tan shaggy plush dog in same poses/arrangement on cream bedroom bench, softly blurred lavender bedroom and morning window light. All original colours, faces, visible fur and proportions preserved. Entire product assortment fully in frame, no extra toys, no hands/person, no text or invented hidden features.",
+      "sha256": "65709ef994f039192867fd9359d54dce814f4cfce428cdb065ebd044481f29a6",
+      "checked": true,
+      "visual_review": "Worker1 confirmed lifestyle output visually matches actual photographed product before interruption."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-d31410f3-7960-4c91-9523-e0ddeb1e60e7.png",
+      "prompt": "Create ONE clean website product photograph from actual reference. Subject: Single tan shaggy plush dog, black eyes and nose, red mouth and tan floppy ear. Preserve actual product count, shape, colours and materials. Remove hand, shop, old price overlay and unrelated background products. No invented reverse sides or extra products. TIGHT MACRO DETAIL crop of only existing dog's face, nose and fur filling frame. Crop away most of body and background. No whole toy, collage or inset.",
+      "sha256": "641131e1943da2092cf833d889c953c19974e5bb776d226ca11e953f936c491b",
+      "checked": true,
+      "visual_review": "Compared with actual reference: visible product identity, shapes, colours and material retained; website-ready composition."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-79491ddb-fa23-441e-9c16-1735dc6a9a9f.png",
+      "prompt": "Make ONE simple clean website promotional product photo from actual reference. Subject: Single tan shaggy plush dog, black eyes and nose, red mouth and tan floppy ear. Keep actual product count, shapes, colours and material. Remove hand/shop/old price overlays/unrelated background products. Whole subject centred with margins on pale lavender and cream studio background. Compact dark plum heading 'TAN PLUSH DOG', smaller 'PRODUCT COLLECTION'. No claims, extra items or invented reverse views.",
+      "sha256": "c5e8ade5d5839e5f0d07c8f288aecb78c44426b828265eb6f9dd12638b5bf3e4",
+      "checked": true,
+      "visual_review": "Compared with original: main product count, arrangement, colours and shape preserved; clear website promotional composition."
+    }
+  ],
+  "status": "five images generated and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

@@ -1,0 +1,42 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250201-WA0576.jpg": "18cf6e684322a4793060c28ba2176840ee991464c24a0f8d1ef8f2a476a22fdb"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-e0934b35-3c27-430e-ba75-f2e3c4553574.png",
+      "prompt": "Edit reference into website-ready clean white seamless ecommerce photograph. Exactly FOUR packaged AISU/AISHU hair combs side by side on tall white cards, alternate ivory teeth amber handle then amber teeth ivory handle. Character faces in handle ends left-to-right panda, rabbit, white cat, brown bear. Preserve exact comb shapes tooth spacing card packaging front view and original arrangement. Keep card printing, remove surrounding marketing price and specification overlays. Keep exact original count, geometry and colours. Remove shop background and old price or descriptive text overlays outside actual packaging. No added text. Full visible assortment, realistic soft shadows, natural sharp materials.",
+      "sha256": "337e4f8075c2f173a1ff37b0f1e0086b11c19288c9a0205d8956b26a9cc99652",
+      "checked": true,
+      "visual_review": "Basic check: four combs retain ivory/amber sequence and panda rabbit cat bear handle faces."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/worker5-0118-styled.png",
+      "prompt": "Website-ready styled ecommerce photograph on pale lavender ground with cream fabric edge. Exactly FOUR packaged AISU/AISHU hair combs side by side on tall white cards, alternate ivory teeth amber handle then amber teeth ivory handle. Character faces in handle ends left-to-right panda, rabbit, white cat, brown bear. Preserve exact comb shapes tooth spacing card packaging front view and original arrangement. Keep card printing, remove surrounding marketing price and specification overlays. Preserve original product count shape colours and front view. Remove shop background and external price/specification overlays. No new text. Full visible assortment, simple realistic lighting.",
+      "sha256": "12d87a453e00cd71efd70a1fdede0ddab962590d5c6fe4c0fdca9ec978e38426",
+      "checked": true,
+      "visual_review": "Basic website check: main grouping shapes colours and packaging identity retained."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-7b89b529-3ed3-4cd0-83ad-deabb00dba9f.png",
+      "prompt": "Website-ready lifestyle product flatlay on a cream dressing table near a window, hint of lavender cloth at edge. Exactly FOUR packaged AISU/AISHU hair combs side by side on tall white cards, alternate ivory teeth amber handle then amber teeth ivory handle. Character faces in handle ends left-to-right panda, rabbit, white cat, brown bear. Preserve exact comb shapes tooth spacing card packaging front view and original arrangement. Keep card printing, remove surrounding marketing price and specification overlays. Keep original product geometry, assortment grouping, shapes and actual colours. No people, no extra products or invented views. Remove external price/specification overlays, no added text.",
+      "sha256": "fba6ecbc959c8087652c1d384261204e731bcb49533a54de3025c11eaea79157",
+      "checked": true,
+      "visual_review": "Basic website check: main product group, colours shapes and original packaging preserved in cream tabletop context."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-759f2058-a347-4c23-b7dc-87c27f57d8f5.png",
+      "prompt": "Tight macro photograph cropped to first comb's amber rubberised handle with white panda face in reference. Show exact panda eyes nose smile and moulded smooth handle indentation with a small patch of white retail card. Fill frame, no full comb collection, no invented parts or text. Website product detail.",
+      "sha256": "9f653fc15d00ca1462d2e090bea9fd0793aace06e14ebe19ac23e41cc747c676",
+      "checked": true,
+      "visual_review": "Basic macro check: actual source material/colour identity and close-up crop retained."
+    }
+  ],
+  "status": "in progress"
+}

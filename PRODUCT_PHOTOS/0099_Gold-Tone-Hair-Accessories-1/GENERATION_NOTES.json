@@ -1,0 +1,53 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250128-WA0558.jpg": "01b5d6da09587b5b3afe16213bdf1ad3ab3d6951909af50de3d3b8e87565d3db"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source": [
+        "Originals/IMG-20250128-WA0558.jpg"
+      ],
+      "prompt": "Square website product photo on clean white background. Preserve entire EXACT12-row assortment of cream bead bracelets on single white display card inside clear bag. Top6rows center cream turtle beads, lower6center cream starfish; exact visible shells, cream beads and silver spacers retained in same arrangement. Remove hand, shop and price overlay. No invented jewellery. Whole pack fully in frame, realistic soft shadows.",
+      "sha256": "4af8a6ea361ff9c041bf664150ed8951da92574a36f438570fbbf44f22269422",
+      "checked": true,
+      "visual_review": "Entire assortment compared to original; count and primary shape/colour/material retained."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square website product photo. Entire EXACT assortment from reference on soft lavender cream studio background. ALL12 bracelets on original card in clear bag,6turtle rows then6starfish rows with shells/beads, exact colours. Preserve visible shapes/count/materials and arrangement. Soft studio shadows. No new text.",
+      "sha256": "9dc303c5c2acfbb36d1a8175e8c808030489a66e8402ebf0635fe3cf4d123876",
+      "checked": true,
+      "visual_review": "Reviewed visible assortment, count and identity retained."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square website lifestyle product photograph. Entire EXACT assortment on cream dressing table, blurred lavender bedroom and window daylight. ALL12bracelets on original display card/clear bag,6turtle rows then6starfish rows with original shells/beads. Preserve count, colours, shapes, materials and arrangement. No hands, no extra products, no new text.",
+      "sha256": "04cddeaa88f95f76e40f9c8b41211172dc5af15e5921b4585e3df4e50662ce95",
+      "checked": true,
+      "visual_review": "Reviewed whole assortment against source, website suitable, count and product preserved."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square tight macro crop ONLY cream turtle bead in upper bracelet with adjacent original shell and cream bead/silver spacer from reference. Exact visible shape, materials and colours. No whole assortment or newly invented parts, no text, realistic studio macro.",
+      "sha256": "6f114bbd2a31f66af1b94d7fe8a3d7e279de0070e7ad65a6b02f6077849d72fd",
+      "checked": true,
+      "visual_review": "Tight macro reviewed, key visible shape/material/colour match source."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square website promotional product photo. Preserve EXACT entire assortment: ALL12shell bead bracelets on original card in clear bag,6turtle then6starfish rows, same shells/beads/colours. Lavender cream background. Small dark plum heading Seashell Bead Bracelets and PRODUCT COLLECTION. Reduce product scale to fit full assortment and heading. No price or other added text.",
+      "sha256": "e0a2752eab17c5e09c390a9591ced18200e23f912e81d21bf6336b5e49d244ba",
+      "checked": true,
+      "visual_review": "Whole assortment and primary product shape/count/colours retained; website-ready promotional image. Decorative shell props outside0099 package."
+    }
+  ],
+  "inventory_mislabel": "Original shows shell/turtle/starfish beaded bracelets, not gold-tone hair accessories.",
+  "status": "five images generated and visually checked"
+}

@@ -1,0 +1,49 @@
+{
+  "tool": "built-in image_gen",
+  "status": "five images generated and visually checked",
+  "original_hashes": {
+    "Originals/IMG-20250127-WA0382.jpg": "1f31660ad8ebd774de21f067e997ecbb7838d7b6828eb5825212a4403de2bb2b"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source": "/workspace/generated_images/exec-0b867fe9-7a91-49e4-819f-9f35ebe7ead6.png",
+      "prompt": "Edit reference into one clean photoreal website product photograph. Only the three seated foreground plush dolls, one red outfit/red hair at left, orange top/yellow floral skirt/pink hair center, pink top/pink floral skirt/red hair right. Preserve matching little hats, embroidered blue eyes and pink mouths, short fuzzy hair, peach skin fabric, outstretched arms and original seated pose. Background basket toys are shop stock and should be removed. Entire assortment is ONE product. Retain original count, shape, colours, material, package, proportions and arrangement. Pure white background, soft shadows, full assortment inside frame. Remove shop, hands and price overlays. No added products, parts or invented back views. No added text.",
+      "sha256": "e0b51c2286ad5a14e805c22ab0b6cb64d522806df609a16d27927562618e3c4b",
+      "checked": true,
+      "visual_review": "Three foreground seated dolls retain red, orange/yellow and pink outfits, matching hats, embroidered faces and original shapes. Basic website suitability checked; white background clean."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source": "/workspace/generated_images/exec-a49a16d1-14a6-41a2-99ab-9de18b1e149c.png",
+      "prompt": "One clean realistic website styled-background product photo of exact reference. Only the three seated foreground plush dolls, one red outfit/red hair at left, orange top/yellow floral skirt/pink hair center, pink top/pink floral skirt/red hair right. Preserve matching little hats, embroidered blue eyes and pink mouths, short fuzzy hair, peach skin fabric, outstretched arms and original seated pose. Background basket toys are shop stock and should be removed. Whole assortment ONE product. Preserve count, shape, material, colours and arrangement. Warm cream background with lavender fabric outside product, natural shadows. Full assortment visible. Remove old price, hands, shop. No extra products, parts, text or new views.",
+      "sha256": "e689797c3bb8ab881ccd969860a64389efa8841614cf7a25375fd6261bdc050f",
+      "checked": true,
+      "visual_review": "Three foreground seated dolls retain red, orange/yellow and pink outfits, matching hats, embroidered faces and original shapes. Basic check passed with cream lavender setting."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source": "/workspace/generated_images/exec-fbd0c6fa-5c53-4a34-a660-de125b4c8f70.png",
+      "prompt": "One clean realistic website lifestyle product photo of exact reference. Only the three seated foreground plush dolls, one red outfit/red hair at left, orange top/yellow floral skirt/pink hair center, pink top/pink floral skirt/red hair right. Preserve matching little hats, embroidered blue eyes and pink mouths, short fuzzy hair, peach skin fabric, outstretched arms and original seated pose. Background basket toys are shop stock and should be removed. Preserve count, colours, shape, material and arrangement. Full assortment on tidy cream bedroom surface beside lavender linen and closed book well beyond product. Soft daylight, whole set inside frame. No people, hands, old prices, shop, extra toys/accessories or invented parts. No text.",
+      "sha256": "ebb11dcb0bf823025bf15a24ce8e500735e4b8462f469c2649bf6a8c33ef9aa9",
+      "checked": true,
+      "visual_review": "Three foreground seated dolls retain red, orange/yellow and pink outfits, matching hats, embroidered faces and original shapes. Lifestyle setting checked; products visible, minor cosmetic package lettering accepted."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source": "/workspace/generated_images/exec-1380890d-4da0-43c3-a27a-df5567263ec6.png",
+      "prompt": "One realistic tight macro detail crop of exact reference product. Only the three seated foreground plush dolls, one red outfit/red hair at left, orange top/yellow floral skirt/pink hair center, pink top/pink floral skirt/red hair right. Preserve matching little hats, embroidered blue eyes and pink mouths, short fuzzy hair, peach skin fabric, outstretched arms and original seated pose. Background basket toys are shop stock and should be removed. DETAIL ONLY tightly zoom on the central pink-haired doll face, orange bodice and small fruit applique. Crop most of full assortment out. Preserve visible original geometry, material, colour and construction. No invented backs, no new parts or accessories. Remove shop, hand, price. Clean soft cream lighting, usable website detail photo.",
+      "sha256": "bf630d8295562bc53eb709a7808e50db84f58059dc3a946ab43efbc042168369",
+      "checked": true,
+      "visual_review": "Macro checked against source: the central pink-haired doll face, orange bodice and small fruit applique retains original visible shape, colour and material."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source": "/workspace/generated_images/exec-18be5ee2-08d9-4c83-b128-728756d48e9d.png",
+      "prompt": "One clean realistic promotional website product photo of exact reference. Only the three seated foreground plush dolls, one red outfit/red hair at left, orange top/yellow floral skirt/pink hair center, pink top/pink floral skirt/red hair right. Preserve matching little hats, embroidered blue eyes and pink mouths, short fuzzy hair, peach skin fabric, outstretched arms and original seated pose. Background basket toys are shop stock and should be removed. Whole assortment ONE product; preserve count, colours, shapes and arrangement. Full assortment visible on cream and lavender background with compact dark plum heading 'Colourful Hat Dolls' and smaller 'PRODUCT COLLECTION'. No price, sale claims, shop, hands, extra products or invented parts.",
+      "sha256": "9b0501b1c94a29ec8a8e846d273308bb52dda68f88dcac0778c9d11a35ecda43",
+      "checked": true,
+      "visual_review": "Three foreground seated dolls retain red, orange/yellow and pink outfits, matching hats, embroidered faces and original shapes. Promotional heading readable, product unobscured; website-ready basic check."
+    }
+  ]
+}

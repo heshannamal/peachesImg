@@ -1,0 +1,49 @@
+{
+  "tool": "built-in image_gen",
+  "status": "five images generated and visually checked",
+  "original_hashes": {
+    "Originals/IMG-20250106-WA0307.jpg": "625a15b68473c5a35bc81b0047c821b2dc628fb00a6e2c5212982188279b8239"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source": "/workspace/generated_images/exec-2c7f9937-6ace-41e0-8274-c9e1d62a24d0.png",
+      "prompt": "Edit reference into one premium photoreal ecommerce photo. Six closed small square flap wallets, exact original three rows by two columns: two black wallets left top/middle, two light gray right top/middle, tan lower left, burgundy lower right. Preserve silver snap circular button, flap shape, white REAL CLUB printing, stitching, texture and dimensions. Remove smiley emoji overlay without inventing any new features; keep all wallets closed. Entire assortment is ONE product. Retain exact geometry, original count, colours, material, package details, proportions and arrangement. Pure white seamless background, soft contact shadows, whole assortment sharp and inside frame. Remove price overlays, emoji, hands and shop. No added products, backs, parts, or text.",
+      "sha256": "1e8201dcdbd1436175aebabcf02f5695799f6847fdee26e2dc75b6f33b630a98",
+      "checked": true,
+      "visual_review": "Compared with original: full assortment retained with matching colour, arrangement, shape and visible materials. White background, old overlays removed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source": "/workspace/generated_images/exec-52a2f74c-d64d-45c0-a8c6-2d9f294153d8.png",
+      "prompt": "One premium photoreal ecommerce styled-background photograph of exact reference. Six closed small square flap wallets, exact original three rows by two columns: two black wallets left top/middle, two light gray right top/middle, tan lower left, burgundy lower right. Preserve silver snap circular button, flap shape, white REAL CLUB printing, stitching, texture and dimensions. Remove smiley emoji overlay without inventing any new features; keep all wallets closed. Entire assortment ONE product. Preserve original count, positions, geometry, shape, material, colours, markings and packaging. Warm cream surface with pale lavender fabric accents beyond edges, soft contact shadows. Entire product sharp, frame comfortably around full assortment. Remove price, smiley emoji, shop, hands. No invented hidden objects, parts, or product views. No text overlay.",
+      "sha256": "870ad4bdf4aa5742114cbfba474664c4ab56a87002d50b90c4c5eb573fa092a0",
+      "checked": true,
+      "visual_review": "Visually checked exact assortment, count, arrangement, visible shape, texture, colour and packaging; cream lavender styling outside product."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source": "/workspace/generated_images/exec-f1be74d8-a192-470b-a736-d3ccffffc7d4.png",
+      "prompt": "Create one premium photoreal lifestyle ecommerce photograph of exact reference product. Six closed small square flap wallets, exact original three rows by two columns: two black wallets left top/middle, two light gray right top/middle, tan lower left, burgundy lower right. Preserve silver snap circular button, flap shape, white REAL CLUB printing, stitching, texture and dimensions. Remove smiley emoji overlay without inventing any new features; keep all wallets closed. Keep entire assortment, exact arrangement and all visible shapes, count, material and colour. Place whole set flat on cream vanity surface with closed beige book and lavender linen well outside product edges. Soft window daylight, product sharp and dominant, whole set inside frame. No wearing demonstration, no people, no hands, no invented backs, hidden parts, extra products or text overlays. Remove price and smiley emoji.",
+      "sha256": "fa7ed372812cf4ceeb630d6022d39482626446da7f530bcdbdb05f0c3536c858",
+      "checked": true,
+      "visual_review": "Visually compared full assortment, matching positions, closed-wallet front details or original necklace cluster and tags. Lifestyle setting unobscured."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source": "/workspace/generated_images/exec-74b2718f-678e-4f6b-abb4-ac790c86bfaa.png",
+      "prompt": "One photoreal tight macro product-detail crop from exact reference. Six closed small square flap wallets, exact original three rows by two columns: two black wallets left top/middle, two light gray right top/middle, tan lower left, burgundy lower right. Preserve silver snap circular button, flap shape, white REAL CLUB printing, stitching, texture and dimensions. Remove smiley emoji overlay without inventing any new features; keep all wallets closed. DETAIL ONLY: tightly zoom on the tan wallet front showing silver snap button and stitching. Crop out most of entire assortment, show small close detail region filling frame. Preserve exact original construction, visible materials, colours, shapes. No invented backs, no extra parts, no new pieces, no hand, price or emoji. Crisp premium macro product photography with soft cream lighting. Must not be whole-pack photo.",
+      "sha256": "8f895403d59657dabb67ec61f35e9f4d106564b13d9829476416f98df1fdea88",
+      "checked": true,
+      "visual_review": "Tight macro visually checked with original visible details: matching material, colours, closed flap or pendant geometry. No new view invented."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source": "/workspace/generated_images/exec-0961c22d-4854-4e7f-af96-385a4ffe25c0.png",
+      "prompt": "Create one premium promotional ecommerce photograph of exact reference. Six closed small square flap wallets, exact original three rows by two columns: two black wallets left top/middle, two light gray right top/middle, tan lower left, burgundy lower right. Preserve silver snap circular button, flap shape, white REAL CLUB printing, stitching, texture and dimensions. Remove smiley emoji overlay without inventing any new features; keep all wallets closed. Whole assortment ONE product. Preserve original count, arrangement, colour, material, shapes, marks and packaging. Full assortment inside frame on lavender and cream minimal background. Compact dark plum heading 'Small Flap Wallets' and smaller 'PRODUCT COLLECTION', well separated from product. Remove price, emoji, hands, shop. No extra products, no invented parts, no sale claims.",
+      "sha256": "e76c9ed6fcd55fcf6272b40410a0a9001f4b6ea900fea558bfb900f7aea0b600",
+      "checked": true,
+      "visual_review": "Visually compared assortment geometry, colours and original details. Promotional heading legible, all products visible, no old overlays."
+    }
+  ]
+}

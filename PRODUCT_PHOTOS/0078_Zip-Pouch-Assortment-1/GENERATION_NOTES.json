@@ -1,0 +1,50 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250124-WA0050.jpg": "8983b3ca2ee43a0c303c13e0470d4d3912c4f0f8cf8b239fe0a9ad16b1143c69"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-a934b897-bff3-48e0-9d50-3125d8507341.png",
+      "prompt": "Edit reference into premium clean white seamless ecommerce photograph. Whole assortment of exactly four open tri-fold wallets stacked as four rows: black, navy, dark brown, tan. Preserve open shapes, left fold transparent pockets, centre portrait photo inserts, right horizontal zip and stitched card slots, exact visible layout and materials. Wallets are the product, not shop boxes. Keep exact original front view, count, arrangement, shapes and colours; do not invent backs or extra items. Remove hand, shop setting, adjacent shop boxes and old price text overlay. No added text. All actual product visible, soft realistic shadows, sharp material details.",
+      "sha256": "0eac646ccbcd8b980b2776464dc4c7ee4ba9909672f263041b9a14f844c4325b",
+      "checked": true,
+      "visual_review": "Four open wallets remain in original colour order, transparent pockets, central photo inserts, zips and card slots preserved."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-60e22c4b-090f-4b5a-b45b-47533f60ffcd.png",
+      "prompt": "Edit reference into styled ecommerce photograph on pale lavender ground with soft cream fabric at edges. Whole assortment of exactly four open tri-fold wallets stacked as four rows: black, navy, dark brown, tan. Preserve open shapes, left fold transparent pockets, centre portrait photo inserts, right horizontal zip and stitched card slots, exact visible layout and materials. Wallets are the product, not shop boxes. Keep exact original front-facing arrangement and product parts, no invented views. Remove hands shop surrounding boxes and old price overlay. Whole assortment visible, no new text. Sharp realistic materials, soft studio light.",
+      "sha256": "45b9df3e7ae5383ad478b97b78cafd76e4f22fe18c499e4300f16ed4bf59fb9d",
+      "checked": true,
+      "visual_review": "Four open wallets retain order, centre inserts, left pocket and right zip arrangement on lavender/cream."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-2f530dea-7375-4f35-8568-0a4b1100d383.png",
+      "prompt": "Edit reference into realistic lifestyle overhead flatlay on a cream tabletop near a softly lit window, hint of lavender fabric to side. Whole assortment of exactly four open tri-fold wallets stacked as four rows: black, navy, dark brown, tan. Preserve open shapes, left fold transparent pockets, centre portrait photo inserts, right horizontal zip and stitched card slots, exact visible layout and materials. Wallets are the product, not shop boxes. Keep exact original front-facing layout, materials and actual count, full product. No invented backs, no hands, no shop, no surrounding shop boxes, no old price overlay, no added text. Props minimal and outside assortment.",
+      "sha256": "a067f0adbcb0b5e4fc2b83276453b706902193a84ec31545d88647a16dfb4f8d",
+      "checked": true,
+      "visual_review": "Whole assortment retains count, original front-facing configuration and colour arrangement; lifestyle context checked."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-86d8e5c7-3ddb-4204-8642-14c94c6b631f.png",
+      "prompt": "Tight macro detail photograph cropped to right-hand zip pocket and stitched card slots of the black top wallet in reference. Fill frame with black faux leather grain, stitching, zipper teeth and zip pull. Original front view only, no invented compartments, no full assortment, no added text. Clean soft studio light.",
+      "sha256": "b7e936be1d3f868fb6e2f94c26d3b6cbebb3467d89887da9ef79f1f85c65302f",
+      "checked": true,
+      "visual_review": "Macro black wallet zip and stitched surface checked against original right panel."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-d7317a8f-d498-4072-8ff2-74a0c0c8cefe.png",
+      "prompt": "Create promotional ecommerce product photograph with lavender and cream graphic background and compact dark plum heading exactly 'Wallet Collection' and subtitle 'PRODUCT COLLECTION'. Whole assortment of exactly four open tri-fold wallets stacked as four rows: black, navy, dark brown, tan. Preserve open shapes, left fold transparent pockets, centre portrait photo inserts, right horizontal zip and stitched card slots, exact visible layout and materials. Wallets are the product, not shop boxes. Full assortment visible, original count front-facing arrangement and materials. Remove hand shop adjacent boxes and old price overlay; no extra product parts, no other text. Clean refined layout, realistic shadows.",
+      "sha256": "4260d1436304e9377ca63531cdc36f9ae162f9bbe78f7b0597922137e143ac44",
+      "checked": true,
+      "visual_review": "Whole assortment count colour order and arrangement retained; plum product heading and PRODUCT COLLECTION legible."
+    }
+  ],
+  "status": "five images saved and visually checked"
+}

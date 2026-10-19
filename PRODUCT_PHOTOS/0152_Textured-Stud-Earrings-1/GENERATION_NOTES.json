@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250207-WA0897.jpg": "be036c464b0197663c9842737d36baaca1f7000588f1b480db2b87b9d0e5f922"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-1140952b-a3d9-4eeb-aaaf-a6d86b2cc0fc.png",
+      "prompt": "Edit reference into a website-ready product photograph. Exactly four fluffy oval hair scrunchies/accessories from reference: white fluffy loop with brown houndstooth bow, black fluffy loop with small cream bear and lavender bow, beige fluffy loop with small cream charm near bottom, taupe fluffy loop with cream brown polka-dot bow. These are not earrings. Preserve all four and exact materials and colors. Clean pure white seamless studio background, isolated entire assortment laid neatly flat, soft real shadows. No text. Remove hand, shop background, price overlays, stickers. Preserve product identity shape count and colors. One square photograph only.",
+      "sha256": "ac2bf2b5b43c1bd7251f43a9a5aad35b0ece6b703753d8e625eb361f451c19b6",
+      "checked": true,
+      "visual_review": "Visually reviewed: product subject, colors and count retained; suitable website composition; no hand, shop or price overlay. Detail is a tight crop when applicable."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-ed3021fb-305c-48e1-9e5a-d5eafc371557.png",
+      "prompt": "Edit reference into website-ready product photograph. Exactly four fluffy oval hair scrunchies/accessories from reference: white fluffy loop with brown houndstooth bow, black fluffy loop with small cream bear and lavender bow, beige fluffy loop with small cream charm near bottom, taupe fluffy loop with cream brown polka-dot bow. These are not earrings. Preserve all four and exact materials and colors. Simple lavender and cream studio arrangement, entire assortment, soft shadows, no text. Remove hand, shop, old price overlays and stickers. One square photo.",
+      "sha256": "54f5d523149650946e246bb3242c334e046d1bbcf789203a405b43bfecfb62e0",
+      "checked": true,
+      "visual_review": "Visually reviewed: product subject, colors and count retained; suitable website composition; no hand, shop or price overlay. Detail is a tight crop when applicable."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-405f2679-bf38-4052-bd21-4c715ea72ce0.png",
+      "prompt": "Edit reference into website-ready product photograph. Exactly four fluffy oval hair scrunchies/accessories from reference: white fluffy loop with brown houndstooth bow, black fluffy loop with small cream bear and lavender bow, beige fluffy loop with small cream charm near bottom, taupe fluffy loop with cream brown polka-dot bow. These are not earrings. Preserve all four and exact materials and colors. Entire assortment arranged on a cream bedroom vanity beside a subtle mirror and folded linen, daylight, no people or hands, no text. Remove hand, shop, old price overlays and stickers. One square photo.",
+      "sha256": "02733141707b7fa34b910b30607ea4592a47ab9c1547f107a3178d9999bcd152",
+      "checked": true,
+      "visual_review": "Visually reviewed: product subject, colors and count retained; suitable website composition; no hand, shop or price overlay. Detail is a tight crop when applicable."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-b9ebb348-2a09-4ea9-8c79-4be6ee01e5a4.png",
+      "prompt": "Edit reference into website-ready product photograph. Subject reference: Exactly four fluffy oval hair scrunchies/accessories from reference: white fluffy loop with brown houndstooth bow, black fluffy loop with small cream bear and lavender bow, beige fluffy loop with small cream charm near bottom, taupe fluffy loop with cream brown polka-dot bow. These are not earrings. Preserve all four and exact materials and colors. This is the DETAIL exception: Very tight macro crop of existing product surface and decoration, show only part of one existing item with realistic detail. Do not show whole assortment or full packaging. No text. Remove hand, shop, old price overlays and stickers. One square photo.",
+      "sha256": "9a709b920b9b55b69003fd9bd659d9eebdf2dca8f8049b04f744056e577c4d9b",
+      "checked": true,
+      "visual_review": "Visually reviewed: product subject, colors and count retained; suitable website composition; no hand, shop or price overlay. Detail is a tight crop when applicable."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-52700239-ad03-4791-a977-ed1fb8230da3.png",
+      "prompt": "Edit reference into website-ready product photograph. Exactly four fluffy oval hair scrunchies/accessories from reference: white fluffy loop with brown houndstooth bow, black fluffy loop with small cream bear and lavender bow, beige fluffy loop with small cream charm near bottom, taupe fluffy loop with cream brown polka-dot bow. These are not earrings. Preserve all four and exact materials and colors. Simple lavender cream promotional layout featuring entire assortment plus compact elegant descriptive title Fluffy Hair Accessories and smaller PRODUCT COLLECTION. No other text. Remove hand, shop, old price overlays and stickers. One square photo.",
+      "sha256": "b92440b5427672ff978e73379348c22cff3a8fba092180ef51bc28e7a44ec067",
+      "checked": true,
+      "visual_review": "Visually reviewed: product subject, colors and count retained; suitable website composition; no hand, shop or price overlay. Detail is a tight crop when applicable."
+    }
+  ],
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true
+}

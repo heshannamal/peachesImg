@@ -1,0 +1,49 @@
+{
+  "product_id": "0085",
+  "source": "Originals/IMG-20250127-WA0306.jpg",
+  "original_hashes": {
+    "Originals/IMG-20250127-WA0306.jpg": "fc90801c919bb1d40ac5fc196aebbdac6e456a56dbe65c07615df19afedd3286"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "cache_file": "/workspace/generated_images/exec-5ed1ae7d-b6ef-489c-9f48-ad2c11aba02d.png",
+      "sha256": "3a031130d4e97925879f8850803824b24848552a77fee91f9616585c271c9a7e",
+      "prompt": "Edit attached foreground product into premium ecommerce photograph pure white seamless background soft shadow. ONLY single foreground shaggy animal plush toy, not background toys: long burgundy wine and white mixed fur, grey/white forehead tuft, two large floppy ears with orange inner patches, orange elongated muzzle, glossy black eyes and nose, small red satin neck ribbon, short plush arms/body and very long furry tail draping down right. Same source front three-quarter face and visible shape/proportions, fur colour pattern, materials. Remove hand/watch/shop/background toys and 325Rs overlay; minimally reconstruct fur where hand covered lower body, no invented limbs/parts/reverse view, no extra products/text.",
+      "checked": true,
+      "visual_check": "Reviewed render: single foreground burgundy/white shaggy plush, orange muzzle and ears, black eyes/nose, red ribbon and long tail retained. Only fur reconstructed where source hand occluded body."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "cache_file": "/workspace/generated_images/exec-14615ab9-3f6f-433e-a654-85d7a673fe38.png",
+      "sha256": "770123a9ffb01cabe50d7c4fe910c647d1738939a219f9be465a73bedbdb839b",
+      "prompt": "Edit attached foreground product into premium ecommerce photograph pure white seamless background soft shadow. ONLY single foreground shaggy animal plush toy, not background toys: long burgundy wine and white mixed fur, grey/white forehead tuft, two large floppy ears with orange inner patches, orange elongated muzzle, glossy black eyes and nose, small red satin neck ribbon, short plush arms/body and very long furry tail draping down right. Same source front three-quarter face and visible shape/proportions, fur colour pattern, materials. Remove hand/watch/shop/background toys and 325Rs overlay; minimally reconstruct fur where hand covered lower body, no invented limbs/parts/reverse view, no extra products/text. BACKGROUND OVERRIDE: pale lavender premium studio background, warm cream surface, same single plush front face and long tail, no props or extra toys/text.",
+      "checked": true,
+      "visual_check": "Reviewed styled: matching single wine/white long-haired plush, orange muzzle/ears black eyes/nose red ribbon and long tail, lavender cream studio."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "cache_file": "/workspace/generated_images/exec-1228c115-31dc-48da-9b9e-6874c3ec61d2.png",
+      "sha256": "6c2c68e8f8af65745b6e04676d461803ac036f51b690cc0e0fb80e6fbf0b8518",
+      "prompt": "Edit attached foreground product into premium ecommerce photograph pure white seamless background soft shadow. ONLY single foreground shaggy animal plush toy, not background toys: long burgundy wine and white mixed fur, grey/white forehead tuft, two large floppy ears with orange inner patches, orange elongated muzzle, glossy black eyes and nose, small red satin neck ribbon, short plush arms/body and very long furry tail draping down right. Same source front three-quarter face and visible shape/proportions, fur colour pattern, materials. Remove hand/watch/shop/background toys and 325Rs overlay; minimally reconstruct fur where hand covered lower body, no invented limbs/parts/reverse view, no extra products/text. BACKGROUND OVERRIDE: lifestyle photograph of same single plush sitting on a cream bedroom chair, pale lavender room softly blurred, natural window light, no other toys or people. Preserve front face and long tail entirely in frame.",
+      "checked": true,
+      "visual_check": "Reviewed lifestyle: single matching burgundy white plush orange muzzle/ears red ribbon long tail on cream chair, no other toys/people or new parts."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-2ba13b6a-dde5-40be-80ca-075f254aa869.png",
+      "sha256": "6c06dd1936889e58e50758ac4d87409165297a6e96054dddd5631b97f1ea71ea",
+      "checked": true,
+      "visual_review": "Macro matches existing burgundy-white plush face and orange muzzle.",
+      "recovered_after_worker_limit": true
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-8374b1e9-9a12-4598-a4fe-f7fbcd58c41c.png",
+      "sha256": "ee89832e0aba0a8033fface17db79fee2991314c33f9b7ed1b419eb72ff6bb67",
+      "checked": true,
+      "visual_review": "Matching single burgundy white shaggy toy, orange muzzle, red ribbon and long tail; clear website promotional layout."
+    }
+  ],
+  "status": "five images generated and visually checked"
+}

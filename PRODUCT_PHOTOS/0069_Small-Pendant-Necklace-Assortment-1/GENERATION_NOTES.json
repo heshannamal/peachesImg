@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250111-WA0390.jpg": "12de692214e55aed6ae2abcab4be99efc79a60cd46d80ec489149809aa974826"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source": [
+        "Originals/IMG-20250111-WA0390.jpg"
+      ],
+      "prompt": "Edit into square white-background ecommerce photo. Keep exact six visible flower pendant necklaces on six fanned white cards in clear sleeves. Colours left to right black petals white center, pink pale blue center, cream pale blue center, green pink center, red yellow center, yellow white center. Preserve silver-toned chains, flower size and arrangement. Remove hand, shop and price overlay, don't invent hidden items. Show entire assortment, realistic soft studio shadows.",
+      "sha256": "63149ff9ea9e8ee9f77f3f68d30ee670eae66d130ca706a20a5618e7ffc2caf2",
+      "checked": true,
+      "visual_review": "Compared against original; correct full visible assortment and exact colours retained."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square premium ecommerce photo of EXACT whole assortment in reference on lavender and cream studio background. Same quantity, each exact colour, pattern, shape, material, packaging and arrangement. Do not add/remove anything. Realistic soft studio shadows, ample square margins, no new text.",
+      "sha256": "c3d2e72be3064e1720df9e78e8ced15fc987e7202188c94d27bd222baa7fba33",
+      "checked": true,
+      "visual_review": "Compared to source; quantity, colours and patterns retained on lavender cream."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square lifestyle ecommerce photograph. Entire EXACT assortment from reference laid on cream dressing table beside softly blurred mirror in lavender bedroom with warm daylight. Preserve exact visible count, colours, patterns, designs, geometry, packaging and arrangement. No person, no hands, no added product pieces or new text. Product fully in frame, realistic photography.",
+      "sha256": "851f7be13504262765bbe94bbeaff94cb78c0611fb2c77181aaa335407674f48",
+      "checked": true,
+      "visual_review": "Entire assortment compared with original, exact visible count/colour/design retained."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square tight macro crop ONLY the cream flower pendant with pale blue centre from reference, including its visible metal bail and few silver chain links. Exact cream petal shape and count, pale blue center and visible materials. No entire assortment, no text or invented hidden parts. Professional realistic macro on cream.",
+      "sha256": "e6931359a3ab6ddbe45f9d994c8e9f8660e3b01594e126be01817d02069dc00e",
+      "checked": true,
+      "visual_review": "Tight detail reviewed against source; visible product material, colour and design retained."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square promotional premium product photograph. Preserve EXACT entire assortment from reference: ALL SIX flower necklaces on six fanned cards, exact coloured flowers and chains. Lavender cream background. Reduce product scale to fit complete assortment and top margin. Small elegant dark plum heading Flower Pendant Necklaces with small PRODUCT COLLECTION subheading. No price or other text. Realistic studio shadows.",
+      "sha256": "b129dfa32ea570255d6403754c17f492bfc2a678e6624a077dee5b8a7c500847",
+      "checked": true,
+      "visual_review": "Promotional full assortment reviewed, exact count/designs/colours retained and correct heading."
+    }
+  ],
+  "status": "five images generated and visually checked"
+}

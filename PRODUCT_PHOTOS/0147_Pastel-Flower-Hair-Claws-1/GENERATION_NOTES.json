@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250207-WA0028.jpg": "bad51c39cac1cc933b21dad1e3062bfca09e76cae13c69782623165690779031"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-46ce6786-b020-426e-ba85-34b2ff923688.png",
+      "prompt": "Edit reference into a website-ready product photograph. Twelve translucent flower hair clips, six pairs in pink red, yellow, lavender, blue, magenta and peach; each flower has five rounded translucent petals on a white translucent spring clip with leaf stem. Preserve all twelve, matching source geometry and colors. Clean pure white seamless studio background, isolated entire assortment laid neatly flat, soft real shadows. No text. Remove hand, shop background, price overlays, stickers. Preserve product identity shape count and colors. One square photograph only.",
+      "sha256": "fc47ded3492c313031ca21767876384edf6859ee521a426ceb4b72b630cd421f",
+      "checked": true,
+      "visual_review": "Visually reviewed: product subject, colors and count retained; suitable website composition; no hand, shop or price overlay. Detail is a tight crop when applicable."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-e6ad1797-1863-40b0-a422-5849a50c03be.png",
+      "prompt": "Edit reference into website-ready product photograph. Twelve translucent flower hair clips, six pairs in pink red, yellow, lavender, blue, magenta and peach; each flower has five rounded translucent petals on a white translucent spring clip with leaf stem. Preserve all twelve, matching source geometry and colors. Simple lavender and cream studio arrangement, entire assortment, soft shadows, no text. Remove hand, shop, old price overlays and stickers. One square photo.",
+      "sha256": "8bbd4b947e79f692d8c1613eea0c38bb173be72a7fb85d7f423ce4e39f83d043",
+      "checked": true,
+      "visual_review": "Visually reviewed: product subject, colors and count retained; suitable website composition; no hand, shop or price overlay. Detail is a tight crop when applicable."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-4365d998-d1cd-430f-9372-9a1013d9f191.png",
+      "prompt": "Edit reference into website-ready product photograph. Twelve translucent flower hair clips, six pairs in pink red, yellow, lavender, blue, magenta and peach; each flower has five rounded translucent petals on a white translucent spring clip with leaf stem. Preserve all twelve, matching source geometry and colors. Entire assortment arranged on a cream bedroom vanity beside a subtle mirror and folded linen, daylight, no people or hands, no text. Remove hand, shop, old price overlays and stickers. One square photo.",
+      "sha256": "5835f5be161dfddbe0dbb5194428bcbfae49b590680500b797b1be95101c6f82",
+      "checked": true,
+      "visual_review": "Visually reviewed: product subject, colors and count retained; suitable website composition; no hand, shop or price overlay. Detail is a tight crop when applicable."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-8fb66bbd-3e39-4750-b94b-73991bf56082.png",
+      "prompt": "Edit reference into website-ready product photograph. Subject reference: Twelve translucent flower hair clips, six pairs in pink red, yellow, lavender, blue, magenta and peach; each flower has five rounded translucent petals on a white translucent spring clip with leaf stem. Preserve all twelve, matching source geometry and colors. This is the DETAIL exception: Very tight macro crop of existing product surface and decoration, show only part of one existing item with realistic detail. Do not show whole assortment or full packaging. No text. Remove hand, shop, old price overlays and stickers. One square photo.",
+      "sha256": "596217977d4e6d2bdfa693cdea6bf172f7427817d27ae888e4e82fea3fda611a",
+      "checked": true,
+      "visual_review": "Visually reviewed: product subject, colors and count retained; suitable website composition; no hand, shop or price overlay. Detail is a tight crop when applicable."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-eb61105e-9ead-4ced-9ab3-b2fb8988bdc4.png",
+      "prompt": "Edit reference into website-ready product photograph. Twelve translucent flower hair clips, six pairs in pink red, yellow, lavender, blue, magenta and peach; each flower has five rounded translucent petals on a white translucent spring clip with leaf stem. Preserve all twelve, matching source geometry and colors. Simple lavender cream promotional layout featuring entire assortment plus compact elegant descriptive title Pastel Flower Hair Clips and smaller PRODUCT COLLECTION. No other text. Remove hand, shop, old price overlays and stickers. One square photo.",
+      "sha256": "79e2043e489580f84a7e75a7d64ee0a516329b415688fad9e8de69af1548f1e4",
+      "checked": true,
+      "visual_review": "Visually reviewed: product subject, colors and count retained; suitable website composition; no hand, shop or price overlay. Detail is a tight crop when applicable."
+    }
+  ],
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true
+}

@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250130-WA0478.jpg": "f4d7a381094b8cc4500b665067b002b74101c78f85b40144169df6068c967dde"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source": [
+        "Originals/IMG-20250130-WA0478.jpg"
+      ],
+      "prompt": "Square website product photo of exact hanging tangled assortment of crystal-bead charm bracelets in reference on clean white background. Preserve original cluster, blue clear champagne purple black faceted beads, gold spacers, flower beads and visible dangling butterfly charms with rhinestones, exact visible arrangement and occlusion. Remove hand, shop, price, keep card and thread. Do not separate bracelets or invent hidden pieces. Fully framed, realistic soft studio light.",
+      "sha256": "525b9e033dbdf95158ccab8b56384575eb0a50ef20af444d7fbbf6cc3dd8a04f",
+      "checked": true,
+      "visual_review": "Visible product identity/arrangement/colours/materials compared with original; original occlusion retained."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square website product photo. Entire exact clustered faceted bead and gold butterfly charm bracelet assortment from reference on lavender cream background. Preserve visible geometry, count, colour, material, packaging and arrangement/occlusion; no invented hidden parts. Fully framed, soft light, no new text.",
+      "sha256": "1bd4c91b1740fd0e88fce23729aac8735eb128e8840b9c98fdb430d70c7fcb4f",
+      "checked": true,
+      "visual_review": "Visible product colour/shape/count/arrangement reviewed, website suitable."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square lifestyle website product photo. Entire exact hanging cluster of faceted bead and gold butterfly charm bracelets in same arrangement on cream vanity, blurred lavender room and soft daylight. Preserve all visible original shapes, colours, materials and occlusion; no added jewellery, no hidden parts invented. No hands/person or new text.",
+      "sha256": "dec9b69ee0362415f3a2a7928ba89beb79d69b7e1f4e6edb9ba35e934f8cf3bd",
+      "checked": true,
+      "visual_review": "Whole visible product assortment reviewed, identity/colours/arrangement retained."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square tight macro crop ONLY visible rhinestone butterfly charm and adjacent blue crystal beads/gold spacer from reference. Preserve exact charm shape, colour and materials. No whole assortment or hidden invented parts, no text, realistic detail photo.",
+      "sha256": "e0c1892859d51085fa779972f60787931e5860ea8f83a67a73b87aedaa43644b",
+      "checked": true,
+      "visual_review": "Tight macro reviewed against visible source; main shape/material/colour match."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square website promotional product photo. Entire exact faceted bead butterfly charm bracelet cluster from reference. Preserve visible count, main shape/colours/materials and original overlapping arrangement. Lavender cream background, reduce product scale to fit, small dark plum heading Butterfly Charm Bracelets and PRODUCT COLLECTION. No added products or price, realistic soft light.",
+      "sha256": "20cd87a651400dea54cd510f67688a71bc8b41aacb041d9037f26f3c92e3f1aa",
+      "checked": true,
+      "visual_review": "Promotional assortment reviewed, main identity/visible count/colour/shape retained, website suitable."
+    }
+  ],
+  "status": "five images generated and visually checked"
+}

@@ -1,0 +1,50 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250130-WA0343.jpg": "2e61f973fbc839d89d213e6284b80d669d78ff9d35e4e140d0a5acbea68763c0"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-dee9cf61-a81e-4a54-9958-37acd78a14a5.png",
+      "prompt": "Edit reference into website-ready clean white seamless ecommerce photograph. Whole open purple printed cardboard display box holding 24 nail polish bottles in original four rows of six slots. Preserve exact visible cap colours, round glass bottle shapes, box woman portrait and Nail Polish/24PCS packaging, arrangement and original front angle; do not add bottles or invent obscured contents. Keep exact original count, geometry and colours. Remove hand, shop background and old price text overlay. No added text. Full assortment visible, realistic soft shadows, natural sharp materials.",
+      "sha256": "5c6bfa5678c21947b773b5319e717faa3c00fe81d85248dd7b15977776a7ccfe",
+      "checked": true,
+      "visual_review": "Nail polish display retains24slots and caps, purple box identity and front view; basic website check passed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-a875bda3-304f-4cfb-a90b-e9d0dade6708.png",
+      "prompt": "Website-ready styled ecommerce photograph on pale lavender ground with cream fabric edge. Whole open purple printed cardboard display box holding 24 nail polish bottles in original four rows of six slots. Preserve exact visible cap colours, round glass bottle shapes, box woman portrait and Nail Polish/24PCS packaging, arrangement and original front angle; do not add bottles or invent obscured contents. Preserve original product count shape colours and front view. Remove hand shop and old price overlay. No new text. Full product visible, simple realistic lighting.",
+      "sha256": "50511331b7ba2db2168fa3c704ec8dff3953da9fd41ff601143b63545414a1bd",
+      "checked": true,
+      "visual_review": "Basic website visual check: main count, shape, colour identity and original retail packaging retained."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-97a9fac0-7e58-49df-8e8f-de3ca4bf5c49.png",
+      "prompt": "Website-ready lifestyle product photograph on cream vanity table near soft window light with a lavender wall, minimal contextual props outside product. Whole open purple printed cardboard display box holding 24 nail polish bottles in original four rows of six slots. Preserve exact visible cap colours, round glass bottle shapes, box woman portrait and Nail Polish/24PCS packaging, arrangement and original front angle; do not add bottles or invent obscured contents. Keep full original assortment, original front-facing arrangement, actual colours and product shape. Remove hand shop and old price overlay. No added text or invented parts.",
+      "sha256": "d24486d6ede39153de4548232ffbe68c3084304f96c007ea627f3ffb22dde8ce",
+      "checked": true,
+      "visual_review": "Basic website visual check passed for product identity, count, main shapes colours and original packaging."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-f795128d-5c4c-493a-a218-484933a05711.png",
+      "prompt": "Tight macro crop of the central front pink nail polish bottle in reference in its cardboard slot. Fill frame with round pink glass bottle shoulder, pink cap and existing label, retain small packaging edge. Preserve actual bottle geometry and colour, no full display, no invented views, no extra text. Clear website detail photo.",
+      "sha256": "70c9bc1ac15cd1e086c949681c768715040796acc3ef0a3c32b01a4cc69fff00",
+      "checked": true,
+      "visual_review": "Tight macro check passed: recognisable source product, correct main shape colour and material."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-54248db1-bb23-4f92-91cf-d424fd4112c5.png",
+      "prompt": "Create website-ready promotional product photo on lavender and cream background, compact dark plum heading 'Nail Polish Collection' and subtitle 'PRODUCT COLLECTION'. Whole open purple printed cardboard display box holding 24 nail polish bottles in original four rows of six slots. Preserve exact visible cap colours, round glass bottle shapes, box woman portrait and Nail Polish/24PCS packaging, arrangement and original front angle; do not add bottles or invent obscured contents. Preserve full assortment original count geometry materials and colours. Remove hand shop and old price overlay. No extra objects or other added text. Simple realistic lighting.",
+      "sha256": "bc71ebd3f61784fe4db672fca1b6f469b5c7739cebfbd43bdb059710b7a9fe6b",
+      "checked": true,
+      "visual_review": "Basic website check passed; assortment main count shape colours identity retained and promotional heading legible."
+    }
+  ],
+  "status": "five images saved and visually checked"
+}

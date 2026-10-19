@@ -1,0 +1,49 @@
+{
+  "tool": "built-in image_gen",
+  "status": "five images generated and visually checked",
+  "original_hashes": {
+    "Originals/IMG-20250103-WA0325.jpg": "3547d1a2519f31f1fd6a0c0d02ecd691d5f8e872c85ed1a50e28dc50117d6765"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source": "/workspace/generated_images/exec-ca5de861-ca23-444b-a3c6-140c820a8d4d.png",
+      "prompt": "Edit the reference into one premium ecommerce product photo, not collage. Entire pink decorative hair clip assortment, all seven clips on the same white card inside clear sleeve. Preserve character triangle snap clip, translucent jeweled flower clip, small round pink gem clip, pink outlined bow clip, printed scalloped rectangle clip, molded pink bow clip with rectangular gem, and striped bottom snap clip, exactly as original. Preserve every product part, count, arrangement, colours, proportions, packaging. Remove hand, shop background, old price overlay. Whole assortment is one product. Clean pure white seamless background, soft natural contact shadows, front-facing flat lay, crisp realistic detail, whole set comfortably inside frame. No extra products, invented backs or parts, no added text.",
+      "sha256": "5013e2497a3570e0f326274207167aab57f84469f3ed9276ce099d07b1a96232",
+      "checked": true,
+      "visual_review": "Compared with source. Entire assortment, packaging, original count and order retained; white background clean and hand and price removed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source": "/workspace/generated_images/exec-2d19b1b3-008c-4a2b-bb60-f25faf1a21f4.png",
+      "prompt": "Create one premium photoreal ecommerce styled-background photo of this exact reference product. Entire pink decorative hair clip assortment, all seven clips on the same white card inside clear sleeve. Preserve character triangle snap clip, translucent jeweled flower clip, small round pink gem clip, pink outlined bow clip, printed scalloped rectangle clip, molded pink bow clip with rectangular gem, and striped bottom snap clip, exactly as original. Entire assortment is one product. Preserve exact product count, original arrangement, colours, shape, size proportions, printed package details and material. Remove hand, store scene, price overlay. Use warm cream backdrop with soft lavender accent fabric outside the product edges; natural contact shadows, full set sharp and inside image. No new parts, no additional products, no text overlays.",
+      "sha256": "df074fcdb2a39ced48edb286b13bffbf848cbc4504ee3e4e680ccd3d183ef184",
+      "checked": true,
+      "visual_review": "Visual comparison confirms assortment counts, colours and package arrangement retained; lavender cream styling clean."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source": "/workspace/generated_images/exec-559c697d-3f08-47c2-82c3-320275bbdd89.png",
+      "prompt": "One premium photoreal lifestyle ecommerce photograph of the exact product in reference. Entire pink decorative hair clip assortment, all seven clips on the same white card inside clear sleeve. Preserve character triangle snap clip, translucent jeweled flower clip, small round pink gem clip, pink outlined bow clip, printed scalloped rectangle clip, molded pink bow clip with rectangular gem, and striped bottom snap clip, exactly as original. Keep entire assortment on its original packaging, with exact count, arrangement and original details; lay the full set on a tidy pale cream bedroom vanity beside a closed neutral book and lavender linen in the far background. Product dominates, sharp focus, soft morning window light. No people, hands, wearing demonstrations, extra hair accessories, invented parts or reverse views. Remove old price overlay and shop background. Full package within frame.",
+      "sha256": "d375f2e38c07db104cbb7d6fa235df8c208419359ed69f779f891c9eb23bd684",
+      "checked": true,
+      "visual_review": "Visually checked whole assortment against original; colours, packaging and count retained. Lifestyle setting leaves product unobscured."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source": "/workspace/generated_images/exec-de09bd37-e439-44ad-a242-2e9b91b7dfb6.png",
+      "prompt": "Create one photoreal tight macro product-detail crop from this exact reference. Entire pink decorative hair clip assortment, all seven clips on the same white card inside clear sleeve. Preserve character triangle snap clip, translucent jeweled flower clip, small round pink gem clip, pink outlined bow clip, printed scalloped rectangle clip, molded pink bow clip with rectangular gem, and striped bottom snap clip, exactly as original. This is DETAIL ONLY: zoom tightly into the translucent pink jeweled flower clip and adjacent molded pink bow showing gems, texture and original construction. Crop out most of full assortment; do not show full package or entire grid. Preserve precise original shape, colour, material and visible packaging. No invented reverse views, no new parts, no price text, no hands or shop. Soft cream background light, crisp premium macro photography.",
+      "sha256": "81e827c9676b53cbbceb6a413376e86c2ffb62397e7b5b7807af3c7611c5d2e1",
+      "checked": true,
+      "visual_review": "Tight macro crop visually checked against visible source details, material and colour retained; no invented back views."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source": "/workspace/generated_images/exec-dc63d165-f6f0-4881-947f-c5cf8678fddd.png",
+      "prompt": "Create one premium promotional product photograph, clean minimal editorial ecommerce ad. Entire pink decorative hair clip assortment, all seven clips on the same white card inside clear sleeve. Preserve character triangle snap clip, translucent jeweled flower clip, small round pink gem clip, pink outlined bow clip, printed scalloped rectangle clip, molded pink bow clip with rectangular gem, and striped bottom snap clip, exactly as original. Entire assortment is one product; all items must remain in exact original count and packaging with original shapes, material and colour. Full assortment comfortably inside frame against pale lavender and warm cream. Add compact refined dark plum descriptive heading 'Pink Decorative Hair Clips' and smaller uppercase 'PRODUCT COLLECTION' with ample spacing. No price, no sale claim, no extra products, no invented parts, no hand, no shop. Heading must not obscure product.",
+      "sha256": "87491445b27414b469371163d13d35d09b1245e230db7883864a2d45a41545f7",
+      "checked": true,
+      "visual_review": "Compared all seven pink clips and package to original; whole assortment preserved, heading unobscured and no price overlay."
+    }
+  ]
+}

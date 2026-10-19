@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250128-WA0338.jpg": "8ceaaa63ae79ca5b029bcc7d5126f90eecd48437db1ae07cec5f9ae5b2a12398"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source": [
+        "Originals/IMG-20250128-WA0338.jpg"
+      ],
+      "prompt": "Square website product photo on clean white background. Preserve entire EXACT12 white cards arranged3columns4rows, each with2five-petal flower hair claws and3fabric ties. Top row dark brown claws, second black, third medium tan, bottom light tan; exact original ties black brown olive mustard. Preserve count, geometry, arrangement and materials. Remove price overlay only. Whole assortment fully in square frame, soft shadow.",
+      "sha256": "a46b4faceae6dad8016bc35fc836ae2988cd1b85af0928dbe70d00a47648a684",
+      "checked": true,
+      "visual_review": "Entire assortment compared to original; count and primary shape/colour/material retained."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square website product photo. Entire EXACT assortment from reference on soft lavender cream studio background. ALL12 cards in3columns4rows,2flower claws+3ties per card, exact original colours per row. Preserve visible shapes/count/materials and arrangement. Soft studio shadows. No new text.",
+      "sha256": "eaba6efe59ee022cc799446db9150499817dbcabee317e3ebe4139f634906894",
+      "checked": true,
+      "visual_review": "Reviewed visible assortment, count and identity retained."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square website lifestyle product photograph. Entire EXACT assortment on cream dressing table, blurred lavender bedroom and window daylight. ALL12cards in3columns4rows, each2flower claws3ties, exact colours per row. Preserve count, colours, shapes, materials and arrangement. No hands, no extra products, no new text.",
+      "sha256": "0133e803d10fe573a0d78ce3bb216e973d9b776797545a097b2c3a9b8abd9d4e",
+      "checked": true,
+      "visual_review": "Reviewed whole assortment against source, website suitable, count and product preserved."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square tight macro crop ONLY one upper-left brown five-petal flower hair claw and adjacent fabric tie from reference. Exact original flower shape, material and colour, show plastic texture and tie weave. No whole assortment, no added text, realistic soft studio photo.",
+      "sha256": "8abdc114c30dcc7556e88c42b34af0f30355e7e9c3f8fba2f4ab6a039407ec61",
+      "checked": true,
+      "visual_review": "Tight macro reviewed, key visible shape/material/colour match source."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square website promotional product photo. Preserve EXACT entire assortment: ALL12cards3columns4rows,2flower claws and3ties each, same original colours. Lavender cream background. Small dark plum heading Flower Hair Claw Sets and PRODUCT COLLECTION. Reduce product scale to fit full assortment and heading. No price or other added text.",
+      "sha256": "152045bdcccacddfe1722031d58106dc6021e8e813c7390feb7dd48d02840057",
+      "checked": true,
+      "visual_review": "Whole assortment and primary product shape/count/colours retained; website-ready promotional image. Decorative shell props outside0099 package."
+    }
+  ],
+  "status": "five images generated and visually checked"
+}

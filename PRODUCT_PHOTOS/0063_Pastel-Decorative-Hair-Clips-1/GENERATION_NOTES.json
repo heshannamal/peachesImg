@@ -1,0 +1,50 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250103-WA0335.jpg": "a90805bf5d088eaec10917ee4456ea9598a04946016a4c364c6dcb024215cef1"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-bfcdec4a-6ce6-445c-a688-68bc20696917.png",
+      "prompt": "Edit reference into clean white seamless ecommerce product photo with soft shadows. Single long pink rabbit-decorated retail card in clear plastic containing exactly five pastel decorative hair clips in reference order: green kiwi/bow motif, striped popsicle, multicoloured glitter butterfly, pastel rainbow/cloud, white unicorn. Preserve exact packaging, clip forms and order. Preserve original front view, geometry and all product parts. Remove hand, shop background and old price text overlay. No new text or extra products. Realistic sharp materials.",
+      "sha256": "e9e176075fa76f0e9dd31bceb8591dc801e766817c244cb01f72201762dd9efb",
+      "checked": true,
+      "visual_review": "Five decorative clips and original pink card/clear wrap retained; white background with price and hand removed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-1101e5aa-0200-4b2d-92cc-99182748a942.png",
+      "prompt": "Edit reference into styled ecommerce photo on pale lavender ground with cream fabric at edges. Single long pink rabbit-decorated retail card in clear plastic containing exactly five pastel decorative hair clips in reference order: green kiwi/bow motif, striped popsicle, multicoloured glitter butterfly, pastel rainbow/cloud, white unicorn. Preserve exact packaging, clip forms and order. Preserve original front view product configuration and clear retail packaging. Remove hands shop background old price overlay. No text, no extra product parts. Soft light, crisp realistic materials.",
+      "sha256": "d335390c47fee027bfeb2a2e442057cbb433851df791240fb3cc2ac6d4d0ffe6",
+      "checked": true,
+      "visual_review": "Five clips preserve forms ordering and clear packaged pink card; lavender and cream backdrop checked."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-a9e7b13c-715b-4b2e-a433-ba3207123d95.png",
+      "prompt": "Edit reference into realistic lifestyle flatlay product photography on cream dressing table with lavender fabric nearby, natural window light. Single long pink rabbit-decorated retail card in clear plastic containing exactly five pastel decorative hair clips in reference order: green kiwi/bow motif, striped popsicle, multicoloured glitter butterfly, pastel rainbow/cloud, white unicorn. Preserve exact packaging, clip forms and order. Keep packaged product exactly assembled in original front view, no wearing or invented backs. Remove hands shop background old price overlay. No text or added product parts. Full product visible, props minimal outside package.",
+      "sha256": "dd4ad962b52340d437d01846d6d1cbf3a41ab346f705279ae419d9b31e131669",
+      "checked": true,
+      "visual_review": "Packaged assortment retains front-facing configuration, count, colours and materials; lifestyle props are separate."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-01286d78-f477-41b7-a4e4-fd375d2bad42.png",
+      "prompt": "Tight macro product detail photograph of the multicoloured glitter butterfly hair clip in this reference, cropped from its original card. Fill frame with butterfly glitter stripes in blue pink yellow green red, retaining exact butterfly shape and orientation, a small patch of white card and clear wrap. No full card, no other products, no invented views, no text. Crisp material detail.",
+      "sha256": "fc479d729c7d11174de329fc1f4327e8c505c04a460080369f627d4054188342",
+      "checked": true,
+      "visual_review": "Macro butterfly clip retains striped glitter colours with card and clear wrap."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-2dbee9ae-5d41-4111-974f-eb29bf5ebf53.png",
+      "prompt": "Create ecommerce promotional product image on lavender and cream graphic background. Single long pink rabbit-decorated retail card in clear plastic containing exactly five pastel decorative hair clips in reference order: green kiwi/bow motif, striped popsicle, multicoloured glitter butterfly, pastel rainbow/cloud, white unicorn. Preserve exact packaging, clip forms and order. Preserve full packaged product front view, original count, shapes, arrangement materials colours. Remove hand shop and old price overlay. Compact dark plum heading exactly 'Pastel Decorative Hair Clips' with subtitle 'PRODUCT COLLECTION' above product, no other text or prices. Crisp realistic product photography.",
+      "sha256": "974fbc17d70280ad0f5442cf90564866d073e204d38a7dfcf344616b05ed57b5",
+      "checked": true,
+      "visual_review": "Full packaged assortment preserves reference arrangement and colours; heading and PRODUCT COLLECTION legible on lavender/cream."
+    }
+  ],
+  "status": "five images saved and visually checked"
+}

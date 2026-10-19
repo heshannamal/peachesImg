@@ -1,0 +1,56 @@
+{
+  "tool": "built-in image_gen",
+  "status": "five images generated and visually checked",
+  "original_hashes": {
+    "Originals/IMG-20250123-WA0394.jpg": "3528bee9747b8bbbd3c37c8ff4ea76255b20d0959ac880b45094cc1e49b54caf"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source": "/workspace/generated_images/exec-109b897a-7b4a-4f3a-aff7-c50e3097517f.png",
+      "prompt": "Edit reference into one premium photoreal ecommerce photo. Entire white Fashion Jewelery retail card with 12 pairs of molded butterfly stud earrings, 24 butterflies in exact 6 rows x2 pairs: red/lavender, yellow/teal, pale aqua/pink, white/deep rose, teal/yellow, pink/pale aqua. Preserve wing shape, vein texture, pastel bodies and package printing. Entire assortment is ONE product. Retain exact geometry, original count, colours, material, package details, proportions and arrangement. Pure white seamless background, soft contact shadows, whole product sharp and inside frame. Remove price overlays, hands and shop. No added products, backs, parts, or text.",
+      "sha256": "adbd9bea8f1640b45a78d822e8ba5d6c47a67c25d799305d1d3de6d25710b701",
+      "checked": true,
+      "visual_review": "Compared butterfly count, colour arrangement and card against original."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "sha256": "82a0f144734cbd4ab0eb8c8456eafb4a274b53a27b3a7199c4d76a7868985b34",
+      "checked": true,
+      "visual_review": "Compared with original: twelve butterfly pairs, six rows and source colours retained."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source": "/workspace/generated_images/exec-90c1d050-a428-4050-8348-715d30a78dd5.png",
+      "prompt": "One premium photoreal ecommerce styled-background photograph of exact reference. Entire white Fashion Jewelery retail card with 12 pairs of molded butterfly stud earrings, 24 butterflies in exact 6 rows x2 pairs: red/lavender, yellow/teal, pale aqua/pink, white/deep rose, teal/yellow, pink/pale aqua. Preserve wing shape, vein texture, pastel bodies and package printing. Entire assortment ONE product. Preserve original count, positions, geometry, shape, material, colours, markings and packaging. Warm cream surface with pale lavender fabric accents beyond edges, soft contact shadows. Entire product sharp, frame comfortably around full assortment. Remove price, shop, hands. No invented hidden objects, parts, or product views. No text overlay.",
+      "sha256": "82a0f144734cbd4ab0eb8c8456eafb4a274b53a27b3a7199c4d76a7868985b34",
+      "checked": true,
+      "visual_review": "Compared reference and output: butterfly card retains24earrings in12pairs with exact6row colour sequence; pink teddy retains long pink fur, burgundy bow, black eyes/nose and pink foot pads. Cream lavender styling unobscured."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-289ab899-f99a-4065-b8fe-18c67c1ef5ce.png",
+      "prompt": "Create ONE clean website product photograph from actual reference. Subject: Entire Fashion Jewelery card of24butterfly studs in12pairs,6rows2pairs: red/lavender,yellow/teal,aqua/pink,white/deep rose,teal/yellow,pink/aqua. Preserve actual product count, shape, colours and materials. Remove hand, shop, old price overlay and unrelated background products. No invented reverse sides or extra products. Full card on light wood dressing table, cream cloth outside edges.",
+      "sha256": "d679f13532f7b2ecc11d8a04b278d741363b605b56ade877c78bd3411ed6f141",
+      "checked": true,
+      "visual_review": "Compared with actual reference: visible product identity, shapes, colours and material retained; website-ready composition."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-c41306e6-1f77-4bf0-a06f-6d3f153d6c5f.png",
+      "prompt": "Make ONE simple clean website promotional product photo from actual reference. Subject: Entire Fashion Jewelery card of24butterfly studs in12pairs,6rows2pairs: red/lavender,yellow/teal,aqua/pink,white/deep rose,teal/yellow,pink/aqua. Keep actual product count, shapes, colours and material. Remove hand/shop/old price overlays/unrelated background products. Whole subject centred with margins on pale lavender and cream studio background. Compact dark plum heading 'BUTTERFLY STUD EARRINGS', smaller 'PRODUCT COLLECTION'. No claims, extra items or invented reverse views.",
+      "sha256": "8ca318f25a8d08d35abca899b6a195b1cba7b7d6760f76590d2cda0aa9046767",
+      "checked": true,
+      "visual_review": "Compared with original: main product count, arrangement, colours and shape preserved; clear website promotional composition."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-969b6769-e2b0-4cdb-8bfc-4cce0a05e6d7.png",
+      "prompt": "ONE clean website product photo edited from actual reference. Subject: Entire Fashion Jewelery card of24butterfly studs in12pairs,6rows2pairs: red/lavender,yellow/teal,aqua/pink,white/deep rose,teal/yellow,pink/aqua. Keep actual shapes, colours, materials and visible count. Remove hand, shop and old price overlay. No extra products or invented reverse views. TIGHT MACRO crop of only existing upper red butterfly stud pair. Wing veins, red moulded plastic and pale bodies fill frame. No whole card, inset or collage.",
+      "sha256": "1a20c3e31636bdc4fc8a68c5d60438b457b5260f27b78bc1673a8fed0998abac",
+      "checked": true,
+      "visual_review": "Compared with original: visible product shape, colour and material retained; suitable detail or lifestyle view for website."
+    }
+  ],
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

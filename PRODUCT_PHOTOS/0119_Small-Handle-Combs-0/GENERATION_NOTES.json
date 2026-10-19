@@ -1,0 +1,34 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250201-WA0578.jpg": "1c0c152501288df7c80a70e1754d6cf23c6717b699d1462eea4173c4c7b807b4"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source": [
+        "Originals/IMG-20250201-WA0578.jpg"
+      ],
+      "prompt": "Square website product photo on clean white background of EXACT FOUR individually packaged small handle hair combs side by side: lavender,cream yellow,pink,mint. Same shape, fine teeth, handle cartoon prints and Hello text, white backing cards in clear sleeves. Remove hand/shop/price only. Preserve four products entire frame, realistic soft shadows.",
+      "sha256": "3b0089ba0a8c29459f8767e5db8c5c7026d3b10a690203d33a3480093680ff08",
+      "checked": true,
+      "visual_review": "Compared originals: correct entire assortment count/main shapes/colours/materials preserved."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square website product photograph. EXACT entire four packaged handle combs lavender yellow pink mint side-by-side on soft lavender cream studio background. Preserve count, main shape/colour/material and arrangement. Full assortment in frame, soft shadows, no new text.",
+      "sha256": "42e6a614a1366d981a298053214fd06b591eaf242603a4c4c651b68dfad054a5",
+      "checked": true,
+      "visual_review": "Count/main product identity/colours/shapes reviewed and retained."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square lifestyle website photo. EXACT entire four packaged handle combs lavender yellow pink mint side-by-side in same arrangement on cream vanity with softly blurred lavender bedroom and window light. Preserve main shape, count, colours, original materials/designs. No hands/person, no extra product or new text.",
+      "sha256": "73256933c4170d103b4d9e56b4506d03fa6c1ccc7e99e898a54cfccacc96bc77",
+      "checked": false
+    }
+  ]
+}

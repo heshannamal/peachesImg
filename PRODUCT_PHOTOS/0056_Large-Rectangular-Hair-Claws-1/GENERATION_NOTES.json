@@ -1,0 +1,61 @@
+{
+  "product_id": "0056",
+  "original_hashes": {
+    "Originals/IMG-20250101-WA0373.jpg": "e2b9df392d7155b5bd3b056e4776eba99f0a8f328bd7d58e753c72652cd6c9db"
+  },
+  "outputs": [
+    {
+      "file": "New/01_White-Background.png",
+      "cache_source": "/workspace/generated_images/exec-d7a61c29-774b-48a6-a764-d077b0c65098.png",
+      "sha256": "3a9a8dc5f51cbf4689c0b9a96c3abc7df5989bb75a4c0cc8f30a034981767c87",
+      "prompt": "Entire 12-card assortment, four rows of three, same packaging, claw colours and three ties/card; remove old price; pure white studio background.",
+      "visual_check": "Passed: 12 complete cards in four rows of three; black cream taupe brown rows; 3 elastic ties per card; original packaging retained; no old price overlay."
+    }
+  ],
+  "status": "complete",
+  "visual_checks": [],
+  "records": [
+    {
+      "file": "New/01_White-Background.png",
+      "cache_source": "/workspace/generated_images/exec-d7a61c29-774b-48a6-a764-d077b0c65098.png",
+      "sha256": "3a9a8dc5f51cbf4689c0b9a96c3abc7df5989bb75a4c0cc8f30a034981767c87",
+      "prompt": "Entire 12-card assortment, four rows of three, same packaging, claw colours and three ties/card; remove old price; pure white studio background.",
+      "visual_check": "Passed: 12 complete cards in four rows of three; black cream taupe brown rows; 3 elastic ties per card; original packaging retained; no old price overlay.",
+      "saved_file": "New/01_White-Background.png",
+      "checked": true
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "cache_source": "/workspace/generated_images/exec-042ed075-5003-4c98-8463-0ecc0e0b79f7.png",
+      "sha256": "92c330d3a91afa8dff8a417f7e08f674db3e4721921b9b73b8c7c16597558aa9",
+      "prompt": "12 cards four rows of three exact assortment on cream pedestal lavender studio background.",
+      "checked": true,
+      "visual_check": "Passed: 12 full cards, correct colour rows and 3 ties/card, packaging retained, lavender cream scene; no price overlay."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "cache_source": "/workspace/generated_images/exec-1f2b7281-dbbc-4727-8b34-232a46278768.png",
+      "sha256": "63f3b4e1b48c233f2f42284a1b1717cda9cf9aeffa4e4c77d28853d36f3a1641",
+      "prompt": "12 card assortment exact four by three arrangement flat lay on elegant home vanity linen and warm daylight; no unpacking.",
+      "checked": true,
+      "visual_check": "Passed: full twelve card assortment four by three; correct black cream taupe brown rows, three ties per card, all cards complete and price removed."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "cache_source": "/workspace/generated_images/exec-411473a3-588e-473a-9a62-f31769d24b7d.png",
+      "sha256": "70e3eea62de15f62a176e9f9a6dc973f2cb696e1ea7dc377037ed70af7857243",
+      "prompt": "Tight macro visible cream rectangular claw and three elastic ties on original card, preserve source material and shape.",
+      "checked": true,
+      "visual_check": "Passed: tight macro only, cream open-center rectangular claw and black brown ochre ties on retail card, no invented view."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "cache_source": "/workspace/generated_images/exec-8a0f1ac0-2a80-4bd4-b8d0-733c88370bb1.png",
+      "sha256": "bbc7ca0869e1097c6bb7a29b6bf103ffd1fa38c7be2fbb932a7483c88f72971f",
+      "prompt": "Entire 12-card assortment four rows of three lavender cream promotional layout, dark plum Neutral Hair Claw Sets heading and PRODUCT COLLECTION subtitle.",
+      "checked": true,
+      "visual_check": "Passed: 12 cards correct colour rows and 3 ties/card, no product overlap, readable specified heading/subtitle, old price removed."
+    }
+  ],
+  "original_hashes_verified": true
+}

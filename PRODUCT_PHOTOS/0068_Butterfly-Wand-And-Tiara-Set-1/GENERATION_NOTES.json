@@ -1,0 +1,50 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250106-WA0346.jpg": "18c38efa41d3d160580289048e0c0f73ece0a9c088dbd175cd5bea724f2c10cc"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-bf008258-4d53-4b4d-8b39-2be22e068717.png",
+      "prompt": "Edit reference into clean white seamless ecommerce product photo with soft shadows. Entire packaged white sheer butterfly-wing costume set as shown, with four outlined mesh wing lobes, subtle heart motifs, central iridescent pink butterfly, butterfly-topped silver wand diagonally crossing left wings, and curved tiara/headband with two butterfly ornaments on right. Preserve exact count, layout, translucent mesh, white wire edging, silver wand and clear bag with pink floral header. Preserve original front view, geometry and all product parts. Remove hand, shop background and old price text overlay. No new text or extra products. Realistic sharp materials.",
+      "sha256": "33ac250d51d22ba308f485d919444adde2b8f624ce97ce459a74c19a97731b47",
+      "checked": true,
+      "visual_review": "Wing set, wand and butterfly headband retain visible arrangement and clear packaging, shop hand and old price removed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-9de63cd3-0ce6-4b0a-8815-d8f87b7af037.png",
+      "prompt": "Edit reference into styled ecommerce photo on pale lavender ground with cream fabric at edges. Entire packaged white sheer butterfly-wing costume set as shown, with four outlined mesh wing lobes, subtle heart motifs, central iridescent pink butterfly, butterfly-topped silver wand diagonally crossing left wings, and curved tiara/headband with two butterfly ornaments on right. Preserve exact count, layout, translucent mesh, white wire edging, silver wand and clear bag with pink floral header. Preserve original front view product configuration and clear retail packaging. Remove hands shop background old price overlay. No text, no extra product parts. Soft light, crisp realistic materials.",
+      "sha256": "f9359e9885e7e05a52e23fabb7e3cd3f539fc7c45d633e7fa3e3bb2dcf9cf8aa",
+      "checked": true,
+      "visual_review": "Four mesh wing lobes, wand, butterfly ornaments and curved headband retained in package; lavender ground."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-f381578e-f8ff-4002-84e9-54350744ee12.png",
+      "prompt": "Edit reference into realistic lifestyle flatlay product photography on cream dressing table with lavender fabric nearby, natural window light. Entire packaged white sheer butterfly-wing costume set as shown, with four outlined mesh wing lobes, subtle heart motifs, central iridescent pink butterfly, butterfly-topped silver wand diagonally crossing left wings, and curved tiara/headband with two butterfly ornaments on right. Preserve exact count, layout, translucent mesh, white wire edging, silver wand and clear bag with pink floral header. Keep packaged product exactly assembled in original front view, no wearing or invented backs. Remove hands shop background old price overlay. No text or added product parts. Full product visible, props minimal outside package.",
+      "sha256": "5389de86ad275f00c0f9b9fa186a1179b0258830073e53531945b6f963c266a8",
+      "checked": true,
+      "visual_review": "Packaged assortment retains front-facing configuration, count, colours and materials; lifestyle props are separate."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-393a7aca-c31c-45fd-b409-0108049992b6.png",
+      "prompt": "Tight macro product detail photograph cropped to the central iridescent pink butterfly ornament where white mesh wings join in this reference. Show butterfly reflective pink material, surrounding sheer mesh weave and white wire outlines, subtle heart pattern, with clear wrap retained. Fill frame with this small portion only, NOT full costume pack, no extra parts, no text.",
+      "sha256": "6238e8747e3bf30763b5ae7cd9860ea3594b2a5f53fc5c46423d23da807cefde",
+      "checked": true,
+      "visual_review": "Macro central butterfly retains pink iridescent texture, white mesh weave and packaging."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-82fd4196-e95f-4cd1-b5f7-27c145f6d752.png",
+      "prompt": "Create ecommerce promotional product image on lavender and cream graphic background. Entire packaged white sheer butterfly-wing costume set as shown, with four outlined mesh wing lobes, subtle heart motifs, central iridescent pink butterfly, butterfly-topped silver wand diagonally crossing left wings, and curved tiara/headband with two butterfly ornaments on right. Preserve exact count, layout, translucent mesh, white wire edging, silver wand and clear bag with pink floral header. Preserve full packaged product front view, original count, shapes, arrangement materials colours. Remove hand shop and old price overlay. Compact dark plum heading exactly 'Butterfly Dress-Up Set' with subtitle 'PRODUCT COLLECTION' above product, no other text or prices. Crisp realistic product photography.",
+      "sha256": "80edca048756c2be0f1a114ca803a1da77320c1d948bd38595ee96ab42e7c119",
+      "checked": true,
+      "visual_review": "Full packaged assortment preserves reference arrangement and colours; heading and PRODUCT COLLECTION legible on lavender/cream."
+    }
+  ],
+  "status": "five images saved and visually checked"
+}

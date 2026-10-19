@@ -1,0 +1,18 @@
+{
+  "tool": "built-in image_gen",
+  "status": "in_progress",
+  "original_hashes": {
+    "Originals/IMG-20250205-WA0890.jpg": "4e304f70e9d624620974c60d02ccbd6e384676bd13ca6439d0ed1b7bd1a76783"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-a276dbb6-7211-4425-a9b7-6fac9ac67ba2.png",
+      "prompt": "Edit reference into ONE clean realistic ecommerce product photo. Six rectangular quilted zip pouches stacked vertically inside one clear bag. Top red cartoon white kitten print,next pink kitten designs,next pink mixed kitten/toy print,next pale pink blue/gray cats,next purple unicorns/rainbows, bottom pastel blue-pink gradient with clouds/hearts/gem. Preserve6pouches,count,order,quilt stitching,printing,zip silhouettes and clear package. Whole assortment ONE product. Pure white seamless background, soft contact shadows, full assortment inside frame, natural front view. Remove hand,shop,price overlays,ruler and handwritten notes. Preserve identity,count,shape,material,colours and arrangement. No extra products,parts or imagined reverse views.",
+      "sha256": "c30da2c4dce3a928589465de61bbf04e2b2e0105b7073e38016269b845ce41f0",
+      "checked": true,
+      "visual_review": "Six bagged rectangular zip pouches retain original order,red/pink kitten,pale cat,purple unicorn and pastel gradient prints."
+    }
+  ],
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

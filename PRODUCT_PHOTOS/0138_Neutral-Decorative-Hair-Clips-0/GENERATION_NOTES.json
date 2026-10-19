@@ -1,0 +1,18 @@
+{
+  "tool": "built-in image_gen",
+  "status": "in_progress",
+  "original_hashes": {
+    "Originals/IMG-20250205-WA0733.jpg": "3ebdb2f0254777b71c6e0f2c6d2f807c06d8c7c00915f9e6e376d8e52eeb483c"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-12f3661d-461b-4aff-948d-dd4521943ea3.png",
+      "prompt": "Edit reference into ONE clean realistic ecommerce product photo. Two long pink-striped Accessory cards of furry triangular snap hair clips,10on EACH card20total in clear sleeves. Preserve white,pink,beige,brown,black plush and original black/white jester character charms,pink bows,hearts and exact original order. No additional items. Whole assortment ONE product. Pure white seamless background, soft contact shadows, full assortment inside frame, natural front view. Remove hand,shop,price overlays,ruler and handwritten notes. Preserve identity,count,shape,material,colours and arrangement. No extra products,parts or imagined reverse views.",
+      "sha256": "6dd022c669f9d5f1a2780cd8595e53db86c50caed3fd263339e452a9d35fba83",
+      "checked": true,
+      "visual_review": "Two wrapped cards retain furry triangular clips, neutral/dusty-pink colours and small black-white character charms."
+    }
+  ],
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

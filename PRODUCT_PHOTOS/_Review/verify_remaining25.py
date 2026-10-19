@@ -7,7 +7,7 @@ variants=['01_White-Background.png','02_Styled-Background.png','03_Lifestyle.png
 rows=[]
 for pid in scope['product_ids']:
  folders=list(root.glob(pid+'_*'));assert len(folders)==1,pid
- folder=folders[0]; notes=json.loads((folder/'GENERATION_NOTES.json').read_text());errors=[]
+ folder=folders[0]; notes_path=folder/'GENERATION_NOTES.json'; notes=json.loads(notes_path.read_text()) if notes_path.exists() else {};errors=[]
  originals={f.name:hashlib.sha256(f.read_bytes()).hexdigest() for f in (folder/'Originals').iterdir() if f.is_file()}
  assert originals==scope['original_sha256'][pid],f'{pid}: original changed'
  hashes=[]

@@ -2151,7 +2151,7 @@
     "source_image_ids": [
       160
     ],
-    "new_images": 2,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2163,7 +2163,7 @@
     "source_image_ids": [
       161
     ],
-    "new_images": 2,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2378,15 +2378,17 @@
   },
   {
     "product_id": "0174",
-    "folder": "0174_Bright-Animal-Ear-Headbands-0",
+    "folder": "0174_Bright-Animal-Ear-Headbands-1",
     "source_image_ids": [
       180
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0175",
@@ -3123,7 +3125,7 @@
     "source_image_ids": [
       241
     ],
-    "new_images": 2,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3135,7 +3137,7 @@
     "source_image_ids": [
       242
     ],
-    "new_images": 2,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",

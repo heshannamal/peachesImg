@@ -32,5 +32,13 @@
   ],
   "status": "in_progress",
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
-  "originals_unchanged": true
+  "originals_unchanged": true,
+  "rejected_outputs": [
+    {
+      "file": "Rejected/04_Detail-too-wide.png",
+      "cache_source": "/workspace/generated_images/exec-25146584-af6a-4d70-86ac-eb7a17a0374a.png",
+      "sha256": "548c1124b1abd0e0a4329f890e4ffd7db5817aa1fcffb88c05c44ad907fcc04d",
+      "reason": "Whole assortment output fails required tight macro view"
+    }
+  ]
 }

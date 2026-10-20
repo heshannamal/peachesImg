@@ -1,6 +1,6 @@
 {
   "tool": "built-in image_gen",
-  "status": "in_progress",
+  "status": "five images generated and visually checked",
   "original_hashes": {
     "Originals/IMG-20250215-WA0685.jpg": "ff86a058a5ccd1579ef0c3b64e08110a9528664e0c579f8d9341757b9282bf25"
   },
@@ -36,7 +36,16 @@
       "sha256": "c73807a3a28f9bdeba4cbbb043b5cdc26900f2c66570464d4fa543dca3857df2",
       "checked": true,
       "visual_review": "Tight macro checked: white puppy-face charm clip and neighbouring blue cake clip retains actual visible material,shape and colour; no invented reverse view."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-8df91cd7-cb04-4b18-968d-2426768a721b.png",
+      "prompt": "ONE realistic promotional website product photo of exact reference. Two matching white backing cards inside clear sleeves of pastel decorated hair clips,12clips on each card24total, original6rows2columns each: milk/rabbit design and white puppy top,blue nice letters and tiny pink dress doll,next white metal snap and pale purple printed pony snap,next puppy face and blue cake,next yellow outlined clip and white cat face,next white puppy and pink flower. Preserve exact actual reference arrangement,shapes,colours,charms,card and clear packaging. Whole assortment ONE product,full set comfortably inside frame on cream lavender background. Compact dark plum heading 'Pastel Character Hair Clips' and smaller 'PRODUCT COLLECTION'. Preserve count,identity,shape,colour,materials,arrangement and packaging. Remove hand,shop,oldprices. No added products,parts,imagined back views or saleclaims.",
+      "sha256": "8f04a10bbced20cef597460fee72eb11d393241576be652a4f65d974e1e07527",
+      "checked": true,
+      "visual_review": "Two wrapped cards retain matching12clip layouts, pastel character/cake/flower/snap designs and original colours. Promotional heading readable, whole assortment unobscured."
     }
   ],
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "original_plan_sha256_verified": true
 }

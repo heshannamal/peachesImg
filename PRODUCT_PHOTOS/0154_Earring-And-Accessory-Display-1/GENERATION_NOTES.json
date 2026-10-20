@@ -4,7 +4,7 @@
   "original_hashes": {
     "Originals/IMG-20250207-WA0923.jpg": "10e0ce171a8a528bad8bf1262193e930dba51a5a40ec7838cd78e67f7f44eb7e"
   },
-  "status": "in_progress",
+  "status": "five images saved and visually checked",
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
   "rejected_outputs": [
     {
@@ -54,7 +54,9 @@
       "source_output": "/workspace/generated_images/exec-a267fd45-e8ed-4d04-9637-40353f99dfe4.png",
       "prompt": "Website promotional photo. Keep EXACT original crop of entire jewellery rack: SIX top cards and original right clippedsliver, same lowercard counts/arrangement/earring shapes,colours/materials, no extrapolating/repeating cards. Add lavender cream outer margins with small darkplum heading Earring & Accessory Collection and PRODUCT COLLECTION. Preserve original cropped product rectangle exactly unchanged. No extra products.",
       "sha256": "43490d29f5d387d4e9d6e83ac5f8b9b5c85a8032b98cea93dd7842e1049f59a9",
-      "checked": false
+      "checked": true,
+      "visual_review": "Original cropped display and visible card counts retained; main jewellery identity/shape/colour preserved."
     }
-  ]
+  ],
+  "plan_original_hashes_verified": true
 }

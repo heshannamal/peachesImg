@@ -22,18 +22,21 @@
     "0231",
     "0232"
   ],
-  "active": [
-    "0213",
-    "0214"
-  ],
+  "active": [],
   "products": {
     "0213": {
-      "saved": 3,
-      "checked": 3
+      "saved": 5,
+      "checked": 5,
+      "complete": true
     },
     "0214": {
-      "saved": 3,
-      "checked": 3
+      "saved": 5,
+      "checked": 5,
+      "complete": true
     }
-  }
+  },
+  "completed": [
+    "0213",
+    "0214"
+  ]
 }

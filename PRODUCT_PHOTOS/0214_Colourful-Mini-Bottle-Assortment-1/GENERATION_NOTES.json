@@ -1,6 +1,6 @@
 {
   "tool": "built-in image_gen",
-  "status": "in_progress",
+  "status": "five images generated and visually checked",
   "original_hashes": {
     "Originals/IMG-20250215-WA0693.jpg": "68cb604edbc3c7a19837e59f5aeeddabe58e1a7dc325ed8eebab90312955b4e7"
   },
@@ -36,7 +36,16 @@
       "sha256": "e6720d2f823917378b381b4817f2ca5ebe92d50abe331eaef997fec43a77abea",
       "checked": true,
       "visual_review": "Tight macro checked: clear purple-labelled jar and fuzzy purple hair ties visible inside retains actual visible material,shape and colour; no invented reverse view."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-e2431a34-e932-44be-bb00-a5449cc4563d.png",
+      "prompt": "ONE realistic promotional website product photo of exact reference. Twelve clear cylindrical lidded jars filled with small fuzzy fabric hair ties, arranged exact original3rows4jars inside outer clear pack. Toprow2black jars,green,blue;middlerow2pink,2purple;bottomrow2yellow/multicolour,2pink/multicolour. Preserve12jars,original pastel lavender lids,labels,the exact fuzzy contents and packing arrangement. These are jars of hair ties,not empty bottles. Do not unpack. Whole assortment ONE product,full set comfortably inside frame on cream lavender background. Compact dark plum heading 'Colourful Hair Tie Jars' and smaller 'PRODUCT COLLECTION'. Preserve count,identity,shape,colour,materials,arrangement and packaging. Remove hand,shop,oldprices. No added products,parts,imagined back views or saleclaims.",
+      "sha256": "1003771446a9d2e5a84bee257b7398cb25d937d17fb6eac0fa832012f9b6cdb2",
+      "checked": true,
+      "visual_review": "Twelve clear jars retain black,green,blue,pink,purple,yellow/mixed fuzzy hair ties, lavender lids and original3x4packing. Promotional heading readable, whole assortment unobscured."
     }
   ],
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "original_plan_sha256_verified": true
 }

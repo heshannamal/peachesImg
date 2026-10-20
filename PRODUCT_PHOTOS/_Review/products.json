@@ -2133,15 +2133,17 @@
   },
   {
     "product_id": "0154",
-    "folder": "0154_Earring-And-Accessory-Display-0",
+    "folder": "0154_Earring-And-Accessory-Display-1",
     "source_image_ids": [
       159
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0155",
@@ -2378,7 +2380,7 @@
     "source_image_ids": [
       180
     ],
-    "new_images": 3,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2606,7 +2608,7 @@
     "source_image_ids": [
       199
     ],
-    "new_images": 2,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2842,27 +2844,31 @@
   },
   {
     "product_id": "0213",
-    "folder": "0213_Pastel-Hair-Accessory-Packs-0",
+    "folder": "0213_Pastel-Hair-Accessory-Packs-1",
     "source_image_ids": [
       219
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0214",
-    "folder": "0214_Colourful-Mini-Bottle-Assortment-0",
+    "folder": "0214_Colourful-Mini-Bottle-Assortment-1",
     "source_image_ids": [
       220
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0215",

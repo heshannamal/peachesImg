@@ -38,5 +38,13 @@
       "visual_review": "Tight macro retains visible product material and main motif shapes/colours; minor generated detail differences accepted for website use."
     }
   ],
-  "status": "in progress"
+  "status": "in progress",
+  "rejected_records": [
+    {
+      "saved_file": "Rejected/05_Promotional-nine-clips.png",
+      "sha256": "e6098b87c16feb84051981aa3cfcbaeafc77e7d8bb8e926cb1c80a5f9e9b09cb",
+      "checked": false,
+      "visual_review": "Only9clips; missing one light pink clip."
+    }
+  ]
 }

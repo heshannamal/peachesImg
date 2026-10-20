@@ -40,5 +40,16 @@
   ],
   "status": "in_progress",
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
-  "originals_unchanged": true
+  "originals_unchanged": true,
+  "rejected_records": [
+    {
+      "saved_file": "Rejected/05_Promotional-duplicate-backpacks.png",
+      "source_output": "/workspace/generated_images/exec-31b93856-b522-46c7-bda7-46670758873b.png",
+      "prompt": "Faithfully edit reference for website promotional product photography. Single pink unicorn print fabric backpack, white unicorns purple manes stars moons blue clouds rainbows, front zipper pocket pink side pockets and gold zipper pull. Preserve subject shape colors and dense stock quantity. Whole assortment/product on simple lavender and cream backdrop, compact descriptive title Pink Unicorn Backpack and smaller PRODUCT COLLECTION. Remove hands, shop, unrelated stock and old price overlays. One square image.",
+      "sha256": "dd246fda468d01cc438188f73ab1828eab25c544e2e49f1089035c66906ea2dd",
+      "checked": false,
+      "rejected": true,
+      "visual_review": "Rejected: five duplicated backpacks instead of single physical backpack."
+    }
+  ]
 }

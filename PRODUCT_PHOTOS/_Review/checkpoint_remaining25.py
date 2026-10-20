@@ -9,7 +9,8 @@ manifest=review/'REMAINING25_CHECKPOINTS.json'
 checkpoints=json.loads(manifest.read_text()) if manifest.exists() else []
 covered={pid for item in checkpoints for pid in item['product_ids']}
 new=[p for p in verification['products'] if p['complete'] and p['product_id'] not in covered]
-if len(new)<5 and verification['completed_products']<25:
+scope=json.loads((review/'REMAINING25.json').read_text())
+if len(new)<5 and verification['completed_products']<25 and scope.get('status') not in ['completed','completed_with_blocker']:
  print(json.dumps({'new_completed_waiting':len(new),'checkpoint_written':False}));raise SystemExit
 if not new:
  print(json.dumps({'new_completed_waiting':0,'checkpoint_written':False}));raise SystemExit

@@ -15,5 +15,22 @@
       "checked": false,
       "visual_review": "REJECT review-needed: generated7top cards versus6visible in original, dense display count fidelity failed."
     }
+  ],
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-26260856-babc-4645-a762-e610249a47f0.png",
+      "prompt": "Faithful square product photo edit. KEEP THE EXACT ORIGINAL CROP and original arrangement of EVERY jewellery card; SIX fully visible cards across TOP ROW, with ONLY original clipped sliver at right edge. DO NOT extrapolate additional cards or complete partial cards. Keep remaining original rows/cards/jewellery counts precisely unchanged, preserve original overlaps. Change ONLY ambient lighting and neutral white margins outside entire original display. No new or repeated products, no rearranging, no new text.",
+      "sha256": "60738b7bc31a5c18d5035fd37a2a326cd3fed995d7e53b54dc1d539064c29ff5",
+      "checked": true,
+      "visual_review": "Visible count/main geometry/colours compared with original and retained;0154corrected six topcards and original clipped edges."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-c3b9003c-faac-40be-a592-f44523f6b2d5.png",
+      "prompt": "Faithful product photo edit keep EXACT original crop and arrangement EVERY jewellery card unchanged, SIX visible top cards and original clipped sliver on right, lower rows same count, no invented or repeated cards. Only add soft lavender cream studio background outside rack and improve light. Keep full original cropped display unchanged. No new text.",
+      "sha256": "e22d30d7dc1c07d743cc3dff3af7fbb9adcfbccde5957d2fcae0ad2e42f05312",
+      "checked": false
+    }
   ]
 }

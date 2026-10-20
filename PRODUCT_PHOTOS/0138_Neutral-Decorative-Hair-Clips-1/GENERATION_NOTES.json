@@ -1,6 +1,6 @@
 {
   "tool": "built-in image_gen",
-  "status": "in_progress",
+  "status": "five images generated and visually checked",
   "original_hashes": {
     "Originals/IMG-20250205-WA0733.jpg": "3ebdb2f0254777b71c6e0f2c6d2f807c06d8c7c00915f9e6e376d8e52eeb483c"
   },
@@ -42,9 +42,10 @@
       "source_output": "/workspace/generated_images/exec-2f7638ed-c488-43c0-b795-b0e44b47232b.png",
       "prompt": "Promotional exact original entire furry clip assortment on cream lavender, compact dark plum actual product heading and PRODUCT COLLECTION, preserve count shape colour material packaging; remove hand shop price.",
       "sha256": "9fbcfcd0ecd88bbd401d3f5bdd9b10172e5ae59d7ed068daab9e02b4141fd77c",
-      "checked": false
+      "checked": true,
+      "visual_review": "Two cards retain10furry triangular snap clips each, original neutral/dusty-pink colours and charm subjects; promotional heading clear."
     }
   ],
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
-  "blocker": "usage_limit_reached reported by coordinator"
+  "original_hashes_verified": true
 }

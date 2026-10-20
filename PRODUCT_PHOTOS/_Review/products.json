@@ -1845,7 +1845,7 @@
     "source_image_ids": [
       139
     ],
-    "new_images": 3,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -1865,15 +1865,17 @@
   },
   {
     "product_id": "0136",
-    "folder": "0136_Neutral-Hair-Claws-0",
+    "folder": "0136_Neutral-Hair-Claws-1",
     "source_image_ids": [
       141
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "run-100-2026-10-19",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0137",
@@ -1891,39 +1893,45 @@
   },
   {
     "product_id": "0138",
-    "folder": "0138_Neutral-Decorative-Hair-Clips-0",
+    "folder": "0138_Neutral-Decorative-Hair-Clips-1",
     "source_image_ids": [
       143
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "run-100-2026-10-19",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0139",
-    "folder": "0139_Flower-Metal-Hair-Clips-0",
+    "folder": "0139_Flower-Metal-Hair-Clips-1",
     "source_image_ids": [
       144
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "run-100-2026-10-19",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0140",
-    "folder": "0140_Printed-Zip-Pouches-0",
+    "folder": "0140_Printed-Zip-Pouches-1",
     "source_image_ids": [
       145
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "run-100-2026-10-19",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0141",
@@ -1995,7 +2003,7 @@
     "source_image_ids": [
       151
     ],
-    "new_images": 3,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2045,7 +2053,7 @@
     "source_image_ids": [
       155
     ],
-    "new_images": 3,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",

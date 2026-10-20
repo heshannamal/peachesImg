@@ -1,6 +1,6 @@
 {
   "tool": "built-in image_gen",
-  "status": "in_progress",
+  "status": "five images generated and visually checked",
   "original_hashes": {
     "Originals/IMG-20250205-WA0890.jpg": "4e304f70e9d624620974c60d02ccbd6e384676bd13ca6439d0ed1b7bd1a76783"
   },
@@ -42,9 +42,10 @@
       "source_output": "/workspace/generated_images/exec-32f6059a-7a01-4c7f-8249-e2465ffeaa5e.png",
       "prompt": "ONE realistic promotional website product photograph of exact reference. Six rectangular quilted zip pouches stacked vertically in one clear bag: topred white kitten print,nextpink kitten designs,nextpink mixed kitten/toy print,nextpale pink blue/gray cats,nextpurple unicorn/rainbow,bottompastel blue-pink gradient cloud/hearts/gem. Preserve6count/order,quilt stitching,printing,zip shapes and bag. Entire assortment ONE product,full set comfortably visible on cream/lavender background. Compact dark plum heading 'Printed Quilted Zip Pouches' and smaller 'PRODUCT COLLECTION' without obscuring products. Preserve original count,identity,shape,colours,material,arrangement and packaging. Remove hand,shop,price,ruler/notes. No extra products,parts,imagined reverse views or sale claims.",
       "sha256": "45f63a06ff8ddeeec9ce6b3f31bd21c82ac220b5fec5b0916a7ad62c2d2b7e44",
-      "checked": false
+      "checked": true,
+      "visual_review": "Six quilted printed pouches retain order, distinct prints,colours and clear bag; promotional heading readable."
     }
   ],
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
-  "blocker": "usage_limit_reached reported by coordinator"
+  "original_hashes_verified": true
 }

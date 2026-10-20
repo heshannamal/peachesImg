@@ -1,14 +1,36 @@
 {
-  "status": "in_progress",
-  "assigned": [
-    "0136",
-    "0138",
-    "0139",
-    "0140"
-  ],
-  "resuming_missing": [
-    "03_Lifestyle",
-    "04_Detail",
-    "05_Promotional"
-  ]
+  "status": "completed",
+  "products": {
+    "0136": {
+      "saved": 5,
+      "checked": 5,
+      "original_hashes_verified": true,
+      "folder": "0136_Neutral-Hair-Claws-1",
+      "complete": true
+    },
+    "0138": {
+      "saved": 5,
+      "checked": 5,
+      "original_hashes_verified": true,
+      "folder": "0138_Neutral-Decorative-Hair-Clips-1",
+      "complete": true
+    },
+    "0139": {
+      "saved": 5,
+      "checked": 5,
+      "original_hashes_verified": true,
+      "folder": "0139_Flower-Metal-Hair-Clips-1",
+      "complete": true
+    },
+    "0140": {
+      "saved": 5,
+      "checked": 5,
+      "original_hashes_verified": true,
+      "folder": "0140_Printed-Zip-Pouches-1",
+      "complete": true
+    }
+  },
+  "new_images_this_resume": 12,
+  "saved_images": 20,
+  "inflight": 0
 }

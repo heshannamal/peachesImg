@@ -1,6 +1,23 @@
 {
   "tool": "built-in image_gen",
-  "records": [],
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-ceb55f39-e55c-48d4-ba9a-2a0a15cb3972.png",
+      "prompt": "Clean white seamless ecommerce photograph. Exactly TWELVE large rectangular neutral hair claws in two clear vertical sleeves, SIX per column. LEFT top-to-bottom: taupe,taupe,beige tan,beige tan,dark taupe brown,dark taupe brown. RIGHT top-to-bottom: dark brown,dark brown,BLACK,BLACK,LIGHT BEIGE,LIGHT BEIGE. Exactly TWO of each colour group, never three black. Smooth curved solid rectangular jaws, darker translucent handles and visible springs; preserve clear sleeves. Preserve original front view identity shape count colours and packaging. Remove hand shop people and price overlay. No new text, no invented parts.",
+      "sha256": "6d80742aae0daa171877fdf23ce8401cf0f8d8095afc922b46453fae6e676d93",
+      "checked": true,
+      "visual_review": "Twelve clips verified two columns six rows; right colours brown2black2light beige2, left paired taupe/tan/brown. Corrected prior colour error."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-79a6562c-221e-42ba-9494-1cbc5c25a713.png",
+      "prompt": "Styled ecommerce photo on pale lavender with cream fabric edge. Exactly TWELVE large rectangular neutral hair claws in two clear vertical sleeves, SIX per column. LEFT top-to-bottom: taupe,taupe,beige tan,beige tan,dark taupe brown,dark taupe brown. RIGHT top-to-bottom: dark brown,dark brown,BLACK,BLACK,LIGHT BEIGE,LIGHT BEIGE. Exactly TWO of each colour group, never three black. Smooth curved solid rectangular jaws, darker translucent handles and visible springs; preserve clear sleeves. Preserve original front geometry count colours and material. Remove people hand shop price overlays; no added text.",
+      "sha256": "ae17706ba74b28850373227e0a43589ae71270cb47937965e0be874265331b51",
+      "checked": true,
+      "visual_review": "Twelve clips retain six per sleeve with paired colours; right brown brown black black light light checked."
+    }
+  ],
   "original_hashes": {
     "Originals/IMG-20250206-WA0617.jpg": "4c204b499b1424134d843d1f396d47db63c871929e170bc5625926a873abfbf7"
   },

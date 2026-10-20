@@ -16,7 +16,7 @@ for pid in scope['product_ids']:
 for tracked in subprocess.check_output(['git','ls-files'],cwd=repo,text=True).splitlines():
  parts=tracked.split('/')
  if len(parts)>2 and parts[0]=='PRODUCT_PHOTOS' and parts[1][:4] in scope['product_ids'] and not (repo/tracked).exists():paths.append(tracked)
-for pattern in ['REMAINING25*.json','verify_remaining25.py','checkpoint_remaining25.py','sync_remaining25_progress.py','products.json','RUN_100_PROGRESS.json','CONTINUE_PRODUCT_PHOTOS.md']:
+for pattern in ['REMAINING25*.json','verify_remaining25.py','verify_remaining25_web.py','reconcile_run_100.py','checkpoint_remaining25.py','sync_remaining25_progress.py','products.json','RUN_100_PROGRESS.json','CONTINUE_PRODUCT_PHOTOS.md']:
  paths += [str(f.relative_to(repo)) for f in review.glob(pattern) if f.is_file()]
 subprocess.run(['git','add','--pathspec-from-file=-','--pathspec-file-nul'],cwd=repo,input=b'\0'.join(p.encode() for p in sorted(set(paths)))+b'\0',check=True)
 print('Staged recovery checkpoint.')

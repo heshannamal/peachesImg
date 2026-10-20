@@ -20,9 +20,17 @@
       "sha256": "5a1677999f752908a5ecbb249260ec95fb0cdac0b77ceff8a6cb8075641ea0dc",
       "checked": true,
       "visual_review": "Visually compared output against original: full count, main shapes/colours/materials retained. Minor printed/embossed cosmetics accepted for website standard."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-6c014652-99a8-45e9-8d1d-03451bbb3f7c.png",
+      "prompt": "Square website lifestyle product photograph. Preserve EXACT all FOUR packaged long fine-tooth combs pink blue-grey cream mint, same cartoon prints, same count/main shapes,colours,materials and arrangement. Entire assortment on cream dressing table in softly blurred lavender bedroom with morning window light. No hands/person, no extra products, no new text. Whole assortment fully framed.",
+      "sha256": "75108d92d23188dd2092946619c0ce80cb69cef8696ba0a260ab11151f1a1640",
+      "checked": true,
+      "visual_review": "Full assortment visually checked against original, correct main count/shape/colour/material retained in lifestyle view."
     }
   ],
-  "status": "partial; blocked by image generation usage_limit_reached",
+  "status": "in_progress",
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
   "originals_verified_unchanged": true
 }

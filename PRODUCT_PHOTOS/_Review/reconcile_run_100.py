@@ -41,6 +41,7 @@ def main():
         complete = (folder.name.endswith('-1') and len(present) == 5
                     and all('New/' + name in checked for name in VARIANTS))
         review_needed = not complete and notes.get('status') == 'saved_review_needed'
+        blocked = not complete and notes.get('status') == 'blocked_moderation'
         if complete:
             index[pid].update(folder=folder.name, new_images=5,
                               generation_complete=True,
@@ -50,17 +51,18 @@ def main():
         else:
             index[pid].update(folder=folder.name, new_images=len(present),
                               generation_complete=False,
-                              generation_status=('review_needed' if review_needed else
-                                                 ('in_progress' if present else 'pending')))
+                              generation_status=('blocked_moderation' if blocked else ('review_needed' if review_needed else
+                                                 ('in_progress' if present else 'pending'))))
         rows.append({'product_id': pid, 'folder': folder.name,
-                     'status': ('complete' if complete else ('review_needed' if review_needed else
-                                                            ('partial' if present else 'pending'))),
+                     'status': ('complete' if complete else ('blocked_moderation' if blocked else ('review_needed' if review_needed else
+                                                            ('partial' if present else 'pending')))),
                      'saved_images': len(present), 'files': present})
     atomic_json(REVIEW / 'products.json', products)
     snapshot = {'updated_at': datetime.now(timezone.utc).isoformat(),
                 'target_products': 100,
                 'completed_products': sum(r['status'] == 'complete' for r in rows),
                 'review_needed_products': sum(r['status'] == 'review_needed' for r in rows),
+                'blocked_products': sum(r['status'] == 'blocked_moderation' for r in rows),
                 'saved_images': sum(r.get('saved_images', 0) for r in rows),
                 'products': rows}
     atomic_json(REVIEW / 'RUN_100_PROGRESS.json', snapshot)

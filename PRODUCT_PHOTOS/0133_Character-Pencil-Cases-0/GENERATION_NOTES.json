@@ -4,7 +4,7 @@
     "Originals/IMG-20250205-WA0603.jpg": "c10dea00de0a13a3a8f2db0ee4850aa95c6e1fd51006c0b76b2c23482a719c9e"
   },
   "records": [],
-  "status": "generating",
+  "status": "blocked_moderation",
   "quality_standard": "Website-ready, minor cosmetic imperfections accepted",
   "failed_attempts": [
     {
@@ -12,6 +12,14 @@
       "error": "moderation_blocked output-stage other",
       "request_id": "c01f99cc-346a-4a2c-ae81-84a5df2c13a6",
       "saved_images": 0
+    },
+    {
+      "view": "01_White-Background",
+      "error": "moderation_blocked output-stage other",
+      "request_id": "d5331561-22bb-4247-b248-83e7787634df",
+      "saved_images": 0
     }
-  ]
+  ],
+  "blocker": "Native image tool rejected benign original product edit again; no additional retries.",
+  "original_hashes_verified": true
 }

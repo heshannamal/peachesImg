@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-10-20T13:41:15.174395+00:00",
+  "updated_at": "2026-10-20T13:45:47.919278+00:00",
   "target_products": 100,
   "completed_products": 77,
   "review_needed_products": 0,
-  "saved_images": 425,
+  "blocked_products": 1,
+  "saved_images": 444,
   "products": [
     {
       "product_id": "0053",
@@ -841,10 +842,11 @@
       "product_id": "0117",
       "folder": "0117_Long-Comb-Assortment-0",
       "status": "partial",
-      "saved_images": 2,
+      "saved_images": 3,
       "files": [
         "0117_Long-Comb-Assortment-0/New/01_White-Background.png",
-        "0117_Long-Comb-Assortment-0/New/02_Styled-Background.png"
+        "0117_Long-Comb-Assortment-0/New/02_Styled-Background.png",
+        "0117_Long-Comb-Assortment-0/New/03_Lifestyle.png"
       ]
     },
     {
@@ -914,20 +916,22 @@
       "product_id": "0123",
       "folder": "0123_Colourful-Charm-Keyrings-0",
       "status": "partial",
-      "saved_images": 2,
+      "saved_images": 3,
       "files": [
         "0123_Colourful-Charm-Keyrings-0/New/01_White-Background.png",
-        "0123_Colourful-Charm-Keyrings-0/New/02_Styled-Background.png"
+        "0123_Colourful-Charm-Keyrings-0/New/02_Styled-Background.png",
+        "0123_Colourful-Charm-Keyrings-0/New/03_Lifestyle.png"
       ]
     },
     {
       "product_id": "0124",
       "folder": "0124_Wide-Handle-Combs-0",
       "status": "partial",
-      "saved_images": 2,
+      "saved_images": 3,
       "files": [
         "0124_Wide-Handle-Combs-0/New/01_White-Background.png",
-        "0124_Wide-Handle-Combs-0/New/02_Styled-Background.png"
+        "0124_Wide-Handle-Combs-0/New/02_Styled-Background.png",
+        "0124_Wide-Handle-Combs-0/New/03_Lifestyle.png"
       ]
     },
     {
@@ -985,16 +989,21 @@
     {
       "product_id": "0129",
       "folder": "0129_Coloured-Cord-Necklaces-0",
-      "status": "pending",
-      "saved_images": 0,
-      "files": []
+      "status": "partial",
+      "saved_images": 2,
+      "files": [
+        "0129_Coloured-Cord-Necklaces-0/New/01_White-Background.png",
+        "0129_Coloured-Cord-Necklaces-0/New/02_Styled-Background.png"
+      ]
     },
     {
       "product_id": "0130",
       "folder": "0130_Dark-Cord-Necklaces-0",
-      "status": "pending",
-      "saved_images": 0,
-      "files": []
+      "status": "partial",
+      "saved_images": 1,
+      "files": [
+        "0130_Dark-Cord-Necklaces-0/New/01_White-Background.png"
+      ]
     },
     {
       "product_id": "0131",
@@ -1013,26 +1022,29 @@
       "product_id": "0132",
       "folder": "0132_Brown-Cord-Necklaces-0",
       "status": "partial",
-      "saved_images": 3,
+      "saved_images": 4,
       "files": [
         "0132_Brown-Cord-Necklaces-0/New/01_White-Background.png",
         "0132_Brown-Cord-Necklaces-0/New/02_Styled-Background.png",
-        "0132_Brown-Cord-Necklaces-0/New/03_Lifestyle.png"
+        "0132_Brown-Cord-Necklaces-0/New/03_Lifestyle.png",
+        "0132_Brown-Cord-Necklaces-0/New/04_Detail.png"
       ]
     },
     {
       "product_id": "0133",
       "folder": "0133_Character-Pencil-Cases-0",
-      "status": "pending",
+      "status": "blocked_moderation",
       "saved_images": 0,
       "files": []
     },
     {
       "product_id": "0134",
       "folder": "0134_Fruit-Charm-Keyrings-0",
-      "status": "pending",
-      "saved_images": 0,
-      "files": []
+      "status": "partial",
+      "saved_images": 1,
+      "files": [
+        "0134_Fruit-Charm-Keyrings-0/New/01_White-Background.png"
+      ]
     },
     {
       "product_id": "0135",
@@ -1045,11 +1057,12 @@
       "product_id": "0136",
       "folder": "0136_Neutral-Hair-Claws-0",
       "status": "partial",
-      "saved_images": 3,
+      "saved_images": 4,
       "files": [
         "0136_Neutral-Hair-Claws-0/New/01_White-Background.png",
         "0136_Neutral-Hair-Claws-0/New/02_Styled-Background.png",
-        "0136_Neutral-Hair-Claws-0/New/03_Lifestyle.png"
+        "0136_Neutral-Hair-Claws-0/New/03_Lifestyle.png",
+        "0136_Neutral-Hair-Claws-0/New/04_Detail.png"
       ]
     },
     {
@@ -1069,44 +1082,48 @@
       "product_id": "0138",
       "folder": "0138_Neutral-Decorative-Hair-Clips-0",
       "status": "partial",
-      "saved_images": 3,
+      "saved_images": 4,
       "files": [
         "0138_Neutral-Decorative-Hair-Clips-0/New/01_White-Background.png",
         "0138_Neutral-Decorative-Hair-Clips-0/New/02_Styled-Background.png",
-        "0138_Neutral-Decorative-Hair-Clips-0/New/03_Lifestyle.png"
+        "0138_Neutral-Decorative-Hair-Clips-0/New/03_Lifestyle.png",
+        "0138_Neutral-Decorative-Hair-Clips-0/New/04_Detail.png"
       ]
     },
     {
       "product_id": "0139",
       "folder": "0139_Flower-Metal-Hair-Clips-0",
       "status": "partial",
-      "saved_images": 3,
+      "saved_images": 4,
       "files": [
         "0139_Flower-Metal-Hair-Clips-0/New/01_White-Background.png",
         "0139_Flower-Metal-Hair-Clips-0/New/02_Styled-Background.png",
-        "0139_Flower-Metal-Hair-Clips-0/New/03_Lifestyle.png"
+        "0139_Flower-Metal-Hair-Clips-0/New/03_Lifestyle.png",
+        "0139_Flower-Metal-Hair-Clips-0/New/04_Detail.png"
       ]
     },
     {
       "product_id": "0140",
       "folder": "0140_Printed-Zip-Pouches-0",
       "status": "partial",
-      "saved_images": 3,
+      "saved_images": 4,
       "files": [
         "0140_Printed-Zip-Pouches-0/New/01_White-Background.png",
         "0140_Printed-Zip-Pouches-0/New/02_Styled-Background.png",
-        "0140_Printed-Zip-Pouches-0/New/03_Lifestyle.png"
+        "0140_Printed-Zip-Pouches-0/New/03_Lifestyle.png",
+        "0140_Printed-Zip-Pouches-0/New/04_Detail.png"
       ]
     },
     {
       "product_id": "0141",
       "folder": "0141_Pastel-Character-Hair-Clips-0",
       "status": "partial",
-      "saved_images": 3,
+      "saved_images": 4,
       "files": [
         "0141_Pastel-Character-Hair-Clips-0/New/01_White-Background.png",
         "0141_Pastel-Character-Hair-Clips-0/New/02_Styled-Background.png",
-        "0141_Pastel-Character-Hair-Clips-0/New/03_Lifestyle.png"
+        "0141_Pastel-Character-Hair-Clips-0/New/03_Lifestyle.png",
+        "0141_Pastel-Character-Hair-Clips-0/New/04_Detail.png"
       ]
     },
     {
@@ -1126,39 +1143,43 @@
       "product_id": "0143",
       "folder": "0143_Letter-Pendant-Necklaces-0",
       "status": "partial",
-      "saved_images": 3,
+      "saved_images": 4,
       "files": [
         "0143_Letter-Pendant-Necklaces-0/New/01_White-Background.png",
         "0143_Letter-Pendant-Necklaces-0/New/02_Styled-Background.png",
-        "0143_Letter-Pendant-Necklaces-0/New/03_Lifestyle.png"
+        "0143_Letter-Pendant-Necklaces-0/New/03_Lifestyle.png",
+        "0143_Letter-Pendant-Necklaces-0/New/04_Detail.png"
       ]
     },
     {
       "product_id": "0144",
       "folder": "0144_Large-Neutral-Hair-Claws-0",
       "status": "partial",
-      "saved_images": 1,
+      "saved_images": 2,
       "files": [
-        "0144_Large-Neutral-Hair-Claws-0/New/01_White-Background.png"
+        "0144_Large-Neutral-Hair-Claws-0/New/01_White-Background.png",
+        "0144_Large-Neutral-Hair-Claws-0/New/02_Styled-Background.png"
       ]
     },
     {
       "product_id": "0145",
       "folder": "0145_Daisy-Printed-Tote-Bag-0",
       "status": "partial",
-      "saved_images": 2,
+      "saved_images": 3,
       "files": [
         "0145_Daisy-Printed-Tote-Bag-0/New/01_White-Background.png",
-        "0145_Daisy-Printed-Tote-Bag-0/New/02_Styled-Background.png"
+        "0145_Daisy-Printed-Tote-Bag-0/New/02_Styled-Background.png",
+        "0145_Daisy-Printed-Tote-Bag-0/New/03_Lifestyle.png"
       ]
     },
     {
       "product_id": "0146",
       "folder": "0146_Pendant-Necklace-Display-0",
       "status": "partial",
-      "saved_images": 1,
+      "saved_images": 2,
       "files": [
-        "0146_Pendant-Necklace-Display-0/New/01_White-Background.png"
+        "0146_Pendant-Necklace-Display-0/New/01_White-Background.png",
+        "0146_Pendant-Necklace-Display-0/New/02_Styled-Background.png"
       ]
     },
     {
@@ -1198,18 +1219,20 @@
       "product_id": "0150",
       "folder": "0150_Blue-Cat-Backpack-0",
       "status": "partial",
-      "saved_images": 1,
+      "saved_images": 2,
       "files": [
-        "0150_Blue-Cat-Backpack-0/New/01_White-Background.png"
+        "0150_Blue-Cat-Backpack-0/New/01_White-Background.png",
+        "0150_Blue-Cat-Backpack-0/New/02_Styled-Background.png"
       ]
     },
     {
       "product_id": "0151",
       "folder": "0151_Braided-Bracelet-Assortment-0",
       "status": "partial",
-      "saved_images": 1,
+      "saved_images": 2,
       "files": [
-        "0151_Braided-Bracelet-Assortment-0/New/01_White-Background.png"
+        "0151_Braided-Bracelet-Assortment-0/New/01_White-Background.png",
+        "0151_Braided-Bracelet-Assortment-0/New/02_Styled-Background.png"
       ]
     },
     {

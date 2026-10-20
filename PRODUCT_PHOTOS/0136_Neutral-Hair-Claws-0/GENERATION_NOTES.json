@@ -1,6 +1,6 @@
 {
   "tool": "built-in image_gen",
-  "status": "partial; paused due to account image quota",
+  "status": "in_progress",
   "original_hashes": {
     "Originals/IMG-20250205-WA0729.jpg": "2eb99fe54b4951d1ff444dc8d1175972791f69001954e808f6a7ac557b26743b"
   },
@@ -20,6 +20,14 @@
       "sha256": "5355d0e6c48d950cc28448030c11dacb0a05e93ed55431e4ccc14ee05391ad56",
       "checked": true,
       "visual_review": "Two clear-wrapped cards of furry triangle snap clips with bear,bunny and smiley flower charms retain count and neutral/pink colours. Cream lavender styling checked; website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-6d281242-6fb9-40f2-9bc4-a3ef35fa442e.png",
+      "prompt": "ONE realistic website lifestyle product photo of exact reference. Two pink-striped Accessory cards,10furry triangular snap hair clips EACH,20total in clear sleeves. Exact original sequence beige/white/black/brown/dusty-pink colours and bear,bunny,smiley-flower charms. Furry snap clips NOT claws. Preserve shape,count,original arrangement and packaging. Entire assortment ONE product,full set visible on cream vanity with lavender linen and closed book well beyond product edges,soft daylight. Preserve count,identity,shape,colour,material,package and arrangement. Remove hand,shop,price,ruler/notes. No people,extra products,invented parts or reverse views.",
+      "sha256": "b870757b2238062369b334f1b1855a48db3757f46c5358dc2ecb274f4f58f11e",
+      "checked": true,
+      "visual_review": "Two cards retain10furry triangular clips each, original charm subjects and white/neutral/dusty-pink/black colours; lifestyle scene unobscured."
     }
   ],
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",

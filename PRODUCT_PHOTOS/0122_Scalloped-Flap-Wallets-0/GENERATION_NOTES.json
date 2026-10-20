@@ -21,9 +21,16 @@
       "sha256": "d17263518408ba0c0fd8586e291a95801ea944cd3b726c440fd50f7f132225f2",
       "checked": true,
       "visual_review": "Visually compared output against original: full count, main shapes/colours/materials retained. Minor printed/embossed cosmetics accepted for website standard."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-9731a414-d0b5-46e6-a556-6e3ac2b1419a.png",
+      "prompt": "Square website lifestyle product photograph. Preserve EXACT all NINE closed scallop wallets in3x3grid with matching pompom colours plus the original open tan wallet below showing card slots and zipper, same count/main shapes,colours,materials and arrangement. Entire assortment on cream dressing table in softly blurred lavender bedroom with morning window light. No hands/person, no extra products, no new text. Whole assortment fully framed.",
+      "sha256": "54634c7dfb3bb4739cb19dafc9097fd2ec975188a898713cf83c22b22fc5091f",
+      "checked": false
     }
   ],
-  "status": "partial; blocked by image generation usage_limit_reached",
+  "status": "in_progress",
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
   "originals_verified_unchanged": true
 }

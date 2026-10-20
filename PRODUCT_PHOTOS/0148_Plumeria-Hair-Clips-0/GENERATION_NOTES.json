@@ -12,10 +12,16 @@
       "sha256": "7abadd3aa4b4fb2537abb9b8687c828253c774bc675313f0f768ae995438dc7c",
       "checked": true,
       "visual_review": "Visually reviewed: website-ready, correct source subject, form, colors and assortment identity; no hand, shop or old price overlay."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-df0e8546-4626-4b51-aac9-a9e23cc1e23f.png",
+      "prompt": "Faithfully edit reference for website product photography. Whole bag assortment of foam five-petal plumeria hair clips pink purple orange blue green white with yellow centers, black clips on backs. Preserve dense overlapping quantity. Preserve exact subject, shape colors and original visible stock density. Whole assortment/product on simple lavender and cream studio surface with soft shadows, no added text. Remove hands, shop, unrelated stock and old price overlays. One square image.",
+      "sha256": "88d1f5e7c79c142e78b1a46da4af8c06361c0fa0ba243a5b4b9200e4ad4bea14",
+      "checked": false
     }
   ],
-  "status": "blocked_quota",
+  "status": "in_progress",
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
-  "blocker": "image_gen usage_limit_reached HTTP429",
   "originals_unchanged": true
 }

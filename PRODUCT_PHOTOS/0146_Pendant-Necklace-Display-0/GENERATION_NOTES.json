@@ -7,15 +7,25 @@
   "records": [
     {
       "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-27e43625-d663-4054-bd38-c2909c4dab61.png",
+      "prompt": "Faithful photo edit of source, not redesign. Keep the ENTIRE original black bobby pin card display with roughly sixty cards in three rows, about twenty narrow cards per row, in original tray grid and density. Do not reduce to 24 or enlarge individual cards. Remove unrelated upper shelf stock, price stickers and shop background. Isolate full dense display on white seamless background, realistic soft shadows, square website product photo. Preserve all cards, black pins, cream illustrated packaging and original colors.",
+      "sha256": "66b646a6eb8edba4b1e896ed4cf5693688ec5957328dce45146e4cbd5bcc4005",
+      "checked": true,
+      "visual_review": "Visually reviewed: correct subject, shape/colors and dense assortment retained, suitable website image. No hand, shop or price overlay. Detail crop count not applicable. Dense three-row card display retained; 48 fully rendered cards in white image, source edge cards partially cropped and exact full count ambiguous; not exact count verified."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true,
+  "rejected_records": [
+    {
+      "saved_file": "Rejected/01_White-Background-count-loss.png",
       "source_output": "/workspace/generated_images/exec-7e0ea475-25aa-41c2-959d-59e98543b764.png",
       "prompt": "Edit reference into website-ready product photo. Black bobby hair pins bundled on cream narrow rounded-top printed cards arranged in shallow rectangular display boxes. Preserve whole visible densely packed card assortment in three rows of boxes and black pin forms, remove unrelated top shelf stock. Preserve identity shape colors and main count. Entire product/assortment isolated neatly on pure white seamless studio background, realistic soft shadow, no added text. Remove hands, shop, people, price overlays and old stickers. One square photograph.",
       "sha256": "e4d22ae60ab8f397ee5bf440f4dece5af3a6dceb1377a120aa2ed906bd3773f3",
       "checked": false,
-      "visual_review": "Review needed: materially reduced visible card count (source roughly 60, generated 24). Retained for recovery, not approved."
+      "visual_review": "Review needed: materially reduced visible card count (source roughly 60, generated 24). Retained for recovery, not approved.",
+      "rejected": true
     }
-  ],
-  "status": "blocked_quota",
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
-  "blocker": "image_gen usage_limit_reached HTTP429",
-  "originals_unchanged": true
+  ]
 }

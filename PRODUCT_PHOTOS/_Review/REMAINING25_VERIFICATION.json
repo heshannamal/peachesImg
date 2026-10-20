@@ -1,6 +1,6 @@
 {
-  "completed_products": 0,
-  "saved_images": 32,
+  "completed_products": 2,
+  "saved_images": 50,
   "products": [
     {
       "product_id": "0117",
@@ -18,11 +18,11 @@
     {
       "product_id": "0122",
       "folder": "0122_Scalloped-Flap-Wallets-0",
-      "saved_images": 2,
+      "saved_images": 3,
       "originals_unchanged": true,
       "complete": false,
       "errors": [
-        "missing 03_Lifestyle.png",
+        "unchecked 03_Lifestyle.png",
         "missing 04_Detail.png",
         "missing 05_Promotional.png",
         "pending suffix"
@@ -31,11 +31,10 @@
     {
       "product_id": "0123",
       "folder": "0123_Colourful-Charm-Keyrings-0",
-      "saved_images": 1,
+      "saved_images": 2,
       "originals_unchanged": true,
       "complete": false,
       "errors": [
-        "missing 02_Styled-Background.png",
         "missing 03_Lifestyle.png",
         "missing 04_Detail.png",
         "missing 05_Promotional.png",
@@ -45,32 +44,6 @@
     {
       "product_id": "0124",
       "folder": "0124_Wide-Handle-Combs-0",
-      "saved_images": 1,
-      "originals_unchanged": true,
-      "complete": false,
-      "errors": [
-        "missing 02_Styled-Background.png",
-        "missing 03_Lifestyle.png",
-        "missing 04_Detail.png",
-        "missing 05_Promotional.png",
-        "pending suffix"
-      ]
-    },
-    {
-      "product_id": "0127",
-      "folder": "0127_Polka-Dot-Hair-Bows-0",
-      "saved_images": 3,
-      "originals_unchanged": true,
-      "complete": false,
-      "errors": [
-        "missing 04_Detail.png",
-        "missing 05_Promotional.png",
-        "pending suffix"
-      ]
-    },
-    {
-      "product_id": "0128",
-      "folder": "0128_Gold-Tone-Chain-Necklaces-0",
       "saved_images": 2,
       "originals_unchanged": true,
       "complete": false,
@@ -80,6 +53,22 @@
         "missing 05_Promotional.png",
         "pending suffix"
       ]
+    },
+    {
+      "product_id": "0127",
+      "folder": "0127_Polka-Dot-Hair-Bows-1",
+      "saved_images": 5,
+      "originals_unchanged": true,
+      "complete": true,
+      "errors": []
+    },
+    {
+      "product_id": "0128",
+      "folder": "0128_Gold-Tone-Chain-Necklaces-1",
+      "saved_images": 5,
+      "originals_unchanged": true,
+      "complete": true,
+      "errors": []
     },
     {
       "product_id": "0129",
@@ -114,11 +103,10 @@
     {
       "product_id": "0132",
       "folder": "0132_Brown-Cord-Necklaces-0",
-      "saved_images": 2,
+      "saved_images": 3,
       "originals_unchanged": true,
       "complete": false,
       "errors": [
-        "missing 03_Lifestyle.png",
         "missing 04_Detail.png",
         "missing 05_Promotional.png",
         "pending suffix"
@@ -172,11 +160,10 @@
     {
       "product_id": "0136",
       "folder": "0136_Neutral-Hair-Claws-0",
-      "saved_images": 2,
+      "saved_images": 3,
       "originals_unchanged": true,
       "complete": false,
       "errors": [
-        "missing 03_Lifestyle.png",
         "missing 04_Detail.png",
         "missing 05_Promotional.png",
         "pending suffix"
@@ -185,11 +172,10 @@
     {
       "product_id": "0138",
       "folder": "0138_Neutral-Decorative-Hair-Clips-0",
-      "saved_images": 2,
+      "saved_images": 3,
       "originals_unchanged": true,
       "complete": false,
       "errors": [
-        "missing 03_Lifestyle.png",
         "missing 04_Detail.png",
         "missing 05_Promotional.png",
         "pending suffix"
@@ -198,11 +184,10 @@
     {
       "product_id": "0139",
       "folder": "0139_Flower-Metal-Hair-Clips-0",
-      "saved_images": 2,
+      "saved_images": 3,
       "originals_unchanged": true,
       "complete": false,
       "errors": [
-        "missing 03_Lifestyle.png",
         "missing 04_Detail.png",
         "missing 05_Promotional.png",
         "pending suffix"
@@ -211,11 +196,10 @@
     {
       "product_id": "0140",
       "folder": "0140_Printed-Zip-Pouches-0",
-      "saved_images": 2,
+      "saved_images": 3,
       "originals_unchanged": true,
       "complete": false,
       "errors": [
-        "missing 03_Lifestyle.png",
         "missing 04_Detail.png",
         "missing 05_Promotional.png",
         "pending suffix"
@@ -224,12 +208,11 @@
     {
       "product_id": "0141",
       "folder": "0141_Pastel-Character-Hair-Clips-0",
-      "saved_images": 2,
+      "saved_images": 3,
       "originals_unchanged": true,
       "complete": false,
       "errors": [
-        "unchecked 02_Styled-Background.png",
-        "missing 03_Lifestyle.png",
+        "unchecked 03_Lifestyle.png",
         "missing 04_Detail.png",
         "missing 05_Promotional.png",
         "pending suffix"
@@ -238,11 +221,11 @@
     {
       "product_id": "0143",
       "folder": "0143_Letter-Pendant-Necklaces-0",
-      "saved_images": 2,
+      "saved_images": 3,
       "originals_unchanged": true,
       "complete": false,
       "errors": [
-        "missing 03_Lifestyle.png",
+        "unchecked 03_Lifestyle.png",
         "missing 04_Detail.png",
         "missing 05_Promotional.png",
         "pending suffix"
@@ -266,11 +249,11 @@
     {
       "product_id": "0145",
       "folder": "0145_Daisy-Printed-Tote-Bag-0",
-      "saved_images": 1,
+      "saved_images": 2,
       "originals_unchanged": true,
       "complete": false,
       "errors": [
-        "missing 02_Styled-Background.png",
+        "unchecked 02_Styled-Background.png",
         "missing 03_Lifestyle.png",
         "missing 04_Detail.png",
         "missing 05_Promotional.png",
@@ -284,7 +267,6 @@
       "originals_unchanged": true,
       "complete": false,
       "errors": [
-        "unchecked 01_White-Background.png",
         "missing 02_Styled-Background.png",
         "missing 03_Lifestyle.png",
         "missing 04_Detail.png",
@@ -295,11 +277,11 @@
     {
       "product_id": "0148",
       "folder": "0148_Plumeria-Hair-Clips-0",
-      "saved_images": 1,
+      "saved_images": 2,
       "originals_unchanged": true,
       "complete": false,
       "errors": [
-        "missing 02_Styled-Background.png",
+        "unchecked 02_Styled-Background.png",
         "missing 03_Lifestyle.png",
         "missing 04_Detail.png",
         "missing 05_Promotional.png",
@@ -309,11 +291,11 @@
     {
       "product_id": "0149",
       "folder": "0149_Pink-Printed-Backpack-0",
-      "saved_images": 1,
+      "saved_images": 2,
       "originals_unchanged": true,
       "complete": false,
       "errors": [
-        "missing 02_Styled-Background.png",
+        "unchecked 02_Styled-Background.png",
         "missing 03_Lifestyle.png",
         "missing 04_Detail.png",
         "missing 05_Promotional.png",

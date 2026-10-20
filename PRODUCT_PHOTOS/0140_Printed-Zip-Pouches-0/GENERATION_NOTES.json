@@ -1,6 +1,6 @@
 {
   "tool": "built-in image_gen",
-  "status": "partial; paused due to account image quota",
+  "status": "in_progress",
   "original_hashes": {
     "Originals/IMG-20250205-WA0890.jpg": "4e304f70e9d624620974c60d02ccbd6e384676bd13ca6439d0ed1b7bd1a76783"
   },
@@ -20,6 +20,14 @@
       "sha256": "1bb16a298d247a6c6d7060d2ed4407a52270a11a0bde813245e92071518f81d1",
       "checked": true,
       "visual_review": "Six bagged rectangular zip pouches retain original order,red/pink kitten,pale cat,purple unicorn and pastel gradient prints. Cream lavender styling checked; website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-58943bc5-8528-4207-a662-e5f464af1194.png",
+      "prompt": "ONE realistic website lifestyle product photo of exact reference. Six rectangular quilted zip pouches stacked vertically in one clear bag: topred white kitten print,nextpink kitten designs,nextpink mixed kitten/toy print,nextpale pink blue/gray cats,nextpurple unicorn/rainbow,bottompastel blue-pink gradient cloud/hearts/gem. Preserve6count/order,quilt stitching,printing,zip shapes and bag. Entire assortment ONE product,full set visible on cream vanity with lavender linen and closed book well beyond product edges,soft daylight. Preserve count,identity,shape,colour,material,package and arrangement. Remove hand,shop,price,ruler/notes. No people,extra products,invented parts or reverse views.",
+      "sha256": "ca597d7279f7caf7926d1b2e1f43ddbf7dcd5c662c54ac599ffb74dc6d3d9d86",
+      "checked": true,
+      "visual_review": "Six quilted pouches retain red/pink kitten,pale cats,purple unicorn,pastel gradient order and clear bag; lifestyle background clean."
     }
   ],
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",

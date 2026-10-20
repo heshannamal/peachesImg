@@ -12,10 +12,16 @@
       "sha256": "56cc376dd66edd089d8b4017990764b0c5b5be9eebfea43374d32770c8410d2d",
       "checked": true,
       "visual_review": "Visually reviewed: website-ready, correct source subject, form, colors and assortment identity; no hand, shop or old price overlay."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-4d0c1ecb-d6ca-45ba-ae14-595b1062ff19.png",
+      "prompt": "Faithfully edit reference for website product photography. Single pink unicorn print fabric backpack, white unicorns purple manes stars moons blue clouds rainbows, front zipper pocket pink side pockets and gold zipper pull. Preserve exact subject, shape colors and original visible stock density. Whole assortment/product on simple lavender and cream studio surface with soft shadows, no added text. Remove hands, shop, unrelated stock and old price overlays. One square image.",
+      "sha256": "6e79f9a11adb05901f064cc631a6a10bd786d65fdfbb71e1f294cc619f80c374",
+      "checked": false
     }
   ],
-  "status": "blocked_quota",
+  "status": "in_progress",
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
-  "blocker": "image_gen usage_limit_reached HTTP429",
   "originals_unchanged": true
 }

@@ -12,9 +12,17 @@
       "sha256": "645ceba2d90206c4eff78018b83627c4c8c5d26abb166ed01562ce055e9108e2",
       "checked": true,
       "visual_review": "Visually compared output against original: full count, main shapes/colours/materials retained. Minor printed/embossed cosmetics accepted for website standard."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-97dfea97-bac2-4e68-ad36-fd8f4c46ac0d.png",
+      "prompt": "Square website product photo on lavender cream studio background. Preserve EXACT all FOUR original amber/cream wide handle combs on cards, same alternating heads/grips and cartoon designs. Same count, main shape,colours,materials,packaging and arrangement. Whole assortment fully framed, soft shadows, no new text/extra items.",
+      "sha256": "15132b4b14921985404225b25cf82bf56b89ebc66b79db596479515919f2980f",
+      "checked": true,
+      "visual_review": "Reviewed complete assortment against originals; main count, colours and shapes retained."
     }
   ],
-  "status": "partial; blocked by image generation usage_limit_reached",
+  "status": "in_progress",
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
   "originals_verified_unchanged": true
 }

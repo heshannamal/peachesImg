@@ -1,48 +1,14 @@
 {
-  "status": "blocked",
-  "blocker": "account image quota usage_limit_reached reported by coordinator",
-  "products": {
-    "0136": {
-      "saved": 2,
-      "checked": 2,
-      "missing": [
-        "03_Lifestyle.png",
-        "04_Detail.png",
-        "05_Promotional.png"
-      ],
-      "folder": "0136_Neutral-Hair-Claws-0"
-    },
-    "0138": {
-      "saved": 2,
-      "checked": 2,
-      "missing": [
-        "03_Lifestyle.png",
-        "04_Detail.png",
-        "05_Promotional.png"
-      ],
-      "folder": "0138_Neutral-Decorative-Hair-Clips-0"
-    },
-    "0139": {
-      "saved": 2,
-      "checked": 2,
-      "missing": [
-        "03_Lifestyle.png",
-        "04_Detail.png",
-        "05_Promotional.png"
-      ],
-      "folder": "0139_Flower-Metal-Hair-Clips-0"
-    },
-    "0140": {
-      "saved": 2,
-      "checked": 2,
-      "missing": [
-        "03_Lifestyle.png",
-        "04_Detail.png",
-        "05_Promotional.png"
-      ],
-      "folder": "0140_Printed-Zip-Pouches-0"
-    }
-  },
-  "saved_images": 8,
-  "inflight": 0
+  "status": "in_progress",
+  "assigned": [
+    "0136",
+    "0138",
+    "0139",
+    "0140"
+  ],
+  "resuming_missing": [
+    "03_Lifestyle",
+    "04_Detail",
+    "05_Promotional"
+  ]
 }

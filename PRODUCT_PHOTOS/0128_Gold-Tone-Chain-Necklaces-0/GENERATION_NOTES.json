@@ -12,6 +12,32 @@
       "prompt": "Edit original into website-ready ecommerce white seamless photo soft shadow. Preserve EXACT entire packaged assortment ONE product: six white tall Fashion Jewelry display cards side by side inside clear plastic, each holding one gold-tone link chain bracelet (actualshortbracelet proportions). Left two central rhinestone outlined STAR motifs, middle two HEART motifs, right two BUTTERFLY motifs. Preserve lobsterclasps top, round cutout-disc links and elongated rectangular links, extenderchainbottom, clear stones, goldfinish, cards/arrangement/count/shape as source. Remove hand/shop/1200Rs overlay only. No invented reverse or extra parts, no extra text.",
       "checked": true,
       "visual_check": "Basic check six gold link bracelets on six white cards inside sleeve, paired stars/hearts/butterflies left to right, lobsterclasps/disc links/extenders retained, no price/hand."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "cache_file": "/workspace/generated_images/exec-aed68e11-29f3-4b84-860a-342837657f09.png",
+      "sha256": "aadeb72e0ba714ffc95401266547fee4764f0bb584afd96d2655bd2e9078de5c",
+      "prompt": "Edit original into website-ready ecommerce white seamless photo soft shadow. Preserve EXACT entire packaged assortment ONE product: six white tall Fashion Jewelry display cards side by side inside clear plastic, each holding one gold-tone link chain bracelet (actualshortbracelet proportions). Left two central rhinestone outlined STAR motifs, middle two HEART motifs, right two BUTTERFLY motifs. Preserve lobsterclasps top, round cutout-disc links and elongated rectangular links, extenderchainbottom, clear stones, goldfinish, cards/arrangement/count/shape as source. Remove hand/shop/1200Rs overlay only. No invented reverse or extra parts, no extra text. BACKGROUND OVERRIDE pale lavender/cream studio scene, full six-card packaged assortment unchanged, soft shadows no props/added text.",
+      "checked": true,
+      "visual_check": "Basic check six cards/six bracelets paired star heart butterfly motifs, gold links/clasps and packaging retained, lavender scene."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-b6476a6b-ecb9-44a0-a702-93570a9799b2.png",
+      "prompt": "Edit reference into one website-ready macro detail photograph of the existing gold-tone chain bracelets. Tight crop showing one rhinestone heart charm, adjoining round cutout discs, elongated rectangular gold links and white retail display card under clear packaging. Preserve actual gold colour, metal and crystal details. Soft cream and lavender background. Remove hand, shop surroundings and old price overlay. No added text, no collage, no invented jewellery.",
+      "sha256": "783a1589519e4151149f1fe986dc78dcb131a44ae9092c4f0e903f80a70cccd7",
+      "checked": true,
+      "visual_review": "Visually compared to original: correct gold-tone links, cutout discs and rhinestone motif. Lifestyle preserves six cards with two star, two heart and two butterfly bracelets; detail is close crop of existing heart and adjacent links. Website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-3d35938b-2c43-4a7d-8a60-1e255fa572e0.png",
+      "prompt": "Recovered lifestyle output from previous quota-stopped run; original submitted prompt unavailable. Six gold-tone star heart butterfly bracelet cards on cream vanity with lavender background.",
+      "sha256": "bf811b269ae78f4897703105b1c0906ac3472ecf60ea214d71300fb933dd107e",
+      "checked": true,
+      "visual_review": "Visually compared to original: correct gold-tone links, cutout discs and rhinestone motif. Lifestyle preserves six cards with two star, two heart and two butterfly bracelets; detail is close crop of existing heart and adjacent links. Website-ready."
     }
-  ]
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
 }

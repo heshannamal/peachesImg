@@ -1,6 +1,6 @@
 {
   "tool": "built-in image_gen",
-  "status": "in_progress",
+  "status": "partial; paused due to account image quota",
   "original_hashes": {
     "Originals/IMG-20250205-WA0852.jpg": "c5d21491fe8fa11553048da301ee0a64ae5ec73941b01a21d4f89cc75ac42f15"
   },
@@ -12,7 +12,16 @@
       "sha256": "289168f76ca75798a85dc8ceeecbcb114ea6ae040da935100a42bd0aea811607",
       "checked": true,
       "visual_review": "Twelve five-petal metal flower claws retain4by3arrangement and gold,bronze,gunmetal,silver row colours."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-12866966-ce9a-45c1-9f1d-d186cc348e67.png",
+      "prompt": "ONE realistic website styled-background product photo of exact reference. Twelve glossy metallic five-petal flower hair claws in4rows3columns: top3gold-tone,next3rose-gold/bronze,next3dark gunmetal,bottom3silver. Preserve hollow cup-shaped pointed petals,engraved/stippled reflective texture and visible original claw teeth. Exact12count and arrangement. Entire assortment ONE product. Full product within frame on warm cream surface with lavender cloth accents outside product. Preserve count,identity,shape,colour,material,package and arrangement. Remove hand,shop,price,ruler/notes. No extra products or invented parts/views.",
+      "sha256": "1cd7d1bdbf0bddae4d30c460fb0930460b2fb40df74678a63ddfded7eb285bd0",
+      "checked": true,
+      "visual_review": "Twelve five-petal metal flower claws retain4by3arrangement and gold,bronze,gunmetal,silver row colours. Cream lavender styling checked; website-ready."
     }
   ],
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "blocker": "usage_limit_reached reported by coordinator"
 }

@@ -1,6 +1,6 @@
 {
   "tool": "built-in image_gen",
-  "status": "in_progress",
+  "status": "partial; paused due to account image quota",
   "original_hashes": {
     "Originals/IMG-20250205-WA0733.jpg": "3ebdb2f0254777b71c6e0f2c6d2f807c06d8c7c00915f9e6e376d8e52eeb483c"
   },
@@ -12,7 +12,16 @@
       "sha256": "6dd022c669f9d5f1a2780cd8595e53db86c50caed3fd263339e452a9d35fba83",
       "checked": true,
       "visual_review": "Two wrapped cards retain furry triangular clips, neutral/dusty-pink colours and small black-white character charms."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-38b8ed7e-acb3-4ad5-b2c8-2612587619fd.png",
+      "prompt": "ONE realistic website styled-background product photo of exact reference. Two long pink-striped Accessory cards of furry triangular snap hair clips,10on EACH card20total in clear sleeves. Preserve white,pink,beige,brown,black plush and original black/white jester character charms,pink bows,hearts and exact original order. No additional items. Entire assortment ONE product. Full product within frame on warm cream surface with lavender cloth accents outside product. Preserve count,identity,shape,colour,material,package and arrangement. Remove hand,shop,price,ruler/notes. No extra products or invented parts/views.",
+      "sha256": "86be6d80d20cc1a7a20b38704293bfd7f50bffaabbbd0f6e3c09cde474d9ee07",
+      "checked": true,
+      "visual_review": "Two wrapped cards retain furry triangular clips, neutral/dusty-pink colours and small black-white character charms. Cream lavender styling checked; website-ready."
     }
   ],
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "blocker": "usage_limit_reached reported by coordinator"
 }

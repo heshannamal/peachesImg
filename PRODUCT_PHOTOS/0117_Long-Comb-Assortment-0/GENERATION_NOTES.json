@@ -1,0 +1,28 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250201-WA0364.jpg": "8f19f2a1fe61a044e59dcd93c88d4b58fd87b4f46c5553586da61ab1f1de8bf0"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-ce9e9aaa-67f0-4d74-8759-474e72202c95.png",
+      "prompt": "Square website ecommerce photograph on pure white background. Preserve EXACT entire assortment from reference: FOUR long fine-tooth combs on original white cards in clear packaging, pink blue-grey cream mint, original cartoon prints, same side-by-side arrangement. Same count, main shapes,colours,materials and arrangement. Remove hand,shop,price/information overlays and unrelated scenery only. Whole assortment fully framed with margins and soft studio shadows. No new text or invented parts.",
+      "sha256": "0d4af0663e9d31e1c98877a667843a6ecb4c5b3ad367eb73d6acb9eac2ee4d63",
+      "checked": true,
+      "visual_review": "Visually compared output against original: full count, main shapes/colours/materials retained. Minor printed/embossed cosmetics accepted for website standard."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-b7b03159-946c-4ddd-bf39-f5fc39b0f2f6.png",
+      "prompt": "Square website product photo on lavender cream studio background. EXACT entire assortment: FOUR long fine-tooth combs on original white cards in clear packaging, pink blue-grey cream mint, original cartoon prints, same side-by-side arrangement. Preserve original count, shapes,colours,materials,arrangement and packaging. Fully in frame, soft shadows, no new text or extra pieces.",
+      "sha256": "5a1677999f752908a5ecbb249260ec95fb0cdac0b77ceff8a6cb8075641ea0dc",
+      "checked": true,
+      "visual_review": "Visually compared output against original: full count, main shapes/colours/materials retained. Minor printed/embossed cosmetics accepted for website standard."
+    }
+  ],
+  "status": "partial; blocked by image generation usage_limit_reached",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_verified_unchanged": true
+}

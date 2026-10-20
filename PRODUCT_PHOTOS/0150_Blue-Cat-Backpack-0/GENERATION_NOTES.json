@@ -1,0 +1,21 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250207-WA0260.jpg": "d20262ad15f4046fbf5ec4ac3a697061fe9b48c3db5f2a4dd720da64bbe9e4c4"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-ab9e874d-df8a-4adb-b6a6-6af2c0ecf609.png",
+      "prompt": "Edit reference into website-ready product photo. One navy blue fabric backpack printed with various illustrated cats and tiny breed names, CAT COLLECTION text, rounded rectangular body, navy straps, zippered front pocket with gold pull. Preserve form and cat print. Preserve identity shape colors and main count. Entire product/assortment isolated neatly on pure white seamless studio background, realistic soft shadow, no added text. Remove hands, shop, people, price overlays and old stickers. One square photograph.",
+      "sha256": "757d1e7e646cb259c38472c4b47ab98dfa31bba3d8a2d1cd25edbb5f73826bc7",
+      "checked": true,
+      "visual_review": "Visually reviewed: website-ready, correct source subject, form, colors and assortment identity; no hand, shop or old price overlay."
+    }
+  ],
+  "status": "blocked_quota",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "blocker": "image_gen usage_limit_reached HTTP429",
+  "originals_unchanged": true
+}

@@ -1,0 +1,21 @@
+{
+  "tool": "built-in image_gen",
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "sha256": "14a19929fb9920bcc0ef1f944ab8dbb8d48b5b2909876c89ae5ffcf5549c540e",
+      "checked": false,
+      "visual_review": "Rejected: wrong colour allocation in right column."
+    }
+  ],
+  "original_hashes": {
+    "Originals/IMG-20250206-WA0617.jpg": "4c204b499b1424134d843d1f396d47db63c871929e170bc5625926a873abfbf7"
+  },
+  "status": "blocked: usage_limit_reached",
+  "rejected_outputs": [
+    {
+      "file": "Rejected/01_White-Background-colour-count.png",
+      "reason": "Wrong colour allocation: three dark/black clips and one light clip in right column instead of two each."
+    }
+  ]
+}

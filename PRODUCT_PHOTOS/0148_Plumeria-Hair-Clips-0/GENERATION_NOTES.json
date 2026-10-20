@@ -1,0 +1,21 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250207-WA0194.jpg": "bbec3dbdb4948a6f52f1bf14cf160b8415e1294b4ddab52a0fde3f6d857ed22c"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-1d065908-1918-42ec-beb6-a2cab0017e2f.png",
+      "prompt": "Edit reference into website-ready product photo. Whole bag assortment of medium five-petal foam plumeria hair clips in pink purple orange green blue and white with yellow centers and black alligator clips on backs. Preserve visible densely overlapping quantities and colors, do not substitute real flowers. Preserve identity shape colors and main count. Entire product/assortment isolated neatly on pure white seamless studio background, realistic soft shadow, no added text. Remove hands, shop, people, price overlays and old stickers. One square photograph.",
+      "sha256": "7abadd3aa4b4fb2537abb9b8687c828253c774bc675313f0f768ae995438dc7c",
+      "checked": true,
+      "visual_review": "Visually reviewed: website-ready, correct source subject, form, colors and assortment identity; no hand, shop or old price overlay."
+    }
+  ],
+  "status": "blocked_quota",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "blocker": "image_gen usage_limit_reached HTTP429",
+  "originals_unchanged": true
+}

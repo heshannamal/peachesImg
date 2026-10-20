@@ -1,6 +1,6 @@
 {
   "tool": "built-in image_gen",
-  "status": "in_progress",
+  "status": "partial; paused due to account image quota",
   "original_hashes": {
     "Originals/IMG-20250205-WA0890.jpg": "4e304f70e9d624620974c60d02ccbd6e384676bd13ca6439d0ed1b7bd1a76783"
   },
@@ -12,7 +12,16 @@
       "sha256": "c30da2c4dce3a928589465de61bbf04e2b2e0105b7073e38016269b845ce41f0",
       "checked": true,
       "visual_review": "Six bagged rectangular zip pouches retain original order,red/pink kitten,pale cat,purple unicorn and pastel gradient prints."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-317db82f-2c37-41a0-9210-a983afb4d6fc.png",
+      "prompt": "ONE realistic website styled-background product photo of exact reference. Six rectangular quilted zip pouches stacked vertically inside one clear bag. Top red cartoon white kitten print,next pink kitten designs,next pink mixed kitten/toy print,next pale pink blue/gray cats,next purple unicorns/rainbows, bottom pastel blue-pink gradient with clouds/hearts/gem. Preserve6pouches,count,order,quilt stitching,printing,zip silhouettes and clear package. Entire assortment ONE product. Full product within frame on warm cream surface with lavender cloth accents outside product. Preserve count,identity,shape,colour,material,package and arrangement. Remove hand,shop,price,ruler/notes. No extra products or invented parts/views.",
+      "sha256": "1bb16a298d247a6c6d7060d2ed4407a52270a11a0bde813245e92071518f81d1",
+      "checked": true,
+      "visual_review": "Six bagged rectangular zip pouches retain original order,red/pink kitten,pale cat,purple unicorn and pastel gradient prints. Cream lavender styling checked; website-ready."
     }
   ],
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "blocker": "usage_limit_reached reported by coordinator"
 }

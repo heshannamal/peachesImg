@@ -1,0 +1,20 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250204-WA0025.jpg": "2eb6f68bb542c7033f7379a5ed1e09d29573c09ca8a707b5603e7ce42cbe3a02"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-ee24db59-ff4d-40ee-94aa-b5ccf907d3e9.png",
+      "prompt": "Square website ecommerce photograph on pure white background. Preserve EXACT entire assortment from reference: FOUR packaged wide handle combs on original white backing cards, alternating amber head cream grip, cream head amber grip, amber head cream grip, cream head amber grip, exact original differing molded rubberized handles and cartoon prints. Same count, main shapes,colours,materials and arrangement. Remove hand,shop,price/information overlays and unrelated scenery only. Whole assortment fully framed with margins and soft studio shadows. No new text or invented parts.",
+      "sha256": "645ceba2d90206c4eff78018b83627c4c8c5d26abb166ed01562ce055e9108e2",
+      "checked": true,
+      "visual_review": "Visually compared output against original: full count, main shapes/colours/materials retained. Minor printed/embossed cosmetics accepted for website standard."
+    }
+  ],
+  "status": "partial; blocked by image generation usage_limit_reached",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_verified_unchanged": true
+}

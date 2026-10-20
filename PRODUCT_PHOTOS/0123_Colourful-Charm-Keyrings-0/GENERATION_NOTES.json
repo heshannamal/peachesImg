@@ -1,0 +1,20 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250204-WA0022.jpg": "9f386c9d121e6b896210d55e87d97bfa5d155bf41eec1704d9cecbdff357c7b0"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-c63e1110-7548-4c8f-8977-a1425554517f.png",
+      "prompt": "Square website ecommerce photograph on pure white background. Preserve EXACT entire assortment from reference: TWELVE keyrings hanging from original red I Love You card, six colour pairs pink blue orange purple red green, each has original silver keyring chain, clear rose bottle and faceted heart charm, preserve exact arrangement. Same count, main shapes,colours,materials and arrangement. Remove hand,shop,price/information overlays and unrelated scenery only. Whole assortment fully framed with margins and soft studio shadows. No new text or invented parts.",
+      "sha256": "4ecabc1a6f1e74c571855f83ca80f2f6c334fc0d2fe90b9f14961d1e231e59d1",
+      "checked": true,
+      "visual_review": "Visually compared output against original: full count, main shapes/colours/materials retained. Minor printed/embossed cosmetics accepted for website standard."
+    }
+  ],
+  "status": "partial; blocked by image generation usage_limit_reached",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_verified_unchanged": true
+}

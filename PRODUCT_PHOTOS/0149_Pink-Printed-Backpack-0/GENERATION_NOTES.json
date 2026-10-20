@@ -1,0 +1,21 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250207-WA0257.jpg": "9cd184e004a4daee36db68b46c57c5d6dd83510d650714e1f3fae737ab5d503e"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-734afbf8-38f4-47d0-aa24-20e1da3521f8.png",
+      "prompt": "Edit reference into website-ready product photo. One pink fabric backpack with white unicorns, purple manes, white stars and moons, blue clouds and rainbows. Preserve rounded rectangular body, zippered front pocket, pink side pockets and gold zipper pull. Preserve identity shape colors and main count. Entire product/assortment isolated neatly on pure white seamless studio background, realistic soft shadow, no added text. Remove hands, shop, people, price overlays and old stickers. One square photograph.",
+      "sha256": "56cc376dd66edd089d8b4017990764b0c5b5be9eebfea43374d32770c8410d2d",
+      "checked": true,
+      "visual_review": "Visually reviewed: website-ready, correct source subject, form, colors and assortment identity; no hand, shop or old price overlay."
+    }
+  ],
+  "status": "blocked_quota",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "blocker": "image_gen usage_limit_reached HTTP429",
+  "originals_unchanged": true
+}

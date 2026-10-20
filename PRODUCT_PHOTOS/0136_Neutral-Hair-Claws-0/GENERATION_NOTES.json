@@ -1,6 +1,6 @@
 {
   "tool": "built-in image_gen",
-  "status": "in_progress",
+  "status": "partial; paused due to account image quota",
   "original_hashes": {
     "Originals/IMG-20250205-WA0729.jpg": "2eb99fe54b4951d1ff444dc8d1175972791f69001954e808f6a7ac557b26743b"
   },
@@ -12,7 +12,16 @@
       "sha256": "33de5c19ee317f7edc1e1cc4e55673f9a6c12c67270d68f21bba6b4aad457321",
       "checked": true,
       "visual_review": "Two clear-wrapped cards of furry triangle snap clips with bear,bunny and smiley flower charms retain count and neutral/pink colours."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-223dceb6-68d6-4261-ba0c-517c4a44241c.png",
+      "prompt": "ONE realistic website styled-background product photo of exact reference. Two long pink-striped Accessory backing cards,10furry triangular snap hair clips on EACH card,20total, inside clear sleeves. Exact original sequence and beige/white/black/brown/dusty-pink colours, original bear,bunny and smiley-flower small charms. These are furry snap clips, NOT hair claws. Preserve exact shapes,count,printing,arrangement and packaging. Entire assortment ONE product. Full product within frame on warm cream surface with lavender cloth accents outside product. Preserve count,identity,shape,colour,material,package and arrangement. Remove hand,shop,price,ruler/notes. No extra products or invented parts/views.",
+      "sha256": "5355d0e6c48d950cc28448030c11dacb0a05e93ed55431e4ccc14ee05391ad56",
+      "checked": true,
+      "visual_review": "Two clear-wrapped cards of furry triangle snap clips with bear,bunny and smiley flower charms retain count and neutral/pink colours. Cream lavender styling checked; website-ready."
     }
   ],
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "blocker": "usage_limit_reached reported by coordinator"
 }

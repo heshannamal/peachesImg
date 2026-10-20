@@ -1,0 +1,21 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250207-WA0012.jpg": "2a314ee91500626c203a7f3f83128db00a8e41b6d1708ca518809eab39e6ee77"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-7e0ea475-25aa-41c2-959d-59e98543b764.png",
+      "prompt": "Edit reference into website-ready product photo. Black bobby hair pins bundled on cream narrow rounded-top printed cards arranged in shallow rectangular display boxes. Preserve whole visible densely packed card assortment in three rows of boxes and black pin forms, remove unrelated top shelf stock. Preserve identity shape colors and main count. Entire product/assortment isolated neatly on pure white seamless studio background, realistic soft shadow, no added text. Remove hands, shop, people, price overlays and old stickers. One square photograph.",
+      "sha256": "e4d22ae60ab8f397ee5bf440f4dece5af3a6dceb1377a120aa2ed906bd3773f3",
+      "checked": false,
+      "visual_review": "Review needed: materially reduced visible card count (source roughly 60, generated 24). Retained for recovery, not approved."
+    }
+  ],
+  "status": "blocked_quota",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "blocker": "image_gen usage_limit_reached HTTP429",
+  "originals_unchanged": true
+}

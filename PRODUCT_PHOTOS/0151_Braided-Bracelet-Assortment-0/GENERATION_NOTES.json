@@ -1,0 +1,21 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250207-WA0287.jpg": "d7045134798dc846cbae37e60319c7137c922c79e5f2142b9bdf4b25dd559bdc"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-0812e2bd-5439-4717-9ff7-e850f7672e79.png",
+      "prompt": "Edit reference into website-ready product photo. Whole densely packed automotive lanyard keyring stock assortment with silver rings and swivel clasps in six distinct groups: white red Suzuki, black white TVS, red yellow black Honda, bright blue white Suzuki, yellow black Toyota, dark blue white Honda. Preserve dense quantity and six color groups and ribbon loops. Not bracelets. Preserve identity shape colors and main count. Entire product/assortment isolated neatly on pure white seamless studio background, realistic soft shadow, no added text. Remove hands, shop, people, price overlays and old stickers. One square photograph.",
+      "sha256": "3c975fb0b136a08a886793b7f40dd55294fe758737e7c5e2a39afc2dc56eff97",
+      "checked": true,
+      "visual_review": "Visually reviewed: website-ready, correct source subject, form, colors and assortment identity; no hand, shop or old price overlay."
+    }
+  ],
+  "status": "blocked_quota",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "blocker": "image_gen usage_limit_reached HTTP429",
+  "originals_unchanged": true
+}

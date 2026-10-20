@@ -1,0 +1,52 @@
+{
+  "status": "blocked",
+  "blocker": "HTTP429 usage_limit_reached",
+  "resets_at": 1792462566,
+  "products": [
+    {
+      "product_id": "0117",
+      "saved": 2,
+      "checked": 2,
+      "missing": [
+        "03_Lifestyle",
+        "04_Detail",
+        "05_Promotional"
+      ]
+    },
+    {
+      "product_id": "0122",
+      "saved": 2,
+      "checked": 2,
+      "missing": [
+        "03_Lifestyle",
+        "04_Detail",
+        "05_Promotional"
+      ]
+    },
+    {
+      "product_id": "0123",
+      "saved": 1,
+      "checked": 1,
+      "missing": [
+        "02_Styled-Background",
+        "03_Lifestyle",
+        "04_Detail",
+        "05_Promotional"
+      ]
+    },
+    {
+      "product_id": "0124",
+      "saved": 1,
+      "checked": 1,
+      "missing": [
+        "02_Styled-Background",
+        "03_Lifestyle",
+        "04_Detail",
+        "05_Promotional"
+      ]
+    }
+  ],
+  "new_images_saved": 6,
+  "completed": [],
+  "in_flight": []
+}

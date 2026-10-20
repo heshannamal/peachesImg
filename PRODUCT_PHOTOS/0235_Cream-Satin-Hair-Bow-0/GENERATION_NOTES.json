@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250227-WA0313.jpg": "53812e155ef1a22a22793ff61962193c8477fd43e5a684b6286fc7669703287d"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-ea758e42-cba3-4e4e-b3e1-bf0516e188bf.png",
+      "prompt": "Clean white seamless ecommerce product photograph. SINGLE cream ivory satin hair bow with two folded loops, centre satin band and two long broad pointed tails; tiny silver rhinestone dots scattered and six white pearls total at lower tails three per side. Preserve actual satin sheen shape folds ivory colour decoration count. No invented back clip. Preserve product identity shape count colours. Remove hand shop background, no text, soft light.",
+      "sha256": "786e530d38814a7259b6f2c3bfac01e8285622865deec24300e6e194d13856a8",
+      "checked": true,
+      "visual_review": "Single ivory satin bow retains loops pointed tails rhinestones and sixpearls."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-dbb7f925-1b7a-45b1-b93e-8941f3f0692b.png",
+      "prompt": "Styled ecommerce product photo on lavender ground with cream cloth. SINGLE cream ivory satin hair bow with two folded loops, centre satin band and two long broad pointed tails; tiny silver rhinestone dots scattered and six white pearls total at lower tails three per side. Preserve actual satin sheen shape folds ivory colour decoration count. No invented back clip. Same front view actualshape colour decorationcount, remove handshop no text.",
+      "sha256": "7301ac62877811e645540dbaf7d2420b94b2953bbbe99a99be665364f536ad27",
+      "checked": true,
+      "visual_review": "Single ivory satin bow retains pointed tails rhinestones sixpearls and folds on lavender."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

@@ -38,6 +38,7 @@ def reconcile():
   rows.append({'product_id':pid,'folder':folder.name,'status':status,'saved_images':len(present),'checked_images':len(checked),'files':['New/'+n for n in present],'errors':errors,'originals_unchanged':True})
  result={'updated_at':datetime.now(timezone.utc).isoformat(),'target_products':100,'target_images':500,'completed_products':sum(r['status']=='complete' for r in rows),'partial_products':sum(r['status']=='partial' for r in rows),'pending_products':sum(r['status']=='pending' for r in rows),'blocked_products':sum(r['status']=='blocked' for r in rows),'saved_images':sum(r['saved_images'] for r in rows),'checked_images':sum(r['checked_images'] for r in rows),'products':rows}
  write(REVIEW/'products.json',inventory);write(REVIEW/'NEXT100_PROGRESS.json',result)
+ state=read(REVIEW/'NEXT100_STATE.json');state.update({k:v for k,v in result.items() if k!='products'});write(REVIEW/'NEXT100_STATE.json',state)
  print(json.dumps({k:v for k,v in result.items() if k!='products'}));return result
 
 def sync():

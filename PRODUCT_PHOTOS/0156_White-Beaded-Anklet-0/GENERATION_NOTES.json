@@ -1,0 +1,25 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250208-WA0041.jpg": "5dacc29e903386b1bd6f335016ad8664e381d90381922144839d2ca6141a452b"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-b9bcbca7-04a9-4571-8800-6caef052abf7.png",
+      "prompt": "Square website product photo on clean white studio background. Preserve EXACT single white cowrie-shell anklet worn on same ankle in original view; keep same visible shell count, alternating shell orientations, brown cord and hidden back occlusion, no invented hidden shells. Remove price,shop/hand distractions only; KEEP ankle and pose to avoid inventing hidden jewellery. Main shapes,colour,materials/count unchanged, realistic soft lighting, no new text.",
+      "sha256": "b174da55547bc6f14dad759ecee976ad73f556c8944303e0c81f8b95fcb42c13",
+      "checked": false
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-dd8543a2-c7a6-406b-925f-28f51831bef2.png",
+      "prompt": "Square website photo preserve EXACT single white cowrie-shell anklet worn on same ankle in original view; keep same visible shell count, alternating shell orientations, brown cord and hidden back occlusion, no invented hidden shells. Same visible count,shapes,colours,materials/arrangement. Change only surroundings to lavender cream studio background, soft shadows. Entire original product fully framed, no newtext/extra jewellery.",
+      "sha256": "646c26fdd201860b00a16d35f567aeeab4058c0044cf5f5b60c1fb2d256bc016",
+      "checked": false
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

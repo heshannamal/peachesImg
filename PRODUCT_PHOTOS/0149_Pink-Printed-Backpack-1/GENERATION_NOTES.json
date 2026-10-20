@@ -36,9 +36,17 @@
       "sha256": "a9c5ececf69326e4005410e11692f75ec0ad1649b004e46183db75d24cb9c079",
       "checked": true,
       "visual_review": "Visually reviewed: correct subject, shape/colors and dense assortment retained, suitable website image. No hand, shop or price overlay. Detail crop count not applicable."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-21687939-94e2-4176-bb3c-2e88fbfa21a9.png",
+      "prompt": "Create website promotional photograph using reference: exactly ONE single physical pink unicorn backpack, one bag only, no duplicates, no collage, no panels, no repeated objects, no collection of bags. Preserve pink fabric, white unicorn print, purple manes, blue clouds, moons stars, gold zip pull and backpack shape. Simple lavender and cream background. Short compact heading Pink Unicorn Backpack. Remove shop and price overlay. One square photo.",
+      "sha256": "1436f9f6ae2647cfb6e60e359818068616513568e6eff086763d5a07515282c3",
+      "checked": true,
+      "visual_review": "Visually checked corrective promo: exactly one physical backpack; source pink unicorn print, form and colors retained; short heading legible. PRODUCT COLLECTION subtitle omitted per parent instruction to avoid duplicating the product."
     }
   ],
-  "status": "in_progress",
+  "status": "complete",
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
   "originals_unchanged": true,
   "rejected_records": [

@@ -42,10 +42,11 @@
       "source_output": "/workspace/generated_images/exec-e5fa6b45-dadf-4187-8484-dc74d9cfd47a.png",
       "prompt": "Faithfully edit reference for website promotional product photography. Dense stock assortment of ribbon lanyards with silver keyrings and swivel clasps in six color groups: white/red Suzuki, black/white TVS, red/yellow Honda, bright blue/white Suzuki, yellow/black Toyota, dark blue/white Honda. Preserve dense visible quantity and all six groups. Preserve subject shape colors and dense stock quantity. Whole assortment/product on simple lavender and cream backdrop, compact descriptive title Automotive Lanyards and smaller PRODUCT COLLECTION. Remove hands, shop, unrelated stock and old price overlays. One square image.",
       "sha256": "d7d65558d15814b2ef4faa99fb9196585c21f3ee486f3d61c074e8cfe0f5e410",
-      "checked": false
+      "checked": true,
+      "visual_review": "Visually reviewed: correct subject, shape/colors and dense assortment retained, suitable website image. No hand, shop or price overlay. Detail crop count not applicable."
     }
   ],
-  "status": "in_progress",
+  "status": "complete",
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
   "originals_unchanged": true
 }

@@ -1,5 +1,5 @@
 {
-  "status": "running",
+  "status": "completed_with_blocker",
   "started_at": "2026-10-19T15:38:42.301880+00:00",
   "product_ids": [
     "0117",
@@ -109,5 +109,12 @@
     }
   },
   "scope": "Only the remaining25 products of original100 queue; website-ready standard; immediate saves; fivecheckedbefore-1.",
-  "resume_note": "Generation successfully tested after prior quota stop; existing outputs retained."
+  "resume_note": "All available remaining products completed and checked.0133 blocked by image-service moderation; original retained, no generated outputs.",
+  "completed_products": 24,
+  "saved_images": 120,
+  "blocked_product_ids": [
+    "0133"
+  ],
+  "required_missing_images": 5,
+  "finished_at": "2026-10-20T14:03:11.452513+00:00"
 }

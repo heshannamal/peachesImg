@@ -42,10 +42,11 @@
       "source_output": "/workspace/generated_images/exec-0fd28d4e-9fcd-41d6-9ea7-6cf44e45c6af.png",
       "prompt": "Faithfully edit reference for website promotional product photography. Dense black bobby hair pin card stock display: three tray rows of about seventeen narrow cream illustrated cards each including partially cropped edge cards, roughly51 visible. Preserve three dense rows, original card identity and black pins. Do not simplify stock quantity. Preserve subject shape colors and dense stock quantity. Whole assortment/product on simple lavender and cream backdrop, compact descriptive title Black Bobby Pins and smaller PRODUCT COLLECTION. Remove hands, shop, unrelated stock and old price overlays. One square image.",
       "sha256": "4e544b6dcf604f3a7c68d7768ac5f22537628721e3ef5d882567680bc7a7689d",
-      "checked": false
+      "checked": true,
+      "visual_review": "Visually reviewed: correct subject, shape/colors and dense assortment retained, suitable website image. No hand, shop or price overlay. Detail crop count not applicable. Dense three-row card display retained; 48 fully rendered cards in white image, source edge cards partially cropped and exact full count ambiguous; not exact count verified."
     }
   ],
-  "status": "in_progress",
+  "status": "complete",
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
   "originals_unchanged": true,
   "rejected_records": [

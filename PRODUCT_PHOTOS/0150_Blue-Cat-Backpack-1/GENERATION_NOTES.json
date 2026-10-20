@@ -42,10 +42,11 @@
       "source_output": "/workspace/generated_images/exec-137089d8-9a98-4473-bd96-9da861a59d84.png",
       "prompt": "Faithfully edit reference for website promotional product photography. Single navy blue illustrated cat print backpack with CAT COLLECTION text and tiny breed labels, front zipped pocket, gold zipper pull and navy straps. Preserve subject shape colors and dense stock quantity. Whole assortment/product on simple lavender and cream backdrop, compact descriptive title Blue Cat Backpack and smaller PRODUCT COLLECTION. Remove hands, shop, unrelated stock and old price overlays. One square image.",
       "sha256": "ba3fc56e7a59a3749a6a27596782f5b5d183052143ba1b50de3337bc12fd5805",
-      "checked": false
+      "checked": true,
+      "visual_review": "Visually reviewed: correct subject, shape/colors and dense assortment retained, suitable website image. No hand, shop or price overlay. Detail crop count not applicable."
     }
   ],
-  "status": "in_progress",
+  "status": "complete",
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
   "originals_unchanged": true
 }

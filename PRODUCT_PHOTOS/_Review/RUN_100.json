@@ -1,5 +1,5 @@
 {
-  "status": "stopped_by_user",
+  "status": "completed_with_blocker",
   "products": [
     {
       "product_id": "0053",
@@ -1206,5 +1206,9 @@
   ],
   "concurrency_note": "Up to six worker agents available in this session; each may use two concurrent product calls for ten product concurrency.",
   "saving_policy": "Immediately copy each output to product New, write hash and review record before proceeding.",
-  "stopped_at": "2026-10-19T12:44:34.110494+00:00"
+  "stopped_at": "2026-10-19T12:44:34.110494+00:00",
+  "completed_products": 99,
+  "blocked_product_ids": [
+    "0133"
+  ]
 }

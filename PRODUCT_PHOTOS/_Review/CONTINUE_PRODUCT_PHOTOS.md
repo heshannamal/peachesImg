@@ -1,6 +1,6 @@
 # Continue the product-photo run
 
-Latest scope: generate five images for each of the remaining25 products listed in `REMAINING25.json`. The earlier twelve partials are complete and uploaded. Do not process outside the original100 queue.
+Latest scope finished:24 remaining products complete and uploaded;0133 remains blocked by image-service moderation.99 new completed products total, plus earlier41. See REMAINING25.json and RUN_100_PROGRESS.json. Preserve completed images; do not restart the batch.
 
 The original run targets **100 products**, IDs **0053–0152**, five new images per product. Existing originals must remain untouched. The user prefers clear website-ready photos and accepts minor cosmetic or tiny typography imperfections; do not spend extra generations polishing those.
 

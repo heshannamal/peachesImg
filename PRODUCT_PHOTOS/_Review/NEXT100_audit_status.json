@@ -1,5 +1,5 @@
 {
-  "audited_at_utc": "2026-10-20T18:44:24.768635+00:00",
+  "audited_at_utc": "2026-10-20T18:59:10.255390+00:00",
   "plan": "/workspace/peachesImg/PRODUCT_PHOTOS/_Review/SCHEDULED_NEXT_100_0153_0252.json",
   "read_only_product_audit": true,
   "baseline": {
@@ -10,9 +10,9 @@
   },
   "summary": {
     "products_found": 100,
-    "saved_images": 1,
-    "checked_matching_images": 1,
-    "complete_verified_products": 0,
+    "saved_images": 30,
+    "checked_matching_images": 29,
+    "complete_verified_products": 1,
     "issues": 0,
     "duplicate_hash_groups": 0
   },
@@ -20,34 +20,26 @@
   "duplicate_hash_groups": [],
   "products": {
     "0153": {
-      "folder": "0153_Satin-Bow-Hair-Clips-0",
-      "saved": 1,
-      "matching_hash_records": 1,
-      "checked_matching": 1,
+      "folder": "0153_Satin-Bow-Hair-Clips-1",
+      "saved": 5,
+      "matching_hash_records": 5,
+      "checked_matching": 5,
+      "missing": [],
+      "complete_verified": true,
+      "notes_status": "five images saved and visually checked",
+      "originals_match_frozen_plan": true
+    },
+    "0154": {
+      "folder": "0154_Earring-And-Accessory-Display-0",
+      "saved": 3,
+      "matching_hash_records": 3,
+      "checked_matching": 2,
       "missing": [
-        "02_Styled-Background.png",
-        "03_Lifestyle.png",
         "04_Detail.png",
         "05_Promotional.png"
       ],
       "complete_verified": false,
       "notes_status": "in_progress",
-      "originals_match_frozen_plan": true
-    },
-    "0154": {
-      "folder": "0154_Earring-And-Accessory-Display-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
-      "missing": [
-        "01_White-Background.png",
-        "02_Styled-Background.png",
-        "03_Lifestyle.png",
-        "04_Detail.png",
-        "05_Promotional.png"
-      ],
-      "complete_verified": false,
-      "notes_status": null,
       "originals_match_frozen_plan": true
     },
     "0155": {
@@ -340,34 +332,28 @@
     },
     "0173": {
       "folder": "0173_Pastel-Animal-Ear-Headbands-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
+      "saved": 3,
+      "matching_hash_records": 3,
+      "checked_matching": 3,
       "missing": [
-        "01_White-Background.png",
-        "02_Styled-Background.png",
-        "03_Lifestyle.png",
         "04_Detail.png",
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": null,
+      "notes_status": "in_progress",
       "originals_match_frozen_plan": true
     },
     "0174": {
       "folder": "0174_Bright-Animal-Ear-Headbands-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
+      "saved": 3,
+      "matching_hash_records": 3,
+      "checked_matching": 3,
       "missing": [
-        "01_White-Background.png",
-        "02_Styled-Background.png",
-        "03_Lifestyle.png",
         "04_Detail.png",
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": null,
+      "notes_status": "in_progress",
       "originals_match_frozen_plan": true
     },
     "0175": {
@@ -660,34 +646,32 @@
     },
     "0193": {
       "folder": "0193_Colourful-Stud-Earrings-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
+      "saved": 1,
+      "matching_hash_records": 1,
+      "checked_matching": 1,
       "missing": [
-        "01_White-Background.png",
         "02_Styled-Background.png",
         "03_Lifestyle.png",
         "04_Detail.png",
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": null,
+      "notes_status": "in_progress",
       "originals_match_frozen_plan": true
     },
     "0194": {
       "folder": "0194_Pastel-Bow-Hair-Clips-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
+      "saved": 1,
+      "matching_hash_records": 1,
+      "checked_matching": 1,
       "missing": [
-        "01_White-Background.png",
         "02_Styled-Background.png",
         "03_Lifestyle.png",
         "04_Detail.png",
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": null,
+      "notes_status": "in_progress",
       "originals_match_frozen_plan": true
     },
     "0195": {
@@ -980,34 +964,28 @@
     },
     "0213": {
       "folder": "0213_Pastel-Hair-Accessory-Packs-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
+      "saved": 3,
+      "matching_hash_records": 3,
+      "checked_matching": 3,
       "missing": [
-        "01_White-Background.png",
-        "02_Styled-Background.png",
-        "03_Lifestyle.png",
         "04_Detail.png",
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": null,
+      "notes_status": "in_progress",
       "originals_match_frozen_plan": true
     },
     "0214": {
       "folder": "0214_Colourful-Mini-Bottle-Assortment-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
+      "saved": 3,
+      "matching_hash_records": 3,
+      "checked_matching": 3,
       "missing": [
-        "01_White-Background.png",
-        "02_Styled-Background.png",
-        "03_Lifestyle.png",
         "04_Detail.png",
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": null,
+      "notes_status": "in_progress",
       "originals_match_frozen_plan": true
     },
     "0215": {
@@ -1300,34 +1278,26 @@
     },
     "0233": {
       "folder": "0233_Pink-Beaded-Necklace-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
+      "saved": 4,
+      "matching_hash_records": 4,
+      "checked_matching": 4,
       "missing": [
-        "01_White-Background.png",
-        "02_Styled-Background.png",
-        "03_Lifestyle.png",
-        "04_Detail.png",
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": null,
+      "notes_status": "in_progress",
       "originals_match_frozen_plan": true
     },
     "0234": {
       "folder": "0234_Colourful-Rectangular-Hair-Claws-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
+      "saved": 4,
+      "matching_hash_records": 4,
+      "checked_matching": 4,
       "missing": [
-        "01_White-Background.png",
-        "02_Styled-Background.png",
-        "03_Lifestyle.png",
-        "04_Detail.png",
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": null,
+      "notes_status": "in_progress",
       "originals_match_frozen_plan": true
     },
     "0235": {
@@ -1617,6 +1587,14 @@
       "complete_verified": false,
       "notes_status": null,
       "originals_match_frozen_plan": true
+    }
+  },
+  "visual_spotchecks": {
+    "0153": {
+      "original_viewed": true,
+      "five_outputs_viewed": true,
+      "material_issues": [],
+      "review": "Six bow clips retained in white, styled, lifestyle and promo: burgundy/navy/pink/cream/grey/tan with checked loops and satin tails. Detail is tight crop of existing navy bow. No material subject or count issues; minor texture/shape/color lighting differences acceptable website standard."
     }
   }
 }

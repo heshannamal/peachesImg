@@ -1,6 +1,6 @@
 # Continue the product-photo run
 
-Latest scope finished:24 remaining products complete and uploaded;0133 remains blocked by image-service moderation.99 new completed products total, plus earlier41. See REMAINING25.json and RUN_100_PROGRESS.json. Preserve completed images; do not restart the batch.
+Latest scope: scheduled100 products0153–0252 only. Frozen plan SCHEDULED_NEXT_100_0153_0252.json; live progress NEXT100_PROGRESS.json and NEXT100_STATE.json. Do not restart earliercompletedproducts or blocked0133. Use next100_checkpoint.py reconcile/sync/backup/web for THIS queue; older RUN_100 scripts target0053–0152 and must not be used for this new batch.
 
 The original run targets **100 products**, IDs **0053–0152**, five new images per product. Existing originals must remain untouched. The user prefers clear website-ready photos and accepts minor cosmetic or tiny typography imperfections; do not spend extra generations polishing those.
 

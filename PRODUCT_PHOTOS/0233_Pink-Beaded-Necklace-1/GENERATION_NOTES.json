@@ -26,9 +26,26 @@
       "source_output": "/workspace/generated_images/exec-98bcadfc-bbca-4bfa-8938-b568e00f8f57.png",
       "prompt": "Website-ready lifestyle product photo on cream vanity tabletop near soft window with lavender wall, no people. SINGLE foreground pink crackle round-bead necklace resting across hand, gold spacer beads, lower clear faceted beads with one larger clear round bead, gold and pink enamel rhinestone butterfly pendant and short gold extension chain ending in pink bead. Preserve visible bead order and necklace shape. Background piled necklaces are inventory, exclude them; remove hand and handwritten price tag. Preserve actual product shape count colours materials front view, remove hand old price inventory shop. No text.",
       "sha256": "a1662287808bfcb8e9366581f33f698a7093670932e5d9db0293d35af96d22ed",
-      "checked": false
+      "checked": true,
+      "visual_review": "Single pink necklace, butterfly gold/clear accents and extension retain source identity on vanity."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-97d0e46c-bec0-4c42-a03f-0958baeb427a.png",
+      "prompt": "Tight macro product photograph cropped to pink enamel gold butterfly pendant and nearby clear faceted beads of foreground necklace in reference. Preserve actual pink wings rhinestones gold outlines bead material. Fill frame with real detail, not full necklace, no hand background inventory or text.",
+      "sha256": "25a59c4faa8f947058d6473c0614ec9d91f40edeb0df80af318a0969757ecfb6",
+      "checked": true,
+      "visual_review": "Tight butterfly pendant macro retains pink enamel gold outlines rhinestones and nearby clear beads."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-c7f29aa3-0b19-4db5-9622-a88fed940db6.png",
+      "prompt": "Promotional ecommerce photo on lavender/cream background, compact dark plum heading 'Pink Butterfly Beaded Necklace' and subtitle 'PRODUCT COLLECTION'. SINGLE foreground pink crackle round-bead necklace resting across hand, gold spacer beads, lower clear faceted beads with one larger clear round bead, gold and pink enamel rhinestone butterfly pendant and short gold extension chain ending in pink bead. Preserve visible bead order and necklace shape. Background piled necklaces are inventory, exclude them; remove hand and handwritten price tag. Preserve actual product identity count shapes colours materials front view. Full foreground product, remove hand shop inventory prices, no other text.",
+      "sha256": "3371612ce4299000ddf8d6a60589572308d7d0087a92b887970a67ee88fea676",
+      "checked": true,
+      "visual_review": "Single pink necklace butterfly gold/clear accents and extension retained; title legible."
     }
   ],
-  "status": "in_progress",
+  "status": "five images saved and visually checked",
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
 }

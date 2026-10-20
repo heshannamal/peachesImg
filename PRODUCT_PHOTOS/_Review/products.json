@@ -2119,15 +2119,17 @@
   },
   {
     "product_id": "0153",
-    "folder": "0153_Satin-Bow-Hair-Clips-0",
+    "folder": "0153_Satin-Bow-Hair-Clips-1",
     "source_image_ids": [
       158
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0154",
@@ -2135,7 +2137,7 @@
     "source_image_ids": [
       159
     ],
-    "new_images": 2,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2364,7 +2366,7 @@
     "source_image_ids": [
       179
     ],
-    "new_images": 2,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2376,7 +2378,7 @@
     "source_image_ids": [
       180
     ],
-    "new_images": 2,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2604,7 +2606,7 @@
     "source_image_ids": [
       199
     ],
-    "new_images": 1,
+    "new_images": 2,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2616,9 +2618,9 @@
     "source_image_ids": [
       200
     ],
-    "new_images": 0,
+    "new_images": 2,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -2844,7 +2846,7 @@
     "source_image_ids": [
       219
     ],
-    "new_images": 3,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2856,7 +2858,7 @@
     "source_image_ids": [
       220
     ],
-    "new_images": 3,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3081,27 +3083,31 @@
   },
   {
     "product_id": "0233",
-    "folder": "0233_Pink-Beaded-Necklace-0",
+    "folder": "0233_Pink-Beaded-Necklace-1",
     "source_image_ids": [
       239
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0234",
-    "folder": "0234_Colourful-Rectangular-Hair-Claws-0",
+    "folder": "0234_Colourful-Rectangular-Hair-Claws-1",
     "source_image_ids": [
       240
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0235",

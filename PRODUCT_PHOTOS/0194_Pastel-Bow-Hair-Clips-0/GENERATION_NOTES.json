@@ -1,0 +1,28 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250214-WA0199.jpg": "1cb9da73a90cfb329badd39bac0723d3ee82d21d54092adb5a1c7c6fa200dccd"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-d9d4aef4-07de-4960-9dd0-25bd759a00bf.png",
+      "prompt": "Edit reference into website-ready photo of exact entire FOUR foreground tall crown-top cards of paired colourful floral hair claws as ONE assortment. EACH strip SIX pairs vertically,24pairs48claws total. Preserve four floral designs across columns (plumeria,stamen blossom,rounded plumeria,rounded daisy), existing original colours per row green/pink/yellow/blue/lavender/red with fourth column pink/yellow/lavender/blue/green/red, glossy plastic teeth hinges flower decorations and original crown/star cards. Remove background shop stock and old price labels only. No invented parts/backviews. Full four-card assortment visible, pure white studio background soft shadows no added text.",
+      "sha256": "89409a5e25e7efebb4d03819bb23aec624ff6255eee1b3619e7caaba20db6791",
+      "checked": true,
+      "visual_check": "Passed four crown cards each six floral-claw pairs correct colours and source shapes full frame no shop price."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-7309051f-ebf8-4ee0-84c9-831f7026385b.png",
+      "prompt": "Edit reference into website-ready photo of exact entire FOUR foreground tall crown-top cards of paired colourful floral hair claws as ONE assortment. EACH strip SIX pairs vertically,24pairs48claws total. Preserve four floral designs across columns (plumeria,stamen blossom,rounded plumeria,rounded daisy), existing original colours per row green/pink/yellow/blue/lavender/red with fourth column pink/yellow/lavender/blue/green/red, glossy plastic teeth hinges flower decorations and original crown/star cards. Remove background shop stock and old price labels only. No invented parts/backviews. Entire four-card assortment visible on cream linen studio surface with soft lavender backdrop no added words.",
+      "sha256": "f755a70a1249add3b5a3aa909c2b12dca5dee4250ca0567aa191c4d15c0c7359",
+      "checked": true,
+      "visual_check": "Passed four crown strips each six pairs correct floral designs glossy claw colours card packaging lavender cream full frame."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true
+}

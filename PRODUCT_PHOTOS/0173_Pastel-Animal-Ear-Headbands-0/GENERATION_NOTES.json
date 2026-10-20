@@ -1,0 +1,19 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250211-WA0696.jpg": "d97214d3fd25d608ec666a0100f9ac6cd7d34be1b82e6d4e11a172d5615ece8a"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-6e4e55a7-6186-48dd-8250-e4bd782688c9.png",
+      "prompt": "Edit original into website-ready ecommerce white seamless photo soft shadows. Preserve EXACT entire packaged assortment as ONE product: six front white printed display cards in2columns x3rows, each one furry rounded animal-ear headband plus TWO small multicolour fabric hair ties in circular card windows. Left column pink/blue/tan and right pink/blue/tan headbands, matching source pastel fluffy texture and round hollow ears, white cards and clear plastic packaging plus stacked partial cards behind. Keep exact visible arrangement,count,shapes,colours/materials. Remove hand/watch/shop, old1320Rs overlay and stock sticker only. No hidden views/invented parts/extra products or text.",
+      "sha256": "e4adb0a35ed98700168326aff6a4e4406732b8ac0a78ab018f7ed72620dd99d0",
+      "checked": true,
+      "visual_check": "Six pastel rounded-ear headbands in2x3 pink/blue/tan rows, card window multicolour tie bundles and clear packaging retained. No hand/price. Source windows contain bundles not individual two ties."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

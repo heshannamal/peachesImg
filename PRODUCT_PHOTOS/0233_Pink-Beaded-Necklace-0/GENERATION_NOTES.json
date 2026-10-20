@@ -1,0 +1,19 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250225-WA0492.jpg": "962f1ffbbce982045ab1e4f16ead85c8d74dc72cea88c7af03ebf6503eab50a9"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-b45148d0-b3bb-45dc-b3e2-c9c2fc06504b.png",
+      "prompt": "Edit reference into website-ready white seamless ecommerce photograph. SINGLE foreground pink crackle round-bead necklace resting across hand, gold spacer beads, lower clear faceted beads with one larger clear round bead, gold and pink enamel rhinestone butterfly pendant and short gold extension chain ending in pink bead. Preserve visible bead order and necklace shape. Background piled necklaces are inventory, exclude them; remove hand and handwritten price tag. Preserve actual main product count shape colours materials front view. Remove hand shop prices and surrounding inventory. No new text, full foreground product visible, soft realistic light.",
+      "sha256": "583f44ec980f86f71f07c98041200fef1215398c4b82a25b09c941c97b42545e",
+      "checked": true,
+      "visual_review": "Single pink crackle bead necklace, clear lower beads gold spacers butterfly charm and extension retained."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

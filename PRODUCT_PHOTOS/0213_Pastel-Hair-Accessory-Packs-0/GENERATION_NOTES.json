@@ -1,0 +1,25 @@
+{
+  "tool": "built-in image_gen",
+  "status": "in_progress",
+  "original_hashes": {
+    "Originals/IMG-20250215-WA0685.jpg": "ff86a058a5ccd1579ef0c3b64e08110a9528664e0c579f8d9341757b9282bf25"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-9601ecc7-3fdc-4b59-82a1-03ba5b1a54f2.png",
+      "prompt": "Edit exact reference into ONE realistic clean website product photo. Two matching white backing cards inside clear sleeves of pastel decorated hair clips,12clips on each card24total, original6rows2columns each: milk/rabbit design and white puppy top,blue nice letters and tiny pink dress doll,next white metal snap and pale purple printed pony snap,next puppy face and blue cake,next yellow outlined clip and white cat face,next white puppy and pink flower. Preserve exact actual reference arrangement,shapes,colours,charms,card and clear packaging. Entire assortment ONE product,preserve identity/count/shape/material/colour/packaging. Pure white seamless background,soft contact shadows,whole assortment inside frame. Remove hand,shop,old price overlays. No extra products,parts or imagined reverse views.",
+      "sha256": "fdcc7fb66a1c2c95c39f0f298d4ee62817890374bac46f09a7f04738c5c4e98e",
+      "checked": true,
+      "visual_review": "Two wrapped cards retain matching12clip layouts, pastel character/cake/flower/snap designs and original colours. White background clean, basic website visual check passed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-67ebf3d8-0f73-4320-8582-18c4d7c7e659.png",
+      "prompt": "ONE realistic website styled-background product photo of exact reference. Two matching white backing cards inside clear sleeves of pastel decorated hair clips,12clips on each card24total, original6rows2columns each: milk/rabbit design and white puppy top,blue nice letters and tiny pink dress doll,next white metal snap and pale purple printed pony snap,next puppy face and blue cake,next yellow outlined clip and white cat face,next white puppy and pink flower. Preserve exact actual reference arrangement,shapes,colours,charms,card and clear packaging. Whole assortment ONE product,full set inside frame on cream background with lavender fabric at edges. Preserve count,identity,shape,colour,materials,arrangement and packaging. Remove hand,shop,oldprices. No added products,parts or imagined back views.",
+      "sha256": "7793173e85d5d6782b42e7779b4ff410ff724ed5ea578452b390afd6e4f344c1",
+      "checked": false
+    }
+  ],
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

@@ -1,0 +1,19 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250207-WA0923.jpg": "10e0ce171a8a528bad8bf1262193e930dba51a5a40ec7838cd78e67f7f44eb7e"
+  },
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "rejected_outputs": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-8a0a0f35-5a9e-4c64-a203-2f397ae041ad.png",
+      "prompt": "Square website product photograph of EXACT entire earring and accessory display from reference. Preserve all visible original jewellery cards and earrings, shapes, colours, styles, arrangement and original overlaps/cropping. Treat entire display as single assortment. Clean neutral white studio surroundings and improved even lighting, remove shop distractions, keep display support. Don't invent obscured items or alter quantity. No new text.",
+      "sha256": "dbb3e5124f376502a06aa9c600d95fa9b564706be3024ff9e0aac05c87d10413",
+      "checked": false,
+      "visual_review": "REJECT review-needed: generated7top cards versus6visible in original, dense display count fidelity failed."
+    }
+  ]
+}

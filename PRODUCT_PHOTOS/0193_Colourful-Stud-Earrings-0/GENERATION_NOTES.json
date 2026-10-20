@@ -1,0 +1,20 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250213-WA0506.jpg": "383eba95e9fe8d67876849299d55b4880dca04a465f8277f6ddf49778da9f311"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-ea5d0829-1292-464c-a400-4aee803a94d0.png",
+      "prompt": "Edit reference into website-ready photo of exact ONE packaged earring card assortment: TWELVE pairs of small sculpted flower stud earrings,24studs total, arranged six rows of two outlined pair boxes. Preserve every pair colour order orange/pale-blue; yellow/mint; tan/grey-blue; lavender/ivory; green/pale-pink; pale-blue/yellow, contrasting flower centers, original white Fashion Jewellery card and clear bag/header. Preserve actual shapes material arrangement. Remove hand/shop only. Full entire packaged card visible, pure white studio background soft shadows no added text.",
+      "sha256": "f77d9b699e4658cd902614c0fd269f1dbe49c933deee57c2afbd59f48b372caf",
+      "checked": true,
+      "visual_check": "Passed twelve flower stud pairs six rows two correct colours original card and bag full view no hand shop."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true
+}

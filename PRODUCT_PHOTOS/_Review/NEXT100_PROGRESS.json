@@ -1,22 +1,24 @@
 {
-  "updated_at": "2026-10-20T18:43:16.272423+00:00",
+  "updated_at": "2026-10-20T18:51:14.651439+00:00",
   "target_products": 100,
   "target_images": 500,
   "completed_products": 0,
-  "partial_products": 1,
-  "pending_products": 99,
+  "partial_products": 7,
+  "pending_products": 93,
   "blocked_products": 0,
-  "saved_images": 1,
-  "checked_images": 1,
+  "saved_images": 9,
+  "checked_images": 9,
   "products": [
     {
       "product_id": "0153",
       "folder": "0153_Satin-Bow-Hair-Clips-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
+      "saved_images": 3,
+      "checked_images": 3,
       "files": [
-        "New/01_White-Background.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "errors": [],
       "originals_unchanged": true
@@ -214,20 +216,24 @@
     {
       "product_id": "0173",
       "folder": "0173_Pastel-Animal-Ear-Headbands-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0174",
       "folder": "0174_Bright-Animal-Ear-Headbands-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "errors": [],
       "originals_unchanged": true
     },
@@ -614,20 +620,24 @@
     {
       "product_id": "0213",
       "folder": "0213_Pastel-Hair-Accessory-Packs-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0214",
       "folder": "0214_Colourful-Mini-Bottle-Assortment-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "errors": [],
       "originals_unchanged": true
     },
@@ -814,20 +824,24 @@
     {
       "product_id": "0233",
       "folder": "0233_Pink-Beaded-Necklace-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0234",
       "folder": "0234_Colourful-Rectangular-Hair-Claws-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "errors": [],
       "originals_unchanged": true
     },

@@ -1,0 +1,19 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250227-WA0276.jpg": "af938efb2abc5598c96ee57852df6dc271d6937bd678c4d72bab421c70f5386c"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-1d3bebaa-783a-4d6a-88e4-eec7e02cc08c.png",
+      "prompt": "Edit reference into website-ready white seamless ecommerce photograph. Whole12hairclaw assortment in TWO clear sleeves six rows per column. Each claw has open rectangular curved jaw and broad triangular handle. Left top-to-bottom brown,tan,black,purple,charcoal,dark green. Right hotpink,lavender,lightblue,ochre tan,limegreen,lightpink. Preserve exact count12 shapes orientation packaging colour order. Preserve actual main product count shape colours materials front view. Remove hand shop prices and surrounding inventory. No new text, full foreground product visible, soft realistic light.",
+      "sha256": "061d062a831be708aeb4cab62e061f9a83c2ba262bb3a0f5f7870b1a73b01796",
+      "checked": true,
+      "visual_review": "12claws,6rows2columns and reference colour order retained in sleeves."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

@@ -1,0 +1,25 @@
+{
+  "tool": "built-in image_gen",
+  "status": "in_progress",
+  "original_hashes": {
+    "Originals/IMG-20250215-WA0693.jpg": "68cb604edbc3c7a19837e59f5aeeddabe58e1a7dc325ed8eebab90312955b4e7"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-fbe66db1-2476-4768-8648-727c85101322.png",
+      "prompt": "Edit exact reference into ONE realistic clean website product photo. Twelve clear cylindrical lidded jars filled with small fuzzy fabric hair ties, arranged exact original3rows4jars inside outer clear pack. Toprow2black jars,green,blue;middlerow2pink,2purple;bottomrow2yellow/multicolour,2pink/multicolour. Preserve12jars,original pastel lavender lids,labels,the exact fuzzy contents and packing arrangement. These are jars of hair ties,not empty bottles. Do not unpack. Entire assortment ONE product,preserve identity/count/shape/material/colour/packaging. Pure white seamless background,soft contact shadows,whole assortment inside frame. Remove hand,shop,old price overlays. No extra products,parts or imagined reverse views.",
+      "sha256": "2a111c4cccd3ee3859650804616275219cc9bf92c22f864a60a64d49ff933db4",
+      "checked": true,
+      "visual_review": "Twelve clear jars retain black,green,blue,pink,purple,yellow/mixed fuzzy hair ties, lavender lids and original3x4packing. White background clean, basic website visual check passed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-d790a3f4-a73f-4770-abc7-2472b61903a9.png",
+      "prompt": "ONE realistic website styled-background product photo of exact reference. Twelve clear cylindrical lidded jars filled with small fuzzy fabric hair ties, arranged exact original3rows4jars inside outer clear pack. Toprow2black jars,green,blue;middlerow2pink,2purple;bottomrow2yellow/multicolour,2pink/multicolour. Preserve12jars,original pastel lavender lids,labels,the exact fuzzy contents and packing arrangement. These are jars of hair ties,not empty bottles. Do not unpack. Whole assortment ONE product,full set inside frame on cream background with lavender fabric at edges. Preserve count,identity,shape,colour,materials,arrangement and packaging. Remove hand,shop,oldprices. No added products,parts or imagined back views.",
+      "sha256": "e2cab4d36bc1d9b006f4f2004cb1e2df1740c4bdb228fbc05668552b7e7a6226",
+      "checked": false
+    }
+  ],
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

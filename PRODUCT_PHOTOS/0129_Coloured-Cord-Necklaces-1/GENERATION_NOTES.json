@@ -35,6 +35,23 @@
       "prompt": "Website-ready photorealistic MACRO DETAIL edit original: tight crop blue and purple small hair extension claw clips at card upper area with start of blue/purple synthetic braids, partial green braid nearby. Same existing coloured translucent claw shells visible springs and braid weave, white bunny/star card and clear sleeve. No whole product/no invented reverse/hidden parts/no hand/shop/price/added text, cream lavender defocus.",
       "checked": true,
       "visual_check": "Basic check tight macro blue/purple claws with visible springs and braid fibres, greenstrand nearby, source card/sleeve visible no invented rear/wholeproduct."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "cache_file": "/workspace/generated_images/exec-4fa6d1c5-9611-48af-af22-d1baf111ecc9.png",
+      "sha256": "fe289afcae138456223a70ca468a44f15ba89122ad1ad37d563fad985c02d956",
+      "prompt": "Create promotional website photo editing the attached original set. CRITICAL EXACT SIX and ONLY SIX clip-in synthetic HAIR BRAIDS: pinkred,orange,yellow,blue,green,purple, one of each; EXACT SIX tiny clawclips oneperbraid, positioned3top(pink,yellow,green)and3lower(orange,blue,purple). DO NOT ADD EXTRA YELLOW OR BLUE BRAIDS OR CLIPS. Preserve original bunnycard and clear sleeve, full length tassels, same visible shape/material. Remove hand/shop/price. Simple lavender cream backdrop with compact darkplum heading 'Colourful Clip-In Hair Braids' plus 'PRODUCT COLLECTION'. No extra products or decorative mockups. Count six before finishing.",
+      "checked": true,
+      "visual_check": "Count correction passed: exactly sixclips threeupper/threelower and pink orange yellow blue green purple strands; orange/yellow overlap as original. Originalcard/sleeve and tassels retained, heading legible no price. Prior extra-clip result retained in Rejected."
+    }
+  ],
+  "generation_complete": true,
+  "originals_unchanged": true,
+  "rejected_outputs": [
+    {
+      "saved_file": "Rejected/05_Promotional_wrong_count.png",
+      "checked": false,
+      "reason": "Extra yellow/blue clips and strands; replaced by count-corrected output"
     }
   ]
 }

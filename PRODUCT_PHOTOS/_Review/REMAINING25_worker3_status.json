@@ -5,35 +5,38 @@
     "0134",
     "0135"
   ],
-  "status": "working",
+  "status": "worker3_done_0135_handoff_worker4",
   "products": {
     "0132": {
       "folder": "0132_Brown-Cord-Necklaces-1",
       "saved": 5,
       "checked": 5,
-      "status": "complete",
-      "original_hashes_verified": true
+      "original_hashes_verified": true,
+      "status": "complete"
     },
     "0133": {
       "folder": "0133_Character-Pencil-Cases-0",
       "saved": 0,
       "checked": 0,
-      "status": "blocked_moderation",
-      "original_hashes_verified": true
+      "original_hashes_verified": true,
+      "status": "blocked_moderation"
     },
     "0134": {
-      "folder": "0134_Fruit-Charm-Keyrings-0",
-      "saved": 4,
-      "checked": 4,
-      "status": "generating",
-      "original_hashes_verified": true
+      "folder": "0134_Fruit-Charm-Keyrings-1",
+      "saved": 5,
+      "checked": 5,
+      "original_hashes_verified": true,
+      "status": "complete"
     },
     "0135": {
       "folder": "0135_Large-Red-Hair-Bow-0",
-      "saved": 2,
-      "checked": 2,
-      "status": "generating",
-      "original_hashes_verified": true
+      "saved": 3,
+      "checked": 3,
+      "original_hashes_verified": true,
+      "status": "generating"
     }
-  }
+  },
+  "inflight_worker3": 0,
+  "handoff": "0135 views04/05 exclusive worker4",
+  "blocker": "0133 moderation_blocked output-stage other two logged attempts"
 }

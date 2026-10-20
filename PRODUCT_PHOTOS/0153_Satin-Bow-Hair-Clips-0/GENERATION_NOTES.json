@@ -1,0 +1,19 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250207-WA0899.jpg": "f87b10c922f1f5d58a35944d8a39af288fcc415c9a29cd27dff564b1e563b59d"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-bb2ee7ba-bdb0-422b-931a-a0ab57b4159f.png",
+      "prompt": "Edit the attached original into one website-ready ecommerce product photograph on pure white seamless background with soft contact shadows. Entire assortment ONE product: exactly SIX large satin-tail hair bows arranged two rows of three. Top row burgundy with white-grid bow loops, navy with white-grid loops, pale pink with pale-grid loops. Bottom row ivory/cream, grey/silver gingham, camel/tan gingham. Preserve exact six count, loop shapes, centre knots, long draped satin tails, colours, fabrics and white backing cards. Fully show all six with margins, same front view. Remove tiled shop floor, reflections and old price overlay. No added text, no extra bows, no collage.",
+      "sha256": "dac431fc90840da222a3dbfd7bc735cbbdbadf624e18a0d36683b52fc0d54cfb",
+      "checked": true,
+      "visual_review": "Compared generated image with original: six bows in matching two rows and colour order; gingham loops, centre knots, long satin tails and white cards preserved. Shop and price removed. Minor fabric/grid differences accepted for website-ready quality."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

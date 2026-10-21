@@ -1,0 +1,19 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250303-WA0342.jpg": "1f8c0b4b7bbca79e08b99731bdb6ab464d66c1ea4ade595a0e76ca578b6c7585"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-787ba447-826d-4a8f-8555-bebf8c31a7c8.png",
+      "prompt": "Edit reference into website-ready product photograph of entire assortment of seven wide printed silicone wristbands, blue left tilted, white leftcentre, front black band with white stripe design, black right band, orange tilted at right with red interior, rear stacked green then black bands on clear support, preserve exact visible arrangement and existing printed lettering. Preserve every visible item, original count/layout, material, shape, colours and actual prints. Seamless white background, soft diffused studio shadow, product prominent. Remove old price overlay only. No added text, hands, props, new parts or extra products.",
+      "sha256": "f587b97a04a055136211cdddae2e0e48ab8d85178d1b9c5fe652995f389f2855",
+      "checked": true,
+      "visual_review": "Viewed white output: reference arrangement/material/colours retained. 0245 seven wide bands on support, 0246 dark grooved beads coiled with red tassel. Price removed."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

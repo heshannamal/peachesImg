@@ -1,0 +1,19 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250303-WA0349.jpg": "f50528eff2fe9795001beb9ad5a317b12c5f90672dbb4403bbed2aab01cfa7a3"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-f34a30ad-0893-47b6-aacd-e59b0d6c83c7.png",
+      "prompt": "Edit reference into website-ready product photograph of single dark brown black textured rudraksha style bead mala coiled in approximately three nested loops with bright red thread tassel extending upper right, retain exact bead size, coarse grooved seed texture, count and threading arrangement. Preserve every visible item, original count/layout, material, shape, colours and actual prints. Seamless white background, soft diffused studio shadow, product prominent. Remove old price overlay only. No added text, hands, props, new parts or extra products.",
+      "sha256": "b3856a2cf86aa698217415e248c6107d64e882042c6188b7f9e0e16acca3737e",
+      "checked": true,
+      "visual_review": "Viewed white output: reference arrangement/material/colours retained. 0245 seven wide bands on support, 0246 dark grooved beads coiled with red tassel. Price removed."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

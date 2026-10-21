@@ -1,6 +1,6 @@
 {
   "tool": "built-in image_gen",
-  "status": "in_progress",
+  "status": "five images generated and visually checked",
   "original_hashes": {
     "Originals/IMG-20250217-WA0129.jpg": "f6f08f4a5ff682d4bcc398ed24960c4c5988ee4a11777f111597c02104b51c30"
   },
@@ -36,7 +36,16 @@
       "sha256": "38b7cbdf75dc1227a19c8e6feb8aa842bc5fc08a8137ac254bc73d489327fa35",
       "checked": true,
       "visual_review": "Standalone tightmacro retains pink knitted hat/crystal crown,sleepy face and fluffy fur; sourcepart identity and colours matched."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-00ddbe6d-5a2f-44f2-ad15-c8ce77792a52.png",
+      "prompt": "Realistic promotional website photo of exact TWO sleepingbaby pompom keyrings,yellow left/pink right,original knitted hats,black crystal crowns,peach sleepy faces,silver rings/chains and matching large round fluffy bodies. Preserve2count,shape/colour/material. Whole pairONEproduct on cream lavender,compact darkplum heading 'Sleeping Baby Pom-Pom Keyrings' and 'PRODUCT COLLECTION'. No hand/shop/price/extras/newparts.",
+      "sha256": "3181298db305a52a336d222e13685fff1b67a1626491e3f7dcfe1752c753f576",
+      "checked": true,
+      "visual_review": "Promotional retains exact2yellow/pink sleepingbaby pompom keyrings,knit hats,crystal crowns,faces,fur,silver chains/rings; heading accurate and clear."
     }
   ],
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "original_plan_sha256_verified": true
 }

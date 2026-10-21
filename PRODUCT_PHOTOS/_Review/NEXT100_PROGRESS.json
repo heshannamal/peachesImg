@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-21T08:18:06.123696+00:00",
+  "updated_at": "2026-10-21T08:22:38.204451+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 47,
-  "partial_products": 11,
-  "pending_products": 40,
+  "completed_products": 51,
+  "partial_products": 10,
+  "pending_products": 37,
   "blocked_products": 2,
-  "saved_images": 266,
-  "checked_images": 260,
+  "saved_images": 281,
+  "checked_images": 277,
   "products": [
     {
       "product_id": "0153",
@@ -241,25 +241,23 @@
       "product_id": "0165",
       "folder": "0165_Pastel-Character-Hair-Clips-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 0,
+      "saved_images": 3,
+      "checked_images": 2,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/03_Lifestyle.png"
       ],
       "notes_status": "in_progress",
       "errors": [
-        "unreviewed or unrecorded: 01_White-Background.png",
-        "unreviewed or unrecorded: 02_Styled-Background.png"
+        "unreviewed or unrecorded: 03_Lifestyle.png"
       ],
       "originals_unchanged": true
     },
@@ -267,25 +265,23 @@
       "product_id": "0166",
       "folder": "0166_Colourful-Round-Stud-Earrings-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 0,
+      "saved_images": 3,
+      "checked_images": 2,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/03_Lifestyle.png"
       ],
       "notes_status": "in_progress",
       "errors": [
-        "unreviewed or unrecorded: 01_White-Background.png",
-        "unreviewed or unrecorded: 02_Styled-Background.png"
+        "unreviewed or unrecorded: 03_Lifestyle.png"
       ],
       "originals_unchanged": true
     },
@@ -616,6 +612,26 @@
       "product_id": "0184",
       "folder": "0184_Colourful-Hairbrushes-0",
       "status": "partial",
+      "saved_images": 3,
+      "checked_images": 3,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
+      ],
+      "missing_images": [
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "review_needed_images": [],
+      "notes_status": "in_progress",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0185",
+      "folder": "0185_Round-Neutral-Hair-Claws-0",
+      "status": "partial",
       "saved_images": 1,
       "checked_images": 1,
       "files": [
@@ -629,25 +645,6 @@
       ],
       "review_needed_images": [],
       "notes_status": "in_progress",
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "0185",
-      "folder": "0185_Round-Neutral-Hair-Claws-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": null,
       "errors": [],
       "originals_unchanged": true
     },
@@ -1004,7 +1001,26 @@
     },
     {
       "product_id": "0204",
-      "folder": "0204_Metallic-Hair-Claw-Assortment-0",
+      "folder": "0204_Metallic-Hair-Claw-Assortment-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "complete",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0205",
+      "folder": "0205_Colourful-Doll-Keyrings-0",
       "status": "partial",
       "saved_images": 3,
       "checked_images": 3,
@@ -1014,26 +1030,6 @@
         "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": "in_progress",
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "0205",
-      "folder": "0205_Colourful-Doll-Keyrings-0",
-      "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
-      "files": [
-        "New/01_White-Background.png"
-      ],
-      "missing_images": [
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
@@ -1310,7 +1306,26 @@
     },
     {
       "product_id": "0220",
-      "folder": "0220_Pom-Pom-Hat-Keyrings-0",
+      "folder": "0220_Pom-Pom-Hat-Keyrings-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five images generated and visually checked",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0221",
+      "folder": "0221_Large-Fabric-Scrunchies-0",
       "status": "partial",
       "saved_images": 4,
       "checked_images": 4,
@@ -1321,26 +1336,6 @@
         "New/04_Detail.png"
       ],
       "missing_images": [
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": "in_progress",
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "0221",
-      "folder": "0221_Large-Fabric-Scrunchies-0",
-      "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
-      "files": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
-        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
@@ -1749,79 +1744,79 @@
     },
     {
       "product_id": "0243",
-      "folder": "0243_Thin-Colourful-Headbands-0",
-      "status": "partial",
-      "saved_images": 4,
-      "checked_images": 4,
+      "folder": "0243_Thin-Colourful-Headbands-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png"
-      ],
-      "missing_images": [
+        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "five images saved and visually checked",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0244",
-      "folder": "0244_Printed-Silicone-Wristbands-0",
-      "status": "partial",
-      "saved_images": 4,
-      "checked_images": 4,
+      "folder": "0244_Printed-Silicone-Wristbands-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png"
-      ],
-      "missing_images": [
+        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "five images saved and visually checked",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0245",
       "folder": "0245_Colourful-Silicone-Wristbands-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "missing_images": [
-        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0246",
       "folder": "0246_Dark-Beaded-Mala-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "missing_images": [
-        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },

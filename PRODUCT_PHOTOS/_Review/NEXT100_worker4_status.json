@@ -23,7 +23,6 @@
     "0232"
   ],
   "active": [
-    "0220",
     "0221"
   ],
   "products": {
@@ -58,8 +57,13 @@
       "complete": true
     },
     "0220": {
-      "saved": 1,
-      "checked": 1
+      "saved": 5,
+      "checked": 5,
+      "complete": true
+    },
+    "0221": {
+      "saved": 4,
+      "checked": 4
     }
   },
   "completed": [
@@ -68,7 +72,8 @@
     "0215",
     "0216",
     "0217",
-    "0219"
+    "0219",
+    "0220"
   ],
   "review_needed": {},
   "blocked": {

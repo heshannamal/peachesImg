@@ -2292,7 +2292,7 @@
     "source_image_ids": [
       170
     ],
-    "new_images": 2,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2304,7 +2304,7 @@
     "source_image_ids": [
       171
     ],
-    "new_images": 2,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2540,7 +2540,7 @@
     "source_image_ids": [
       190
     ],
-    "new_images": 1,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2552,9 +2552,9 @@
     "source_image_ids": [
       191
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -2794,15 +2794,17 @@
   },
   {
     "product_id": "0204",
-    "folder": "0204_Metallic-Hair-Claw-Assortment-0",
+    "folder": "0204_Metallic-Hair-Claw-Assortment-1",
     "source_image_ids": [
       210
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0205",
@@ -2810,7 +2812,7 @@
     "source_image_ids": [
       211
     ],
-    "new_images": 1,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2998,15 +3000,17 @@
   },
   {
     "product_id": "0220",
-    "folder": "0220_Pom-Pom-Hat-Keyrings-0",
+    "folder": "0220_Pom-Pom-Hat-Keyrings-1",
     "source_image_ids": [
       226
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0221",
@@ -3014,7 +3018,7 @@
     "source_image_ids": [
       227
     ],
-    "new_images": 3,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3295,27 +3299,31 @@
   },
   {
     "product_id": "0243",
-    "folder": "0243_Thin-Colourful-Headbands-0",
+    "folder": "0243_Thin-Colourful-Headbands-1",
     "source_image_ids": [
       249
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0244",
-    "folder": "0244_Printed-Silicone-Wristbands-0",
+    "folder": "0244_Printed-Silicone-Wristbands-1",
     "source_image_ids": [
       250
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0245",
@@ -3323,9 +3331,9 @@
     "source_image_ids": [
       251
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -3335,9 +3343,9 @@
     "source_image_ids": [
       252
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },

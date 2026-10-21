@@ -1,0 +1,35 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250212-WA0052.jpg": "dd576214b0d815758803697a5157151874b3f50b00bce2f0414a3337d01be874"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-b0d09073-016e-496c-b2c9-d9fd8becdcd1.png",
+      "prompt": "Edit original into website-ready ecommerce white seamless photo softshadows. Preserve entire SIX bodylotion bottles as ONEassortment, exact original lefttoright order: caramelbrown bluecap cocoa; pinkbody pinkcap even tone; green aloe brightgreencap; paleyellow nourishing yellowcap; white advancedrepair whitecap; palepink Perfect10 pinkcap. Keep source Vaseline printed labels/200ml bottle shapes/caps/colours/proportions visible frontface accurately, no inventing backs/extra products. Remove shop/counter/large toppriceoverlay only. Do not add authenticity/quality or skin-benefit claims, no addedtext/props.",
+      "sha256": "9fae2a272c97f4361b3051fdeeb280320c6ef80002ed33e1d1611cce24489242",
+      "checked": true,
+      "visual_check": "Basiccheck sixbodylotionbottles originalbrown pink green yellow white pink order/capshapes/labels, no shop/price; minorlabeltypography accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-28ef5560-954a-46c6-abe7-8c8945e91a9f.png",
+      "prompt": "Edit original into website-ready ecommerce white seamless photo softshadows. Preserve entire SIX bodylotion bottles as ONEassortment, exact original lefttoright order: caramelbrown bluecap cocoa; pinkbody pinkcap even tone; green aloe brightgreencap; paleyellow nourishing yellowcap; white advancedrepair whitecap; palepink Perfect10 pinkcap. Keep source Vaseline printed labels/200ml bottle shapes/caps/colours/proportions visible frontface accurately, no inventing backs/extra products. Remove shop/counter/large toppriceoverlay only. Do not add authenticity/quality or skin-benefit claims, no addedtext/props. Backgroundoverride lavendercream softstudio full6bottleassortment same frontorder no props/newtext.",
+      "sha256": "aad7d3547bf510e10bf359632d0de1850f79efe86c61a487fdf524ff95dc6e39",
+      "checked": true,
+      "visual_check": "Basiccheck sixlotions originalcolour/order/caps/printedlabels200ml shapes, lavenderstudio no oldprice; minorlabel typography accepted."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-ca9075fe-b2ca-47ac-8ec7-922f9a371f69.png",
+      "prompt": "Edit original into website-ready ecommerce white seamless photo softshadows. Preserve entire SIX bodylotion bottles as ONEassortment, exact original lefttoright order: caramelbrown bluecap cocoa; pinkbody pinkcap even tone; green aloe brightgreencap; paleyellow nourishing yellowcap; white advancedrepair whitecap; palepink Perfect10 pinkcap. Keep source Vaseline printed labels/200ml bottle shapes/caps/colours/proportions visible frontface accurately, no inventing backs/extra products. Remove shop/counter/large toppriceoverlay only. Do not add authenticity/quality or skin-benefit claims, no addedtext/props. Backgroundoverride lifestyle entire6bottleassortment on cream bathroomvanity lavenderwall softlyblurred, same frontorder no humans/application/newproducts/text.",
+      "sha256": "1fd44fd7e33e22d0b3b87c3852ea34a45c6d22c3f94423753722d4317d5c7245",
+      "checked": true,
+      "visual_check": "Viewed lifestyle: all six bottles same order, cap colours, shapes and front labels retained; cream vanity/lavender room. Minor lettering cosmetics accepted."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

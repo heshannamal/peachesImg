@@ -34,9 +34,20 @@
       "source_output": "/workspace/generated_images/exec-d2b81dc2-f66f-467c-a069-1aee88935914.png",
       "prompt": "STANDALONE TIGHT MACRO photograph of existing small white spiral conch shells threaded on string from reference. Fill frame with THREE neighbouring shells showing ridges natural holes and string texture. No full assortment, no hand price text or invented clasps.",
       "sha256": "9108ef63b389114f9e6096d4df3bfc12b319d98c29a1485ce27f835a881702f4",
-      "checked": false
+      "checked": true,
+      "visual_review": "Standalone tight macro white conical shells naturalridges holes string correctmaterial."
     }
   ],
   "status": "in_progress",
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "rejected_records": [
+    {
+      "saved_file": "Rejected/05_Promotional-hand-retained.png",
+      "source_output": "/workspace/generated_images/exec-3be2925c-e7b3-412c-8b63-22cd04582a72.png",
+      "prompt": "Website promotional photograph lavendercream backdrop compact plum heading 'White Shell Necklace Collection' subtitle 'PRODUCT COLLECTION'. Whole dense bundle of WHITE small spiral conch-shell necklaces draped vertically in many adjacent strands over hand. Preserve all visible strands layered arrangement irregular natural small white conical shells, drilled string holes and creamwhite tone; no invented coloured beads or clasps, no simplifying single necklace. Remove hand shop and price overlay. Fulloriginalvisible product group samefrontangle shape count coloursmaterials, noothertext.",
+      "sha256": "750719eb9508ca4fc77cd6da0d85261c59c57227f6e7d759cbe4e978ec01e951",
+      "checked": false,
+      "visual_review": "Hand retained in promotional output; correction required."
+    }
+  ]
 }

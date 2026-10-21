@@ -3439,27 +3439,31 @@
   },
   {
     "product_id": "0253",
-    "folder": "0253_Brown-Beaded-Bracelet-0",
+    "folder": "0253_Brown-Beaded-Bracelet-1",
     "source_image_ids": [
       259
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0254",
-    "folder": "0254_Black-Beaded-Bracelet-0",
+    "folder": "0254_Black-Beaded-Bracelet-1",
     "source_image_ids": [
       260
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0255",
@@ -3685,7 +3689,7 @@
     "source_image_ids": [
       281
     ],
-    "new_images": 1,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3697,7 +3701,7 @@
     "source_image_ids": [
       282
     ],
-    "new_images": 1,
+    "new_images": 2,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3931,7 +3935,7 @@
     "source_image_ids": [
       305
     ],
-    "new_images": 1,
+    "new_images": 2,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3943,7 +3947,7 @@
     "source_image_ids": [
       306
     ],
-    "new_images": 1,
+    "new_images": 2,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4168,15 +4172,17 @@
   },
   {
     "product_id": "0313",
-    "folder": "0313_Animal-Hot-Water-Bottles-0",
+    "folder": "0313_Animal-Hot-Water-Bottles-1",
     "source_image_ids": [
       326
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0314",
@@ -4184,7 +4190,7 @@
     "source_image_ids": [
       327
     ],
-    "new_images": 2,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4196,9 +4202,9 @@
     "source_image_ids": [
       328
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -4413,7 +4419,7 @@
     "source_image_ids": [
       347
     ],
-    "new_images": 2,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4425,7 +4431,7 @@
     "source_image_ids": [
       348
     ],
-    "new_images": 2,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",

@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250303-WA0359.jpg": "c8b986b56cab54a6ee6b0b246128eb5e908aabf0ee0f422af8118856e1877c10"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-76e22b8e-6090-4e0b-bd5c-609d6e38d198.png",
+      "prompt": "Square website catalogue photo editing reference. Preserve the exact ONE black wooden beaded bracelet shown: double rows of round black beads with rectangular engraved black blocks, preserve oval loop orientation, visible Om carvings, all visible beads and spacing, do not invent hidden parts. Clean white background, subtle shadow and improved clear lighting. Remove price overlay. No extra items or text.",
+      "sha256": "7ad76f65041ea3ff187001ad64244843c52563f0f61d1d783e958252e046309e",
+      "checked": true,
+      "visual_review": "Viewed against original: bracelet count, wooden bead shapes, colours, engraving placement and main visible arrangement preserved. Macro uses existing engraved block. Website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-3ce8ec9b-8f5c-44a9-9cc5-da0931822f82.png",
+      "prompt": "Square website styled photograph. Preserve the exact ONE black wooden beaded bracelet shown: double rows of round black beads with rectangular engraved black blocks, preserve oval loop orientation, visible Om carvings, all visible beads and spacing, do not invent hidden parts. Keep exact same visible arrangement. Soft lavender and cream studio background, natural light. Remove price label, no text or additional jewellery.",
+      "sha256": "c6fdbabd0d26b28a73ab4ae564a5c464ac96eb64dc63f32a25a89cd92ed9ea2e",
+      "checked": true,
+      "visual_review": "Viewed against original: bracelet count, wooden bead shapes, colours, engraving placement and main visible arrangement preserved. Macro uses existing engraved block. Website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-70d348ac-367b-4302-8961-6a20a72cbc32.png",
+      "prompt": "Square website lifestyle photograph. Preserve the exact ONE black wooden beaded bracelet shown: double rows of round black beads with rectangular engraved black blocks, preserve oval loop orientation, visible Om carvings, all visible beads and spacing, do not invent hidden parts. Same exact product quantity, orientation and main shapes. Rest on cream console table, softly blurred lavender room, gentle daylight, no hands or extra jewellery, remove price text.",
+      "sha256": "95d06beefe64adc323548b5f4b561564df5e54a46b79b4af68b9c6275564135b",
+      "checked": true,
+      "visual_review": "Viewed against original: bracelet count, wooden bead shapes, colours, engraving placement and main visible arrangement preserved. Macro uses existing engraved block. Website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-829086ef-947f-4b84-b6ef-88cbd929e2ec.png",
+      "prompt": "Square standalone tight macro product photograph of actual front engraved black wooden rectangular bead block and adjacent double rows of round beads from reference. Preserve visible carving and wood texture, real existing part only, cream softly lit background, no text or extra parts.",
+      "sha256": "49cc30926b9415d6ec3091123c17e6beafed8616222bcd553b4ff4312134cf21",
+      "checked": true,
+      "visual_review": "Viewed against original: bracelet count, wooden bead shapes, colours, engraving placement and main visible arrangement preserved. Macro uses existing engraved block. Website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-64fb0d86-e22f-4036-b5ed-83a84cf63e6b.png",
+      "prompt": "Square website promotional photo. Preserve the exact ONE black wooden beaded bracelet shown: double rows of round black beads with rectangular engraved black blocks, preserve oval loop orientation, visible Om carvings, all visible beads and spacing, do not invent hidden parts. Same quantity and arrangement. Lavender cream background, small dark plum heading 'Black Wooden Bracelet', subtitle 'PRODUCT COLLECTION'. Remove price label, no extra jewellery or hands.",
+      "sha256": "12ffa9a72d59555e5ce429aec5248ba28859efdb3b9615c671fb98946d38b35f",
+      "checked": true,
+      "visual_review": "Viewed against original: bracelet count, wooden bead shapes, colours, engraving placement and main visible arrangement preserved. Macro uses existing engraved block. Website-ready."
+    }
+  ],
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

@@ -1,68 +1,50 @@
 {
-  "updated_at": "2026-10-21T18:41:03.410452+00:00",
+  "updated_at": "2026-10-21T18:44:35.020343+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 0,
-  "partial_products": 10,
-  "pending_products": 90,
+  "completed_products": 3,
+  "partial_products": 8,
+  "pending_products": 89,
   "blocked_products": 0,
-  "saved_images": 20,
-  "checked_images": 11,
+  "saved_images": 35,
+  "checked_images": 31,
   "products": [
     {
       "product_id": "0253",
-      "folder": "0253_Brown-Beaded-Bracelet-0",
-      "status": "partial",
-      "saved_images": 3,
-      "checked_images": 0,
+      "folder": "0253_Brown-Beaded-Bracelet-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
+        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 01_White-Background.png",
-        "unreviewed or unrecorded: 02_Styled-Background.png",
-        "unreviewed or unrecorded: 03_Lifestyle.png"
-      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five images saved and visually checked",
+      "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0254",
-      "folder": "0254_Black-Beaded-Bracelet-0",
-      "status": "partial",
-      "saved_images": 3,
-      "checked_images": 0,
+      "folder": "0254_Black-Beaded-Bracelet-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
+        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 01_White-Background.png",
-        "unreviewed or unrecorded: 02_Styled-Background.png",
-        "unreviewed or unrecorded: 03_Lifestyle.png"
-      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five images saved and visually checked",
+      "errors": [],
       "originals_unchanged": true
     },
     {
@@ -411,14 +393,14 @@
       "product_id": "0273",
       "folder": "0273_Gold-Tone-Chain-Necklaces-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
+      "saved_images": 3,
+      "checked_images": 3,
       "files": [
-        "New/01_White-Background.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
@@ -431,13 +413,13 @@
       "product_id": "0274",
       "folder": "0274_Silver-Tone-Hoop-Earrings-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
+      "saved_images": 2,
+      "checked_images": 2,
       "files": [
-        "New/01_White-Background.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png"
       ],
       "missing_images": [
-        "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
@@ -793,13 +775,13 @@
       "product_id": "0293",
       "folder": "0293_Plush-Printed-Headbands-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
+      "saved_images": 2,
+      "checked_images": 2,
       "files": [
-        "New/01_White-Background.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png"
       ],
       "missing_images": [
-        "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
@@ -813,13 +795,13 @@
       "product_id": "0294",
       "folder": "0294_Pastel-Character-Hair-Clips-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
+      "saved_images": 2,
+      "checked_images": 2,
       "files": [
-        "New/01_White-Background.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png"
       ],
       "missing_images": [
-        "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
@@ -1173,10 +1155,29 @@
     },
     {
       "product_id": "0313",
-      "folder": "0313_Animal-Hot-Water-Bottles-0",
+      "folder": "0313_Animal-Hot-Water-Bottles-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "complete",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0314",
+      "folder": "0314_Character-Hot-Water-Bottle-Assortment-0",
       "status": "partial",
       "saved_images": 4,
-      "checked_images": 4,
+      "checked_images": 3,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
@@ -1186,52 +1187,37 @@
       "missing_images": [
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": "in_progress",
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "0314",
-      "folder": "0314_Character-Hot-Water-Bottle-Assortment-0",
-      "status": "partial",
-      "saved_images": 2,
-      "checked_images": 1,
-      "files": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
-      ],
-      "missing_images": [
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
       "review_needed_images": [
-        "New/02_Styled-Background.png"
+        "New/04_Detail.png"
       ],
       "notes_status": "in_progress",
       "errors": [
-        "unreviewed or unrecorded: 02_Styled-Background.png"
+        "unreviewed or unrecorded: 04_Detail.png"
       ],
       "originals_unchanged": true
     },
     {
       "product_id": "0315",
       "folder": "0315_Metallic-Hair-Claws-0",
-      "status": "pending",
-      "saved_images": 0,
+      "status": "partial",
+      "saved_images": 1,
       "checked_images": 0,
-      "files": [],
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "missing_images": [
-        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "review_needed_images": [
+        "New/01_White-Background.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png"
+      ],
       "originals_unchanged": true
     },
     {
@@ -1561,23 +1547,23 @@
       "product_id": "0333",
       "folder": "0333_Wooden-Tag-Keyrings-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 1,
+      "saved_images": 3,
+      "checked_images": 2,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [
-        "New/02_Styled-Background.png"
+        "New/03_Lifestyle.png"
       ],
       "notes_status": "in_progress",
       "errors": [
-        "unreviewed or unrecorded: 02_Styled-Background.png"
+        "unreviewed or unrecorded: 03_Lifestyle.png"
       ],
       "originals_unchanged": true
     },
@@ -1585,23 +1571,23 @@
       "product_id": "0334",
       "folder": "0334_Plush-Bear-Keyrings-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 1,
+      "saved_images": 3,
+      "checked_images": 2,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [
-        "New/02_Styled-Background.png"
+        "New/03_Lifestyle.png"
       ],
       "notes_status": "in_progress",
       "errors": [
-        "unreviewed or unrecorded: 02_Styled-Background.png"
+        "unreviewed or unrecorded: 03_Lifestyle.png"
       ],
       "originals_unchanged": true
     },

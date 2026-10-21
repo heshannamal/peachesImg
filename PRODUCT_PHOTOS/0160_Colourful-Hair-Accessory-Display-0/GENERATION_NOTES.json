@@ -1,0 +1,19 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250208-WA0210.jpg": "714561808c946ddd09420277fc8dd49845ced32f23302014ffc342ff22fa26b0",
+    "Originals/IMG-20250211-WA0131.jpg": "bc3ae57bf36cc6109fa9a0c197e3ba0e5451276dba46a41746b8746be2f2eb44"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-6719a1eb-876d-4144-8264-5830d46c886a.png",
+      "prompt": "Website product photo on cleanwhite surroundings. Preserve EXACT original cropped entire hairaccessory rack display with all original bowcards and fuzzycharactercards, identical count/arrangement/overlaps, preserve original clippededges never extrapolate newcards, same actual pink white lavender blue brown black colours. Remove hand/shop/prices only, keep entire original crop and visibleproducts unchanged, main shapes/materials/colours. No newtext/extra jewellery.",
+      "sha256": "fd8f368c2d0a68d6ab4c917591ee917eaad3cf4fb121953af1658f79f9f28da4",
+      "checked": false
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

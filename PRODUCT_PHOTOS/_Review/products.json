@@ -2207,9 +2207,9 @@
     "source_image_ids": [
       164
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -2220,9 +2220,9 @@
       165,
       175
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -2400,15 +2400,17 @@
   },
   {
     "product_id": "0175",
-    "folder": "0175_Neutral-Animal-Ear-Headbands-0",
+    "folder": "0175_Neutral-Animal-Ear-Headbands-1",
     "source_image_ids": [
       181
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0176",
@@ -2428,7 +2430,7 @@
     "source_image_ids": [
       183
     ],
-    "new_images": 2,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2644,27 +2646,31 @@
   },
   {
     "product_id": "0195",
-    "folder": "0195_Transparent-Butterfly-Hair-Claws-0",
+    "folder": "0195_Transparent-Butterfly-Hair-Claws-1",
     "source_image_ids": [
       201
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0196",
-    "folder": "0196_Ice-Cream-Pom-Pom-Keyring-0",
+    "folder": "0196_Ice-Cream-Pom-Pom-Keyring-1",
     "source_image_ids": [
       202
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0197",
@@ -2672,9 +2678,9 @@
     "source_image_ids": [
       203
     ],
-    "new_images": 0,
+    "new_images": 2,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -2684,9 +2690,9 @@
     "source_image_ids": [
       204
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -2904,7 +2910,7 @@
     "source_image_ids": [
       222
     ],
-    "new_images": 3,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3161,27 +3167,31 @@
   },
   {
     "product_id": "0237",
-    "folder": "0237_Pastel-Hair-Clip-Packs-0",
+    "folder": "0237_Pastel-Hair-Clip-Packs-1",
     "source_image_ids": [
       243
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0238",
-    "folder": "0238_Floral-Fabric-Scrunchies-0",
+    "folder": "0238_Floral-Fabric-Scrunchies-1",
     "source_image_ids": [
       244
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0239",

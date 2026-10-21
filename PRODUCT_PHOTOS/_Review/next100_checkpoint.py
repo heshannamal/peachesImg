@@ -56,7 +56,7 @@ def sync():
  for tracked in subprocess.check_output(['git','ls-files'],cwd=REPO,text=True).splitlines():
   parts=tracked.split('/')
   if len(parts)>2 and parts[0]=='PRODUCT_PHOTOS' and parts[1][:4] in PLAN['product_ids'] and not (REPO/tracked).exists():selected.append(tracked)
- for pattern in ['NEXT100*.json','next100_checkpoint.py','products.json','CONTINUE_PRODUCT_PHOTOS.md']:
+ for pattern in ['NEXT100*.json','next100_checkpoint.py','next100_watch.py','products.json','CONTINUE_PRODUCT_PHOTOS.md']:
   selected.extend(str(p.relative_to(REPO)) for p in REVIEW.glob(pattern))
  subprocess.run(['git','add','--pathspec-from-file=-','--pathspec-file-nul'],cwd=REPO,input=b'\0'.join(p.encode() for p in sorted(set(selected)))+b'\0',check=True)
  print('Scheduled queue recovery files staged.')

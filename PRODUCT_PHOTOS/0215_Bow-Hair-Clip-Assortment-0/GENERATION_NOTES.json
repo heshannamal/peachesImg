@@ -40,5 +40,16 @@
       "visual_review": "Standalone tight macro retains pink glitter butterfly,gold outline/spacer balls,pink disc beads and rhinestone rondelles; matches actual source part."
     }
   ],
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "rejected_outputs": [
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-946a58cc-ceea-488c-81c7-98002a68062d.png",
+      "prompt": "One realistic promotional website photo of exact12butterfly bracelet rows on original white Fashion Jewelry card in clear sleeve: paired red,pink,lavender,blue,white,black disc beads/cords,glitter butterfly centres,gold spacers,rhinestone rondelles and tiny butterfly sides. Entire assortmentONEproduct. Preserve count,identity,shape,colours. Cream lavender backdrop,compact dark plum 'Butterfly Beaded Bracelets' and 'PRODUCT COLLECTION'. No price/hand/shop/extra parts.",
+      "sha256": "62bc284cd9b2fa43e5b5d657c4cd621b64fad10f28b43bb04e65e54b5bc45826",
+      "checked": true,
+      "accepted": false,
+      "visual_review": "Rejected promo count:10bracelet rows instead of12."
+    }
+  ]
 }

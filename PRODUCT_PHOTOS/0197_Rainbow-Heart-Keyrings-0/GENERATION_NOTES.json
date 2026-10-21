@@ -1,0 +1,28 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250215-WA0407.jpg": "fe83a9fb010cedd658eb14915a4291d8a4081b8111be25c8c73c218707ae01a3"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-9c21ac67-1fbe-4c54-8e7e-937a088e2bbb.png",
+      "prompt": "Preserve exact overlapping bundle of fuzzy heart plush keyrings in reference: foreground horizontally striped orange coral magenta purple blue heart, rear rainbow and white pastel pink blue hearts, gold chain rings bunched above. Preserve visible colours, heart shapes, original overlap and occlusion; do not expand hidden pieces or invent a count. Entire visible bundle one assortment. Full bundle seamless white studio soft shadows. Website-ready product photograph editing reference. Remove hand shop old price overlay. No other text or invented parts.",
+      "sha256": "eff2a6ff81e60a08fe7b8944a2fec154555932704ae8e7aa923be20322695fed",
+      "checked": true,
+      "visual_check": "Passed visible identity: overlapping rainbow and pastel fuzzy heart keyring bundle with gold rings; hidden total count cannot independently be verified from occluded original."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-c6afa582-5bb7-4460-869e-3302013f9a7f.png",
+      "prompt": "Preserve exact overlapping bundle of fuzzy heart plush keyrings in reference: foreground horizontally striped orange coral magenta purple blue heart, rear rainbow and white pastel pink blue hearts, gold chain rings bunched above. Preserve visible colours, heart shapes, original overlap and occlusion; do not expand hidden pieces or invent a count. Entire visible bundle one assortment. Full bundle cream linen lavender studio background. Website-ready product photograph editing reference. Remove hand shop old price overlay. No other text or invented parts.",
+      "sha256": "4697a981cb2db0c70873a5d1ead1267a792e85eeb1d99b9bce286b3a98828792",
+      "checked": true,
+      "visual_check": "Passed visible rainbow pastel heart bundle shapes textures gold rings and overlap; hidden source total remains occluded."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true
+}

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-21T02:25:19.381438+00:00",
+  "updated_at": "2026-10-21T02:31:44.932940+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 13,
-  "partial_products": 4,
+  "completed_products": 14,
+  "partial_products": 3,
   "pending_products": 82,
   "blocked_products": 1,
-  "saved_images": 75,
-  "checked_images": 73,
+  "saved_images": 76,
+  "checked_images": 74,
   "products": [
     {
       "product_id": "0153",
@@ -791,21 +791,20 @@
     },
     {
       "product_id": "0194",
-      "folder": "0194_Pastel-Bow-Hair-Clips-0",
-      "status": "partial",
-      "saved_images": 4,
-      "checked_images": 4,
+      "folder": "0194_Pastel-Bow-Hair-Clips-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png"
-      ],
-      "missing_images": [
+        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "complete",
       "errors": [],
       "originals_unchanged": true
     },

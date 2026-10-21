@@ -36,9 +36,17 @@
       "sha256": "fa92e273dade8845686c37889360feb49d15a90270bbd356878f5cf4d3ccf71e",
       "checked": true,
       "visual_review": "Compared original and recovered macro: existing green plumeria claw with yellow/white/green petal, green jaws and visible spring. Correct tight crop, not whole assortment."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-0d330c2e-38be-43f8-b083-b71718fa651d.png",
+      "prompt": "Create one website-ready promotional photograph by editing the original reference. Preserve the EXACT entire assortment of FOUR long crown-top white display cards, each holding SIX PAIRS of small flower hair claws (twelve claws per card, forty-eight total). Preserve original rows, colours, flower designs and clear original clip shapes: first card plumeria gradient petals, second fine detailed blossoms, third sculpted plumeria, fourth rounded daisy blossoms. Preserve all visible stock as one product, original front view. Remove surrounding shop, old prices and unrelated stock. Soft lavender and cream studio background, compact dark plum heading 'Flower Hair Claw Collection' and small 'PRODUCT COLLECTION' outside merchandise. Full four cards visible with generous margins, no added products, no collage.",
+      "sha256": "ff5430cee8cd43ecedf685a6f31aca2106d4aab519c0c06a560fe8c29562ac70",
+      "checked": true,
+      "visual_review": "Compared source and new promo: four crown-top cards, six pairs each/48claws, correct row colours and four distinct flower styles; no shop or prices. Website-ready minor cosmetic differences accepted."
     }
   ],
-  "status": "in_progress",
+  "status": "complete",
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
   "originals_unchanged": true,
   "rejected_outputs": [

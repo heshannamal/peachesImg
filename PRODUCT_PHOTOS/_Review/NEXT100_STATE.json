@@ -1,16 +1,17 @@
 {
-  "status": "interrupted_worker_usage_limit",
+  "status": "running",
   "started_at": "2026-10-20T18:43:16.390454+00:00",
   "scope": "0153\u20130252 only",
   "max_active_products": 10,
   "target_products": 100,
   "target_images": 500,
-  "updated_at": "2026-10-21T02:25:19.381438+00:00",
-  "completed_products": 13,
-  "partial_products": 4,
+  "updated_at": "2026-10-21T02:31:44.932940+00:00",
+  "completed_products": 14,
+  "partial_products": 3,
   "pending_products": 82,
   "blocked_products": 1,
-  "saved_images": 75,
-  "checked_images": 73,
-  "blocker": "Worker model usage limits interrupted scheduled execution. Successful cached outputs recovered; no fresh generation started during status check."
+  "saved_images": 76,
+  "checked_images": 74,
+  "blocker": "Worker model usage limits interrupted scheduled execution. Successful cached outputs recovered; no fresh generation started during status check.",
+  "resume_note": "User requested start now; native generation tested successfully and0194 completed."
 }

@@ -1,0 +1,34 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250405-WA0084.jpg": "57d46f62323fc4c8e5a8ad0c5a8ee01f446f6015c900067c3531d5c3c31eadfd"
+  },
+  "records": [
+    {
+      "saved_file": "Rejected/01_White-Background_first.png",
+      "source_output": "/workspace/generated_images/exec-432c802a-cb1b-49db-9b3c-9eaa022be176.png",
+      "prompt": "Edit reference to clean white background website product photograph of actual visible main row of pastel transparent hot water bottles with white bunny-shaped caps and illustrated fronts. Preserve original overlapping row arrangement, same visible quantity, colours green lavender yellow pink pink blue green, shapes, printed characters and clear outlines; keep partially occluded edge bottles as referenced, do not invent hidden bottle designs. Whole visible assortment is one product. Remove shop hooks, clips, shelf, price and bottom unrelated stock. No extra bottles, no new views.",
+      "sha256": "f838bc39e3343fb192a2ae7aad0501966070cdae6a70cfa17fd7b19e7cfa2bb6",
+      "checked": false,
+      "visual_review": "Seven main bottles faithful but cropped eighth left-edge bottle omitted; one material correction needed."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-0259ab21-65c8-4f8a-8bd5-0152eea00f4f.png",
+      "prompt": "Faithful reference photo edit, white background. Preserve EXACT visible row: SEVEN main bottles green lavender yellow pink pink blue green PLUS the partially cropped clear bottle at extreme LEFT showing white bunny cap and partial white printed face. Eight visible bottles total including that cropped edge one. Preserve overlap, same front illustrations and pastel transparent shapes, white bunny caps. Do not omit cropped left bottle. Remove metal shop shelf hooks, binder clips, price overlay and bottom stock; no invented hidden views. Entire visible row one product.",
+      "sha256": "4a3c60dd54aead4f56e8f1c2ab437c8be5b9d6c47268e88ea455fe0a06d3cd61",
+      "checked": true,
+      "visual_review": "Eight visible bunny cap bottles including cropped clear left edge, pastel colours and illustrated fronts retained on white."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-925215ae-41ac-4d5f-b549-5daf03efc5b4.png",
+      "prompt": "Edit referenced original into lavender cream studio product photo. Preserve EXACT visible row: SEVEN main bottles green lavender yellow pink pink blue green PLUS partially cropped clear bottle at extreme LEFT with bunny cap and partial white printed face. Eight visible bottles total. Same original overlap, transparent pastel shapes, illustrated fronts, white bunny caps. Do not omit cropped edge bottle. Whole visible assortment one product. Remove shop hooks binderclips shelf price and bottomstock. No added bottles, no invented views.",
+      "sha256": "246695598fb9789db2263b1155afa949fc0528c4570eee02b1614b20cab4ff43",
+      "checked": false
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

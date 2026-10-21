@@ -1,0 +1,26 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250408-WA0268.jpg": "9bcf6b82e19cffb17fac23cab83634cdac87ebb3116be09246ea2ddef0ccacf5"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-a8743d4f-1534-492c-9862-aa4ae56b6020.png",
+      "prompt": "Edit reference into website-ready white background product photograph of entire clear bag of twelve plush teddy bear keyrings in exact overlapping four rows by three colour columns: pink left, red centre, tan right, existing spotted red/pink ears and paw pads, little ribbon bows and silver keyrings, packaging retained. Preserve exact visible product count, arrangement, original shape, colours, material and packaging. Remove old price/shop overlay and unrelated background stock, replace background seamless white soft studio shadows. Retain real product printed designs. No extra products, invented parts, hands or new text.",
+      "sha256": "a6fa2a1526bd0733ba6218b53226a1104323272ba9d1fe789e84d2492e5eafd4",
+      "checked": true,
+      "visual_review": "Viewed white output against original: twelve-item arrangement and real wood/plush material, designs, colours and packaging retained; old price removed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-41d7058a-5532-460e-b621-62b4c1b88a12.png",
+      "prompt": "Edit reference into website-ready styled photograph of entire clear bag of twelve plush teddy bear keyrings in exact overlapping four rows by three colour columns: pink left, red centre, tan right, existing spotted red/pink ears and paw pads, little ribbon bows and silver keyrings, packaging retained. Preserve actual count, arrangement, designs, colours, real material and packaging. Pale lavender and cream minimal surface/background, diffused light. Remove old price/shop overlay and unrelated background stock only. No added text/parts/products/hands.",
+      "sha256": "62ff96abcea2e8bad1ac660454f532ab7ee951d428e8f755deaa2b611c0b15ca",
+      "checked": false
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

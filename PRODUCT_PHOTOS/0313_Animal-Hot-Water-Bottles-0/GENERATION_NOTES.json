@@ -1,0 +1,43 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250405-WA0071.jpg": "b3c19a3ce46866a4d6e029213cc32d2798f24dbe94c0239f023241ccf48c5d14"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-dc4b8f67-2aee-4d66-a6ba-b0d15e7668cc.png",
+      "prompt": "Reference edit: five animal plush covers on white; same count colours details arrangement. Remove price graphics and props.",
+      "sha256": "5b924030599197d0264374fd105bdcdf865c1369990dc7038263b450001a3e55",
+      "checked": true,
+      "visual_review": "Five plush animal covers retain gray/tan/tan/pink/white colours, faces, strawberry and cookie details; clean white background."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-3f0ec4c1-a1c3-40ad-9436-b9017f7ef585.png",
+      "prompt": "Edit referenced original into premium website photograph on lavender and cream studio surface with soft shadows. Exactly FIVE same plush animal hot water bottle covers in same arrangement: gray bear, tan cookie bear, white strawberry rabbit, tan red bow bear, pink rabbit. Preserve faces,fuzzy texture,colours,shapes and front details. Whole assortment one product. Remove price,text overlays,decorative light strings and unrelated objects. No added products or invented views.",
+      "sha256": "76bafdd863d03b313a5824659257fc45a6bf007f28ff574e2b893115784a6bbf",
+      "checked": true,
+      "visual_review": "Five gray/tan/tan/pink/white plush covers, same animal faces/details on lavender cream platforms."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-4fc76c9f-dcc4-4326-88ab-861c70d58785.png",
+      "prompt": "Edit original to cozy bedroom lifestyle product photo, same FIVE plush animal hot water bottle covers resting together on cream knitted blanket with lavender pillow in background. Preserve exactly gray bear,tan cookie bear,white strawberry rabbit,tan redbow bear,pink rabbit, their original shapes colours faces prints and arrangement. Whole five-piece assortment one product. No people/hands. Remove price/text graphics/light strings/unrelated props, no additional covers or invented backs.",
+      "sha256": "4429f57ae62801fadd4d83d6bb48dc9748d9ece4a67c8c4ae22417d98ff497ea",
+      "checked": true,
+      "visual_review": "Five original animal covers keep colours, faces and fuzzy fronts on cream bed with lavender pillows."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-d8b6fc43-8cbd-4595-8b2f-8bac9c6fb15b.png",
+      "prompt": "Create standalone tight macro product photograph directly from referenced original: crop CLOSE into tan cookie bear cover face and cookie applique, showing actual tan boucle fleece, pink cheek embroidery, cream muzzle and brown cookie texture. Only real existing front details. Frame excludes most of product; no full assortment, no collage, no inset, no text, no invented backside or materials. Soft cream background.",
+      "sha256": "b1804b028cc3a4bb6e049b37303532d7c038097f3c9692bbe64741ddd703d306",
+      "checked": true,
+      "visual_review": "Standalone tight crop of actual tan cookie bear fleece, pink embroidered cheeks, cream muzzle and cookie applique; no full-set collage."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

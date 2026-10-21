@@ -2207,7 +2207,7 @@
     "source_image_ids": [
       164
     ],
-    "new_images": 1,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2220,7 +2220,7 @@
       165,
       175
     ],
-    "new_images": 1,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2430,7 +2430,7 @@
     "source_image_ids": [
       183
     ],
-    "new_images": 3,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2442,9 +2442,9 @@
     "source_image_ids": [
       184
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -2678,7 +2678,7 @@
     "source_image_ids": [
       203
     ],
-    "new_images": 2,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2690,7 +2690,7 @@
     "source_image_ids": [
       204
     ],
-    "new_images": 1,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2894,27 +2894,31 @@
   },
   {
     "product_id": "0215",
-    "folder": "0215_Bow-Hair-Clip-Assortment-0",
+    "folder": "0215_Bow-Hair-Clip-Assortment-1",
     "source_image_ids": [
       221
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0216",
-    "folder": "0216_Fruit-Keyrings-0",
+    "folder": "0216_Fruit-Keyrings-1",
     "source_image_ids": [
       222
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0217",
@@ -3199,9 +3203,9 @@
     "source_image_ids": [
       245
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -3211,9 +3215,9 @@
     "source_image_ids": [
       246
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },

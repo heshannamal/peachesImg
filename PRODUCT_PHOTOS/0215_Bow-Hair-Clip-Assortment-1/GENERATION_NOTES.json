@@ -1,6 +1,6 @@
 {
   "tool": "built-in image_gen",
-  "status": "in_progress",
+  "status": "five images generated and visually checked",
   "original_hashes": {
     "Originals/IMG-20250217-WA0098.jpg": "92fd23f32790fd7b8fc160d33645992a424d25c344a67fa49aae44a9381c0a63"
   },
@@ -38,6 +38,15 @@
       "sha256": "c429ad07aceadc0b6229390143341e900b7d1f97d7ff79d971df48ccb2b11a2a",
       "checked": true,
       "visual_review": "Standalone tight macro retains pink glitter butterfly,gold outline/spacer balls,pink disc beads and rhinestone rondelles; matches actual source part."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-77e60fe4-34b9-4a03-9fe9-cbfed5337cec.png",
+      "prompt": "Use white-background reference EXACT product arrangement with12bracelet rows. Do not change ANYproduct. Change only backdrop to cream/lavender and add compact dark plum title 'Butterfly Beaded Bracelets' with 'PRODUCT COLLECTION'. EXACT12rows:2red+2pink+2lavender+2blue+2white+2black. Preserve butterfly centres,disc beads,goldspacers,rhinestone rings,original card/sleeve. Full set fitsframe,no hand/price/shop/extras.",
+      "sha256": "f0ec94bcfd207807ad1b1d50cab5a6a1b46bbf4b60981e229f77f38271f0c52e",
+      "checked": true,
+      "accepted": true,
+      "visual_review": "Corrected promotional output counted12bracelet rows in six colour pairs,glitter butterfly centres/side charms,gold spacers,disc beads retained. Heading moved onto card; accepted cosmetic."
     }
   ],
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
@@ -51,5 +60,6 @@
       "accepted": false,
       "visual_review": "Rejected promo count:10bracelet rows instead of12."
     }
-  ]
+  ],
+  "original_plan_sha256_verified": true
 }

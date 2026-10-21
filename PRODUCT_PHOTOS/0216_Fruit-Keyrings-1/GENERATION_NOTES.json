@@ -1,6 +1,6 @@
 {
   "tool": "built-in image_gen",
-  "status": "in_progress",
+  "status": "five images generated and visually checked",
   "original_hashes": {
     "Originals/IMG-20250217-WA0105.jpg": "174f538df7a3b9a38625421b019f5c8fccb5f0419581aa13f733487ca85ea82c"
   },
@@ -37,6 +37,15 @@
       "sha256": "b8c6824b74d2337c1c174fcd52e77143e4d940e578f1e3dbd3a1172dcd93053c",
       "checked": true,
       "visual_review": "Standalone tight macro of original blue stacked character keyring,horns,pink mouth and silver chain retained."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-fb40f367-3b60-47b2-99e5-11937a3d1195.png",
+      "prompt": "Use corrected white photo product layout exactly,change only backdrop to cream lavender promotional. Compact dark plum 'Colourful Character Keyrings' and 'PRODUCT COLLECTION' above product. EXACT12keyrings:3green+3blue+3purple stacked monsters,redcat,bluecat,pinkcat. Twelve separate silver rings/chains on red KEYCHAIN header. Preserve shapes,colours,faces,horns,sticks,clear packaging. Whole assortment ONE product,no omitted blue item,no hand/price/shop/extras.",
+      "sha256": "4c7d851779618b21fc02cf181e1a5267689c3fcfc27171f5b26e16a49c211e8b",
+      "checked": true,
+      "accepted": true,
+      "visual_review": "Promotional output counted12keyrings,3each green/blue/purple monsters plus3cats,original header,rings,chains,wrappers retained; heading clear."
     }
   ],
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
@@ -59,5 +68,6 @@
       "accepted": false,
       "visual_review": "Material count issue: styled output shows11keyrings, missing one blue item compared to intended12. One corrective retry already used for white; flagged for human review, no further generation."
     }
-  ]
+  ],
+  "original_plan_sha256_verified": true
 }

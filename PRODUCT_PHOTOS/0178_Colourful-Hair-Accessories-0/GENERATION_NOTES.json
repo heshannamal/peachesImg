@@ -1,0 +1,19 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250212-WA0041.jpg": "c11b3b832b892299ec594b4c9b29ee001c68b5e59b889743993a33f8626e8c12"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-879a93e8-2277-41f4-8650-b97eb5650e81.png",
+      "prompt": "Edit original into website-ready ecommerce purewhite seamless photograph softshadows. Preserve exact ENTIRE packaged hairaccessory assortment as ONEproduct: sixfrontwhite strawberry/bunny cards2rows3columns, edged with many pastel tiny clawclips of star/flower/butterfly shapes, centralwindow stacks coloured fabric elastics on fivecards and blackhairpins on bottomrightcard. Preserve every visible card/clip/band/hairpin original arrangement, exact count/colours/shapes/material, overlap and clearouterbag. No simplifying or invented hiddenextras. Remove hand/shop/960Rs overlay only, no newtext/props or rearviews.",
+      "sha256": "8019b5cceed5bc860b30605f51beae8884e4b86597a41992e7b8f438bd348306",
+      "checked": true,
+      "visual_check": "Basiccheck6cards pastel clawclip shapes5elasticwindows1blackpinwindow sourcecolours/materials/clearpackaging; individual denseclipcounts not independentlyresolved. No hand/price."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

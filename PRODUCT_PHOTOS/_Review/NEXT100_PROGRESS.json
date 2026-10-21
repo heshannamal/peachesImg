@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-21T08:09:24.784676+00:00",
+  "updated_at": "2026-10-21T08:13:44.637000+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 43,
-  "partial_products": 5,
-  "pending_products": 50,
+  "completed_products": 45,
+  "partial_products": 9,
+  "pending_products": 44,
   "blocked_products": 2,
-  "saved_images": 228,
-  "checked_images": 225,
+  "saved_images": 245,
+  "checked_images": 241,
   "products": [
     {
       "product_id": "0153",
@@ -201,50 +201,40 @@
     },
     {
       "product_id": "0163",
-      "folder": "0163_White-Beaded-Elephant-Charm-Bracelet-0",
-      "status": "partial",
-      "saved_images": 3,
-      "checked_images": 2,
+      "folder": "0163_White-Beaded-Elephant-Charm-Bracelet-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
+        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [
-        "New/03_Lifestyle.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 03_Lifestyle.png"
-      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five images saved and visually checked",
+      "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0164",
-      "folder": "0164_Pastel-Cord-Bracelet-Display-0",
-      "status": "partial",
-      "saved_images": 3,
-      "checked_images": 2,
+      "folder": "0164_Pastel-Cord-Bracelet-Display-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
+        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [
-        "New/03_Lifestyle.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 03_Lifestyle.png"
-      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five images saved and visually checked",
+      "errors": [],
       "originals_unchanged": true
     },
     {
@@ -573,38 +563,40 @@
     {
       "product_id": "0182",
       "folder": "0182_Monochrome-Flower-Hair-Clips-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "status": "partial",
+      "saved_images": 3,
+      "checked_images": 3,
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
+        "New/03_Lifestyle.png"
+      ],
+      "missing_images": [
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0183",
       "folder": "0183_Vaseline-Lip-Therapy-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "status": "partial",
+      "saved_images": 2,
+      "checked_images": 2,
+      "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
+        "New/02_Styled-Background.png"
+      ],
+      "missing_images": [
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },
@@ -977,6 +969,30 @@
       "product_id": "0203",
       "folder": "0203_Mixed-Hair-Bows-0",
       "status": "partial",
+      "saved_images": 2,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png"
+      ],
+      "missing_images": [
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "review_needed_images": [
+        "New/02_Styled-Background.png"
+      ],
+      "notes_status": "review_needed",
+      "errors": [
+        "unreviewed or unrecorded: 02_Styled-Background.png"
+      ],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0204",
+      "folder": "0204_Metallic-Hair-Claw-Assortment-0",
+      "status": "partial",
       "saved_images": 1,
       "checked_images": 1,
       "files": [
@@ -990,25 +1006,6 @@
       ],
       "review_needed_images": [],
       "notes_status": "in_progress",
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "0204",
-      "folder": "0204_Metallic-Hair-Claw-Assortment-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": null,
       "errors": [],
       "originals_unchanged": true
     },
@@ -1301,39 +1298,48 @@
       "product_id": "0220",
       "folder": "0220_Pom-Pom-Hat-Keyrings-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
+      "saved_images": 3,
+      "checked_images": 2,
       "files": [
-        "New/01_White-Background.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
+      "review_needed_images": [
+        "New/03_Lifestyle.png"
+      ],
       "notes_status": "in_progress",
-      "errors": [],
+      "errors": [
+        "unreviewed or unrecorded: 03_Lifestyle.png"
+      ],
       "originals_unchanged": true
     },
     {
       "product_id": "0221",
       "folder": "0221_Large-Fabric-Scrunchies-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "status": "partial",
+      "saved_images": 2,
+      "checked_images": 1,
+      "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
+        "New/02_Styled-Background.png"
+      ],
+      "missing_images": [
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
+      "review_needed_images": [
+        "New/02_Styled-Background.png"
+      ],
       "notes_status": "in_progress",
-      "errors": [],
+      "errors": [
+        "unreviewed or unrecorded: 02_Styled-Background.png"
+      ],
       "originals_unchanged": true
     },
     {
@@ -1738,38 +1744,40 @@
     {
       "product_id": "0243",
       "folder": "0243_Thin-Colourful-Headbands-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "missing_images": [
-        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0244",
       "folder": "0244_Printed-Silicone-Wristbands-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "missing_images": [
-        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },

@@ -12,9 +12,17 @@
       "sha256": "bd23bf6b7306d4ee64f915fe00e0dcfbc9f856f25251ebbd9b96186acd739231",
       "checked": true,
       "visual_check": "Passed twelve plaid star outline claws six per clear packet correct colour sequence shapes and teeth."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-b08c3277-b42e-4c0f-9df4-a7e0fc663ef4.png",
+      "prompt": "p203_2fix exact source twelve plaid star claws six each strip; full prompt NEXT100_worker3_prompts.json.",
+      "sha256": "3aec52d0a7a8bbabaf8104417c267060b4c40d212d70a7242c29cd137c839389",
+      "checked": false,
+      "visual_check": "Failed count after one material correction: right strip contains seven stars duplicate black, original six. Stop retries and skip remaining views."
     }
   ],
-  "status": "in_progress",
+  "status": "review_needed",
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
   "originals_unchanged": true
 }

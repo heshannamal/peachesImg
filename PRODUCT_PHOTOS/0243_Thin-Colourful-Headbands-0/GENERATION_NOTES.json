@@ -1,0 +1,19 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250303-WA0337.jpg": "8d81553d635ddcd5623aa8117ac863a7a791d458b3962e9065cdb9856e33ac42"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-87f5dc46-d550-43e6-a62d-2cb1a2449009.png",
+      "prompt": "Edit reference into website-ready product photograph of entire overlapping assortment of thin colourful closed silicone slogan wristbands (NOT headbands), pink purple blue aqua lime green yellow white black and red, retaining original overlapping layout, flat narrow band profiles and existing printed words. Preserve every visible product and actual material/colours. Remove price/shop/watermark overlays only, retain product printed slogans. Seamless white background, soft studio shadow, product prominent, no extra props/hands or invented parts.",
+      "sha256": "cc93cbd9b76f415cf9d59bfb9122e04bdad1e7683d1569384fa59da484c73297",
+      "checked": true,
+      "visual_review": "Viewed white output against original: colourful printed bands and original display arrangement retained. 0244 has ten visible bands including partly hidden cyan, despite prompt initial miscount nine; output correctly retains cyan."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

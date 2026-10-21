@@ -1,0 +1,35 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250212-WA0160.jpg": "d0ad89d81517c8fe6c51a691bbc9667195499dbe461ac9f01171aed1cd5aaefa"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-fcc3170e-ff85-40c0-86c7-46eba6691536.png",
+      "prompt": "Edit original into white seamless ecommerce photograph softshadow of exactly ONE CLOSED round Vaseline Lip Therapy Rosy Lips 20g tin. Preserve exact circular tin shape, hotpink upperlabel white lowerlabel, source Vaseline typography/wording, silverrim and clearouterwrap. Same frontlid view tilted veryslightly, no opening or invented balm/interior/rear. Remove hand/shop only no extra props or claims or text.",
+      "sha256": "36b0ab777d04213a42158440c8174051910b406f8a568895f9d215853981d54e",
+      "checked": true,
+      "visual_check": "Viewed white: one closed pink/white Rosy Lips 20g round tin same frontlid and outerwrap retained; lettering legible, no invented interior."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-970d4f31-6047-4468-9ba2-a324997f9491.png",
+      "prompt": "Edit original into white seamless ecommerce photograph softshadow of exactly ONE CLOSED round Vaseline Lip Therapy Rosy Lips 20g tin. Preserve exact circular tin shape, hotpink upperlabel white lowerlabel, source Vaseline typography/wording, silverrim and clearouterwrap. Same frontlid view tilted veryslightly, no opening or invented balm/interior/rear. Remove hand/shop only no extra props or claims or text. Backgroundoverride lavendercream styled tabletop, sameclosedlid frontface, softshadow no newprops.",
+      "sha256": "a384f63ee525d1913f8d32a7731951ed6431d69fafb5ebfb97386b4c2ec9d920",
+      "checked": true,
+      "visual_check": "Viewed styled: single closed hotpink/white Rosy Lips 20g tin, silverrim and wrapper, front typography retained on lavender."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-dea52d6c-94ab-46f5-8066-0286b68b6df9.png",
+      "prompt": "Edit original into white seamless ecommerce photograph softshadow of exactly ONE CLOSED round Vaseline Lip Therapy Rosy Lips 20g tin. Preserve exact circular tin shape, hotpink upperlabel white lowerlabel, source Vaseline typography/wording, silverrim and clearouterwrap. Same frontlid view tilted veryslightly, no opening or invented balm/interior/rear. Remove hand/shop only no extra props or claims or text. Backgroundoverride lifestyle tin on creamvanity lavenderwall softlyblurred inbackground, no people or usage, no other cosmetics.",
+      "sha256": "693c6935bce57b009d05fb6f800e064397c1401bfd7bd5d0646d5d94b15270aa",
+      "checked": true,
+      "visual_check": "Viewed lifestyle: one closed pinkwhite round Rosy Lips 20g tin with same printed lid on vanity, no opening/invented balm or additional products."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

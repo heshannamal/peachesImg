@@ -4,5 +4,23 @@
   "original_hashes": {
     "Originals/IMG-20250217-WA0150.jpg": "95eaec60a62a730fa782d9283d4350b7c3a1c069a980a3f0b7f124687e1c13a0"
   },
-  "records": []
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-d964b415-c240-49d4-b6f0-1e587b055ee7.png",
+      "prompt": "One realistic white seamless website product photo of exact original bundle of large fuzzy fabric scrunchies with patterned ribbon accents and black New Fashion tags,black upperleft,red left,cream bottom,brown right,hotpink upperright. Preserve original overlapping bundle arrangement,actual visible count,fur/knit textures,printed ribbon patterns,colours and tag packaging. Whole assortmentONEproduct. Remove hand,shop,price without inventing hidden objects/newviews. No additional items.",
+      "sha256": "81ddde410e557bf2b63d910a163ed341871a9ecff81f4182353970feb1f39e1d",
+      "checked": true,
+      "visual_review": "Original overlapping scrunchie bundle retains black/red/cream/brown/hotpink groupings,fuzzy knit texture,patterned ribbons and black New Fashion tags. Hidden count cannot independently verify."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-f2ead14c-9e1a-4f16-89cb-6d0da1dacc69.png",
+      "prompt": "Realistic website styled photo of exact overlapping bundle of large fuzzy fabric scrunchies,black upperleft,red left,cream bottom,brown right,hotpink upperright,patterned ribbon accents and black New Fashion tags. Preserve original visible count/grouping,shapes,textures,colours,patterns,arrangement. Whole assortmentONEproduct on cream surface with lavender cloth atedges,no hand/shop/price,extraitems or imaginedhiddenviews.",
+      "sha256": "c25853f81cf864e9584e51729908b7b48acc72fddecc1b12d65a5190599178b3",
+      "checked": true,
+      "visual_review": "Styled scrunchie bundle retains original overlapping arrangement,black/red/cream/brown/hotpink colours,fur-knit texture,patterned ribbons and black tags."
+    }
+  ],
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
 }

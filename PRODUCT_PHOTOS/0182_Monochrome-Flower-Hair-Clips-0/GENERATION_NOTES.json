@@ -1,0 +1,35 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250212-WA0155.jpg": "d8f14d2708b79425f6b493989005a7789e0bcfd3ec69baca1080a4c29eab2294"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-370df1f1-0079-4758-9f74-8fae01568de6.png",
+      "prompt": "Edit original into white seamless website productphoto softshadow. Whole long creamdisplaycard of EXACTLY12 glossy fivepetal flower hairclips as ONEproduct, sixrows of twoclips each: blackpair,whitepair,blackpair,whitepair,blackpair,whitepair. Preserve actual rounded pointed spoonlike fivepetal forms,size,blackwhite colours,glossyplastic,card Fashion Jewelry header and visible mounting. Keep same frontal diagonal card geometry entirecard inframe. Remove hand/shop/360Rs overlay only no newtext/props/backviews.",
+      "sha256": "7051eb8808f5fc0e90413f94cf985830b8078b3e2b650e6e97facdd3155bfe97",
+      "checked": true,
+      "visual_check": "Viewed white: counted twelve fivepetal clips six alternating black/white rows of two, correct glossy form and creamcard. Complete identity retained."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-c2fd5035-d4b9-4c19-844e-735fc1cadcd0.png",
+      "prompt": "Edit original into white seamless website productphoto softshadow. Whole long creamdisplaycard of EXACTLY12 glossy fivepetal flower hairclips as ONEproduct, sixrows of twoclips each: blackpair,whitepair,blackpair,whitepair,blackpair,whitepair. Preserve actual rounded pointed spoonlike fivepetal forms,size,blackwhite colours,glossyplastic,card Fashion Jewelry header and visible mounting. Keep same frontal diagonal card geometry entirecard inframe. Remove hand/shop/360Rs overlay only no newtext/props/backviews. Backgroundoverride lavendercream styled studio surface softshadows no newprops.",
+      "sha256": "5ef4d2976646f9c5681777bf65cd0de43745c6fde57864fadaa3ae4e42b24707",
+      "checked": true,
+      "visual_check": "Viewed styled: twelve fivepetal flowers counted six pairs alternating blackwhite, cream card intact, lavenderbackground; source shape and gloss retained."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-b309b7bd-5cb1-4ef7-b02a-9b5ecca72b58.png",
+      "prompt": "Edit original into white seamless website productphoto softshadow. Whole long creamdisplaycard of EXACTLY12 glossy fivepetal flower hairclips as ONEproduct, sixrows of twoclips each: blackpair,whitepair,blackpair,whitepair,blackpair,whitepair. Preserve actual rounded pointed spoonlike fivepetal forms,size,blackwhite colours,glossyplastic,card Fashion Jewelry header and visible mounting. Keep same frontal diagonal card geometry entirecard inframe. Remove hand/shop/360Rs overlay only no newtext/props/backviews. Backgroundoverride lifestyle fulloriginalcard on cream dressingtable softlyblurred lavenderwall/mirror behind no humans, no new accessories.",
+      "sha256": "59619abe158eaf7d4290a5d3063bef0f3a712bd3090f5911f4c33090bd722102",
+      "checked": true,
+      "visual_check": "Viewed lifestyle: twelve clips, six alternating blackwhite pairs, exact fivepetal glossy flower forms on creamcard retained on vanity."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

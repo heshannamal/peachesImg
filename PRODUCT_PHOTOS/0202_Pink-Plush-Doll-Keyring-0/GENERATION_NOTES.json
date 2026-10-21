@@ -1,0 +1,28 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250215-WA0521.jpg": "40aabfe77042a37faa968d8e59aa672f8d6e03f4f57aa60d81b29bd422876f14"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-10826941-b482-48d3-8d2a-6a7b1325e0d1.png",
+      "prompt": "Exact ONE source doll keyring with round beige vinyl face big painted brown eyes small red mouth brown curled double pigtails with pink white pom ties, bright magenta fuzzy oval body and tiny red feet at bottom, silver chain and large split ring above head. Preserve actual face shape materials colours source front no invented limbs. Entire source product seamless pure white studio soft shadows. Website-ready faithful product photo edit reference. Remove hand watch shop old price and sales sticker only. No other new text.",
+      "sha256": "b456f2f3471fb76463978a65b21504ea4f99948c4d8cc69009193651a9621d45",
+      "checked": true,
+      "visual_check": "Passed one source magenta fur doll painted face brown curls pink white ties red tiny feet silver chain ring."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-c6fdbe55-8a19-4939-92f5-2fcecf11c53a.png",
+      "prompt": "Exact ONE source doll keyring with round beige vinyl face big painted brown eyes small red mouth brown curled double pigtails with pink white pom ties, bright magenta fuzzy oval body and tiny red feet at bottom, silver chain and large split ring above head. Preserve actual face shape materials colours source front no invented limbs. Entire source product cream linen lavender studio backdrop. Website-ready faithful product photo edit reference. Remove hand watch shop old price and sales sticker only. No other new text.",
+      "sha256": "020e3e432a76f7f342c4aae132a64c9a74a6e04fa558fe26afc28502a1702bc4",
+      "checked": true,
+      "visual_check": "Passed matching one magenta fuzzy doll brown curls pink white ties painted face red feet silver chain ring lavender cream."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true
+}

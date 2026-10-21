@@ -28,8 +28,26 @@
       "sha256": "1fd44fd7e33e22d0b3b87c3852ea34a45c6d22c3f94423753722d4317d5c7245",
       "checked": true,
       "visual_check": "Viewed lifestyle: all six bottles same order, cap colours, shapes and front labels retained; cream vanity/lavender room. Minor lettering cosmetics accepted."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-278fc76a-7917-4e75-88f4-c1fd6330698e.png",
+      "prompt": "Using original reference, create a tight macro product photograph ONLY of caramel body lotion bottle's blue fliptop cap and adjoining caramel plastic shoulder. Preserve cap shape, blue colour, hinge seam, plastic texture and caramel surface from original. Crop tightly so no full bottles or assortment visible. Cream/lavender soft background, natural light, no text/props/additions.",
+      "sha256": "13a179740a940c6f0ac591e8e79d3f0c93970cd51f7f259428caf03ccaccc06c",
+      "checked": true,
+      "visual_check": "Viewed tight macro: blue fliptop cap seam and caramel shoulder texture match source; no invented part or full assortment."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-806f9dc8-ddea-4a6b-b0f0-1349e9f080ae.png",
+      "prompt": "Edit original into website-ready ecommerce white seamless photo softshadows. Preserve entire SIX bodylotion bottles as ONEassortment, exact original lefttoright order: caramelbrown bluecap cocoa; pinkbody pinkcap even tone; green aloe brightgreencap; paleyellow nourishing yellowcap; white advancedrepair whitecap; palepink Perfect10 pinkcap. Keep source Vaseline printed labels/200ml bottle shapes/caps/colours/proportions visible frontface accurately, no inventing backs/extra products. Remove shop/counter/large toppriceoverlay only. Do not add authenticity/quality or skin-benefit claims, no addedtext/props. Designoverride promotional lavendercream composition, fullsixbottles in same order below compact darkplumheading 'Body Lotion Assortment' and 'PRODUCT COLLECTION'. No price, claims or extra text.",
+      "sha256": "816cbe0daced777b55a67f7f1d36d33b0248633443fbec4e832ff1a74d0d60aa",
+      "checked": true,
+      "visual_check": "Viewed promo: all six original bottle variants in order, accurate cap/body colours and shapes. Body Lotion Assortment and PRODUCT COLLECTION legible, no extra benefit claims."
     }
   ],
-  "status": "in_progress",
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "generation_complete": true,
+  "originals_unchanged": true
 }

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-21T07:57:17.427050+00:00",
+  "updated_at": "2026-10-21T08:01:35.874257+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 31,
-  "partial_products": 7,
-  "pending_products": 60,
+  "completed_products": 34,
+  "partial_products": 8,
+  "pending_products": 56,
   "blocked_products": 2,
-  "saved_images": 177,
-  "checked_images": 175,
+  "saved_images": 195,
+  "checked_images": 190,
   "products": [
     {
       "product_id": "0153",
@@ -165,23 +165,24 @@
       "product_id": "0161",
       "folder": "0161_Gold-Tone-Stud-Earring-Sets-0",
       "status": "partial",
-      "saved_images": 3,
-      "checked_images": 2,
+      "saved_images": 5,
+      "checked_images": 3,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
+        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [
-        "New/03_Lifestyle.png"
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
       ],
       "notes_status": "in_progress",
       "errors": [
-        "unreviewed or unrecorded: 03_Lifestyle.png"
+        "unreviewed or unrecorded: 04_Detail.png",
+        "unreviewed or unrecorded: 05_Promotional.png"
       ],
       "originals_unchanged": true
     },
@@ -189,20 +190,25 @@
       "product_id": "0162",
       "folder": "0162_Gold-Tone-Geometric-Earring-Sets-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 2,
+      "saved_images": 5,
+      "checked_images": 3,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
-      ],
-      "missing_images": [
+        "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
       "notes_status": "in_progress",
-      "errors": [],
+      "errors": [
+        "unreviewed or unrecorded: 04_Detail.png",
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
       "originals_unchanged": true
     },
     {
@@ -511,16 +517,35 @@
     },
     {
       "product_id": "0179",
-      "folder": "0179_Body-Lotion-Assortment-0",
-      "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
+      "folder": "0179_Body-Lotion-Assortment-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "complete",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0180",
+      "folder": "0180_Patterned-Hair-Elastics-0",
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png"
       ],
       "missing_images": [
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
@@ -530,40 +555,22 @@
       "originals_unchanged": true
     },
     {
-      "product_id": "0180",
-      "folder": "0180_Patterned-Hair-Elastics-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
       "product_id": "0181",
       "folder": "0181_Green-Beaded-Necklaces-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "missing_images": [
-        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },
@@ -935,38 +942,40 @@
     {
       "product_id": "0201",
       "folder": "0201_Plush-Doll-Keyring-Assortment-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "status": "partial",
+      "saved_images": 2,
+      "checked_images": 2,
+      "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
+        "New/02_Styled-Background.png"
+      ],
+      "missing_images": [
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0202",
       "folder": "0202_Pink-Plush-Doll-Keyring-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "status": "partial",
+      "saved_images": 2,
+      "checked_images": 2,
+      "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
+        "New/02_Styled-Background.png"
+      ],
+      "missing_images": [
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },
@@ -1238,21 +1247,20 @@
     },
     {
       "product_id": "0217",
-      "folder": "0217_Pink-Charm-Keyrings-0",
-      "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
+      "folder": "0217_Pink-Charm-Keyrings-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
+        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "five images generated and visually checked",
       "errors": [],
       "originals_unchanged": true
     },
@@ -1279,15 +1287,15 @@
       "product_id": "0219",
       "folder": "0219_Colourful-Keyrings-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 2,
+      "saved_images": 4,
+      "checked_images": 4,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
@@ -1677,21 +1685,20 @@
     },
     {
       "product_id": "0240",
-      "folder": "0240_White-Shell-Necklaces-0",
-      "status": "partial",
-      "saved_images": 4,
-      "checked_images": 4,
+      "folder": "0240_White-Shell-Necklaces-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png"
-      ],
-      "missing_images": [
+        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "five images saved and visually checked",
       "errors": [],
       "originals_unchanged": true
     },

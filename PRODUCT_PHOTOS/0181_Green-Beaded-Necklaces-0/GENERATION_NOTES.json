@@ -1,0 +1,19 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250212-WA0144.jpg": "c043a2a112f62776cff435cdb76a2d84c15979544bcfb87fb022bc68a737e351"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-91db40ea-d699-45dd-bcfb-e71e8496e1d8.png",
+      "prompt": "Edit source into clean white seamless website ecommerce photograph of the ENTIRE bundle of long bead necklaces as ONEassortment. Preserve exact visible strand count, hanging arrangement, lengths, bottom loops and alternating limegreen/white smoothround beads, no pendant/clasp invention. Remove hand/arm/watch/shop/200Rs overlay only. Suspend from invisible support cropped above necklace top as in source, all original bottom loops visible. No text/props, no invented hidden views.",
+      "sha256": "8cb950626d530a8bbc60424a0a4fa3ccc01eb5e5a620995f4619445b6395ffd6",
+      "checked": true,
+      "visual_check": "Viewed white: long green/white bead bundle and rounded bottom loops retained, no pendant additions. Exact dense strand and bead count obscured in original and not independently verified."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

@@ -1,6 +1,6 @@
 {
   "tool": "built-in image_gen",
-  "status": "in_progress",
+  "status": "five images generated and visually checked",
   "original_hashes": {
     "Originals/IMG-20250217-WA0113.jpg": "2af71c15528c29878409216727b0180ada4b0977353ab0ddbd1f93043002116e"
   },
@@ -28,7 +28,24 @@
       "sha256": "c5f02e3f6da7adaca1844e4a6c20f0c3862bab509a2d0a703b2c5c94c6a755d0",
       "checked": true,
       "visual_review": "Lifestyle retains original pink heart/round/bow charms and overlapping orientations,lettering/profile,silver rings/chains and redheader; no obvious omitted group."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-09757a1a-7cc1-4712-a3c7-b4e1841295d4.png",
+      "prompt": "Standalone tight macro photograph of existing pink heart keyring with Barbie lettering and profile silhouette,raised pink border and a small part of original silver chain. Preserve exact existing pink material,heart shape,lettering/face silhouette. Tight crop detail only,no full pack,hand,shop,price or invented parts.",
+      "sha256": "f9a40c4a8b3c5dd22839edba3c30bec2301ad0e3a7b0639bfd2c97199a0d12f9",
+      "checked": true,
+      "visual_review": "Standalone tight detail of pink heart charm retains raised lettering,profile silhouette,border and original silver chain."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-e1599565-47af-474d-aaaf-4d317e677137.png",
+      "prompt": "One realistic promotional product photo of exact original pink charm keyring assortment,original overlapping arrangement/count/orientations,pink heart/round/bow shapes,Barbie lettering/profile,silver rings/chains,red KEYCHAIN header and clear wrappers. Whole assortmentONEproduct visible on cream lavender,compact dark plum 'Pink Charm Keyrings' plus 'PRODUCT COLLECTION'. Remove hand/shop/price,noextras or imagined hidden fronts.",
+      "sha256": "71f4563e0cd0a488be43f1f409662f9beea121da190208a7a8b321d6fd4688e3",
+      "checked": true,
+      "visual_review": "Promotional retains original pink charm grouping and orientations,raised lettering/profile,pink bows,chains,header/wrappers; title clear,product collection legible."
     }
   ],
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "original_plan_sha256_verified": true
 }

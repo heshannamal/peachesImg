@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250215-WA0192.jpg": "8ecc6a6be653a0db99dad75c5f8f63965d285606b54ccd07e4060531bc6e60d5"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-0813e02a-0ed9-4bc6-8191-bdb48183fac3.png",
+      "prompt": "Exact SIX transparent open-loop butterfly/flower hair claws on original clear strip, staggered two columns three rows: magenta purple top,teal lime-yellow middle,orange amber bottom. Preserve polished transparent coloured plastic open-loop shapes, springs/teeth and source arrangement as ONE assortment. Remove hand watch shop and old price overlay only. Website-ready ecommerce photograph, full product/assortment in frame on seamless pure white studio background soft shadows no added text.",
+      "sha256": "94a9e5446d408dbaeb184d1884cb5ea91dff3c69a86c2540a22f1a4ab0fdfd26",
+      "checked": true,
+      "visual_check": "Passed six translucent loop flower claws source colour order shapes arrangement clear strip full frame no hand price."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-a4aba0e5-0d21-4826-a39e-a5d6649d7f8c.png",
+      "prompt": "Exact SIX transparent open-loop butterfly/flower hair claws on original clear strip, staggered two columns three rows: magenta purple top,teal lime-yellow middle,orange amber bottom. Preserve polished transparent coloured plastic open-loop shapes, springs/teeth and source arrangement as ONE assortment. Remove hand watch shop and old price overlay only. Website-ready styled photograph full product/assortment in frame on cream linen with lavender studio backdrop no new text.",
+      "sha256": "1fe2464098f947da5bd7aaeb0d1e091f8d52a814aec2e1da15744a881f0a5d00",
+      "checked": true,
+      "visual_check": "Passed: six transparent coloured claws retain source strip arrangement, shapes and colours on cream and lavender styled background."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-35dee9b6-272d-4dd3-b024-b8575e4c9fc0.png",
+      "prompt": "Exact SIX transparent open-loop butterfly/flower hair claws on original clear strip, staggered two columns three rows: magenta purple top,teal lime-yellow middle,orange amber bottom. Preserve polished transparent coloured plastic open-loop shapes, springs/teeth and source arrangement as ONE assortment. Remove hand watch shop and old price overlay only. Website-ready lifestyle photograph full product/assortment in frame on sunlit cream home vanity with softly blurred mirror no hands no wearing no added text.",
+      "sha256": "362a9475082df1318aaed68cbec11635f9d6b2aa54fd5d968ab36f83c6b47712",
+      "checked": true,
+      "visual_check": "Passed: six translucent claws in original colour sequence and strip arrangement at sunlit vanity."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-bd104290-95e1-4991-b1b9-059c0abb6fa6.png",
+      "prompt": "TIGHT MACRO close crop ONLY of actual magenta transparent claw upper left in reference, polished plastic open-loop edge and visible spring mechanism, preserve exact source material shape colour and front, most source out of frame, no full assortment no price hand text.",
+      "sha256": "e211c3d4175e5bc28c75d22b4199fea4dcbfb28b5e542bcf9676cc0b3b298a37",
+      "checked": true,
+      "visual_check": "Passed: tight macro of existing magenta transparent loop claw and spring, remaining assortment cropped out."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-fa3ee88e-2c8b-4b4f-9dc8-dd07dd69ba62.png",
+      "prompt": "Exact SIX transparent open-loop butterfly/flower hair claws on original clear strip, staggered two columns three rows: magenta purple top,teal lime-yellow middle,orange amber bottom. Preserve polished transparent coloured plastic open-loop shapes, springs/teeth and source arrangement as ONE assortment. Remove hand watch shop and old price overlay only. Website-ready promotional layout lavender cream with full product/assortment visible, compact dark plum heading 'Transparent Butterfly Hair Claws' and subtitle PRODUCT COLLECTION. Text outside product no price.",
+      "sha256": "4f201a842f18e50bf73bfbeb1efbbc2764b30a4e1430a9842c217978b17d9d26",
+      "checked": true,
+      "visual_check": "Passed: six matching transparent coloured claws on original strip, accurate readable promotional heading."
+    }
+  ],
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true
+}

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-21T02:38:11.539055+00:00",
+  "updated_at": "2026-10-21T02:41:59.981242+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 14,
-  "partial_products": 10,
+  "completed_products": 16,
+  "partial_products": 8,
   "pending_products": 75,
   "blocked_products": 1,
-  "saved_images": 91,
-  "checked_images": 89,
+  "saved_images": 107,
+  "checked_images": 107,
   "products": [
     {
       "product_id": "0153",
@@ -87,41 +87,39 @@
     },
     {
       "product_id": "0157",
-      "folder": "0157_Colourful-Ribbon-Rolls-0",
-      "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
+      "folder": "0157_Colourful-Ribbon-Rolls-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
+        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "five images saved and visually checked",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0158",
-      "folder": "0158_LED-Bunny-Ear-Headband-0",
-      "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
+      "folder": "0158_LED-Bunny-Ear-Headband-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
+        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "five images saved and visually checked",
       "errors": [],
       "originals_unchanged": true
     },
@@ -433,15 +431,15 @@
       "product_id": "0175",
       "folder": "0175_Neutral-Animal-Ear-Headbands-0",
       "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
+      "saved_images": 4,
+      "checked_images": 4,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png"
       ],
       "missing_images": [
-        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
@@ -472,13 +470,13 @@
       "product_id": "0177",
       "folder": "0177_Bow-Hair-Clip-Sets-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
+      "saved_images": 2,
+      "checked_images": 2,
       "files": [
-        "New/01_White-Background.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png"
       ],
       "missing_images": [
-        "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
@@ -815,15 +813,15 @@
       "product_id": "0195",
       "folder": "0195_Transparent-Butterfly-Hair-Claws-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
+      "saved_images": 4,
+      "checked_images": 4,
       "files": [
-        "New/01_White-Background.png"
-      ],
-      "missing_images": [
+        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png",
+        "New/04_Detail.png"
+      ],
+      "missing_images": [
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
@@ -835,15 +833,15 @@
       "product_id": "0196",
       "folder": "0196_Ice-Cream-Pom-Pom-Keyring-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
+      "saved_images": 4,
+      "checked_images": 4,
       "files": [
-        "New/01_White-Background.png"
-      ],
-      "missing_images": [
+        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png",
+        "New/04_Detail.png"
+      ],
+      "missing_images": [
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
@@ -1197,15 +1195,15 @@
       "product_id": "0215",
       "folder": "0215_Bow-Hair-Clip-Assortment-0",
       "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
+      "saved_images": 4,
+      "checked_images": 4,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png"
       ],
       "missing_images": [
-        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
@@ -1217,14 +1215,14 @@
       "product_id": "0216",
       "folder": "0216_Fruit-Keyrings-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 2,
+      "saved_images": 3,
+      "checked_images": 3,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
@@ -1617,48 +1615,40 @@
       "product_id": "0237",
       "folder": "0237_Pastel-Hair-Clip-Packs-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 1,
+      "saved_images": 3,
+      "checked_images": 3,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [
-        "New/02_Styled-Background.png"
-      ],
+      "review_needed_images": [],
       "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 02_Styled-Background.png"
-      ],
+      "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0238",
       "folder": "0238_Floral-Fabric-Scrunchies-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 1,
+      "saved_images": 3,
+      "checked_images": 3,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [
-        "New/02_Styled-Background.png"
-      ],
+      "review_needed_images": [],
       "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 02_Styled-Background.png"
-      ],
+      "errors": [],
       "originals_unchanged": true
     },
     {

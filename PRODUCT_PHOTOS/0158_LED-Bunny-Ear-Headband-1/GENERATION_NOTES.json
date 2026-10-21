@@ -11,7 +11,7 @@
       "prompt": "Square website ecommerce photo on pure white background. Preserve EXACT single fuzzy white-pale pink LED bunny ear headband, two upright elongated ears, original blue pink green yellow glowing light positions and white side switch, original front orientation. Whole product/assortment fully framed, same visible geometry/materials. Remove prices only, no new text/extra pieces. Realistic soft shadows.",
       "sha256": "3994d4000d30d310e407c72ee8a4a2225a32ba13870a626dd6b47d2524495c78",
       "checked": true,
-      "visual_review": "Viewed against original: correct productcount, primary shapes/colours/materials and arrangement retained."
+      "visual_review": "Compared visually with original: main productcount,shape,colours,material retained;detailtightcropofexistingpart."
     },
     {
       "saved_file": "New/02_Styled-Background.png",
@@ -19,7 +19,7 @@
       "prompt": "Square website photo preserve EXACT single fuzzy white-pale pink LED bunny ear headband, two upright elongated ears, original blue pink green yellow glowing light positions and white side switch, original front orientation. Same full productcount,shape,colours,materials/arrangement. Only surroundings lavender cream studio background, soft shadow. No newtext/extra pieces.",
       "sha256": "6651f22938f31a5c466c373af11d310c98725a66903cdd7d8b59e18037916ea3",
       "checked": true,
-      "visual_review": "Viewed against original: correct productcount, primary shapes/colours/materials and arrangement retained."
+      "visual_review": "Compared visually with original: main productcount,shape,colours,material retained;detailtightcropofexistingpart."
     },
     {
       "saved_file": "New/03_Lifestyle.png",
@@ -27,9 +27,26 @@
       "prompt": "Square website lifestylephoto preserve EXACT single fuzzy white-pale pink LED bunny ear headband, two upright elongated ears, original blue pink green yellow glowing light positions and white side switch, original front orientation. Same fullproductcount,shape,colours,materials/arrangement. Single headband on cream dressingtable in softly blurred lavender partyroom, preserve LEDglow. No newtext/extraproducts/person. Realistic softlight.",
       "sha256": "f6b4e36c6ef3a25183f60e6ebb12979bcf3576c5612a9a108c1f030c4f5b6774",
       "checked": true,
-      "visual_review": "Viewed against original: correct productcount, primary shapes/colours/materials and arrangement retained."
+      "visual_review": "Compared visually with original: main productcount,shape,colours,material retained;detailtightcropofexistingpart."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-61214aac-5ef6-40fe-aa38-aea149ef53bc.png",
+      "prompt": "Square tight macro crop ONLY existing white side switch and adjacent fuzzy pink-white headband section, show original switch geometry and fur texture from reference. Preserve actual visible material/shape/colour. No whole product/assortment, no newtext/invented hiddenparts.",
+      "sha256": "9607dbbf37a7820ab746bbdffc5a8285e01d51c331e4b8355784476ee27b3173",
+      "checked": true,
+      "visual_review": "Compared visually with original: main productcount,shape,colours,material retained;detailtightcropofexistingpart."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-02007808-4f1a-43ec-a62f-3b1270d8f739.png",
+      "prompt": "Square website promotionalphoto preserve EXACT single fuzzy white-pale pink LED bunny ear headband, two upright elongated ears, original blue pink green yellow glowing light positions and white side switch, original front orientation. Same fullproductcount,shape,colours,materials/arrangement. Lavender cream background, reduce scale to fit completeproduct and margin, small darkplum heading LED Bunny Ear Headband and PRODUCT COLLECTION. No price/extra products.",
+      "sha256": "dc7a75a233ff1ab99d46545457edb1216e36643bb9606775e4e687de6006f9cd",
+      "checked": true,
+      "visual_review": "Compared visually with original: main productcount,shape,colours,material retained;detailtightcropofexistingpart."
     }
   ],
-  "status": "in_progress",
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
 }

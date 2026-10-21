@@ -1,8 +1,13 @@
 {
   "tool": "built-in image_gen",
-  "status": "in_progress",
+  "status": "blocked",
   "original_hashes": {
     "Originals/IMG-20250217-WA0115.jpg": "11ad3551feb3899ee2d20d33ea11d5c368654d463442b667c916850353c32d04"
   },
-  "records": []
+  "records": [],
+  "blocker": {
+    "code": "moderation_blocked",
+    "stage": "output",
+    "request_id": "6ede25a8-cf92-40c4-9083-28dd07a3c4e3"
+  }
 }

@@ -2203,28 +2203,32 @@
   },
   {
     "product_id": "0159",
-    "folder": "0159_Wooden-Combs-0",
+    "folder": "0159_Wooden-Combs-1",
     "source_image_ids": [
       164
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0160",
-    "folder": "0160_Colourful-Hair-Accessory-Display-0",
+    "folder": "0160_Colourful-Hair-Accessory-Display-1",
     "source_image_ids": [
       165,
       175
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0161",
@@ -2426,15 +2430,17 @@
   },
   {
     "product_id": "0177",
-    "folder": "0177_Bow-Hair-Clip-Sets-0",
+    "folder": "0177_Bow-Hair-Clip-Sets-1",
     "source_image_ids": [
       183
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0178",
@@ -2442,7 +2448,7 @@
     "source_image_ids": [
       184
     ],
-    "new_images": 1,
+    "new_images": 2,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2674,27 +2680,31 @@
   },
   {
     "product_id": "0197",
-    "folder": "0197_Rainbow-Heart-Keyrings-0",
+    "folder": "0197_Rainbow-Heart-Keyrings-1",
     "source_image_ids": [
       203
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0198",
-    "folder": "0198_Pastel-Heart-Keyrings-0",
+    "folder": "0198_Pastel-Heart-Keyrings-1",
     "source_image_ids": [
       204
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0199",
@@ -2702,9 +2712,9 @@
     "source_image_ids": [
       205
     ],
-    "new_images": 0,
+    "new_images": 2,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -2714,9 +2724,9 @@
     "source_image_ids": [
       206
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -2926,9 +2936,9 @@
     "source_image_ids": [
       223
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -2940,7 +2950,7 @@
     ],
     "new_images": 0,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "blocked",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -3203,7 +3213,7 @@
     "source_image_ids": [
       245
     ],
-    "new_images": 1,
+    "new_images": 2,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3215,7 +3225,7 @@
     "source_image_ids": [
       246
     ],
-    "new_images": 1,
+    "new_images": 2,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",

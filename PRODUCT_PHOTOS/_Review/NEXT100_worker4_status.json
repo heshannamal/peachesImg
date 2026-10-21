@@ -23,8 +23,7 @@
     "0232"
   ],
   "active": [
-    "0217",
-    "0218"
+    "0217"
   ],
   "products": {
     "0213": {
@@ -54,5 +53,8 @@
     "0215",
     "0216"
   ],
-  "review_needed": {}
+  "review_needed": {},
+  "blocked": {
+    "0218": "moderation_blocked output; skipped no retry"
+  }
 }

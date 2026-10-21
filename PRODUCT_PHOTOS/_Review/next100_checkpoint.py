@@ -77,7 +77,7 @@ def backup(final=False):
  manifest.append({'product_ids':[r['product_id'] for r in group],'archive':target.name,'created_at':datetime.now(timezone.utc).isoformat()});write(REVIEW/'NEXT100_BACKUPS.json',manifest);print(str(target))
 
 def web():
- result=read(REVIEW/'NEXT100_PROGRESS.json');urls=[]
+ result=json.loads(subprocess.check_output(['git','show','HEAD:PRODUCT_PHOTOS/_Review/NEXT100_PROGRESS.json'],cwd=REPO,text=True));urls=[]
  for row in result['products']:
   if row['status']=='complete':urls.extend('https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/'+quote(row['folder']+'/'+f,safe='/') for f in row['files'])
  def check(url):

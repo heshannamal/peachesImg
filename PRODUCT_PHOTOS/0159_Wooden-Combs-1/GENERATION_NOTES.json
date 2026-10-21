@@ -11,7 +11,7 @@
       "prompt": "Website product photo on cleanwhite surroundings. Preserve EXACTsix visible natural lightwood longhandled pickcombs in original overlapping bundle inside clearbag, same slotted longteeth/handle shapes and grain, keep original overlap notinventhiddenparts. Remove hand/shop/prices only, keep entire original crop and visibleproducts unchanged, main shapes/materials/colours. No newtext/extra jewellery.",
       "sha256": "437e01030218aba19bae996c88908b57dc1dd054c1815d6b2ff523427525a36a",
       "checked": true,
-      "visual_review": "Compared visible product arrangement/count/main shape/material/colour with original; occlusion preserved, website-ready."
+      "visual_review": "Viewed against original: visible productcount/main shape/material/colour and arrangement retained;detailcropofexistingpart."
     },
     {
       "saved_file": "New/02_Styled-Background.png",
@@ -19,7 +19,7 @@
       "prompt": "Website product photograph preserve EXACTsix visible natural lightwood longhandled pickcombs in original overlapping bundle inside clearbag, same slotted longteeth/handle shapes and grain, keep original overlap notinventhiddenparts. Same maincount/shape/material/colour arrangement, no extrapolation. Change surroundings ONLY to lavender cream studio, softlighting. Keep full original crop unchanged, no newtext.",
       "sha256": "84fa5f5a7a81f3140b7983117201b6c523597624c7730e9e377000895087aa97",
       "checked": true,
-      "visual_review": "Compared visible product arrangement/count/main shape/material/colour with original; occlusion preserved, website-ready."
+      "visual_review": "Viewed against original: visible productcount/main shape/material/colour and arrangement retained;detailcropofexistingpart."
     },
     {
       "saved_file": "New/03_Lifestyle.png",
@@ -27,9 +27,26 @@
       "prompt": "Website lifestyle product photograph preserve EXACTsix visible natural lightwood longhandled pickcombs in original overlapping bundle inside clearbag, same slotted longteeth/handle shapes and grain, keep original overlap notinventhiddenparts. Same maincount/shape/material/colour arrangement, no extrapolation. Entire original assortment on cream vanity with softly blurred lavender boutique room, daylight. Keep original crop unchanged, no newtext/extraproducts/person.",
       "sha256": "f1ff2f475c915b28acb6fb01e62a16c0c66aa8a02caecee92d8a097c6ab3d6d2",
       "checked": true,
-      "visual_review": "Compared visible product arrangement/count/main shape/material/colour with original; occlusion preserved, website-ready."
+      "visual_review": "Viewed against original: visible productcount/main shape/material/colour and arrangement retained;detailcropofexistingpart."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-91ad1773-3c99-4d25-938a-4d928e445ef1.png",
+      "prompt": "Square tight macro crop ONLY one original wooden comb teeth base and adjacent handle grain through clearbag from reference. Preserve visible realpart mainshape/material/colour. No entireassortment or inventedhiddenparts/newtext.",
+      "sha256": "c3d4523b1be5571c5731fb35275b6d89d56c82c0d5719ee492e8adc95bcea8d4",
+      "checked": true,
+      "visual_review": "Viewed against original: visible productcount/main shape/material/colour and arrangement retained;detailcropofexistingpart."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-5422d9e0-4035-47a2-af4d-c6e118b683ad.png",
+      "prompt": "Website promotional product photograph preserve EXACTsix visible natural lightwood longhandled pickcombs in original overlapping bundle inside clearbag, same slotted longteeth/handle shapes and grain, keep original overlap notinventhiddenparts. Same maincount/shape/material/colour arrangement, no extrapolation. Lavender cream outer margins with small darkplum heading Wooden Pick Combs and PRODUCT COLLECTION. Keep full original crop unchanged, no extra products/prices.",
+      "sha256": "b475d79ec36aeb1e1753c3180dbefa235c7364d715498c265dc42e94492aac08",
+      "checked": true,
+      "visual_review": "Viewed against original: visible productcount/main shape/material/colour and arrangement retained;detailcropofexistingpart."
     }
   ],
-  "status": "in_progress",
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
 }

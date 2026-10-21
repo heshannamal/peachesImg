@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-20T19:14:10.334008+00:00",
+  "updated_at": "2026-10-21T02:23:07.258149+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 8,
-  "partial_products": 8,
-  "pending_products": 84,
+  "completed_products": 10,
+  "partial_products": 7,
+  "pending_products": 83,
   "blocked_products": 0,
-  "saved_images": 62,
-  "checked_images": 59,
+  "saved_images": 72,
+  "checked_images": 68,
   "products": [
     {
       "product_id": "0153",
@@ -49,50 +49,40 @@
     },
     {
       "product_id": "0155",
-      "folder": "0155_White-Beaded-Bracelets-0",
-      "status": "partial",
-      "saved_images": 4,
-      "checked_images": 3,
+      "folder": "0155_White-Beaded-Bracelets-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png"
-      ],
-      "missing_images": [
+        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [
-        "New/04_Detail.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 04_Detail.png"
-      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five images saved and visually checked",
+      "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0156",
-      "folder": "0156_White-Beaded-Anklet-0",
-      "status": "partial",
-      "saved_images": 4,
-      "checked_images": 3,
+      "folder": "0156_White-Beaded-Anklet-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png"
-      ],
-      "missing_images": [
+        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [
-        "New/04_Detail.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 04_Detail.png"
-      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five images saved and visually checked",
+      "errors": [],
       "originals_unchanged": true
     },
     {
@@ -440,19 +430,20 @@
     {
       "product_id": "0175",
       "folder": "0175_Neutral-Animal-Ear-Headbands-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "missing_images": [
-        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },
@@ -783,15 +774,15 @@
       "product_id": "0193",
       "folder": "0193_Colourful-Stud-Earrings-0",
       "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
+      "saved_images": 4,
+      "checked_images": 4,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png"
       ],
       "missing_images": [
-        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
@@ -1203,43 +1194,47 @@
       "product_id": "0215",
       "folder": "0215_Bow-Hair-Clip-Assortment-0",
       "status": "partial",
-      "saved_images": 1,
+      "saved_images": 2,
       "checked_images": 1,
       "files": [
-        "New/01_White-Background.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png"
       ],
       "missing_images": [
-        "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
+      "review_needed_images": [
+        "New/02_Styled-Background.png"
+      ],
       "notes_status": "in_progress",
-      "errors": [],
+      "errors": [
+        "unreviewed or unrecorded: 02_Styled-Background.png"
+      ],
       "originals_unchanged": true
     },
     {
       "product_id": "0216",
       "folder": "0216_Fruit-Keyrings-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 0,
+      "saved_images": 2,
+      "checked_images": 1,
       "files": [
-        "New/01_White-Background.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png"
       ],
       "missing_images": [
-        "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [
-        "New/01_White-Background.png"
+        "New/02_Styled-Background.png"
       ],
       "notes_status": "in_progress",
       "errors": [
-        "unreviewed or unrecorded: 01_White-Background.png"
+        "unreviewed or unrecorded: 02_Styled-Background.png"
       ],
       "originals_unchanged": true
     },
@@ -1589,40 +1584,46 @@
       "product_id": "0235",
       "folder": "0235_Cream-Satin-Hair-Bow-0",
       "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
+      "saved_images": 5,
+      "checked_images": 4,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
+        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/05_Promotional.png"
+      ],
       "notes_status": "in_progress",
-      "errors": [],
+      "errors": [
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
       "originals_unchanged": true
     },
     {
       "product_id": "0236",
       "folder": "0236_Red-Lace-Hair-Bow-0",
       "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
+      "saved_images": 5,
+      "checked_images": 4,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
+        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/05_Promotional.png"
+      ],
       "notes_status": "in_progress",
-      "errors": [],
+      "errors": [
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
       "originals_unchanged": true
     },
     {

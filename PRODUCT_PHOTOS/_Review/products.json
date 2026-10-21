@@ -2147,27 +2147,31 @@
   },
   {
     "product_id": "0155",
-    "folder": "0155_White-Beaded-Bracelets-0",
+    "folder": "0155_White-Beaded-Bracelets-1",
     "source_image_ids": [
       160
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0156",
-    "folder": "0156_White-Beaded-Anklet-0",
+    "folder": "0156_White-Beaded-Anklet-1",
     "source_image_ids": [
       161
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0157",
@@ -2396,9 +2400,9 @@
     "source_image_ids": [
       181
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -2612,7 +2616,7 @@
     "source_image_ids": [
       199
     ],
-    "new_images": 3,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2880,7 +2884,7 @@
     "source_image_ids": [
       221
     ],
-    "new_images": 1,
+    "new_images": 2,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2892,7 +2896,7 @@
     "source_image_ids": [
       222
     ],
-    "new_images": 1,
+    "new_images": 2,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3125,7 +3129,7 @@
     "source_image_ids": [
       241
     ],
-    "new_images": 3,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3137,7 +3141,7 @@
     "source_image_ids": [
       242
     ],
-    "new_images": 3,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",

@@ -1,6 +1,6 @@
 {
   "tool": "built-in image_gen",
-  "status": "in_progress",
+  "status": "five images generated and visually checked",
   "original_hashes": {
     "Originals/IMG-20250217-WA0117.jpg": "39f52763140c28d118e9f8580cd5538d0436df7279dbba366284f7d3d1042dbf"
   },
@@ -42,8 +42,10 @@
       "source_output": "/workspace/generated_images/exec-df0cee9d-17c4-402c-9ec6-8139b7342118.png",
       "prompt": "One realistic promotional website photo of exact12gray/black cat and brown caped mouse character keyrings on red KEYCHAIN header in wrappers,silver rings/chains. Preserve original overlapping arrangement,front/back orientations,count,shapes,paint,blue/red costumes. Whole assortmentONEproduct on cream lavender backdrop,compact dark plum 'Cat and Mouse Character Keyrings' plus 'PRODUCT COLLECTION'. Remove hand/shop/price,noextras or imagined hiddenfronts.",
       "sha256": "9a5b27a00db0547c2d4ef838950e70d3d5bb5c7ce0f6e1f4b0785c8f28dd7b3c",
-      "checked": false
+      "checked": true,
+      "visual_review": "Promotional retains original mixed gray/black cat,brown caped mouse shapes,orientations,paint,silver chains/header/wrappers; title accurate and legible."
     }
   ],
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "original_plan_sha256_verified": true
 }

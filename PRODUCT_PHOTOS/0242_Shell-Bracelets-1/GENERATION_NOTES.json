@@ -26,9 +26,26 @@
       "source_output": "/workspace/generated_images/exec-fd2bfc48-6293-4eea-b8f2-2ff9870ba22b.png",
       "prompt": "Create website-ready lifestyle product photo by editing reference: the entire coiled white shell jewellery strand arrangement, approximately three concentric loops, large cowrie shells separated by small irregular shell chips, natural cream seams. Preserve visible arrangement, count, shell shape and natural ivory colours exactly. On cream linen on a sunlit dressing table, soft lavender wall background, small blurred neutral ceramic vase far behind. Product unobstructed prominent. No wearing, hands, extra jewellery or invented parts. Remove price overlay. No text.",
       "sha256": "00a64da72636d8053680333cc0b684f2596ff33fb88035d121a3eb4782de7f96",
-      "checked": false
+      "checked": true,
+      "visual_review": "Viewed lifestyle output: shell strand arrangement and white ivory natural shell identity remain visible unobstructed on linen with background vase."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-696a37c1-a883-43d5-acf4-2efac98cfc8c.png",
+      "prompt": "Standalone extreme tight macro product detail photograph from this reference. Show ONLY a small existing section of the entire coiled white shell jewellery strand arrangement, approximately three concentric loops, large cowrie shells separated by small irregular shell chips, natural cream seams filling the whole frame. Focus natural shell openings, ridges and connection between adjacent shells. Crop out most of the jewellery: DO NOT show the full necklace/arrangement. Preserve real shell shape, natural ivory colour, material, existing threading. Cream subtle background, diffused light, shallow depth. No invented parts, no text, no price.",
+      "sha256": "76524fdf136e3a0fcb8885557bf95ded60856cc47ac83e9ce321bd96585ba2af",
+      "checked": true,
+      "visual_review": "Viewed standalone tight macro: cropped actual shell types and natural ivory tones, ridges/openings and threading visible; no full arrangement."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-88d97843-3360-4d70-8a49-57bb900b4aa7.png",
+      "prompt": "Create website-ready promotional product photograph from reference: the entire coiled white shell jewellery strand arrangement, approximately three concentric loops, large cowrie shells separated by small irregular shell chips, natural cream seams. Preserve exactly original visible strand arrangement, shell count, natural ivory colours, shape and material. Clean lavender and cream background, product prominent below a compact dark plum heading 'Cowrie Shell Jewellery' and small subtitle 'PRODUCT COLLECTION'. Remove old price/shop overlay. No prices, no hands, no added jewellery, no invented parts. Accurate product identity essential.",
+      "sha256": "63f77ba78a1336d7aa6e173830d3e5813fb2d4e6143f527b77eb99002a3fba68",
+      "checked": true,
+      "visual_review": "Viewed promotional output: accurate shell jewellery heading and PRODUCT COLLECTION, natural ivory shell identity and original loop arrangement retained, no price overlay."
     }
   ],
-  "status": "in_progress",
+  "status": "five images saved and visually checked",
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
 }

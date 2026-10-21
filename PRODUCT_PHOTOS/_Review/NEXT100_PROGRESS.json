@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-21T08:05:54.430725+00:00",
+  "updated_at": "2026-10-21T08:09:24.784676+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 36,
-  "partial_products": 11,
-  "pending_products": 51,
+  "completed_products": 43,
+  "partial_products": 5,
+  "pending_products": 50,
   "blocked_products": 2,
-  "saved_images": 214,
-  "checked_images": 207,
+  "saved_images": 228,
+  "checked_images": 225,
   "products": [
     {
       "product_id": "0153",
@@ -203,23 +203,23 @@
       "product_id": "0163",
       "folder": "0163_White-Beaded-Elephant-Charm-Bracelet-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 0,
+      "saved_images": 3,
+      "checked_images": 2,
       "files": [
-        "New/01_White-Background.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [
-        "New/01_White-Background.png"
+        "New/03_Lifestyle.png"
       ],
       "notes_status": "in_progress",
       "errors": [
-        "unreviewed or unrecorded: 01_White-Background.png"
+        "unreviewed or unrecorded: 03_Lifestyle.png"
       ],
       "originals_unchanged": true
     },
@@ -227,23 +227,23 @@
       "product_id": "0164",
       "folder": "0164_Pastel-Cord-Bracelet-Display-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 0,
+      "saved_images": 3,
+      "checked_images": 2,
       "files": [
-        "New/01_White-Background.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [
-        "New/01_White-Background.png"
+        "New/03_Lifestyle.png"
       ],
       "notes_status": "in_progress",
       "errors": [
-        "unreviewed or unrecorded: 01_White-Background.png"
+        "unreviewed or unrecorded: 03_Lifestyle.png"
       ],
       "originals_unchanged": true
     },
@@ -534,41 +534,39 @@
     },
     {
       "product_id": "0180",
-      "folder": "0180_Patterned-Hair-Elastics-0",
-      "status": "partial",
-      "saved_images": 4,
-      "checked_images": 4,
+      "folder": "0180_Patterned-Hair-Elastics-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png"
-      ],
-      "missing_images": [
+        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "complete",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0181",
-      "folder": "0181_Green-Beaded-Necklaces-0",
-      "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
+      "folder": "0181_Green-Beaded-Necklaces-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
+        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "complete",
       "errors": [],
       "originals_unchanged": true
     },
@@ -939,60 +937,59 @@
     },
     {
       "product_id": "0201",
-      "folder": "0201_Plush-Doll-Keyring-Assortment-0",
-      "status": "partial",
-      "saved_images": 4,
-      "checked_images": 4,
+      "folder": "0201_Plush-Doll-Keyring-Assortment-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png"
-      ],
-      "missing_images": [
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": "in_progress",
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "0202",
-      "folder": "0202_Pink-Plush-Doll-Keyring-0",
-      "status": "partial",
-      "saved_images": 4,
-      "checked_images": 4,
-      "files": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png"
-      ],
-      "missing_images": [
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": "in_progress",
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "0203",
-      "folder": "0203_Mixed-Hair-Bows-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "complete",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0202",
+      "folder": "0202_Pink-Plush-Doll-Keyring-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "complete",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0203",
+      "folder": "0203_Mixed-Hair-Bows-0",
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png"
+      ],
+      "missing_images": [
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "review_needed_images": [],
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },
@@ -1283,10 +1280,10 @@
     },
     {
       "product_id": "0219",
-      "folder": "0219_Colourful-Keyrings-0",
-      "status": "partial",
+      "folder": "0219_Colourful-Keyrings-1",
+      "status": "complete",
       "saved_images": 5,
-      "checked_images": 4,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
@@ -1295,13 +1292,9 @@
         "New/05_Promotional.png"
       ],
       "missing_images": [],
-      "review_needed_images": [
-        "New/05_Promotional.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 05_Promotional.png"
-      ],
+      "review_needed_images": [],
+      "notes_status": "five images generated and visually checked",
+      "errors": [],
       "originals_unchanged": true
     },
     {
@@ -1309,7 +1302,7 @@
       "folder": "0220_Pom-Pom-Hat-Keyrings-0",
       "status": "partial",
       "saved_images": 1,
-      "checked_images": 0,
+      "checked_images": 1,
       "files": [
         "New/01_White-Background.png"
       ],
@@ -1319,13 +1312,9 @@
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [
-        "New/01_White-Background.png"
-      ],
+      "review_needed_images": [],
       "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 01_White-Background.png"
-      ],
+      "errors": [],
       "originals_unchanged": true
     },
     {
@@ -1343,7 +1332,7 @@
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },
@@ -1710,50 +1699,40 @@
     },
     {
       "product_id": "0241",
-      "folder": "0241_White-Bead-Shell-Necklace-0",
-      "status": "partial",
-      "saved_images": 3,
-      "checked_images": 2,
+      "folder": "0241_White-Bead-Shell-Necklace-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
+        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [
-        "New/03_Lifestyle.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 03_Lifestyle.png"
-      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five images saved and visually checked",
+      "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0242",
-      "folder": "0242_Shell-Bracelets-0",
-      "status": "partial",
-      "saved_images": 3,
-      "checked_images": 2,
+      "folder": "0242_Shell-Bracelets-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
+        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [
-        "New/03_Lifestyle.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 03_Lifestyle.png"
-      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five images saved and visually checked",
+      "errors": [],
       "originals_unchanged": true
     },
     {

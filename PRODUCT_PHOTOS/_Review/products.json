@@ -2400,7 +2400,7 @@
     "source_image_ids": [
       181
     ],
-    "new_images": 1,
+    "new_images": 2,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2414,7 +2414,7 @@
     ],
     "new_images": 0,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "blocked_moderation",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -2612,15 +2612,17 @@
   },
   {
     "product_id": "0193",
-    "folder": "0193_Colourful-Stud-Earrings-0",
+    "folder": "0193_Colourful-Stud-Earrings-1",
     "source_image_ids": [
       199
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0194",
@@ -2628,7 +2630,7 @@
     "source_image_ids": [
       200
     ],
-    "new_images": 3,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3125,27 +3127,31 @@
   },
   {
     "product_id": "0235",
-    "folder": "0235_Cream-Satin-Hair-Bow-0",
+    "folder": "0235_Cream-Satin-Hair-Bow-1",
     "source_image_ids": [
       241
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0236",
-    "folder": "0236_Red-Lace-Hair-Bow-0",
+    "folder": "0236_Red-Lace-Hair-Bow-1",
     "source_image_ids": [
       242
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0237",

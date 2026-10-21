@@ -42,9 +42,11 @@
       "source_output": "/workspace/generated_images/exec-9d5ef699-3a22-4fd6-a7cc-543535a9f8f0.png",
       "prompt": "Promotional website product photo lavender/cream backdrop compact plum heading 'Red Floral Lace Hair Bow' and subtitle 'PRODUCT COLLECTION'. SINGLE red floral lace hair bow, layered two loops and two broad long pointed tails, red centre ribbon band with ONE white pearl dangling in gold fitting. Preserve red lace flower pattern exact front shape folds material and pearl location. No invented backside clip. Preserve sourcefrontshape countcolour material. Remove handshop noothertext.",
       "sha256": "0d90f540a30601f285f998eaf3e1f17df09a213cb6fadb27e2b96faa75cd10b4",
-      "checked": false
+      "checked": true,
+      "visual_review": "Compared to original: single red floral lace bow with centre pearl pendant, loops and draped tails, correct count/colour/material and heading."
     }
   ],
-  "status": "in_progress",
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true
 }

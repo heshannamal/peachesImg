@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-21T02:23:07.258149+00:00",
+  "updated_at": "2026-10-21T02:25:19.381438+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 10,
-  "partial_products": 7,
-  "pending_products": 83,
-  "blocked_products": 0,
-  "saved_images": 72,
-  "checked_images": 68,
+  "completed_products": 13,
+  "partial_products": 4,
+  "pending_products": 82,
+  "blocked_products": 1,
+  "saved_images": 75,
+  "checked_images": 73,
   "products": [
     {
       "product_id": "0153",
@@ -431,13 +431,13 @@
       "product_id": "0175",
       "folder": "0175_Neutral-Animal-Ear-Headbands-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
+      "saved_images": 2,
+      "checked_images": 2,
       "files": [
-        "New/01_White-Background.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png"
       ],
       "missing_images": [
-        "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
@@ -450,7 +450,7 @@
     {
       "product_id": "0176",
       "folder": "0176_Pink-Character-Accessory-Set-0",
-      "status": "pending",
+      "status": "blocked",
       "saved_images": 0,
       "checked_images": 0,
       "files": [],
@@ -462,7 +462,7 @@
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "blocked_moderation",
       "errors": [],
       "originals_unchanged": true
     },
@@ -772,7 +772,26 @@
     },
     {
       "product_id": "0193",
-      "folder": "0193_Colourful-Stud-Earrings-0",
+      "folder": "0193_Colourful-Stud-Earrings-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "complete",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0194",
+      "folder": "0194_Pastel-Bow-Hair-Clips-0",
       "status": "partial",
       "saved_images": 4,
       "checked_images": 4,
@@ -783,26 +802,6 @@
         "New/04_Detail.png"
       ],
       "missing_images": [
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": "in_progress",
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "0194",
-      "folder": "0194_Pastel-Bow-Hair-Clips-0",
-      "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
-      "files": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
-        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
@@ -1582,10 +1581,10 @@
     },
     {
       "product_id": "0235",
-      "folder": "0235_Cream-Satin-Hair-Bow-0",
-      "status": "partial",
+      "folder": "0235_Cream-Satin-Hair-Bow-1",
+      "status": "complete",
       "saved_images": 5,
-      "checked_images": 4,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
@@ -1594,21 +1593,17 @@
         "New/05_Promotional.png"
       ],
       "missing_images": [],
-      "review_needed_images": [
-        "New/05_Promotional.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 05_Promotional.png"
-      ],
+      "review_needed_images": [],
+      "notes_status": "complete",
+      "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0236",
-      "folder": "0236_Red-Lace-Hair-Bow-0",
-      "status": "partial",
+      "folder": "0236_Red-Lace-Hair-Bow-1",
+      "status": "complete",
       "saved_images": 5,
-      "checked_images": 4,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
@@ -1617,13 +1612,9 @@
         "New/05_Promotional.png"
       ],
       "missing_images": [],
-      "review_needed_images": [
-        "New/05_Promotional.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 05_Promotional.png"
-      ],
+      "review_needed_images": [],
+      "notes_status": "complete",
+      "errors": [],
       "originals_unchanged": true
     },
     {

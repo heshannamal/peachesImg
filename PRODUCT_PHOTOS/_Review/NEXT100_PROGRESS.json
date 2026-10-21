@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-21T02:55:02.949299+00:00",
+  "updated_at": "2026-10-21T07:50:21.469330+00:00",
   "target_products": 100,
   "target_images": 500,
   "completed_products": 28,
-  "partial_products": 6,
-  "pending_products": 64,
+  "partial_products": 9,
+  "pending_products": 61,
   "blocked_products": 2,
-  "saved_images": 150,
-  "checked_images": 150,
+  "saved_images": 161,
+  "checked_images": 155,
   "products": [
     {
       "product_id": "0153",
@@ -164,39 +164,49 @@
     {
       "product_id": "0161",
       "folder": "0161_Gold-Tone-Stud-Earring-Sets-0",
-      "status": "pending",
-      "saved_images": 0,
+      "status": "partial",
+      "saved_images": 1,
       "checked_images": 0,
-      "files": [],
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "missing_images": [
-        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "review_needed_images": [
+        "New/01_White-Background.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png"
+      ],
       "originals_unchanged": true
     },
     {
       "product_id": "0162",
       "folder": "0162_Gold-Tone-Geometric-Earring-Sets-0",
-      "status": "pending",
-      "saved_images": 0,
+      "status": "partial",
+      "saved_images": 1,
       "checked_images": 0,
-      "files": [],
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "missing_images": [
-        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "review_needed_images": [
+        "New/01_White-Background.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png"
+      ],
       "originals_unchanged": true
     },
     {
@@ -488,14 +498,14 @@
       "product_id": "0178",
       "folder": "0178_Colourful-Hair-Accessories-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 2,
+      "saved_images": 3,
+      "checked_images": 3,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
@@ -888,14 +898,14 @@
       "product_id": "0199",
       "folder": "0199_Long-Limbed-Plush-Keyrings-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 2,
+      "saved_images": 3,
+      "checked_images": 3,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
@@ -908,13 +918,13 @@
       "product_id": "0200",
       "folder": "0200_Pastel-Mini-Purse-Keyrings-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
+      "saved_images": 2,
+      "checked_images": 2,
       "files": [
-        "New/01_White-Background.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png"
       ],
       "missing_images": [
-        "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
@@ -1232,20 +1242,24 @@
       "product_id": "0217",
       "folder": "0217_Pink-Charm-Keyrings-0",
       "status": "partial",
-      "saved_images": 1,
+      "saved_images": 2,
       "checked_images": 1,
       "files": [
-        "New/01_White-Background.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png"
       ],
       "missing_images": [
-        "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
+      "review_needed_images": [
+        "New/02_Styled-Background.png"
+      ],
       "notes_status": "in_progress",
-      "errors": [],
+      "errors": [
+        "unreviewed or unrecorded: 02_Styled-Background.png"
+      ],
       "originals_unchanged": true
     },
     {
@@ -1270,20 +1284,25 @@
     {
       "product_id": "0219",
       "folder": "0219_Colourful-Keyrings-0",
-      "status": "pending",
-      "saved_images": 0,
+      "status": "partial",
+      "saved_images": 1,
       "checked_images": 0,
-      "files": [],
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "missing_images": [
-        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "review_needed_images": [
+        "New/01_White-Background.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png"
+      ],
       "originals_unchanged": true
     },
     {
@@ -1651,40 +1670,48 @@
       "product_id": "0239",
       "folder": "0239_Black-Satin-Hair-Bow-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 2,
+      "saved_images": 4,
+      "checked_images": 3,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
+      "review_needed_images": [
+        "New/04_Detail.png"
+      ],
       "notes_status": "in_progress",
-      "errors": [],
+      "errors": [
+        "unreviewed or unrecorded: 04_Detail.png"
+      ],
       "originals_unchanged": true
     },
     {
       "product_id": "0240",
       "folder": "0240_White-Shell-Necklaces-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 2,
+      "saved_images": 4,
+      "checked_images": 3,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
+      "review_needed_images": [
+        "New/04_Detail.png"
+      ],
       "notes_status": "in_progress",
-      "errors": [],
+      "errors": [
+        "unreviewed or unrecorded: 04_Detail.png"
+      ],
       "originals_unchanged": true
     },
     {

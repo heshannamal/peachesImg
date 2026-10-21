@@ -1,0 +1,25 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250210-WA0555.jpg": "ee7c746548dfce1cfba1931033de8d3d7babcd81f180b7167888eab6ac5d1b15"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-bba7fedc-4ebf-40d2-8824-2003106a686a.png",
+      "prompt": "Square website catalogue photograph. Preserve exactly12 pairs /24 round floral rhinestone stud earrings on one white card, six rows four studs. Preserve gold-tone floral shape and original colors by row leftpair/rightpair: black/dustypink, champagne/teal, iridescent/champagne, royalblue/darkbrown, burgundy/purple, red/green.. Remove hand, price overlay and shop background, clean white background and soft shadow, same exact arrangement. No added items or invented hidden parts.",
+      "sha256": "439dbdd8215a059244475693b22cc33462fb83cca1faba450e3edaf0384f58b7",
+      "checked": false
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-ed8ed9f1-537f-4390-a099-48f54063c070.png",
+      "prompt": "Square website styled product photo. Preserve exactly12 pairs /24 round floral rhinestone stud earrings on one white card, six rows four studs. Preserve gold-tone floral shape and original colors by row leftpair/rightpair: black/dustypink, champagne/teal, iridescent/champagne, royalblue/darkbrown, burgundy/purple, red/green.. Same exact arrangement and quantity. Soft lavender and cream background, gentle softbox light, entire product clearly visible. No hands, no extra jewellery, no new text.",
+      "sha256": "d4af0b154b0342b3128ee131a47216fe91a4b2c5adeabc2ba4e4ced3dd543395",
+      "checked": false
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

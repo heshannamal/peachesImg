@@ -3471,7 +3471,7 @@
     "source_image_ids": [
       261
     ],
-    "new_images": 2,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3483,7 +3483,7 @@
     "source_image_ids": [
       262
     ],
-    "new_images": 2,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3699,15 +3699,17 @@
   },
   {
     "product_id": "0274",
-    "folder": "0274_Silver-Tone-Hoop-Earrings-0",
+    "folder": "0274_Silver-Tone-Hoop-Earrings-1",
     "source_image_ids": [
       282
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0275",
@@ -3933,15 +3935,17 @@
   },
   {
     "product_id": "0293",
-    "folder": "0293_Plush-Printed-Headbands-0",
+    "folder": "0293_Plush-Printed-Headbands-1",
     "source_image_ids": [
       305
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0294",
@@ -4202,15 +4206,17 @@
   },
   {
     "product_id": "0315",
-    "folder": "0315_Metallic-Hair-Claws-0",
+    "folder": "0315_Metallic-Hair-Claws-1",
     "source_image_ids": [
       328
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0316",
@@ -4218,7 +4224,7 @@
     "source_image_ids": [
       329
     ],
-    "new_images": 1,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4419,27 +4425,31 @@
   },
   {
     "product_id": "0333",
-    "folder": "0333_Wooden-Tag-Keyrings-0",
+    "folder": "0333_Wooden-Tag-Keyrings-1",
     "source_image_ids": [
       347
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0334",
-    "folder": "0334_Plush-Bear-Keyrings-0",
+    "folder": "0334_Plush-Bear-Keyrings-1",
     "source_image_ids": [
       348
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0335",

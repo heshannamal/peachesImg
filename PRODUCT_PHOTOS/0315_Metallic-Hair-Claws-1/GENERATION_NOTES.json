@@ -34,9 +34,19 @@
       "source_output": "/workspace/generated_images/exec-efd38826-6f64-40a3-9521-6c3962ac858d.png",
       "prompt": "Standalone tight macro crop of actual beige top-left ribbon-loop hair claw from reference: glossy beige loop crossing,visible silver coil spring and dark teeth behind through original clear plastic sleeve. Tight detail of real existing components only, no full assortment, no collage/insets/text, no invented mechanism or backside. Cream soft background.",
       "sha256": "5fa2cb53715e0ba75d45747201bb1887fd5a21c50df6f824ecc0aa3ec31f32fb",
-      "checked": false
+      "checked": true,
+      "visual_review": "Standalone close crop of beige loop claw crossing, spring and teeth through sleeve; actual materials and shape retained."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-0feed7c6-f4f7-49d9-921c-03a90296a15f.png",
+      "prompt": "Promotional website reference edit,lavender cream background,compact darkplum heading LOOP HAIR CLAWS and PRODUCT COLLECTION. Exactly TWELVE glossy plastic ribbonloop claws in original clear divided sleeve two columns SIXeach. Left beige ivory mauve mauve brown brown; right taupe taupe darkblue brown olivegreen olivegreen. Preserve original overlap,crossed loops,teeth,springs,colours,packaging. Whole assortment one product. Remove price numbersticker sack/cardboard. No extra clips,invented views,metal finish or unpacking.",
+      "sha256": "d790ab2eb9dcf7564f4535080524ea3892a8b5978479d740692963e198d011c8",
+      "checked": true,
+      "visual_review": "Twelve packaged loop claws retain original two columns/count/colours with accurate LOOP HAIR CLAWS / PRODUCT COLLECTION heading."
     }
   ],
-  "status": "in_progress",
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "original_plan_hashes_verified": true
 }

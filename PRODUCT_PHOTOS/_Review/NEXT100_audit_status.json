@@ -1,5 +1,5 @@
 {
-  "audited_at_utc": "2026-10-21T08:30:57.722933+00:00",
+  "audited_at_utc": "2026-10-21T08:33:41.845482+00:00",
   "plan": "/workspace/peachesImg/PRODUCT_PHOTOS/_Review/SCHEDULED_NEXT_100_0153_0252.json",
   "read_only_product_audit": true,
   "baseline": {
@@ -920,7 +920,7 @@
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": "in_progress",
+      "notes_status": "blocked_usage_limit_reached",
       "originals_match_frozen_plan": true
     },
     "0223": {
@@ -937,7 +937,7 @@
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": "in_progress",
+      "notes_status": "blocked_usage_limit_reached",
       "originals_match_frozen_plan": true
     },
     "0224": {
@@ -1357,5 +1357,47 @@
       "material_issues": [],
       "review": "Six bow clips retained in white, styled, lifestyle and promo: burgundy/navy/pink/cream/grey/tan with checked loops and satin tails. Detail is tight crop of existing navy bow. No material subject or count issues; minor texture/shape/color lighting differences acceptable website standard."
     }
+  },
+  "final_quota_cache_audit": {
+    "all_workers_drained_per_parent": true,
+    "orphan_successful_outputs": [
+      {
+        "path": "/workspace/generated_images/exec-6064d7cd-b83e-4814-b8ab-31f2b9f8af6e.png",
+        "sha256": "905b950990f0ce846a22c1302667a1f8e88dd6e6646062b52591d06de46fd212"
+      },
+      {
+        "path": "/workspace/generated_images/exec-bdbebaf2-859d-4e5f-b4d7-54c5a306382c.png",
+        "sha256": "cdaa616dcddd4b57ff7081838e8dfdc006260fd7f69b653323e453b02d1f2315"
+      },
+      {
+        "path": "/workspace/generated_images/exec-65a7c14f-2b55-431e-9c96-c50dacc6c673.png",
+        "sha256": "75838743135e9492a1777e8c927f16f36c9d2a40329a4f9affeb0b7c8a3bdc96"
+      },
+      {
+        "path": "/workspace/generated_images/exec-0be100a9-5863-4537-aa0c-93c5439c57cb.png",
+        "sha256": "2aa4fde56d2347ccf39717cf6e245b9c7a76f1bc197d6330f17a913f9e057c63"
+      }
+    ],
+    "assessment": "Four visually identified alternatives to already-saved variants:0199promo,0200promo,0204white,0203lifestyle. No missing-view recovery candidate. No replacements performed."
+  },
+  "final_reconciliation": {
+    "expected_saved": 313,
+    "expected_checked": 311,
+    "expected_complete": 59,
+    "matches_parent": true,
+    "unchecked_files": [
+      {
+        "product_id": "0200",
+        "files": [
+          "05_Promotional.png"
+        ]
+      },
+      {
+        "product_id": "0203",
+        "files": [
+          "02_Styled-Background.png"
+        ]
+      }
+    ]
   }
 }

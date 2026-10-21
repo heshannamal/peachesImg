@@ -1,8 +1,31 @@
 {
   "tool": "built-in image_gen",
-  "status": "in_progress",
+  "status": "blocked_usage_limit_reached",
   "original_hashes": {
     "Originals/IMG-20250217-WA0169.jpg": "1af756a57f1c24c434b2fe4fb4b54d505d407bf0b3beab1cd32fde16198ea6f9"
   },
-  "records": []
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-c099577c-4ab7-4e8d-a344-5051c779fe19.png",
+      "prompt": "Realistic white seamless website photo of exact THREE black crescent curved hair volume bump pads,sizegradedlarge medium small,velcro-like fine loop edges and smooth dark fabric centres. Preserve3count,actual crescent shapes/material/colour/arrangement in clear blister on original pink-black striped Fashion Jewelry backing card with printed hairstyle photo. Whole packaged setONEproduct. Remove hand/shop/price,no12sets,noextra items,imagined backs or invented parts.",
+      "sha256": "9c5fbaf5a0b7f960b4454bb42c4444d62124fe425bcb70b4c6b7a680ab668715",
+      "checked": true,
+      "visual_review": "Three sizegraded black crescent hair bump pads retain smooth fabric centres/loop edges,original blister and pink/black striped hairstyle card; white clean."
+    }
+  ],
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "blocker": {
+    "type": "usage_limit_reached",
+    "http_status": 429,
+    "resets_at": 1792589598,
+    "resets_in_seconds_at_error": 18168,
+    "no_output_returned": true
+  },
+  "missing_or_unchecked": [
+    "02_Styled-Background.png",
+    "03_Lifestyle.png",
+    "04_Detail.png",
+    "05_Promotional.png"
+  ]
 }

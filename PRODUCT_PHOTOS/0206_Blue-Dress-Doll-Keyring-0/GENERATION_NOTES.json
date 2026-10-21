@@ -1,0 +1,34 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250215-WA0547.jpg": "94c30f53e0080f0f84a42613a1528e9790cc63e091326142d14c38ea58219f7a"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-c699fac8-70a5-4116-9f77-1e33fc04525a.png",
+      "prompt": "Exact ONE source doll keyring beige vinyl round face big brown painted eyes tiny red mouth, lavender pink hair updo with silver tiara, blue tulle dress over matching blue fluffy skirt, large faceted blue heart bodice gem, tiny vinyl arms and red feet visible through mesh, silver chain split ring above. Preserve actual material proportions face and front. Entire source product seamless pure white studio soft shadows. Website-ready faithful benign product photography edit reference. Remove hand watch shop old price and stock sticker only. No invented parts or other text.",
+      "sha256": "dbca043cf8e9c22cf10f0f743a7639e43c378bcfabf68b0d66129123294509f7",
+      "checked": true,
+      "visual_check": "Passed one source blue tulle fur skirt doll lavender pink updo tiara blue heart gem painted face arms red feet silver keyring."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-57a9e970-587e-4b58-8572-232ae3ee5c77.png",
+      "prompt": "Exact ONE source doll keyring beige vinyl round face big brown painted eyes tiny red mouth, lavender pink hair updo with silver tiara, blue tulle dress over matching blue fluffy skirt, large faceted blue heart bodice gem, tiny vinyl arms and red feet visible through mesh, silver chain split ring above. Preserve actual material proportions face and front. Entire source product cream linen lavender backdrop. Website-ready faithful benign product photography edit reference. Remove hand watch shop old price and stock sticker only. No invented parts or other text.",
+      "sha256": "4793691b5a7b7ef3b380427916e96c137bae8149197b46129095e907f6731a9c",
+      "checked": true,
+      "visual_check": "Passed one source blue tulle fur skirt princess doll lavender hair tiara gem face arms red feet silver hardware lavender textile."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true,
+  "blocker": {
+    "type": "usage_limit_reached",
+    "failed_view": "03_Lifestyle",
+    "resets_at": 1792589598,
+    "resets_in_seconds_at_error": 18204
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250212-WA0211.jpg": "f171b98b1e284e083053d3118e3ba16e1e76fc62172f5976b64defa1d80ac908"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-c2086419-f2cf-4976-98f9-b49de07bedd3.png",
+      "prompt": "Edit source into white seamless website productphoto softshadow. Entirebox is ONEproduct with EXACTLY EIGHTEEN butterfly/bow-shaped hairclawclips arranged SIXROWS of THREE, same actual source despite priceoverlay12Pcs. Rows topbottom metallicmagenta, limegreen, lavendergrey, rosepink, turquoiseblue,copperorange; three per row. Preserve exact butterflywing cutouts, roundedcentralnub, sculpted broadwing shapes, metallicplastic finish, clearindividualwraps and greybox/frontdiagonal view. Remove hand/shop/480Rs overlay only, no newtext/props/backviews.",
+      "sha256": "fd581eb7b308fc49708a72e156c01fe45e0f9f9cccc49278d62793de6e2b8674",
+      "checked": true,
+      "visual_check": "Viewed white: eighteen butterflyshaped claws counted sixrows three, correct metallic magenta/green/lavender/rose/blue/copper order, cutouts/nubs and packaging retained."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

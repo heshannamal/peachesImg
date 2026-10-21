@@ -1,5 +1,5 @@
 {
-  "audited_at_utc": "2026-10-21T08:23:20.156762+00:00",
+  "audited_at_utc": "2026-10-21T08:30:57.722933+00:00",
   "plan": "/workspace/peachesImg/PRODUCT_PHOTOS/_Review/SCHEDULED_NEXT_100_0153_0252.json",
   "read_only_product_audit": true,
   "baseline": {
@@ -10,9 +10,9 @@
   },
   "summary": {
     "products_found": 100,
-    "saved_images": 283,
-    "checked_matching_images": 279,
-    "complete_verified_products": 51,
+    "saved_images": 313,
+    "checked_matching_images": 311,
+    "complete_verified_products": 59,
     "issues": 0,
     "duplicate_hash_groups": 0
   },
@@ -152,69 +152,57 @@
       "originals_match_frozen_plan": true
     },
     "0165": {
-      "folder": "0165_Pastel-Character-Hair-Clips-0",
-      "saved": 3,
-      "matching_hash_records": 3,
-      "checked_matching": 2,
-      "unchecked_matching_files": [
-        "03_Lifestyle.png"
-      ],
-      "missing": [
-        "04_Detail.png",
-        "05_Promotional.png"
-      ],
-      "complete_verified": false,
-      "notes_status": "in_progress",
+      "folder": "0165_Pastel-Character-Hair-Clips-1",
+      "saved": 5,
+      "matching_hash_records": 5,
+      "checked_matching": 5,
+      "unchecked_matching_files": [],
+      "missing": [],
+      "complete_verified": true,
+      "notes_status": "five images saved and visually checked",
       "originals_match_frozen_plan": true
     },
     "0166": {
-      "folder": "0166_Colourful-Round-Stud-Earrings-0",
-      "saved": 3,
-      "matching_hash_records": 3,
-      "checked_matching": 2,
-      "unchecked_matching_files": [
-        "03_Lifestyle.png"
-      ],
-      "missing": [
-        "04_Detail.png",
-        "05_Promotional.png"
-      ],
-      "complete_verified": false,
-      "notes_status": "in_progress",
+      "folder": "0166_Colourful-Round-Stud-Earrings-1",
+      "saved": 5,
+      "matching_hash_records": 5,
+      "checked_matching": 5,
+      "unchecked_matching_files": [],
+      "missing": [],
+      "complete_verified": true,
+      "notes_status": "five images saved and visually checked",
       "originals_match_frozen_plan": true
     },
     "0167": {
       "folder": "0167_Star-Stud-Earrings-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
+      "saved": 1,
+      "matching_hash_records": 1,
+      "checked_matching": 1,
       "unchecked_matching_files": [],
       "missing": [
-        "01_White-Background.png",
         "02_Styled-Background.png",
         "03_Lifestyle.png",
         "04_Detail.png",
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": null,
+      "notes_status": "partial: image usage quota reached",
       "originals_match_frozen_plan": true
     },
     "0168": {
       "folder": "0168_Colourful-Square-Stud-Earrings-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
+      "saved": 1,
+      "matching_hash_records": 1,
+      "checked_matching": 1,
       "unchecked_matching_files": [],
       "missing": [
-        "01_White-Background.png",
         "02_Styled-Background.png",
         "03_Lifestyle.png",
         "04_Detail.png",
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": null,
+      "notes_status": "partial: image usage quota reached",
       "originals_match_frozen_plan": true
     },
     "0169": {
@@ -413,66 +401,57 @@
       "originals_match_frozen_plan": true
     },
     "0184": {
-      "folder": "0184_Colourful-Hairbrushes-0",
-      "saved": 3,
-      "matching_hash_records": 3,
-      "checked_matching": 3,
+      "folder": "0184_Colourful-Hairbrushes-1",
+      "saved": 5,
+      "matching_hash_records": 5,
+      "checked_matching": 5,
       "unchecked_matching_files": [],
-      "missing": [
-        "04_Detail.png",
-        "05_Promotional.png"
-      ],
-      "complete_verified": false,
-      "notes_status": "in_progress",
+      "missing": [],
+      "complete_verified": true,
+      "notes_status": "complete",
       "originals_match_frozen_plan": true
     },
     "0185": {
-      "folder": "0185_Round-Neutral-Hair-Claws-0",
-      "saved": 2,
-      "matching_hash_records": 2,
-      "checked_matching": 2,
+      "folder": "0185_Round-Neutral-Hair-Claws-1",
+      "saved": 5,
+      "matching_hash_records": 5,
+      "checked_matching": 5,
       "unchecked_matching_files": [],
-      "missing": [
-        "03_Lifestyle.png",
-        "04_Detail.png",
-        "05_Promotional.png"
-      ],
-      "complete_verified": false,
-      "notes_status": "in_progress",
+      "missing": [],
+      "complete_verified": true,
+      "notes_status": "complete",
       "originals_match_frozen_plan": true
     },
     "0186": {
       "folder": "0186_Bright-Rectangular-Hair-Claws-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
+      "saved": 1,
+      "matching_hash_records": 1,
+      "checked_matching": 1,
       "unchecked_matching_files": [],
       "missing": [
-        "01_White-Background.png",
         "02_Styled-Background.png",
         "03_Lifestyle.png",
         "04_Detail.png",
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": null,
+      "notes_status": "in_progress",
       "originals_match_frozen_plan": true
     },
     "0187": {
       "folder": "0187_Small-Neutral-Hair-Claws-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
+      "saved": 1,
+      "matching_hash_records": 1,
+      "checked_matching": 1,
       "unchecked_matching_files": [],
       "missing": [
-        "01_White-Background.png",
         "02_Styled-Background.png",
         "03_Lifestyle.png",
         "04_Detail.png",
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": null,
+      "notes_status": "in_progress",
       "originals_match_frozen_plan": true
     },
     "0188": {
@@ -674,17 +653,13 @@
     },
     "0203": {
       "folder": "0203_Mixed-Hair-Bows-0",
-      "saved": 2,
-      "matching_hash_records": 2,
-      "checked_matching": 1,
+      "saved": 5,
+      "matching_hash_records": 5,
+      "checked_matching": 4,
       "unchecked_matching_files": [
         "02_Styled-Background.png"
       ],
-      "missing": [
-        "03_Lifestyle.png",
-        "04_Detail.png",
-        "05_Promotional.png"
-      ],
+      "missing": [],
       "complete_verified": false,
       "notes_status": "review_needed",
       "originals_match_frozen_plan": true
@@ -701,50 +676,45 @@
       "originals_match_frozen_plan": true
     },
     "0205": {
-      "folder": "0205_Colourful-Doll-Keyrings-0",
-      "saved": 4,
-      "matching_hash_records": 4,
-      "checked_matching": 4,
+      "folder": "0205_Colourful-Doll-Keyrings-1",
+      "saved": 5,
+      "matching_hash_records": 5,
+      "checked_matching": 5,
+      "unchecked_matching_files": [],
+      "missing": [],
+      "complete_verified": true,
+      "notes_status": "complete",
+      "originals_match_frozen_plan": true
+    },
+    "0206": {
+      "folder": "0206_Blue-Dress-Doll-Keyring-0",
+      "saved": 2,
+      "matching_hash_records": 2,
+      "checked_matching": 2,
       "unchecked_matching_files": [],
       "missing": [
+        "03_Lifestyle.png",
+        "04_Detail.png",
         "05_Promotional.png"
       ],
       "complete_verified": false,
       "notes_status": "in_progress",
       "originals_match_frozen_plan": true
     },
-    "0206": {
-      "folder": "0206_Blue-Dress-Doll-Keyring-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
-      "unchecked_matching_files": [],
-      "missing": [
-        "01_White-Background.png",
-        "02_Styled-Background.png",
-        "03_Lifestyle.png",
-        "04_Detail.png",
-        "05_Promotional.png"
-      ],
-      "complete_verified": false,
-      "notes_status": null,
-      "originals_match_frozen_plan": true
-    },
     "0207": {
       "folder": "0207_Baby-Doll-Keyring-Assortment-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
+      "saved": 1,
+      "matching_hash_records": 1,
+      "checked_matching": 1,
       "unchecked_matching_files": [],
       "missing": [
-        "01_White-Background.png",
         "02_Styled-Background.png",
         "03_Lifestyle.png",
         "04_Detail.png",
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": null,
+      "notes_status": "in_progress",
       "originals_match_frozen_plan": true
     },
     "0208": {
@@ -927,33 +897,30 @@
       "originals_match_frozen_plan": true
     },
     "0221": {
-      "folder": "0221_Large-Fabric-Scrunchies-0",
-      "saved": 4,
-      "matching_hash_records": 4,
-      "checked_matching": 4,
+      "folder": "0221_Large-Fabric-Scrunchies-1",
+      "saved": 5,
+      "matching_hash_records": 5,
+      "checked_matching": 5,
       "unchecked_matching_files": [],
-      "missing": [
-        "05_Promotional.png"
-      ],
-      "complete_verified": false,
-      "notes_status": "in_progress",
+      "missing": [],
+      "complete_verified": true,
+      "notes_status": "five images generated and visually checked",
       "originals_match_frozen_plan": true
     },
     "0222": {
       "folder": "0222_Hair-Styling-Bun-Tool-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
+      "saved": 1,
+      "matching_hash_records": 1,
+      "checked_matching": 1,
       "unchecked_matching_files": [],
       "missing": [
-        "01_White-Background.png",
         "02_Styled-Background.png",
         "03_Lifestyle.png",
         "04_Detail.png",
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": null,
+      "notes_status": "in_progress",
       "originals_match_frozen_plan": true
     },
     "0223": {
@@ -970,7 +937,7 @@
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": null,
+      "notes_status": "in_progress",
       "originals_match_frozen_plan": true
     },
     "0224": {
@@ -1259,35 +1226,25 @@
       "originals_match_frozen_plan": true
     },
     "0245": {
-      "folder": "0245_Colourful-Silicone-Wristbands-0",
-      "saved": 1,
-      "matching_hash_records": 1,
-      "checked_matching": 1,
+      "folder": "0245_Colourful-Silicone-Wristbands-1",
+      "saved": 5,
+      "matching_hash_records": 5,
+      "checked_matching": 5,
       "unchecked_matching_files": [],
-      "missing": [
-        "02_Styled-Background.png",
-        "03_Lifestyle.png",
-        "04_Detail.png",
-        "05_Promotional.png"
-      ],
-      "complete_verified": false,
-      "notes_status": "in_progress",
+      "missing": [],
+      "complete_verified": true,
+      "notes_status": "five images saved and visually checked",
       "originals_match_frozen_plan": true
     },
     "0246": {
-      "folder": "0246_Dark-Beaded-Mala-0",
-      "saved": 1,
-      "matching_hash_records": 1,
-      "checked_matching": 1,
+      "folder": "0246_Dark-Beaded-Mala-1",
+      "saved": 5,
+      "matching_hash_records": 5,
+      "checked_matching": 5,
       "unchecked_matching_files": [],
-      "missing": [
-        "02_Styled-Background.png",
-        "03_Lifestyle.png",
-        "04_Detail.png",
-        "05_Promotional.png"
-      ],
-      "complete_verified": false,
-      "notes_status": "in_progress",
+      "missing": [],
+      "complete_verified": true,
+      "notes_status": "five images saved and visually checked",
       "originals_match_frozen_plan": true
     },
     "0247": {
@@ -1400,151 +1357,5 @@
       "material_issues": [],
       "review": "Six bow clips retained in white, styled, lifestyle and promo: burgundy/navy/pink/cream/grey/tan with checked loops and satin tails. Detail is tight crop of existing navy bow. No material subject or count issues; minor texture/shape/color lighting differences acceptable website standard."
     }
-  },
-  "worker4_resume_audit": {
-    "completed_ids": [
-      "0213",
-      "0214",
-      "0215",
-      "0216",
-      "0217",
-      "0219",
-      "0220"
-    ],
-    "blocked_ids": [
-      "0218"
-    ],
-    "next_resume_queue": [
-      {
-        "product_id": "0221",
-        "missing": [
-          "05_Promotional.png"
-        ],
-        "unchecked": []
-      },
-      {
-        "product_id": "0222",
-        "missing": [
-          "01_White-Background.png",
-          "02_Styled-Background.png",
-          "03_Lifestyle.png",
-          "04_Detail.png",
-          "05_Promotional.png"
-        ],
-        "unchecked": []
-      },
-      {
-        "product_id": "0223",
-        "missing": [
-          "01_White-Background.png",
-          "02_Styled-Background.png",
-          "03_Lifestyle.png",
-          "04_Detail.png",
-          "05_Promotional.png"
-        ],
-        "unchecked": []
-      },
-      {
-        "product_id": "0224",
-        "missing": [
-          "01_White-Background.png",
-          "02_Styled-Background.png",
-          "03_Lifestyle.png",
-          "04_Detail.png",
-          "05_Promotional.png"
-        ],
-        "unchecked": []
-      },
-      {
-        "product_id": "0225",
-        "missing": [
-          "01_White-Background.png",
-          "02_Styled-Background.png",
-          "03_Lifestyle.png",
-          "04_Detail.png",
-          "05_Promotional.png"
-        ],
-        "unchecked": []
-      },
-      {
-        "product_id": "0226",
-        "missing": [
-          "01_White-Background.png",
-          "02_Styled-Background.png",
-          "03_Lifestyle.png",
-          "04_Detail.png",
-          "05_Promotional.png"
-        ],
-        "unchecked": []
-      },
-      {
-        "product_id": "0227",
-        "missing": [
-          "01_White-Background.png",
-          "02_Styled-Background.png",
-          "03_Lifestyle.png",
-          "04_Detail.png",
-          "05_Promotional.png"
-        ],
-        "unchecked": []
-      },
-      {
-        "product_id": "0228",
-        "missing": [
-          "01_White-Background.png",
-          "02_Styled-Background.png",
-          "03_Lifestyle.png",
-          "04_Detail.png",
-          "05_Promotional.png"
-        ],
-        "unchecked": []
-      },
-      {
-        "product_id": "0229",
-        "missing": [
-          "01_White-Background.png",
-          "02_Styled-Background.png",
-          "03_Lifestyle.png",
-          "04_Detail.png",
-          "05_Promotional.png"
-        ],
-        "unchecked": []
-      },
-      {
-        "product_id": "0230",
-        "missing": [
-          "01_White-Background.png",
-          "02_Styled-Background.png",
-          "03_Lifestyle.png",
-          "04_Detail.png",
-          "05_Promotional.png"
-        ],
-        "unchecked": []
-      },
-      {
-        "product_id": "0231",
-        "missing": [
-          "01_White-Background.png",
-          "02_Styled-Background.png",
-          "03_Lifestyle.png",
-          "04_Detail.png",
-          "05_Promotional.png"
-        ],
-        "unchecked": []
-      },
-      {
-        "product_id": "0232",
-        "missing": [
-          "01_White-Background.png",
-          "02_Styled-Background.png",
-          "03_Lifestyle.png",
-          "04_Detail.png",
-          "05_Promotional.png"
-        ],
-        "unchecked": []
-      }
-    ],
-    "orphans_in_inspected_latest_cache_for_worker4": [],
-    "cache_notes": "Seven recent unreferenced outputs visually inspected: plush keyring promo, butterfly-claw promo, bow-claw white, plaid-star-claw lifestyle, banana-clip lifestyle, cat-ear styled, doll detail. None corresponds to0221scrunchie promo or0222bun tool. Other workers own these subjects; do not recover into worker4 folders."
   }
 }

@@ -15,6 +15,37 @@
     "0165",
     "0166"
   ],
-  "partial": {},
-  "in_flight": []
+  "partial": {
+    "0167": {
+      "saved_checked": [
+        "01_White-Background.png"
+      ],
+      "missing": [
+        "02_Styled-Background.png",
+        "03_Lifestyle.png",
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
+    },
+    "0168": {
+      "saved_checked": [
+        "01_White-Background.png"
+      ],
+      "missing": [
+        "02_Styled-Background.png",
+        "03_Lifestyle.png",
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
+    }
+  },
+  "in_flight": [],
+  "not_started": [
+    "0169",
+    "0170",
+    "0171",
+    "0172"
+  ],
+  "blocker": "HTTP429 usage_limit_reached; resets_at 1792589598, no retries",
+  "updated_at": "2026-10-21T08:30:02.982622+00:00"
 }

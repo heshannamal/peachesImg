@@ -1,5 +1,5 @@
 {
-  "status": "in_progress",
+  "status": "blocked_usage_limit_reached",
   "assigned": [
     "0213",
     "0214",
@@ -22,49 +22,218 @@
     "0231",
     "0232"
   ],
-  "active": [
-    "0221",
-    "0222"
-  ],
+  "active": [],
   "products": {
     "0213": {
+      "folder": "0213_Pastel-Hair-Accessory-Packs-1",
       "saved": 5,
       "checked": 5,
-      "complete": true
+      "complete": true,
+      "missing_or_unchecked": []
     },
     "0214": {
+      "folder": "0214_Colourful-Mini-Bottle-Assortment-1",
       "saved": 5,
       "checked": 5,
-      "complete": true
+      "complete": true,
+      "missing_or_unchecked": []
     },
     "0215": {
+      "folder": "0215_Bow-Hair-Clip-Assortment-1",
       "saved": 5,
       "checked": 5,
-      "complete": true
+      "complete": true,
+      "missing_or_unchecked": []
     },
     "0216": {
+      "folder": "0216_Fruit-Keyrings-1",
       "saved": 5,
       "checked": 5,
-      "complete": true
+      "complete": true,
+      "missing_or_unchecked": []
     },
     "0217": {
+      "folder": "0217_Pink-Charm-Keyrings-1",
       "saved": 5,
       "checked": 5,
-      "complete": true
+      "complete": true,
+      "missing_or_unchecked": []
     },
     "0219": {
+      "folder": "0219_Colourful-Keyrings-1",
       "saved": 5,
       "checked": 5,
-      "complete": true
+      "complete": true,
+      "missing_or_unchecked": []
     },
     "0220": {
+      "folder": "0220_Pom-Pom-Hat-Keyrings-1",
       "saved": 5,
       "checked": 5,
-      "complete": true
+      "complete": true,
+      "missing_or_unchecked": []
     },
     "0221": {
-      "saved": 4,
-      "checked": 4
+      "folder": "0221_Large-Fabric-Scrunchies-1",
+      "saved": 5,
+      "checked": 5,
+      "complete": true,
+      "missing_or_unchecked": []
+    },
+    "0222": {
+      "folder": "0222_Hair-Styling-Bun-Tool-0",
+      "saved": 1,
+      "checked": 1,
+      "complete": false,
+      "missing_or_unchecked": [
+        "02_Styled-Background.png",
+        "03_Lifestyle.png",
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
+    },
+    "0218": {
+      "folder": "0218_Red-And-Blue-Keyrings-0",
+      "saved": 0,
+      "checked": 0,
+      "complete": false,
+      "missing_or_unchecked": [
+        "01_White-Background.png",
+        "02_Styled-Background.png",
+        "03_Lifestyle.png",
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
+    },
+    "0223": {
+      "folder": "0223_Colourful-Elastic-Hair-Ties-0",
+      "saved": 0,
+      "checked": 0,
+      "complete": false,
+      "missing_or_unchecked": [
+        "01_White-Background.png",
+        "02_Styled-Background.png",
+        "03_Lifestyle.png",
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
+    },
+    "0224": {
+      "folder": "0224_Colourful-Hair-Elastic-Packs-0",
+      "saved": 0,
+      "checked": 0,
+      "complete": false,
+      "missing_or_unchecked": [
+        "01_White-Background.png",
+        "02_Styled-Background.png",
+        "03_Lifestyle.png",
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
+    },
+    "0225": {
+      "folder": "0225_Colourful-Beaded-Necklaces-0",
+      "saved": 0,
+      "checked": 0,
+      "complete": false,
+      "missing_or_unchecked": [
+        "01_White-Background.png",
+        "02_Styled-Background.png",
+        "03_Lifestyle.png",
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
+    },
+    "0226": {
+      "folder": "0226_Colourful-Cosmetic-Tubes-0",
+      "saved": 0,
+      "checked": 0,
+      "complete": false,
+      "missing_or_unchecked": [
+        "01_White-Background.png",
+        "02_Styled-Background.png",
+        "03_Lifestyle.png",
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
+    },
+    "0227": {
+      "folder": "0227_Floral-Flap-Wallets-0",
+      "saved": 0,
+      "checked": 0,
+      "complete": false,
+      "missing_or_unchecked": [
+        "01_White-Background.png",
+        "02_Styled-Background.png",
+        "03_Lifestyle.png",
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
+    },
+    "0228": {
+      "folder": "0228_Printed-Fabric-Hair-Accessories-0",
+      "saved": 0,
+      "checked": 0,
+      "complete": false,
+      "missing_or_unchecked": [
+        "01_White-Background.png",
+        "02_Styled-Background.png",
+        "03_Lifestyle.png",
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
+    },
+    "0229": {
+      "folder": "0229_Cord-Necklace-Assortment-0",
+      "saved": 0,
+      "checked": 0,
+      "complete": false,
+      "missing_or_unchecked": [
+        "01_White-Background.png",
+        "02_Styled-Background.png",
+        "03_Lifestyle.png",
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
+    },
+    "0230": {
+      "folder": "0230_Printed-Fabric-Pouches-0",
+      "saved": 0,
+      "checked": 0,
+      "complete": false,
+      "missing_or_unchecked": [
+        "01_White-Background.png",
+        "02_Styled-Background.png",
+        "03_Lifestyle.png",
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
+    },
+    "0231": {
+      "folder": "0231_Flower-Hair-Clips-0",
+      "saved": 0,
+      "checked": 0,
+      "complete": false,
+      "missing_or_unchecked": [
+        "01_White-Background.png",
+        "02_Styled-Background.png",
+        "03_Lifestyle.png",
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
+    },
+    "0232": {
+      "folder": "0232_Sun-Safety-Pins-0",
+      "saved": 0,
+      "checked": 0,
+      "complete": false,
+      "missing_or_unchecked": [
+        "01_White-Background.png",
+        "02_Styled-Background.png",
+        "03_Lifestyle.png",
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
     }
   },
   "completed": [
@@ -74,10 +243,21 @@
     "0216",
     "0217",
     "0219",
-    "0220"
+    "0220",
+    "0221"
   ],
   "review_needed": {},
   "blocked": {
     "0218": "moderation_blocked output; skipped no retry"
-  }
+  },
+  "inflight": 0,
+  "updated_at": "2026-10-21T08:32:19.749908+00:00",
+  "quota_error": {
+    "type": "usage_limit_reached",
+    "http_status": 429,
+    "resets_at": 1792589598,
+    "resets_in_seconds_at_error": 18168
+  },
+  "total_saved": 41,
+  "total_checked": 41
 }

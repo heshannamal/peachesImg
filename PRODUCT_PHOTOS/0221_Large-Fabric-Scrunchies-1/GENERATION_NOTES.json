@@ -1,6 +1,6 @@
 {
   "tool": "built-in image_gen",
-  "status": "in_progress",
+  "status": "five images generated and visually checked",
   "original_hashes": {
     "Originals/IMG-20250217-WA0150.jpg": "95eaec60a62a730fa782d9283d4350b7c3a1c069a980a3f0b7f124687e1c13a0"
   },
@@ -36,7 +36,16 @@
       "sha256": "bc688c7e187c5b52216dd359824fa0cba9c703757980c89259f06218494797af",
       "checked": true,
       "visual_review": "Standalone tightmacro retains existing brown fuzzy knit scrunchie edge and heart/dotted brown ribbon,matching material and colours."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-e5990ae6-3eeb-4d49-8a9b-a6311e4c470a.png",
+      "prompt": "Realistic promotional website photo of exact overlapping bundle of large fuzzy fabric scrunchies,black upperleft,red left,cream bottom,brown right,hotpink upperright,original patterned ribbons/black New Fashion tags. Preserve visible grouping,count,shape,materials,colours,package. Whole assortmentONEproduct on cream lavender backdrop,compact dark plum 'Large Fuzzy Fabric Scrunchies' and 'PRODUCT COLLECTION'. Remove hand/shop/price,noextras/inventedhiddenviews.",
+      "sha256": "adf97e747d57cf4a677434e00de9e41e6a351758916968a4e3bd10d7fcf05be8",
+      "checked": true,
+      "visual_review": "Promotional preserves original black/red/cream/brown/hotpink scrunchie bundle,fur-knit textures,patterned ribbons,tags and overlapping grouping; heading accurate."
     }
   ],
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "original_plan_sha256_verified": true
 }

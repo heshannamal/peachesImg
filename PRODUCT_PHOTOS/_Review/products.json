@@ -2232,27 +2232,31 @@
   },
   {
     "product_id": "0161",
-    "folder": "0161_Gold-Tone-Stud-Earring-Sets-0",
+    "folder": "0161_Gold-Tone-Stud-Earring-Sets-1",
     "source_image_ids": [
       166
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0162",
-    "folder": "0162_Gold-Tone-Geometric-Earring-Sets-0",
+    "folder": "0162_Gold-Tone-Geometric-Earring-Sets-1",
     "source_image_ids": [
       167
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0153-0252",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0163",
@@ -2260,9 +2264,9 @@
     "source_image_ids": [
       168
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -2272,9 +2276,9 @@
     "source_image_ids": [
       169
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -2476,7 +2480,7 @@
     "source_image_ids": [
       186
     ],
-    "new_images": 1,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2488,7 +2492,7 @@
     "source_image_ids": [
       187
     ],
-    "new_images": 1,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2742,7 +2746,7 @@
     "source_image_ids": [
       207
     ],
-    "new_images": 2,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2754,7 +2758,7 @@
     "source_image_ids": [
       208
     ],
-    "new_images": 2,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2968,7 +2972,7 @@
     "source_image_ids": [
       225
     ],
-    "new_images": 4,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -2980,9 +2984,9 @@
     "source_image_ids": [
       226
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -3249,9 +3253,9 @@
     "source_image_ids": [
       247
     ],
-    "new_images": 0,
+    "new_images": 3,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -3261,9 +3265,9 @@
     "source_image_ids": [
       248
     ],
-    "new_images": 0,
+    "new_images": 3,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },

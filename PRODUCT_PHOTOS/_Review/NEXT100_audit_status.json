@@ -1,5 +1,5 @@
 {
-  "audited_at_utc": "2026-10-20T18:59:10.255390+00:00",
+  "audited_at_utc": "2026-10-21T02:37:09.097611+00:00",
   "plan": "/workspace/peachesImg/PRODUCT_PHOTOS/_Review/SCHEDULED_NEXT_100_0153_0252.json",
   "read_only_product_audit": true,
   "baseline": {
@@ -10,9 +10,9 @@
   },
   "summary": {
     "products_found": 100,
-    "saved_images": 30,
-    "checked_matching_images": 29,
-    "complete_verified_products": 1,
+    "saved_images": 88,
+    "checked_matching_images": 80,
+    "complete_verified_products": 14,
     "issues": 0,
     "duplicate_hash_groups": 0
   },
@@ -24,16 +24,55 @@
       "saved": 5,
       "matching_hash_records": 5,
       "checked_matching": 5,
+      "unchecked_matching_files": [],
       "missing": [],
       "complete_verified": true,
       "notes_status": "five images saved and visually checked",
       "originals_match_frozen_plan": true
     },
     "0154": {
-      "folder": "0154_Earring-And-Accessory-Display-0",
+      "folder": "0154_Earring-And-Accessory-Display-1",
+      "saved": 5,
+      "matching_hash_records": 5,
+      "checked_matching": 5,
+      "unchecked_matching_files": [],
+      "missing": [],
+      "complete_verified": true,
+      "notes_status": "five images saved and visually checked",
+      "originals_match_frozen_plan": true
+    },
+    "0155": {
+      "folder": "0155_White-Beaded-Bracelets-1",
+      "saved": 5,
+      "matching_hash_records": 5,
+      "checked_matching": 5,
+      "unchecked_matching_files": [],
+      "missing": [],
+      "complete_verified": true,
+      "notes_status": "five images saved and visually checked",
+      "originals_match_frozen_plan": true
+    },
+    "0156": {
+      "folder": "0156_White-Beaded-Anklet-1",
+      "saved": 5,
+      "matching_hash_records": 5,
+      "checked_matching": 5,
+      "unchecked_matching_files": [],
+      "missing": [],
+      "complete_verified": true,
+      "notes_status": "five images saved and visually checked",
+      "originals_match_frozen_plan": true
+    },
+    "0157": {
+      "folder": "0157_Colourful-Ribbon-Rolls-0",
       "saved": 3,
       "matching_hash_records": 3,
-      "checked_matching": 2,
+      "checked_matching": 0,
+      "unchecked_matching_files": [
+        "02_Styled-Background.png",
+        "01_White-Background.png",
+        "03_Lifestyle.png"
+      ],
       "missing": [
         "04_Detail.png",
         "05_Promotional.png"
@@ -42,68 +81,22 @@
       "notes_status": "in_progress",
       "originals_match_frozen_plan": true
     },
-    "0155": {
-      "folder": "0155_White-Beaded-Bracelets-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
-      "missing": [
-        "01_White-Background.png",
-        "02_Styled-Background.png",
-        "03_Lifestyle.png",
-        "04_Detail.png",
-        "05_Promotional.png"
-      ],
-      "complete_verified": false,
-      "notes_status": null,
-      "originals_match_frozen_plan": true
-    },
-    "0156": {
-      "folder": "0156_White-Beaded-Anklet-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
-      "missing": [
-        "01_White-Background.png",
-        "02_Styled-Background.png",
-        "03_Lifestyle.png",
-        "04_Detail.png",
-        "05_Promotional.png"
-      ],
-      "complete_verified": false,
-      "notes_status": null,
-      "originals_match_frozen_plan": true
-    },
-    "0157": {
-      "folder": "0157_Colourful-Ribbon-Rolls-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
-      "missing": [
-        "01_White-Background.png",
-        "02_Styled-Background.png",
-        "03_Lifestyle.png",
-        "04_Detail.png",
-        "05_Promotional.png"
-      ],
-      "complete_verified": false,
-      "notes_status": null,
-      "originals_match_frozen_plan": true
-    },
     "0158": {
       "folder": "0158_LED-Bunny-Ear-Headband-0",
-      "saved": 0,
-      "matching_hash_records": 0,
+      "saved": 3,
+      "matching_hash_records": 3,
       "checked_matching": 0,
-      "missing": [
-        "01_White-Background.png",
+      "unchecked_matching_files": [
         "02_Styled-Background.png",
-        "03_Lifestyle.png",
+        "01_White-Background.png",
+        "03_Lifestyle.png"
+      ],
+      "missing": [
         "04_Detail.png",
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": null,
+      "notes_status": "in_progress",
       "originals_match_frozen_plan": true
     },
     "0159": {
@@ -111,6 +104,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -127,6 +121,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -143,6 +138,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -159,6 +155,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -175,6 +172,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -191,6 +189,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -207,6 +206,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -223,6 +223,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -239,6 +240,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -255,6 +257,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -271,6 +274,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -287,6 +291,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -303,6 +308,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -319,6 +325,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -331,45 +338,39 @@
       "originals_match_frozen_plan": true
     },
     "0173": {
-      "folder": "0173_Pastel-Animal-Ear-Headbands-0",
-      "saved": 3,
-      "matching_hash_records": 3,
-      "checked_matching": 3,
-      "missing": [
-        "04_Detail.png",
-        "05_Promotional.png"
-      ],
-      "complete_verified": false,
-      "notes_status": "in_progress",
+      "folder": "0173_Pastel-Animal-Ear-Headbands-1",
+      "saved": 5,
+      "matching_hash_records": 5,
+      "checked_matching": 5,
+      "unchecked_matching_files": [],
+      "missing": [],
+      "complete_verified": true,
+      "notes_status": "complete",
       "originals_match_frozen_plan": true
     },
     "0174": {
-      "folder": "0174_Bright-Animal-Ear-Headbands-0",
-      "saved": 3,
-      "matching_hash_records": 3,
-      "checked_matching": 3,
-      "missing": [
-        "04_Detail.png",
-        "05_Promotional.png"
-      ],
-      "complete_verified": false,
-      "notes_status": "in_progress",
+      "folder": "0174_Bright-Animal-Ear-Headbands-1",
+      "saved": 5,
+      "matching_hash_records": 5,
+      "checked_matching": 5,
+      "unchecked_matching_files": [],
+      "missing": [],
+      "complete_verified": true,
+      "notes_status": "complete",
       "originals_match_frozen_plan": true
     },
     "0175": {
       "folder": "0175_Neutral-Animal-Ear-Headbands-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
+      "saved": 3,
+      "matching_hash_records": 3,
+      "checked_matching": 3,
+      "unchecked_matching_files": [],
       "missing": [
-        "01_White-Background.png",
-        "02_Styled-Background.png",
-        "03_Lifestyle.png",
         "04_Detail.png",
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": null,
+      "notes_status": "in_progress",
       "originals_match_frozen_plan": true
     },
     "0176": {
@@ -377,6 +378,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -385,7 +387,7 @@
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": null,
+      "notes_status": "blocked_moderation",
       "originals_match_frozen_plan": true
     },
     "0177": {
@@ -393,6 +395,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -409,6 +412,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -425,6 +429,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -441,6 +446,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -457,6 +463,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -473,6 +480,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -489,6 +497,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -505,6 +514,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -521,6 +531,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -537,6 +548,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -553,6 +565,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -569,6 +582,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -585,6 +599,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -601,6 +616,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -617,6 +633,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -633,6 +650,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -645,65 +663,57 @@
       "originals_match_frozen_plan": true
     },
     "0193": {
-      "folder": "0193_Colourful-Stud-Earrings-0",
-      "saved": 1,
-      "matching_hash_records": 1,
-      "checked_matching": 1,
-      "missing": [
-        "02_Styled-Background.png",
-        "03_Lifestyle.png",
-        "04_Detail.png",
-        "05_Promotional.png"
-      ],
-      "complete_verified": false,
-      "notes_status": "in_progress",
+      "folder": "0193_Colourful-Stud-Earrings-1",
+      "saved": 5,
+      "matching_hash_records": 5,
+      "checked_matching": 5,
+      "unchecked_matching_files": [],
+      "missing": [],
+      "complete_verified": true,
+      "notes_status": "complete",
       "originals_match_frozen_plan": true
     },
     "0194": {
-      "folder": "0194_Pastel-Bow-Hair-Clips-0",
-      "saved": 1,
-      "matching_hash_records": 1,
-      "checked_matching": 1,
-      "missing": [
-        "02_Styled-Background.png",
-        "03_Lifestyle.png",
-        "04_Detail.png",
-        "05_Promotional.png"
-      ],
-      "complete_verified": false,
-      "notes_status": "in_progress",
+      "folder": "0194_Pastel-Bow-Hair-Clips-1",
+      "saved": 5,
+      "matching_hash_records": 5,
+      "checked_matching": 5,
+      "unchecked_matching_files": [],
+      "missing": [],
+      "complete_verified": true,
+      "notes_status": "complete",
       "originals_match_frozen_plan": true
     },
     "0195": {
       "folder": "0195_Transparent-Butterfly-Hair-Claws-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
+      "saved": 1,
+      "matching_hash_records": 1,
+      "checked_matching": 1,
+      "unchecked_matching_files": [],
       "missing": [
-        "01_White-Background.png",
         "02_Styled-Background.png",
         "03_Lifestyle.png",
         "04_Detail.png",
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": null,
+      "notes_status": "in_progress",
       "originals_match_frozen_plan": true
     },
     "0196": {
       "folder": "0196_Ice-Cream-Pom-Pom-Keyring-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
+      "saved": 1,
+      "matching_hash_records": 1,
+      "checked_matching": 1,
+      "unchecked_matching_files": [],
       "missing": [
-        "01_White-Background.png",
         "02_Styled-Background.png",
         "03_Lifestyle.png",
         "04_Detail.png",
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": null,
+      "notes_status": "in_progress",
       "originals_match_frozen_plan": true
     },
     "0197": {
@@ -711,6 +721,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -727,6 +738,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -743,6 +755,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -759,6 +772,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -775,6 +789,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -791,6 +806,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -807,6 +823,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -823,6 +840,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -839,6 +857,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -855,6 +874,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -871,6 +891,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -887,6 +908,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -903,6 +925,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -919,6 +942,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -935,6 +959,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -951,6 +976,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -963,61 +989,58 @@
       "originals_match_frozen_plan": true
     },
     "0213": {
-      "folder": "0213_Pastel-Hair-Accessory-Packs-0",
-      "saved": 3,
-      "matching_hash_records": 3,
-      "checked_matching": 3,
-      "missing": [
-        "04_Detail.png",
-        "05_Promotional.png"
-      ],
-      "complete_verified": false,
-      "notes_status": "in_progress",
+      "folder": "0213_Pastel-Hair-Accessory-Packs-1",
+      "saved": 5,
+      "matching_hash_records": 5,
+      "checked_matching": 5,
+      "unchecked_matching_files": [],
+      "missing": [],
+      "complete_verified": true,
+      "notes_status": "five images generated and visually checked",
       "originals_match_frozen_plan": true
     },
     "0214": {
-      "folder": "0214_Colourful-Mini-Bottle-Assortment-0",
-      "saved": 3,
-      "matching_hash_records": 3,
-      "checked_matching": 3,
-      "missing": [
-        "04_Detail.png",
-        "05_Promotional.png"
-      ],
-      "complete_verified": false,
-      "notes_status": "in_progress",
+      "folder": "0214_Colourful-Mini-Bottle-Assortment-1",
+      "saved": 5,
+      "matching_hash_records": 5,
+      "checked_matching": 5,
+      "unchecked_matching_files": [],
+      "missing": [],
+      "complete_verified": true,
+      "notes_status": "five images generated and visually checked",
       "originals_match_frozen_plan": true
     },
     "0215": {
       "folder": "0215_Bow-Hair-Clip-Assortment-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
+      "saved": 3,
+      "matching_hash_records": 3,
+      "checked_matching": 2,
+      "unchecked_matching_files": [
+        "03_Lifestyle.png"
+      ],
       "missing": [
-        "01_White-Background.png",
-        "02_Styled-Background.png",
-        "03_Lifestyle.png",
         "04_Detail.png",
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": null,
+      "notes_status": "in_progress",
       "originals_match_frozen_plan": true
     },
     "0216": {
       "folder": "0216_Fruit-Keyrings-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
+      "saved": 2,
+      "matching_hash_records": 2,
+      "checked_matching": 1,
+      "unchecked_matching_files": [
+        "02_Styled-Background.png"
+      ],
       "missing": [
-        "01_White-Background.png",
-        "02_Styled-Background.png",
         "03_Lifestyle.png",
         "04_Detail.png",
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": null,
+      "notes_status": "in_progress",
       "originals_match_frozen_plan": true
     },
     "0217": {
@@ -1025,6 +1048,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1041,6 +1065,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1057,6 +1082,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1073,6 +1099,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1089,6 +1116,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1105,6 +1133,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1121,6 +1150,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1137,6 +1167,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1153,6 +1184,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1169,6 +1201,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1185,6 +1218,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1201,6 +1235,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1217,6 +1252,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1233,6 +1269,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1249,6 +1286,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1265,6 +1303,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1277,91 +1316,79 @@
       "originals_match_frozen_plan": true
     },
     "0233": {
-      "folder": "0233_Pink-Beaded-Necklace-0",
-      "saved": 4,
-      "matching_hash_records": 4,
-      "checked_matching": 4,
-      "missing": [
-        "05_Promotional.png"
-      ],
-      "complete_verified": false,
-      "notes_status": "in_progress",
+      "folder": "0233_Pink-Beaded-Necklace-1",
+      "saved": 5,
+      "matching_hash_records": 5,
+      "checked_matching": 5,
+      "unchecked_matching_files": [],
+      "missing": [],
+      "complete_verified": true,
+      "notes_status": "five images saved and visually checked",
       "originals_match_frozen_plan": true
     },
     "0234": {
-      "folder": "0234_Colourful-Rectangular-Hair-Claws-0",
-      "saved": 4,
-      "matching_hash_records": 4,
-      "checked_matching": 4,
-      "missing": [
-        "05_Promotional.png"
-      ],
-      "complete_verified": false,
-      "notes_status": "in_progress",
+      "folder": "0234_Colourful-Rectangular-Hair-Claws-1",
+      "saved": 5,
+      "matching_hash_records": 5,
+      "checked_matching": 5,
+      "unchecked_matching_files": [],
+      "missing": [],
+      "complete_verified": true,
+      "notes_status": "five images saved and visually checked",
       "originals_match_frozen_plan": true
     },
     "0235": {
-      "folder": "0235_Cream-Satin-Hair-Bow-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
-      "missing": [
-        "01_White-Background.png",
-        "02_Styled-Background.png",
-        "03_Lifestyle.png",
-        "04_Detail.png",
-        "05_Promotional.png"
-      ],
-      "complete_verified": false,
-      "notes_status": null,
+      "folder": "0235_Cream-Satin-Hair-Bow-1",
+      "saved": 5,
+      "matching_hash_records": 5,
+      "checked_matching": 5,
+      "unchecked_matching_files": [],
+      "missing": [],
+      "complete_verified": true,
+      "notes_status": "complete",
       "originals_match_frozen_plan": true
     },
     "0236": {
-      "folder": "0236_Red-Lace-Hair-Bow-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
-      "missing": [
-        "01_White-Background.png",
-        "02_Styled-Background.png",
-        "03_Lifestyle.png",
-        "04_Detail.png",
-        "05_Promotional.png"
-      ],
-      "complete_verified": false,
-      "notes_status": null,
+      "folder": "0236_Red-Lace-Hair-Bow-1",
+      "saved": 5,
+      "matching_hash_records": 5,
+      "checked_matching": 5,
+      "unchecked_matching_files": [],
+      "missing": [],
+      "complete_verified": true,
+      "notes_status": "complete",
       "originals_match_frozen_plan": true
     },
     "0237": {
       "folder": "0237_Pastel-Hair-Clip-Packs-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
+      "saved": 1,
+      "matching_hash_records": 1,
+      "checked_matching": 1,
+      "unchecked_matching_files": [],
       "missing": [
-        "01_White-Background.png",
         "02_Styled-Background.png",
         "03_Lifestyle.png",
         "04_Detail.png",
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": null,
+      "notes_status": "in_progress",
       "originals_match_frozen_plan": true
     },
     "0238": {
       "folder": "0238_Floral-Fabric-Scrunchies-0",
-      "saved": 0,
-      "matching_hash_records": 0,
-      "checked_matching": 0,
+      "saved": 1,
+      "matching_hash_records": 1,
+      "checked_matching": 1,
+      "unchecked_matching_files": [],
       "missing": [
-        "01_White-Background.png",
         "02_Styled-Background.png",
         "03_Lifestyle.png",
         "04_Detail.png",
         "05_Promotional.png"
       ],
       "complete_verified": false,
-      "notes_status": null,
+      "notes_status": "in_progress",
       "originals_match_frozen_plan": true
     },
     "0239": {
@@ -1369,6 +1396,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1385,6 +1413,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1401,6 +1430,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1417,6 +1447,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1433,6 +1464,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1449,6 +1481,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1465,6 +1498,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1481,6 +1515,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1497,6 +1532,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1513,6 +1549,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1529,6 +1566,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1545,6 +1583,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1561,6 +1600,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",
@@ -1577,6 +1617,7 @@
       "saved": 0,
       "matching_hash_records": 0,
       "checked_matching": 0,
+      "unchecked_matching_files": [],
       "missing": [
         "01_White-Background.png",
         "02_Styled-Background.png",

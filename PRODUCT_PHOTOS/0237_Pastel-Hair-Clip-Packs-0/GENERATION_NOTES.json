@@ -1,0 +1,26 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250227-WA0317.jpg": "d8d6d16477b079be795196476e78c3a8da26d125fbf0a33e444a05a6fc24784f"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-41ae37ec-1139-4c48-a608-d39f81aefe67.png",
+      "prompt": "Clean white seamless ecommerce product photograph. Entire assortment of FOUR packaged folding pocket combs stacked overlapping vertical cards. Yellow CHERRY, pink STRAWBERRY, pale blue MILK, lavender BAMBOO with panda motif. Each has rounded illustrated handle cover and exposed short fine comb teeth, original open folded shape, white AISHU card clear blister sleeve. Preserve count4colour order illustration packaging. These are combs NOT hairclips. Same front view full assortment actual count shapes colours material. Remove hand shop prices surroundinginventory. No added text.",
+      "sha256": "1565071576a16fd145ca1cb0514f9110b71f00d3aa9c5cca22189bc9a43945d9",
+      "checked": true,
+      "visual_review": "Four packaged folding combs retain yellow pink blue lavender order and character motifs."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-192b3fc4-18a5-432a-bb43-36dd618ef8a2.png",
+      "prompt": "Styled website product photo on lavender ground with cream cloth at edges. Entire assortment of FOUR packaged folding pocket combs stacked overlapping vertical cards. Yellow CHERRY, pink STRAWBERRY, pale blue MILK, lavender BAMBOO with panda motif. Each has rounded illustrated handle cover and exposed short fine comb teeth, original open folded shape, white AISHU card clear blister sleeve. Preserve count4colour order illustration packaging. These are combs NOT hairclips. Same full assortmentfrontview countshape coloursmaterials. Remove handshop prices no newtext.",
+      "sha256": "b7f9d90648c1ce9b53f164999bb7abee04d135b240989bc15b7e1003407d45e2",
+      "checked": false
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

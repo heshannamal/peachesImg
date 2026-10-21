@@ -1,0 +1,35 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250208-WA0042.jpg": "45cbaa6be6c6100b259b712f3e249313e55634f962d7a76f7926156bbc61f107"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-75186b0d-ebfc-4cf6-b43f-484c59411990.png",
+      "prompt": "Square website ecommerce photo on pure white background. Preserve EXACT ten satin ribbon rolls pink lavender red pale blue green lime orange yellow purple blue in original slanted row with matching unrolled tails, same count,colours,widths,textures,arrangement. Whole product/assortment fully framed, same visible geometry/materials. Remove prices only, no new text/extra pieces. Realistic soft shadows.",
+      "sha256": "b6ae4953b6103bf15b99202ade3037c95fcfabae12e56bd1ee11a6c943741f46",
+      "checked": true,
+      "visual_review": "Viewed against original: correct productcount, primary shapes/colours/materials and arrangement retained."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-51ac34af-7ec3-4d02-aab8-b7073a21a0e9.png",
+      "prompt": "Square website photo preserve EXACT ten satin ribbon rolls pink lavender red pale blue green lime orange yellow purple blue in original slanted row with matching unrolled tails, same count,colours,widths,textures,arrangement. Same full productcount,shape,colours,materials/arrangement. Only surroundings lavender cream studio background, soft shadow. No newtext/extra pieces.",
+      "sha256": "2756dbd02edbf171cd9ba32e4201e230e6fb9fb31e17adead93bccc1ebf23946",
+      "checked": true,
+      "visual_review": "Viewed against original: correct productcount, primary shapes/colours/materials and arrangement retained."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-6c9e8246-75b3-40ee-8e77-2dfdca8287ef.png",
+      "prompt": "Square website lifestylephoto preserve EXACT ten satin ribbon rolls pink lavender red pale blue green lime orange yellow purple blue in original slanted row with matching unrolled tails, same count,colours,widths,textures,arrangement. Same fullproductcount,shape,colours,materials/arrangement. Entire tenroll assortment on cream craft table with blurred lavender room. No newtext/extraproducts/person. Realistic softlight.",
+      "sha256": "67383e1fd1f984ef75d45816079836eb5bd7d07ed497c9ba7b84e29066a538b5",
+      "checked": true,
+      "visual_review": "Viewed against original: correct productcount, primary shapes/colours/materials and arrangement retained."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

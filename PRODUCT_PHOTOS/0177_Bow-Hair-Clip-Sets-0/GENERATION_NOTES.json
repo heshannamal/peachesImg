@@ -1,0 +1,19 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250212-WA0036.jpg": "4256f9b33d23857de7a888127c561b0a6daa9653701711ef7342563c951c2c89"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-969cb19d-6def-4d3c-91dd-a9605162cd46.png",
+      "prompt": "Edit original into website-ready ecommerce white seamless photo soft shadows. Exact entire assortment oneproduct: TWELVE white FashionJewelry cards in3columns4rows inside clearouterbag, each with ONE plushvelvet bow clip embellished smallwhite pearls and matching fabric hairties behind. Original top2rows pale pink/lilac bows, third burgundy, bottom darkpurpleblue. Keep12bowcards, exact overlapped arrangement, visible shapes/colours/pearlplacement/materials/packaging and ties. Remove hand/shop/1200Rs overlay/stocksticker only. No invented backparts/extra products/text.",
+      "sha256": "22574dc25449d1059e4f04148e79426d5942addada9b3719b8f609bd32bb2132",
+      "checked": true,
+      "visual_check": "Basic check12bows3columns4rows top6pink then3burgundy3purpleblue, pearl accents/ties/cards/bag retained, no hand/price."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

@@ -1,0 +1,35 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250208-WA0043.jpg": "0f4c846ce93032ac04aea11ca075a356e0374dba6656af468f42ed667e786970"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-ffc06b2d-b54c-4ea4-add3-81274315baf1.png",
+      "prompt": "Square website ecommerce photo on pure white background. Preserve EXACT single fuzzy white-pale pink LED bunny ear headband, two upright elongated ears, original blue pink green yellow glowing light positions and white side switch, original front orientation. Whole product/assortment fully framed, same visible geometry/materials. Remove prices only, no new text/extra pieces. Realistic soft shadows.",
+      "sha256": "3994d4000d30d310e407c72ee8a4a2225a32ba13870a626dd6b47d2524495c78",
+      "checked": true,
+      "visual_review": "Viewed against original: correct productcount, primary shapes/colours/materials and arrangement retained."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-42e0d0fe-96a3-40ff-bc0b-3342d6ecc5e5.png",
+      "prompt": "Square website photo preserve EXACT single fuzzy white-pale pink LED bunny ear headband, two upright elongated ears, original blue pink green yellow glowing light positions and white side switch, original front orientation. Same full productcount,shape,colours,materials/arrangement. Only surroundings lavender cream studio background, soft shadow. No newtext/extra pieces.",
+      "sha256": "6651f22938f31a5c466c373af11d310c98725a66903cdd7d8b59e18037916ea3",
+      "checked": true,
+      "visual_review": "Viewed against original: correct productcount, primary shapes/colours/materials and arrangement retained."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-347d4c76-00eb-4d22-be98-9887e67dadb7.png",
+      "prompt": "Square website lifestylephoto preserve EXACT single fuzzy white-pale pink LED bunny ear headband, two upright elongated ears, original blue pink green yellow glowing light positions and white side switch, original front orientation. Same fullproductcount,shape,colours,materials/arrangement. Single headband on cream dressingtable in softly blurred lavender partyroom, preserve LEDglow. No newtext/extraproducts/person. Realistic softlight.",
+      "sha256": "f6b4e36c6ef3a25183f60e6ebb12979bcf3576c5612a9a108c1f030c4f5b6774",
+      "checked": true,
+      "visual_review": "Viewed against original: correct productcount, primary shapes/colours/materials and arrangement retained."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

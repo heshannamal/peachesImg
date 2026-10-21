@@ -1,0 +1,26 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250227-WA0331.jpg": "da4135fb364c69fcceef1327e2bc061171a93d1769d6b74d99177bcc46eafa55"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-04bcd9c0-a3f0-45a6-aaaa-1fa739a03142.png",
+      "prompt": "Clean white seamless ecommerce product photograph. Entire assortment SIX small shaggy plush puppy toys seated side by side facing camera. Left-to-right blackwhite mottled, redblack, yellowblack striped, darkblueblack, lightcyan with redblack patches, creamwhite. Each has floppy ears black round eyes black nose red tongue and raised fluffy tail. Preserve exact count6 shape fur colours and left-right arrangement. These are plush dogs NOT scrunchies. Same front view full assortment actual count shapes colours material. Remove hand shop prices surroundinginventory. No added text.",
+      "sha256": "1e422337d3aab071f5184fc5171b5246ad389fd185ce7fc0a47e7c542fe105f8",
+      "checked": true,
+      "visual_review": "Six plush puppies retain source left-right colours fur ears red tongues and shapes."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-9603e4cd-8523-49d9-8875-f868a8bc1763.png",
+      "prompt": "Styled website product photo on lavender ground with cream cloth at edges. Entire assortment SIX small shaggy plush puppy toys seated side by side facing camera. Left-to-right blackwhite mottled, redblack, yellowblack striped, darkblueblack, lightcyan with redblack patches, creamwhite. Each has floppy ears black round eyes black nose red tongue and raised fluffy tail. Preserve exact count6 shape fur colours and left-right arrangement. These are plush dogs NOT scrunchies. Same full assortmentfrontview countshape coloursmaterials. Remove handshop prices no newtext.",
+      "sha256": "b52c755dada204f6172a2848b0116022e388d0b71aab49e0f0ff9430146efb8f",
+      "checked": false
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

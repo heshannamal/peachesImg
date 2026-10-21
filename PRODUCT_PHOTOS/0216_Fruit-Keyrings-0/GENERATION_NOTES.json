@@ -15,10 +15,12 @@
     },
     {
       "saved_file": "New/02_Styled-Background.png",
-      "source_output": "/workspace/generated_images/exec-f4b2d768-3396-465c-acd8-a1b4bc26f9d7.png",
-      "prompt": "ONE realistic website styled-background product photo of exact reference. Twelve wrapped keyrings on red KEYCHAIN header,exactly3green stacked monsters,3blue stacked monsters,3purple stacked monsters,1red stacked cat,1blue stacked cat,1pink stacked cat=12. Silver ring/short chain each,three stacked heads each,yellow monster horns,pink stick bases. Preserve original shape/colour/count/packaging. Whole assortment ONE product,full set inside frame on cream background with lavender fabric at edges. Preserve count,identity,shape,colour,materials,arrangement and packaging. Remove hand,shop,oldprices. No added products,parts or imagined back views.",
-      "sha256": "cf167bc128de498559b71571c68a201bb1094f75786b5723ac239efd9701dbed",
-      "checked": false
+      "source_output": "/workspace/generated_images/exec-367b074a-7a62-4a27-97d2-f739a659573d.png",
+      "prompt": "Use corrected white photo as exact product count/layout reference and original for identity. Change ONLY backdrop into cream with lavender fabric outside product. EXACTLY12keyrings:3green monsters+3blue monsters+3purple monsters+redcat+bluecat+pinkcat. Twelve separate silver rings/chains on red KEYCHAIN header,clear wrappers,pink base sticks and yellow monster horns. Preserve all12, original shape/colour,do not omit blue keyring. Full pack visible. Remove hand/price/shop.",
+      "sha256": "132cef86fd9a03d0f4238496ea473194a245f175618fcc23427dd5137650928f",
+      "checked": true,
+      "accepted": true,
+      "visual_review": "Corrected styled image counted12:3green,3blue,3purple monsters and red/blue/pink cats. Silver rings,chains,header and wrappers preserved."
     }
   ],
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
@@ -31,6 +33,15 @@
       "checked": true,
       "accepted": false,
       "visual_review": "Rejected: generated image has11keyrings, missing one blue item; reference12."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-f4b2d768-3396-465c-acd8-a1b4bc26f9d7.png",
+      "prompt": "ONE realistic website styled-background product photo of exact reference. Twelve wrapped keyrings on red KEYCHAIN header,exactly3green stacked monsters,3blue stacked monsters,3purple stacked monsters,1red stacked cat,1blue stacked cat,1pink stacked cat=12. Silver ring/short chain each,three stacked heads each,yellow monster horns,pink stick bases. Preserve original shape/colour/count/packaging. Whole assortment ONE product,full set inside frame on cream background with lavender fabric at edges. Preserve count,identity,shape,colour,materials,arrangement and packaging. Remove hand,shop,oldprices. No added products,parts or imagined back views.",
+      "sha256": "cf167bc128de498559b71571c68a201bb1094f75786b5723ac239efd9701dbed",
+      "checked": true,
+      "accepted": false,
+      "visual_review": "Material count issue: styled output shows11keyrings, missing one blue item compared to intended12. One corrective retry already used for white; flagged for human review, no further generation."
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250405-WA0133.jpg": "5a771408185789bbc245fa3da854e62e8005a8c6c9d15d893e5e07651e15fc28"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-db4eef34-3112-45e3-a8e5-ebf27f86b786.png",
+      "prompt": "Edit referenced original into white seamless website product photograph of original red tray with FIFTEEN red embossed jewellery boxes in three columns FIVE rows. Each box keeps heart-shaped clear window,white insert,actual visible gold-tone rings and clear stone chain pieces exactly as visible; do not infer hidden jewellery or rename as stud earrings. Preserve box count,grid,colour,materials and packaging. Whole tray assortment one product. Remove hand,price and shop background. No extra jewellery or invented backs.",
+      "sha256": "cda8cd91353ee4dfc8c062537ee537b21d8580b79e0b1ec105e05f1ecea93184",
+      "checked": true,
+      "visual_review": "Fifteen red heart-window boxes in 3x5 tray, goldtone rings and clear stone chain pieces stay visible in same inserts; hand removed."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

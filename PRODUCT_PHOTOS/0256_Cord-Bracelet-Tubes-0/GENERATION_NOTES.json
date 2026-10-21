@@ -1,0 +1,25 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250303-WA0362.jpg": "5be5a3ddc8dc2107cd264a1ad97db561810d1b8b757cec20b751d7e4fd0388f9"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-04314cad-cb43-4352-9876-6e22f33402ec.png",
+      "prompt": "Square website catalogue photograph. Preserve entire assortment EXACT EIGHT clear cylindrical tubes of hair elastic bands: six upper tubes alternating black and multicolored, two diagonal opened tubes below with black and multicolor thin elastics spilling out, two clear lids with pink cords. Preserve all tube orientations, contents, butterfly stickers and visible loose elastics arrangement; no invention of hidden counts. Remove price overlay, clean white background, soft natural shadow. Same product count and shapes/colors. No new items or text.",
+      "sha256": "95f086e30da2794f69c5d988c003c4b817633b35878e978935670923b64f44c5",
+      "checked": false
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-96cf1a18-7810-4378-8b20-c672c3e05de6.png",
+      "prompt": "Square website styled photo. Preserve entire assortment EXACT EIGHT clear cylindrical tubes of hair elastic bands: six upper tubes alternating black and multicolored, two diagonal opened tubes below with black and multicolor thin elastics spilling out, two clear lids with pink cords. Preserve all tube orientations, contents, butterfly stickers and visible loose elastics arrangement; no invention of hidden counts. Exact same arrangement, visible counts and main shapes. Lavender cream studio background, soft lighting. Remove price overlay, no added product or new text.",
+      "sha256": "7aebd8fcabbae36913f0c966c83e533aaf0bd2516a6b99e5611c1d7d12c61a20",
+      "checked": false
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

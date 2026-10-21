@@ -1,0 +1,25 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250303-WA0361.jpg": "17eef9fe7a961bef37428895e056ff85a344dae7890d256fe98899205acb36e2"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-f5233390-996b-4465-85db-5ef5f66868ee.png",
+      "prompt": "Square website catalogue photograph. Preserve EXACT FIVE rectangular plastic label keyrings each with one silver split ring, diagonal arrangement white lowerleft then orange then blue then limegreen then magenta upperright. Preserve translucent plastic color, rectangular insert window and triangular attachment opening, exact shapes and arrangement. Remove price overlay, clean white background, soft natural shadow. Same product count and shapes/colors. No new items or text.",
+      "sha256": "bb4792e0ea5ce39275a6a2b03f9aa89167c9a414a9dd6093a8997eb588147d88",
+      "checked": false
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-c9c938ac-ec7d-4413-8319-4ed5ce868b4b.png",
+      "prompt": "Square website styled photo. Preserve EXACT FIVE rectangular plastic label keyrings each with one silver split ring, diagonal arrangement white lowerleft then orange then blue then limegreen then magenta upperright. Preserve translucent plastic color, rectangular insert window and triangular attachment opening, exact shapes and arrangement. Exact same arrangement, visible counts and main shapes. Lavender cream studio background, soft lighting. Remove price overlay, no added product or new text.",
+      "sha256": "651c3e62ca0b52b3ad2d2b670b5c3dd5e22c72c63ab04957d805ae6f9691679c",
+      "checked": false
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

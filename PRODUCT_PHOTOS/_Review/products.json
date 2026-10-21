@@ -3471,9 +3471,9 @@
     "source_image_ids": [
       261
     ],
-    "new_images": 0,
+    "new_images": 2,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -3483,9 +3483,9 @@
     "source_image_ids": [
       262
     ],
-    "new_images": 0,
+    "new_images": 2,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -3685,15 +3685,17 @@
   },
   {
     "product_id": "0273",
-    "folder": "0273_Gold-Tone-Chain-Necklaces-0",
+    "folder": "0273_Gold-Tone-Chain-Necklaces-1",
     "source_image_ids": [
       281
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0274",
@@ -3701,7 +3703,7 @@
     "source_image_ids": [
       282
     ],
-    "new_images": 2,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3935,7 +3937,7 @@
     "source_image_ids": [
       305
     ],
-    "new_images": 2,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4186,15 +4188,17 @@
   },
   {
     "product_id": "0314",
-    "folder": "0314_Character-Hot-Water-Bottle-Assortment-0",
+    "folder": "0314_Character-Hot-Water-Bottle-Assortment-1",
     "source_image_ids": [
       327
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0315",
@@ -4202,7 +4206,7 @@
     "source_image_ids": [
       328
     ],
-    "new_images": 1,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4214,9 +4218,9 @@
     "source_image_ids": [
       329
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -4419,7 +4423,7 @@
     "source_image_ids": [
       347
     ],
-    "new_images": 3,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4431,7 +4435,7 @@
     "source_image_ids": [
       348
     ],
-    "new_images": 3,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",

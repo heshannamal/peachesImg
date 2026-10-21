@@ -42,9 +42,19 @@
       "source_output": "/workspace/generated_images/exec-8cdb4389-1999-49f2-979d-2c92d508ece8.png",
       "prompt": "Standalone tight macro crop of actual existing white bunny-shaped screw cap and clear threaded neck on central yellow illustrated hot water bottle in reference. Emphasize smooth white bunny ears and clear ridged transparent neck against small yellow edge. Tight close detail only, no full bottle assortment, no collage/inset/text, no invented internal features or reverse view. Clean cream background.",
       "sha256": "7b4086f0fd2c01df68321e6855da955f7522aa43009601ba2d0bd33d42114251",
-      "checked": false
+      "checked": true,
+      "visual_review": "Standalone tight bunny cap and transparent ridged neck crop on yellow bottle, faithful smooth white cap and yellow edge."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-9eabe788-6845-4b39-b51d-ff926e42e9b3.png",
+      "prompt": "Reference edit promotional website image lavender cream background, dark plum compact heading CHARACTER HOT WATER BOTTLES and PRODUCT COLLECTION. Preserve eight visible bottles: cropped clearfarleft then green lavender yellow pink pink blue green mainrow. Same overlaps, actual illustrations, pastel transparent shapes, white bunny caps. Whole assortment one product; no price/quantity claims. Remove shop hooks binderclips shelf price and bottomstock. No extra products or invented views.",
+      "sha256": "fb0ac6bd8fe7d790d9a12e9b69f39f42dbae8b6a4152e05333a66e44d39bb9e2",
+      "checked": true,
+      "visual_review": "Eight visible illustrated pastel bunnycap bottles with cropped left edge, accurate CHARACTER HOT WATER BOTTLES / PRODUCT COLLECTION heading."
     }
   ],
-  "status": "in_progress",
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "original_plan_hashes_verified": true
 }

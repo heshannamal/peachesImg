@@ -1,0 +1,1641 @@
+{
+  "status": "prepared_for_schedule",
+  "scheduled_local": "2026-10-22T00:00:00+05:30",
+  "timezone": "Asia/Colombo",
+  "target_products": 100,
+  "target_images": 500,
+  "product_ids": [
+    "0253",
+    "0254",
+    "0255",
+    "0256",
+    "0257",
+    "0258",
+    "0259",
+    "0260",
+    "0261",
+    "0262",
+    "0263",
+    "0264",
+    "0265",
+    "0266",
+    "0267",
+    "0268",
+    "0269",
+    "0270",
+    "0271",
+    "0272",
+    "0273",
+    "0274",
+    "0275",
+    "0276",
+    "0277",
+    "0278",
+    "0279",
+    "0280",
+    "0281",
+    "0282",
+    "0283",
+    "0284",
+    "0285",
+    "0286",
+    "0287",
+    "0288",
+    "0289",
+    "0290",
+    "0291",
+    "0292",
+    "0293",
+    "0294",
+    "0295",
+    "0296",
+    "0297",
+    "0298",
+    "0299",
+    "0300",
+    "0301",
+    "0302",
+    "0303",
+    "0304",
+    "0305",
+    "0306",
+    "0307",
+    "0308",
+    "0309",
+    "0310",
+    "0311",
+    "0312",
+    "0313",
+    "0314",
+    "0315",
+    "0316",
+    "0317",
+    "0318",
+    "0319",
+    "0320",
+    "0321",
+    "0322",
+    "0323",
+    "0324",
+    "0325",
+    "0326",
+    "0327",
+    "0328",
+    "0329",
+    "0330",
+    "0331",
+    "0332",
+    "0333",
+    "0334",
+    "0335",
+    "0336",
+    "0337",
+    "0338",
+    "0339",
+    "0340",
+    "0341",
+    "0342",
+    "0343",
+    "0344",
+    "0345",
+    "0346",
+    "0347",
+    "0348",
+    "0349",
+    "0350",
+    "0351",
+    "0352"
+  ],
+  "products": [
+    {
+      "product_id": "0253",
+      "folder": "0253_Brown-Beaded-Bracelet-0",
+      "source_image_ids": [
+        259
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0254",
+      "folder": "0254_Black-Beaded-Bracelet-0",
+      "source_image_ids": [
+        260
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0255",
+      "folder": "0255_Label-Keyrings-0",
+      "source_image_ids": [
+        261
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0256",
+      "folder": "0256_Cord-Bracelet-Tubes-0",
+      "source_image_ids": [
+        262
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0257",
+      "folder": "0257_Red-And-Gold-Tone-Earrings-0",
+      "source_image_ids": [
+        263,
+        264,
+        265
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0258",
+      "folder": "0258_Character-Hair-Clips-0",
+      "source_image_ids": [
+        266
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0259",
+      "folder": "0259_Clear-Printed-Hair-Claws-0",
+      "source_image_ids": [
+        267
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0260",
+      "folder": "0260_Dark-Printed-Hair-Claws-0",
+      "source_image_ids": [
+        268
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0261",
+      "folder": "0261_Colourful-Printed-Hair-Claws-0",
+      "source_image_ids": [
+        269
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0262",
+      "folder": "0262_Bright-Hair-Claws-0",
+      "source_image_ids": [
+        270
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0263",
+      "folder": "0263_Glitter-Hair-Claws-0",
+      "source_image_ids": [
+        271
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0264",
+      "folder": "0264_Mixed-Accessory-Display-0",
+      "source_image_ids": [
+        272
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0265",
+      "folder": "0265_Colourful-Hair-Clip-Card-0",
+      "source_image_ids": [
+        273
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0266",
+      "folder": "0266_Printed-Fabric-Headbands-0",
+      "source_image_ids": [
+        274
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0267",
+      "folder": "0267_Braided-Headbands-0",
+      "source_image_ids": [
+        275
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0268",
+      "folder": "0268_Eyeliner-0",
+      "source_image_ids": [
+        276
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0269",
+      "folder": "0269_Lipstick-Assortment-0",
+      "source_image_ids": [
+        277
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0270",
+      "folder": "0270_Necklace-And-Earring-Sets-0",
+      "source_image_ids": [
+        278
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0271",
+      "folder": "0271_Jesus-Silicone-Wristbands-0",
+      "source_image_ids": [
+        279
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0272",
+      "folder": "0272_Gold-Tone-Pendant-Necklaces-0",
+      "source_image_ids": [
+        280
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0273",
+      "folder": "0273_Gold-Tone-Chain-Necklaces-0",
+      "source_image_ids": [
+        281
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0274",
+      "folder": "0274_Silver-Tone-Hoop-Earrings-0",
+      "source_image_ids": [
+        282
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0275",
+      "folder": "0275_Jewellery-Stock-Assortment-0",
+      "source_image_ids": [
+        283
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0276",
+      "folder": "0276_Pastel-Decorative-Hair-Clips-0",
+      "source_image_ids": [
+        284,
+        285
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0277",
+      "folder": "0277_Bow-Hair-Clips-0",
+      "source_image_ids": [
+        286
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0278",
+      "folder": "0278_Neutral-Bow-Hair-Clips-0",
+      "source_image_ids": [
+        287
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0279",
+      "folder": "0279_Decorative-Hair-Slide-Sets-0",
+      "source_image_ids": [
+        288,
+        291,
+        295
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0280",
+      "folder": "0280_Star-Hair-Clips-0",
+      "source_image_ids": [
+        289,
+        292
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0281",
+      "folder": "0281_Daisy-Hair-Clips-0",
+      "source_image_ids": [
+        290
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0282",
+      "folder": "0282_Character-Hair-Clips-0",
+      "source_image_ids": [
+        293
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0283",
+      "folder": "0283_Pastel-Hair-Slide-Sets-0",
+      "source_image_ids": [
+        294
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0284",
+      "folder": "0284_Metal-Hair-Clips-0",
+      "source_image_ids": [
+        296
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0285",
+      "folder": "0285_Colourful-Hair-Clip-Cards-0",
+      "source_image_ids": [
+        297,
+        3147
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0286",
+      "folder": "0286_Metallic-Hair-Clip-Cards-0",
+      "source_image_ids": [
+        298,
+        3148
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0287",
+      "folder": "0287_Fine-Pendant-Necklaces-0",
+      "source_image_ids": [
+        299
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0288",
+      "folder": "0288_Small-Plush-Toy-Assortment-0",
+      "source_image_ids": [
+        300
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0289",
+      "folder": "0289_Metal-Chain-Bracelets-0",
+      "source_image_ids": [
+        301
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0290",
+      "folder": "0290_Pastel-Hair-Claws-0",
+      "source_image_ids": [
+        302
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0291",
+      "folder": "0291_Character-Erasers-0",
+      "source_image_ids": [
+        303
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0292",
+      "folder": "0292_Colourful-Mini-Hair-Claws-0",
+      "source_image_ids": [
+        304
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0293",
+      "folder": "0293_Plush-Printed-Headbands-0",
+      "source_image_ids": [
+        305
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0294",
+      "folder": "0294_Pastel-Character-Hair-Clips-0",
+      "source_image_ids": [
+        306
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0295",
+      "folder": "0295_Pastel-Decorative-Hair-Clips-0",
+      "source_image_ids": [
+        307,
+        308
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0296",
+      "folder": "0296_Colour-Pencil-Tubes-0",
+      "source_image_ids": [
+        309
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0297",
+      "folder": "0297_Decorative-Bracelet-Tubes-0",
+      "source_image_ids": [
+        310
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0298",
+      "folder": "0298_Large-Fabric-Scrunchies-0",
+      "source_image_ids": [
+        311
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0299",
+      "folder": "0299_Colourful-Daisy-Hair-Clips-0",
+      "source_image_ids": [
+        312
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0300",
+      "folder": "0300_Plush-Character-Headbands-0",
+      "source_image_ids": [
+        313
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0301",
+      "folder": "0301_Colourful-Hair-Elastic-Packs-0",
+      "source_image_ids": [
+        314
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0302",
+      "folder": "0302_Pastel-Character-Hair-Clip-Pairs-0",
+      "source_image_ids": [
+        315
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0303",
+      "folder": "0303_Glow-Character-Accessories-0",
+      "source_image_ids": [
+        316
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0304",
+      "folder": "0304_Character-Highlighter-Pens-0",
+      "source_image_ids": [
+        317
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0305",
+      "folder": "0305_Printed-Hot-Water-Bottle-0",
+      "source_image_ids": [
+        318
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0306",
+      "folder": "0306_Bandana-Assortment-0",
+      "source_image_ids": [
+        319
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0307",
+      "folder": "0307_Printed-Fabric-Headbands-0",
+      "source_image_ids": [
+        320
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0308",
+      "folder": "0308_Gold-Tone-Bangles-0",
+      "source_image_ids": [
+        321
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0309",
+      "folder": "0309_Floral-Fabric-Pouches-0",
+      "source_image_ids": [
+        322
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0310",
+      "folder": "0310_Printed-Fabric-Pouches-0",
+      "source_image_ids": [
+        323
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0311",
+      "folder": "0311_Butterfly-Hair-Claw-Sets-0",
+      "source_image_ids": [
+        324
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0312",
+      "folder": "0312_Cat-Hot-Water-Bottles-0",
+      "source_image_ids": [
+        325
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0313",
+      "folder": "0313_Animal-Hot-Water-Bottles-0",
+      "source_image_ids": [
+        326
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0314",
+      "folder": "0314_Character-Hot-Water-Bottle-Assortment-0",
+      "source_image_ids": [
+        327
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0315",
+      "folder": "0315_Metallic-Hair-Claws-0",
+      "source_image_ids": [
+        328
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0316",
+      "folder": "0316_Heart-Stud-Earrings-0",
+      "source_image_ids": [
+        329
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0317",
+      "folder": "0317_Bow-Hair-Claws-0",
+      "source_image_ids": [
+        330
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0318",
+      "folder": "0318_Flower-Hair-Claws-0",
+      "source_image_ids": [
+        331
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0319",
+      "folder": "0319_Pastel-Flower-Hair-Claws-0",
+      "source_image_ids": [
+        332
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0320",
+      "folder": "0320_Clear-Hair-Claw-Display-0",
+      "source_image_ids": [
+        333
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0321",
+      "folder": "0321_Hairbrush-And-Comb-Display-0",
+      "source_image_ids": [
+        334
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0322",
+      "folder": "0322_Character-Folding-Combs-0",
+      "source_image_ids": [
+        335
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0323",
+      "folder": "0323_Gold-Tone-Pendant-Necklaces-0",
+      "source_image_ids": [
+        336
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0324",
+      "folder": "0324_Colour-Pencil-Tubes-0",
+      "source_image_ids": [
+        337
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0325",
+      "folder": "0325_Colourful-Hair-Claws-0",
+      "source_image_ids": [
+        338
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0326",
+      "folder": "0326_Pastel-Butterfly-Hair-Claws-0",
+      "source_image_ids": [
+        339
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0327",
+      "folder": "0327_Hair-Elastic-Packs-0",
+      "source_image_ids": [
+        340
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0328",
+      "folder": "0328_Colourful-Hair-Claws-0",
+      "source_image_ids": [
+        341,
+        343
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0329",
+      "folder": "0329_Pearl-Style-Hair-Claws-0",
+      "source_image_ids": [
+        342
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0330",
+      "folder": "0330_Colourful-Pendant-Keyrings-0",
+      "source_image_ids": [
+        344
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0331",
+      "folder": "0331_Body-Lotion-Bottles-0",
+      "source_image_ids": [
+        345
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0332",
+      "folder": "0332_Rechargeable-Cactus-Toy-0",
+      "source_image_ids": [
+        346
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0333",
+      "folder": "0333_Wooden-Tag-Keyrings-0",
+      "source_image_ids": [
+        347
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0334",
+      "folder": "0334_Plush-Bear-Keyrings-0",
+      "source_image_ids": [
+        348
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0335",
+      "folder": "0335_Pastel-Character-Zip-Pouches-0",
+      "source_image_ids": [
+        349
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0336",
+      "folder": "0336_Black-Hair-Elastics-0",
+      "source_image_ids": [
+        350
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0337",
+      "folder": "0337_Decorative-Pencils-0",
+      "source_image_ids": [
+        351
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0338",
+      "folder": "0338_Pastel-Hair-Clip-Packs-0",
+      "source_image_ids": [
+        352
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0339",
+      "folder": "0339_Heart-Hand-Mirrors-0",
+      "source_image_ids": [
+        353
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0340",
+      "folder": "0340_Wooden-Combs-0",
+      "source_image_ids": [
+        354
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0341",
+      "folder": "0341_Colourful-Mini-Hair-Claws-0",
+      "source_image_ids": [
+        355
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0342",
+      "folder": "0342_Pastel-Handle-Combs-0",
+      "source_image_ids": [
+        356
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0343",
+      "folder": "0343_Plumeria-Hair-Clips-0",
+      "source_image_ids": [
+        357
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0344",
+      "folder": "0344_Pastel-Hair-Accessories-0",
+      "source_image_ids": [
+        358
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0345",
+      "folder": "0345_Hair-Gel-Assortment-0",
+      "source_image_ids": [
+        359
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0346",
+      "folder": "0346_Mini-Handbag-Accessory-Sets-0",
+      "source_image_ids": [
+        360
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0347",
+      "folder": "0347_Plush-Headbands-0",
+      "source_image_ids": [
+        361
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0348",
+      "folder": "0348_Bunny-Ear-Plush-Headbands-0",
+      "source_image_ids": [
+        362
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0349",
+      "folder": "0349_Plush-Bow-Hair-Claws-0",
+      "source_image_ids": [
+        363
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0350",
+      "folder": "0350_Gold-Tone-Hair-Clips-0",
+      "source_image_ids": [
+        364
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0351",
+      "folder": "0351_Colourful-Hair-Claw-Assortment-0",
+      "source_image_ids": [
+        365,
+        366,
+        367
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    },
+    {
+      "product_id": "0352",
+      "folder": "0352_Plush-Character-Hair-Clips-0",
+      "source_image_ids": [
+        368,
+        369
+      ],
+      "new_images": 0,
+      "generation_complete": false,
+      "generation_status": "pending",
+      "grouping_status": "initial-visual-grouping",
+      "required_new_images": 5
+    }
+  ],
+  "original_sha256": {
+    "0253": {
+      "IMG-20250303-WA0358.jpg": "2ddbabdca9d5e35124a9f14aa4766475b146e13b02b18ecd129cd31306cec210"
+    },
+    "0254": {
+      "IMG-20250303-WA0359.jpg": "c8b986b56cab54a6ee6b0b246128eb5e908aabf0ee0f422af8118856e1877c10"
+    },
+    "0255": {
+      "IMG-20250303-WA0361.jpg": "17eef9fe7a961bef37428895e056ff85a344dae7890d256fe98899205acb36e2"
+    },
+    "0256": {
+      "IMG-20250303-WA0362.jpg": "5be5a3ddc8dc2107cd264a1ad97db561810d1b8b757cec20b751d7e4fd0388f9"
+    },
+    "0257": {
+      "IMG-20250303-WA0451.jpg": "fe3be0a6fb2ffcce02c6793f935e235730183d1521c635d0bcc793bd7bee4f91",
+      "IMG-20250303-WA0457.jpg": "676821a84fd91a99d317cc0fd5414d8a54847abf6c549c5abafb3faff81e1ea2",
+      "IMG-20250303-WA0458.jpg": "547923f8f98316d45d30d3d3cbc219468424e6f7915984daad04aa48430aec15"
+    },
+    "0258": {
+      "IMG-20250303-WA0581.jpg": "a80d58ab7950722d153d4aedac1dbf37eec7075744e0d1786df315c2a052ed07"
+    },
+    "0259": {
+      "IMG-20250304-WA0064.jpg": "ac01df1a844917b4dcd758501abed7e501527949afa4e78a720f32ce090ecf09"
+    },
+    "0260": {
+      "IMG-20250304-WA0065.jpg": "f485e2ebd55f86243a609fe8941c1c02eca81a9f655e9c917c3f88c5170c81b7"
+    },
+    "0261": {
+      "IMG-20250304-WA0068.jpg": "988bf1eb369c6df1fb156b29970a9fcf26fd01988f6594f2ac4442f29a234538"
+    },
+    "0262": {
+      "IMG-20250304-WA0072.jpg": "34f7fa1cdcb301987bea2627b717d08c846b47ecfdac601fd84e3fadca830360"
+    },
+    "0263": {
+      "IMG-20250304-WA0073.jpg": "14f3c383cfafee25c94b2175ac156aa27bba6f804cea79cb645066f286b8a9ce"
+    },
+    "0264": {
+      "IMG-20250304-WA0108.jpg": "a41fbc7c30df1c6710cce879961d5b47e20f8dcd0be923d788721ee7dbf7b6b3"
+    },
+    "0265": {
+      "IMG-20250304-WA0417.jpg": "81e3092260e571950eb37f93dbe24d49e67556e3d3554e78ac44f5a97fa37bdb"
+    },
+    "0266": {
+      "IMG-20250304-WA0429.jpg": "f52a52eb5c51ef99a28cb55d378b4ff251416b9b9b5ce76abe67e921635f3e6e"
+    },
+    "0267": {
+      "IMG-20250304-WA0430.jpg": "b2993735baaa93d94bd45b8b0d8dc263dba42382d930dec083ea06e4340c8230"
+    },
+    "0268": {
+      "IMG-20250304-WA0553.jpg": "4c08fb9e17662768acff3236e5f34857e707831ce1330627115087b5f7467017"
+    },
+    "0269": {
+      "IMG-20250304-WA0554.jpg": "b32e2a16d9c92f66b6f04a8025a4c4f03b1fbbba2f61fdc0917598f53d3e660d"
+    },
+    "0270": {
+      "IMG-20250305-WA0121.jpg": "9046197ea2e01f399725e10b070bdf1c2553363f6b4d4f4891a580f9e9a1b00b"
+    },
+    "0271": {
+      "IMG-20250305-WA0173.jpg": "8e44f3cde5d13f18e472655daade38129baa0de109be017306d4ea87aafd96a0"
+    },
+    "0272": {
+      "IMG-20250305-WA0196.jpg": "266a94c1fa5c8773bc1962e61b079e603c18b0c9834902764570a51d26492ae5"
+    },
+    "0273": {
+      "IMG-20250305-WA0239.jpg": "6c14176423da621ffcb0ffc711bb80783ad40f0e61d9cec77e07a13a92c9af9f"
+    },
+    "0274": {
+      "IMG-20250305-WA0252.jpg": "f4f3ae406d0166e4e67858cdeb69dc226fd26f1cac07fe98af795a684253e505"
+    },
+    "0275": {
+      "IMG-20250305-WA0362.jpg": "953597bbeabc9cc551cd6caeca68b999b3536257b3e1a51a1ebb2f0886b88981"
+    },
+    "0276": {
+      "IMG-20250305-WA0364.jpg": "c7a8784f3bc08f0758246866a8bfedf9a4f61487e69ce1ddd142eb8f8c08ac11",
+      "IMG-20250305-WA0366.jpg": "017ed387e44fc51f9babcafc387254388e3b7b97f435239e5685fcc54efeef55"
+    },
+    "0277": {
+      "IMG-20250305-WA0375.jpg": "f3a7007c9d370aa33297a5ce8f4bb25ce7efd182d63c49ae64e00a183ec0e719"
+    },
+    "0278": {
+      "IMG-20250305-WA0388.jpg": "08fa9af4eff03f579d33204150060dc2522669e4f20b7929990293b66832e1eb"
+    },
+    "0279": {
+      "IMG-20250305-WA0396.jpg": "0080d89da49c9cc8aceaafa3368b8800d342c143d7fc4ead975743c8ec105ced",
+      "IMG-20250305-WA0400.jpg": "1c450c40c35479c10e985dcf089e6e4ffc0cf33ad62c845b8566ae681739fe75",
+      "IMG-20250305-WA0406.jpg": "db7f4ae8a43c52c02e00e197a0cd6629e2e4a0850500f58f027473d656ba5273"
+    },
+    "0280": {
+      "IMG-20250305-WA0397.jpg": "1d38795fff84334499233bd5f174ff111d5be4644816c815c376837cb41e099f",
+      "IMG-20250305-WA0403.jpg": "545c6816aa6b7c73682056fda30f89065f0fc2ab55047f771f8a4e37da2a2785"
+    },
+    "0281": {
+      "IMG-20250305-WA0398.jpg": "dcece2d805f86a5615b21be573918f536061187eb7ad7f49177c3321cff669d7"
+    },
+    "0282": {
+      "IMG-20250305-WA0404.jpg": "ed7ddf7940cbc7fb7a3578748582379f4088849b1ec824fe573e5bd6acbe9c0c"
+    },
+    "0283": {
+      "IMG-20250305-WA0405.jpg": "f879d814a2adb7cc34b0afc8be004827fc609a7070111c3be7cb2460df694551"
+    },
+    "0284": {
+      "IMG-20250305-WA0452.jpg": "1a545d7b698b993fbb2024ecb21ff5550a95b1cdfb7e8848076f6b93dceceead"
+    },
+    "0285": {
+      "IMG-20250306-WA0320(1).jpg": "2e649c95caae7cb2f47af456936f941c6689e90734335155fde9abe130a1347d",
+      "PXL_20250306_081933047.PORTRAIT.ORIGINAL~2.jpg": "d8ddd5fe71f754d517c6857d66bf95d2f7d982bb956bd4924e66091c937e7979"
+    },
+    "0286": {
+      "IMG-20250306-WA0350(1).jpg": "69e88ed33306841dcdfe96c402921c7d50115ff1886caf01eed8a505d8a550ef",
+      "PXL_20250306_084527966.PORTRAIT.jpg": "34ce7e555a48946c29613510fdddee746cd868785b897fa9679945c288221fa0"
+    },
+    "0287": {
+      "IMG-20250306-WA0452.jpg": "34566c996dc323a1dbcdaa7747ba39738bad18333622fb4463df3f7c88467c0a"
+    },
+    "0288": {
+      "IMG-20250307-WA0214.jpg": "af1ed81a8906c336eaaa882d0eccb4ab98570bb1c350c3cc1af2eccf68d3e9fe"
+    },
+    "0289": {
+      "IMG-20250307-WA0441.jpg": "2ce3b7ab9029624c37f4ed3923f79c7607541e3ed3b0e529f427ec93df882ebf"
+    },
+    "0290": {
+      "IMG-20250322-WA0123.jpg": "259cae03844778ceb47f1802e09a67e415aed7e649d446b60fe6c0afeb621152"
+    },
+    "0291": {
+      "IMG-20250402-WA0245.jpg": "fbf7d2beceec88815b6f75aba023793c2fe231e185a557e3c46f02caa965b1e2"
+    },
+    "0292": {
+      "IMG-20250402-WA0266.jpg": "91658129071dc25845015c7a6dc04fd91b7ab771713415fd7067fda3740449a9"
+    },
+    "0293": {
+      "IMG-20250402-WA0274.jpg": "ce812ab1a5fe11d0648526a3710b77c1a088d690344528f371252a3383a87bc7"
+    },
+    "0294": {
+      "IMG-20250402-WA0280.jpg": "473aa6994cd0af5a14cde6b5a8d44669a8fb4caca599f0f08bdd4a9438a71ed2"
+    },
+    "0295": {
+      "IMG-20250402-WA0281.jpg": "db9efe19491907b000ec35605b0bfe7d3663e8f7bd07f2f4d99ba276b0262d7e",
+      "IMG-20250402-WA0282.jpg": "7204395f1a3065fae38ec39a522934ec696ad69068cc0ab303ab93a20d4ad621"
+    },
+    "0296": {
+      "IMG-20250402-WA0289.jpg": "45041ff0ffc25c2ce2119c605958dc4e1cd8eb225fce7f84b63b13d3a63dfbc2"
+    },
+    "0297": {
+      "IMG-20250402-WA0301.jpg": "a87bef4f5221fbbe358759285bdff9f1b5accd41c88216f131894a0eacb2b0ed"
+    },
+    "0298": {
+      "IMG-20250402-WA0315.jpg": "5f93ffad1c786fa72704ac5f07aeaaf07d2a44bc3b289fb7d04d274cfc078e8e"
+    },
+    "0299": {
+      "IMG-20250402-WA0342.jpg": "f558ec30288d11cd790bb580c510e34bf26b2367ab0cbb40207e57d86f5855eb"
+    },
+    "0300": {
+      "IMG-20250402-WA0346.jpg": "5f57d870a95cc04aa7fd3451be774e396fb52ef45aef4726856703efdca370ec"
+    },
+    "0301": {
+      "IMG-20250402-WA0347.jpg": "879722ee5d17fc239f9f832c202118b1c33496d02a0ad83972880e80e4088b73"
+    },
+    "0302": {
+      "IMG-20250402-WA0358.jpg": "6ad4dcfe5bbacf5e98249ca60e8936f6e2564e3d71aa8ee490dd4a7c258af6ea"
+    },
+    "0303": {
+      "IMG-20250402-WA0373.jpg": "c578e03471bb1017b071b05077855bd9466865a86e2b990ce45fe5e4bea70143"
+    },
+    "0304": {
+      "IMG-20250402-WA0388.jpg": "8f283b9de2968eee50808911ca39bf94afbb2d8342318c54faf96155e7f41e70"
+    },
+    "0305": {
+      "IMG-20250402-WA0407.jpg": "50baa451f3d1acbd78f6de92ef75528cf37939c6224c3d02cc7d769c49500587"
+    },
+    "0306": {
+      "IMG-20250402-WA0529.jpg": "c4bd02d82abe8fcdc2e11c5c3bd2e5402dfc48f53042e5aca768751b3b4ee7a9"
+    },
+    "0307": {
+      "IMG-20250402-WA0564.jpg": "91793aed8a497ba7693ec1046cd291b4ae90bb64c44012522059ec4c1b2e5756"
+    },
+    "0308": {
+      "IMG-20250403-WA0136.jpg": "41532f77ee95ef3ff9670258ba17f7ce0527ebd87915afc6d54953c30468718e"
+    },
+    "0309": {
+      "IMG-20250404-WA0369.jpg": "1a00e198958d10f6dc7103e70a01e88ff6c88c7f369ab309d127dfde42f6a8a4"
+    },
+    "0310": {
+      "IMG-20250404-WA0397.jpg": "94969ef34593bbfb88ae6fe43902b8f052c06240253dfe97d0fa75b205b37e2e"
+    },
+    "0311": {
+      "IMG-20250404-WA0400.jpg": "ab141d1b18809d3904c5605480e53d1512a4016105f25483df058c12514f3eff"
+    },
+    "0312": {
+      "IMG-20250405-WA0070.jpg": "d931685efeceab9e524b714c8c149e4f86790c525e38821c18519d025ed4f262"
+    },
+    "0313": {
+      "IMG-20250405-WA0071.jpg": "b3c19a3ce46866a4d6e029213cc32d2798f24dbe94c0239f023241ccf48c5d14"
+    },
+    "0314": {
+      "IMG-20250405-WA0084.jpg": "57d46f62323fc4c8e5a8ad0c5a8ee01f446f6015c900067c3531d5c3c31eadfd"
+    },
+    "0315": {
+      "IMG-20250405-WA0110.jpg": "492d4c3cbc4c1bf801b7268a8be269fa197316e76a62d62030037e8acf0065d8"
+    },
+    "0316": {
+      "IMG-20250405-WA0133.jpg": "5a771408185789bbc245fa3da854e62e8005a8c6c9d15d893e5e07651e15fc28"
+    },
+    "0317": {
+      "IMG-20250405-WA0165.jpg": "1ed46cdbbeaaeab06f8af03f1cb33eb315e3250dcdd4e273399f5e3f5753f606"
+    },
+    "0318": {
+      "IMG-20250405-WA0166.jpg": "63ae10f42a98db83e94c5c40ef8c5d84dda349eb8d58810733d44c5410ee2147"
+    },
+    "0319": {
+      "IMG-20250405-WA0167.jpg": "c4e2436bf6a2d15c55593615f51d3c2c468cb012f89223b005ddcba67aad26ab"
+    },
+    "0320": {
+      "IMG-20250405-WA0180.jpg": "da56528a3e5d311d222e0bdec2a2d584581bc8809c15783144d53f809fce4404"
+    },
+    "0321": {
+      "IMG-20250405-WA0332.jpg": "8bb9b122b70927a059ebe37ca611a701c632b55fe82a550334eb861e82a3bb6c"
+    },
+    "0322": {
+      "IMG-20250405-WA0346.jpg": "cbc665356f3488c968f9d62e4e6742921365c29e1479f21723cfadfda510cfb4"
+    },
+    "0323": {
+      "IMG-20250405-WA0378.jpg": "33887790f0419c117a7a585ce5e325b3a058fdbdfd71f6067a91295f9b6a4a75"
+    },
+    "0324": {
+      "IMG-20250405-WA0396.jpg": "779d1b39894462388eecf481922a4a4f5a1c22d9698bf070880d4125245b1783"
+    },
+    "0325": {
+      "IMG-20250405-WA0407.jpg": "a6733b350cc28b36a5f9f4bdf5305419465aa1ae43c47c2a1cd81947b663d5a3"
+    },
+    "0326": {
+      "IMG-20250407-WA0151.jpg": "33bb770a01f025042a733e5e36f983f91ff0a583196bd7c538e986990c53e144"
+    },
+    "0327": {
+      "IMG-20250407-WA0292.jpg": "568720e8acd61af284507a6de94c246dcfd14717fea855f8851eeb629defebcb"
+    },
+    "0328": {
+      "IMG-20250407-WA0295.jpg": "b79c5aaf91c0cb6e81d40272de52353bf59e37c02311b1fa2b9c1108c496528c",
+      "IMG-20250407-WA0297.jpg": "4c5b877e78f531a5cb0cc5e5a6c3329391bbb6811227a1a78548016f9afac272"
+    },
+    "0329": {
+      "IMG-20250407-WA0296.jpg": "d26cb98b9db7fa3da10e2730f739336c88853651aa8028619766479ae18b3026"
+    },
+    "0330": {
+      "IMG-20250408-WA0128.jpg": "ea70ec7ed6c731bc9109f538452c86d9ca150d5115c38c701fb882748a08213a"
+    },
+    "0331": {
+      "IMG-20250408-WA0224.jpg": "659b0628c29f967bf704ef789e1e01736cd31dc6c9a38919f600bc7663407355"
+    },
+    "0332": {
+      "IMG-20250408-WA0235.jpg": "ee2b7c10e82a008de1273b8018887d73823bfb9c1dae53a989afae98775cb7c1"
+    },
+    "0333": {
+      "IMG-20250408-WA0242.jpg": "1e61f23891df771970fd90c1de9baca569297662074884a0d2dfc0dc0a965985"
+    },
+    "0334": {
+      "IMG-20250408-WA0268.jpg": "9bcf6b82e19cffb17fac23cab83634cdac87ebb3116be09246ea2ddef0ccacf5"
+    },
+    "0335": {
+      "IMG-20250408-WA0295.jpg": "6127800a31b33831296468d2e5d49361c2c4109f844363c6274437b6312c9aa3"
+    },
+    "0336": {
+      "IMG-20250408-WA0317.jpg": "ca2058183fe9ccb17ec602fb5468e92878dd7b40531c321d9e1f0801d4b0567c"
+    },
+    "0337": {
+      "IMG-20250409-WA0180.jpg": "e41e2e9de14b76886b6d241f42a65a443897c558f1d5734e9d88f037147cf0f9"
+    },
+    "0338": {
+      "IMG-20250409-WA0312.jpg": "a75d4b90db325d45c9606f9c355b3e4be8963aff4518de410942e9ddd14ee7be"
+    },
+    "0339": {
+      "IMG-20250409-WA0320.jpg": "ff49bed6e5f4d2708dfa5cb97f91ffdafb15234ba2ea644f33bb38c2f8334ce4"
+    },
+    "0340": {
+      "IMG-20250410-WA0139.jpg": "b2555409baf827fa06555c5088c90da206744442e81845f94787d65f653d361a"
+    },
+    "0341": {
+      "IMG-20250410-WA0298.jpg": "313b0236208af91ad7b4fc29113906a46fefdcba6a8e9083805857ad800b6e06"
+    },
+    "0342": {
+      "IMG-20250410-WA0340.jpg": "cb5a6f4bd1e596a50dde976a8ee63e16d950bd74c99671e28d3fa815c01e0609"
+    },
+    "0343": {
+      "IMG-20250410-WA0342.jpg": "01c4eab2c8e2aec293359864ff0077d4704972d71a701effb6c4ac3eb9fb8d54"
+    },
+    "0344": {
+      "IMG-20250410-WA0347.jpg": "0882ee31f2d14b52a40598f52f81247ad5ba3fe6cf9034b0ca51badcae3cd377"
+    },
+    "0345": {
+      "IMG-20250426-WA0111.jpg": "3b0850fe27cb9e59d45d8b1d9ab84b08eee9dd008484e76cd0550ffe2baf5595"
+    },
+    "0346": {
+      "IMG-20250426-WA0117.jpg": "bd0c33838fb23e7b89c178d25c14c03359c8945d8d90d0affe97cb1cc7389d48"
+    },
+    "0347": {
+      "IMG-20250426-WA0118.jpg": "f38b2ebe5c38114970d5dd3460035d4d13f426de28c9295738b673faf24df7db"
+    },
+    "0348": {
+      "IMG-20250426-WA0121.jpg": "69fd85533b872d6cd45a9c1aeb5412da63466736e02813d2d7699932255067c4"
+    },
+    "0349": {
+      "IMG-20250426-WA0122.jpg": "39b363cb62d847c6f2c73f8393ac512d247d2d06f72480bf97489f8b9cb6689b"
+    },
+    "0350": {
+      "IMG-20250426-WA0126.jpg": "5da109f3e2aa6e6611cd0c7256a9265a8472661b0c223652437e4039e348baee"
+    },
+    "0351": {
+      "IMG-20250426-WA0127.jpg": "6faf58bec59c73a3131eba5dd0d65be6898ed77c29d7226b162b4f737ae4d516",
+      "IMG-20250426-WA0129.jpg": "9e9d1de9b6f74ce631f97f87a55c941305924d2f424ddc6cde5b095003125662",
+      "IMG-20250426-WA0130.jpg": "5654d0fbd5ed033c54d01f46e73eef3190c208a3d5f44b5a81b89eb6da2253b6"
+    },
+    "0352": {
+      "IMG-20250426-WA0141.jpg": "77ca087a5117d2b76161c5e29094e348a112240af9a0523a1d4fe24bdacc2176",
+      "IMG-20250426-WA0142.jpg": "793207f7629bba696f0b1779550efc8387f60c0ab9793eacb0d86106947bf917"
+    }
+  },
+  "instructions": "Generate5new website-ready photos per wholeproduct/assortment; viewactualoriginals first; originalsuntouched.01White02lavendercreamStyled03Lifestyle04tightDetail05Promo. Preserveproductcountidentityshape/colors. SaveeachoutputimmediatelyrecordSHA+visualreview. Rename-0to-1onlyafterfivecheckedandoriginalhashesverified. Processup to10productsparallel. Keepcompletedimages; missingviewsonly. Commit/pushcheckpointsfrequently. Stoponhardquotaorblockedmoderationandpersistmissingviewlist; neverclaimunfinishedproductscomplete. Excludeearlierblocked0133fromthisbatch.",
+  "scope_note": "NEW queue0253\u20130352 only. Earlier incomplete0153\u20130252 queue retained separately; do not restart or mix queues."
+}

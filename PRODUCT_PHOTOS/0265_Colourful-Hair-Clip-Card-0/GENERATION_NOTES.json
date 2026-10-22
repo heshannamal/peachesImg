@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250304-WA0417.jpg": "81e3092260e571950eb37f93dbe24d49e67556e3d3554e78ac44f5a97fa37bdb"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-844d76b9-c083-47a7-9061-628fc8cafa10.png",
+      "prompt": "Faithful square website cataloguephoto of EXACT TEN small translucent mesh bow hairclips on ONE tallwhite backingcard in clear hanging sleeve, verticalrow. Original topbottom bow colours turquoise,hotpink,cream,mauve,paleyellow,palemint,orange,red,cream,lavender. Preserve every original colourful layered flower/rose centre: graywhite,yelloworange,pinkcyan,redgreen,graywhite,yellowcyan,mintyellow,pinkcyan,redgreen,mintyellow. Preserve10count, actual bowloop shapes/meshgoldedges, card and clearbag geometry. Remove hand/watch/shop/price overlay. Purewhite seamless background softshadow, entirecard fullyframed, no extras/text/inventedparts.",
+      "sha256": "aedd1d2df4b118e532bccb5bf6015d32fac0a09f4032234343fe176b9a95d502",
+      "checked": true,
+      "visual_review": "Ten mesh bowclips on originalcard/sleeve, correct bowcolour and flowercentre sequence; main bowshape/material/count preserved."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-edabfd0d-032b-4c76-967d-5b321068476c.png",
+      "prompt": "Faithful square styled website productphoto EXACT TEN small mesh bow hairclips ONE tallwhite backingcard clearhangingbag, verticalrow topbottom turquoise,hotpink,cream,mauve,paleyellow,palemint,orange,red,cream,lavender. Preserve original10count, meshbowloop goldedges, everylayeredflowerrosecentre exact sourcecolours, sleeve/card geometry, wholeassortmentONEproduct fullyinframe. Lavendercream studio background softshadow. Removehandwatchshoppriceoverlay only no newtext/extra clips/inventedparts.",
+      "sha256": "9dacdb294331cb7f9cb4bdaecc7e9a3b7f8bcb659eecb1dad9c96cf9c34f2154",
+      "checked": true,
+      "visual_review": "Ten mesh flower-centre bows in matching sourcecolour order and geometry on originalwhitecard/clearbag; lavendercream setting."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

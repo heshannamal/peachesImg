@@ -36,9 +36,25 @@
       "sha256": "1b9171673e7fc66a71b9af97d532f3203c1893fb71814c9ff257d3b0d7d538c9",
       "checked": false,
       "visual_review": "Rejected: macro invents bulky interlocking zipper teeth, source is low-profile pink sliding pouch seal. One corrective allowed."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-da4a7df6-d84a-42d7-9dcd-0d14200b3257.png",
+      "prompt": "Faithful tight closeup crop ONLY existing pink circular hanging handle ring and small adjacent clear pouch seam from source, with coloured fabric hair elastics beneath original transparentplastic. Preserve actual ORIGINAL pink ring and lowprofile sliding ziplock seal, DO NOT add interlocking zipper teeth, metal teeth or new slider mechanisms. Use exact source geometry as cropped photograph, not redesigned hardware. Most assortment croppedaway, no text.",
+      "sha256": "f86735f7ed3eb26521704c65c47e603438a759aa6738fbc1467fc8eec422a870",
+      "checked": true,
+      "visual_review": "Passed corrected tight crop actual pink ring/lowprofile sliding seal and adjacent fabric bands under clearpouch; no invented zipperteeth."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-e320df07-0b4f-4159-b64f-72e9cd933df0.png",
+      "prompt": "Preserve exact original THREE overlapping transparent rectangular zip pouches, each TWO compartments SIX visible compartments total filled with colourful small fabric hair elastics and flat snapclips. Keep original pink zipper slider rails and circular hanging loops, all existing cartoon girl/frog/cloud printed decorations, exact contents visible count/order/overlap and pouch proportions; do not unpack or invent hidden objects. Entire original assortment ONE product. Remove hand/watch/shop/old price only; no additional text or products. Full assortment lavendercream website promotional photo, accurate heading HAIR ACCESSORY PACKS and small PRODUCT COLLECTION.",
+      "sha256": "c91ebc3f05502f5dced4e33196054026b026ad82c1743affc023e07c62a574c6",
+      "checked": true,
+      "visual_review": "Passed full three pouch assortment six original filled compartments source graphics/pink zip shapes retained, accurate HAIR ACCESSORY PACKS heading."
     }
   ],
-  "status": "in_progress",
+  "status": "five images saved and visually checked",
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
   "originals_unchanged": true
 }

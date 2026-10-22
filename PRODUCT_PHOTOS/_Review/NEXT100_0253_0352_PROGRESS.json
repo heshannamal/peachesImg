@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-22T20:32:15.325923+00:00",
+  "updated_at": "2026-10-22T20:37:56.587638+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 44,
-  "partial_products": 11,
-  "pending_products": 45,
+  "completed_products": 48,
+  "partial_products": 10,
+  "pending_products": 42,
   "blocked_products": 0,
-  "saved_images": 250,
-  "checked_images": 245,
+  "saved_images": 274,
+  "checked_images": 265,
   "products": [
     {
       "product_id": "0253",
@@ -201,27 +201,45 @@
     },
     {
       "product_id": "0263",
-      "folder": "0263_Glitter-Hair-Claws-0",
-      "status": "partial",
-      "saved_images": 4,
-      "checked_images": 4,
+      "folder": "0263_Glitter-Hair-Claws-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png"
-      ],
-      "missing_images": [
+        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "five images saved and visually checked",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0264",
-      "folder": "0264_Mixed-Accessory-Display-0",
+      "folder": "0264_Mixed-Accessory-Display-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five images saved and visually checked",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0265",
+      "folder": "0265_Colourful-Hair-Clip-Card-0",
       "status": "partial",
       "saved_images": 2,
       "checked_images": 2,
@@ -236,25 +254,6 @@
       ],
       "review_needed_images": [],
       "notes_status": "in_progress",
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "0265",
-      "folder": "0265_Colourful-Hair-Clip-Card-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": null,
       "errors": [],
       "originals_unchanged": true
     },
@@ -547,14 +546,14 @@
       "product_id": "0281",
       "folder": "0281_Daisy-Hair-Clips-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
+      "saved_images": 3,
+      "checked_images": 3,
       "files": [
-        "New/01_White-Background.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
@@ -567,14 +566,14 @@
       "product_id": "0282",
       "folder": "0282_Character-Hair-Clips-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
+      "saved_images": 3,
+      "checked_images": 3,
       "files": [
-        "New/01_White-Background.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
@@ -931,21 +930,20 @@
     },
     {
       "product_id": "0301",
-      "folder": "0301_Colourful-Hair-Elastic-Packs-0",
-      "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
+      "folder": "0301_Colourful-Hair-Elastic-Packs-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
+        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "five images saved and visually checked",
       "errors": [],
       "originals_unchanged": true
     },
@@ -953,39 +951,47 @@
       "product_id": "0302",
       "folder": "0302_Pastel-Character-Hair-Clip-Pairs-0",
       "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
+      "saved_images": 5,
+      "checked_images": 4,
       "files": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": "in_progress",
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "0303",
-      "folder": "0303_Glow-Character-Accessories-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/05_Promotional.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0303",
+      "folder": "0303_Glow-Character-Accessories-0",
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 0,
+      "files": [
+        "New/01_White-Background.png"
+      ],
+      "missing_images": [
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "review_needed_images": [
+        "New/01_White-Background.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png"
+      ],
       "originals_unchanged": true
     },
     {
@@ -1361,7 +1367,26 @@
     },
     {
       "product_id": "0323",
-      "folder": "0323_Gold-Tone-Pendant-Necklaces-0",
+      "folder": "0323_Gold-Tone-Pendant-Necklaces-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five images saved and visually checked",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0324",
+      "folder": "0324_Colour-Pencil-Tubes-0",
       "status": "partial",
       "saved_images": 3,
       "checked_images": 3,
@@ -1371,26 +1396,6 @@
         "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": "in_progress",
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "0324",
-      "folder": "0324_Colour-Pencil-Tubes-0",
-      "status": "partial",
-      "saved_images": 2,
-      "checked_images": 2,
-      "files": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
-      ],
-      "missing_images": [
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
@@ -1745,15 +1750,15 @@
       "product_id": "0343",
       "folder": "0343_Plumeria-Hair-Clips-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
+      "saved_images": 4,
+      "checked_images": 4,
       "files": [
-        "New/01_White-Background.png"
-      ],
-      "missing_images": [
+        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png",
+        "New/04_Detail.png"
+      ],
+      "missing_images": [
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
@@ -1764,20 +1769,27 @@
     {
       "product_id": "0344",
       "folder": "0344_Pastel-Hair-Accessories-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "status": "partial",
+      "saved_images": 3,
+      "checked_images": 1,
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
+        "New/03_Lifestyle.png"
+      ],
+      "missing_images": [
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
+      "review_needed_images": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png"
+      ],
       "notes_status": "in_progress",
-      "errors": [],
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png",
+        "unreviewed or unrecorded: 02_Styled-Background.png"
+      ],
       "originals_unchanged": true
     },
     {

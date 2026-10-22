@@ -12,8 +12,33 @@
       "sha256": "1efaaa9fc06dbbf2a7870d90dbb2e254b138f01770ca6e461ab41fa7501a849c",
       "checked": false,
       "visual_review": "Material failure: pink column shows only one bunny badge, two pink clips/badges omitted or merged vs original three. Single corrective attempt required."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-9eaa556c-4813-4811-9149-4b3e2403f62f.png",
+      "prompt": "EXACT TWELVE fluffy oval hair clips on FOUR white backing cards of THREE clips each inside original clear bag. Original four colour columns left-to-right beige, mauve pink, mint grey, lavender grey; each clip has existing purple bunny-costume character with white jumpsuit and painted face. Keep original diagonal arrangement, overlaps, exact12count, fur textures/colours, character shapes and printed cards/clear packaging. Whole assortment ONE product. CRITICAL COUNT CORRECTION: FOUR columns, EACH exactly THREE separate fluffy hair clips and THREE purple bunny badges. Beige3, pink3, mint3, lavender3. TWELVE bunny badges total. Do not merge pink column into one long strip, all THREE pink clips must each have badge. Same original diagonal layout and white cards/clear bag, pure white surroundings, remove hand/price/shop, no new text.",
+      "sha256": "a1cbbf6871ca3f9c6f1846ea6e45afa7730f73a65d07a64dcb6eb41a5a845c32",
+      "checked": false,
+      "visual_review": "Single corrective white view still shows only one pink bunny badge vs three in source pink column, total ten visible badges vs twelve. Material count error persists; no further white retry. Retain unchecked."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-2c81072d-1e7b-419c-8c6e-36cc8c8c7e5d.png",
+      "prompt": "EXACT TWELVE fluffy oval hair clips on FOUR white backing cards of THREE clips each inside original clear bag. Original four colour columns left-to-right beige, mauve pink, mint grey, lavender grey; each clip has existing purple bunny-costume character with white jumpsuit and painted face. Keep original diagonal arrangement, overlaps, exact12count, fur textures/colours, character shapes and printed cards/clear packaging. Whole assortment ONE product. EXACTLY TWELVE separate purple bunny badges:3beige,3pink,3mint,3lavender. Preserve original count, do not omit pink badges. Website styled photo on cream tabletop lavender studio background, softlight, original diagonalpack layout. Remove hand/shop/price no newtext.",
+      "sha256": "1e876a712d9bb5cf4b8efd57ed432da337f4b81b189acf85128adc91735fa850",
+      "checked": false,
+      "visual_review": "Styled view repeats source-count failure: only one purple bunny badge on pink column instead of three; ten visible vs twelve. Material error, retained unchecked. No styled corrective yet; same failure as corrected white."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-3661761d-4762-4700-bf9c-d47a67869359.png",
+      "prompt": "EXACT TWELVE fluffy oval hair clips on FOUR white backing cards of THREE clips each inside original clear bag. Original four colour columns left-to-right beige, mauve pink, mint grey, lavender grey; each clip has existing purple bunny-costume character with white jumpsuit and painted face. Keep original diagonal arrangement, overlaps, exact12count, fur textures/colours, character shapes and printed cards/clear packaging. Whole assortment ONE product. EXACT TWELVE original purple bunny badges,3percolour. Entire original diagonal arrangement lifestyle on cream dressing table softly blurred lavender room. Preserve original packaging and actual shapes/colours, remove hand/shop/price, no addedproducts/text.",
+      "sha256": "fed82a195585e9551984f6c8c3fcd18f7dbbceb0024dc66750228e1b11e53ed3",
+      "checked": true,
+      "visual_review": "Lifestyle retains twelve original furry clips with three bunny badges per beige/pink/mint/lavender column; lower pink badge partly occluded as original, original diagonal package/colours retained."
     }
   ],
   "status": "in_progress",
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "white_correction_attempts": 1
 }

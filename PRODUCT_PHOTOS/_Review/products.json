@@ -3581,27 +3581,31 @@
   },
   {
     "product_id": "0263",
-    "folder": "0263_Glitter-Hair-Claws-0",
+    "folder": "0263_Glitter-Hair-Claws-1",
     "source_image_ids": [
       271
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0264",
-    "folder": "0264_Mixed-Accessory-Display-0",
+    "folder": "0264_Mixed-Accessory-Display-1",
     "source_image_ids": [
       272
     ],
-    "new_images": 2,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0265",
@@ -3609,9 +3613,9 @@
     "source_image_ids": [
       273
     ],
-    "new_images": 0,
+    "new_images": 2,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -3821,7 +3825,7 @@
     "source_image_ids": [
       290
     ],
-    "new_images": 1,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3833,7 +3837,7 @@
     "source_image_ids": [
       293
     ],
-    "new_images": 1,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4074,15 +4078,17 @@
   },
   {
     "product_id": "0301",
-    "folder": "0301_Colourful-Hair-Elastic-Packs-0",
+    "folder": "0301_Colourful-Hair-Elastic-Packs-1",
     "source_image_ids": [
       314
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0302",
@@ -4090,7 +4096,7 @@
     "source_image_ids": [
       315
     ],
-    "new_images": 3,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4102,9 +4108,9 @@
     "source_image_ids": [
       316
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -4356,15 +4362,17 @@
   },
   {
     "product_id": "0323",
-    "folder": "0323_Gold-Tone-Pendant-Necklaces-0",
+    "folder": "0323_Gold-Tone-Pendant-Necklaces-1",
     "source_image_ids": [
       336
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0324",
@@ -4372,7 +4380,7 @@
     "source_image_ids": [
       337
     ],
-    "new_images": 2,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4621,7 +4629,7 @@
     "source_image_ids": [
       357
     ],
-    "new_images": 1,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4633,9 +4641,9 @@
     "source_image_ids": [
       358
     ],
-    "new_images": 0,
+    "new_images": 3,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },

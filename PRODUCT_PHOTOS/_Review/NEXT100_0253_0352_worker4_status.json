@@ -1,7 +1,7 @@
 {
   "status": "running",
-  "updated_at": "2026-10-22T02:28:11.268290+00:00",
-  "in_flight": 2,
+  "updated_at": "2026-10-22T20:34:28.101370+00:00",
+  "scope": "0313\u20130332",
   "products": [
     {
       "product_id": "0313",
@@ -9,7 +9,7 @@
       "saved": 5,
       "checked": 5,
       "complete": true,
-      "review_needed": []
+      "missing": []
     },
     {
       "product_id": "0314",
@@ -17,7 +17,7 @@
       "saved": 5,
       "checked": 5,
       "complete": true,
-      "review_needed": []
+      "missing": []
     },
     {
       "product_id": "0315",
@@ -25,7 +25,7 @@
       "saved": 5,
       "checked": 5,
       "complete": true,
-      "review_needed": []
+      "missing": []
     },
     {
       "product_id": "0316",
@@ -33,7 +33,7 @@
       "saved": 5,
       "checked": 5,
       "complete": true,
-      "review_needed": []
+      "missing": []
     },
     {
       "product_id": "0317",
@@ -41,12 +41,7 @@
       "saved": 5,
       "checked": 1,
       "complete": false,
-      "review_needed": [
-        "02_Styled-Background.png",
-        "01_White-Background.png",
-        "05_Promotional.png",
-        "03_Lifestyle.png"
-      ]
+      "missing": []
     },
     {
       "product_id": "0318",
@@ -54,55 +49,62 @@
       "saved": 5,
       "checked": 5,
       "complete": true,
-      "review_needed": []
+      "missing": []
     },
     {
       "product_id": "0319",
-      "folder": "0319_Pastel-Flower-Hair-Claws-0",
-      "saved": 0,
-      "checked": 0,
-      "complete": false,
-      "review_needed": []
+      "folder": "0319_Pastel-Flower-Hair-Claws-1",
+      "saved": 5,
+      "checked": 5,
+      "complete": true,
+      "missing": []
     },
     {
       "product_id": "0320",
-      "folder": "0320_Clear-Hair-Claw-Display-0",
-      "saved": 1,
-      "checked": 1,
-      "complete": false,
-      "review_needed": []
+      "folder": "0320_Clear-Hair-Claw-Display-1",
+      "saved": 5,
+      "checked": 5,
+      "complete": true,
+      "missing": []
     },
     {
       "product_id": "0321",
-      "folder": "0321_Hairbrush-And-Comb-Display-0",
-      "saved": 0,
-      "checked": 0,
-      "complete": false,
-      "review_needed": []
+      "folder": "0321_Hairbrush-And-Comb-Display-1",
+      "saved": 5,
+      "checked": 5,
+      "complete": true,
+      "missing": []
     },
     {
       "product_id": "0322",
-      "folder": "0322_Character-Folding-Combs-0",
-      "saved": 0,
-      "checked": 0,
-      "complete": false,
-      "review_needed": []
+      "folder": "0322_Character-Folding-Combs-1",
+      "saved": 5,
+      "checked": 5,
+      "complete": true,
+      "missing": []
     },
     {
       "product_id": "0323",
       "folder": "0323_Gold-Tone-Pendant-Necklaces-0",
-      "saved": 0,
-      "checked": 0,
+      "saved": 3,
+      "checked": 3,
       "complete": false,
-      "review_needed": []
+      "missing": [
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
     },
     {
       "product_id": "0324",
       "folder": "0324_Colour-Pencil-Tubes-0",
-      "saved": 0,
-      "checked": 0,
+      "saved": 2,
+      "checked": 2,
       "complete": false,
-      "review_needed": []
+      "missing": [
+        "03_Lifestyle.png",
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
     },
     {
       "product_id": "0325",
@@ -110,7 +112,13 @@
       "saved": 0,
       "checked": 0,
       "complete": false,
-      "review_needed": []
+      "missing": [
+        "01_White-Background.png",
+        "02_Styled-Background.png",
+        "03_Lifestyle.png",
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
     },
     {
       "product_id": "0326",
@@ -118,7 +126,13 @@
       "saved": 0,
       "checked": 0,
       "complete": false,
-      "review_needed": []
+      "missing": [
+        "01_White-Background.png",
+        "02_Styled-Background.png",
+        "03_Lifestyle.png",
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
     },
     {
       "product_id": "0327",
@@ -126,7 +140,13 @@
       "saved": 0,
       "checked": 0,
       "complete": false,
-      "review_needed": []
+      "missing": [
+        "01_White-Background.png",
+        "02_Styled-Background.png",
+        "03_Lifestyle.png",
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
     },
     {
       "product_id": "0328",
@@ -134,7 +154,13 @@
       "saved": 0,
       "checked": 0,
       "complete": false,
-      "review_needed": []
+      "missing": [
+        "01_White-Background.png",
+        "02_Styled-Background.png",
+        "03_Lifestyle.png",
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
     },
     {
       "product_id": "0329",
@@ -142,7 +168,13 @@
       "saved": 0,
       "checked": 0,
       "complete": false,
-      "review_needed": []
+      "missing": [
+        "01_White-Background.png",
+        "02_Styled-Background.png",
+        "03_Lifestyle.png",
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
     },
     {
       "product_id": "0330",
@@ -150,7 +182,13 @@
       "saved": 0,
       "checked": 0,
       "complete": false,
-      "review_needed": []
+      "missing": [
+        "01_White-Background.png",
+        "02_Styled-Background.png",
+        "03_Lifestyle.png",
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
     },
     {
       "product_id": "0331",
@@ -158,7 +196,13 @@
       "saved": 0,
       "checked": 0,
       "complete": false,
-      "review_needed": []
+      "missing": [
+        "01_White-Background.png",
+        "02_Styled-Background.png",
+        "03_Lifestyle.png",
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
     },
     {
       "product_id": "0332",
@@ -166,25 +210,13 @@
       "saved": 0,
       "checked": 0,
       "complete": false,
-      "review_needed": []
+      "missing": [
+        "01_White-Background.png",
+        "02_Styled-Background.png",
+        "03_Lifestyle.png",
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
     }
-  ],
-  "unsaved_generation": "0319white tool returned image but no cachepath during exec transport disconnect; no matching newestcache found.",
-  "active_products": [
-    "0321",
-    "0322"
-  ],
-  "completed_products": [
-    "0313",
-    "0314",
-    "0315",
-    "0316",
-    "0318",
-    "0319",
-    "0320"
-  ],
-  "review_needed_products": [
-    "0317"
-  ],
-  "runtime_recovery": "0319white regenerated and saved after parentauthorized runtime recovery; previous unsaved attempt had no cache."
+  ]
 }

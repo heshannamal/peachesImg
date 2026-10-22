@@ -3501,7 +3501,7 @@
       264,
       265
     ],
-    "new_images": 3,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3721,7 +3721,7 @@
     "source_image_ids": [
       283
     ],
-    "new_images": 3,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3734,7 +3734,7 @@
       284,
       285
     ],
-    "new_images": 3,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3965,16 +3965,18 @@
   },
   {
     "product_id": "0295",
-    "folder": "0295_Pastel-Decorative-Hair-Clips-0",
+    "folder": "0295_Pastel-Decorative-Hair-Clips-1",
     "source_image_ids": [
       307,
       308
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0296",
@@ -3982,7 +3984,7 @@
     "source_image_ids": [
       309
     ],
-    "new_images": 3,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4242,7 +4244,7 @@
     "source_image_ids": [
       330
     ],
-    "new_images": 4,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4280,9 +4282,9 @@
     "source_image_ids": [
       333
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },

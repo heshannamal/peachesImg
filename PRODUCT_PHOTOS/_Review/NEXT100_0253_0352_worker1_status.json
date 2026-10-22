@@ -1,15 +1,28 @@
 {
-  "completed": [
+  "scope": "0253\u20130272",
+  "status": "paused_runtime_transport_error",
+  "completed_product_ids": [
     "0253",
-    "0254"
-  ],
-  "partial": {},
-  "in_flight": [],
-  "not_started": [
+    "0254",
     "0255",
-    "0256",
-    "0257",
-    "0258",
+    "0256"
+  ],
+  "partial": {
+    "0257": {
+      "saved_checked": 4,
+      "missing": [
+        "05_Promotional.png"
+      ]
+    },
+    "0258": {
+      "saved_checked": 3,
+      "missing": [
+        "04_Detail.png",
+        "05_Promotional.png"
+      ]
+    }
+  },
+  "pending_product_ids": [
     "0259",
     "0260",
     "0261",
@@ -24,5 +37,7 @@
     "0270",
     "0271",
     "0272"
-  ]
+  ],
+  "blocker": "Parallel detail response0258 lacked output_hint; exact error not retained due parsing failure.0257detail successful cache recovered. Parent reports backendtransportdisconnected. No new calls.",
+  "updated_at": "2026-10-22T02:14:46.746056+00:00"
 }

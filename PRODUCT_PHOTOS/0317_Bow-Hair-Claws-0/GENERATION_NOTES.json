@@ -1,7 +1,7 @@
 {
   "tool": "built-in image_gen",
   "whole_assortment": true,
-  "status": "in_progress",
+  "status": "review_needed",
   "original_hashes": {
     "Originals/IMG-20250405-WA0165.jpg": "1ed46cdbbeaaeab06f8af03f1cb33eb315e3250dcdd4e273399f5e3f5753f606"
   },
@@ -53,7 +53,16 @@
       "sha256": "3c867eba6f8fa2b24a3258b3795e70bbef1765d8028f69361d2c36855f7b01fb",
       "checked": true,
       "visual_review": "Standalone macro real pink tulipbud with ribbed petal and adjacent green veined leaf through clearbag; faithful sourcepart, no wholepack."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-51a494d0-00f6-47a0-bc55-b64917e5321a.png",
+      "prompt": "Edit reference to promotional product photograph. Preserve original two clear sleeves of green tulip hairclaws WITHOUT expanding arrangement. Exactly12 tulip buds visible, six per sleeve: left2dustypink2hotpink2apricot, right2yellow2purple2magenta. Originaloverlappinggreenjaws/leafshapes/colours/packaging. Lavender cream background small accurateheading TULIP HAIR CLAWS. Full originalassortmentoneproduct, no hand/price/shop. No extra budpair or new parts.",
+      "sha256": "65a77ac4eeee2e363dc69377f93273236403768ca07830b9a875396c3de867ac",
+      "checked": false,
+      "visual_review": "REVIEW NEEDED: heading accurate but sixteen buds vs original twelve, same persistent count expansion; retainunchecked without further retry. Real detailview is valid."
     }
   ],
-  "actual_subject": "Two packaged tulip hair claw sleeves. Reliable visible count twelve tulip buds total, six buds per sleeve; green jaws overlap so separate-claw pairing cannot be established confidently. Generated white has sixteen buds, eight per sleeve, exceeding source."
+  "actual_subject": "Two packaged tulip hair claw sleeves. Reliable visible count twelve tulip buds total, six buds per sleeve; green jaws overlap so separate-claw pairing cannot be established confidently. Generated white has sixteen buds, eight per sleeve, exceeding source.",
+  "plan_original_hashes_verified": true
 }

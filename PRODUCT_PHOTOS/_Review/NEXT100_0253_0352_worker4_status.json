@@ -1,7 +1,7 @@
 {
-  "status": "paused_runtime_recovery",
-  "updated_at": "2026-10-22T02:15:43.926409+00:00",
-  "in_flight": 0,
+  "status": "running",
+  "updated_at": "2026-10-22T02:28:11.268290+00:00",
+  "in_flight": 2,
   "products": [
     {
       "product_id": "0313",
@@ -169,5 +169,22 @@
       "review_needed": []
     }
   ],
-  "unsaved_generation": "0319white tool returned image but no cachepath during exec transport disconnect; no matching newestcache found."
+  "unsaved_generation": "0319white tool returned image but no cachepath during exec transport disconnect; no matching newestcache found.",
+  "active_products": [
+    "0321",
+    "0322"
+  ],
+  "completed_products": [
+    "0313",
+    "0314",
+    "0315",
+    "0316",
+    "0318",
+    "0319",
+    "0320"
+  ],
+  "review_needed_products": [
+    "0317"
+  ],
+  "runtime_recovery": "0319white regenerated and saved after parentauthorized runtime recovery; previous unsaved attempt had no cache."
 }

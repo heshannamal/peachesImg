@@ -1,0 +1,26 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250410-WA0139.jpg": "b2555409baf827fa06555c5088c90da206744442e81845f94787d65f653d361a"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-a46845b3-437c-44cf-bbee-f72eb2d3e3d2.png",
+      "prompt": "Exact original assortment FOUR wooden curved handleless fine-tooth combs side by side in individual clear bags with yellow Aishu headers. Preserve four count, honey/tan natural grain, original curved shapes, tooth spacing and black printed lettering, original overlaps and original clipped lower edges. Do not extrapolate additional teeth or complete cropped package parts. Edit reference into website product photo with pure white seamless surroundings and soft light, same front crop full visible assortment. Remove hand/shop/priceoverlay only, no extra objects/new text.",
+      "sha256": "5b2d324466199d6bdb798874f33d570699bc42f7c6680c6bf0f333d660b093d4",
+      "checked": true,
+      "visual_review": "Four wooden curved handleless combs matching main shapes, natural colour/grain, fine teeth and yellow-header bags. Minor tiny lettering/edge differences accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-24650e8f-406c-4637-a968-32ddbda50b1e.png",
+      "prompt": "Exact original assortment FOUR wooden curved handleless fine-tooth combs side by side in individual clear bags with yellow Aishu headers. Preserve four count, honey/tan natural grain, original curved shapes, tooth spacing and black printed lettering, original overlaps and original clipped lower edges. Do not extrapolate additional teeth or complete cropped package parts. Edit reference into website product photo on cream surface with lavender studio backdrop, original same visible front view entire assortment. Remove hand/shop/priceoverlay, soft light, no extra objects/text.",
+      "sha256": "442550f060dff01152f824f5d30fb38c5077b6c37bed122c0413b71f6f0f3f81",
+      "checked": false
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

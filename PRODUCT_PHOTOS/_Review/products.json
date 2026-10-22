@@ -3529,7 +3529,7 @@
     "source_image_ids": [
       267
     ],
-    "new_images": 2,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3541,7 +3541,7 @@
     "source_image_ids": [
       268
     ],
-    "new_images": 1,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3754,7 +3754,7 @@
     "source_image_ids": [
       286
     ],
-    "new_images": 2,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3766,7 +3766,7 @@
     "source_image_ids": [
       287
     ],
-    "new_images": 2,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4006,7 +4006,7 @@
     "source_image_ids": [
       310
     ],
-    "new_images": 3,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4018,7 +4018,7 @@
     "source_image_ids": [
       311
     ],
-    "new_images": 3,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4276,27 +4276,31 @@
   },
   {
     "product_id": "0319",
-    "folder": "0319_Pastel-Flower-Hair-Claws-0",
+    "folder": "0319_Pastel-Flower-Hair-Claws-1",
     "source_image_ids": [
       332
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0320",
-    "folder": "0320_Clear-Hair-Claw-Display-0",
+    "folder": "0320_Clear-Hair-Claw-Display-1",
     "source_image_ids": [
       333
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0321",
@@ -4304,9 +4308,9 @@
     "source_image_ids": [
       334
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -4533,9 +4537,9 @@
     "source_image_ids": [
       353
     ],
-    "new_images": 0,
+    "new_images": 2,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -4545,9 +4549,9 @@
     "source_image_ids": [
       354
     ],
-    "new_images": 0,
+    "new_images": 2,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-22T02:24:21.525174+00:00",
+  "updated_at": "2026-10-22T02:28:39.764047+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 24,
-  "partial_products": 10,
-  "pending_products": 66,
+  "completed_products": 26,
+  "partial_products": 11,
+  "pending_products": 63,
   "blocked_products": 0,
-  "saved_images": 150,
-  "checked_images": 143,
+  "saved_images": 168,
+  "checked_images": 161,
   "products": [
     {
       "product_id": "0253",
@@ -127,48 +127,40 @@
       "product_id": "0259",
       "folder": "0259_Clear-Printed-Hair-Claws-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 1,
+      "saved_images": 4,
+      "checked_images": 4,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [
-        "New/02_Styled-Background.png"
-      ],
+      "review_needed_images": [],
       "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 02_Styled-Background.png"
-      ],
+      "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0260",
       "folder": "0260_Dark-Printed-Hair-Claws-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 0,
+      "saved_images": 3,
+      "checked_images": 3,
       "files": [
-        "New/01_White-Background.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [
-        "New/01_White-Background.png"
-      ],
+      "review_needed_images": [],
       "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 01_White-Background.png"
-      ],
+      "errors": [],
       "originals_unchanged": true
     },
     {
@@ -479,15 +471,15 @@
       "product_id": "0277",
       "folder": "0277_Bow-Hair-Clips-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 2,
+      "saved_images": 4,
+      "checked_images": 4,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
@@ -499,15 +491,15 @@
       "product_id": "0278",
       "folder": "0278_Neutral-Bow-Hair-Clips-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 2,
+      "saved_images": 4,
+      "checked_images": 4,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
@@ -865,15 +857,15 @@
       "product_id": "0297",
       "folder": "0297_Decorative-Bracelet-Tubes-0",
       "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
+      "saved_images": 4,
+      "checked_images": 4,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png"
       ],
       "missing_images": [
-        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
@@ -885,15 +877,15 @@
       "product_id": "0298",
       "folder": "0298_Large-Fabric-Scrunchies-0",
       "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
+      "saved_images": 4,
+      "checked_images": 4,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png"
       ],
       "missing_images": [
-        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
@@ -1293,60 +1285,59 @@
     },
     {
       "product_id": "0319",
-      "folder": "0319_Pastel-Flower-Hair-Claws-0",
-      "status": "partial",
-      "saved_images": 4,
-      "checked_images": 4,
+      "folder": "0319_Pastel-Flower-Hair-Claws-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png"
-      ],
-      "missing_images": [
+        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "five images saved and visually checked",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0320",
-      "folder": "0320_Clear-Hair-Claw-Display-0",
-      "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
+      "folder": "0320_Clear-Hair-Claw-Display-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
+        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "five images saved and visually checked",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0321",
       "folder": "0321_Hairbrush-And-Comb-Display-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "missing_images": [
-        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },
@@ -1676,39 +1667,49 @@
     {
       "product_id": "0339",
       "folder": "0339_Heart-Hand-Mirrors-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "status": "partial",
+      "saved_images": 2,
+      "checked_images": 1,
+      "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
+        "New/02_Styled-Background.png"
+      ],
+      "missing_images": [
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "review_needed_images": [
+        "New/02_Styled-Background.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 02_Styled-Background.png"
+      ],
       "originals_unchanged": true
     },
     {
       "product_id": "0340",
       "folder": "0340_Wooden-Combs-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "status": "partial",
+      "saved_images": 2,
+      "checked_images": 1,
+      "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
+        "New/02_Styled-Background.png"
+      ],
+      "missing_images": [
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "review_needed_images": [
+        "New/02_Styled-Background.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 02_Styled-Background.png"
+      ],
       "originals_unchanged": true
     },
     {

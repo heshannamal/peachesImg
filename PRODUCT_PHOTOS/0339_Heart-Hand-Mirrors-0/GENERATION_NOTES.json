@@ -1,0 +1,26 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250409-WA0320.jpg": "ff49bed6e5f4d2708dfa5cb97f91ffdafb15234ba2ea644f33bb38c2f8334ce4"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-2e8360c6-ec8c-43f3-99bf-5847330041d8.png",
+      "prompt": "Exact entire original assortment FOUR packaged heart hand mirrors in original fan arrangement: mint leftback with Hello/girl print, lavender uppermiddleback Hello/girl print, pink rightback Hello/girlprint, cream lower front showing reflective heart surface and handle. Preserve four count, actual heart/handle shapes, colours, existing print, clear sleeves and original orientations/overlaps. Reflective cream mirror surface kept neutral with no invented scene; no hidden backs. Edit reference into website product photo with pure white seamless surroundings and soft light, same front crop full visible assortment. Remove hand/shop/priceoverlay only, no extra objects/new text.",
+      "sha256": "c8687b8155ced16186a08cfcfba4a40c5ce725afdc8cf1d57d2889c383e0589a",
+      "checked": true,
+      "visual_review": "Four heart mirrors preserved: mint/lavender/pink printed backs and cream reflective front in original fan arrangement, original sleeves. Neutral reflection removes shop without changing product."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-0ac90556-30e1-4dbd-aba7-296c7b1655d8.png",
+      "prompt": "Exact entire original assortment FOUR packaged heart hand mirrors in original fan arrangement: mint leftback with Hello/girl print, lavender uppermiddleback Hello/girl print, pink rightback Hello/girlprint, cream lower front showing reflective heart surface and handle. Preserve four count, actual heart/handle shapes, colours, existing print, clear sleeves and original orientations/overlaps. Reflective cream mirror surface kept neutral with no invented scene; no hidden backs. Edit reference into website product photo on cream surface with lavender studio backdrop, original same visible front view entire assortment. Remove hand/shop/priceoverlay, soft light, no extra objects/text.",
+      "sha256": "0b27415fb1495acd5367e447218425a574ac1d0a8d4ffec58de27db373410292",
+      "checked": false
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

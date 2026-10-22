@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250305-WA0452.jpg": "1a545d7b698b993fbb2024ecb21ff5550a95b1cdfb7e8848076f6b93dceceead"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-21f1edf0-ad27-4ad0-a72b-6acc5a53e042.png",
+      "prompt": "Faithful ecommerce photograph of ENTIRE original fanned overlapping assortment of individually packaged fabric tattoo arm sleeves as ONEproduct, not metalhairclips. Preserve exact visible sleevepackagecount, original spread/overlap, blackbeige tribal lettering/tiger motifs and red floral tattoo prints, cream hand-shaped cardstock ends and blacktopheaders clearplasticwrapping. Do not separate hiddenlayers, add sleeves, change designs or invent backs. Remove hand/arm/shop/priceoverlay only, preserve entire original visible arrangement. Purewhite seamless background softshadow fullassortment framed. No newtext or claims.",
+      "sha256": "3fd581c271bc2e088a244093f0f070725f1304e48be848a22bfd48798dd9cebc",
+      "checked": true,
+      "visual_review": "Comparedoriginalfannedtattoo-sleevepackages: original overlapped printeddesigns/tails/cardstockhands and packagearrangement preserved, no hiddenproducts expanded; actualsubject not folderlabel."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-33ae746e-9a42-45a4-82f7-b9d0a90c72ec.png",
+      "prompt": "Faithful ecommerce photograph of ENTIRE original fanned overlapping assortment of individually packaged fabric tattoo arm sleeves as ONEproduct, not metalhairclips. Preserve exact visible sleevepackagecount, original spread/overlap, blackbeige tribal lettering/tiger motifs and red floral tattoo prints, cream hand-shaped cardstock ends and blacktopheaders clearplasticwrapping. Do not separate hiddenlayers, add sleeves, change designs or invent backs. Remove hand/arm/shop/priceoverlay only, preserve entire original visible arrangement. Lavendercream studio background softshadow fullassortment framed. No newtext or claims.",
+      "sha256": "b81c06cb39f9692302ea6cd5b3fb8d7c273fda544faaf19aeebeecfef59ecc2c",
+      "checked": true,
+      "visual_review": "Original fullassortment count/overlap/actualsubject and major shapes/colours preserved in lavendercreamstudio; all expected frontclipmotifs or tattoo-pattern sleeves present."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

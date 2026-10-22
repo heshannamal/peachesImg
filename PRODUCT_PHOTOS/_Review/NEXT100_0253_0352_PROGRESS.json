@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-22T20:42:21.985392+00:00",
+  "updated_at": "2026-10-22T20:46:46.590085+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 53,
-  "partial_products": 9,
-  "pending_products": 38,
+  "completed_products": 55,
+  "partial_products": 11,
+  "pending_products": 34,
   "blocked_products": 0,
-  "saved_images": 292,
-  "checked_images": 284,
+  "saved_images": 311,
+  "checked_images": 303,
   "products": [
     {
       "product_id": "0253",
@@ -239,21 +239,20 @@
     },
     {
       "product_id": "0265",
-      "folder": "0265_Colourful-Hair-Clip-Card-0",
-      "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
+      "folder": "0265_Colourful-Hair-Clip-Card-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
+        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "five images saved and visually checked",
       "errors": [],
       "originals_unchanged": true
     },
@@ -261,39 +260,48 @@
       "product_id": "0266",
       "folder": "0266_Printed-Fabric-Headbands-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 2,
+      "saved_images": 4,
+      "checked_images": 3,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
+      "review_needed_images": [
+        "New/04_Detail.png"
+      ],
       "notes_status": "in_progress",
-      "errors": [],
+      "errors": [
+        "unreviewed or unrecorded: 04_Detail.png"
+      ],
       "originals_unchanged": true
     },
     {
       "product_id": "0267",
       "folder": "0267_Braided-Headbands-0",
-      "status": "pending",
-      "saved_images": 0,
+      "status": "partial",
+      "saved_images": 1,
       "checked_images": 0,
-      "files": [],
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "missing_images": [
-        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "review_needed_images": [
+        "New/01_White-Background.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png"
+      ],
       "originals_unchanged": true
     },
     {
@@ -584,38 +592,40 @@
     {
       "product_id": "0283",
       "folder": "0283_Pastel-Hair-Slide-Sets-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "status": "partial",
+      "saved_images": 2,
+      "checked_images": 2,
+      "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
+        "New/02_Styled-Background.png"
+      ],
+      "missing_images": [
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0284",
       "folder": "0284_Metal-Hair-Clips-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "status": "partial",
+      "saved_images": 2,
+      "checked_images": 2,
+      "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
+        "New/02_Styled-Background.png"
+      ],
+      "missing_images": [
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },
@@ -967,50 +977,41 @@
     },
     {
       "product_id": "0303",
-      "folder": "0303_Glow-Character-Accessories-0",
-      "status": "partial",
-      "saved_images": 3,
-      "checked_images": 2,
+      "folder": "0303_Glow-Character-Accessories-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
+        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [
-        "New/03_Lifestyle.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 03_Lifestyle.png"
-      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five images saved and visually checked",
+      "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0304",
       "folder": "0304_Character-Highlighter-Pens-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 1,
+      "saved_images": 4,
+      "checked_images": 4,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [
-        "New/02_Styled-Background.png"
-      ],
+      "review_needed_images": [],
       "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 02_Styled-Background.png"
-      ],
+      "errors": [],
       "originals_unchanged": true
     },
     {
@@ -1407,6 +1408,26 @@
       "product_id": "0325",
       "folder": "0325_Colourful-Hair-Claws-0",
       "status": "partial",
+      "saved_images": 4,
+      "checked_images": 4,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png"
+      ],
+      "missing_images": [
+        "New/05_Promotional.png"
+      ],
+      "review_needed_images": [],
+      "notes_status": "in_progress",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0326",
+      "folder": "0326_Pastel-Butterfly-Hair-Claws-0",
+      "status": "partial",
       "saved_images": 2,
       "checked_images": 2,
       "files": [
@@ -1420,25 +1441,6 @@
       ],
       "review_needed_images": [],
       "notes_status": "in_progress",
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "0326",
-      "folder": "0326_Pastel-Butterfly-Hair-Claws-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": null,
       "errors": [],
       "originals_unchanged": true
     },
@@ -1769,21 +1771,20 @@
       "product_id": "0344",
       "folder": "0344_Pastel-Hair-Accessories-0",
       "status": "partial",
-      "saved_images": 4,
-      "checked_images": 3,
+      "saved_images": 5,
+      "checked_images": 4,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png"
-      ],
-      "missing_images": [
+        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [
         "New/01_White-Background.png"
       ],
-      "notes_status": "in_progress",
+      "notes_status": "review_needed",
       "errors": [
         "unreviewed or unrecorded: 01_White-Background.png"
       ],
@@ -1793,13 +1794,13 @@
       "product_id": "0345",
       "folder": "0345_Hair-Gel-Assortment-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
+      "saved_images": 2,
+      "checked_images": 2,
       "files": [
-        "New/01_White-Background.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png"
       ],
       "missing_images": [
-        "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"

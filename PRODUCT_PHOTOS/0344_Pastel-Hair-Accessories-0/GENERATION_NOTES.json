@@ -52,10 +52,22 @@
       "sha256": "1a06d9230b7f939cead3fd1620bd94e082c98523f3f8110c4312b65f585fb2ae",
       "checked": true,
       "visual_review": "Single styled correction retained original twelve badge arrangement using passed lifestyle as auxiliary reference plus original; lower pink badges partly occluded as source. Four columns preserved, colours/materials match."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-2b302537-6d9f-4a47-a4fd-fec0687594fa.png",
+      "prompt": "Original first reference product identity, second correct twelve-badge arrangement. Preserve exact entire twelve furry purple-bunny hairclip assortment, four columns beige/mauvepink/mint/lavender,THREE bunnybadges per column including original partly occluded lowerpinkbadges. Same white cards,clearbag,diagonal layout and source shape/colours. Website promotional photo cream/lavender surround, small heading 'Plush Character Hair Clips' and 'PRODUCT COLLECTION'. No hand/shop/price, no extra products.",
+      "sha256": "f77a9a1633c89cda3e906fa9de37c0392b680b5f09ff0cdcb64def74a97823da",
+      "checked": true,
+      "visual_review": "Promotional view retains original twelve-character layout with three clips per beige/pink/mint/lavender column and original lower pink occlusion; same shape/material/colours, accurate Plush Character Hair Clips heading."
     }
   ],
-  "status": "in_progress",
+  "status": "review_needed",
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
   "white_correction_attempts": 1,
-  "styled_correction_attempts": 1
+  "styled_correction_attempts": 1,
+  "review_needed_views": [
+    "New/01_White-Background.png"
+  ],
+  "resume_note": "White corrective attempt exhausted; missing two pink badges. Other four views checked. Do not repeat white retry."
 }

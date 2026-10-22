@@ -1,0 +1,28 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250402-WA0342.jpg": "f558ec30288d11cd790bb580c510e34bf26b2367ab0cbb40207e57d86f5855eb"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-56a5de66-edf8-498c-852f-409e7b4b591d.png",
+      "prompt": "Edit original into website white seamless product photograph softshadow. Exact TWELVE translucent fivepetal plumeria flower hairclaws in TWO clear sleeves SIX each. Left top2 red/pink middle2 lavender bottom2 blue/green centers. Right top2 orange middle2 pale yellow bottom2 ivory white/yellow centers. Preserve original flowerpetalshape, plastic transparency, springs/teeth, packaging overlap and staggered arrangement. Full packaged assortment ONEproduct, no extra flowers or invented hiddenparts. Remove hand/watch/shop/old price only, no newtext.",
+      "sha256": "798b8e859ff5ea0a8e721fae858daf83b4f1c172d797fa866bd13f6ba28a15ff",
+      "checked": true,
+      "visual_review": "Compared original: twelve translucent fivepetal flower claws six each sleeve; red lavender blue left, orange yellow ivory right paired order, clear packaging/shape retained."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-8ecd596d-71d2-4d38-a105-3b6a9df4d975.png",
+      "prompt": "Edit original into website lavender and cream styled studio product photograph softshadow. Exact TWELVE translucent fivepetal plumeria flower hairclaws in TWO clear sleeves SIX each. Left top2 red/pink middle2 lavender bottom2 blue/green centers. Right top2 orange middle2 pale yellow bottom2 ivory white/yellow centers. Preserve original flowerpetalshape, plastic transparency, springs/teeth, packaging overlap and staggered arrangement. Full packaged assortment ONEproduct, no extra flowers or invented hiddenparts. Remove hand/watch/shop/old price only, no newtext.",
+      "sha256": "71a036c6a6154c67629ad207f81ecf554b554ab1fe0f3b45d2f548489f867ee2",
+      "checked": true,
+      "visual_review": "Passed exact twelve original translucent flower claws in paired colour order and two sleeves; packaging/rounded five petals and colours retained, lavendercream setting."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true
+}

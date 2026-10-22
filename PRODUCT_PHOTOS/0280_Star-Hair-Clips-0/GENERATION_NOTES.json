@@ -1,0 +1,20 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250305-WA0397.jpg": "1d38795fff84334499233bd5f174ff111d5be4644816c815c376837cb41e099f",
+    "Originals/IMG-20250305-WA0403.jpg": "545c6816aa6b7c73682056fda30f89065f0fc2ab55047f771f8a4e37da2a2785"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-245d4112-c593-4de9-94eb-7e808a0967a9.png",
+      "prompt": "Website-ready square ecommerce reference edit of ENTIRE assortment across BOTH photos as ONE product. Show TWO original clearpackets side by side, each THREE frontwhitecards THREE clips each,18front clips total. Firstpacket topblack middlebrown bottomcream: doubleoutline star clip, outlined heart clip, tripleheart clip. Secondpacket topcream middlebrown bottomblack: catface longclip, bowclip, doubleoutline star clip. Preserve exact reference cardorder colours actualcount shapes decorations packaging and rearpartial glimpses. Purewhite seamless background softshadow full original packetsvisible, removehandshopprice only no extra text or invented hidden pieces.",
+      "sha256": "75347aaaf6d1a4ebb79cf7c4841ab37d75866aab133c6e81dee690d3a1f2f2ef",
+      "checked": true,
+      "visual_review": "Compared both originals: two packets six front cards eighteen clips retained, correct double-star/heart/tripleheart and cat/bow/star motifs and blackbrowncream order; minor product-print differences accepted."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

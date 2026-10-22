@@ -3539,15 +3539,17 @@
   },
   {
     "product_id": "0260",
-    "folder": "0260_Dark-Printed-Hair-Claws-0",
+    "folder": "0260_Dark-Printed-Hair-Claws-1",
     "source_image_ids": [
       268
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0261",
@@ -3555,7 +3557,7 @@
     "source_image_ids": [
       269
     ],
-    "new_images": 1,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3567,9 +3569,9 @@
     "source_image_ids": [
       270
     ],
-    "new_images": 0,
+    "new_images": 2,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -3786,9 +3788,9 @@
       291,
       295
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -3799,9 +3801,9 @@
       289,
       292
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -4022,15 +4024,17 @@
   },
   {
     "product_id": "0298",
-    "folder": "0298_Large-Fabric-Scrunchies-0",
+    "folder": "0298_Large-Fabric-Scrunchies-1",
     "source_image_ids": [
       311
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0299",
@@ -4038,9 +4042,9 @@
     "source_image_ids": [
       312
     ],
-    "new_images": 0,
+    "new_images": 2,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -4050,9 +4054,9 @@
     "source_image_ids": [
       313
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -4316,7 +4320,7 @@
     "source_image_ids": [
       334
     ],
-    "new_images": 1,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4328,7 +4332,7 @@
     "source_image_ids": [
       335
     ],
-    "new_images": 1,
+    "new_images": 2,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4541,27 +4545,31 @@
   },
   {
     "product_id": "0339",
-    "folder": "0339_Heart-Hand-Mirrors-0",
+    "folder": "0339_Heart-Hand-Mirrors-1",
     "source_image_ids": [
       353
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0340",
-    "folder": "0340_Wooden-Combs-0",
+    "folder": "0340_Wooden-Combs-1",
     "source_image_ids": [
       354
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0341",

@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250304-WA0072.jpg": "34f7fa1cdcb301987bea2627b717d08c846b47ecfdac601fd84e3fadca830360"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-ce97e94d-e209-4a07-bc7c-8de2c8592b57.png",
+      "prompt": "Faithful square ecommerce photograph editing reference. EXACT TWELVE large transparent butterfly hairclaws in TWO clear sleeves SIX each, original staggered two columns six rows. Each column top-bottom magenta pink, cyan blue, orange amber, bright green, yellow, purple. Preserve actual wide tapered butterflywing contours, etched wing veins, silver hinges/springs, teeth, transparent plastic colours, packaging and arrangement. Whole assortment oneproduct fully inframe, original frontview. Remove hand/shop/price only. Pure white seamless background soft shadows, no added text, extra products or invented parts.",
+      "sha256": "91492a987a11087709f4d483a0203425affd94390eec02d28eeef470fe968e87",
+      "checked": true,
+      "visual_review": "Compared actual original with generated view: twelve transparent butterfly claws, six per packet, original colour order and main wing/hinge/teeth geometry and clear packaging retained. Requested background present."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-ca6c035a-9de3-4842-983f-ed4c099ccf68.png",
+      "prompt": "Faithful square website styled productphoto editing original. Exact TWELVE large transparent butterfly hairclaws in TWO clear sleeves SIX each, each column top-bottom magenta pink,cyan blue,orange amber,bright green,yellow,purple. Preserve original wide tapered wing contours/etched veins, silver hinges/springs/teeth, transparent plastic colours, packaging and arrangement. Entire assortment ONEproduct fullyframed on lavender and cream studio surface with softshadow. Remove hand/shop/oldprice only. No newtext, extra products or invented parts.",
+      "sha256": "5d3fcc159d3775f2445e853d111d0e831b1ab4992fa5f172a738ec418c0d2e1f",
+      "checked": true,
+      "visual_review": "Compared with original: twelve butterfly hairclaws six per clear packet, matching original colour sequence, main shapes and materials. Requested lifestyle/styled setting present; slight light-dependent transparent colour variation acceptable."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

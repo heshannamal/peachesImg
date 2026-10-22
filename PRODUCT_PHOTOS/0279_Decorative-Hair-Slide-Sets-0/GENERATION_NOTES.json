@@ -1,0 +1,21 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250305-WA0396.jpg": "0080d89da49c9cc8aceaafa3368b8800d342c143d7fc4ead975743c8ec105ced",
+    "Originals/IMG-20250305-WA0400.jpg": "1c450c40c35479c10e985dcf089e6e4ffc0cf33ad62c845b8566ae681739fe75",
+    "Originals/IMG-20250305-WA0406.jpg": "db7f4ae8a43c52c02e00e197a0cd6629e2e4a0850500f58f027473d656ba5273"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-ea2ef10f-6a1d-4712-982e-5fca33d845b1.png",
+      "prompt": "Website-ready square ecommerce reference edit of ENTIRE assortment across ALL THREE reference photos as ONE product. Show three original clear packets side by side, each with THREE front white cards and THREE clips per card,27 front clips total. First packet cream/brown/black rows: plain long wavy clip, fivepetal flower clip, polkadot bow clip. Second packet threecards each three bearface clips cream/tan/black. Third packet threecards each black plain crossedclip, Kuromi-letter clip, pinkbow jesterface clip. Preserve exact original clip shapes, count,colour,decoration and all packaging/rear partial glimpses. No invented hidden pieces. Purewhite seamless background softshadow full threepacket assortment visible; remove hand/shop/priceoverlays only, no newtext.",
+      "sha256": "93fd03c7ecdd28d0b9afe5fe0b6fb22a27da884819c639332d5fddfb147edd17",
+      "checked": true,
+      "visual_review": "Compared with three originals: all three packets, nine cards and27 front clips retained with correct plain/flower/bow, bear and black jester designs, colour rows and shapes. Minor label typography accepted."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

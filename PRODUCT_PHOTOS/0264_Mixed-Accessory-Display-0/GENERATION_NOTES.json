@@ -1,0 +1,19 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250304-WA0108.jpg": "a41fbc7c30df1c6710cce879961d5b47e20f8dcd0be923d788721ee7dbf7b6b3"
+  },
+  "records": [
+    {
+      "saved_file": "Rejected/01_White-Background-cropped-edge.png",
+      "source_output": "/workspace/generated_images/exec-cf6d6bd9-a7aa-4291-945f-da95ecefb3fb.png",
+      "prompt": "Faithful website catalogue edit of ENTIRE exact original cropped two-shelf display of packaged flower hair accessories as ONE assortment. Keep EVERY visible bag of yellow white pink blue plumeria flower headbands across top shelf and every transparent box of fabric floral headbands below, EXACT original positions/count/overlap/occlusion/colours and clippededges. Do not simplify, rearrange, add or expand hidden products. Preserve supporting white shelf and exact crop. Remove tiny shelfprice stickers and improve neutralbrightstudio lighting with clean white surround outside original display. No new text, extra flowers, inventedparts or collage.",
+      "sha256": "c6c2944159ac43e12a58f1ab674765e2b6d8b6a2b2ddfd536e55fa4d037d4800",
+      "checked": false,
+      "visual_review": "Main display retained but cropped rightmost bag was removed, material assortment omission. One corrective attempt to preserve exact original crop including edge bag."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

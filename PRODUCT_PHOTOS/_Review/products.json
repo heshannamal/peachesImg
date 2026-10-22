@@ -3585,7 +3585,7 @@
     "source_image_ids": [
       271
     ],
-    "new_images": 1,
+    "new_images": 2,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3786,17 +3786,19 @@
   },
   {
     "product_id": "0279",
-    "folder": "0279_Decorative-Hair-Slide-Sets-0",
+    "folder": "0279_Decorative-Hair-Slide-Sets-1",
     "source_image_ids": [
       288,
       291,
       295
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0280",
@@ -3805,7 +3807,7 @@
       289,
       292
     ],
-    "new_images": 3,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4056,15 +4058,17 @@
   },
   {
     "product_id": "0300",
-    "folder": "0300_Plush-Character-Headbands-0",
+    "folder": "0300_Plush-Character-Headbands-1",
     "source_image_ids": [
       313
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0301",
@@ -4072,9 +4076,9 @@
     "source_image_ids": [
       314
     ],
-    "new_images": 0,
+    "new_images": 2,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -4084,9 +4088,9 @@
     "source_image_ids": [
       315
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -4336,15 +4340,17 @@
   },
   {
     "product_id": "0322",
-    "folder": "0322_Character-Folding-Combs-0",
+    "folder": "0322_Character-Folding-Combs-1",
     "source_image_ids": [
       335
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0323",
@@ -4352,9 +4358,9 @@
     "source_image_ids": [
       336
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -4585,7 +4591,7 @@
     "source_image_ids": [
       355
     ],
-    "new_images": 2,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4597,7 +4603,7 @@
     "source_image_ids": [
       356
     ],
-    "new_images": 2,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",

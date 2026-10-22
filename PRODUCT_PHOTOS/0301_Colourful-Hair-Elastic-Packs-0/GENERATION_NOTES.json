@@ -1,0 +1,28 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250402-WA0347.jpg": "879722ee5d17fc239f9f832c202118b1c33496d02a0ad83972880e80e4088b73"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-c0ec4dd6-6e80-4ea2-baa4-85a58b31c13b.png",
+      "prompt": "Preserve exact original THREE overlapping transparent rectangular zip pouches, each TWO compartments SIX visible compartments total filled with colourful small fabric hair elastics and flat snapclips. Keep original pink zipper slider rails and circular hanging loops, all existing cartoon girl/frog/cloud printed decorations, exact contents visible count/order/overlap and pouch proportions; do not unpack or invent hidden objects. Entire original assortment ONE product. Remove hand/watch/shop/old price only; no additional text or products. Faithful website product photograph full original assortment purewhite seamless background softshadow.",
+      "sha256": "a251c98b2e15ffed161a1e9444636e0a20aaf6c764cf5441a6e0bd53e8af720e",
+      "checked": true,
+      "visual_review": "Passed three two-compartment clear pink-zip pouches, six filled sections with source girl/frog/cloud graphics, elastics/snaps and original overlap preserved."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-73930970-f7d4-43f6-a014-f570815f33bf.png",
+      "prompt": "Preserve exact original THREE overlapping transparent rectangular zip pouches, each TWO compartments SIX visible compartments total filled with colourful small fabric hair elastics and flat snapclips. Keep original pink zipper slider rails and circular hanging loops, all existing cartoon girl/frog/cloud printed decorations, exact contents visible count/order/overlap and pouch proportions; do not unpack or invent hidden objects. Entire original assortment ONE product. Remove hand/watch/shop/old price only; no additional text or products. Full original assortment faithful website studio product photograph on lavender cream background softshadow.",
+      "sha256": "214ef4a149f130335b5688e6f988e0c0a8c10c29e2068e602742dc8fd32ee845",
+      "checked": true,
+      "visual_review": "Passed three original two-compartment pouches and source elastic/clip contents with printed decorations, pink zip rails and loops; lavendercream surrounds, main identities retained."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true
+}

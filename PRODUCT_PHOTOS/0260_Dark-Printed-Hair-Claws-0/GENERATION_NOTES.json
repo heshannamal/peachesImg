@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250304-WA0065.jpg": "f485e2ebd55f86243a609fe8941c1c02eca81a9f655e9c917c3f88c5170c81b7"
+  },
+  "records": [
+    {
+      "saved_file": "Rejected/01_White-Background-count-error.png",
+      "source_output": "/workspace/generated_images/exec-b8339fec-e832-4fd8-8466-9c6f64c195d9.png",
+      "prompt": "Square website product photograph. Exact TWELVE glossy black butterfly hairclaws in TWO clear packets SIX each, original staggered diagonal2columns6rows. Preserve butterflywing contours, silver hinge springs/teeth, original shiny blackmaterial, exactcount12 and originalarrangement/overlap/packaging. Entire assortmentoneproduct. Removehandshoppriceoverlay nohiddennewparts or additionaltext. Purewhite seamlessbackground softshadow fullpackinframe.",
+      "sha256": "0a6a716878073321640b44ad18a956365a011c8ebd1bc8e54c8863a3c434d2c0",
+      "checked": false,
+      "visual_review": "Only tenblackbutterflyclaws fiveperpacket; source/requestrequires twelve sixperpacket. Onecorrectiveattempt."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-6fd0cbef-6ae4-4355-89da-6f20035e9816.png",
+      "prompt": "Square website product photograph. Exact TWELVE glossy black butterfly hairclaws in TWO clear packets SIX each, original staggered diagonal2columns6rows. Preserve butterflywing contours, silver hinge springs/teeth, original shiny blackmaterial, exactcount12 and originalarrangement/overlap/packaging. Entire assortmentoneproduct. Removehandshoppriceoverlay nohiddennewparts or additionaltext. CRITICAL COUNT: EXACT SIX complete butterfly claws down EACH packet: positions1,2,3,4,5,6 LEFT and1,2,3,4,5,6 RIGHT. Twelve total, NOT five each. Fit full twelve by reducing size or taller framing. Pure white seamlessbackground softshadow.",
+      "sha256": "8f3a4bd1fac04bd80671f72eceb05a4ecf20a15293f01056fd12941eba1c0410",
+      "checked": true,
+      "visual_review": "Countverifiedsixbutterflyclaws perstrip twelve total, originalmaterialcolourshape/clearpack retained.0260correctedwhite nowtwelve; badtenretainedRejected."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

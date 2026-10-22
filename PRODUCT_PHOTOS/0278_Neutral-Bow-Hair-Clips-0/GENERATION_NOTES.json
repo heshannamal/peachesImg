@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250305-WA0388.jpg": "08fa9af4eff03f579d33204150060dc2522669e4f20b7929990293b66832e1eb"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-184f9973-8420-4ce2-8232-fc60c005c9bc.png",
+      "prompt": "Single website product photograph of exact source packaged SIX four-lobed fabric butterfly/bow hairclips on THREE frontwhitecards, brownleft creamright on eachcard. Ribbedcorduroy with darkpolkadots and small gingham bowcenter, brownblackcheckedleft and blackwhitecheckedright. Preserveexact6clipcount, actual4wingloops, textures, colours, whiteprintedcards/clearbag and originalrearpartialclips/overlap. Remove hand/shop/30CARD sticker only. No extra clips/inventedhiddenparts/newtext. Pure white seamless studio background soft shadow fullpacketvisible.",
+      "sha256": "4fef6bb38af073bfc0ee9eabec837ff4ede087054c8418452ba7b2bc717f2c42",
+      "checked": true,
+      "visual_review": "Actual white output compared original: six frontclips on three cards, cream/brown count/order, four-lobed fabric forms and centredecorations retained; original partialrearcards/package preserved."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-fbe8c78e-b188-46d9-9703-27945231f42c.png",
+      "prompt": "Single website product photograph of exact source packaged SIX four-lobed fabric butterfly/bow hairclips on THREE frontwhitecards, brownleft creamright on eachcard. Ribbedcorduroy with darkpolkadots and small gingham bowcenter, brownblackcheckedleft and blackwhitecheckedright. Preserveexact6clipcount, actual4wingloops, textures, colours, whiteprintedcards/clearbag and originalrearpartialclips/overlap. Remove hand/shop/30CARD sticker only. No extra clips/inventedhiddenparts/newtext. Lavender and cream seamless studio background soft shadow entirepacketvisible. ONEimage no panels.",
+      "sha256": "40a6652e00f9abb9001f3b28dae9e3db02569847c41ad7e6a2d05f341a5c2a82",
+      "checked": true,
+      "visual_review": "Actual styled output viewed: six front clips on three cards and rear partials retained, cream/brown dotted ribbed fabric fourlobes and original flower/gingham centres preserved; lavendercream setting."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

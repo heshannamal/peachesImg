@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250305-WA0375.jpg": "f3a7007c9d370aa33297a5ce8f4bb25ce7efd182d63c49ae64e00a183ec0e719"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-8793a74f-33b5-4f4f-a606-609e272a9c9f.png",
+      "prompt": "Single website product photograph of exact source packaged SIX fabric butterfly/bow hair clips on THREE frontwhite cards2clips each: leftcream ribbedblackdot fabric, righttan ribbedbrowndot fabric. Each four rounded wingloops and glossy resin flower center with tiny redstrawberry/greenleaf; leftivoryflower rightbrownflower. Preserve original6clip count, exact wing shape, dottedcorduroytexture, centredecorations, clearpacket/whiteprintedcards and rearpartialcardglimpses, overlap. Remove hand/shop/30CARD sticker only. No extra clips/invented hiddenparts/newtext. Pure white seamless studio background soft shadow fullpacketvisible.",
+      "sha256": "2cca5bdecfb5667c057529dffc30eb6ca2fa259b6567f64ff5f1c06a5dfe4e50",
+      "checked": true,
+      "visual_review": "Actual white output compared original: six frontclips on three cards, cream/brown count/order, four-lobed fabric forms and centredecorations retained; original partialrearcards/package preserved."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-8adf71af-b328-41a2-99b4-2e8c4b5ecfcd.png",
+      "prompt": "Single website product photograph of exact source packaged SIX fabric butterfly/bow hair clips on THREE frontwhite cards2clips each: leftcream ribbedblackdot fabric, righttan ribbedbrowndot fabric. Each four rounded wingloops and glossy resin flower center with tiny redstrawberry/greenleaf; leftivoryflower rightbrownflower. Preserve original6clip count, exact wing shape, dottedcorduroytexture, centredecorations, clearpacket/whiteprintedcards and rearpartialcardglimpses, overlap. Remove hand/shop/30CARD sticker only. No extra clips/invented hiddenparts/newtext. Lavender and cream seamless studio background soft shadow entirepacketvisible. ONEimage no panels.",
+      "sha256": "d36e87d9acefaa80c2beb1b8345a06bde3d489a8a54de1a1ba9e3f06a1a4aa05",
+      "checked": true,
+      "visual_review": "Actual styled output viewed: six front clips on three cards and rear partials retained, cream/brown dotted ribbed fabric fourlobes and original flower/gingham centres preserved; lavendercream setting."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

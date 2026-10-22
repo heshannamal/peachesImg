@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-22T02:28:39.764047+00:00",
+  "updated_at": "2026-10-22T11:38:36.619850+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 26,
-  "partial_products": 11,
-  "pending_products": 63,
+  "completed_products": 30,
+  "partial_products": 9,
+  "pending_products": 61,
   "blocked_products": 0,
-  "saved_images": 168,
-  "checked_images": 161,
+  "saved_images": 178,
+  "checked_images": 169,
   "products": [
     {
       "product_id": "0253",
@@ -125,21 +125,20 @@
     },
     {
       "product_id": "0259",
-      "folder": "0259_Clear-Printed-Hair-Claws-0",
-      "status": "partial",
-      "saved_images": 4,
-      "checked_images": 4,
+      "folder": "0259_Clear-Printed-Hair-Claws-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png"
-      ],
-      "missing_images": [
+        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "five images saved and visually checked",
       "errors": [],
       "originals_unchanged": true
     },
@@ -147,39 +146,47 @@
       "product_id": "0260",
       "folder": "0260_Dark-Printed-Hair-Claws-0",
       "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
+      "saved_images": 5,
+      "checked_images": 4,
       "files": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": "in_progress",
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "0261",
-      "folder": "0261_Colourful-Printed-Hair-Claws-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/05_Promotional.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0261",
+      "folder": "0261_Colourful-Printed-Hair-Claws-0",
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 0,
+      "files": [
+        "New/01_White-Background.png"
+      ],
+      "missing_images": [
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "review_needed_images": [
+        "New/01_White-Background.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png"
+      ],
       "originals_unchanged": true
     },
     {
@@ -469,41 +476,39 @@
     },
     {
       "product_id": "0277",
-      "folder": "0277_Bow-Hair-Clips-0",
-      "status": "partial",
-      "saved_images": 4,
-      "checked_images": 4,
+      "folder": "0277_Bow-Hair-Clips-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png"
-      ],
-      "missing_images": [
+        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "complete",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0278",
-      "folder": "0278_Neutral-Bow-Hair-Clips-0",
-      "status": "partial",
-      "saved_images": 4,
-      "checked_images": 4,
+      "folder": "0278_Neutral-Bow-Hair-Clips-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png"
-      ],
-      "missing_images": [
+        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "complete",
       "errors": [],
       "originals_unchanged": true
     },
@@ -855,21 +860,20 @@
     },
     {
       "product_id": "0297",
-      "folder": "0297_Decorative-Bracelet-Tubes-0",
-      "status": "partial",
-      "saved_images": 4,
-      "checked_images": 4,
+      "folder": "0297_Decorative-Bracelet-Tubes-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png"
-      ],
-      "missing_images": [
+        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "complete",
       "errors": [],
       "originals_unchanged": true
     },
@@ -1344,19 +1348,20 @@
     {
       "product_id": "0322",
       "folder": "0322_Character-Folding-Combs-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "missing_images": [
-        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },
@@ -1668,23 +1673,23 @@
       "product_id": "0339",
       "folder": "0339_Heart-Hand-Mirrors-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 1,
+      "saved_images": 3,
+      "checked_images": 2,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [
-        "New/02_Styled-Background.png"
+        "New/03_Lifestyle.png"
       ],
       "notes_status": "in_progress",
       "errors": [
-        "unreviewed or unrecorded: 02_Styled-Background.png"
+        "unreviewed or unrecorded: 03_Lifestyle.png"
       ],
       "originals_unchanged": true
     },
@@ -1692,23 +1697,23 @@
       "product_id": "0340",
       "folder": "0340_Wooden-Combs-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 1,
+      "saved_images": 3,
+      "checked_images": 2,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [
-        "New/02_Styled-Background.png"
+        "New/03_Lifestyle.png"
       ],
       "notes_status": "in_progress",
       "errors": [
-        "unreviewed or unrecorded: 02_Styled-Background.png"
+        "unreviewed or unrecorded: 03_Lifestyle.png"
       ],
       "originals_unchanged": true
     },

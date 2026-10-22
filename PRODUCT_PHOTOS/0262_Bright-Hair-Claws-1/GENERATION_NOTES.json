@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250304-WA0072.jpg": "34f7fa1cdcb301987bea2627b717d08c846b47ecfdac601fd84e3fadca830360"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-ce97e94d-e209-4a07-bc7c-8de2c8592b57.png",
+      "prompt": "Faithful square ecommerce photograph editing reference. EXACT TWELVE large transparent butterfly hairclaws in TWO clear sleeves SIX each, original staggered two columns six rows. Each column top-bottom magenta pink, cyan blue, orange amber, bright green, yellow, purple. Preserve actual wide tapered butterflywing contours, etched wing veins, silver hinges/springs, teeth, transparent plastic colours, packaging and arrangement. Whole assortment oneproduct fully inframe, original frontview. Remove hand/shop/price only. Pure white seamless background soft shadows, no added text, extra products or invented parts.",
+      "sha256": "91492a987a11087709f4d483a0203425affd94390eec02d28eeef470fe968e87",
+      "checked": true,
+      "visual_review": "Compared actual original with generated view: twelve transparent butterfly claws, six per packet, original colour order and main wing/hinge/teeth geometry and clear packaging retained. Requested background present."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-ca6c035a-9de3-4842-983f-ed4c099ccf68.png",
+      "prompt": "Faithful square website styled productphoto editing original. Exact TWELVE large transparent butterfly hairclaws in TWO clear sleeves SIX each, each column top-bottom magenta pink,cyan blue,orange amber,bright green,yellow,purple. Preserve original wide tapered wing contours/etched veins, silver hinges/springs/teeth, transparent plastic colours, packaging and arrangement. Entire assortment ONEproduct fullyframed on lavender and cream studio surface with softshadow. Remove hand/shop/oldprice only. No newtext, extra products or invented parts.",
+      "sha256": "5d3fcc159d3775f2445e853d111d0e831b1ab4992fa5f172a738ec418c0d2e1f",
+      "checked": true,
+      "visual_review": "Compared with original: twelve butterfly hairclaws six per clear packet, matching original colour sequence, main shapes and materials. Requested lifestyle/styled setting present; slight light-dependent transparent colour variation acceptable."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-6658a098-cfaa-415b-b044-7071f454d50f.png",
+      "prompt": "Faithful square website lifestyle photograph editing original. Exact TWELVE large transparent butterfly hairclaws in TWO clear sleeves SIX each, eachcolumn topbottom magenta pink,cyan blue,orange amber,bright green,yellow,purple. Preserve original broad tapered butterflywing contours/etchedveins, silver springs/hinges/teeth, transparent plastic colours, clear packaging and arrangement. Entire assortmentONEproduct fullyvisible on creamdressingtable softlyblurredlavenderbedroom daylight. Remove hand/shop/oldprice only. No extra products/new text or inventedparts.",
+      "sha256": "12b3b15ca8ee44d8455c7becec8387f13cadbc7cf3e26dd68af5ae9fbf4e0211",
+      "checked": true,
+      "visual_review": "Twelve butterflyclaws six per packet in original colour order and widewing shapes; whole assortment on dressingtable, no additional products."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-a79f1330-4f31-4e27-a485-6c50e8443604.png",
+      "prompt": "Square standalone tight macro crop of actual transparent AMBER ORANGE butterfly hairclaw silver hinge spring and adjoining tapered veined wing edge visible in original. Preserve exact material/colour and realvisiblepart shapes. Softcream studio background, detail fills frame, not whole assortment, no invented hiddenparts or text.",
+      "sha256": "5353d45bedd1f4da982f098a0f641a1597089dd8ee5b8f6c074a062f45bcdaa0",
+      "checked": true,
+      "visual_review": "Standalone macro real amberorange butterfly wing and silverhingespring, source visible shapes/material/colour retained."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-8af747da-c737-4c00-9917-3df002799d55.png",
+      "prompt": "Faithful square website promotional photograph editing original. Exact TWELVE large transparent butterfly hairclaws TWO clear sleeves SIX each, eachcolumn topbottom magenta pink,cyan blue,orange amber,bright green,yellow,purple. Preserve original broad tapered butterflywing contours/etchedveins, silver springs/hinges/teeth, clearplastic colours, packaging and arrangement. Entire assortmentONEproduct fullyvisible withmargins on lavendercream background. Accurate smallheading Bright Butterfly Hair Claws and PRODUCT COLLECTION. Remove hand/shop/price, no extra products or invented parts.",
+      "sha256": "7af6764f91dbfcf79249a3ff669c07ee50788533274b2d95ee1584ed6167909c",
+      "checked": true,
+      "visual_review": "Twelve transparent butterflyclaws six per clearpacket in correct original colourorder/main shapes; accurate heading lavender background."
+    }
+  ],
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

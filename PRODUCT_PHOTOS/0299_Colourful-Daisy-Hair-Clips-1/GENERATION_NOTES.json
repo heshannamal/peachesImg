@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250402-WA0342.jpg": "f558ec30288d11cd790bb580c510e34bf26b2367ab0cbb40207e57d86f5855eb"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-56a5de66-edf8-498c-852f-409e7b4b591d.png",
+      "prompt": "Edit original into website white seamless product photograph softshadow. Exact TWELVE translucent fivepetal plumeria flower hairclaws in TWO clear sleeves SIX each. Left top2 red/pink middle2 lavender bottom2 blue/green centers. Right top2 orange middle2 pale yellow bottom2 ivory white/yellow centers. Preserve original flowerpetalshape, plastic transparency, springs/teeth, packaging overlap and staggered arrangement. Full packaged assortment ONEproduct, no extra flowers or invented hiddenparts. Remove hand/watch/shop/old price only, no newtext.",
+      "sha256": "798b8e859ff5ea0a8e721fae858daf83b4f1c172d797fa866bd13f6ba28a15ff",
+      "checked": true,
+      "visual_review": "Compared original: twelve translucent fivepetal flower claws six each sleeve; red lavender blue left, orange yellow ivory right paired order, clear packaging/shape retained."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-8ecd596d-71d2-4d38-a105-3b6a9df4d975.png",
+      "prompt": "Edit original into website lavender and cream styled studio product photograph softshadow. Exact TWELVE translucent fivepetal plumeria flower hairclaws in TWO clear sleeves SIX each. Left top2 red/pink middle2 lavender bottom2 blue/green centers. Right top2 orange middle2 pale yellow bottom2 ivory white/yellow centers. Preserve original flowerpetalshape, plastic transparency, springs/teeth, packaging overlap and staggered arrangement. Full packaged assortment ONEproduct, no extra flowers or invented hiddenparts. Remove hand/watch/shop/old price only, no newtext.",
+      "sha256": "71a036c6a6154c67629ad207f81ecf554b554ab1fe0f3b45d2f548489f867ee2",
+      "checked": true,
+      "visual_review": "Passed exact twelve original translucent flower claws in paired colour order and two sleeves; packaging/rounded five petals and colours retained, lavendercream setting."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-2906538b-3f77-43fb-8313-f4078e3f3d8c.png",
+      "prompt": "Edit original into website lifestyle website photograph entire packaged assortment on cream dressingtable, softly blurred lavender bedroom daylight softshadow. Exact TWELVE translucent fivepetal plumeria flower hairclaws in TWO clear sleeves SIX each. Left top2 red/pink middle2 lavender bottom2 blue/green centers. Right top2 orange middle2 pale yellow bottom2 ivory white/yellow centers. Preserve original flowerpetalshape, plastic transparency, springs/teeth, packaging overlap and staggered arrangement. Full packaged assortment ONEproduct, no extra flowers or invented hiddenparts. Remove hand/watch/shop/old price only, no newtext.",
+      "sha256": "fa548be06a3ef0bf25666e6350b37618e59f6fe1293863da5f89098c2585bbd1",
+      "checked": true,
+      "visual_review": "Passed twelve paired flower claws and original colour order, sleeves and geometry on dressingtable lifestyle; none omitted or duplicated."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-7e814cb8-2009-4c08-9b35-d940e90fca62.png",
+      "prompt": "Standalone tight macro crop ONLY existing lavender translucent fivepetal flower claw petal junction, glossy purple plastic and adjacent existing spring area under clear sleeve. Preserve actual source petal contours, material, colour and packaging. Most assortment cropped away. Website detail photo no added parts or text.",
+      "sha256": "49629c39b0f87a40a2a21f38554eac8d9abd092ade5e011b3255aaf812df99d2",
+      "checked": true,
+      "visual_review": "Passed tight real-part crop lavender translucent petal centre and adjacent existing clear claw/spring/wrapper geometry, no full-set thumbnail."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-ac7f3edc-a655-49c3-81bf-223dc308f411.png",
+      "prompt": "Edit original into website lavendercream promotional website photograph softshadow with accurate heading FLOWER HAIR CLAWS and small PRODUCT COLLECTION. Exact TWELVE translucent fivepetal plumeria flower hairclaws in TWO clear sleeves SIX each. Left top2 red/pink middle2 lavender bottom2 blue/green centers. Right top2 orange middle2 pale yellow bottom2 ivory white/yellow centers. Preserve original flowerpetalshape, plastic transparency, springs/teeth, packaging overlap and staggered arrangement. Full packaged assortment ONEproduct, no extra flowers or invented hiddenparts. Remove hand/watch/shop/old price only, no newtext.",
+      "sha256": "165c1dc14afe9e1dcb6637f7256ba95d396ad7679a50a2164288aad4935ab7fa",
+      "checked": true,
+      "visual_review": "Passed12flowerclaws with paired source colours, two sleeves and original flower shapes; accurate FLOWER HAIR CLAWS heading on lavendercream."
+    }
+  ],
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true
+}

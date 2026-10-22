@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250410-WA0340.jpg": "cb5a6f4bd1e596a50dde976a8ee63e16d950bd74c99671e28d3fa815c01e0609"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-51fbeb97-f890-4d68-b365-2d34afd98e98.png",
+      "prompt": "EXACT FOUR individually packaged rectangular fine-tooth handled combs in original diagonal fanned arrangement: lavender left, mint next, peach pink next, pale blue right. Preserve actual rounded rectangular tooth section, handle with large oval hole, fine teeth, original tiny cartoon prints and white AISHU backing cards/clear bags, exact colour order/count and overlap. Whole assortment ONE product. Edit reference into website-ready product photograph on pure white seamless surroundings, soft shadow, original same front view/crop, entire original visible assortment. Remove hand/watch/shop/old price overlay only, no new text or additional products.",
+      "sha256": "a09a25e9d44cf2d4dbb7fc369c0743da5db1b287163c346c38b0cffab9aed75b",
+      "checked": true,
+      "visual_review": "Exactly four pastel combs in original lavender/mint/peach/blue order with fine teeth, oval-hole handles, original cartoon motifs/cards/clear bags retained."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-6e53463c-b443-4a18-be49-d17048a6c1a5.png",
+      "prompt": "EXACT FOUR individually packaged rectangular fine-tooth handled combs in original diagonal fanned arrangement: lavender left, mint next, peach pink next, pale blue right. Preserve actual rounded rectangular tooth section, handle with large oval hole, fine teeth, original tiny cartoon prints and white AISHU backing cards/clear bags, exact colour order/count and overlap. Whole assortment ONE product. Edit reference into website-ready product photograph with cream tabletop and lavender studio background, soft shadow, original same front view/crop, entire original visible assortment. Remove hand/watch/shop/old price overlay only, no new text or additional products.",
+      "sha256": "be522e6f469458a8a3c1a2a060f7c8002a1550a8c9e45bf423314184b948adad",
+      "checked": true,
+      "visual_review": "Four packaged combs preserve lavender/mint/peach/blue colour order, same fine-tooth and oval-hole handle shapes and printed motifs."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

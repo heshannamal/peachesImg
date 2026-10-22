@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250409-WA0180.jpg": "e41e2e9de14b76886b6d241f42a65a443897c558f1d5734e9d88f037147cf0f9"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-757d0e64-0e57-49d2-b2b0-5092b9f3ac35.png",
+      "prompt": "Entire original clear packaged assortment of TWELVE silver cosmetic lip-cheek pencils, twelve coloured lipstick-like tips with clear sharpener caps, same red/pink/mauve tone order, silver barrels, red bottoms, black HUDA BEAUTY header and white ingredients sticker, retain exact original arrangement/count/material/shapes/labels; not school pencils. No new claims. Edit reference into clean white seamless website product photograph, full original package in frame. Remove hand/watch/priceoverlay/shop only, no extra objects, no added text.",
+      "sha256": "12c8f7f400363bbeac4e79aacfaebe4f6f60b86351058023a8732bb5e556e45f",
+      "checked": true,
+      "visual_review": "Twelve cosmetic pencils, tips/sharpenercaps, metallic barrels, shade order and black header/white sticker retained. Minor typography accepted; no new benefit claims."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-02af74ed-6d29-4dee-9937-6ea87ccf907b.png",
+      "prompt": "Entire original clear packaged assortment of TWELVE silver cosmetic lip-cheek pencils, twelve coloured lipstick-like tips with clear sharpener caps, same red/pink/mauve tone order, silver barrels, red bottoms, black HUDA BEAUTY header and white ingredients sticker, retain exact original arrangement/count/material/shapes/labels; not school pencils. No new claims. Edit reference into website product photograph on cream surface, lavender studio background soft light. Entire assortment fully framed. Remove hand/watch/oldprice/shop only. No extra objects/added text.",
+      "sha256": "639d815ec941464c6a2487f2c7009066345978f48c3aef63f8154b4e151700c3",
+      "checked": true,
+      "visual_review": "Twelve metallic lip pencils with clear sharpener caps and matching tone sequence; header/ingredient sticker and package retained. Minor typography differences accepted."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

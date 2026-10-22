@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250409-WA0312.jpg": "a75d4b90db325d45c9606f9c355b3e4be8963aff4518de410942e9ddd14ee7be"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-3c445231-506e-4984-8c2a-494bcedb22b5.png",
+      "prompt": "Entire original assortment FOUR individually packaged pastel handled combs on overlapping white AISHU cards, original top-to-bottom cream teeth lavenderhandle sunflower, lightblue teeth pinkhandle blueflower, pink teeth creamhandle pinktulip, lavender teeth bluehandle purpleflower. Same count4 toothshapes/handleholes/flowerornaments/colours/packaging and diagonal arrangement. Not hairclips. Edit reference into clean white seamless website product photograph, full original assortment in frame. Remove hand/watch/priceoverlay/shop only, no extra objects, no added text.",
+      "sha256": "7bef54c1fa1dfbab5a3676d2030869983ca87f032803b5e6ff2a26bccc679936",
+      "checked": true,
+      "visual_review": "Four pastel handled combs in matching colour/flower order on individual clear packaged cards, same count/toothshape/handleholes retained."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-e1174586-7f61-4444-a953-5aed867bf7d4.png",
+      "prompt": "Entire original assortment FOUR individually packaged pastel handled combs on overlapping white AISHU cards, original top-to-bottom cream teeth lavenderhandle sunflower, lightblue teeth pinkhandle blueflower, pink teeth creamhandle pinktulip, lavender teeth bluehandle purpleflower. Same count4 toothshapes/handleholes/flowerornaments/colours/packaging and diagonal arrangement. Not hairclips. Edit reference into website product photograph on cream surface, lavender studio background soft light. Entire assortment fully framed. Remove hand/watch/oldprice/shop only. No extra objects/added text.",
+      "sha256": "459d405fc9a23c4e4c1e83d94058a8c58537439e82153c66bd4e50332aa3ee5f",
+      "checked": true,
+      "visual_review": "Four packaged pastel combs, matching flower designs and colour order retained; same main shape and count."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

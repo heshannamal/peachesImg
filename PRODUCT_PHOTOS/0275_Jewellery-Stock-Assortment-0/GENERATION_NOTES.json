@@ -20,6 +20,21 @@
       "sha256": "0db7fe720f1b0cd495b05aa4669a3fe4b5acff714982d24308c9aa9973f8130f",
       "checked": true,
       "visual_review": "Viewed actual styled output against original: main product identities, count/stack arrangement, packaging and colours retained. Lavender/cream setting; minor fine detail differences accepted."
+    },
+    {
+      "saved_file": "Rejected/03_Lifestyle-collage.png",
+      "source_output": "/workspace/generated_images/exec-76a7f998-3207-481d-acfc-50fd9a90236a.png",
+      "prompt": "Edit source into square website-ready catalogue photo of ENTIRE original hair-accessory stock display assortment as oneproduct. Preserve exactly every visible stack of clear carded clip packs, bows, bears, hearts, cartoon snaps, plastic boxes and coloured accessory boxes, exact original positions/count/overlap/cropped edges. Do not expand hidden pieces, simplify stacks, rearrange or invent items. Replace only surrounding shop floor/background with seamless white studio surround and improve illumination. Retain supporting cartons where needed and all foreground products unchanged. No new text, no added products. Full original assortment shown. Lifestyle variant: the ENTIRE same original display on cream retail display platform, softly blurred lavender boutique behind, all original front products and cartons identical.",
+      "sha256": "e268ae3b3de75b50d0b3fb26317b0287c59871f6c43df96bab01cd3fa25a0109",
+      "checked": false,
+      "visual_review": "Rejected material view-type error: split collage duplicates assortment; one clean lifestyle corrective allowed."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-174374cc-4a14-4148-87a9-ff4141bd0c68.png",
+      "prompt": "ONE SINGLE photograph, no split panels or collage. Website lifestyle photo of original ENTIRE hairaccessory stock assortment in its exact source layout, stacks of carded clips/bows/bears/hearts in clearboxes and colouredaccessory boxes with supportingcartons. Preserve all visible originalobjects count,shapes,colours and overlap, do not expand hiddenitems. Place whole source display on cream retail platform in softly blurred lavender boutique. Source products fill frame. Remove shopfloor/distractions only. NO white-background inset, no duplicate display, no added products/text.",
+      "sha256": "26e76e8691382e50c3e99f9a3de44090a0efa9f6288c24f3daff7b474bf655c0",
+      "checked": false
     }
   ],
   "status": "in_progress",

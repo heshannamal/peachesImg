@@ -21,6 +21,21 @@
       "sha256": "0db02a293f9e59c22ca0dcf9713fcaaaca532a165be1a84c0ca101cb0fb5e9b0",
       "checked": true,
       "visual_review": "Viewed actual styled output against original: main product identities, count/stack arrangement, packaging and colours retained. Lavender/cream setting; minor fine detail differences accepted."
+    },
+    {
+      "saved_file": "Rejected/03_Lifestyle-collage.png",
+      "source_output": "/workspace/generated_images/exec-f1ce250b-51e6-42be-94e1-2d99d83b1b60.png",
+      "prompt": "Edit reference into website-ready white seamless photo of exact whole packaged pastel cat-face hairclip assortment on THREE visible front whitecards stacked vertically plus original clipped rearcards. Each frontcard has TWO small wavy snapclips with plaid catface charms and ONE long open-loop barrette: top pink/lavender snaps and green longbar, middle pink/mint snaps and lavender longbar, bottom blue/lavender snaps and pink longbar. Preserve exact9front clips, original rearpart glimpses/occlusion, colours, shapes, printed white cards and clearbag. Remove hand/shop/oldprice only. No added text/extra clips/invented hidden views. Lifestyle variant: same whole original packaged assortment on cream dressing table, softly blurred lavender bedroom behind, daylight no props/hands.",
+      "sha256": "5fc0a0eb662c5d21acb5174b70b92e8958c1d8092ec9f24dd5198d0e19454ba4",
+      "checked": false,
+      "visual_review": "Rejected material view-type error: split collage duplicates assortment; one clean lifestyle corrective allowed."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-8389b4e2-0409-4008-b4e5-2738d56f97c5.png",
+      "prompt": "ONE SINGLE photograph, no panels/collage/duplicatepack. Website lifestyle photo of exact source single clearpacket with three frontwhitecards stackedvertically. Each has2 catface plaidcharmsnapclips +1longloopbarrette; top pink/lavender+greenlong, middlepink/mint+lavenderlong, bottomblue/lavender+pinklong. Keep rearpartialclip glimpses originaloverlap/card/package and all9frontclips. Place entire ONE packet on creamdressingtable in softly blurred lavenderbedroom. Removehand/shop/price. No extra products/text/inset.",
+      "sha256": "175df9855ed79bf5d1837cb0aa63e2bcbe844465dddf40d3f283255461ef200f",
+      "checked": false
     }
   ],
   "status": "in_progress",

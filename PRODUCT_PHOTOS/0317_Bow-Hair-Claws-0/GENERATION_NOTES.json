@@ -1,7 +1,7 @@
 {
   "tool": "built-in image_gen",
   "whole_assortment": true,
-  "status": "review_needed",
+  "status": "in_progress",
   "original_hashes": {
     "Originals/IMG-20250405-WA0165.jpg": "1ed46cdbbeaaeab06f8af03f1cb33eb315e3250dcdd4e273399f5e3f5753f606"
   },
@@ -37,6 +37,22 @@
       "sha256": "225181f3325a728b4a52a7d00b53919d4015e4b7ec6d9bcc68a8138a2ccfce95",
       "checked": false,
       "visual_review": "REVIEW NEEDED: after allowed correction, sixteen buds remain instead of twelve (eight vs six per sleeve). Original overlapping green geometry expanded. No further retry for styled."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-7580af7b-610e-4088-8686-1a98e294cf58.png",
+      "prompt": "Faithfully edit original packaged tulip hair clips into lifestyle photo on cream dressing table, blurred lavender bedroom behind. Keep original two clearbags EXACTLY unchanged shape/overlaps/count, original twelve tulip buds SIX visible each bag: left two dusty pink, two hotpink, two apricot; right two yellow,two purple,two magenta. No added row of buds or clips. Whole two bags one assortment. Remove hand/shop/price only, no newtext.",
+      "sha256": "23e87b1c506d6fa6186aaec80239e2987cd509896e98c6c3c9f4b4f2a4f7d074",
+      "checked": false,
+      "visual_review": "REVIEW NEEDED: sixteen buds instead of twelve. No cosmetic retries; persistent material count failure across views, retain for review rather than consume corrective retry."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-ad5677a9-61e2-4fc3-8a0f-c0255f663a8d.png",
+      "prompt": "Standalone tight macro website product DETAIL crop of one original dusty pink sculpted tulip bud and green leaf/veined stem junction behind clear plastic. Preserve real original ribbed petal texture, colour and leafshape, no invented hidden parts. Do NOT show full assortment, no extra buds or text, remove oldprice.",
+      "sha256": "3c867eba6f8fa2b24a3258b3795e70bbef1765d8028f69361d2c36855f7b01fb",
+      "checked": true,
+      "visual_review": "Standalone macro real pink tulipbud with ribbed petal and adjacent green veined leaf through clearbag; faithful sourcepart, no wholepack."
     }
   ],
   "actual_subject": "Two packaged tulip hair claw sleeves. Reliable visible count twelve tulip buds total, six buds per sleeve; green jaws overlap so separate-claw pairing cannot be established confidently. Generated white has sixteen buds, eight per sleeve, exceeding source."

@@ -1,0 +1,19 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250305-WA0362.jpg": "953597bbeabc9cc551cd6caeca68b999b3536257b3e1a51a1ebb2f0886b88981"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-4f793175-23df-4d40-b2d8-7bc31453a3e2.png",
+      "prompt": "Edit source into square website-ready catalogue photo of ENTIRE original hair-accessory stock display assortment as oneproduct. Preserve exactly every visible stack of clear carded clip packs, bows, bears, hearts, cartoon snaps, plastic boxes and coloured accessory boxes, exact original positions/count/overlap/cropped edges. Do not expand hidden pieces, simplify stacks, rearrange or invent items. Replace only surrounding shop floor/background with seamless white studio surround and improve illumination. Retain supporting cartons where needed and all foreground products unchanged. No new text, no added products. Full original assortment shown.",
+      "sha256": "aca2fa7b4f3bac81de2d50ced307b4ef207d93d484651d7230752db19d67da35",
+      "checked": true,
+      "visual_review": "Compared actual output with original: main visible arrangement, subject forms and colours retained; minor fine print and dense stock-level detail differences accepted for website-ready quality."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

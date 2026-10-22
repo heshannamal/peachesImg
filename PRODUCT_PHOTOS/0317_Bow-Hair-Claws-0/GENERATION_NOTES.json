@@ -1,0 +1,17 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "status": "in_progress",
+  "original_hashes": {
+    "Originals/IMG-20250405-WA0165.jpg": "1ed46cdbbeaaeab06f8af03f1cb33eb315e3250dcdd4e273399f5e3f5753f606"
+  },
+  "records": [
+    {
+      "saved_file": "Rejected/01_White-Background_first.png",
+      "source_output": "/workspace/generated_images/exec-848dd66a-a9e7-4eef-8037-71c7f07a135c.png",
+      "sha256": "90f5aa9b9a477abbaa2e6db9346a02a984a717a1fe92a7b48312118314c3d8ab",
+      "checked": false,
+      "visual_review": "Rejected material count error: eight green jaw loops versus actual six (three per sleeve); first prompt incorrectly inferred twelve from buds/price."
+    }
+  ]
+}

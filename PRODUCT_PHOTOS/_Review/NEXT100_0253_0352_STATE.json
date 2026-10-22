@@ -1,16 +1,17 @@
 {
-  "updated_at": "2026-10-21T18:52:26.936054+00:00",
+  "updated_at": "2026-10-22T02:01:46.190465+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 10,
-  "partial_products": 4,
-  "pending_products": 86,
+  "completed_products": 12,
+  "partial_products": 9,
+  "pending_products": 79,
   "blocked_products": 0,
-  "saved_images": 63,
-  "checked_images": 55,
+  "saved_images": 78,
+  "checked_images": 78,
   "status": "running",
   "scope": "0253\u20130352 only",
   "max_active_products": 10,
   "started_at": "2026-10-21T18:35:15.529124+00:00",
-  "resume_note": "Separate helpers next100_0253_0352_checkpoint.py and watch.py. Preserve earlier0153\u20130252 checkpoint."
+  "resume_note": "User requested start now. Five workers resumed missing views and review existing partials.",
+  "resumed_at": "2026-10-22T01:58:39.747401+00:00"
 }

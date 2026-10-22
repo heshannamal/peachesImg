@@ -1,0 +1,20 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250305-WA0364.jpg": "c7a8784f3bc08f0758246866a8bfedf9a4f61487e69ce1ddd142eb8f8c08ac11",
+    "Originals/IMG-20250305-WA0366.jpg": "017ed387e44fc51f9babcafc387254388e3b7b97f435239e5685fcc54efeef55"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-fe208cbd-4a0e-4c2d-8af2-a3732f17dc2c.png",
+      "prompt": "Edit reference into website-ready white seamless photo of exact whole packaged pastel cat-face hairclip assortment on THREE visible front whitecards stacked vertically plus original clipped rearcards. Each frontcard has TWO small wavy snapclips with plaid catface charms and ONE long open-loop barrette: top pink/lavender snaps and green longbar, middle pink/mint snaps and lavender longbar, bottom blue/lavender snaps and pink longbar. Preserve exact9front clips, original rearpart glimpses/occlusion, colours, shapes, printed white cards and clearbag. Remove hand/shop/oldprice only. No added text/extra clips/invented hidden views.",
+      "sha256": "955cee3d3383e25105692a9428811a41cd405597ebd9e497d7b3db487d0f4f56",
+      "checked": true,
+      "visual_review": "Compared with original: three front cards, six cat-face snaps and three long loop barrettes plus rear partial clips retained; correct pastel colour order and package. Minor surface/print differences accepted."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

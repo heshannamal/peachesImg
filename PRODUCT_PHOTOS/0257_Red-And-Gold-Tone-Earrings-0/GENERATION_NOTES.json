@@ -1,0 +1,21 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250303-WA0451.jpg": "fe3be0a6fb2ffcce02c6793f935e235730183d1521c635d0bcc793bd7bee4f91",
+    "Originals/IMG-20250303-WA0457.jpg": "676821a84fd91a99d317cc0fd5414d8a54847abf6c549c5abafb3faff81e1ea2",
+    "Originals/IMG-20250303-WA0458.jpg": "547923f8f98316d45d30d3d3cbc219468424e6f7915984daad04aa48430aec15"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-2f49a1bb-4821-4dad-ad99-39ba77d118e4.png",
+      "prompt": "Website-ready square product photograph. Use ALL THREE attached source photographs as one complete product assortment: eighteen decorative gold-tone brooch pins on original white cards, three grouped strips side by side. LEFT strip exactly six paisley/leaf rhinestone pins with cream teardrop pearl dangles in original2columns3rows red/green/champagne/green/champagne/pink colours. MIDDLE strip six round open wreath pins with multicolour teardrop stones and clear rhinestones in original2columns3rows. RIGHT strip six round curved multicolour rhinestone and white-pearl wreath pins in original2columns3rows. Preserve visible shape and colours of each source design, original cards/clearwrappers, count18 total; no earrings or extra products. Remove hands, shop, prices. Pure white seamless background soft shadows; full entire three-strip assortment framed.",
+      "sha256": "707426e080d692b7a3042d5224d805bac7dd0d21b214163f9fafc99d86ff5ce2",
+      "checked": true,
+      "visual_review": "Compared with all actual sources: eighteen gold-tone brooch pins in three original six-card groups, main gemstone/pearl identity and colours retained. Minor rhinestone/packaging differences accepted."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

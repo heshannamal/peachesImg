@@ -1,0 +1,35 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250408-WA0295.jpg": "6127800a31b33831296468d2e5d49361c2c4109f844363c6274437b6312c9aa3"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-d5609142-2fc0-406e-9b9b-04cde6684ae0.png",
+      "prompt": "Edit reference into white-background website product photograph of whole clear packaged stack of seven pastel rainbow plush character zip pouches in original diagonal stacked layout, blue mint pink cream lavender fuzzy fabric, existing seven applique emblems red mouse silhouette, pink tiger face, blue crown, darker partly hidden motif, purple face, black character, blue round cat face, black zipper edges where visible; packaging retained. Exact actual original visible count, shapes, colours, material, arrangement and packaging preserved. Remove hand, wrist/watch, price overlay and shop background. Seamless white surface, product rests naturally with soft shadows. No invented parts, extra products, new designs or added text.",
+      "sha256": "4e37313c187df74b4c5ad72c26acbcf3ab3b5e756a7f659461484f96a88c54da",
+      "checked": true,
+      "visual_review": "Viewed white output: original pastel pouch stack/emblems and packaging / black ruffled scrunchie bundle maintained. Hand/watch and shop/price removed; dense scrunchie overlap prevents independent exact count but visible bundle layout matches."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-aa95ee3b-89d4-4f68-97d8-fe086dcfb541.png",
+      "prompt": "Edit the original into a square website product photo on a cream surface with soft lavender background. Preserve EXACT original clear-packaged diagonal stack of seven pastel rainbow plush zip pouches, same seven emblems/order/shapes/colours, black zip edges and packaging. Top red mouse emblem, pink tiger, blue crown, partly hidden dark motif, purple face, black character, bottom blue round cat. Entire assortment ONE product, fully framed, original overlaps no hidden invention. Remove hand/watch/shop/price only. Soft studio light, no added text or props.",
+      "sha256": "38fcdbbd89239b8b36e266e27a6d31deb75b2f4b0e5e0583360a1a25429e7453",
+      "checked": true,
+      "visual_review": "Compared displayed output against original: seven pastel pouch stack, same visible emblem sequence and black zips retained, packaging intact; shop/hand/price removed. Minor fabric differences accepted."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-a0302c8d-f0dd-4ee6-a7dd-80a2f81ca1ac.png",
+      "prompt": "Edit original into website lifestyle product photo, entire exact clear-packaged stack of seven pastel plush character zip pouches in original diagonal layout, emblems/order, colours, fuzzy texture, black zippers and packaging preserved. One assortment. Place on cream dressing table in softly blurred lavender room, no other products, soft daylight. Remove hand/watch/shop/price only, preserve visible overlaps and count no invented parts. Full stack in frame, no added text.",
+      "sha256": "951d38c59e1d3a8ce9424ec7b41c7d5e335141da6d8480eef971ebec537d4c9b",
+      "checked": true,
+      "visual_review": "Compared output with original: seven visible pastel pouches and emblems/order, black zips, clear packaging preserved, set on dressing table. Slight fabric and lighting differences acceptable."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

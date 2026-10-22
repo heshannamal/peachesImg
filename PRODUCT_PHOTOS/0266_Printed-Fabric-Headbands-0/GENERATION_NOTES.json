@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250304-WA0429.jpg": "f52a52eb5c51ef99a28cb55d378b4ff251416b9b9b5ce76abe67e921635f3e6e"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-69a7d206-55be-4124-9ebf-cef4e8fea8e0.png",
+      "prompt": "Faithful square website whitebackground cataloguephoto. Exact original package of TWELVE plastic flowerdecorated headbands nested as TWO rounded bundles, upperbundle pastel pink mintgreen black, lowerbundle red royalblue black. Preserve original visible headband counts, nested U-shaped hoops, mouldedflowerpetal ornaments and small teeth, same colourorder, overlaps/occlusion and clearbag. These are plasticflowerheadbands NOT printedfabric. Entire originalassortmentONEproduct fullyvisible. Removehandwatchshopprice andstocklabel only. Purewhite seamless backgroundsoftshadow. Do not unnest/rearrange or invent hidden pieces/text.",
+      "sha256": "4bbfd8ecd018046192b1b0a9b0a484fb7ae3dabd09db138e609e492caa99633a",
+      "checked": true,
+      "visual_review": "Compared visible original nested headband groups/hoops/flower ornaments and pink/mint/black upper/red/blue/black lowercolours: matching original overlap and visible counts retained. Hiddenindividualcount not independently enumerated; no material visible additions/omissions."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-ed279b3e-e14e-456a-bc3a-7b58a8aa66d0.png",
+      "prompt": "Faithful square styled website productphoto. Entire original packaged TWELVE plastic flowerheadbands nested in TWO bundles, upper pink mintblack lower red blueblack. Preserve exact original visible hoops/flowerornaments, nestedoverlap/occlusions/positions/colours/smallteeth and clearplasticbag. Do not unpack, simplify or inventhiddenparts. WholeassortmentONEproduct fullyvisible. Lavendercream studio backdropsoftshadow. Removehandwatchshopprice/stocklabel only, no newtext/extras.",
+      "sha256": "affd3d4289f191d86d6e0aa9fbcddf92ec3ab14c83b6feaa09dfe54a172edda2",
+      "checked": true,
+      "visual_review": "Original two nested flowerheadband groups, visible hoops/flowerornaments/colours/packaging retained in lavenderstudio. Hiddenindividualcount occluded in source; no visiblematerial additions."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

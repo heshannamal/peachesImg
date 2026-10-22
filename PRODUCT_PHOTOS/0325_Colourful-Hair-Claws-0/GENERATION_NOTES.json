@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250405-WA0407.jpg": "a6733b350cc28b36a5f9f4bdf5305419465aa1ae43c47c2a1cd81947b663d5a3"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-2d26c883-9c99-4a33-b392-502b31aa7597.png",
+      "prompt": "Faithful square website productphoto of exact ENTIRE packaged assortment TWENTYFOUR novelty bear-ear sunglasses, TWO longclearstrips TWELVE each, originalverticallayout. Leftstrip topfourpurple, middlefourpinkgreen, bottomfourorange/yellow; rightstrip topfourgrayblack, middlefourbrownamber, bottomfourbluepurplepink. Preserve24separate glasses, two rounded bearear protrusions/lens shape, original foldedtemplearms, gradients/colour/order/packaging/overlap. These are sunglasses NOT hairclaws. EntireassortmentONEproduct onwhite seamlessbackground softshadow. Removebottompriceblacktext overlayonly. No addeditems/text or hiddenparts.",
+      "sha256": "f078b2f9ac81310c61970af5ffd767cce0b9f73fb6b4b2e7cbbce147dbc5ddbf",
+      "checked": true,
+      "visual_review": "Two packagedstrips twelve sunglasses each retained, 24total: leftpurple/pinkgreen/orange and rightgray/brown/bluepurple groups, original bear-ear lensshapes/foldedarms/clearpackaging preserved. Price removed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-0cd7b1e4-4d2e-47b3-b952-ef38f030a7ba.png",
+      "prompt": "Faithful square website styled productphoto exact TWENTYFOUR bear-ear novelty sunglasses in TWO longclearstrips TWELVE each, originalverticallayout. Lefttopfourpurple/middlefourpinkgreen/bottomfourorange; righttopfourgrayblack/middlefourbrownamber/bottomfourbluepurplepink. Preserve24separate glasses, actualroundedbear-earprotrusions/lensshape/foldedarms/gradientcolours/order/packaging/overlap. WholeassortmentONEproduct, lavendercream studio surround softshadows. Removepriceoverlayonly no addedtext/extraglasses/newparts.",
+      "sha256": "9a1d209febff02f81d49f55dcb76fce1ce90e73caf5440ed7dc37b8b16862a01",
+      "checked": true,
+      "visual_review": "24sunglasses/two stripsoftwelve retained originalfourpercolourgroup sequence, bear-ear lenses, foldedarms and clearpackaging. Lavendercream styled background, no addedinventory."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

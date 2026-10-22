@@ -3613,7 +3613,7 @@
     "source_image_ids": [
       273
     ],
-    "new_images": 2,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3625,9 +3625,9 @@
     "source_image_ids": [
       274
     ],
-    "new_images": 0,
+    "new_images": 2,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -3821,27 +3821,31 @@
   },
   {
     "product_id": "0281",
-    "folder": "0281_Daisy-Hair-Clips-0",
+    "folder": "0281_Daisy-Hair-Clips-1",
     "source_image_ids": [
       290
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0282",
-    "folder": "0282_Character-Hair-Clips-0",
+    "folder": "0282_Character-Hair-Clips-1",
     "source_image_ids": [
       293
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0283",
@@ -4092,15 +4096,17 @@
   },
   {
     "product_id": "0302",
-    "folder": "0302_Pastel-Character-Hair-Clip-Pairs-0",
+    "folder": "0302_Pastel-Character-Hair-Clip-Pairs-1",
     "source_image_ids": [
       315
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0303",
@@ -4108,7 +4114,7 @@
     "source_image_ids": [
       316
     ],
-    "new_images": 1,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4120,9 +4126,9 @@
     "source_image_ids": [
       317
     ],
-    "new_images": 0,
+    "new_images": 2,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -4376,15 +4382,17 @@
   },
   {
     "product_id": "0324",
-    "folder": "0324_Colour-Pencil-Tubes-0",
+    "folder": "0324_Colour-Pencil-Tubes-1",
     "source_image_ids": [
       337
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0325",
@@ -4392,9 +4400,9 @@
     "source_image_ids": [
       338
     ],
-    "new_images": 0,
+    "new_images": 2,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -4625,15 +4633,17 @@
   },
   {
     "product_id": "0343",
-    "folder": "0343_Plumeria-Hair-Clips-0",
+    "folder": "0343_Plumeria-Hair-Clips-1",
     "source_image_ids": [
       357
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0344",
@@ -4641,7 +4651,7 @@
     "source_image_ids": [
       358
     ],
-    "new_images": 3,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4653,9 +4663,9 @@
     "source_image_ids": [
       359
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },

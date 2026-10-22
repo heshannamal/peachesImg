@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250402-WA0388.jpg": "8f283b9de2968eee50808911ca39bf94afbb2d8342318c54faf96155e7f41e70"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-b74a85e2-a2b0-4e07-86e3-c21723428eb3.png",
+      "prompt": "Faithful website edit of ENTIRE original character multicolour highlighter pen counter display ONEassortment. Preserve original rows SIXcolumns, exact visible pen count and overlapping rearheads, no invented hiddenpens. Six frontpens original blue/red/red/lavender/pink/pink strawberrycostume dollheads with greenleaves, winking spectacles faces; same clearcap highlighternibs and pastel stackedbarrel colours/printed stars. Retain original pink cardboard tray/large printed rabbit sign existing wording and graphics, originalperspective and occlusion. Remove hand/shop/side old priceoverlay only; no newclaims/parts or extra text. Full original display on purewhite seamless background softshadow.",
+      "sha256": "8412e4cf4e7cddd5a8a14f400148a4742417117f24927aac417a02bb66b22daf",
+      "checked": true,
+      "visual_review": "Passed original full highlighter display with six original frontpens blue red red lavender pink pink strawberry heads, same row overlaps, caps/barrels and printed tray/backing retained; hidden counts not asserted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-5302f966-39c0-471e-bf15-7fc0fc7e292e.png",
+      "prompt": "Faithful website edit of ENTIRE original character multicolour highlighter pen counter display ONEassortment. Preserve original rows SIXcolumns, exact visible pen count and overlapping rearheads, no invented hiddenpens. Six frontpens original blue/red/red/lavender/pink/pink strawberrycostume dollheads with greenleaves, winking spectacles faces; same clearcap highlighternibs and pastel stackedbarrel colours/printed stars. Retain original pink cardboard tray/large printed rabbit sign existing wording and graphics, originalperspective and occlusion. Remove hand/shop/side old priceoverlay only; no newclaims/parts or extra text. Full original display website studio photograph on lavendercream backdrop softshadow.",
+      "sha256": "1bc8bc972c1411a5fbb2087611d8d69fcdc1fbe6b4f4ae977421a7619a237f4c",
+      "checked": false
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true
+}

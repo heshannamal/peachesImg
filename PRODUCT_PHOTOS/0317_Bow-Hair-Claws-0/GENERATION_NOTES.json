@@ -1,7 +1,7 @@
 {
   "tool": "built-in image_gen",
   "whole_assortment": true,
-  "status": "in_progress",
+  "status": "review_needed",
   "original_hashes": {
     "Originals/IMG-20250405-WA0165.jpg": "1ed46cdbbeaaeab06f8af03f1cb33eb315e3250dcdd4e273399f5e3f5753f606"
   },
@@ -11,7 +11,33 @@
       "source_output": "/workspace/generated_images/exec-848dd66a-a9e7-4eef-8037-71c7f07a135c.png",
       "sha256": "90f5aa9b9a477abbaa2e6db9346a02a984a717a1fe92a7b48312118314c3d8ab",
       "checked": false,
-      "visual_review": "Rejected material count error: eight green jaw loops versus actual six (three per sleeve); first prompt incorrectly inferred twelve from buds/price."
+      "visual_review": "Rejected material count error: eight green jaw loops versus actual six (three per sleeve); first prompt incorrectly inferred twelve from buds/price.",
+      "prompt": "Edit reference to white seamless website product photo. Entire original assortment ONEproduct: exactly TWELVE green curved claw clips with sculpted tulip buds and leaves in TWO clear sleeves of SIX each. Left sleeve two dusty pink, two hot pink, two apricot yellow; right two bright yellow, two purple, two magenta. Preserve original staggered overlapping placement, tulip buds, green stems/leaves, actual spring jaw shape, colours and clear packaging. Keep all twelve, no extras. Remove hand, shop and old price sticker only. No text or props."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-a2aea611-3d9b-4b86-b2f5-bd4d6c2b6353.png",
+      "prompt": "Edit ORIGINAL reference faithfully into white-background catalogue photo. ACTUAL SIX GREEN TULIP HAIR CLAW CLIPS in two clear sleeves THREE CLIPS EACH. EACH single clip has two opposing tulip buds at its ends (12buds total); exactly SIX GREEN LOOP JAWS total. Left sleeve top dusty pink-bud clip, middle hotpink-bud clip, bottom apricot-bud clip. Right sleeve top yellow-bud clip, middle purple-bud clip, bottom magenta-bud clip. Preserve original three overlapping jaw loops per sleeve, bud colours, green leaves/springs/packaging. DO NOT add fourth clip/jaw/row in either sleeve. Same original view/crop. Remove hand/shop/price only, no text.",
+      "sha256": "bb9be8c9c1e846290e9b14b3eb6153d71452d625e634a6d5d8eacb6128731022",
+      "checked": false,
+      "visual_review": "REVIEW NEEDED: corrective white retains sixteen tulip buds, eight per sleeve versus source twelve/six per sleeve. No further retry for white."
+    },
+    {
+      "saved_file": "Rejected/02_Styled-Background_first.png",
+      "source_output": "/workspace/generated_images/exec-c38bfce4-c826-445c-92a5-3ef84ba5eeaf.png",
+      "sha256": "27c31c822fb00c41271076ab0b9c1410882670fc53822cecb38d9dbb118caebe",
+      "checked": false,
+      "visual_review": "Rejected styled:16buds vs12original.",
+      "prompt": "Edit reference faithfully: change only background to softly lit lavender/cream studio surface and remove hand/price/shop. Preserve EXACT original packaged tulip hairclaw arrangement without extrapolating: TWO clear sleeves, each contains THREE green jaws each with TWO tulip buds, total SIXclips/TWELVEbuds. Left dusty pink,hotpink,apricot threeclips; right yellow,purple,magenta threeclips. Maintain overlaps/green leaves/springs/colours. No extra row or clip. Website product photograph full pack, no added text."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-69a5ccc0-c6f2-4026-9b38-692ea7b63559.png",
+      "prompt": "Faithful edit ONLY backdrop and lighting of original photo: lavender cream product background, remove hand and old price. Preserve original TWO bags of green tulip claw clips EXACTLY, do not extrapolate. Count visible buds: LEFT exactly SIX buds (2 dusty pink,2hotpink,2apricot), RIGHT exactly SIX (2yellow,2purple,2magenta). TWELVE buds total. Keep original overlapping green jaws and packaging geometry unchanged. No fourth pair of buds in either bag; only3pairs each. Full two bags websitephoto, no extra text.",
+      "sha256": "225181f3325a728b4a52a7d00b53919d4015e4b7ec6d9bcc68a8138a2ccfce95",
+      "checked": false,
+      "visual_review": "REVIEW NEEDED: after allowed correction, sixteen buds remain instead of twelve (eight vs six per sleeve). Original overlapping green geometry expanded. No further retry for styled."
     }
-  ]
+  ],
+  "actual_subject": "Two packaged tulip hair claw sleeves. Reliable visible count twelve tulip buds total, six buds per sleeve; green jaws overlap so separate-claw pairing cannot be established confidently. Generated white has sixteen buds, eight per sleeve, exceeding source."
 }

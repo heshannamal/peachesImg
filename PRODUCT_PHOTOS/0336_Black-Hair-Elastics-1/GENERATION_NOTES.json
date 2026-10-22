@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250408-WA0317.jpg": "ca2058183fe9ccb17ec602fb5468e92878dd7b40531c321d9e1f0801d4b0567c"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-b6edc10d-54cf-478d-baeb-2b1774496d02.png",
+      "prompt": "Edit reference into white-background website product photograph of whole original bundle of twelve black charcoal fabric ruffled hair scrunchies, densely gathered rosette-like fabric loops in original overlapping roughly two-column bundle, retain exact shapes, black colour, woven fabric texture and count. Exact actual original visible count, shapes, colours, material, arrangement and packaging preserved. Remove hand, wrist/watch, price overlay and shop background. Seamless white surface, product rests naturally with soft shadows. No invented parts, extra products, new designs or added text.",
+      "sha256": "fec8ce6e40635bc693ad24894be0d9dad0af76d79dbcdf3e08f881feff6621c1",
+      "checked": true,
+      "visual_review": "Viewed white output: original pastel pouch stack/emblems and packaging / black ruffled scrunchie bundle maintained. Hand/watch and shop/price removed; dense scrunchie overlap prevents independent exact count but visible bundle layout matches."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-ad2dc7d4-63e6-407b-bf11-86239704bce1.png",
+      "prompt": "Edit the original into a square website product photo on a cream surface and soft lavender backdrop. Preserve ENTIRE original densely overlapping bundle of twelve black charcoal ruffled fabric hair scrunchies, same roughly two-column arrangement, rosette folds and texture. Preserve all visible loops, count, shape, black colour, overlap without inventing hidden parts. Whole assortment ONE product, fully framed. Remove hand/watch/shop/price. Soft light, no added text or extra products.",
+      "sha256": "74dca562bc928decd682811e394837af23926b455518926bf453c331603f4fe7",
+      "checked": true,
+      "visual_review": "Compared output with source: black ruffled scrunchie bundle retains dense original overlap, colour, woven folds and main silhouette. Individual hidden count cannot be independently counted; no material visible addition or omission."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-83441a2c-67a4-4ca2-b23e-81be398ff96c.png",
+      "prompt": "Edit original into website lifestyle product photo, entire exact dense bundle of twelve black charcoal ruffled fabric scrunchies with original roughly two-column overlap arrangement, all visible shapes/textures/colour preserved no invented hidden parts. One assortment on cream dressing table in softly blurred lavender room. Full bundle in frame, no other products, remove hand/watch/shop/price, soft daylight, no added text.",
+      "sha256": "e55409d2c373381973a98a42cdc574fdb75a3653eb1302dc489962abf16b64ba",
+      "checked": true,
+      "visual_review": "Source black ruffled bundle main silhouette and dense original overlap retained on dressing table. Tiny pink tag remains consistent with source. Hidden count not independently countable; no material visible identity/count error."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-dc7bb7fc-bd91-412c-b07c-9f041b61e91d.png",
+      "prompt": "Create a tight standalone macro crop ONLY a small region of the existing black ruffled scrunchie fabric in original: adjoining gathered woven black textile folds and stitched edges. Preserve actual material, black charcoal colour, texture, frayed ruffle cut edges. Detail only, not whole bundle. No added text, no invented hardware or parts, soft clear studio light website-ready.",
+      "sha256": "cbe270a900a9cc705087a2126a7eaac6360d422a223a5072937d99094c80250f",
+      "checked": true,
+      "visual_review": "Standalone close fabric crop matches source black woven ruffles/cut edges and gathered folds; no invented hardware. Detail view only."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-d8c620a5-1818-4e85-8fe9-c9fa2bc51ba5.png",
+      "prompt": "Create website promotional product photo editing original. Exact entire original dense roughly two-column bundle of twelve black charcoal ruffled fabric scrunchies, same visible overlap and silhouette, preserve count/shape/colour/woven texture with no invented hidden parts. Full assortment ONEproduct on cream surface lavender background with ample margins. Remove hand/watch/shop/oldprice. Add modest accurate heading 'Black Fabric Scrunchies' and smaller 'PRODUCT COLLECTION'. No other claims or prices, no extra products.",
+      "sha256": "03ee383bd2e39e7e128563448627ef39378c9d48f95942bb0c28e34b3fb76203",
+      "checked": true,
+      "visual_review": "Promo keeps original dense overlapping black woven ruffle bundle main count silhouette/colour, accurate Black Fabric Scrunchies heading. Hidden count not independently countable; no material visible omission/addition. Minor folds accepted."
+    }
+  ],
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

@@ -36,9 +36,27 @@
       "sha256": "3ca59f62b3c89d4a739bc04053b84e7cb70d1504030eed68036e3726a18a2aff",
       "checked": true,
       "visual_check": "Passed tight crop of source blue fluffy clips and two-ear rubber rabbit badges inside original wrapping; main shape colour texture retained."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-40485549-78f7-4765-8f31-dfa0891c0614.png",
+      "prompt": "Create faithful website promotional edit of reference. EXACT12 fluffy rectangular clips in two sleeves6each original colourpairs and arrangement. MOST IMPORTANT every rubber face badge has ONLY TWO ears projecting from its upper-right side as reference, other side has NO appendages. Do NOT createfour ears or add legs. Preserve source badge silhouette. Exact original hotpink/lavender/mint left, blue/yellow/palepink right. Wholeassortment lavendercream background with small accurate heading Pastel Character Hair Clips and PRODUCT COLLECTION. Remove hand/shop/price only.",
+      "sha256": "1925ee17b308086a38918d7c191840274309382c8ddb8f8a395dd7cba54418f7",
+      "checked": false,
+      "visual_review": "Corrective attempt retains correct twelve clips and most two-ear badges, but upper left hotpink badge still has four appendages rather than two ears. Material identity error remains; unchecked/review needed. Corrective retry allowance exhausted for this view."
     }
   ],
-  "status": "in_progress",
+  "status": "review_needed",
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
-  "originals_unchanged": true
+  "originals_unchanged": true,
+  "rejected": [
+    {
+      "saved_file": "Rejected/05_Promotional-initial-four-ears.png",
+      "source_output": "/workspace/generated_images/exec-9f95cca3-44b0-4fda-ba37-b008bacdffe4.png",
+      "prompt": "Exact TWELVE fluffy rectangular hair clips in TWO clear packets SIX each. Left column two hot pink two lavender two mint grey; right two blue two yellow two pale pink. Preserve each rubber rabbit monster face badge beige face wide grin eyes red nose upright TWO ears on same upper side and source colour, metal clips and clear packaging source arrangement. Entire assortment lavender cream promotional layout compact dark plum heading Pastel Character Hair Clips REQUIRED visible separate subtitle PRODUCT COLLECTION outside product. Website-ready faithful product photograph edit source. Remove hand watch shop old price only. No invented parts or other text.",
+      "sha256": "6b6f8652c2fb0302d9153bb3e35f146fb730f2ccc3fa28a10c9dccc131b42ca5",
+      "checked": false,
+      "visual_review": "Rejected: four ear-like appendages on most badges; source has two ears. One corrective attempt allowed."
+    }
+  ]
 }

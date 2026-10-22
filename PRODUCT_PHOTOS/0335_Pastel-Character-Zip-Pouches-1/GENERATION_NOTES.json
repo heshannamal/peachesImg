@@ -28,8 +28,25 @@
       "sha256": "951d38c59e1d3a8ce9424ec7b41c7d5e335141da6d8480eef971ebec537d4c9b",
       "checked": true,
       "visual_review": "Compared output with original: seven visible pastel pouches and emblems/order, black zips, clear packaging preserved, set on dressing table. Slight fabric and lighting differences acceptable."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-0e071b8c-4dd7-4a21-873c-6d967f065dba.png",
+      "prompt": "Create a tight standalone macro photograph cropping ONLY the real bottom blue round cat applique and surrounding pastel plush fabric visible on the bottom pouch in original, plus adjoining black zipper seam. Preserve actual embroidery shape, white face, blue outline, black whiskers and fuzzy pink/blue fabric, packaging sheen. Detail image only, no full assortment, no invented hidden parts or extra objects, no text, website-ready.",
+      "sha256": "d5ceb9dc58eab669002ec84d335244d2d4de0e330ac96d285e94eb808ea55cdf",
+      "checked": true,
+      "visual_review": "Standalone close crop of actual bottom blue-white embroidered cat face and adjoining plush/zip. Main applique identity, whiskers, blue border and fabric colours match original; no hidden parts invented."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-46fcbec9-cd71-44a7-939b-71927a31a9ff.png",
+      "prompt": "Create website promotional product photo editing original. Exact seven pastel plush character zip pouches in original diagonally stacked clearpackage, each same emblems/order blackzips/fuzzy pastel rainbow fabric/count/shape/colour retained. Full whole assortment ONEproduct on cream surface lavender background with ample margins. Remove hand/watch/shop/oldprice. Add modest accurate heading 'Pastel Zip Pouches' and smaller 'PRODUCT COLLECTION'. No other claims or prices, no extra products/hidden parts.",
+      "sha256": "25b27edbfc403653db282828a36ca8e3ef17abfdddd34751670295a991d68689",
+      "checked": true,
+      "visual_review": "Compared promo with original: seven pouch layers and visible emblems/colour order/packaging retained. Accurate Pastel Zip Pouches heading, no price. Minor fabric variation accepted."
     }
   ],
-  "status": "in_progress",
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
 }

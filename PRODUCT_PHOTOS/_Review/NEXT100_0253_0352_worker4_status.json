@@ -1,295 +1,173 @@
 {
-  "status": "in_progress",
-  "assigned": [
-    "0313",
-    "0314",
-    "0315",
-    "0316",
-    "0317",
-    "0318",
-    "0319",
-    "0320",
-    "0321",
-    "0322",
-    "0323",
-    "0324",
-    "0325",
-    "0326",
-    "0327",
-    "0328",
-    "0329",
-    "0330",
-    "0331",
-    "0332"
-  ],
-  "products": {
-    "0313": {
+  "status": "paused_runtime_recovery",
+  "updated_at": "2026-10-22T02:15:43.926409+00:00",
+  "in_flight": 0,
+  "products": [
+    {
+      "product_id": "0313",
       "folder": "0313_Animal-Hot-Water-Bottles-1",
       "saved": 5,
       "checked": 5,
       "complete": true,
-      "original_plan_hashes_verified": true,
-      "missing_or_unchecked": []
+      "review_needed": []
     },
-    "0314": {
+    {
+      "product_id": "0314",
       "folder": "0314_Character-Hot-Water-Bottle-Assortment-1",
       "saved": 5,
       "checked": 5,
       "complete": true,
-      "original_plan_hashes_verified": true,
-      "missing_or_unchecked": []
+      "review_needed": []
     },
-    "0315": {
+    {
+      "product_id": "0315",
       "folder": "0315_Metallic-Hair-Claws-1",
       "saved": 5,
       "checked": 5,
       "complete": true,
-      "original_plan_hashes_verified": true,
-      "missing_or_unchecked": []
+      "review_needed": []
     },
-    "0316": {
-      "folder": "0316_Heart-Stud-Earrings-0",
-      "saved": 3,
-      "checked": 2,
-      "complete": false,
-      "original_plan_hashes_verified": true,
-      "missing_or_unchecked": [
-        "03_Lifestyle",
-        "04_Detail",
-        "05_Promotional"
-      ]
+    {
+      "product_id": "0316",
+      "folder": "0316_Heart-Stud-Earrings-1",
+      "saved": 5,
+      "checked": 5,
+      "complete": true,
+      "review_needed": []
     },
-    "0317": {
+    {
+      "product_id": "0317",
       "folder": "0317_Bow-Hair-Claws-0",
-      "saved": 0,
-      "checked": 0,
+      "saved": 5,
+      "checked": 1,
       "complete": false,
-      "original_plan_hashes_verified": true,
-      "missing_or_unchecked": [
-        "01_White-Background",
-        "02_Styled-Background",
-        "03_Lifestyle",
-        "04_Detail",
-        "05_Promotional"
+      "review_needed": [
+        "02_Styled-Background.png",
+        "01_White-Background.png",
+        "05_Promotional.png",
+        "03_Lifestyle.png"
       ]
     },
-    "0318": {
-      "folder": "0318_Flower-Hair-Claws-0",
-      "saved": 0,
-      "checked": 0,
-      "complete": false,
-      "original_plan_hashes_verified": true,
-      "missing_or_unchecked": [
-        "01_White-Background",
-        "02_Styled-Background",
-        "03_Lifestyle",
-        "04_Detail",
-        "05_Promotional"
-      ]
+    {
+      "product_id": "0318",
+      "folder": "0318_Flower-Hair-Claws-1",
+      "saved": 5,
+      "checked": 5,
+      "complete": true,
+      "review_needed": []
     },
-    "0319": {
+    {
+      "product_id": "0319",
       "folder": "0319_Pastel-Flower-Hair-Claws-0",
       "saved": 0,
       "checked": 0,
       "complete": false,
-      "original_plan_hashes_verified": true,
-      "missing_or_unchecked": [
-        "01_White-Background",
-        "02_Styled-Background",
-        "03_Lifestyle",
-        "04_Detail",
-        "05_Promotional"
-      ]
+      "review_needed": []
     },
-    "0320": {
+    {
+      "product_id": "0320",
       "folder": "0320_Clear-Hair-Claw-Display-0",
-      "saved": 0,
-      "checked": 0,
+      "saved": 1,
+      "checked": 1,
       "complete": false,
-      "original_plan_hashes_verified": true,
-      "missing_or_unchecked": [
-        "01_White-Background",
-        "02_Styled-Background",
-        "03_Lifestyle",
-        "04_Detail",
-        "05_Promotional"
-      ]
+      "review_needed": []
     },
-    "0321": {
+    {
+      "product_id": "0321",
       "folder": "0321_Hairbrush-And-Comb-Display-0",
       "saved": 0,
       "checked": 0,
       "complete": false,
-      "original_plan_hashes_verified": true,
-      "missing_or_unchecked": [
-        "01_White-Background",
-        "02_Styled-Background",
-        "03_Lifestyle",
-        "04_Detail",
-        "05_Promotional"
-      ]
+      "review_needed": []
     },
-    "0322": {
+    {
+      "product_id": "0322",
       "folder": "0322_Character-Folding-Combs-0",
       "saved": 0,
       "checked": 0,
       "complete": false,
-      "original_plan_hashes_verified": true,
-      "missing_or_unchecked": [
-        "01_White-Background",
-        "02_Styled-Background",
-        "03_Lifestyle",
-        "04_Detail",
-        "05_Promotional"
-      ]
+      "review_needed": []
     },
-    "0323": {
+    {
+      "product_id": "0323",
       "folder": "0323_Gold-Tone-Pendant-Necklaces-0",
       "saved": 0,
       "checked": 0,
       "complete": false,
-      "original_plan_hashes_verified": true,
-      "missing_or_unchecked": [
-        "01_White-Background",
-        "02_Styled-Background",
-        "03_Lifestyle",
-        "04_Detail",
-        "05_Promotional"
-      ]
+      "review_needed": []
     },
-    "0324": {
+    {
+      "product_id": "0324",
       "folder": "0324_Colour-Pencil-Tubes-0",
       "saved": 0,
       "checked": 0,
       "complete": false,
-      "original_plan_hashes_verified": true,
-      "missing_or_unchecked": [
-        "01_White-Background",
-        "02_Styled-Background",
-        "03_Lifestyle",
-        "04_Detail",
-        "05_Promotional"
-      ]
+      "review_needed": []
     },
-    "0325": {
+    {
+      "product_id": "0325",
       "folder": "0325_Colourful-Hair-Claws-0",
       "saved": 0,
       "checked": 0,
       "complete": false,
-      "original_plan_hashes_verified": true,
-      "missing_or_unchecked": [
-        "01_White-Background",
-        "02_Styled-Background",
-        "03_Lifestyle",
-        "04_Detail",
-        "05_Promotional"
-      ]
+      "review_needed": []
     },
-    "0326": {
+    {
+      "product_id": "0326",
       "folder": "0326_Pastel-Butterfly-Hair-Claws-0",
       "saved": 0,
       "checked": 0,
       "complete": false,
-      "original_plan_hashes_verified": true,
-      "missing_or_unchecked": [
-        "01_White-Background",
-        "02_Styled-Background",
-        "03_Lifestyle",
-        "04_Detail",
-        "05_Promotional"
-      ]
+      "review_needed": []
     },
-    "0327": {
+    {
+      "product_id": "0327",
       "folder": "0327_Hair-Elastic-Packs-0",
       "saved": 0,
       "checked": 0,
       "complete": false,
-      "original_plan_hashes_verified": true,
-      "missing_or_unchecked": [
-        "01_White-Background",
-        "02_Styled-Background",
-        "03_Lifestyle",
-        "04_Detail",
-        "05_Promotional"
-      ]
+      "review_needed": []
     },
-    "0328": {
+    {
+      "product_id": "0328",
       "folder": "0328_Colourful-Hair-Claws-0",
       "saved": 0,
       "checked": 0,
       "complete": false,
-      "original_plan_hashes_verified": true,
-      "missing_or_unchecked": [
-        "01_White-Background",
-        "02_Styled-Background",
-        "03_Lifestyle",
-        "04_Detail",
-        "05_Promotional"
-      ]
+      "review_needed": []
     },
-    "0329": {
+    {
+      "product_id": "0329",
       "folder": "0329_Pearl-Style-Hair-Claws-0",
       "saved": 0,
       "checked": 0,
       "complete": false,
-      "original_plan_hashes_verified": true,
-      "missing_or_unchecked": [
-        "01_White-Background",
-        "02_Styled-Background",
-        "03_Lifestyle",
-        "04_Detail",
-        "05_Promotional"
-      ]
+      "review_needed": []
     },
-    "0330": {
+    {
+      "product_id": "0330",
       "folder": "0330_Colourful-Pendant-Keyrings-0",
       "saved": 0,
       "checked": 0,
       "complete": false,
-      "original_plan_hashes_verified": true,
-      "missing_or_unchecked": [
-        "01_White-Background",
-        "02_Styled-Background",
-        "03_Lifestyle",
-        "04_Detail",
-        "05_Promotional"
-      ]
+      "review_needed": []
     },
-    "0331": {
+    {
+      "product_id": "0331",
       "folder": "0331_Body-Lotion-Bottles-0",
       "saved": 0,
       "checked": 0,
       "complete": false,
-      "original_plan_hashes_verified": true,
-      "missing_or_unchecked": [
-        "01_White-Background",
-        "02_Styled-Background",
-        "03_Lifestyle",
-        "04_Detail",
-        "05_Promotional"
-      ]
+      "review_needed": []
     },
-    "0332": {
+    {
+      "product_id": "0332",
       "folder": "0332_Rechargeable-Cactus-Toy-0",
       "saved": 0,
       "checked": 0,
       "complete": false,
-      "original_plan_hashes_verified": true,
-      "missing_or_unchecked": [
-        "01_White-Background",
-        "02_Styled-Background",
-        "03_Lifestyle",
-        "04_Detail",
-        "05_Promotional"
-      ]
+      "review_needed": []
     }
-  },
-  "updated_at": "2026-10-21T18:51:32.512723+00:00",
-  "completed": [
-    "0313",
-    "0314",
-    "0315"
   ],
-  "total_saved": 18,
-  "total_checked": 17
+  "unsaved_generation": "0319white tool returned image but no cachepath during exec transport disconnect; no matching newestcache found."
 }

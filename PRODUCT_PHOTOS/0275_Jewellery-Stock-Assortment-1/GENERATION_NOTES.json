@@ -42,9 +42,19 @@
       "source_output": "/workspace/generated_images/exec-afe2c400-3d23-4787-89bc-939be38d9b66.png",
       "prompt": "Single tight standalone macro photograph cropped from original foreground cream-and-brown textured bear-shaped hair clips on white bow-pattern backing card. Show real visible bear faces, small dark bead eyes, woven textured surface and striped/plaid fabric bows under clearplastic, same existing material/shape/colour. Fill frame with just existing part, not full stock display, no newobject/text/hiddenparts, soft daylight.",
       "sha256": "d414b2bf939ace28e0f17a2da26031adff7a23c8d5e875f10a2b5195aebe8bd5",
-      "checked": false
+      "checked": true,
+      "visual_review": "Viewed actual tight standalone detail against visible source part: existing textured cream/brown bear clip and plaid bows retained; no fullstock scene."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-3711c408-10aa-4bc0-884b-1a16c8d2adfc.png",
+      "prompt": "ONE SINGLE continuous promotional product photograph of entire original hairaccessory stock assortment in same source layout: all carded clips/bears/hearts/bows/plastic boxes and cartons exactly as visible, same stacks, colours, shapes, count and overlaps. Surrounding background lavender and cream studio. Preserve all sourceproducts, no invented hiddenitems. Small heading HAIR ACCESSORY COLLECTION in clear topmargin. No price, no collage, no duplicatedisplay. Website-ready realisticphoto.",
+      "sha256": "01dfed773d0e2225f9b895ff91147c45038b8e21f26c453ad0625b1bf8129024",
+      "checked": true,
+      "visual_review": "Actual promotional output viewed against original: whole main assortment arrangement/identity/colours retained, accurate heading; minor fineprint differences accepted."
     }
   ],
-  "status": "in_progress",
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
 }

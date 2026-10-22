@@ -43,9 +43,19 @@
       "source_output": "/workspace/generated_images/exec-02354207-6f5d-42ec-87ad-14e151db8bcb.png",
       "prompt": "Single tight standalone macro photograph cropped from source top pink plaid catface charm with yellow bow attached to pink wavy snapclip. Preserve raised cream border, yellow/pink checks, tiny black eyes yellow oval nose and original surface. Include small adjoining whitecard/clearpackage; real visible part only, no full assortment, no newtext/parts, soft daylight.",
       "sha256": "03649d9f27c9beababc46128073ac16014b765c743df62073bf51d53e1cad66b",
-      "checked": false
+      "checked": true,
+      "visual_review": "Viewed actual macro: original top pink clip/catface charm with yellow/pink plaid, yellowbow, creamedge and same visible geometry retained; standalone detail, no invented hiddenparts."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-fae07ca1-3b89-48a7-ab06-a9fe91e7a379.png",
+      "prompt": "ONE SINGLE continuous promotional product photograph of entire original one packaged pastel catface hairclip assortment: THREE front whitecards vertically, each TWO catface plaid snapclips plus ONE long openloopbarrette. Top pink/lavender snaps greenlong; middlepink/mint lavenderlong; bottomblue/lavender pinklong. Preserve rearpartialclip glimpses, exact9frontclips, shapes/colours/card/package, no inventedparts. Lavendercream studio, heading PASTEL HAIR CLIPS in topmargin. No price/collage/duplicatepack.",
+      "sha256": "de0d4d1f5b0b9aef33dcdb4f6ac50257f3c50b8f0060d6623c0024276acae547",
+      "checked": true,
+      "visual_review": "Actual promotional output viewed against original: whole main assortment arrangement/identity/colours retained, accurate heading; minor fineprint differences accepted."
     }
   ],
-  "status": "in_progress",
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
 }

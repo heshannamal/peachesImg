@@ -38,8 +38,25 @@
       "sha256": "b2e3dcf8b6d1181daf376a41d54f3c58fe055288bb36969e5ba6d66374a71826",
       "checked": true,
       "visual_review": "Standalone tightmacro matches original top red paisley brooch, red faceted stones/rhinestonearc goldfiligree cream teardrop pearl."
+    },
+    {
+      "saved_file": "Rejected/05_Promotional-identity-error.png",
+      "source_output": "/workspace/generated_images/exec-306965c3-6bf2-4666-8f43-333721a85997.png",
+      "prompt": "Website-ready square product photograph. Use ALL THREE attached source photographs as one complete product assortment: eighteen decorative gold-tone brooch pins on original white cards, three grouped strips side by side. LEFT strip exactly six paisley/leaf rhinestone pins with cream teardrop pearl dangles in original2columns3rows red/green/champagne/green/champagne/pink colours. MIDDLE strip six round open wreath pins with multicolour teardrop stones and clear rhinestones in original2columns3rows. RIGHT strip six round curved multicolour rhinestone and white-pearl wreath pins in original2columns3rows. Preserve visible shape and colours of each source design, original cards/clearwrappers, count18 total; no earrings or extra products. Remove hands, shop, prices. Lavender cream background soft shadows, small accurate plum heading Decorative Brooch Pins and PRODUCT COLLECTION above entire assortment, no price; full entire three-strip assortment framed.",
+      "sha256": "43ab8123eff93fd9e4bf5ce05f224e1fe5c776ab7ed6234781af17b78b453c25",
+      "checked": false,
+      "visual_review": "Materialidentityerror rightstrip middleright pin is teardropwreath, should be pearlcurvedwreath. Onecorrectiveattempt required."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-d2c2ee2d-3d47-4b9f-80f4-93f50cf4357f.png",
+      "prompt": "Website-ready square product photograph. Use ALL THREE attached source photographs as one complete product assortment: eighteen decorative gold-tone brooch pins on original white cards, three grouped strips side by side. LEFT strip exactly six paisley/leaf rhinestone pins with cream teardrop pearl dangles in original2columns3rows red/green/champagne/green/champagne/pink colours. MIDDLE strip six round open wreath pins with multicolour teardrop stones and clear rhinestones in original2columns3rows. RIGHT strip six round curved multicolour rhinestone and white-pearl wreath pins in original2columns3rows. Preserve visible shape and colours of each source design, original cards/clearwrappers, count18 total; no earrings or extra products. CRITICAL RIGHTMOST STRIP: ALL SIX are the pearl wreath design from THIRD reference only. EACH of those six has curved multicolour rhinestone arcs and ROUND WHITE PEARLS. Do NOT put any teardrop gemstone wreath on rightmost strip. Copy third reference accurately in all six positions. Remove hands, shop, prices. Lavender cream studio background with accurate small heading Decorative Brooch Pins and PRODUCT COLLECTION above; full entire three-strip assortment framed.",
+      "sha256": "034094f9fd95987e7b575382758487a2403e47fe5c96decf2e16ccb7557557a5",
+      "checked": true,
+      "visual_review": "Corrected promotional image preserves18pins exactly: six paisleypearldrops, sixteardropwreaths, SIXpearlcurvedwreaths right. Accurateheading; firstidentityerror retainedRejected."
     }
   ],
-  "status": "in_progress",
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
 }

@@ -1,0 +1,28 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250402-WA0301.jpg": "a87bef4f5221fbbe358759285bdff9f1b5accd41c88216f131894a0eacb2b0ed"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-9e1720fa-a9fb-416a-881e-dcfe9598f876.png",
+      "prompt": "Exact TWELVE transparent hair-elastic jars in original clear multipack, two opposing columns SIX each: three brown bear lids and three mintgreen bear lids left, three yellow duck lids and three pink pig lids right. Preserve actual jar shape, animalface lids/yellow hanging loops, tiny coloured elastic band contents original arrangements/colour groups, all packaging and overlap. Entire assortment oneproduct. Faithful website ecommerce photograph full assortment on purewhite seamless background softshadow. Remove hand/watch/shop/price overlay only, no extra text or parts.",
+      "sha256": "48f006dc5a554995cb428a5f642888cc58a8453216fe797f077026b99b053d17",
+      "checked": true,
+      "visual_check": "Passed twelve jars three each brown/green/yellow/pink animal lids, original opposing layout and coloured elasticcontents packaging retained."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-013afab2-f901-44f0-8069-ab559328f8e9.png",
+      "prompt": "Exact TWELVE transparent hair-elastic jars in original clear multipack, two opposing columns SIX each: three brown bear lids and three mintgreen bear lids left, three yellow duck lids and three pink pig lids right. Preserve actual jar shape, animalface lids/yellow hanging loops, tiny coloured elastic band contents original arrangements/colour groups, all packaging and overlap. Entire assortment oneproduct. Faithful website product photograph full assortment creamlinen lavender background softshadow. Removehand/watch/shop/priceoverlay only, no extra text/products.",
+      "sha256": "4b116e3fbbde5f31ad1814204d503b9c1710b86114eeb77d95c29cdb59c56164",
+      "checked": true,
+      "visual_check": "Passed12jars exact3each animal lid colour, colouredelastic contents and opposite direction multipack retained lavendercream."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true
+}

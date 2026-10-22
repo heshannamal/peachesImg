@@ -1,0 +1,26 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250405-WA0167.jpg": "c4e2436bf6a2d15c55593615f51d3c2c468cb012f89223b005ddcba67aad26ab"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-235f5596-9e35-4739-b5cf-b2bbc279e780.png",
+      "prompt": "Edit reference into ONE white-background website product photo of FIVE standalone smoky transparent flower-and-pearl hairclaws shown in right column. Colours flower: turquoise, pale yellow, pale pink, lavender purple, apricot orange. Each smoky brown transparent jaw has goldspring, five rounded translucent petals and one pearl bead besideflower. Preserve exact original design/material/colours. Arrange all5 fullclips, do NOT duplicate model-worn turquoise as a sixth item. Remove model/photo collage and price entirely. No text or invented reverseparts.",
+      "sha256": "da845297ac4b01f3d11ec47a40d62b0002cc02de58ab62dd846f2d7c7756c697",
+      "checked": true,
+      "visual_review": "Five source standalone flower+pearl smoky brownclaws, fivecolours and actual jaws retained. Modelworn duplicate excluded, no sixth item. Prior successful image could not save during runtime disconnect, this regeneration replaces unsaved runtime result."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-584b6e26-d0c3-4a77-b1bb-3ad6d8ac02f5.png",
+      "prompt": "Edit original into ONE lavender cream studio website photograph of FIVE standalone smoky transparent brown flower-and-pearl hairclaws shown at right, flowers turquoise,paleyellow,pink,purple,apricot. Exactlyfive, original jaw/flowerfivepetals/pearlshape,goldspringcolours/material. Remove modelhalf and price, not a collage, modelworn clip is duplicate not sixthitem. Entirefiveoneassortment no extra/inventedparts.",
+      "sha256": "588719cee516c8bc710355b47656588e7b55d048376eb24092785acd945a6271",
+      "checked": true,
+      "visual_review": "Five smoky brown claws/flowers/pearl/colours retained. Creamstudio background lavendervery subtle, acceptedcosmeticdifference no retry."
+    }
+  ],
+  "status": "in_progress"
+}

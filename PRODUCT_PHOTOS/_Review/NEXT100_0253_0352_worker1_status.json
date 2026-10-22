@@ -1,43 +1,147 @@
 {
+  "status": "running",
+  "updated_at": "2026-10-22T20:29:36.050070+00:00",
   "scope": "0253\u20130272",
-  "status": "paused_runtime_transport_error",
-  "completed_product_ids": [
-    "0253",
-    "0254",
-    "0255",
-    "0256"
-  ],
-  "partial": {
-    "0257": {
-      "saved_checked": 4,
-      "missing": [
-        "05_Promotional.png"
-      ]
+  "products": [
+    {
+      "product_id": "0253",
+      "folder": "0253_Brown-Beaded-Bracelet-1",
+      "complete": true,
+      "saved": 5,
+      "checked": 5
     },
-    "0258": {
-      "saved_checked": 3,
-      "missing": [
-        "04_Detail.png",
-        "05_Promotional.png"
-      ]
+    {
+      "product_id": "0254",
+      "folder": "0254_Black-Beaded-Bracelet-1",
+      "complete": true,
+      "saved": 5,
+      "checked": 5
+    },
+    {
+      "product_id": "0255",
+      "folder": "0255_Label-Keyrings-1",
+      "complete": true,
+      "saved": 5,
+      "checked": 5
+    },
+    {
+      "product_id": "0256",
+      "folder": "0256_Cord-Bracelet-Tubes-1",
+      "complete": true,
+      "saved": 5,
+      "checked": 5
+    },
+    {
+      "product_id": "0257",
+      "folder": "0257_Red-And-Gold-Tone-Earrings-1",
+      "complete": true,
+      "saved": 5,
+      "checked": 5
+    },
+    {
+      "product_id": "0258",
+      "folder": "0258_Character-Hair-Clips-1",
+      "complete": true,
+      "saved": 5,
+      "checked": 5
+    },
+    {
+      "product_id": "0259",
+      "folder": "0259_Clear-Printed-Hair-Claws-1",
+      "complete": true,
+      "saved": 5,
+      "checked": 5
+    },
+    {
+      "product_id": "0260",
+      "folder": "0260_Dark-Printed-Hair-Claws-1",
+      "complete": true,
+      "saved": 5,
+      "checked": 5
+    },
+    {
+      "product_id": "0261",
+      "folder": "0261_Colourful-Printed-Hair-Claws-1",
+      "complete": true,
+      "saved": 5,
+      "checked": 5
+    },
+    {
+      "product_id": "0262",
+      "folder": "0262_Bright-Hair-Claws-1",
+      "complete": true,
+      "saved": 5,
+      "checked": 5
+    },
+    {
+      "product_id": "0263",
+      "folder": "0263_Glitter-Hair-Claws-0",
+      "complete": false,
+      "saved": 3,
+      "checked": 3
+    },
+    {
+      "product_id": "0264",
+      "folder": "0264_Mixed-Accessory-Display-0",
+      "complete": false,
+      "saved": 1,
+      "checked": 1
+    },
+    {
+      "product_id": "0265",
+      "folder": "0265_Colourful-Hair-Clip-Card-0",
+      "complete": false,
+      "saved": 0,
+      "checked": 0
+    },
+    {
+      "product_id": "0266",
+      "folder": "0266_Printed-Fabric-Headbands-0",
+      "complete": false,
+      "saved": 0,
+      "checked": 0
+    },
+    {
+      "product_id": "0267",
+      "folder": "0267_Braided-Headbands-0",
+      "complete": false,
+      "saved": 0,
+      "checked": 0
+    },
+    {
+      "product_id": "0268",
+      "folder": "0268_Eyeliner-0",
+      "complete": false,
+      "saved": 0,
+      "checked": 0
+    },
+    {
+      "product_id": "0269",
+      "folder": "0269_Lipstick-Assortment-0",
+      "complete": false,
+      "saved": 0,
+      "checked": 0
+    },
+    {
+      "product_id": "0270",
+      "folder": "0270_Necklace-And-Earring-Sets-0",
+      "complete": false,
+      "saved": 0,
+      "checked": 0
+    },
+    {
+      "product_id": "0271",
+      "folder": "0271_Jesus-Silicone-Wristbands-0",
+      "complete": false,
+      "saved": 0,
+      "checked": 0
+    },
+    {
+      "product_id": "0272",
+      "folder": "0272_Gold-Tone-Pendant-Necklaces-0",
+      "complete": false,
+      "saved": 0,
+      "checked": 0
     }
-  },
-  "pending_product_ids": [
-    "0259",
-    "0260",
-    "0261",
-    "0262",
-    "0263",
-    "0264",
-    "0265",
-    "0266",
-    "0267",
-    "0268",
-    "0269",
-    "0270",
-    "0271",
-    "0272"
-  ],
-  "blocker": "Parallel detail response0258 lacked output_hint; exact error not retained due parsing failure.0257detail successful cache recovered. Parent reports backendtransportdisconnected. No new calls.",
-  "updated_at": "2026-10-22T02:14:46.746056+00:00"
+  ]
 }

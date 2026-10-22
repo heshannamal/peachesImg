@@ -1,0 +1,19 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250410-WA0347.jpg": "0882ee31f2d14b52a40598f52f81247ad5ba3fe6cf9034b0ca51badcae3cd377"
+  },
+  "records": [
+    {
+      "saved_file": "Rejected/01_White-Background-first.png",
+      "source_output": "/workspace/generated_images/exec-e8c5065b-b500-42b7-8e3b-340877eabe53.png",
+      "prompt": "EXACT TWELVE fluffy oval hair clips on FOUR white backing cards of THREE clips each inside original clear bag. Original four colour columns left-to-right beige, mauve pink, mint grey, lavender grey; each clip has existing purple bunny-costume character with white jumpsuit and painted face. Keep original diagonal arrangement, overlaps, exact12count, fur textures/colours, character shapes and printed cards/clear packaging. Whole assortment ONE product. Edit reference into website-ready product photograph on pure white seamless surroundings, soft shadow, original same front view/crop, entire original visible assortment. Remove hand/watch/shop/old price overlay only, no new text or additional products.",
+      "sha256": "1efaaa9fc06dbbf2a7870d90dbb2e254b138f01770ca6e461ab41fa7501a849c",
+      "checked": false,
+      "visual_review": "Material failure: pink column shows only one bunny badge, two pink clips/badges omitted or merged vs original three. Single corrective attempt required."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

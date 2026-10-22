@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250405-WA0396.jpg": "779d1b39894462388eecf481922a4a4f5a1c22d9698bf070880d4125245b1783"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-01ba927f-acf1-45e8-8793-6bbcd26e4a55.png",
+      "prompt": "Faithful square website catalogue referenceedit. Exact entire coloured-pencil assortment shown oneproduct: FOUR upright closed Mader colouredpencil tubes top (green mushroom,redchameleon,pinkowl,pinkowl), ONE opened green mushroom tube lower right with clearcap, and original loose24colouredpencils laid across lowerleft in same source sequence/overlap. Preserve FIVE total tubes, tubeillustrations/colours/packaging, pencilwidths/lengths/sharpenedtips/actual visiblecount. No invented extra tubes/pencils. Cleanwhite seamless background softshadow. Remove425RsMinimum1Box,NEWbadge and24Colourswithshaper blackoverlay only, retain realproductprinted24PCSlabels.",
+      "sha256": "aa64393dbfa2c699abdcedac3c9fc23f541d2589eef05b8463083c0fc71c7def",
+      "checked": true,
+      "visual_review": "Five tubes retained four closed upper/one open lower-right, original green/red/pink/pink/green illustrated packaging, source loose24pencils visibly retained original sequence/overlaps. Clearcap shown; floatinglabels removed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-4531649e-50f3-4ae6-a9bc-00a5b6e0121f.png",
+      "prompt": "Faithful square website styled photograph exact ENTIRE reference coloured-pencil assortment ONEproduct. FOUR closedtubes upperrow greenmushroom/redchameleon/pinkowl/pinkowl, ONE openedgreenmushroomtube withclearcap lower right, original24loosecolouredpencils same source sequence/overlap lowerleft. Preserve5tubes and24loosepencils, colours/illustrations/materials/actualprint/geometry. Lavender cream studio surround softshadows, no extraobjects. Removepriceblackoverlay NEWbadge 24colourswithshaperblackoverlay only. No addedtext/newproducts.",
+      "sha256": "e292f64b4fc14ee885df4ed4f913aa309bbf3f4084bf457e216d10d0f02a65e8",
+      "checked": true,
+      "visual_review": "Five original illustratedtubes plus source24loosepencils preserved, fourclosedupper andoneopenlower right withclearcap, coloursequence/packaging and mainshapes retained. Lavender styledsurround."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

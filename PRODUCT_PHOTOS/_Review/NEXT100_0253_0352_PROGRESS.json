@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-22T20:46:46.590085+00:00",
+  "updated_at": "2026-10-25T09:53:39.800021+00:00",
   "target_products": 100,
   "target_images": 500,
   "completed_products": 55,
-  "partial_products": 11,
-  "pending_products": 34,
+  "partial_products": 12,
+  "pending_products": 33,
   "blocked_products": 0,
-  "saved_images": 311,
-  "checked_images": 303,
+  "saved_images": 317,
+  "checked_images": 309,
   "products": [
     {
       "product_id": "0253",
@@ -260,23 +260,22 @@
       "product_id": "0266",
       "folder": "0266_Printed-Fabric-Headbands-0",
       "status": "partial",
-      "saved_images": 4,
-      "checked_images": 3,
+      "saved_images": 5,
+      "checked_images": 4,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png"
-      ],
-      "missing_images": [
+        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [
-        "New/04_Detail.png"
+        "New/05_Promotional.png"
       ],
       "notes_status": "in_progress",
       "errors": [
-        "unreviewed or unrecorded: 04_Detail.png"
+        "unreviewed or unrecorded: 05_Promotional.png"
       ],
       "originals_unchanged": true
     },
@@ -284,23 +283,23 @@
       "product_id": "0267",
       "folder": "0267_Braided-Headbands-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 0,
+      "saved_images": 2,
+      "checked_images": 1,
       "files": [
-        "New/01_White-Background.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png"
       ],
       "missing_images": [
-        "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [
-        "New/01_White-Background.png"
+        "New/02_Styled-Background.png"
       ],
       "notes_status": "in_progress",
       "errors": [
-        "unreviewed or unrecorded: 01_White-Background.png"
+        "unreviewed or unrecorded: 02_Styled-Background.png"
       ],
       "originals_unchanged": true
     },
@@ -593,14 +592,14 @@
       "product_id": "0283",
       "folder": "0283_Pastel-Hair-Slide-Sets-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 2,
+      "saved_images": 3,
+      "checked_images": 3,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
@@ -613,14 +612,14 @@
       "product_id": "0284",
       "folder": "0284_Metal-Hair-Clips-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 2,
+      "saved_images": 3,
+      "checked_images": 3,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
@@ -1794,14 +1793,14 @@
       "product_id": "0345",
       "folder": "0345_Hair-Gel-Assortment-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 2,
+      "saved_images": 3,
+      "checked_images": 3,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
@@ -1813,19 +1812,20 @@
     {
       "product_id": "0346",
       "folder": "0346_Mini-Handbag-Accessory-Sets-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "missing_images": [
-        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },

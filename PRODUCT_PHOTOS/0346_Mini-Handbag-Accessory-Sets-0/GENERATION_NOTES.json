@@ -1,0 +1,19 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250426-WA0117.jpg": "bd0c33838fb23e7b89c178d25c14c03359c8945d8d90d0affe97cb1cc7389d48"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-6a6fa7e4-bc83-4edf-8883-017540d80a95.png",
+      "prompt": "Edit exact ONE original pink rectangular window gift box with twisted pinkwhite rope handle and flower border, bunny holding strawberry illustration lower right. Preserve exact visible contents and overlaps: leftwindow fuzzy pastel chunky hair elastics pink/lavender/yellow/blue with small pink square claw visible, rightwindow thin multicolour loops/hairbands piled in original arrangement. Do not invent hidden counts/unpack. Preserve package shape/print/rope colours and visible contents, wholeboxoneproduct. Purewhite seamless website product photograph, softshadow, remove hand/shop/oldprice only, no extra products/newtext.",
+      "sha256": "f687d3e174579c881ae0588d07631b2ee3c832c44dd0c966f4d57109e6e34e11",
+      "checked": true,
+      "visual_review": "Single pink window giftbox preserved: rope handle, flower/bunny print, left pastel chunky elastics/pink claw and right thin multicolour bands in original visible overlaps; no hidden item count inferred."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

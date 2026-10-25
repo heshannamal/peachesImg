@@ -1,0 +1,20 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260723-WA0343.jpg": "50fbc2f68f496d46d516d69610a77d84e0672e2a6c790d78b2f8dbca7acc82e7"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-7b1d9b9e-d9ba-4821-9c0a-6ad51a843dc3.png",
+      "prompt": "Faithful reference edit for website. Preserve the ENTIRE product catalogue composition as ONE assortment: original pink cardboard OAUMD display tray at top with TWO columns SIX upright makeup books each, original girl-and-NaturalColorMakeup display header, all actual pink illustrated book covers and product packaging print. Below it retain the TWO separate closed sample covers (left blonde girl BEAUTY IS MY POWER/fashionFEVER, right pink girl FASHION FEVER), and TWO open palette examples beneath, exactly original front view/colours/pan arrangements with mirror upperleft,12left pans and21right pans and one doubleended applicator each. Those lower four images are existing alternative product views, do not merge or invent more products. Preserve exact original visible layout, count, packaging, shapes and colour. Replace only overall pink graphic background with plain pure white and natural product shadows, remove external floating OAUMD/33Color/CreateEndlessLooks headings and bottom weight/box/carton text, retain all real printed packaging text. No additional objects, products or words, no price.",
+      "sha256": "b87d17985123bc89a868f7573d8ede95d28688303d45f76abe78f328b15115a8",
+      "checked": true,
+      "visual_review": "Compared full catalogue and enlarged tray-row crops: original two-column layered display, two closed alternate covers and two open palette examples retained in the same layout, with matching pink packaging, illustrated identities, visible row layering and colour-pan arrangement. White surroundings replace graphics. Minor artwork and small packaging typography differences (including small colour-count print on one sample cover) accepted for website-quality comparison; no count/product claim added."
+    }
+  ],
+  "status": "partial_one_white_background_saved_and_checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "original_baseline_verified": true
+}

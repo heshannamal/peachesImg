@@ -1,0 +1,20 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260930-WA0014.jpg": "714d8ac54a25aa7505c73a6604dc6dba57ff451510c3d12da3bf46d71a9ec997"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-c82133c3-1171-4c01-bcd4-07af8ea6afc4.png",
+      "prompt": "Faithful source edit into ONE clean white seamless website product catalogue photograph of ENTIRE original IGOODCO pink Rose D Love makeup-book set views as ONE product. Preserve EXACT original four-block layout: TOP LEFT closed pink rose-illustrated cover; TOP RIGHT opened three-panel book with printed woman makeup cover at left,15round eyeshadows5rows3 in middle and3large round blush pans stacked at right. BOTTOM LEFT same printed woman cover beside15round eyeshadow pans5rows3; BOTTOM RIGHT Face Charts printed cover beside6large round face pans3rows2. These are original product views, retain their layout and ALL actual palettepan counts/shapes/colours/pinkbookframes and existingcoverphotos/lettering. Do not invent hidden views, extra products or new colours. Remove only floating topIGOO...brand/itemnumber and bottomprice/boxsize overlays, preserve actual labels printed on productcovers. Soft studio light/shadows with original view arrangement, no addedtext/claims/props.",
+      "sha256": "9373f53c6991339046dc4afa1fd75f3cb626b0e710d47d4e12d625500c0770f0",
+      "checked": true,
+      "visual_review": "Compared output with actual original: four original catalogue blocks retained (closed rose book, three-panel open book, lower eyeshadow view, lower face-pan view). Top/lower eyeshadow palettes retain fifteen round pans each; top side has three large face pans and lower right six large pans. Pink cases, main cover graphics, shapes and source colours retained; minor printed text/detail differences accepted. Floating brand/item/price overlays removed."
+    }
+  ],
+  "status": "partial_one_white_background_saved_and_checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "original_hashes_verified": true
+}

@@ -1,0 +1,20 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260930-WA0011.jpg": "a44765083f2c0e5c3198218ef17a15eccfea8cc933889b91dba43c08a751902e"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-197a07c6-1cc4-473c-bef6-94f7f8fd13ce.png",
+      "prompt": "Faithful reference edit into ONE white seamless website product photograph of ENTIRE original pink OAUMD Secret Garden makeup-book assortment as ONEproduct. Preserve original two-column stacked pink book counter display with exact visible book count/overlaps/header/tray, one separate closed illustrated pink girl book at LEFT and one fully open pink book below. Keep actual cover art/brand packaging/colours. Open book exact LEFT mirror,5rectangular pans stacked with5round pans beside them; RIGHT20round pans5rows4 and one double-ended sponge applicator in right slot. Preserve every original pan shape/colour/position and actual print, no invented hidden units/extra products or new views. Remove only decorative catalogue background, floating price/top brand/specification table overlays (not labels printed on real packaging). Soft natural shadow, entire original assortment in frame. No added text or claims.",
+      "sha256": "c7dee21b2a8b54fcd34527fafc307dbea6e129f3e1f362efec40960bd5bb103e",
+      "checked": true,
+      "visual_review": "Compared actual output against source: original pink display, separate closed book at left and open book below retained. Actual source left panel has four rectangular pans beside five round pans; output correctly retains this geometry despite prompt count wording. Twenty right round pans and sponge slot retained, same main cover girl art/colours/assortment layout. Minor packaging lettering differences accepted; price/catalog overlays removed."
+    }
+  ],
+  "status": "partial_one_white_background_saved_and_checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "original_hashes_verified": true
+}

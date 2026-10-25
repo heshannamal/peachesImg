@@ -1,0 +1,20 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260930-WA0006.jpg": "62721eecba8d0c3adf2ec4e120f43885f125444a5b3351f9a8a2a591f182824f"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-47efcad7-90bb-472e-967a-ee57e67061fb.png",
+      "prompt": "Faithful reference edit for website. Preserve the ENTIRE original OAUMD makeup-book catalogue product composition on clean plain WHITE background: top original pink cardboard display with TWO columns SIX upright closed palettes each and original illustrated pinkhaired girl NaturalColorMakeup displayheader, identical real book cover designs/printedpackaging. Middle TWO original separate closed sample covers, left blondegirl BEAUTY IS MY POWER and right pinkgirl FASHION FEVER. Bottom TWO original OPEN makeup-book palette examples, same visible number of colourpans and colourlayout, upperleftmirrors and doubleended sponge applicator each. Lower four images are alternate product views already present, not added new inventory. Preserve exact product layout/visiblecount/shapes/colours/printedpackaging and original artwork; no simplifying/adding products or invented pans. Replace pink graphic background only with purewhite soft studio shadows, remove floating external OAUMD/Chineseheading/bottomspecification text and975Rs1Bookprice, keep all real packaging labels. No new text, no hands, no extra objects.",
+      "sha256": "81ab5b439c0673ce3247bdfc159b641ef686e9051345b23d9e0a46cec2d26251",
+      "checked": true,
+      "visual_review": "Compared with original catalogue: same two-column layered OAUMD display/header and two closed plus two open alternate product views preserved, pink book covers and girl artworks retained, mirrors/left twelve-pan and right twenty-one-pan arrangements retained in lower open examples. White background replaces external pink graphics/price/specification overlays. Minor artwork/typography differences in small cover wording accepted for website comparison, no additional product claims."
+    }
+  ],
+  "status": "partial_one_white_background_saved_and_checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "original_baseline_verified": true
+}

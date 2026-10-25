@@ -1,0 +1,20 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260930-WA0013.jpg": "005822bc2202019802dde1821882ece329f08460de1a65e4a41d69dbff1e47f4"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-29698747-ddb3-4a73-b03c-88e72d1127c7.png",
+      "prompt": "Faithful reference edit into ONE white seamless website product photograph of ENTIRE original pink OAUMD KISS ME makeup-book catalogue assortment as ONEproduct. Preserve exact original two-column stacked pink-book display with all visible books, overlap, illustratedpinkgirlheader and FASHION tray; one separate closed pinkgirl book at right and one fully open pink book below. Keep exact original cover art, packaging, brandprint and pinkcolours. Open book exact LEFT mirror, SIX small square pans in vertical column plus THREE large rectangular pans beside them; RIGHT TWENTY round pans in5rows4 and one double-ended spongeapplicator in rightslot. Preserve every pan count/shape/position/colour. Do not invent hidden stock/extra products or unseen views. Remove only decorative catalogue background/floating topbrandChineseheading/bottomprice-specification overlays, retaining actual real packaging labels. Entire original arrangement fully inframe, softstudio shadows. No new text or claims.",
+      "sha256": "428136c36e5d4c8687ac7f470ab17aa71dfabda9c10f12da8bd7ecfa398c3e3e",
+      "checked": true,
+      "visual_review": "Compared actual output against original: exact pink two-column makeup-book display, separate closed pink girl cover and lower open book retained. Open layout retains six small left square pans, three larger rectangular pans, twenty right round pans and sponge slot, matching main colours and geometry. Original packaging artwork/brand retained with minor lettering variation accepted; floating catalogue/price overlays removed."
+    }
+  ],
+  "status": "partial_one_white_background_saved_and_checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "original_hashes_verified": true
+}

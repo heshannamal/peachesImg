@@ -1,0 +1,21 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260408-WA0402.jpg": "5f971f98a85cb9ae3c5ad5cfc8add4682b9517ef39c9124eaf2ea19c4d4f3149"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-fa2ae45a-efe3-467f-b4d3-ff749ef31ce2.png",
+      "prompt": "Faithful website ecommerce reference edit. Exact foreground HUDA BEAUTY 5 Steps matte lipstick gift set as ONE product: original open white/black upright carton with printed five lipstick illustrations, one horizontal black five-colour lipstick bar in front with red,hotpink,deepred,nudeorange,burgundy compartments and dark cap on left, original two long black HUDA BEAUTY printed cartons beneath in same orientation. Preserve exact foreground product count, shapes,colours, packaging and all visible brand lettering. Remove surrounding false eyelash shop inventory, hand and floating300Rs overlay. Do not invent open lipstick bullets or new products. Seamless white studio background soft shadows, full original foreground assortment in frame, same front view, no additional text or claims.",
+      "sha256": "184c4d2f0e9479734b7210ebd6bc513b69161fb7b1d1ceae6c7a0e14da8187fe",
+      "checked": true,
+      "visual_review": "Compared generated image with original: foreground upright illustrated carton, horizontal black five-compartment lipstick bar and two long cartons retained in matching orientation; five colours red/pink/deepred/nudeorange/burgundy retained. HUDA BEAUTY product text and main shapes preserved. Eyelash shop stock and price removed. Minor printed type differences accepted for website-ready quality."
+    }
+  ],
+  "status": "partial_one_requested_view_saved_and_visually_checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "original_hashes_verified": true,
+  "requested_scope": "Original plus one generated Huda Beauty product image"
+}

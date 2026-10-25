@@ -1,17 +1,18 @@
 {
-  "updated_at": "2026-10-22T20:46:46.590085+00:00",
+  "updated_at": "2026-10-25T09:53:39.800021+00:00",
   "target_products": 100,
   "target_images": 500,
   "completed_products": 55,
-  "partial_products": 11,
-  "pending_products": 34,
+  "partial_products": 12,
+  "pending_products": 33,
   "blocked_products": 0,
-  "saved_images": 311,
-  "checked_images": 303,
-  "status": "running",
+  "saved_images": 317,
+  "checked_images": 309,
+  "status": "paused_until_scheduled_resume",
   "scope": "0253\u20130352 only",
   "max_active_products": 10,
   "started_at": "2026-10-21T18:35:15.529124+00:00",
-  "resume_note": "User requested start, fiveworkers resumed same0253\u20130352queue, preserve completed/valid outputs.",
-  "resumed_at": "2026-10-22T20:15:52.306117+00:00"
+  "resume_note": "Resume unfinished0253\u20130352 only. Known failedcorrectiveviews294promo/317fullviews/344white remain flagged; never repeat spentcorrectiveretries. Huda/makeupbookpairrequest handled separately.",
+  "resumed_at": "2026-10-22T20:15:52.306117+00:00",
+  "scheduled_resume_local": "2026-10-26T06:45:00+05:30"
 }

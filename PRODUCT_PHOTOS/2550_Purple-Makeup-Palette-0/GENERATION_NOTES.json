@@ -1,0 +1,20 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260930-WA0009.jpg": "0b94a6dad7ef0bb9cbf8df5865b09ef1af7d95571ca83315339a31fbaf3c6c2e"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-fd93031a-0163-4ea8-89e4-72123f985830.png",
+      "prompt": "Faithful reference edit into ONE website product photograph on clean white seamless background. Preserve the ENTIRE original OAUMD purple makeup-book catalogue assortment as ONE product: original two-column stacked counter display with illustrated purple girl/balloon covers and FASHION tray/header, ONE separate closed purple book at right, ONE fully open purple book below. Preserve all original visible book quantities, overlap, perspective, actual packaging/cover illustrations and brand printing; do not invent hidden units. Open book keeps left mirror, six round pans in two rows three, six rectangular pans below in three rows two, right20round pans in5rows4 and one double-ended sponge applicator in slot. Preserve exact pan colours/shapes/counts and positions. Remove only surrounding decorative catalogue background, floating top brand/Chinese heading and bottom price/specification overlays; retain real product labels. No extra makeup, no new text, no redesign or unseen views. Entire original assortment in frame, soft studio shadow.",
+      "sha256": "08a92268c1c0fc8435e99c5e41dd10b7cf958eb335f51638dee76aaf6afaf73d",
+      "checked": true,
+      "visual_review": "Compared actual output with source: original purple counter display/two stacked columns, separate closed book and open book retained. Open layout retains six left round pans plus six rectangular pans, twenty right round pans and sponge applicator; original main cover art, colours and arrangement retained. Minor printed lettering variation accepted. Decorative background/price/specification overlays removed."
+    }
+  ],
+  "status": "partial_one_white_background_saved_and_checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "original_hashes_verified": true
+}

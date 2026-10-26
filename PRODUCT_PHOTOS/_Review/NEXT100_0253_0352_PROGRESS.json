@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-26T01:48:32.557636+00:00",
+  "updated_at": "2026-10-26T09:25:59.415247+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 77,
-  "partial_products": 12,
-  "pending_products": 11,
+  "completed_products": 79,
+  "partial_products": 11,
+  "pending_products": 10,
   "blocked_products": 0,
-  "saved_images": 428,
-  "checked_images": 418,
+  "saved_images": 434,
+  "checked_images": 422,
   "products": [
     {
       "product_id": "0253",
@@ -355,39 +355,48 @@
       "product_id": "0271",
       "folder": "0271_Jesus-Silicone-Wristbands-0",
       "status": "partial",
-      "saved_images": 2,
+      "saved_images": 3,
       "checked_images": 2,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
+      "review_needed_images": [
+        "New/03_Lifestyle.png"
+      ],
       "notes_status": "in_progress",
-      "errors": [],
+      "errors": [
+        "unreviewed or unrecorded: 03_Lifestyle.png"
+      ],
       "originals_unchanged": true
     },
     {
       "product_id": "0272",
       "folder": "0272_Gold-Tone-Pendant-Necklaces-0",
-      "status": "pending",
-      "saved_images": 0,
+      "status": "partial",
+      "saved_images": 1,
       "checked_images": 0,
-      "files": [],
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "missing_images": [
-        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
+      "review_needed_images": [
+        "New/01_White-Background.png"
+      ],
       "notes_status": "in_progress",
-      "errors": [],
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png"
+      ],
       "originals_unchanged": true
     },
     {
@@ -660,28 +669,8 @@
       "product_id": "0287",
       "folder": "0287_Fine-Pendant-Necklaces-0",
       "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
-      "files": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": "in_progress",
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "0288",
-      "folder": "0288_Small-Plush-Toy-Assortment-0",
-      "status": "partial",
       "saved_images": 4,
-      "checked_images": 4,
+      "checked_images": 3,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
@@ -691,9 +680,36 @@
       "missing_images": [
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
+      "review_needed_images": [
+        "New/04_Detail.png"
+      ],
       "notes_status": "in_progress",
-      "errors": [],
+      "errors": [
+        "unreviewed or unrecorded: 04_Detail.png"
+      ],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0288",
+      "folder": "0288_Small-Plush-Toy-Assortment-0",
+      "status": "partial",
+      "saved_images": 5,
+      "checked_images": 4,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/05_Promotional.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
       "originals_unchanged": true
     },
     {
@@ -1063,10 +1079,10 @@
     },
     {
       "product_id": "0308",
-      "folder": "0308_Gold-Tone-Bangles-0",
-      "status": "partial",
+      "folder": "0308_Gold-Tone-Bangles-1",
+      "status": "complete",
       "saved_images": 5,
-      "checked_images": 4,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
@@ -1075,13 +1091,9 @@
         "New/05_Promotional.png"
       ],
       "missing_images": [],
-      "review_needed_images": [
-        "New/05_Promotional.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 05_Promotional.png"
-      ],
+      "review_needed_images": [],
+      "notes_status": "five images saved and visually checked",
+      "errors": [],
       "originals_unchanged": true
     },
     {
@@ -1089,7 +1101,7 @@
       "folder": "0309_Floral-Fabric-Pouches-0",
       "status": "partial",
       "saved_images": 2,
-      "checked_images": 1,
+      "checked_images": 2,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png"
@@ -1099,13 +1111,9 @@
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [
-        "New/02_Styled-Background.png"
-      ],
+      "review_needed_images": [],
       "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 02_Styled-Background.png"
-      ],
+      "errors": [],
       "originals_unchanged": true
     },
     {
@@ -1483,40 +1491,47 @@
       "product_id": "0329",
       "folder": "0329_Pearl-Style-Hair-Claws-0",
       "status": "partial",
-      "saved_images": 4,
+      "saved_images": 5,
       "checked_images": 4,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png"
-      ],
-      "missing_images": [
+        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/05_Promotional.png"
+      ],
       "notes_status": "in_progress",
-      "errors": [],
+      "errors": [
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
       "originals_unchanged": true
     },
     {
       "product_id": "0330",
       "folder": "0330_Colourful-Pendant-Keyrings-0",
       "status": "partial",
-      "saved_images": 1,
+      "saved_images": 2,
       "checked_images": 1,
       "files": [
-        "New/01_White-Background.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png"
       ],
       "missing_images": [
-        "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
+      "review_needed_images": [
+        "New/02_Styled-Background.png"
+      ],
       "notes_status": "in_progress",
-      "errors": [],
+      "errors": [
+        "unreviewed or unrecorded: 02_Styled-Background.png"
+      ],
       "originals_unchanged": true
     },
     {
@@ -1886,10 +1901,10 @@
     },
     {
       "product_id": "0350",
-      "folder": "0350_Gold-Tone-Hair-Clips-0",
-      "status": "partial",
+      "folder": "0350_Gold-Tone-Hair-Clips-1",
+      "status": "complete",
       "saved_images": 5,
-      "checked_images": 4,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
@@ -1898,13 +1913,9 @@
         "New/05_Promotional.png"
       ],
       "missing_images": [],
-      "review_needed_images": [
-        "New/05_Promotional.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 05_Promotional.png"
-      ],
+      "review_needed_images": [],
+      "notes_status": "five images saved and visually checked",
+      "errors": [],
       "originals_unchanged": true
     },
     {
@@ -1912,7 +1923,7 @@
       "folder": "0351_Colourful-Hair-Claw-Assortment-0",
       "status": "partial",
       "saved_images": 2,
-      "checked_images": 1,
+      "checked_images": 2,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png"
@@ -1922,13 +1933,9 @@
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [
-        "New/02_Styled-Background.png"
-      ],
+      "review_needed_images": [],
       "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 02_Styled-Background.png"
-      ],
+      "errors": [],
       "originals_unchanged": true
     },
     {

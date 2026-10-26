@@ -1,18 +1,19 @@
 {
-  "updated_at": "2026-10-26T01:48:32.557636+00:00",
+  "updated_at": "2026-10-26T09:25:59.415247+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 77,
-  "partial_products": 12,
-  "pending_products": 11,
+  "completed_products": 79,
+  "partial_products": 11,
+  "pending_products": 10,
   "blocked_products": 0,
-  "saved_images": 428,
-  "checked_images": 418,
-  "status": "running",
+  "saved_images": 434,
+  "checked_images": 422,
+  "status": "interrupted_model_usage_limit",
   "scope": "0253\u20130352 only",
   "max_active_products": 10,
   "started_at": "2026-10-21T18:35:15.529124+00:00",
-  "resume_note": "Scheduled actualgeneration resumed. Preserveallcomplete andvalidviews; noCSV. Fiveworkers max2activeproducts each.",
+  "resume_note": "Use current progress rows missing_images/review_needed_images; preserve complete products and spent corrective retries. No automatic restart requested during CSV export.",
   "resumed_at": "2026-10-26T01:18:12.933523+00:00",
-  "scheduled_resume_local": "2026-10-26T06:45:00+05:30"
+  "scheduled_resume_local": "2026-10-26T06:45:00+05:30",
+  "blocker": "All five generation workers stopped on model usage-limit errors. Environment was temporarily unavailable; restored workspace reconciled before CSV export. Successful partial results retained; no native-image quota inferred."
 }

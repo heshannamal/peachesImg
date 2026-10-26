@@ -3697,7 +3697,7 @@
     "source_image_ids": [
       279
     ],
-    "new_images": 2,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3709,9 +3709,9 @@
     "source_image_ids": [
       280
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -3923,7 +3923,7 @@
     "source_image_ids": [
       299
     ],
-    "new_images": 3,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3935,7 +3935,7 @@
     "source_image_ids": [
       300
     ],
-    "new_images": 4,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4200,15 +4200,17 @@
   },
   {
     "product_id": "0308",
-    "folder": "0308_Gold-Tone-Bangles-0",
+    "folder": "0308_Gold-Tone-Bangles-1",
     "source_image_ids": [
       321
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0309",
@@ -4487,7 +4489,7 @@
     "source_image_ids": [
       342
     ],
-    "new_images": 4,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4499,7 +4501,7 @@
     "source_image_ids": [
       344
     ],
-    "new_images": 1,
+    "new_images": 2,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4767,15 +4769,17 @@
   },
   {
     "product_id": "0350",
-    "folder": "0350_Gold-Tone-Hair-Clips-0",
+    "folder": "0350_Gold-Tone-Hair-Clips-1",
     "source_image_ids": [
       364
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0351",

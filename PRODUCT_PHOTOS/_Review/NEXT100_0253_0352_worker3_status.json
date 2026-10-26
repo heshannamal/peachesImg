@@ -1,134 +1,154 @@
 {
+  "updated_at": "2026-10-26T01:42:48.833946+00:00",
   "status": "running",
-  "updated_at": "2026-10-22T20:40:38.064359+00:00",
-  "scope": "0293\u20130312",
   "active": [
-    "0303",
-    "0304"
+    "0307",
+    "0308"
+  ],
+  "in_flight": [
+    "0307promo",
+    "0308lifestyle"
   ],
   "products": [
     {
       "product_id": "0293",
       "folder": "0293_Plush-Printed-Headbands-1",
       "saved_images": 5,
-      "complete": true
+      "checked_images": 5,
+      "status": "complete"
     },
     {
       "product_id": "0294",
       "folder": "0294_Pastel-Character-Hair-Clips-0",
       "saved_images": 5,
-      "complete": false
+      "checked_images": 4,
+      "status": "partial"
     },
     {
       "product_id": "0295",
       "folder": "0295_Pastel-Decorative-Hair-Clips-1",
       "saved_images": 5,
-      "complete": true
+      "checked_images": 5,
+      "status": "complete"
     },
     {
       "product_id": "0296",
       "folder": "0296_Colour-Pencil-Tubes-1",
       "saved_images": 5,
-      "complete": true
+      "checked_images": 5,
+      "status": "complete"
     },
     {
       "product_id": "0297",
       "folder": "0297_Decorative-Bracelet-Tubes-1",
       "saved_images": 5,
-      "complete": true
+      "checked_images": 5,
+      "status": "complete"
     },
     {
       "product_id": "0298",
       "folder": "0298_Large-Fabric-Scrunchies-1",
       "saved_images": 5,
-      "complete": true
+      "checked_images": 5,
+      "status": "complete"
     },
     {
       "product_id": "0299",
       "folder": "0299_Colourful-Daisy-Hair-Clips-1",
       "saved_images": 5,
-      "complete": true
+      "checked_images": 5,
+      "status": "complete"
     },
     {
       "product_id": "0300",
       "folder": "0300_Plush-Character-Headbands-1",
       "saved_images": 5,
-      "complete": true
+      "checked_images": 5,
+      "status": "complete"
     },
     {
       "product_id": "0301",
       "folder": "0301_Colourful-Hair-Elastic-Packs-1",
       "saved_images": 5,
-      "complete": true
+      "checked_images": 5,
+      "status": "complete"
     },
     {
       "product_id": "0302",
       "folder": "0302_Pastel-Character-Hair-Clip-Pairs-1",
       "saved_images": 5,
-      "complete": true
+      "checked_images": 5,
+      "status": "complete"
     },
     {
       "product_id": "0303",
-      "folder": "0303_Glow-Character-Accessories-0",
-      "saved_images": 2,
-      "complete": false
+      "folder": "0303_Glow-Character-Accessories-1",
+      "saved_images": 5,
+      "checked_images": 5,
+      "status": "complete"
     },
     {
       "product_id": "0304",
-      "folder": "0304_Character-Highlighter-Pens-0",
-      "saved_images": 1,
-      "complete": false
+      "folder": "0304_Character-Highlighter-Pens-1",
+      "saved_images": 5,
+      "checked_images": 5,
+      "status": "complete"
     },
     {
       "product_id": "0305",
-      "folder": "0305_Printed-Hot-Water-Bottle-0",
-      "saved_images": 0,
-      "complete": false
+      "folder": "0305_Printed-Hot-Water-Bottle-1",
+      "saved_images": 5,
+      "checked_images": 5,
+      "status": "complete"
     },
     {
       "product_id": "0306",
-      "folder": "0306_Bandana-Assortment-0",
-      "saved_images": 0,
-      "complete": false
+      "folder": "0306_Bandana-Assortment-1",
+      "saved_images": 5,
+      "checked_images": 5,
+      "status": "complete"
     },
     {
       "product_id": "0307",
       "folder": "0307_Printed-Fabric-Headbands-0",
-      "saved_images": 0,
-      "complete": false
+      "saved_images": 5,
+      "checked_images": 4,
+      "status": "partial"
     },
     {
       "product_id": "0308",
       "folder": "0308_Gold-Tone-Bangles-0",
-      "saved_images": 0,
-      "complete": false
+      "saved_images": 3,
+      "checked_images": 2,
+      "status": "partial"
     },
     {
       "product_id": "0309",
       "folder": "0309_Floral-Fabric-Pouches-0",
       "saved_images": 0,
-      "complete": false
+      "checked_images": 0,
+      "status": "pending"
     },
     {
       "product_id": "0310",
       "folder": "0310_Printed-Fabric-Pouches-0",
       "saved_images": 0,
-      "complete": false
+      "checked_images": 0,
+      "status": "pending"
     },
     {
       "product_id": "0311",
       "folder": "0311_Butterfly-Hair-Claw-Sets-0",
       "saved_images": 0,
-      "complete": false
+      "checked_images": 0,
+      "status": "pending"
     },
     {
       "product_id": "0312",
       "folder": "0312_Cat-Hot-Water-Bottles-0",
       "saved_images": 0,
-      "complete": false
+      "checked_images": 0,
+      "status": "pending"
     }
-  ],
-  "review_needed": {
-    "0294": "promo badge error after earlier corrective; no additional retry"
-  }
+  ]
 }

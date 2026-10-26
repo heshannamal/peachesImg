@@ -1,0 +1,26 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250306-WA0452.jpg": "34566c996dc323a1dbcdaa7747ba39738bad18333622fb4463df3f7c88467c0a"
+  },
+  "records": [
+    {
+      "saved_file": "Rejected/01_White-Background-initial-extra-extender.png",
+      "source_output": "/workspace/generated_images/exec-29bb0c0f-a502-48b0-bbef-f5306228b8e5.png",
+      "prompt": "Faithful website product photo edit of exact THREE gold-tone fine bead-chain HEART pendant necklaces hanging on THREE overlapping long white cards in clear sleeves, same original front arrangement. Each keeps original tiny spacedgoldball beads, actual fine chainlinks, one smooth irregular puffy gold heart atbottom, original extensionchain/tag visible at top. Preserve THREE necklaces/cards/pendants, visible bead count/spacing and all sourceoverlaps/occlusion. WholeassortmentONEproduct. Remove hand/shop and overlaidprice/material/lifetimeguarantee text only; retain actual product packaging printedlabel. No newclaims, extra jewellery or hiddenbackviews. Cleanwhite seamless studio surroundings, improved even illumination and softshadow, entire original assortment inframe.",
+      "sha256": "459e24a0f3abd57922393aa49db4bde5ea4e889521381569cb1de8b424ff67fe",
+      "checked": false,
+      "visual_review": "Rejected: added second extensionchain/tag at upperleft where sourcehand occludes hardware; material inventedhiddenpart. One whiteview corrective will preserve single originalvisibleextender."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-9648548d-61d0-4be6-aac6-6a241d4a51a8.png",
+      "prompt": "Faithful website product photo edit of exact THREE gold-tone fine bead-chain HEART pendant necklaces hanging on THREE overlapping long white cards in clear sleeves, same original front arrangement. Each keeps original tiny spacedgoldball beads, actual fine chainlinks, one smooth irregular puffy gold heart atbottom, original extensionchain/tag visible at top. Preserve THREE necklaces/cards/pendants, visible bead count/spacing and all sourceoverlaps/occlusion. WholeassortmentONEproduct. Remove hand/shop and overlaidprice/material/lifetimeguarantee text only; retain actual product packaging printedlabel. No newclaims, extra jewellery or hiddenbackviews. CRITICAL keep ONLY THE ONE source-visible extensionchain and smallflat tag at uppercentre. Do not add second extensionchain/tag at lefttop or elsewhere; originalhiddenhand-coveredparts stayunshown, use plainwhite backingcard there. Preserveexactoriginal topcrop/cardoverlap withoutreconstructing unseenhardware. THREEheartpendants/threefinechains exactly. Purewhite seamless surroundings softshadow.",
+      "sha256": "7f92ef9ad3abbde3fe6e840dcc99a7dea5ded97a34c5a56f32b47570aecf12a0",
+      "checked": false
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

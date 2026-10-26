@@ -3665,15 +3665,17 @@
   },
   {
     "product_id": "0269",
-    "folder": "0269_Lipstick-Assortment-0",
+    "folder": "0269_Lipstick-Assortment-1",
     "source_image_ids": [
       277
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0270",
@@ -3681,7 +3683,7 @@
     "source_image_ids": [
       278
     ],
-    "new_images": 2,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3919,9 +3921,9 @@
     "source_image_ids": [
       299
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -3931,9 +3933,9 @@
     "source_image_ids": [
       300
     ],
-    "new_images": 0,
+    "new_images": 2,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -4182,15 +4184,17 @@
   },
   {
     "product_id": "0307",
-    "folder": "0307_Printed-Fabric-Headbands-0",
+    "folder": "0307_Printed-Fabric-Headbands-1",
     "source_image_ids": [
       320
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0308",
@@ -4198,7 +4202,7 @@
     "source_image_ids": [
       321
     ],
-    "new_images": 1,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4462,16 +4466,18 @@
   },
   {
     "product_id": "0328",
-    "folder": "0328_Colourful-Hair-Claws-0",
+    "folder": "0328_Colourful-Hair-Claws-1",
     "source_image_ids": [
       341,
       343
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0329",
@@ -4479,7 +4485,7 @@
     "source_image_ids": [
       342
     ],
-    "new_images": 1,
+    "new_images": 2,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4749,7 +4755,7 @@
     "source_image_ids": [
       363
     ],
-    "new_images": 2,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4761,9 +4767,9 @@
     "source_image_ids": [
       364
     ],
-    "new_images": 0,
+    "new_images": 3,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },

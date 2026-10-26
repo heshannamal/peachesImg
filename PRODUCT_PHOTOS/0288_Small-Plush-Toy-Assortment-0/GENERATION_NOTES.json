@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250307-WA0214.jpg": "af1ed81a8906c336eaaa882d0eccb4ab98570bb1c350c3cc1af2eccf68d3e9fe"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-9c5e6b19-d5e0-4f57-9a4f-10c80ac3629b.png",
+      "prompt": "CONSERVATIVE faithful reference edit of ENTIRE cardboardbox full of overlapping small plush keyring toys as ONEproduct. Keep EXACT ORIGINAL CROP/ARRANGEMENT/CONTENTS, every visible original greenfrog, pinkrabbit with mintgridbelly, maroon bigmouth/face plush, yellowbear redheart, cream panda redheart, orange spottedbellybear, every visible silverkeyring/loop. Preserve original plush identities,colours,faces,bodyshapes, all exact original overlaps, visible count and clippededges. Do not unpack, rearrange, simplify, expand hidden toys or infer12fromprice. Keep ORIGINAL cardboardbox as supportingcontainer and all original contents unchanged; changeonly surroundingbackground/lighting and remove1800Rs12Pcs overlay. No newtext or extra props. Cleanwhite seamless studio surroundings, improved even illumination and softshadow, entire original assortment inframe.",
+      "sha256": "5a58accb443c2a4b6696bfe0cf0031855f9a3e815b617ce8bef3d2cc33fcf7e1",
+      "checked": true,
+      "visual_review": "Compared original entire plush-keyring box: same green/pink/maroon/yellow/cream/orange characters, embroidered faces/redhearts, original pile positions/overlaps and cardboardcontainer retained. No toys unpacked or hidden count inferred."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-52be2884-ba4f-41a0-bb29-79e4c03b5e3f.png",
+      "prompt": "CONSERVATIVE faithful reference edit of ENTIRE cardboardbox full of overlapping small plush keyring toys as ONEproduct. Keep EXACT ORIGINAL CROP/ARRANGEMENT/CONTENTS, every visible original greenfrog, pinkrabbit with mintgridbelly, maroon bigmouth/face plush, yellowbear redheart, cream panda redheart, orange spottedbellybear, every visible silverkeyring/loop. Preserve original plush identities,colours,faces,bodyshapes, all exact original overlaps, visible count and clippededges. Do not unpack, rearrange, simplify, expand hidden toys or infer12fromprice. Keep ORIGINAL cardboardbox as supportingcontainer and all original contents unchanged; changeonly surroundingbackground/lighting and remove1800Rs12Pcs overlay. No newtext or extra props. Lavendercream studio surroundings, softshadow, unchanged originalboxandcontents, no newprops.",
+      "sha256": "bf1e3ed63a685bfd299300e9a0808cd9bd9c4bafeb813a0df534d1205838a994",
+      "checked": false
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

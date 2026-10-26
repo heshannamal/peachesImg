@@ -1,0 +1,28 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250402-WA0407.jpg": "50baa451f3d1acbd78f6de92ef75528cf37939c6224c3d02cc7d769c49500587"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-d8f1c7d0-a927-47dd-af8a-2ca821a01b8b.png",
+      "prompt": "Faithful square website ecommerce photograph editing reference. Exact ONE lightblue and white fluffy cat-face handwarmer cover inside its original clear yellow floral printed zipbag. Preserve white fuzzy face brown eyes/pink cheeks embroidered brown nose/mouth, pink inner ears, blue embroidered scarf and same folded/occluded lightblue fluffy back. Keep clear original package yellow bow/flower decoration and visible text. Do not invent the hidden heating insert, back or unseen parts. Entire packaged product on purewhite seamless background softshadow. Remove hand/shop/1000Rs priceoverlay only; no extra products/text/claims.",
+      "sha256": "b1f390b894cafbfaa136473144fd55d507796f2bb8c6ade88f68670d1364049f",
+      "checked": true,
+      "visual_review": "Compared with original: one blue-white fuzzy cat handwarmer cover, face/scarf/ear details and original yellow floral clear packaging retained; no insert or hidden components invented. Original folded appearance moderately straightened; main material/count/colours faithful."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-067b9101-c0e1-4238-b3e5-19da0b995cef.png",
+      "prompt": "Faithful square website ecommerce photograph editing reference. Exact ONE lightblue and white fluffy cat-face handwarmer cover inside its original clear yellow floral printed zipbag. Preserve white fuzzy face brown eyes/pink cheeks embroidered brown nose/mouth, pink inner ears, blue embroidered scarf and same folded/occluded lightblue fluffy back. Keep clear original package yellow bow/flower decoration and visible text. Do not invent the hidden heating insert, back or unseen parts. Entire packaged product on lavender and cream studio background softshadow. Remove hand/shop/1000Rs priceoverlay only; no extra products/text/claims.",
+      "sha256": "52a7855a4fa0c09164927a0322a70aeeceeb5c37fcf093709d20d922c85de20b",
+      "checked": true,
+      "visual_review": "One packaged blue-white fuzzy cat cover, embroidered face/scarf, yellow floral clearbag and diagonal front pose retained against lavender/cream. No hidden insert invented; minor printing differences accepted."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

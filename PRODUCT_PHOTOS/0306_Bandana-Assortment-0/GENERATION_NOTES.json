@@ -1,0 +1,20 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250402-WA0529.jpg": "c4bd02d82abe8fcdc2e11c5c3bd2e5402dfc48f53042e5aca768751b3b4ee7a9"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-17e06fc6-8de6-4f5d-b3f4-e89b57b678b0.png",
+      "prompt": "Faithful website catalogue photograph editing ENTIRE original packaged fabric headband assortment as ONE product. Exact original TEN clear rectangular packets arranged TWO columns FIVE rows, same visible folded padded fabric strips and clipped bottom-edge portions. Retain all original count/overlap/crops and pattern groups: bluegrey cartoon prints, redblack prints, neutral smallgeometry, pinkgreywhite moustache prints, leopard prints, royalblue solids, pastel grids, black solids, tanpink triangles, bluebrownwhite lightning. Do not unpack, simplify, invent hidden pieces, extend croppedparts or rearrange. Original frontoverhead arrangement on white seamless background softshadow. Remove grey shopfloor/priceoverlay only, no extra text or products.",
+      "sha256": "bb52ff0b4029fa00701adb3fd5d1a8812b3f2e42ae55f04c980a2b85c06e853c",
+      "checked": true,
+      "visual_review": "Compared original: ten clear packets in two columns/five rows, six visible fabric strips per packet, original pattern groups and colours retained. Packaging overlaps faithful; lower packet border completed slightly, with no additional product invented."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

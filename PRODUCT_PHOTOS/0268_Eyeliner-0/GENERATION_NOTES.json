@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250304-WA0553.jpg": "4c08fb9e17662768acff3236e5f34857e707831ce1330627115087b5f7467017"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-738b1762-ddfa-4828-9779-c0ea986526ab.png",
+      "prompt": "Faithful square ecommerce white seamless photograph of EXACT source ONE magenta black YANQINA eyeliner display carton plus ONE closed black-magenta eyeliner pencil beside it. Preserve carton shape, original print including YANQINA,12PCS,36H,blue characters,eye drawing and silver panels, pencil cap shape/proportions/visible printed label. Keep source front view and same relative placement, no opening or inventing hidden contents; source12PCS is carton label not twelve loose pencils to create. Whole visible carton+pencil assortment one product. Remove hand/shop and external1080Rs12Pcs overlay, soft natural shadow, full carton+pencil within frame, no added claims/text/extra products.",
+      "sha256": "be56458fc7bb99d87b1c808da52863c4cd71086d1ec8b6ea9bea201bb6d2aff6",
+      "checked": true,
+      "visual_review": "Compared actual source: one YANQINA magenta/black carton and one closed eyeliner pencil retained, matching overall carton/pencil shapes, colour blocks, brand and prominent label layout. Hand/price/shop removed, no invented loose twelve units; minor small typography differences accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-633e58cb-ec52-4f69-90a2-d00db13b34fe.png",
+      "prompt": "Faithful square styled ecommerce photograph of EXACT source ONE magenta black YANQINA eyeliner carton plus ONE CLOSED black-magenta eyeliner pencil beside it. Preserve actual carton/pencil proportions, shape and original front printed labels including YANQINA,12PCS,36H,blue characters and eye graphic, same arrangement and original caps. Do not open or invent carton contents;12PCS printed label does not mean create twelve loose pencils. Entire visible assortment one product on lavender cream studio background softshadow, remove hand/shop/externalpriceoverlay only. No extra products, added claims or text.",
+      "sha256": "a4dac43634982eae9a34e118e3b3e95f0e9ff3b98731808969f6122d069dd87c",
+      "checked": true,
+      "visual_review": "Compared source one closed pencil and one carton, same YANQINA magenta/black colour blocks, main label layout, shapes/materials retained on lavender cream backdrop; no loose extra pencils or invented contents. Small text differences accepted."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

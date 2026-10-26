@@ -3637,15 +3637,17 @@
   },
   {
     "product_id": "0267",
-    "folder": "0267_Braided-Headbands-0",
+    "folder": "0267_Braided-Headbands-1",
     "source_image_ids": [
       275
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0268",
@@ -3653,7 +3655,7 @@
     "source_image_ids": [
       276
     ],
-    "new_images": 2,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3886,9 +3888,9 @@
       297,
       3147
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -3899,9 +3901,9 @@
       298,
       3148
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -4150,7 +4152,7 @@
     "source_image_ids": [
       318
     ],
-    "new_images": 2,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4162,7 +4164,7 @@
     "source_image_ids": [
       319
     ],
-    "new_images": 1,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4426,7 +4428,7 @@
     "source_image_ids": [
       339
     ],
-    "new_images": 3,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4438,9 +4440,9 @@
     "source_image_ids": [
       340
     ],
-    "new_images": 0,
+    "new_images": 2,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -4687,15 +4689,17 @@
   },
   {
     "product_id": "0346",
-    "folder": "0346_Mini-Handbag-Accessory-Sets-0",
+    "folder": "0346_Mini-Handbag-Accessory-Sets-1",
     "source_image_ids": [
       360
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0347",
@@ -4703,9 +4707,9 @@
     "source_image_ids": [
       361
     ],
-    "new_images": 0,
+    "new_images": 2,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },

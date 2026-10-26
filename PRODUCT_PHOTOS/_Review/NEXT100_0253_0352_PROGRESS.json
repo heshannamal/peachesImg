@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-26T01:25:17.116137+00:00",
+  "updated_at": "2026-10-26T01:28:36.052634+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 61,
-  "partial_products": 9,
-  "pending_products": 30,
+  "completed_products": 63,
+  "partial_products": 11,
+  "pending_products": 26,
   "blocked_products": 0,
-  "saved_images": 334,
-  "checked_images": 328,
+  "saved_images": 352,
+  "checked_images": 340,
   "products": [
     {
       "product_id": "0253",
@@ -277,21 +277,20 @@
     },
     {
       "product_id": "0267",
-      "folder": "0267_Braided-Headbands-0",
-      "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
+      "folder": "0267_Braided-Headbands-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
+        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "five images saved and visually checked",
       "errors": [],
       "originals_unchanged": true
     },
@@ -299,15 +298,15 @@
       "product_id": "0268",
       "folder": "0268_Eyeliner-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 2,
+      "saved_images": 4,
+      "checked_images": 4,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
@@ -622,39 +621,49 @@
     {
       "product_id": "0285",
       "folder": "0285_Colourful-Hair-Clip-Cards-0",
-      "status": "pending",
-      "saved_images": 0,
+      "status": "partial",
+      "saved_images": 1,
       "checked_images": 0,
-      "files": [],
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "missing_images": [
-        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "review_needed_images": [
+        "New/01_White-Background.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png"
+      ],
       "originals_unchanged": true
     },
     {
       "product_id": "0286",
       "folder": "0286_Metallic-Hair-Clip-Cards-0",
-      "status": "pending",
-      "saved_images": 0,
+      "status": "partial",
+      "saved_images": 1,
       "checked_images": 0,
-      "files": [],
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "missing_images": [
-        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "review_needed_images": [
+        "New/01_White-Background.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png"
+      ],
       "originals_unchanged": true
     },
     {
@@ -1007,40 +1016,48 @@
       "product_id": "0305",
       "folder": "0305_Printed-Hot-Water-Bottle-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 2,
+      "saved_images": 4,
+      "checked_images": 3,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
+      "review_needed_images": [
+        "New/04_Detail.png"
+      ],
       "notes_status": "in_progress",
-      "errors": [],
+      "errors": [
+        "unreviewed or unrecorded: 04_Detail.png"
+      ],
       "originals_unchanged": true
     },
     {
       "product_id": "0306",
       "folder": "0306_Bandana-Assortment-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
+      "saved_images": 3,
+      "checked_images": 2,
       "files": [
-        "New/01_White-Background.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
+      "review_needed_images": [
+        "New/03_Lifestyle.png"
+      ],
       "notes_status": "in_progress",
-      "errors": [],
+      "errors": [
+        "unreviewed or unrecorded: 03_Lifestyle.png"
+      ],
       "originals_unchanged": true
     },
     {
@@ -1418,39 +1435,47 @@
       "product_id": "0326",
       "folder": "0326_Pastel-Butterfly-Hair-Claws-0",
       "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
+      "saved_images": 5,
+      "checked_images": 4,
       "files": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": "in_progress",
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "0327",
-      "folder": "0327_Hair-Elastic-Packs-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/05_Promotional.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0327",
+      "folder": "0327_Hair-Elastic-Packs-0",
+      "status": "partial",
+      "saved_images": 2,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png"
+      ],
+      "missing_images": [
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "review_needed_images": [
+        "New/02_Styled-Background.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 02_Styled-Background.png"
+      ],
       "originals_unchanged": true
     },
     {
@@ -1801,40 +1826,40 @@
     },
     {
       "product_id": "0346",
-      "folder": "0346_Mini-Handbag-Accessory-Sets-0",
-      "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
+      "folder": "0346_Mini-Handbag-Accessory-Sets-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": "in_progress",
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "0347",
-      "folder": "0347_Plush-Headbands-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "five images saved and visually checked",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0347",
+      "folder": "0347_Plush-Headbands-0",
+      "status": "partial",
+      "saved_images": 2,
+      "checked_images": 2,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png"
+      ],
+      "missing_images": [
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "review_needed_images": [],
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },

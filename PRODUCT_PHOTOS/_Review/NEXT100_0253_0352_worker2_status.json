@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-10-22T20:40:44.896154+00:00",
-  "status": "running",
+  "updated_at": "2026-10-26T01:26:10.065751+00:00",
   "scope": "0273\u20130292",
-  "completed_products": [
+  "complete_product_ids": [
     "0273",
     "0274",
     "0275",
@@ -12,17 +11,21 @@
     "0279",
     "0280",
     "0281",
-    "0282"
-  ],
-  "active_products": [
+    "0282",
     "0283",
     "0284"
   ],
-  "new_completed_this_resume": [
-    "0279",
-    "0280",
-    "0281",
-    "0282"
+  "active_product_ids": [
+    "0285",
+    "0286"
   ],
-  "inflight": 0
+  "pending_product_ids": [
+    "0287",
+    "0288",
+    "0289",
+    "0290",
+    "0291",
+    "0292"
+  ],
+  "status": "running"
 }

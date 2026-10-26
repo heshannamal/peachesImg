@@ -1,0 +1,26 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250426-WA0118.jpg": "f38b2ebe5c38114970d5dd3460035d4d13f426de28c9295738b673faf24df7db"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-b8d61bf8-079f-4328-9f67-149c2da20f35.png",
+      "prompt": "Faithful website photo of original bundled fuzzy round animal-ear headbands as ONE assortment. Preserve original overlapping fan of FIVE headbands pink front, dustyrose behind, sagegreen, pale blue, cream at back; preserve actual visible rounded plush ears, U-shaped curves, fur colours and exact overlap/occlusion, do not invent hidden parts. Original front orientation, whole visible bundle fully framed. Remove hand/watch/shop/1320Rs price overlay only, no added products/text. Pure white seamless background soft shadows.",
+      "sha256": "0b6c6d015fac9b8ebc5af33a6db2a5b9f3d173a305762f4d385ea32bed5ec4b8",
+      "checked": true,
+      "visual_review": "Exactly five original furry round-ear headbands in original pink/dustyrose/sage/paleblue/cream overlap and fan, U curves and plush rounded ears preserved; hand removed without inventing extra headbands."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-b5ac1cae-d3aa-4496-a9b1-37f3f248a70c.png",
+      "prompt": "Faithful edit of exact original FIVE fuzzy round animal-ear headbands in overlapped fan: pink front,dustyrose,sagegreen,paleblue,cream back. Preserve actual round plush ear shapes, U-curves, colours, fur and original occlusions/count, no hiddenparts invented. Whole original bundle oneproduct fullyvisible on lavender cream studio surface/background softshadow. Remove hand/watch/shop/price only, no extra products or new text.",
+      "sha256": "1a144f0be04034fec758ff7dc85534ecf076cc426b58865ff9188ef16193ef0b",
+      "checked": true,
+      "visual_review": "Exactly five furry round-ear headbands preserve original overlapping pink/dustyrose/sage/blue/cream arrangement and U curves; lavender studio background, no changed main count or shape."
+    }
+  ],
+  "status": "in_progress"
+}

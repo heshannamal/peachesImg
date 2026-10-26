@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-26T18:09:22.537716+00:00",
+  "updated_at": "2026-10-26T18:15:44.620614+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 90,
-  "partial_products": 9,
+  "completed_products": 92,
+  "partial_products": 7,
   "pending_products": 0,
   "blocked_products": 1,
-  "saved_images": 476,
-  "checked_images": 470,
+  "saved_images": 491,
+  "checked_images": 483,
   "products": [
     {
       "product_id": "0253",
@@ -355,8 +355,31 @@
       "product_id": "0271",
       "folder": "0271_Jesus-Silicone-Wristbands-0",
       "status": "partial",
+      "saved_images": 5,
+      "checked_images": 4,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/05_Promotional.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0272",
+      "folder": "0272_Gold-Tone-Pendant-Necklaces-0",
+      "status": "partial",
       "saved_images": 3,
-      "checked_images": 3,
+      "checked_images": 2,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
@@ -366,29 +389,13 @@
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": "in_progress",
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "0272",
-      "folder": "0272_Gold-Tone-Pendant-Necklaces-0",
-      "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
-      "files": [
-        "New/01_White-Background.png"
+      "review_needed_images": [
+        "New/03_Lifestyle.png"
       ],
-      "missing_images": [
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
       "notes_status": "in_progress",
-      "errors": [],
+      "errors": [
+        "unreviewed or unrecorded: 03_Lifestyle.png"
+      ],
       "originals_unchanged": true
     },
     {
@@ -699,15 +706,15 @@
       "product_id": "0289",
       "folder": "0289_Metal-Chain-Bracelets-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
+      "saved_images": 4,
+      "checked_images": 4,
       "files": [
-        "New/01_White-Background.png"
-      ],
-      "missing_images": [
+        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png",
+        "New/04_Detail.png"
+      ],
+      "missing_images": [
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
@@ -719,15 +726,15 @@
       "product_id": "0290",
       "folder": "0290_Pastel-Hair-Claws-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
+      "saved_images": 4,
+      "checked_images": 4,
       "files": [
-        "New/01_White-Background.png"
-      ],
-      "missing_images": [
+        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png",
+        "New/04_Detail.png"
+      ],
+      "missing_images": [
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
@@ -737,21 +744,20 @@
     },
     {
       "product_id": "0291",
-      "folder": "0291_Character-Erasers-0",
-      "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
+      "folder": "0291_Character-Erasers-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
-        "New/01_White-Background.png"
-      ],
-      "missing_images": [
+        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "five images saved and visually checked",
       "errors": [],
       "originals_unchanged": true
     },
@@ -1122,21 +1128,20 @@
     },
     {
       "product_id": "0311",
-      "folder": "0311_Butterfly-Hair-Claw-Sets-0",
-      "status": "partial",
-      "saved_images": 4,
-      "checked_images": 4,
+      "folder": "0311_Butterfly-Hair-Claw-Sets-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png"
-      ],
-      "missing_images": [
+        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "five images saved and visually checked",
       "errors": [],
       "originals_unchanged": true
     },

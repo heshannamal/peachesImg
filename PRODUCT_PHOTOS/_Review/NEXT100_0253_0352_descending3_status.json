@@ -1,18 +1,20 @@
 {
-  "updated_at": "2026-10-26T17:58:38.452486+00:00",
+  "updated_at": "2026-10-26T18:13:07.513370+00:00",
   "assigned_products": [
-    "0330",
-    "0329"
+    "0292",
+    "0291"
   ],
   "completed_products": [
     "0330",
-    "0329"
+    "0329",
+    "0291"
   ],
-  "saved_images": 10,
-  "checked_images": 10,
-  "newly_generated_this_turn": 3,
-  "existing_reviewed_this_turn": 2,
+  "blocked_products": [
+    "0292"
+  ],
+  "blocker_request": "2d4f7029-ba48-48c7-8a5c-df7ba1cc2774",
   "in_flight": 0,
-  "status": "complete_waiting_parent_assignment",
-  "original_hashes_verified": true
+  "new_images_generated_total_this_worker": 8,
+  "status": "assigned_pair_finished_waiting_parent",
+  "originals_verified": true
 }

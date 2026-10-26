@@ -1,9 +1,9 @@
 {
-  "status": "assigned_pair_complete",
-  "updated_at": "2026-10-26T18:07:22.194186+00:00",
+  "status": "running_final_assigned_pair",
+  "updated_at": "2026-10-26T18:13:59.898099+00:00",
   "assigned_product_ids": [
-    "0288",
-    "0287"
+    "0272",
+    "0271"
   ],
   "completed_product_ids": [
     "0352",
@@ -11,11 +11,27 @@
     "0288",
     "0287"
   ],
-  "current_pair_new_saved_checked_images": 1,
-  "current_pair_existing_reviewed_images": 2,
-  "active_products": [],
-  "in_flight": [],
-  "original_plan_hashes_verified": true,
+  "active_products": [
+    "0272",
+    "0271"
+  ],
+  "in_flight": [
+    "0272/03_Lifestyle",
+    "0271/05_Promotional"
+  ],
+  "saved_checked_this_pair": {
+    "0272": [
+      "01_White-Background",
+      "02_Styled-Background"
+    ],
+    "0271": [
+      "01_White-Background",
+      "02_Styled-Background",
+      "03_Lifestyle",
+      "04_Detail"
+    ]
+  },
   "corrective_attempts_this_pair": 0,
-  "waiting_for_parent_dispatch": true
+  "original_plan_hashes_verified": true,
+  "note": "Originalhashesverifybeforecompletion;272existingwhitecorrectivepreviouslyspentreviewedpassed."
 }

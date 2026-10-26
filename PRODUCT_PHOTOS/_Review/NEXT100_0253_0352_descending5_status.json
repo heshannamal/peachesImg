@@ -1,0 +1,32 @@
+{
+  "updated_at": "2026-10-26T18:02:24.631122+00:00",
+  "worker": "descending5",
+  "status": "assigned_pair_complete_waiting_for_parent",
+  "assigned_ids": [
+    "0310",
+    "0309"
+  ],
+  "completed_products": 2,
+  "saved_images": 10,
+  "checked_images": 10,
+  "new_images_generated": 8,
+  "in_flight": 0,
+  "rows": [
+    {
+      "product_id": "0310",
+      "folder": "0310_Printed-Fabric-Pouches-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0309",
+      "folder": "0309_Floral-Fabric-Pouches-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "originals_unchanged": true
+    }
+  ]
+}

@@ -10,23 +10,19 @@
       "0331"
     ],
     "descending3": [
-      "0330",
-      "0329"
+      "0292",
+      "0291"
     ],
     "descending4": [
       "0312",
       "0311"
     ],
     "descending5": [
-      "0310",
-      "0309"
+      "0290",
+      "0289"
     ]
   },
   "next_unassigned": [
-    "0292",
-    "0291",
-    "0290",
-    "0289",
     "0288",
     "0287",
     "0272",
@@ -38,5 +34,15 @@
     "0294"
   ],
   "max_workers": 5,
-  "max_active_products_per_worker": 2
+  "max_active_products_per_worker": 2,
+  "finished_assignments": {
+    "descending3": [
+      "0330",
+      "0329"
+    ],
+    "descending5": [
+      "0310",
+      "0309"
+    ]
+  }
 }

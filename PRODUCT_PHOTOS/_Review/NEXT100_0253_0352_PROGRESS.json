@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-26T17:58:44.619801+00:00",
+  "updated_at": "2026-10-26T18:04:03.939331+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 81,
-  "partial_products": 15,
+  "completed_products": 84,
+  "partial_products": 12,
   "pending_products": 4,
   "blocked_products": 0,
-  "saved_images": 449,
-  "checked_images": 439,
+  "saved_images": 465,
+  "checked_images": 453,
   "products": [
     {
       "product_id": "0253",
@@ -1098,41 +1098,39 @@
     },
     {
       "product_id": "0309",
-      "folder": "0309_Floral-Fabric-Pouches-0",
-      "status": "partial",
-      "saved_images": 4,
-      "checked_images": 4,
+      "folder": "0309_Floral-Fabric-Pouches-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png"
-      ],
-      "missing_images": [
+        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "five images saved and visually checked",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0310",
-      "folder": "0310_Printed-Fabric-Pouches-0",
-      "status": "partial",
-      "saved_images": 2,
-      "checked_images": 2,
+      "folder": "0310_Printed-Fabric-Pouches-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
-      ],
-      "missing_images": [
+        "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "five images saved and visually checked",
       "errors": [],
       "originals_unchanged": true
     },
@@ -1140,14 +1138,14 @@
       "product_id": "0311",
       "folder": "0311_Butterfly-Hair-Claw-Sets-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
+      "saved_images": 3,
+      "checked_images": 3,
       "files": [
-        "New/01_White-Background.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
@@ -1160,14 +1158,14 @@
       "product_id": "0312",
       "folder": "0312_Cat-Hot-Water-Bottles-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
+      "saved_images": 3,
+      "checked_images": 3,
       "files": [
-        "New/01_White-Background.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
@@ -1532,14 +1530,14 @@
       "product_id": "0331",
       "folder": "0331_Body-Lotion-Bottles-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 2,
+      "saved_images": 3,
+      "checked_images": 3,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
@@ -1552,14 +1550,14 @@
       "product_id": "0332",
       "folder": "0332_Rechargeable-Cactus-Toy-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 2,
+      "saved_images": 3,
+      "checked_images": 3,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
@@ -1916,21 +1914,20 @@
     },
     {
       "product_id": "0351",
-      "folder": "0351_Colourful-Hair-Claw-Assortment-0",
-      "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
+      "folder": "0351_Colourful-Hair-Claw-Assortment-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
+        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "five images saved and visually checked",
       "errors": [],
       "originals_unchanged": true
     },
@@ -1938,20 +1935,25 @@
       "product_id": "0352",
       "folder": "0352_Plush-Character-Hair-Clips-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
+      "saved_images": 5,
+      "checked_images": 3,
       "files": [
-        "New/01_White-Background.png"
-      ],
-      "missing_images": [
+        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
       "notes_status": "in_progress",
-      "errors": [],
+      "errors": [
+        "unreviewed or unrecorded: 04_Detail.png",
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
       "originals_unchanged": true
     }
   ]

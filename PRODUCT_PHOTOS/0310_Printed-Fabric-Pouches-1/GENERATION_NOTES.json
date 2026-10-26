@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250404-WA0397.jpg": "94969ef34593bbfb88ae6fe43902b8f052c06240253dfe97d0fa75b205b37e2e"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-a658f9c7-46f1-42da-9e01-7e3e23c9a8c7.png",
+      "prompt": "Faithful website reference edit ENTIRE original packaged stack of flat quilted fabric pencil pouches as ONE product. Preserve exact TWO dominant front-visible pouches in original overlapping vertical arrangement: upper large pink pouch with blue-dress princess/snowman prints and diamond quilting, lower black pouch with pink cherry blossoms and butterflies. Preserve all actual partially visible rear pouch edges, exact original overlaps/occlusion, black zipper strips and pulls, striped redwhitegreen side loop, clear bag, fabric prints/colours/shapes. Do not unpack, invent hidden pouches or infer12pieces from price. Remove hand/shop/price overlay only, no newtext/products or unseen interiors. Full original packaged stack fullyframed on purewhite seamless studio background, soft contact shadow, same frontview/crop.",
+      "sha256": "fe5f858fd09e7c59a5f75169cffc47866bf7641ec14b1018711715e7a72e798a",
+      "checked": true,
+      "visual_review": "Compared with original: two dominant front flat pouches, pink princess/snowman quilted print over black floral butterfly pouch, occluded rear edges, black zip strips and side loops retained. Entire original packaged arrangement preserved; shop and price removed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-f4880d50-039f-46a0-a888-dda8cce47da1.png",
+      "prompt": "Faithful website reference edit ENTIRE original packaged stack of flat quilted fabric pencil pouches as ONE product. Preserve exact TWO dominant front-visible pouches in original overlapping vertical arrangement: upper large pink pouch with blue-dress princess/snowman prints and diamond quilting, lower black pouch with pink cherry blossoms and butterflies. Preserve all actual partially visible rear pouch edges, exact original overlaps/occlusion, black zipper strips and pulls, striped redwhitegreen side loop, clear bag, fabric prints/colours/shapes. Do not unpack, invent hidden pouches or infer12pieces from price. Remove hand/shop/price overlay only, no newtext/products or unseen interiors. Full original packaged stack on lavender and cream seamless studio background, same frontview/crop softshadow.",
+      "sha256": "135b3ec82e401a4752e13bea7195dcb7fc04664af714aba01452ec4ad19cde49",
+      "checked": true,
+      "visual_review": "Compared original: same two dominant front pouches pink princess print and black floral/butterfly print, rear partial edges, quilting, black zip strips and bag retained on lavender/cream. Main shapes, colours, arrangement and visible count preserved."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-369768f5-31b9-4f1d-bad9-a384ba694267.png",
+      "prompt": "Faithful website reference edit ENTIRE original packaged stack of flat quilted fabric pencil pouches as ONE product. Preserve exact TWO dominant front-visible pouches in original overlapping vertical arrangement: upper large pink pouch with blue-dress princess/snowman prints and diamond quilting, lower black pouch with pink cherry blossoms and butterflies. Preserve all actual partially visible rear pouch edges, exact original overlaps/occlusion, black zipper strips and pulls, striped redwhitegreen side loop, clear bag, fabric prints/colours/shapes. Do not unpack, invent hidden pouches or infer12pieces from price. Remove hand/shop/price overlay only, no newtext/products or unseen interiors. Full original packaged stack on cream study desk in softly blurred lavender study room, daylight, same front crop and orientation, no hands or extra products touching.",
+      "sha256": "d580322f7a161dcedd9b402d67738f27632c8f3145b526fcac5f061a7b57b8e3",
+      "checked": true,
+      "visual_review": "Compared source: two dominant front flat pouches in same pink-over-black arrangement, pink princess/snowman and black floral/butterfly prints, quilting and clear bag maintained. Rear partial edges remain occluded; study-room context does not introduce additional pouches."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-91de1323-8902-47ff-919d-89076f3c9cc3.png",
+      "prompt": "Standalone square tight macro crop ONLY small real portion of original upper pink pouch: diagonal diamond-quilting stitched seam with pink textile weave and small edge of blue princess-dress printed motif from original. Faithful exact pink/white quilting and blue print material/colours/geometry through original clear wrapper if visible. Do not show whole pouch/assortment, no new zipper parts, hidden parts or text. Website product detail reference edit, very tight actual fabric crop.",
+      "sha256": "9e25c45a631c74e52ecee46f05856acad4a25283e2427375e7683a526f77d783",
+      "checked": true,
+      "visual_review": "Standalone tight macro of actual pink quilted fabric and blue dress-print edge; original diagonal diamond stitch geometry, textile and pink/blue/white colours preserved through clear wrapping. No full-pouch framing or invented hidden parts."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-5977887d-5c4d-47ff-bfd8-3ae0a16fb518.png",
+      "prompt": "Faithful website reference edit ENTIRE original packaged stack of flat quilted fabric pencil pouches as ONE product. Preserve exact TWO dominant front-visible pouches in original overlapping vertical arrangement: upper large pink pouch with blue-dress princess/snowman prints and diamond quilting, lower black pouch with pink cherry blossoms and butterflies. Preserve all actual partially visible rear pouch edges, exact original overlaps/occlusion, black zipper strips and pulls, striped redwhitegreen side loop, clear bag, fabric prints/colours/shapes. Do not unpack, invent hidden pouches or infer12pieces from price. Remove hand/shop/price overlay only, no newtext/products or unseen interiors. Full original packaged stack slightly reduced with margins on lavender/cream promotional background. Small accurate plum heading Printed Pencil Pouch Assortment and PRODUCT COLLECTION. Same original frontview arrangement, no prices or other new text.",
+      "sha256": "ac76ed6c66e15a415f01fe0f62852017079b3d11bc70066881b02e4dad62005d",
+      "checked": true,
+      "visual_review": "Original two dominant front pink/black pouches and rear occluded stack maintained, princess/snowman and floral/butterfly prints/quilting, zip strips, clear bag and main colours/count retained. Accurate Printed Pencil Pouch Assortment heading; no material identity/count error."
+    }
+  ],
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

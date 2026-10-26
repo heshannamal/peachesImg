@@ -1,0 +1,28 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250403-WA0136.jpg": "41532f77ee95ef3ff9670258ba17f7ce0527ebd87915afc6d54953c30468718e"
+  },
+  "records": [
+    {
+      "saved_file": "Rejected/01_White-Background-initial-motif.png",
+      "source_output": "/workspace/generated_images/exec-885196a1-4081-4fa0-bb10-02025b36af21.png",
+      "prompt": "Faithful square website productphotograph edit of EXACT FOUR gold-tone oval hinged bangles individually packaged in clear bags with original white Stainless Steel headers. Preserve original overlapping four rows, front-facing round clear stones alternating slotted screw motifs, exact visible motif order and same goldmetal finish, hinge shapes, visible inner engravings, original orientation and packing. Entire four-bangle assortment ONEproduct. Remove hand/shop/priceoverlay/warrantyclaims only. Full originalfour fullyframed purewhite seamless background softshadow. Do not add branding, material assurances, warranty, inventedbackparts, extra jewellery or text.",
+      "sha256": "4872ca0b66704975d99c2a38f0e52ce5d6bb825779b714da61065602afbd11fb",
+      "checked": false,
+      "visual_review": "Material motif-order error on upper bangle: original upper-left front screw became an extra stone. One corrective attempt authorized for this white view."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-2224856c-2732-4fe2-a617-9dbe56a8d04d.png",
+      "prompt": "Faithful square website productphotograph edit of EXACT FOUR gold-tone oval hinged bangles individually packaged in clear bags with original white Stainless Steel headers. Preserve original overlapping four rows, front-facing round clear stones alternating slotted screw motifs, exact visible motif order and same goldmetal finish, hinge shapes, visible inner engravings, original orientation and packing. Entire four-bangle assortment ONEproduct. Remove hand/shop/priceoverlay/warrantyclaims only. Full originalfour fullyframed purewhite seamless background softshadow. Do not add branding, material assurances, warranty, inventedbackparts, extra jewellery or text. CRITICAL preserve original jewellery motif identities at original positions. TOP bangle front fromLEFT toRIGHT: slottedSCREW atfarleft, ONEclearSTONE leftcentre, slottedSCREW centre, ONEclearSTONE rightcentre, slottedSCREW farright. NO thirdstone farleft. All other bangle motifs same original unchanged. Keep exact source perspective and overlaps, edit background ONLY; do NOT reshape/move/redesign jewellery.",
+      "sha256": "f483a6f28e6f8b47547c751d0b2e314c483eb4407723764398cd8c6edea106cb",
+      "checked": true,
+      "visual_review": "Single correction now preserves four packaged gold-tone bangles and source screw-stone-screw-stone-screw motif sequence on upper bangle. Original overlaps, oval geometry, clear wrappers and headers retained; initial incorrect motif result rejected."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

@@ -3669,7 +3669,7 @@
     "source_image_ids": [
       277
     ],
-    "new_images": 1,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3681,9 +3681,9 @@
     "source_image_ids": [
       278
     ],
-    "new_images": 0,
+    "new_images": 2,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -3885,29 +3885,33 @@
   },
   {
     "product_id": "0285",
-    "folder": "0285_Colourful-Hair-Clip-Cards-0",
+    "folder": "0285_Colourful-Hair-Clip-Cards-1",
     "source_image_ids": [
       297,
       3147
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0286",
-    "folder": "0286_Metallic-Hair-Clip-Cards-0",
+    "folder": "0286_Metallic-Hair-Clip-Cards-1",
     "source_image_ids": [
       298,
       3148
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0287",
@@ -4182,7 +4186,7 @@
     "source_image_ids": [
       320
     ],
-    "new_images": 1,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4194,9 +4198,9 @@
     "source_image_ids": [
       321
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -4444,15 +4448,17 @@
   },
   {
     "product_id": "0327",
-    "folder": "0327_Hair-Elastic-Packs-0",
+    "folder": "0327_Hair-Elastic-Packs-1",
     "source_image_ids": [
       340
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0328",
@@ -4461,7 +4467,7 @@
       341,
       343
     ],
-    "new_images": 2,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4473,9 +4479,9 @@
     "source_image_ids": [
       342
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -4725,15 +4731,17 @@
   },
   {
     "product_id": "0348",
-    "folder": "0348_Bunny-Ear-Plush-Headbands-0",
+    "folder": "0348_Bunny-Ear-Plush-Headbands-1",
     "source_image_ids": [
       362
     ],
-    "new_images": 3,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0349",
@@ -4741,9 +4749,9 @@
     "source_image_ids": [
       363
     ],
-    "new_images": 0,
+    "new_images": 2,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },

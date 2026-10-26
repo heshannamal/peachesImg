@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-26T01:28:58.677572+00:00",
+  "updated_at": "2026-10-26T01:35:52.712585+00:00",
   "status": "running",
-  "complete": 13,
-  "saved_images": 72,
-  "checked_images": 68,
+  "complete": 14,
+  "saved_images": 78,
+  "checked_images": 74,
   "products": [
     {
       "product_id": "0313",
@@ -316,33 +316,40 @@
     },
     {
       "product_id": "0327",
-      "folder": "0327_Hair-Elastic-Packs-0",
+      "folder": "0327_Hair-Elastic-Packs-1",
       "saved": [
         "01_White-Background",
-        "02_Styled-Background"
-      ],
-      "checked": [
-        "01_White-Background",
-        "02_Styled-Background"
-      ],
-      "missing": [
+        "02_Styled-Background",
         "03_Lifestyle",
         "04_Detail",
         "05_Promotional"
       ],
+      "checked": [
+        "01_White-Background",
+        "02_Styled-Background",
+        "03_Lifestyle",
+        "04_Detail",
+        "05_Promotional"
+      ],
+      "missing": [],
       "review_needed": [],
-      "complete": false,
+      "complete": true,
       "originals_unchanged": true
     },
     {
       "product_id": "0328",
       "folder": "0328_Colourful-Hair-Claws-0",
-      "saved": [],
-      "checked": [],
-      "missing": [
+      "saved": [
         "01_White-Background",
         "02_Styled-Background",
-        "03_Lifestyle",
+        "03_Lifestyle"
+      ],
+      "checked": [
+        "01_White-Background",
+        "02_Styled-Background",
+        "03_Lifestyle"
+      ],
+      "missing": [
         "04_Detail",
         "05_Promotional"
       ],

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-26T01:33:49.017403+00:00",
+  "updated_at": "2026-10-26T01:38:04.518258+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 68,
+  "completed_products": 72,
   "partial_products": 10,
-  "pending_products": 22,
+  "pending_products": 18,
   "blocked_products": 0,
-  "saved_images": 372,
-  "checked_images": 366,
+  "saved_images": 391,
+  "checked_images": 385,
   "products": [
     {
       "product_id": "0253",
@@ -317,14 +317,14 @@
       "product_id": "0269",
       "folder": "0269_Lipstick-Assortment-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
+      "saved_images": 3,
+      "checked_images": 3,
       "files": [
-        "New/01_White-Background.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
@@ -336,19 +336,20 @@
     {
       "product_id": "0270",
       "folder": "0270_Necklace-And-Earring-Sets-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "status": "partial",
+      "saved_images": 2,
+      "checked_images": 2,
+      "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
+        "New/02_Styled-Background.png"
+      ],
+      "missing_images": [
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },
@@ -620,41 +621,39 @@
     },
     {
       "product_id": "0285",
-      "folder": "0285_Colourful-Hair-Clip-Cards-0",
-      "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
+      "folder": "0285_Colourful-Hair-Clip-Cards-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
+        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "five images saved and visually checked",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0286",
-      "folder": "0286_Metallic-Hair-Clip-Cards-0",
-      "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
+      "folder": "0286_Metallic-Hair-Clip-Cards-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
+        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "five images saved and visually checked",
       "errors": [],
       "originals_unchanged": true
     },
@@ -1046,6 +1045,26 @@
       "product_id": "0307",
       "folder": "0307_Printed-Fabric-Headbands-0",
       "status": "partial",
+      "saved_images": 3,
+      "checked_images": 3,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
+      ],
+      "missing_images": [
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "review_needed_images": [],
+      "notes_status": "in_progress",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0308",
+      "folder": "0308_Gold-Tone-Bangles-0",
+      "status": "partial",
       "saved_images": 1,
       "checked_images": 1,
       "files": [
@@ -1059,25 +1078,6 @@
       ],
       "review_needed_images": [],
       "notes_status": "in_progress",
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "0308",
-      "folder": "0308_Gold-Tone-Bangles-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": null,
       "errors": [],
       "originals_unchanged": true
     },
@@ -1435,7 +1435,26 @@
     },
     {
       "product_id": "0327",
-      "folder": "0327_Hair-Elastic-Packs-0",
+      "folder": "0327_Hair-Elastic-Packs-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five images saved and visually checked",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0328",
+      "folder": "0328_Colourful-Hair-Claws-0",
       "status": "partial",
       "saved_images": 4,
       "checked_images": 4,
@@ -1454,41 +1473,22 @@
       "originals_unchanged": true
     },
     {
-      "product_id": "0328",
-      "folder": "0328_Colourful-Hair-Claws-0",
-      "status": "partial",
-      "saved_images": 2,
-      "checked_images": 2,
-      "files": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
-      ],
-      "missing_images": [
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": "in_progress",
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
       "product_id": "0329",
       "folder": "0329_Pearl-Style-Hair-Claws-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "missing_images": [
-        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },
@@ -1840,40 +1840,40 @@
     },
     {
       "product_id": "0348",
-      "folder": "0348_Bunny-Ear-Plush-Headbands-0",
-      "status": "partial",
-      "saved_images": 3,
-      "checked_images": 3,
+      "folder": "0348_Bunny-Ear-Plush-Headbands-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png"
-      ],
-      "missing_images": [
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": "in_progress",
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "0349",
-      "folder": "0349_Plush-Bow-Hair-Claws-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "five images saved and visually checked",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0349",
+      "folder": "0349_Plush-Bow-Hair-Claws-0",
+      "status": "partial",
+      "saved_images": 2,
+      "checked_images": 2,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png"
+      ],
+      "missing_images": [
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "review_needed_images": [],
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },

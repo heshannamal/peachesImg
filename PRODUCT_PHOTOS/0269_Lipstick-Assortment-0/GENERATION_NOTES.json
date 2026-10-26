@@ -1,0 +1,26 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250304-WA0554.jpg": "b32e2a16d9c92f66b6f04a8025a4c4f03b1fbbba2f61fdc0917598f53d3e660d"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-a991e184-ec8c-4e70-bf62-c3deece1317c.png",
+      "prompt": "Faithful square website catalogue photograph of exact original black ADS lipstick display carton with TWELVE capped lipstick tubes in original THREE ROWS FOUR EACH. Keep all12 transparentclosedcaps, white barrels and original red/pink lipstick colours visible throughcaps, blacklipprinted cartonsides and uprightADS MATTE LIPSTICK header with yellow orange pink lilac kissgraphics, original arrangement/overlap/count and visibleprint. Whole carton oneassortment. Preserve front Uwindow geometry, do not open/remove caps or invent looseextras. Remove hand/shop/900Rs12Pcs overlay only. White seamlessbackground softshadow fullcartoninframe, no addedtext or claims.",
+      "sha256": "c0a3f2ca7f3dce54610db2436435e06e95191b71c191aabf9cce79aa7f1be4c6",
+      "checked": true,
+      "visual_review": "Compared source: twelve transparent-capped lipstick tubes arranged three rows of four, white barrels with red/pink shades, same ADS black kissprint carton/header and front Uwindow. Main count/identity/shape/colours retained, no opened or extra tubes. Minor print differences accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-d0fb4f2c-694e-4539-8d95-ff6c1ab030c8.png",
+      "prompt": "Faithful square styled website photograph of exact source black ADS lipstickdisplay carton containing TWELVE closed clearcapped lipstick tubes THREE ROWS FOUR EACH, same original red/pink shades, whitebarrels, printedlogos, original blackheader and kissgraphics yelloworange pinklilac, frontUwindowcutout, count/arrangement/overlap unchanged. Whole carton assortmentONEproduct, lavendercream studio background softshadow. Removehand/shop/external900Rsprice only; no openingcaps, inventedlooseitems or additionaltext/claims.",
+      "sha256": "e47f818492c2386fca42a456e40d4e3925244be2a4174d74ee1b38b46c9a2d5e",
+      "checked": false
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

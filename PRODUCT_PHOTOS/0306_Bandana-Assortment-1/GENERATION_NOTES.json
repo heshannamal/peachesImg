@@ -26,10 +26,27 @@
       "source_output": "/workspace/generated_images/exec-58bc849c-d641-4d65-a645-bcb31ed7da34.png",
       "prompt": "Faithful website catalogue photograph editing ENTIRE original packaged fabric headband assortment as ONE product. Exact original TEN clear rectangular packets arranged TWO columns FIVE rows, same visible folded padded fabric strips and clipped bottom-edge portions. Retain all original count/overlap/crops and pattern groups: bluegrey cartoon prints, redblack prints, neutral smallgeometry, pinkgreywhite moustache prints, leopard prints, royalblue solids, pastel grids, black solids, tanpink triangles, bluebrownwhite lightning. Do not unpack, simplify, invent hidden pieces, extend croppedparts or rearrange. Original frontoverhead arrangement on cream display table in softly blurred lavender dressing room, natural daylight softshadow, same overhead arrangement. Remove grey shopfloor/priceoverlay only, no extra text or products.",
       "sha256": "d93412006572d0d3beda1a3bdd003fd2189c8ff76a740f49c5095969565a3c65",
-      "checked": false
+      "checked": true,
+      "visual_review": "Whole ten-packet assortment retains original two-column five-row layout, six strips per packet, source patterngroups and colours on cream dressing table; no extras or missing packet visible."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-d210a10f-c659-4f67-9f60-5f4a918cc6d5.png",
+      "prompt": "Standalone tight macro crop of REAL original leopard-pattern fabric strip in third-row LEFT packet: black leopard spots on blue/tan woven fabric with original clear plastic sleeve reflection. Preserve real visible fabricweave, printed spotted shape/colours and adjacent stitched edge exactly. Show only small fabric region filling frame, not whole assortment or entire headband. No invented parts, no unpacking, no addedtext. Sharp website product detail, soft natural light.",
+      "sha256": "c585831d00c4cc546d5836438099245e3aaf0a1e211149d3e07294e2bb54d4bf",
+      "checked": true,
+      "visual_review": "Standalone tight crop of original blue leopard-pattern woven fabric and clear sleeve, no full assortment/new component. Main weave/spot shapes and blue-black palette retained; slight lightness variation of inner spots accepted."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-9cd13835-948e-4a4c-897d-70adefd62016.png",
+      "prompt": "Faithful website catalogue photograph editing ENTIRE original packaged fabric headband assortment as ONE product. Exact original TEN clear rectangular packets arranged TWO columns FIVE rows, same visible folded padded fabric strips and clipped bottom-edge portions. Retain all original count/overlap/crops and pattern groups: bluegrey cartoon prints, redblack prints, neutral smallgeometry, pinkgreywhite moustache prints, leopard prints, royalblue solids, pastel grids, black solids, tanpink triangles, bluebrownwhite lightning. Do not unpack, simplify, invent hidden pieces, extend croppedparts or rearrange. Original frontoverhead arrangement on lavender and cream studio background softshadow, full original assortment reduced scale leaving topmargin for small accurate heading FABRIC HEADBAND COLLECTION. Remove grey shopfloor/priceoverlay only, no extra products or claims, no price.",
+      "sha256": "0b6e745a48455cada0df1dd59cf862772537b19da0b74ed5438f79838f68b0b8",
+      "checked": true,
+      "visual_review": "Ten packets in original five-row two-column layout, source pattern/colour groups and visible strip counts retained; accurate fabric headband heading. No additional products or unpacked pieces."
     }
   ],
-  "status": "in_progress",
+  "status": "five images saved and visually checked",
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
   "plan_original_hashes_verified": true
 }

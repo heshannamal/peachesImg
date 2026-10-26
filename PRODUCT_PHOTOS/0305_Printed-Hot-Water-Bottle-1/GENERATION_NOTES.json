@@ -34,10 +34,19 @@
       "source_output": "/workspace/generated_images/exec-41502d04-34b5-46d9-a490-33823e5647af.png",
       "prompt": "Standalone very tight macro crop of REAL original white fuzzy cat-face fabric around its brown embroidered eye, pink cheek and adjoining blue embroidered scarf edge under clear packaging. Preserve actual fur, stitching, brown/pink/blue colours and tiny real package reflection. Show only this small visible region filling frame, not entire cover/package, no invented component or heater insert, no extra objects or text. Sharp website product detail, soft natural light.",
       "sha256": "6cd5e146c2162adafdb47a428e96663efb2440262e8ec37997df11b596924ff7",
-      "checked": false
+      "checked": true,
+      "visual_review": "Tight crop genuinely shows original brown eye/pink cheek embroidery, white fur, blue embroidered scarf edge and clear bag reflection. No entire product or new components; real-part macro passed."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-53d7b26b-1f19-4ab4-a554-9056e4d037c0.png",
+      "prompt": "Faithful square website ecommerce photograph editing reference. Exact ONE lightblue and white fluffy cat-face handwarmer cover inside its original clear yellow floral printed zipbag. Preserve white fuzzy face brown eyes/pink cheeks embroidered brown nose/mouth, pink inner ears, blue embroidered scarf and same folded/occluded lightblue fluffy back. Keep clear original package yellow bow/flower decoration and visible text. Do not invent the hidden heating insert, back or unseen parts. Entire packaged product on lavender and cream studio background softshadow, full package reduced scale leaving top margin for accurate small heading CAT HANDWARMER COVER. Remove hand/shop/1000Rs priceoverlay only; no extra products/claims, no price.",
+      "sha256": "65789acb1b5c9c98ff174813af3b02f5f3366fbffd192493e9cd5dfabea5284c",
+      "checked": true,
+      "visual_review": "Same single packaged fluffy blue-white cat cover, facial embroidery/scarf/package and visible colours preserved; accurate CAT HANDWARMER COVER heading. No additional objects, inserts or unsupported heating claim."
     }
   ],
-  "status": "in_progress",
+  "status": "five images saved and visually checked",
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
   "plan_original_hashes_verified": true
 }

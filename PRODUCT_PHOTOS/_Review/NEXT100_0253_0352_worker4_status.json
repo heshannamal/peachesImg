@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-26T01:28:25.119568+00:00",
+  "updated_at": "2026-10-26T01:28:58.677572+00:00",
   "status": "running",
-  "complete": 12,
+  "complete": 13,
   "saved_images": 72,
-  "checked_images": 66,
+  "checked_images": 68,
   "products": [
     {
       "product_id": "0313",
@@ -294,7 +294,7 @@
     },
     {
       "product_id": "0326",
-      "folder": "0326_Pastel-Butterfly-Hair-Claws-0",
+      "folder": "0326_Pastel-Butterfly-Hair-Claws-1",
       "saved": [
         "01_White-Background",
         "02_Styled-Background",
@@ -306,13 +306,12 @@
         "01_White-Background",
         "02_Styled-Background",
         "03_Lifestyle",
-        "04_Detail"
-      ],
-      "missing": [],
-      "review_needed": [
+        "04_Detail",
         "05_Promotional"
       ],
-      "complete": false,
+      "missing": [],
+      "review_needed": [],
+      "complete": true,
       "originals_unchanged": true
     },
     {
@@ -323,16 +322,15 @@
         "02_Styled-Background"
       ],
       "checked": [
-        "01_White-Background"
+        "01_White-Background",
+        "02_Styled-Background"
       ],
       "missing": [
         "03_Lifestyle",
         "04_Detail",
         "05_Promotional"
       ],
-      "review_needed": [
-        "02_Styled-Background"
-      ],
+      "review_needed": [],
       "complete": false,
       "originals_unchanged": true
     },

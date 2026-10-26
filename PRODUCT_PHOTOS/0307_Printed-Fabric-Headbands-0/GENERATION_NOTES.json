@@ -1,0 +1,20 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250402-WA0564.jpg": "91793aed8a497ba7693ec1046cd291b4ae90bb64c44012522059ec4c1b2e5756"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-2883965b-dd2b-4426-ac80-958d750cba76.png",
+      "prompt": "Faithful website ecommerce reference edit ENTIRE original clear bag of striped fluffy towel bow headbands as ONE assortment. Preserve exact original tightly overlapped bundle arrangement, all visible bows/loops and occlusions, twelve-band assortment as packaged not unpacked, do not invent hiddenparts. Same multicolour mint/coral/white stripes near top, pink/mint/cream bows mid, coral/lavender/white stripes middle, pinkwhite and lavenderwhite stripes below; exact plush terry material and bow shapes. Retain entire original clear bag and same diagonal view. Remove hand/watch/shop/priceoverlay/stocknumbersticker only. Full packaged bundle cleanwhite seamless background softshadow, no added text/extra products.",
+      "sha256": "fa9cc194ba3b1950954ae047a04c652766c454e806024af963bfbc4765863fe9",
+      "checked": true,
+      "visual_review": "Entire original diagonal clear bag, visible dense bow placements and all original striped colour groups retained. Removed hand area filled by continuing adjacent fabric; no extra separate headband or material rearrangement visible. Terry texture faithful."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

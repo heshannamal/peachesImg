@@ -1,0 +1,28 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250408-WA0224.jpg": "659b0628c29f967bf704ef789e1e01736cd31dc6c9a38919f600bc7663407355"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-742587a7-4c2b-46f0-8551-f358a08c5450.png",
+      "prompt": "Faithful square website product photograph editing reference. EXACT FIVE original white INTIMATE590ml body-lotion bottles side by side same order: MaximumWhitening bluecap/bluegreenlabel, CocoaButter clearcap/greenbrownlabel, VitaminE bluecap/greenbluelabel, ColloidalOatmeal bluecap/bluelabel/wheat, EnglishRose clearcap/pinkrose. Preserve five count, original bottle/cap shapes, all actual printed labels/colours/images and original front facing arrangement; no new benefit claims or label redesign. Entire fivebottle assortment ONEproduct. Remove shop stock/counter and external890Rs590ml overlay only. Pure white seamless background, soft natural contact shadows, entire original product assortment fully framed. No additional text or products.",
+      "sha256": "701c3b07f255028e5d6e6babe80e304b3e9c87e407738b2e45bf2930f228e9d8",
+      "checked": true,
+      "visual_review": "Compared with original: exactly five original lotion bottles left-to-right Maximum Whitening, Cocoa Butter, Vitamin E, Colloidal Oatmeal, English Rose; cap colour sequence blue/clear/blue/blue/clear and primary labels/images retained. Minor typography accepted, no added benefit claims."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-042f6af0-5ad6-4d69-8632-e2cfc1a1f7fc.png",
+      "prompt": "Faithful square website product photograph editing reference. EXACT FIVE original white INTIMATE590ml body-lotion bottles side by side same order: MaximumWhitening bluecap/bluegreenlabel, CocoaButter clearcap/greenbrownlabel, VitaminE bluecap/greenbluelabel, ColloidalOatmeal bluecap/bluelabel/wheat, EnglishRose clearcap/pinkrose. Preserve five count, original bottle/cap shapes, all actual printed labels/colours/images and original front facing arrangement; no new benefit claims or label redesign. Entire fivebottle assortment ONEproduct. Remove shop stock/counter and external890Rs590ml overlay only. Styled website catalogue photograph on soft lavender and cream studio background, cream surface with subtle natural contact shadows. Preserve original front view, entire exact assortment fully visible, no added props or text.",
+      "sha256": "c1c92d5218adc3dfc2b7ceb43ade75a1cb34db2016526bc4e9e19de32c3cf824",
+      "checked": true,
+      "visual_review": "Styled image compared with original: exactfive bottle assortment same order and blue/clear/blue/blue/clear caps; original primary labels and variantpictures retained. Lavendercream setting; minor small typography accepted."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

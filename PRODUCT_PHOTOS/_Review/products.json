@@ -4218,7 +4218,7 @@
     "source_image_ids": [
       322
     ],
-    "new_images": 2,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4230,9 +4230,9 @@
     "source_image_ids": [
       323
     ],
-    "new_images": 0,
+    "new_images": 2,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -4242,9 +4242,9 @@
     "source_image_ids": [
       324
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -4254,9 +4254,9 @@
     "source_image_ids": [
       325
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -4485,27 +4485,31 @@
   },
   {
     "product_id": "0329",
-    "folder": "0329_Pearl-Style-Hair-Claws-0",
+    "folder": "0329_Pearl-Style-Hair-Claws-1",
     "source_image_ids": [
       342
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0330",
-    "folder": "0330_Colourful-Pendant-Keyrings-0",
+    "folder": "0330_Colourful-Pendant-Keyrings-1",
     "source_image_ids": [
       344
     ],
-    "new_images": 2,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0331",
@@ -4513,9 +4517,9 @@
     "source_image_ids": [
       345
     ],
-    "new_images": 0,
+    "new_images": 2,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -4525,9 +4529,9 @@
     "source_image_ids": [
       346
     ],
-    "new_images": 0,
+    "new_images": 2,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -4789,7 +4793,7 @@
       366,
       367
     ],
-    "new_images": 2,
+    "new_images": 3,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -4802,9 +4806,9 @@
       368,
       369
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },

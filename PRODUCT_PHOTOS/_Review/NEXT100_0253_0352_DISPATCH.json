@@ -1,0 +1,42 @@
+{
+  "processing_order": "descending_numeric_product_id",
+  "assigned": {
+    "descending1": [
+      "0352",
+      "0351"
+    ],
+    "descending2": [
+      "0332",
+      "0331"
+    ],
+    "descending3": [
+      "0330",
+      "0329"
+    ],
+    "descending4": [
+      "0312",
+      "0311"
+    ],
+    "descending5": [
+      "0310",
+      "0309"
+    ]
+  },
+  "next_unassigned": [
+    "0292",
+    "0291",
+    "0290",
+    "0289",
+    "0288",
+    "0287",
+    "0272",
+    "0271"
+  ],
+  "skip_spent_material_corrections": [
+    "0344",
+    "0317",
+    "0294"
+  ],
+  "max_workers": 5,
+  "max_active_products_per_worker": 2
+}

@@ -1,0 +1,28 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250408-WA0235.jpg": "ee2b7c10e82a008de1273b8018887d73823bfb9c1dae53a989afae98775cb7c1"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-c4f504cc-6961-4dfe-b2e4-1b7f522af0ac.png",
+      "prompt": "Faithful square website product photograph editing exact reference. ONE green knitted Dancing Cactus toy in original tan burlap cylindrical pot with grey felt rim and two orange round music-note buttons, TWO cactus arms, two white googly eyes and orange embroidered smile. Original yellow Dancing Cactus retail box at left and white USB cable beside pot are included, same original front view and placement. Preserve exact product identity, shapes, green-white stitch texture, colours, original box print and visible cable, no invented back/extra cactus/accessories. Remove shop stock, glass counter and external775Rs USBRechargeable overlay only. Whole box/toy/cable assortment ONEproduct. Pure white seamless background, soft natural contact shadows, entire original product assortment fully framed. No additional text or products.",
+      "sha256": "213ad4fb4433c594de854d7630f8dedb8599d7983800e0d5fc01a9618f4fd4e4",
+      "checked": true,
+      "visual_review": "Compared with original: one green knitted cactus with two arms, googly eyes/smile, tan grey-rim pot, two orange buttons, original yellow retail box and white USB cable retained. Main identity/materials/colours/count and front placement retained; minor box print illustration/knit differences accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-d5a890e5-c3a2-4263-b3c0-17974db4ccd2.png",
+      "prompt": "Faithful square website product photograph editing exact reference. ONE green knitted Dancing Cactus toy in original tan burlap cylindrical pot with grey felt rim and two orange round music-note buttons, TWO cactus arms, two white googly eyes and orange embroidered smile. Original yellow Dancing Cactus retail box at left and white USB cable beside pot are included, same original front view and placement. Preserve exact product identity, shapes, green-white stitch texture, colours, original box print and visible cable, no invented back/extra cactus/accessories. Remove shop stock, glass counter and external775Rs USBRechargeable overlay only. Whole box/toy/cable assortment ONEproduct. Styled website catalogue photograph on soft lavender and cream studio background, cream surface with subtle natural contact shadows. Preserve original front view, entire exact assortment fully visible, no added props or text.",
+      "sha256": "90756011b4fdd9f6cdf5ec4c46f8036d2df7982fb410808853f4ff43d74fbf6a",
+      "checked": true,
+      "visual_review": "Styled image compared with original: cactus toy/twoarms/eyes/smile, original retailbox and white cable, tan pot/grey rim/twoorangebuttons retained. Lavender/cream studio surround; main identity/count/materials/colour preserved. Minor stitch/packaging typography differences accepted."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

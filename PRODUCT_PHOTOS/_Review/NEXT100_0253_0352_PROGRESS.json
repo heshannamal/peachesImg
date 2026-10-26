@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-26T09:25:59.415247+00:00",
+  "updated_at": "2026-10-26T17:58:44.619801+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 79,
-  "partial_products": 11,
-  "pending_products": 10,
+  "completed_products": 81,
+  "partial_products": 15,
+  "pending_products": 4,
   "blocked_products": 0,
-  "saved_images": 434,
-  "checked_images": 422,
+  "saved_images": 449,
+  "checked_images": 439,
   "products": [
     {
       "product_id": "0253",
@@ -1100,6 +1100,26 @@
       "product_id": "0309",
       "folder": "0309_Floral-Fabric-Pouches-0",
       "status": "partial",
+      "saved_images": 4,
+      "checked_images": 4,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png"
+      ],
+      "missing_images": [
+        "New/05_Promotional.png"
+      ],
+      "review_needed_images": [],
+      "notes_status": "in_progress",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0310",
+      "folder": "0310_Printed-Fabric-Pouches-0",
+      "status": "partial",
       "saved_images": 2,
       "checked_images": 2,
       "files": [
@@ -1117,59 +1137,42 @@
       "originals_unchanged": true
     },
     {
-      "product_id": "0310",
-      "folder": "0310_Printed-Fabric-Pouches-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
       "product_id": "0311",
       "folder": "0311_Butterfly-Hair-Claw-Sets-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "missing_images": [
-        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0312",
       "folder": "0312_Cat-Hot-Water-Bottles-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "missing_images": [
-        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },
@@ -1489,10 +1492,10 @@
     },
     {
       "product_id": "0329",
-      "folder": "0329_Pearl-Style-Hair-Claws-0",
-      "status": "partial",
+      "folder": "0329_Pearl-Style-Hair-Claws-1",
+      "status": "complete",
       "saved_images": 5,
-      "checked_images": 4,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
@@ -1501,21 +1504,36 @@
         "New/05_Promotional.png"
       ],
       "missing_images": [],
-      "review_needed_images": [
-        "New/05_Promotional.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 05_Promotional.png"
-      ],
+      "review_needed_images": [],
+      "notes_status": "five images saved and visually checked",
+      "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0330",
-      "folder": "0330_Colourful-Pendant-Keyrings-0",
+      "folder": "0330_Colourful-Pendant-Keyrings-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five images saved and visually checked",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0331",
+      "folder": "0331_Body-Lotion-Bottles-0",
       "status": "partial",
       "saved_images": 2,
-      "checked_images": 1,
+      "checked_images": 2,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png"
@@ -1525,50 +1543,28 @@
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [
-        "New/02_Styled-Background.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 02_Styled-Background.png"
-      ],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "0331",
-      "folder": "0331_Body-Lotion-Bottles-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "0332",
       "folder": "0332_Rechargeable-Cactus-Toy-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "status": "partial",
+      "saved_images": 2,
+      "checked_images": 2,
+      "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
+        "New/02_Styled-Background.png"
+      ],
+      "missing_images": [
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },
@@ -1922,14 +1918,14 @@
       "product_id": "0351",
       "folder": "0351_Colourful-Hair-Claw-Assortment-0",
       "status": "partial",
-      "saved_images": 2,
-      "checked_images": 2,
+      "saved_images": 3,
+      "checked_images": 3,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png"
       ],
       "missing_images": [
-        "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
@@ -1941,19 +1937,20 @@
     {
       "product_id": "0352",
       "folder": "0352_Plush-Character-Hair-Clips-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "missing_images": [
-        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     }

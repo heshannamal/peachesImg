@@ -1,0 +1,19 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250404-WA0400.jpg": "ab141d1b18809d3904c5605480e53d1512a4016105f25483df058c12514f3eff"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-65e9076a-c181-450a-8ec5-6e49dde74e7b.png",
+      "prompt": "Faithful website catalogue edit of EXACT TWENTYFOUR transparent butterfly hair claws on TWO long white FashionJewelry card strips, SIX PAIRS perstrip/TWELVE cards total. Preserve exact original alternating clear/brown/pink/blue/yellow/green/smoky wing colours and positions, transparent plastic wing contours/veins, gold springs/metalhinges/teeth, clear wrapping and original staggered two-strip angle/overlap. Wholepackoneassortment. Do not infer twelve singleclaws from price; retain24actualclaws/12pairs. Remove hand/watch/shop/priceoverlay/stocksticker only, no invented hiddenpieces/backs or added text. Full original two-strip assortment on purewhite seamless background softshadow.",
+      "sha256": "d0c9949d888efd3e1a39074d2bf3f16fae152bc2bb824b9b93625a72483ee7e4",
+      "checked": true,
+      "visual_review": "Compared with original:24butterfly claws as12pairs/two strips6cards each; original two-strip angle, wing contours, transparent two-tone colour sequence, packaging and goldhinges retained; hand/shop/price removed. Minor packagingprintdifferences accepted."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

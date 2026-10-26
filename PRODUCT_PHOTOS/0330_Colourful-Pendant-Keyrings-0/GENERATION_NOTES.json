@@ -1,0 +1,28 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250408-WA0128.jpg": "ea70ec7ed6c731bc9109f538452c86d9ca150d5115c38c701fb882748a08213a"
+  },
+  "records": [
+    {
+      "saved_file": "Rejected/01_White-Background-expanded-rear-bottles.png",
+      "source_output": "/workspace/generated_images/exec-5846eb45-acad-4334-8c6f-27c7e0899514.png",
+      "prompt": "Faithful square ecommerce product photograph of EXACT TWELVE original transparent bottle pendant keyrings hanging from original BLUE header: TWO blue, TWO green, TWO orange/yellow, TWO red, TWO purple, TWO pink cap/rose/beadcolourgroups. Original staggered front/back bottle overlaps retained, rearbottles staypartiallyoccluded, do not invent hiddencontents. Eachbottle original smallrose and matchingroundbeads, silverchain and splitring. Preserve12count, exact source bottle/cap/rose shapes, original colourorder, blue support and metalhardware. EntireassortmentONEproduct fullyvisible purewhite seamlessbackground softshadow. Removehand/shop/smallpricesticker only. No newtext/extra keyrings/invented parts.",
+      "sha256": "677b41c776ddccac57c1f512aa6977baf34e4e2c77724e4c3fb43be26061578a",
+      "checked": false,
+      "visual_review": "Materialgeometry/occlusionerror: rearranged staggered originalbottles into expanded display, extrapolated rearcontents/headerproportions. Singlecorrectiveallowed."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-a8980891-f664-4b6f-b387-9076e9aa3d20.png",
+      "prompt": "Conservative exact referencephotoedit. CRITICAL keep ORIGINAL portrait crop, ORIGINAL blueheader width-to-bottle proportions, EXACT original hangingring/chain positions and ORIGINAL front/back staggered bottle overlaps. Do NOT straighten or rearrange or expand rearbottles. Preserve all12visiblekeyrings and existingocclusion, twoeach blue green yellow red purple pink caps/roses/beads. Keep same visible rose/beadcounts in frontbottles, hiddenrearcontents remainhidden. Change ONLY shopbackground towhite andremovehand/price, softlight. Exactoriginal clearbottleshapes, silverhardware andblueheader geometry. No addedparts/new text.",
+      "sha256": "2da98559c6aa4ace39a6234237b0734a1232adb837c9eb12e46221d8624c071f",
+      "checked": true,
+      "visual_review": "Singlecorrection restored originalstaggeredfront/rearbottleocclusion andcompactblueheader proportion.12keyrings twoeach bluegreenyellowredpurplepink, sourcebottles/caps/roses/beads/silverhardware retained; rearcontents remainoccluded. Minorhighlight differences accepted."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

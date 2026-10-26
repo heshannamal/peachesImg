@@ -2,8 +2,8 @@
   "processing_order": "descending_numeric_product_id",
   "assigned": {
     "descending1": [
-      "0352",
-      "0351"
+      "0272",
+      "0271"
     ],
     "descending2": [
       "0332",
@@ -22,12 +22,7 @@
       "0289"
     ]
   },
-  "next_unassigned": [
-    "0288",
-    "0287",
-    "0272",
-    "0271"
-  ],
+  "next_unassigned": [],
   "skip_spent_material_corrections": [
     "0344",
     "0317",
@@ -43,6 +38,15 @@
     "descending5": [
       "0310",
       "0309"
+    ],
+    "descending1": [
+      "0352",
+      "0351",
+      "0288",
+      "0287"
     ]
-  }
+  },
+  "blocked_products": [
+    "0292"
+  ]
 }

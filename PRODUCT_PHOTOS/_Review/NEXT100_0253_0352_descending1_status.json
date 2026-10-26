@@ -1,21 +1,21 @@
 {
-  "status": "running",
-  "updated_at": "2026-10-26T17:55:54.214538+00:00",
+  "status": "assigned_pair_complete",
+  "updated_at": "2026-10-26T18:07:22.194186+00:00",
   "assigned_product_ids": [
+    "0288",
+    "0287"
+  ],
+  "completed_product_ids": [
     "0352",
-    "0351"
+    "0351",
+    "0288",
+    "0287"
   ],
-  "active_products": [
-    "0352",
-    "0351"
-  ],
-  "in_flight": [
-    "0352/01_White-Background",
-    "0351/03_Lifestyle"
-  ],
-  "preserved": [
-    "0351/01_White-Background",
-    "0351/02_Styled-Background"
-  ],
-  "original_plan_hashes_verified": true
+  "current_pair_new_saved_checked_images": 1,
+  "current_pair_existing_reviewed_images": 2,
+  "active_products": [],
+  "in_flight": [],
+  "original_plan_hashes_verified": true,
+  "corrective_attempts_this_pair": 0,
+  "waiting_for_parent_dispatch": true
 }

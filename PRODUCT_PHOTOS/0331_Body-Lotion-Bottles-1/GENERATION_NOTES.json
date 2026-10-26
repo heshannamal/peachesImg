@@ -28,9 +28,25 @@
       "sha256": "7ebca39ece2e465a14dd67470d531b480cdb4bad022484ddbc827d960292c832",
       "checked": true,
       "visual_review": "Lifestyle compared with original: exactfive bottles same variant order, primary labels/pictures and cap sequence preserved. Bathroom vanity context, no new bottle/products, minor small text differences accepted."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-084a9fa3-034b-4d84-b3d5-fd1288691ddc.png",
+      "prompt": "Website product detail photograph: standalone tight macro CROP of the ORIGINAL far-left lotion bottle blue flip-top cap and top white shoulder, keeping the visible small vertical blue INTIMATE tamper sticker strip and actual cap shape/front recess as in reference. Closed cap only, same original front-facing perspective, do not invent open lid/interior/hinge/back. Fill square frame with cap and small adjoining white shoulder, no complete bottles, no labels from other variants, no extra text. Soft realistic studio lighting.",
+      "sha256": "b84805403beda8954e80e08871e5f18c6c6f1ce567b976d36cde5bfac9620eb3",
+      "checked": true,
+      "visual_review": "Standalone tightmacro of actual blue closed cap, original vertical tamperstrip/logo and adjoining white bottle shoulder. Same front cap recess and blue material, no openedlid or inventedcontents; passed compared with original."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-2ed7965c-4cd8-45d1-b0fa-8fdc4d03bb6d.png",
+      "prompt": "Faithful square website product photograph editing reference. EXACT FIVE original white INTIMATE590ml body-lotion bottles side by side same order: MaximumWhitening bluecap/bluegreenlabel, CocoaButter clearcap/greenbrownlabel, VitaminE bluecap/greenbluelabel, ColloidalOatmeal bluecap/bluelabel/wheat, EnglishRose clearcap/pinkrose. Preserve five count, original bottle/cap shapes, all actual printed labels/colours/images and original front facing arrangement; no new benefit claims or label redesign. Entire fivebottle assortment ONEproduct. Remove shop stock/counter and external890Rs590ml overlay only. Promotional square website product photograph on lavender background and cream surface, soft shadows. Keep full exact original assortment visible with generous margins below a small accurate plum heading 'Body Lotion Assortment' and second line PRODUCT COLLECTION. Product prominent, original front view, no prices/newclaims/extra items.",
+      "sha256": "3a2d0402d005537ee5eb685bc969a23a372c79d354ecfd213abbe24b82daef7a",
+      "checked": true,
+      "visual_review": "Promotional compared with original: exactfive original lotion bottles in same variant/cap order, primary labels/pictures/colours retained. Accurate Body Lotion Assortment / PRODUCT COLLECTION heading, no added benefits. Small label typography differences accepted."
     }
   ],
-  "status": "in_progress",
+  "status": "five images saved and visually checked",
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
   "plan_original_hashes_verified": true
 }

@@ -1,15 +1,21 @@
 {
-  "updated_at": "2026-10-26T18:02:24.631122+00:00",
+  "updated_at": "2026-10-26T18:17:16.661985+00:00",
   "worker": "descending5",
-  "status": "assigned_pair_complete_waiting_for_parent",
+  "status": "assigned_pairs_complete_waiting_for_parent",
   "assigned_ids": [
     "0310",
-    "0309"
+    "0309",
+    "0290",
+    "0289"
   ],
-  "completed_products": 2,
-  "saved_images": 10,
-  "checked_images": 10,
-  "new_images_generated": 8,
+  "current_pair": [
+    "0290",
+    "0289"
+  ],
+  "completed_products": 4,
+  "saved_images": 20,
+  "checked_images": 20,
+  "new_images_generated": 18,
   "in_flight": 0,
   "rows": [
     {
@@ -23,6 +29,22 @@
     {
       "product_id": "0309",
       "folder": "0309_Floral-Fabric-Pouches-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0290",
+      "folder": "0290_Pastel-Hair-Claws-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "0289",
+      "folder": "0289_Metal-Chain-Bracelets-1",
       "status": "complete",
       "saved_images": 5,
       "checked_images": 5,

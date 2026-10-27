@@ -3709,7 +3709,7 @@
     "source_image_ids": [
       280
     ],
-    "new_images": 3,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -3947,27 +3947,31 @@
   },
   {
     "product_id": "0289",
-    "folder": "0289_Metal-Chain-Bracelets-0",
+    "folder": "0289_Metal-Chain-Bracelets-1",
     "source_image_ids": [
       301
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0290",
-    "folder": "0290_Pastel-Hair-Claws-0",
+    "folder": "0290_Pastel-Hair-Claws-1",
     "source_image_ids": [
       302
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-0253-0352",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "0291",

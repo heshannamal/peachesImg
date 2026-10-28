@@ -1,11 +1,15 @@
 {
   "timezone": "Asia/Colombo",
   "scheduled_start_local_time": "00:05",
-  "processing_order": "descending_numeric_product_id",
-  "standing_instruction": "Always generate unfinished product photos from the end of the authorized list toward the start. Select highest product IDs first for every current and future authorized queue; preserve complete products and valid saved views.",
-  "current_authorized_queue": "0253–0352",
-  "frozen_plan": "PRODUCT_PHOTOS/_Review/SCHEDULED_NEXT_100_0253_0352.json",
+  "processing_order": "source_album_top_to_bottom_newest_first",
+  "standing_instruction": "Generate products from the TOP of the shared Google Photos album toward the bottom, because the user says newly updated products are at the top. This supersedes the earlier descending product-ID order. Inspect actual album order and original photos; do not infer album position from local product IDs. Match originals to existing products to avoid regenerating completed products; preserve valid views and original bytes.",
+  "current_authorized_queue": "Newest products at top of source Google Photos album; exact queue awaits album access and identity matching",
   "scope_rule": "Ordering preference does not broaden the authorized product range or imply daily recurrence.",
   "next_scheduled_start_local": "2026-10-27T00:05:00+05:30",
-  "parallel_dispatch_rule": "Dispatch each next available product in descending ID order. Completion order can vary with parallel calls. Review saved partials when their ID is reached; never regenerate valid complete products."
+  "parallel_dispatch_rule": "Dispatch source-album products top-to-bottom in disjoint assignments, at most5workers and2activeproducts each. Completion order may vary.",
+  "previous_authorized_queue": "0253\u20130352",
+  "previous_frozen_plan": "PRODUCT_PHOTOS/_Review/SCHEDULED_NEXT_100_0253_0352.json",
+  "source_album_url": "https://photos.app.goo.gl/CLPwChWUC2jr9pSGA",
+  "source_access_status": "blocked_workspace_network_HTTP403",
+  "source_access_checked_at": "2026-10-28T21:58:05.385804+00:00"
 }

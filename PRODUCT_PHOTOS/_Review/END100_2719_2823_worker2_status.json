@@ -1,9 +1,9 @@
 {
   "assigned": [
-    "2783",
-    "2782"
+    "2773",
+    "2772"
   ],
-  "status": "complete",
+  "status": "pair_reviewed_zero_inflight",
   "completed": [
     "2821",
     "2820",
@@ -12,7 +12,8 @@
     "2799",
     "2798",
     "2783",
-    "2782"
+    "2782",
+    "2772"
   ],
   "inflight": 0,
   "active_products": [],
@@ -20,5 +21,10 @@
     "2799": "02 once passed",
     "2798": "02 once passed"
   },
-  "updated_at": "2026-11-02T17:46:25.511829+00:00"
+  "updated_at": "2026-11-02T17:54:35.991467+00:00",
+  "review_needed": {
+    "2773": [
+      "01_White-Background.png"
+    ]
+  }
 }

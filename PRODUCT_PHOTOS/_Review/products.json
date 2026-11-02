@@ -33654,9 +33654,9 @@
     "source_image_ids": [
       3090
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -33668,83 +33668,95 @@
       3092,
       3093
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2764",
-    "folder": "2764_Cream-Floral-Saree-Pins-0",
+    "folder": "2764_Cream-Floral-Saree-Pins-1",
     "source_image_ids": [
       3094
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2765",
-    "folder": "2765_Pastel-Floral-Saree-Pins-0",
+    "folder": "2765_Pastel-Floral-Saree-Pins-1",
     "source_image_ids": [
       3095
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2766",
-    "folder": "2766_Pink-Floral-Saree-Pins-0",
+    "folder": "2766_Pink-Floral-Saree-Pins-1",
     "source_image_ids": [
       3096
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2767",
-    "folder": "2767_Bright-Floral-Saree-Pins-0",
+    "folder": "2767_Bright-Floral-Saree-Pins-1",
     "source_image_ids": [
       3097
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2768",
-    "folder": "2768_Multicolour-Floral-Saree-Pins-0",
+    "folder": "2768_Multicolour-Floral-Saree-Pins-1",
     "source_image_ids": [
       3098
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2769",
-    "folder": "2769_Colourful-Floral-Saree-Pins-0",
+    "folder": "2769_Colourful-Floral-Saree-Pins-1",
     "source_image_ids": [
       3099
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2770",
@@ -33794,7 +33806,7 @@
     "source_image_ids": [
       3103
     ],
-    "new_images": 1,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",

@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261007-WA0255.jpg": "8d27568a7d546c6b13fc52d25045a569da3781523fef329bde57c97cb4842ce6"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-e2e448be-cdea-46a3-ae52-f01084d67c7f.png",
+      "source_output": "/workspace/generated_images/exec-e2e448be-cdea-46a3-ae52-f01084d67c7f.png",
+      "sha256": "8e0833c6dde6416860a25b1cf989e5f04177647320126233729bc25f960bac7b",
+      "prompt": "Create ONE1536x1024LANDSCAPE productphoto image EXACT3EQUALCOLUMNS2EQUALROWS sixsquarecells, no gutters/borders/panellabels. Eachviewwhollyinsidecellwithsafemargin. Readingorder1whiteFULLassortment,2lavendercreamstudioFULL,3FULLassortmentcreamvanitylavenderbedroom,4standaloneTIGHTMACRO ONLYspecifiedactualpart notwholeassortment,5FULLassortment+accurateheading PHONE CHARM SET,6blankcreamunused. Preservefullsourcecountidentityshapecolours/packagingineachfullview. Removehand/shop/pricequalityoverlay/stocksticker only,no newclaims/props/products.\nExact THREE original packaged beaded phonecharms side-by-side onTHREEwhiteFashionJewelrycards insideclearbag ONEassortment, NOT12pieces impliedbyprice. LEFT pinklobsterclasp withsmallpinkring, clear+pearl loop andoriginalsmallpinkbutterfly andsilverheartpendant withpinkheart/orangedots. MIDDLE bluelobsterclasp+bluering,clear+pearl loop withsmallbluebutterfly andsilverheartpendant blueheart/pinkdots. RIGHT lavender circularclasp andoriginalclear/lavenderheartbeads upperstrand,purplecrackle/pearlclearbeadsbelow. Preserveoriginalstrandloops, visiblebeadsequence/count/spacing,pendants,clearpackaging,cardorientation andsourceoverlaps. No addedbeads/clasps/unseenparts. Detailcell4ONLYtightmacro actualclear lavenderheartbead withpurpleinnerheart andneighbourclearroundbead onrightcharm, authenticrealpart.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-e2e448be-cdea-46a3-ae52-f01084d67c7f.png",
+      "prompt": "Create ONE1536x1024LANDSCAPE productphoto image EXACT3EQUALCOLUMNS2EQUALROWS sixsquarecells, no gutters/borders/panellabels. Eachviewwhollyinsidecellwithsafemargin. Readingorder1whiteFULLassortment,2lavendercreamstudioFULL,3FULLassortmentcreamvanitylavenderbedroom,4standaloneTIGHTMACRO ONLYspecifiedactualpart notwholeassortment,5FULLassortment+accurateheading PHONE CHARM SET,6blankcreamunused. Preservefullsourcecountidentityshapecolours/packagingineachfullview. Removehand/shop/pricequalityoverlay/stocksticker only,no newclaims/props/products.\nExact THREE original packaged beaded phonecharms side-by-side onTHREEwhiteFashionJewelrycards insideclearbag ONEassortment, NOT12pieces impliedbyprice. LEFT pinklobsterclasp withsmallpinkring, clear+pearl loop andoriginalsmallpinkbutterfly andsilverheartpendant withpinkheart/orangedots. MIDDLE bluelobsterclasp+bluering,clear+pearl loop withsmallbluebutterfly andsilverheartpendant blueheart/pinkdots. RIGHT lavender circularclasp andoriginalclear/lavenderheartbeads upperstrand,purplecrackle/pearlclearbeadsbelow. Preserveoriginalstrandloops, visiblebeadsequence/count/spacing,pendants,clearpackaging,cardorientation andsourceoverlaps. No addedbeads/clasps/unseenparts. Detailcell4ONLYtightmacro actualclear lavenderheartbead withpurpleinnerheart andneighbourclearroundbead onrightcharm, authenticrealpart.\n",
+      "sha256": "a411aec1ba4b0f1e24df2342d1b15c93b4843fc6b8a633a550d807e8a2a65785",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e2e448be-cdea-46a3-ae52-f01084d67c7f.png",
+      "grid_sha256": "8e0833c6dde6416860a25b1cf989e5f04177647320126233729bc25f960bac7b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-e2e448be-cdea-46a3-ae52-f01084d67c7f.png",
+      "prompt": "Create ONE1536x1024LANDSCAPE productphoto image EXACT3EQUALCOLUMNS2EQUALROWS sixsquarecells, no gutters/borders/panellabels. Eachviewwhollyinsidecellwithsafemargin. Readingorder1whiteFULLassortment,2lavendercreamstudioFULL,3FULLassortmentcreamvanitylavenderbedroom,4standaloneTIGHTMACRO ONLYspecifiedactualpart notwholeassortment,5FULLassortment+accurateheading PHONE CHARM SET,6blankcreamunused. Preservefullsourcecountidentityshapecolours/packagingineachfullview. Removehand/shop/pricequalityoverlay/stocksticker only,no newclaims/props/products.\nExact THREE original packaged beaded phonecharms side-by-side onTHREEwhiteFashionJewelrycards insideclearbag ONEassortment, NOT12pieces impliedbyprice. LEFT pinklobsterclasp withsmallpinkring, clear+pearl loop andoriginalsmallpinkbutterfly andsilverheartpendant withpinkheart/orangedots. MIDDLE bluelobsterclasp+bluering,clear+pearl loop withsmallbluebutterfly andsilverheartpendant blueheart/pinkdots. RIGHT lavender circularclasp andoriginalclear/lavenderheartbeads upperstrand,purplecrackle/pearlclearbeadsbelow. Preserveoriginalstrandloops, visiblebeadsequence/count/spacing,pendants,clearpackaging,cardorientation andsourceoverlaps. No addedbeads/clasps/unseenparts. Detailcell4ONLYtightmacro actualclear lavenderheartbead withpurpleinnerheart andneighbourclearroundbead onrightcharm, authenticrealpart.\n",
+      "sha256": "285b981e8a7e676aa12680bce98b06f2721f1816dae4eb3de19a0b10c00c5b51",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e2e448be-cdea-46a3-ae52-f01084d67c7f.png",
+      "grid_sha256": "8e0833c6dde6416860a25b1cf989e5f04177647320126233729bc25f960bac7b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-e2e448be-cdea-46a3-ae52-f01084d67c7f.png",
+      "prompt": "Create ONE1536x1024LANDSCAPE productphoto image EXACT3EQUALCOLUMNS2EQUALROWS sixsquarecells, no gutters/borders/panellabels. Eachviewwhollyinsidecellwithsafemargin. Readingorder1whiteFULLassortment,2lavendercreamstudioFULL,3FULLassortmentcreamvanitylavenderbedroom,4standaloneTIGHTMACRO ONLYspecifiedactualpart notwholeassortment,5FULLassortment+accurateheading PHONE CHARM SET,6blankcreamunused. Preservefullsourcecountidentityshapecolours/packagingineachfullview. Removehand/shop/pricequalityoverlay/stocksticker only,no newclaims/props/products.\nExact THREE original packaged beaded phonecharms side-by-side onTHREEwhiteFashionJewelrycards insideclearbag ONEassortment, NOT12pieces impliedbyprice. LEFT pinklobsterclasp withsmallpinkring, clear+pearl loop andoriginalsmallpinkbutterfly andsilverheartpendant withpinkheart/orangedots. MIDDLE bluelobsterclasp+bluering,clear+pearl loop withsmallbluebutterfly andsilverheartpendant blueheart/pinkdots. RIGHT lavender circularclasp andoriginalclear/lavenderheartbeads upperstrand,purplecrackle/pearlclearbeadsbelow. Preserveoriginalstrandloops, visiblebeadsequence/count/spacing,pendants,clearpackaging,cardorientation andsourceoverlaps. No addedbeads/clasps/unseenparts. Detailcell4ONLYtightmacro actualclear lavenderheartbead withpurpleinnerheart andneighbourclearroundbead onrightcharm, authenticrealpart.\n",
+      "sha256": "74da8b1190344f72069bc7fef39873d76b8993a49b37b037c966c5f3053a5f27",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e2e448be-cdea-46a3-ae52-f01084d67c7f.png",
+      "grid_sha256": "8e0833c6dde6416860a25b1cf989e5f04177647320126233729bc25f960bac7b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-e2e448be-cdea-46a3-ae52-f01084d67c7f.png",
+      "prompt": "Create ONE1536x1024LANDSCAPE productphoto image EXACT3EQUALCOLUMNS2EQUALROWS sixsquarecells, no gutters/borders/panellabels. Eachviewwhollyinsidecellwithsafemargin. Readingorder1whiteFULLassortment,2lavendercreamstudioFULL,3FULLassortmentcreamvanitylavenderbedroom,4standaloneTIGHTMACRO ONLYspecifiedactualpart notwholeassortment,5FULLassortment+accurateheading PHONE CHARM SET,6blankcreamunused. Preservefullsourcecountidentityshapecolours/packagingineachfullview. Removehand/shop/pricequalityoverlay/stocksticker only,no newclaims/props/products.\nExact THREE original packaged beaded phonecharms side-by-side onTHREEwhiteFashionJewelrycards insideclearbag ONEassortment, NOT12pieces impliedbyprice. LEFT pinklobsterclasp withsmallpinkring, clear+pearl loop andoriginalsmallpinkbutterfly andsilverheartpendant withpinkheart/orangedots. MIDDLE bluelobsterclasp+bluering,clear+pearl loop withsmallbluebutterfly andsilverheartpendant blueheart/pinkdots. RIGHT lavender circularclasp andoriginalclear/lavenderheartbeads upperstrand,purplecrackle/pearlclearbeadsbelow. Preserveoriginalstrandloops, visiblebeadsequence/count/spacing,pendants,clearpackaging,cardorientation andsourceoverlaps. No addedbeads/clasps/unseenparts. Detailcell4ONLYtightmacro actualclear lavenderheartbead withpurpleinnerheart andneighbourclearroundbead onrightcharm, authenticrealpart.\n",
+      "sha256": "ff964fd7db9ccf0b2d6ec3b373516fbdf225844d7872568fba29137063b475fa",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e2e448be-cdea-46a3-ae52-f01084d67c7f.png",
+      "grid_sha256": "8e0833c6dde6416860a25b1cf989e5f04177647320126233729bc25f960bac7b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-e2e448be-cdea-46a3-ae52-f01084d67c7f.png",
+      "prompt": "Create ONE1536x1024LANDSCAPE productphoto image EXACT3EQUALCOLUMNS2EQUALROWS sixsquarecells, no gutters/borders/panellabels. Eachviewwhollyinsidecellwithsafemargin. Readingorder1whiteFULLassortment,2lavendercreamstudioFULL,3FULLassortmentcreamvanitylavenderbedroom,4standaloneTIGHTMACRO ONLYspecifiedactualpart notwholeassortment,5FULLassortment+accurateheading PHONE CHARM SET,6blankcreamunused. Preservefullsourcecountidentityshapecolours/packagingineachfullview. Removehand/shop/pricequalityoverlay/stocksticker only,no newclaims/props/products.\nExact THREE original packaged beaded phonecharms side-by-side onTHREEwhiteFashionJewelrycards insideclearbag ONEassortment, NOT12pieces impliedbyprice. LEFT pinklobsterclasp withsmallpinkring, clear+pearl loop andoriginalsmallpinkbutterfly andsilverheartpendant withpinkheart/orangedots. MIDDLE bluelobsterclasp+bluering,clear+pearl loop withsmallbluebutterfly andsilverheartpendant blueheart/pinkdots. RIGHT lavender circularclasp andoriginalclear/lavenderheartbeads upperstrand,purplecrackle/pearlclearbeadsbelow. Preserveoriginalstrandloops, visiblebeadsequence/count/spacing,pendants,clearpackaging,cardorientation andsourceoverlaps. No addedbeads/clasps/unseenparts. Detailcell4ONLYtightmacro actualclear lavenderheartbead withpurpleinnerheart andneighbourclearroundbead onrightcharm, authenticrealpart.\n",
+      "sha256": "8eb248ef196374e2c8166f268c79748838a2fbcfb1e1984dfa0342c2a02b5780",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e2e448be-cdea-46a3-ae52-f01084d67c7f.png",
+      "grid_sha256": "8e0833c6dde6416860a25b1cf989e5f04177647320126233729bc25f960bac7b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

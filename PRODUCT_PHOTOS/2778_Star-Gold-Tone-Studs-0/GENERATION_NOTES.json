@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261006-WA0118.jpg": "4c01fd417574ed34770c29003842f57d597375bf92947619820b48985333d11a"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-e9c7592c-855f-4970-b4a9-3d043e8a7cee.png",
+      "source_output": "/workspace/generated_images/exec-e9c7592c-855f-4970-b4a9-3d043e8a7cee.png",
+      "sha256": "eee696abee8a93195762a7b47f5cb92d9a5e3e7b6f85a5a8398ffe03203ba3a1",
+      "prompt": "CreateONE landscape1536x1024 productphoto GRID EXACT3columns2rows SIXequalcells, NO gutters/borders/separatorlines/panellabels. Keep productwhollyinsideeachcell withmargin, no crossingboundaries. TOPLEFT01fulloriginalassortment white seamless; TOPMIDDLE02samefullassortment lavendercream studio; TOPRIGHT03samefullassortment creamjewelleryvanity blurredlavenderroom; BOTTOMLEFT04standalone TIGHTMACROONLY ONE originalfivepetalflowerstud hollowpetals and goldsurface onwhitecard, NOTfullassortment andnoinventedhiddenparts; BOTTOMMIDDLE05sameFULLassortment accurateheading Gold-Tone Flower Stud Collection; BOTTOMRIGHT06blankcream. EXACT original ONEwhite card in clearhangingbag of TWENTYFOURpositions arranged SIX rows FOUR columns of matching FIVEPETAL gold-tone flower studs. Originalstocksticker688-19 atLOWERRIGHT obscures LASTTWO studpositions; KEEPtheoriginalopaque sticker in sameplace so no invented hiddenstuds appear. Preserve visible flowercount, fiveovalpetals/hollowteardropcutouts, centres, originalsymmetricshapes/tilts/goldreflections and originalwhitecard STAINLESSSTEELprint, fullpackaging. No extra flowers or starshapes. Remove hand/shop/externalpriceandwarrantyoverlay only; retainlowerstockstickerocclusion. WholeassortmentONEproduct, identical count/identity/shapes/colours/materials acrossfullviews. Realisticsoftshadows, websitequality, no extra jewellery orperformanceclaims.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-e9c7592c-855f-4970-b4a9-3d043e8a7cee.png",
+      "prompt": "CreateONE landscape1536x1024 productphoto GRID EXACT3columns2rows SIXequalcells, NO gutters/borders/separatorlines/panellabels. Keep productwhollyinsideeachcell withmargin, no crossingboundaries. TOPLEFT01fulloriginalassortment white seamless; TOPMIDDLE02samefullassortment lavendercream studio; TOPRIGHT03samefullassortment creamjewelleryvanity blurredlavenderroom; BOTTOMLEFT04standalone TIGHTMACROONLY ONE originalfivepetalflowerstud hollowpetals and goldsurface onwhitecard, NOTfullassortment andnoinventedhiddenparts; BOTTOMMIDDLE05sameFULLassortment accurateheading Gold-Tone Flower Stud Collection; BOTTOMRIGHT06blankcream. EXACT original ONEwhite card in clearhangingbag of TWENTYFOURpositions arranged SIX rows FOUR columns of matching FIVEPETAL gold-tone flower studs. Originalstocksticker688-19 atLOWERRIGHT obscures LASTTWO studpositions; KEEPtheoriginalopaque sticker in sameplace so no invented hiddenstuds appear. Preserve visible flowercount, fiveovalpetals/hollowteardropcutouts, centres, originalsymmetricshapes/tilts/goldreflections and originalwhitecard STAINLESSSTEELprint, fullpackaging. No extra flowers or starshapes. Remove hand/shop/externalpriceandwarrantyoverlay only; retainlowerstockstickerocclusion. WholeassortmentONEproduct, identical count/identity/shapes/colours/materials acrossfullviews. Realisticsoftshadows, websitequality, no extra jewellery orperformanceclaims.",
+      "sha256": "9e3eea738502b9c99da82f83a0604a91b0f04bfab1566e9f53daa04e51392199",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e9c7592c-855f-4970-b4a9-3d043e8a7cee.png",
+      "grid_sha256": "eee696abee8a93195762a7b47f5cb92d9a5e3e7b6f85a5a8398ffe03203ba3a1",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-e9c7592c-855f-4970-b4a9-3d043e8a7cee.png",
+      "prompt": "CreateONE landscape1536x1024 productphoto GRID EXACT3columns2rows SIXequalcells, NO gutters/borders/separatorlines/panellabels. Keep productwhollyinsideeachcell withmargin, no crossingboundaries. TOPLEFT01fulloriginalassortment white seamless; TOPMIDDLE02samefullassortment lavendercream studio; TOPRIGHT03samefullassortment creamjewelleryvanity blurredlavenderroom; BOTTOMLEFT04standalone TIGHTMACROONLY ONE originalfivepetalflowerstud hollowpetals and goldsurface onwhitecard, NOTfullassortment andnoinventedhiddenparts; BOTTOMMIDDLE05sameFULLassortment accurateheading Gold-Tone Flower Stud Collection; BOTTOMRIGHT06blankcream. EXACT original ONEwhite card in clearhangingbag of TWENTYFOURpositions arranged SIX rows FOUR columns of matching FIVEPETAL gold-tone flower studs. Originalstocksticker688-19 atLOWERRIGHT obscures LASTTWO studpositions; KEEPtheoriginalopaque sticker in sameplace so no invented hiddenstuds appear. Preserve visible flowercount, fiveovalpetals/hollowteardropcutouts, centres, originalsymmetricshapes/tilts/goldreflections and originalwhitecard STAINLESSSTEELprint, fullpackaging. No extra flowers or starshapes. Remove hand/shop/externalpriceandwarrantyoverlay only; retainlowerstockstickerocclusion. WholeassortmentONEproduct, identical count/identity/shapes/colours/materials acrossfullviews. Realisticsoftshadows, websitequality, no extra jewellery orperformanceclaims.",
+      "sha256": "4bf2289405e91c4adce52e6826464e3be49fb76f65e5c441f2f8bf0d7ab92450",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e9c7592c-855f-4970-b4a9-3d043e8a7cee.png",
+      "grid_sha256": "eee696abee8a93195762a7b47f5cb92d9a5e3e7b6f85a5a8398ffe03203ba3a1",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-e9c7592c-855f-4970-b4a9-3d043e8a7cee.png",
+      "prompt": "CreateONE landscape1536x1024 productphoto GRID EXACT3columns2rows SIXequalcells, NO gutters/borders/separatorlines/panellabels. Keep productwhollyinsideeachcell withmargin, no crossingboundaries. TOPLEFT01fulloriginalassortment white seamless; TOPMIDDLE02samefullassortment lavendercream studio; TOPRIGHT03samefullassortment creamjewelleryvanity blurredlavenderroom; BOTTOMLEFT04standalone TIGHTMACROONLY ONE originalfivepetalflowerstud hollowpetals and goldsurface onwhitecard, NOTfullassortment andnoinventedhiddenparts; BOTTOMMIDDLE05sameFULLassortment accurateheading Gold-Tone Flower Stud Collection; BOTTOMRIGHT06blankcream. EXACT original ONEwhite card in clearhangingbag of TWENTYFOURpositions arranged SIX rows FOUR columns of matching FIVEPETAL gold-tone flower studs. Originalstocksticker688-19 atLOWERRIGHT obscures LASTTWO studpositions; KEEPtheoriginalopaque sticker in sameplace so no invented hiddenstuds appear. Preserve visible flowercount, fiveovalpetals/hollowteardropcutouts, centres, originalsymmetricshapes/tilts/goldreflections and originalwhitecard STAINLESSSTEELprint, fullpackaging. No extra flowers or starshapes. Remove hand/shop/externalpriceandwarrantyoverlay only; retainlowerstockstickerocclusion. WholeassortmentONEproduct, identical count/identity/shapes/colours/materials acrossfullviews. Realisticsoftshadows, websitequality, no extra jewellery orperformanceclaims.",
+      "sha256": "ba74adf555a1c63d8d1d49d4508a65b9c1e6c754cce13ba6e11e2476145e4678",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e9c7592c-855f-4970-b4a9-3d043e8a7cee.png",
+      "grid_sha256": "eee696abee8a93195762a7b47f5cb92d9a5e3e7b6f85a5a8398ffe03203ba3a1",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-e9c7592c-855f-4970-b4a9-3d043e8a7cee.png",
+      "prompt": "CreateONE landscape1536x1024 productphoto GRID EXACT3columns2rows SIXequalcells, NO gutters/borders/separatorlines/panellabels. Keep productwhollyinsideeachcell withmargin, no crossingboundaries. TOPLEFT01fulloriginalassortment white seamless; TOPMIDDLE02samefullassortment lavendercream studio; TOPRIGHT03samefullassortment creamjewelleryvanity blurredlavenderroom; BOTTOMLEFT04standalone TIGHTMACROONLY ONE originalfivepetalflowerstud hollowpetals and goldsurface onwhitecard, NOTfullassortment andnoinventedhiddenparts; BOTTOMMIDDLE05sameFULLassortment accurateheading Gold-Tone Flower Stud Collection; BOTTOMRIGHT06blankcream. EXACT original ONEwhite card in clearhangingbag of TWENTYFOURpositions arranged SIX rows FOUR columns of matching FIVEPETAL gold-tone flower studs. Originalstocksticker688-19 atLOWERRIGHT obscures LASTTWO studpositions; KEEPtheoriginalopaque sticker in sameplace so no invented hiddenstuds appear. Preserve visible flowercount, fiveovalpetals/hollowteardropcutouts, centres, originalsymmetricshapes/tilts/goldreflections and originalwhitecard STAINLESSSTEELprint, fullpackaging. No extra flowers or starshapes. Remove hand/shop/externalpriceandwarrantyoverlay only; retainlowerstockstickerocclusion. WholeassortmentONEproduct, identical count/identity/shapes/colours/materials acrossfullviews. Realisticsoftshadows, websitequality, no extra jewellery orperformanceclaims.",
+      "sha256": "189c00b9eef2802b01976132c1e6b326e8b12c4417de6a9e12d03497240e23ed",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e9c7592c-855f-4970-b4a9-3d043e8a7cee.png",
+      "grid_sha256": "eee696abee8a93195762a7b47f5cb92d9a5e3e7b6f85a5a8398ffe03203ba3a1",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-e9c7592c-855f-4970-b4a9-3d043e8a7cee.png",
+      "prompt": "CreateONE landscape1536x1024 productphoto GRID EXACT3columns2rows SIXequalcells, NO gutters/borders/separatorlines/panellabels. Keep productwhollyinsideeachcell withmargin, no crossingboundaries. TOPLEFT01fulloriginalassortment white seamless; TOPMIDDLE02samefullassortment lavendercream studio; TOPRIGHT03samefullassortment creamjewelleryvanity blurredlavenderroom; BOTTOMLEFT04standalone TIGHTMACROONLY ONE originalfivepetalflowerstud hollowpetals and goldsurface onwhitecard, NOTfullassortment andnoinventedhiddenparts; BOTTOMMIDDLE05sameFULLassortment accurateheading Gold-Tone Flower Stud Collection; BOTTOMRIGHT06blankcream. EXACT original ONEwhite card in clearhangingbag of TWENTYFOURpositions arranged SIX rows FOUR columns of matching FIVEPETAL gold-tone flower studs. Originalstocksticker688-19 atLOWERRIGHT obscures LASTTWO studpositions; KEEPtheoriginalopaque sticker in sameplace so no invented hiddenstuds appear. Preserve visible flowercount, fiveovalpetals/hollowteardropcutouts, centres, originalsymmetricshapes/tilts/goldreflections and originalwhitecard STAINLESSSTEELprint, fullpackaging. No extra flowers or starshapes. Remove hand/shop/externalpriceandwarrantyoverlay only; retainlowerstockstickerocclusion. WholeassortmentONEproduct, identical count/identity/shapes/colours/materials acrossfullviews. Realisticsoftshadows, websitequality, no extra jewellery orperformanceclaims.",
+      "sha256": "8cb646b20fe166a0e3348bb53c9a5f4bf73c493082a17c584380297ec7958f76",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e9c7592c-855f-4970-b4a9-3d043e8a7cee.png",
+      "grid_sha256": "eee696abee8a93195762a7b47f5cb92d9a5e3e7b6f85a5a8398ffe03203ba3a1",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

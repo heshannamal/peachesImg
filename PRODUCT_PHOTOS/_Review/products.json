@@ -34126,9 +34126,9 @@
     "source_image_ids": [
       3133
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -34158,51 +34158,59 @@
   },
   {
     "product_id": "2806",
-    "folder": "2806_Pink-Round-Studs-0",
+    "folder": "2806_Pink-Round-Studs-1",
     "source_image_ids": [
       3138
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2807",
-    "folder": "2807_Purple-Round-Studs-0",
+    "folder": "2807_Purple-Round-Studs-1",
     "source_image_ids": [
       3139
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2808",
-    "folder": "2808_Colourful-Hair-Clips-0",
+    "folder": "2808_Colourful-Hair-Clips-1",
     "source_image_ids": [
       3140
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2809",
-    "folder": "2809_Black-Leaf-Hair-Clips-0",
+    "folder": "2809_Black-Leaf-Hair-Clips-1",
     "source_image_ids": [
       3141
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2810",

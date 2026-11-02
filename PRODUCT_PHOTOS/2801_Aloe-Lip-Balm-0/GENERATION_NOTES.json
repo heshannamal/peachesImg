@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261008-WA0005.jpg": "5e449693438671119054bde6b7eaaeb99d564be02941badaeb272bb35e068cf5"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-bcb7d942-94a9-454e-9643-84c197e969c1.png",
+      "source_output": "/workspace/generated_images/exec-bcb7d942-94a9-454e-9643-84c197e969c1.png",
+      "sha256": "50a53ecf446c05a566bf34cfaffd9cd7449fb02f494b99045ae50ae2c5b07a9b",
+      "prompt": "ONE landscape1536x1024 image EXACT3columns2rows SIXEQUAL cells with NO gutters,borders,separators or panel labels. Each view whollyinsideitscell withmargin, no crossingboundaries. TopLEFT01full originalassortment purewhite seamless; topMIDDLE02same fullassortment lavendercreamstudio; topRIGHT03samefullassortment oncreamdesk softlyblurredlavenderroom; bottomLEFT04standalone TIGHT REALPART MACRO of ONE originalgreencap/label edge closeup with true plastictexture, ONLYvisiblepart NOTfullassortment; bottomMIDDLE05sameFULLassortment and smallaccurateheading Aloe Balm Collection; bottomRIGHT06blankcream. Sourceidentity/count/shapes/colours/materials unchanged throughallfullviews, realisticproductphoto softnaturalshadow. EXACT original ADS Beauty green ALOE VERA balm display carton with TWENTYFOUR CLOSED green tubes arranged SIX columns FOUR depthrows, retain all24caps/bodypositions and original stepped overlap. Keep ORIGINAL tallgreen printedheader with ADSBeauty/aloegraphic/threepinklipphotos, lowergreen displaytray/logos and actual closed transparentgreencaps. No openingbalms, no inventedcontents, no extra tubes, no newlyaddedclaims; preserve actual printedpackaging. WholecartonONEassortment. Remove Rs2400/24pcs externalpriceoverlay only. No addedproducts/hands/claims/imaginedhiddenparts. Website-ready.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-bcb7d942-94a9-454e-9643-84c197e969c1.png",
+      "prompt": "ONE landscape1536x1024 image EXACT3columns2rows SIXEQUAL cells with NO gutters,borders,separators or panel labels. Each view whollyinsideitscell withmargin, no crossingboundaries. TopLEFT01full originalassortment purewhite seamless; topMIDDLE02same fullassortment lavendercreamstudio; topRIGHT03samefullassortment oncreamdesk softlyblurredlavenderroom; bottomLEFT04standalone TIGHT REALPART MACRO of ONE originalgreencap/label edge closeup with true plastictexture, ONLYvisiblepart NOTfullassortment; bottomMIDDLE05sameFULLassortment and smallaccurateheading Aloe Balm Collection; bottomRIGHT06blankcream. Sourceidentity/count/shapes/colours/materials unchanged throughallfullviews, realisticproductphoto softnaturalshadow. EXACT original ADS Beauty green ALOE VERA balm display carton with TWENTYFOUR CLOSED green tubes arranged SIX columns FOUR depthrows, retain all24caps/bodypositions and original stepped overlap. Keep ORIGINAL tallgreen printedheader with ADSBeauty/aloegraphic/threepinklipphotos, lowergreen displaytray/logos and actual closed transparentgreencaps. No openingbalms, no inventedcontents, no extra tubes, no newlyaddedclaims; preserve actual printedpackaging. WholecartonONEassortment. Remove Rs2400/24pcs externalpriceoverlay only. No addedproducts/hands/claims/imaginedhiddenparts. Website-ready.",
+      "sha256": "d862f2aea36c4bf87faf6550ffdc2b1d0ddc61eea6c0d5d1b9e4fbd9ab5f0ad1",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-bcb7d942-94a9-454e-9643-84c197e969c1.png",
+      "grid_sha256": "50a53ecf446c05a566bf34cfaffd9cd7449fb02f494b99045ae50ae2c5b07a9b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-bcb7d942-94a9-454e-9643-84c197e969c1.png",
+      "prompt": "ONE landscape1536x1024 image EXACT3columns2rows SIXEQUAL cells with NO gutters,borders,separators or panel labels. Each view whollyinsideitscell withmargin, no crossingboundaries. TopLEFT01full originalassortment purewhite seamless; topMIDDLE02same fullassortment lavendercreamstudio; topRIGHT03samefullassortment oncreamdesk softlyblurredlavenderroom; bottomLEFT04standalone TIGHT REALPART MACRO of ONE originalgreencap/label edge closeup with true plastictexture, ONLYvisiblepart NOTfullassortment; bottomMIDDLE05sameFULLassortment and smallaccurateheading Aloe Balm Collection; bottomRIGHT06blankcream. Sourceidentity/count/shapes/colours/materials unchanged throughallfullviews, realisticproductphoto softnaturalshadow. EXACT original ADS Beauty green ALOE VERA balm display carton with TWENTYFOUR CLOSED green tubes arranged SIX columns FOUR depthrows, retain all24caps/bodypositions and original stepped overlap. Keep ORIGINAL tallgreen printedheader with ADSBeauty/aloegraphic/threepinklipphotos, lowergreen displaytray/logos and actual closed transparentgreencaps. No openingbalms, no inventedcontents, no extra tubes, no newlyaddedclaims; preserve actual printedpackaging. WholecartonONEassortment. Remove Rs2400/24pcs externalpriceoverlay only. No addedproducts/hands/claims/imaginedhiddenparts. Website-ready.",
+      "sha256": "43c61b9e0e44d74be76526b6b5c6c513c3cf34db9ab59d88c22ecdebec3ed505",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-bcb7d942-94a9-454e-9643-84c197e969c1.png",
+      "grid_sha256": "50a53ecf446c05a566bf34cfaffd9cd7449fb02f494b99045ae50ae2c5b07a9b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-bcb7d942-94a9-454e-9643-84c197e969c1.png",
+      "prompt": "ONE landscape1536x1024 image EXACT3columns2rows SIXEQUAL cells with NO gutters,borders,separators or panel labels. Each view whollyinsideitscell withmargin, no crossingboundaries. TopLEFT01full originalassortment purewhite seamless; topMIDDLE02same fullassortment lavendercreamstudio; topRIGHT03samefullassortment oncreamdesk softlyblurredlavenderroom; bottomLEFT04standalone TIGHT REALPART MACRO of ONE originalgreencap/label edge closeup with true plastictexture, ONLYvisiblepart NOTfullassortment; bottomMIDDLE05sameFULLassortment and smallaccurateheading Aloe Balm Collection; bottomRIGHT06blankcream. Sourceidentity/count/shapes/colours/materials unchanged throughallfullviews, realisticproductphoto softnaturalshadow. EXACT original ADS Beauty green ALOE VERA balm display carton with TWENTYFOUR CLOSED green tubes arranged SIX columns FOUR depthrows, retain all24caps/bodypositions and original stepped overlap. Keep ORIGINAL tallgreen printedheader with ADSBeauty/aloegraphic/threepinklipphotos, lowergreen displaytray/logos and actual closed transparentgreencaps. No openingbalms, no inventedcontents, no extra tubes, no newlyaddedclaims; preserve actual printedpackaging. WholecartonONEassortment. Remove Rs2400/24pcs externalpriceoverlay only. No addedproducts/hands/claims/imaginedhiddenparts. Website-ready.",
+      "sha256": "49648bd6406c0f3af1ae9fc01c4b4df43d4155030722a07138e9a3fa04e4206b",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-bcb7d942-94a9-454e-9643-84c197e969c1.png",
+      "grid_sha256": "50a53ecf446c05a566bf34cfaffd9cd7449fb02f494b99045ae50ae2c5b07a9b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-bcb7d942-94a9-454e-9643-84c197e969c1.png",
+      "prompt": "ONE landscape1536x1024 image EXACT3columns2rows SIXEQUAL cells with NO gutters,borders,separators or panel labels. Each view whollyinsideitscell withmargin, no crossingboundaries. TopLEFT01full originalassortment purewhite seamless; topMIDDLE02same fullassortment lavendercreamstudio; topRIGHT03samefullassortment oncreamdesk softlyblurredlavenderroom; bottomLEFT04standalone TIGHT REALPART MACRO of ONE originalgreencap/label edge closeup with true plastictexture, ONLYvisiblepart NOTfullassortment; bottomMIDDLE05sameFULLassortment and smallaccurateheading Aloe Balm Collection; bottomRIGHT06blankcream. Sourceidentity/count/shapes/colours/materials unchanged throughallfullviews, realisticproductphoto softnaturalshadow. EXACT original ADS Beauty green ALOE VERA balm display carton with TWENTYFOUR CLOSED green tubes arranged SIX columns FOUR depthrows, retain all24caps/bodypositions and original stepped overlap. Keep ORIGINAL tallgreen printedheader with ADSBeauty/aloegraphic/threepinklipphotos, lowergreen displaytray/logos and actual closed transparentgreencaps. No openingbalms, no inventedcontents, no extra tubes, no newlyaddedclaims; preserve actual printedpackaging. WholecartonONEassortment. Remove Rs2400/24pcs externalpriceoverlay only. No addedproducts/hands/claims/imaginedhiddenparts. Website-ready.",
+      "sha256": "15c7ed87a3f6aa90e1925f01f72fa7314d5e0cc0c9c9890c88594a0592ea15b9",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-bcb7d942-94a9-454e-9643-84c197e969c1.png",
+      "grid_sha256": "50a53ecf446c05a566bf34cfaffd9cd7449fb02f494b99045ae50ae2c5b07a9b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-bcb7d942-94a9-454e-9643-84c197e969c1.png",
+      "prompt": "ONE landscape1536x1024 image EXACT3columns2rows SIXEQUAL cells with NO gutters,borders,separators or panel labels. Each view whollyinsideitscell withmargin, no crossingboundaries. TopLEFT01full originalassortment purewhite seamless; topMIDDLE02same fullassortment lavendercreamstudio; topRIGHT03samefullassortment oncreamdesk softlyblurredlavenderroom; bottomLEFT04standalone TIGHT REALPART MACRO of ONE originalgreencap/label edge closeup with true plastictexture, ONLYvisiblepart NOTfullassortment; bottomMIDDLE05sameFULLassortment and smallaccurateheading Aloe Balm Collection; bottomRIGHT06blankcream. Sourceidentity/count/shapes/colours/materials unchanged throughallfullviews, realisticproductphoto softnaturalshadow. EXACT original ADS Beauty green ALOE VERA balm display carton with TWENTYFOUR CLOSED green tubes arranged SIX columns FOUR depthrows, retain all24caps/bodypositions and original stepped overlap. Keep ORIGINAL tallgreen printedheader with ADSBeauty/aloegraphic/threepinklipphotos, lowergreen displaytray/logos and actual closed transparentgreencaps. No openingbalms, no inventedcontents, no extra tubes, no newlyaddedclaims; preserve actual printedpackaging. WholecartonONEassortment. Remove Rs2400/24pcs externalpriceoverlay only. No addedproducts/hands/claims/imaginedhiddenparts. Website-ready.",
+      "sha256": "9112a8ea8e8fb63ff31effac708c1e2f485bfdb47f6af621a778031fbd2d8b74",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-bcb7d942-94a9-454e-9643-84c197e969c1.png",
+      "grid_sha256": "50a53ecf446c05a566bf34cfaffd9cd7449fb02f494b99045ae50ae2c5b07a9b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

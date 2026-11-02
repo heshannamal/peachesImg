@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-02T16:04:22.590860+00:00",
+  "updated_at": "2026-11-02T17:41:19.130912+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 19,
-  "partial_products": 4,
-  "pending_products": 76,
+  "completed_products": 22,
+  "partial_products": 7,
+  "pending_products": 70,
   "blocked_products": 1,
-  "saved_images": 115,
-  "checked_images": 95,
+  "saved_images": 145,
+  "checked_images": 118,
   "status": "running",
   "started_at": "2026-11-02T15:41:05.879847+00:00",
   "processing_order": "descending_numeric_product_id",
@@ -22,5 +22,8 @@
   "pilot_crop_dimensions": [
     512,
     512
-  ]
+  ],
+  "resumed_at": "2026-11-02T17:37:45.924211+00:00",
+  "previous_blocker": "Worker model usage limits interrupted prior turn; saved grid crops retained.",
+  "resume_note": "User requested Start; workers resume existing assigned descending pairs, reviewing saved crops first, then one nativegrid per product."
 }

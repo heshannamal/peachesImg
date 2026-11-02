@@ -1,17 +1,17 @@
 {
   "assigned": [
-    "2819",
-    "2818"
+    "2801",
+    "2800"
   ],
-  "status": "pair_complete",
-  "active_products": 0,
-  "inflight": 0,
+  "status": "generating_combined_grids",
+  "active_products": 2,
+  "inflight": 2,
   "completed_products": [
     "2819",
     "2818"
   ],
-  "saved_images": 10,
-  "checked_images": 10,
-  "originals_unchanged": true,
-  "workflow": "onegrid/product cropped,existingvalidwhite2819preserved;2818whitecorrectedonce"
+  "actual_subjects": {
+    "2801": "24tubeADSgreenaloebalmdisplay",
+    "2800": "4distinctcreamtumblerscharactervariants"
+  }
 }

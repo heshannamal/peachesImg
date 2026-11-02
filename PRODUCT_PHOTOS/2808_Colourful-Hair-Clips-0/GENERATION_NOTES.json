@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/PXL_20250306_070755492.jpg": "844314266d21da0da3c9bda7d3a9ea580394ff7618ba5db99b139f4e9dd48b10"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-88ff97ad-e1e5-430c-9547-6737fe4b3d1b.png",
+      "source_output": "/workspace/generated_images/exec-88ff97ad-e1e5-430c-9547-6737fe4b3d1b.png",
+      "sha256": "086de1011e8824314d4cdfd1d42e8d1ec12654ba9176ce3885e76cd292169690",
+      "prompt": "Make ONE1536x1024LANDSCAPE native productphoto grid EXACT3EQUALCOLUMNS2EQUALROWS (six512squarecells), NOgutters/borders/panellabels. Eachview staysINSIDEitscell withmargin; no crossing boundaries. Readorder1white FULLassortment,2lavendercream FULLassortment,3FULLassortment oncreamvanity blurredlavenderbedroom,4standalone TIGHTREALPARTMACRO ONLY as specified NOTwholeassortment,5FULLassortmentwithreadable accurateheading BEADED BROOCH PINS above product,6blankcreamunused. No prices/newclaims/extraobjects. Everyfullview preserves EXACT sourcecount/identity/colours/shapes/packaging.\nActualsubject EXACT TWELVE decorative goldtone safety broochpins on ONEtall originalbackingcard/clearpacket,12horizontalpins stackedvertically. Eachpin TWOcreamroundpearlbeads flanking ONElarge colouredfacetedroundcentrebead on originalwhite/clearroundmount, same leftgoldloop/rightclosure. Centrebeads topbottom lavender,blue,orange,pink,darkgreen,lavender,blue,orange,pink,darkgreen,lavender,blue. Keep12pins,originaltallstripshape/portraitwomanheaderprint/clearpackaging,count,visiblearrangementandocclusion. NOT hairclips,do not shorten to6pins or createanotherstrip. Removehand/watch/shop only. Macrocell4ONLY actualbluefacetedcentrebead andadjacentcreampearl/goldwire realpart tightcrop, NOT wholepin/assortment.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-88ff97ad-e1e5-430c-9547-6737fe4b3d1b.png",
+      "prompt": "Make ONE1536x1024LANDSCAPE native productphoto grid EXACT3EQUALCOLUMNS2EQUALROWS (six512squarecells), NOgutters/borders/panellabels. Eachview staysINSIDEitscell withmargin; no crossing boundaries. Readorder1white FULLassortment,2lavendercream FULLassortment,3FULLassortment oncreamvanity blurredlavenderbedroom,4standalone TIGHTREALPARTMACRO ONLY as specified NOTwholeassortment,5FULLassortmentwithreadable accurateheading BEADED BROOCH PINS above product,6blankcreamunused. No prices/newclaims/extraobjects. Everyfullview preserves EXACT sourcecount/identity/colours/shapes/packaging.\nActualsubject EXACT TWELVE decorative goldtone safety broochpins on ONEtall originalbackingcard/clearpacket,12horizontalpins stackedvertically. Eachpin TWOcreamroundpearlbeads flanking ONElarge colouredfacetedroundcentrebead on originalwhite/clearroundmount, same leftgoldloop/rightclosure. Centrebeads topbottom lavender,blue,orange,pink,darkgreen,lavender,blue,orange,pink,darkgreen,lavender,blue. Keep12pins,originaltallstripshape/portraitwomanheaderprint/clearpackaging,count,visiblearrangementandocclusion. NOT hairclips,do not shorten to6pins or createanotherstrip. Removehand/watch/shop only. Macrocell4ONLY actualbluefacetedcentrebead andadjacentcreampearl/goldwire realpart tightcrop, NOT wholepin/assortment.\n",
+      "sha256": "fd918face6abb4f869b5769524da95f74b75f4adbec596fff849542115232ac3",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-88ff97ad-e1e5-430c-9547-6737fe4b3d1b.png",
+      "grid_sha256": "086de1011e8824314d4cdfd1d42e8d1ec12654ba9176ce3885e76cd292169690",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-88ff97ad-e1e5-430c-9547-6737fe4b3d1b.png",
+      "prompt": "Make ONE1536x1024LANDSCAPE native productphoto grid EXACT3EQUALCOLUMNS2EQUALROWS (six512squarecells), NOgutters/borders/panellabels. Eachview staysINSIDEitscell withmargin; no crossing boundaries. Readorder1white FULLassortment,2lavendercream FULLassortment,3FULLassortment oncreamvanity blurredlavenderbedroom,4standalone TIGHTREALPARTMACRO ONLY as specified NOTwholeassortment,5FULLassortmentwithreadable accurateheading BEADED BROOCH PINS above product,6blankcreamunused. No prices/newclaims/extraobjects. Everyfullview preserves EXACT sourcecount/identity/colours/shapes/packaging.\nActualsubject EXACT TWELVE decorative goldtone safety broochpins on ONEtall originalbackingcard/clearpacket,12horizontalpins stackedvertically. Eachpin TWOcreamroundpearlbeads flanking ONElarge colouredfacetedroundcentrebead on originalwhite/clearroundmount, same leftgoldloop/rightclosure. Centrebeads topbottom lavender,blue,orange,pink,darkgreen,lavender,blue,orange,pink,darkgreen,lavender,blue. Keep12pins,originaltallstripshape/portraitwomanheaderprint/clearpackaging,count,visiblearrangementandocclusion. NOT hairclips,do not shorten to6pins or createanotherstrip. Removehand/watch/shop only. Macrocell4ONLY actualbluefacetedcentrebead andadjacentcreampearl/goldwire realpart tightcrop, NOT wholepin/assortment.\n",
+      "sha256": "fe1c2093c61606760726256ea15ac2d6ebe8e5e2bf077f93891ed8549b02a921",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-88ff97ad-e1e5-430c-9547-6737fe4b3d1b.png",
+      "grid_sha256": "086de1011e8824314d4cdfd1d42e8d1ec12654ba9176ce3885e76cd292169690",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-88ff97ad-e1e5-430c-9547-6737fe4b3d1b.png",
+      "prompt": "Make ONE1536x1024LANDSCAPE native productphoto grid EXACT3EQUALCOLUMNS2EQUALROWS (six512squarecells), NOgutters/borders/panellabels. Eachview staysINSIDEitscell withmargin; no crossing boundaries. Readorder1white FULLassortment,2lavendercream FULLassortment,3FULLassortment oncreamvanity blurredlavenderbedroom,4standalone TIGHTREALPARTMACRO ONLY as specified NOTwholeassortment,5FULLassortmentwithreadable accurateheading BEADED BROOCH PINS above product,6blankcreamunused. No prices/newclaims/extraobjects. Everyfullview preserves EXACT sourcecount/identity/colours/shapes/packaging.\nActualsubject EXACT TWELVE decorative goldtone safety broochpins on ONEtall originalbackingcard/clearpacket,12horizontalpins stackedvertically. Eachpin TWOcreamroundpearlbeads flanking ONElarge colouredfacetedroundcentrebead on originalwhite/clearroundmount, same leftgoldloop/rightclosure. Centrebeads topbottom lavender,blue,orange,pink,darkgreen,lavender,blue,orange,pink,darkgreen,lavender,blue. Keep12pins,originaltallstripshape/portraitwomanheaderprint/clearpackaging,count,visiblearrangementandocclusion. NOT hairclips,do not shorten to6pins or createanotherstrip. Removehand/watch/shop only. Macrocell4ONLY actualbluefacetedcentrebead andadjacentcreampearl/goldwire realpart tightcrop, NOT wholepin/assortment.\n",
+      "sha256": "42ec147aec9d9519c53fd8c6d58a6176237f7f56affb2d02bc0cc867378fe056",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-88ff97ad-e1e5-430c-9547-6737fe4b3d1b.png",
+      "grid_sha256": "086de1011e8824314d4cdfd1d42e8d1ec12654ba9176ce3885e76cd292169690",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-88ff97ad-e1e5-430c-9547-6737fe4b3d1b.png",
+      "prompt": "Make ONE1536x1024LANDSCAPE native productphoto grid EXACT3EQUALCOLUMNS2EQUALROWS (six512squarecells), NOgutters/borders/panellabels. Eachview staysINSIDEitscell withmargin; no crossing boundaries. Readorder1white FULLassortment,2lavendercream FULLassortment,3FULLassortment oncreamvanity blurredlavenderbedroom,4standalone TIGHTREALPARTMACRO ONLY as specified NOTwholeassortment,5FULLassortmentwithreadable accurateheading BEADED BROOCH PINS above product,6blankcreamunused. No prices/newclaims/extraobjects. Everyfullview preserves EXACT sourcecount/identity/colours/shapes/packaging.\nActualsubject EXACT TWELVE decorative goldtone safety broochpins on ONEtall originalbackingcard/clearpacket,12horizontalpins stackedvertically. Eachpin TWOcreamroundpearlbeads flanking ONElarge colouredfacetedroundcentrebead on originalwhite/clearroundmount, same leftgoldloop/rightclosure. Centrebeads topbottom lavender,blue,orange,pink,darkgreen,lavender,blue,orange,pink,darkgreen,lavender,blue. Keep12pins,originaltallstripshape/portraitwomanheaderprint/clearpackaging,count,visiblearrangementandocclusion. NOT hairclips,do not shorten to6pins or createanotherstrip. Removehand/watch/shop only. Macrocell4ONLY actualbluefacetedcentrebead andadjacentcreampearl/goldwire realpart tightcrop, NOT wholepin/assortment.\n",
+      "sha256": "13411f38107c96aec530432257e24f66e00034818a3a746d3f98a652cd467f46",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-88ff97ad-e1e5-430c-9547-6737fe4b3d1b.png",
+      "grid_sha256": "086de1011e8824314d4cdfd1d42e8d1ec12654ba9176ce3885e76cd292169690",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-88ff97ad-e1e5-430c-9547-6737fe4b3d1b.png",
+      "prompt": "Make ONE1536x1024LANDSCAPE native productphoto grid EXACT3EQUALCOLUMNS2EQUALROWS (six512squarecells), NOgutters/borders/panellabels. Eachview staysINSIDEitscell withmargin; no crossing boundaries. Readorder1white FULLassortment,2lavendercream FULLassortment,3FULLassortment oncreamvanity blurredlavenderbedroom,4standalone TIGHTREALPARTMACRO ONLY as specified NOTwholeassortment,5FULLassortmentwithreadable accurateheading BEADED BROOCH PINS above product,6blankcreamunused. No prices/newclaims/extraobjects. Everyfullview preserves EXACT sourcecount/identity/colours/shapes/packaging.\nActualsubject EXACT TWELVE decorative goldtone safety broochpins on ONEtall originalbackingcard/clearpacket,12horizontalpins stackedvertically. Eachpin TWOcreamroundpearlbeads flanking ONElarge colouredfacetedroundcentrebead on originalwhite/clearroundmount, same leftgoldloop/rightclosure. Centrebeads topbottom lavender,blue,orange,pink,darkgreen,lavender,blue,orange,pink,darkgreen,lavender,blue. Keep12pins,originaltallstripshape/portraitwomanheaderprint/clearpackaging,count,visiblearrangementandocclusion. NOT hairclips,do not shorten to6pins or createanotherstrip. Removehand/watch/shop only. Macrocell4ONLY actualbluefacetedcentrebead andadjacentcreampearl/goldwire realpart tightcrop, NOT wholepin/assortment.\n",
+      "sha256": "8524808e4535c1132b99b33e40563e35865f59e88d14261466be35c88b005bb4",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-88ff97ad-e1e5-430c-9547-6737fe4b3d1b.png",
+      "grid_sha256": "086de1011e8824314d4cdfd1d42e8d1ec12654ba9176ce3885e76cd292169690",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

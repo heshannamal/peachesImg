@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/PXL_20250306_070930818.jpg": "50fcc6ff41a6039131a04207f2bdb4372efc24861b1b8decd5260192111aa62b"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-2c8492e6-2abc-48f1-b9ce-a36ad0a44d1a.png",
+      "source_output": "/workspace/generated_images/exec-2c8492e6-2abc-48f1-b9ce-a36ad0a44d1a.png",
+      "sha256": "69d3ef7ffa11e1f7ac0f82a08382d5543ed29bfca7c35da7136b8b334fa35825",
+      "prompt": "Make ONE1536x1024LANDSCAPE native productphoto grid EXACT3EQUALCOLUMNS2EQUALROWS (six512squarecells), NOgutters/borders/panellabels. Eachview staysINSIDEitscell withmargin; no crossing boundaries. Readorder1white FULLassortment,2lavendercream FULLassortment,3FULLassortment oncreamvanity blurredlavenderbedroom,4standalone TIGHTREALPARTMACRO ONLY as specified NOTwholeassortment,5FULLassortmentwithreadable accurateheading BEADED BROOCH PINS above product,6blankcreamunused. No prices/newclaims/extraobjects. Everyfullview preserves EXACT sourcecount/identity/colours/shapes/packaging.\nActualsubject TWELVE decorative goldtone safety broochpins on TWELVEwhite FashionJewelrycards in TWOclearstrips SIXpins each, NOT hairclips. Eachpin same goldwireloop/closure,twoouter facetedcolourbeads with goldrhinestonerondelles and onecentralflat milkywhite rounddiscbead. BOTHcolumns top3blackouterbead pins,then1teal,1purple,1blue. Preserve12pins, exactoriginalcardarrangement/overlaps,clearbags,whiteplasticmounts and sourceoriginal occlusions. Do not inferhiddenpieces; removehand/shop only. Macrocell4ONLY actualcentral milkywhite disc+rhinestonerondelle/adjacent blackfacetedbead andgoldwire closecrop, no fullpin/set.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-2c8492e6-2abc-48f1-b9ce-a36ad0a44d1a.png",
+      "prompt": "Make ONE1536x1024LANDSCAPE native productphoto grid EXACT3EQUALCOLUMNS2EQUALROWS (six512squarecells), NOgutters/borders/panellabels. Eachview staysINSIDEitscell withmargin; no crossing boundaries. Readorder1white FULLassortment,2lavendercream FULLassortment,3FULLassortment oncreamvanity blurredlavenderbedroom,4standalone TIGHTREALPARTMACRO ONLY as specified NOTwholeassortment,5FULLassortmentwithreadable accurateheading BEADED BROOCH PINS above product,6blankcreamunused. No prices/newclaims/extraobjects. Everyfullview preserves EXACT sourcecount/identity/colours/shapes/packaging.\nActualsubject TWELVE decorative goldtone safety broochpins on TWELVEwhite FashionJewelrycards in TWOclearstrips SIXpins each, NOT hairclips. Eachpin same goldwireloop/closure,twoouter facetedcolourbeads with goldrhinestonerondelles and onecentralflat milkywhite rounddiscbead. BOTHcolumns top3blackouterbead pins,then1teal,1purple,1blue. Preserve12pins, exactoriginalcardarrangement/overlaps,clearbags,whiteplasticmounts and sourceoriginal occlusions. Do not inferhiddenpieces; removehand/shop only. Macrocell4ONLY actualcentral milkywhite disc+rhinestonerondelle/adjacent blackfacetedbead andgoldwire closecrop, no fullpin/set.\n",
+      "sha256": "0de6e607613cf4eefbe32615144d67fda54a1eec66d4ef90964ee30e2fec8a55",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2c8492e6-2abc-48f1-b9ce-a36ad0a44d1a.png",
+      "grid_sha256": "69d3ef7ffa11e1f7ac0f82a08382d5543ed29bfca7c35da7136b8b334fa35825",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-2c8492e6-2abc-48f1-b9ce-a36ad0a44d1a.png",
+      "prompt": "Make ONE1536x1024LANDSCAPE native productphoto grid EXACT3EQUALCOLUMNS2EQUALROWS (six512squarecells), NOgutters/borders/panellabels. Eachview staysINSIDEitscell withmargin; no crossing boundaries. Readorder1white FULLassortment,2lavendercream FULLassortment,3FULLassortment oncreamvanity blurredlavenderbedroom,4standalone TIGHTREALPARTMACRO ONLY as specified NOTwholeassortment,5FULLassortmentwithreadable accurateheading BEADED BROOCH PINS above product,6blankcreamunused. No prices/newclaims/extraobjects. Everyfullview preserves EXACT sourcecount/identity/colours/shapes/packaging.\nActualsubject TWELVE decorative goldtone safety broochpins on TWELVEwhite FashionJewelrycards in TWOclearstrips SIXpins each, NOT hairclips. Eachpin same goldwireloop/closure,twoouter facetedcolourbeads with goldrhinestonerondelles and onecentralflat milkywhite rounddiscbead. BOTHcolumns top3blackouterbead pins,then1teal,1purple,1blue. Preserve12pins, exactoriginalcardarrangement/overlaps,clearbags,whiteplasticmounts and sourceoriginal occlusions. Do not inferhiddenpieces; removehand/shop only. Macrocell4ONLY actualcentral milkywhite disc+rhinestonerondelle/adjacent blackfacetedbead andgoldwire closecrop, no fullpin/set.\n",
+      "sha256": "13ef8a745df23a59f2e76ed004c1514e32b4e1c7ed80fb39f203e3fafe18f145",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2c8492e6-2abc-48f1-b9ce-a36ad0a44d1a.png",
+      "grid_sha256": "69d3ef7ffa11e1f7ac0f82a08382d5543ed29bfca7c35da7136b8b334fa35825",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-2c8492e6-2abc-48f1-b9ce-a36ad0a44d1a.png",
+      "prompt": "Make ONE1536x1024LANDSCAPE native productphoto grid EXACT3EQUALCOLUMNS2EQUALROWS (six512squarecells), NOgutters/borders/panellabels. Eachview staysINSIDEitscell withmargin; no crossing boundaries. Readorder1white FULLassortment,2lavendercream FULLassortment,3FULLassortment oncreamvanity blurredlavenderbedroom,4standalone TIGHTREALPARTMACRO ONLY as specified NOTwholeassortment,5FULLassortmentwithreadable accurateheading BEADED BROOCH PINS above product,6blankcreamunused. No prices/newclaims/extraobjects. Everyfullview preserves EXACT sourcecount/identity/colours/shapes/packaging.\nActualsubject TWELVE decorative goldtone safety broochpins on TWELVEwhite FashionJewelrycards in TWOclearstrips SIXpins each, NOT hairclips. Eachpin same goldwireloop/closure,twoouter facetedcolourbeads with goldrhinestonerondelles and onecentralflat milkywhite rounddiscbead. BOTHcolumns top3blackouterbead pins,then1teal,1purple,1blue. Preserve12pins, exactoriginalcardarrangement/overlaps,clearbags,whiteplasticmounts and sourceoriginal occlusions. Do not inferhiddenpieces; removehand/shop only. Macrocell4ONLY actualcentral milkywhite disc+rhinestonerondelle/adjacent blackfacetedbead andgoldwire closecrop, no fullpin/set.\n",
+      "sha256": "9e131ce87b613293dc7fad4e0e8180e7fb005e45b1ed637f256de5092e000061",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2c8492e6-2abc-48f1-b9ce-a36ad0a44d1a.png",
+      "grid_sha256": "69d3ef7ffa11e1f7ac0f82a08382d5543ed29bfca7c35da7136b8b334fa35825",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-2c8492e6-2abc-48f1-b9ce-a36ad0a44d1a.png",
+      "prompt": "Make ONE1536x1024LANDSCAPE native productphoto grid EXACT3EQUALCOLUMNS2EQUALROWS (six512squarecells), NOgutters/borders/panellabels. Eachview staysINSIDEitscell withmargin; no crossing boundaries. Readorder1white FULLassortment,2lavendercream FULLassortment,3FULLassortment oncreamvanity blurredlavenderbedroom,4standalone TIGHTREALPARTMACRO ONLY as specified NOTwholeassortment,5FULLassortmentwithreadable accurateheading BEADED BROOCH PINS above product,6blankcreamunused. No prices/newclaims/extraobjects. Everyfullview preserves EXACT sourcecount/identity/colours/shapes/packaging.\nActualsubject TWELVE decorative goldtone safety broochpins on TWELVEwhite FashionJewelrycards in TWOclearstrips SIXpins each, NOT hairclips. Eachpin same goldwireloop/closure,twoouter facetedcolourbeads with goldrhinestonerondelles and onecentralflat milkywhite rounddiscbead. BOTHcolumns top3blackouterbead pins,then1teal,1purple,1blue. Preserve12pins, exactoriginalcardarrangement/overlaps,clearbags,whiteplasticmounts and sourceoriginal occlusions. Do not inferhiddenpieces; removehand/shop only. Macrocell4ONLY actualcentral milkywhite disc+rhinestonerondelle/adjacent blackfacetedbead andgoldwire closecrop, no fullpin/set.\n",
+      "sha256": "1815a5a0341417834095ae6cae7dbf7cd7a34597fe84f1807920d3a1eae30a89",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2c8492e6-2abc-48f1-b9ce-a36ad0a44d1a.png",
+      "grid_sha256": "69d3ef7ffa11e1f7ac0f82a08382d5543ed29bfca7c35da7136b8b334fa35825",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-2c8492e6-2abc-48f1-b9ce-a36ad0a44d1a.png",
+      "prompt": "Make ONE1536x1024LANDSCAPE native productphoto grid EXACT3EQUALCOLUMNS2EQUALROWS (six512squarecells), NOgutters/borders/panellabels. Eachview staysINSIDEitscell withmargin; no crossing boundaries. Readorder1white FULLassortment,2lavendercream FULLassortment,3FULLassortment oncreamvanity blurredlavenderbedroom,4standalone TIGHTREALPARTMACRO ONLY as specified NOTwholeassortment,5FULLassortmentwithreadable accurateheading BEADED BROOCH PINS above product,6blankcreamunused. No prices/newclaims/extraobjects. Everyfullview preserves EXACT sourcecount/identity/colours/shapes/packaging.\nActualsubject TWELVE decorative goldtone safety broochpins on TWELVEwhite FashionJewelrycards in TWOclearstrips SIXpins each, NOT hairclips. Eachpin same goldwireloop/closure,twoouter facetedcolourbeads with goldrhinestonerondelles and onecentralflat milkywhite rounddiscbead. BOTHcolumns top3blackouterbead pins,then1teal,1purple,1blue. Preserve12pins, exactoriginalcardarrangement/overlaps,clearbags,whiteplasticmounts and sourceoriginal occlusions. Do not inferhiddenpieces; removehand/shop only. Macrocell4ONLY actualcentral milkywhite disc+rhinestonerondelle/adjacent blackfacetedbead andgoldwire closecrop, no fullpin/set.\n",
+      "sha256": "62408c2c63cb953a2f4830068c9caf47be494bf38b91f45aab1fb14c1f0db5c9",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2c8492e6-2abc-48f1-b9ce-a36ad0a44d1a.png",
+      "grid_sha256": "69d3ef7ffa11e1f7ac0f82a08382d5543ed29bfca7c35da7136b8b334fa35825",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

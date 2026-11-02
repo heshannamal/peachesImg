@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261006-WA0108.jpg": "dfe1ba92973e8ce6b830b0f1983495f3d3d0d072023bd7977f2a9e23e0621eba"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-9f0c5518-82ff-48dd-8f2e-af4bfa3f4a67.png",
+      "source_output": "/workspace/generated_images/exec-9f0c5518-82ff-48dd-8f2e-af4bfa3f4a67.png",
+      "sha256": "c7297fe08015ee99460661df9e36d7d596f87f32b97ea71a77386a9cd3ee3631",
+      "prompt": "ONE1536x1024LANDSCAPE image EXACT3equalcolumns2equalrows grid sixsquarecells. NOgutters/borders/panellabels. AllcontentframedINSIDEeachcell withmargin. Readingorder1purewhiteFULLSIXBROOCHASSORTMENT,2lavendercreamFULLSIXBROOCHASSORTMENTNOTonebrooch,3creamvanitylavenderbedroomFULLSIXBROOCHASSORTMENT,4standaloneTIGHTMACRO ONLYspecifiedactualpart NOTwholeassortment,5FULLSIXBROOCHASSORTMENTwithreadableheading FLORAL BROOCH SET,6blankcreamunused. Preserveactualsourcewholeoneproduct/countidentity/shapecolours/positions/packaging ineachfullview. Removehand/shop/externalpriceoverlay only,no newclaims/accessories/hiddenbacks.\nExactly SIXoriginalmulticolourfivepetalflowerbrooches onONElongwhiteBROOCHcard originalzigzagstaggeredarrangement. Everybroochhasroundoriginalsilver/pink/goldglitterdiscbacking, five translucent ribbedfanpetals inoriginalpink/red/blue/yellow/green exactindividualcolourorder/orientation, goldpetaledges, squareoutlinedclear-rhinestone centrewithonecreampearl. PreserveALLSIX actualshape/size/arrangementandcard, differentpetalorientationoneachunchanged; no hiddenbacks/newbrooches. Cell4tightmacro ONLYsourcepink/bluefanpetalribbedtranslucentsurface goldedge withadjacentrhinestonecorner, notentirebrooch/card.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-9f0c5518-82ff-48dd-8f2e-af4bfa3f4a67.png",
+      "prompt": "ONE1536x1024LANDSCAPE image EXACT3equalcolumns2equalrows grid sixsquarecells. NOgutters/borders/panellabels. AllcontentframedINSIDEeachcell withmargin. Readingorder1purewhiteFULLSIXBROOCHASSORTMENT,2lavendercreamFULLSIXBROOCHASSORTMENTNOTonebrooch,3creamvanitylavenderbedroomFULLSIXBROOCHASSORTMENT,4standaloneTIGHTMACRO ONLYspecifiedactualpart NOTwholeassortment,5FULLSIXBROOCHASSORTMENTwithreadableheading FLORAL BROOCH SET,6blankcreamunused. Preserveactualsourcewholeoneproduct/countidentity/shapecolours/positions/packaging ineachfullview. Removehand/shop/externalpriceoverlay only,no newclaims/accessories/hiddenbacks.\nExactly SIXoriginalmulticolourfivepetalflowerbrooches onONElongwhiteBROOCHcard originalzigzagstaggeredarrangement. Everybroochhasroundoriginalsilver/pink/goldglitterdiscbacking, five translucent ribbedfanpetals inoriginalpink/red/blue/yellow/green exactindividualcolourorder/orientation, goldpetaledges, squareoutlinedclear-rhinestone centrewithonecreampearl. PreserveALLSIX actualshape/size/arrangementandcard, differentpetalorientationoneachunchanged; no hiddenbacks/newbrooches. Cell4tightmacro ONLYsourcepink/bluefanpetalribbedtranslucentsurface goldedge withadjacentrhinestonecorner, notentirebrooch/card.\n",
+      "sha256": "92f546673ae57e389ee76513e884579152125c33e991573bddbdb054bc3da44d",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9f0c5518-82ff-48dd-8f2e-af4bfa3f4a67.png",
+      "grid_sha256": "c7297fe08015ee99460661df9e36d7d596f87f32b97ea71a77386a9cd3ee3631",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-9f0c5518-82ff-48dd-8f2e-af4bfa3f4a67.png",
+      "prompt": "ONE1536x1024LANDSCAPE image EXACT3equalcolumns2equalrows grid sixsquarecells. NOgutters/borders/panellabels. AllcontentframedINSIDEeachcell withmargin. Readingorder1purewhiteFULLSIXBROOCHASSORTMENT,2lavendercreamFULLSIXBROOCHASSORTMENTNOTonebrooch,3creamvanitylavenderbedroomFULLSIXBROOCHASSORTMENT,4standaloneTIGHTMACRO ONLYspecifiedactualpart NOTwholeassortment,5FULLSIXBROOCHASSORTMENTwithreadableheading FLORAL BROOCH SET,6blankcreamunused. Preserveactualsourcewholeoneproduct/countidentity/shapecolours/positions/packaging ineachfullview. Removehand/shop/externalpriceoverlay only,no newclaims/accessories/hiddenbacks.\nExactly SIXoriginalmulticolourfivepetalflowerbrooches onONElongwhiteBROOCHcard originalzigzagstaggeredarrangement. Everybroochhasroundoriginalsilver/pink/goldglitterdiscbacking, five translucent ribbedfanpetals inoriginalpink/red/blue/yellow/green exactindividualcolourorder/orientation, goldpetaledges, squareoutlinedclear-rhinestone centrewithonecreampearl. PreserveALLSIX actualshape/size/arrangementandcard, differentpetalorientationoneachunchanged; no hiddenbacks/newbrooches. Cell4tightmacro ONLYsourcepink/bluefanpetalribbedtranslucentsurface goldedge withadjacentrhinestonecorner, notentirebrooch/card.\n",
+      "sha256": "3c3c52354afbfef92eacae9ee91b98d57841bb0d3d4e4fb98c26c9bec76b15dc",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9f0c5518-82ff-48dd-8f2e-af4bfa3f4a67.png",
+      "grid_sha256": "c7297fe08015ee99460661df9e36d7d596f87f32b97ea71a77386a9cd3ee3631",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-9f0c5518-82ff-48dd-8f2e-af4bfa3f4a67.png",
+      "prompt": "ONE1536x1024LANDSCAPE image EXACT3equalcolumns2equalrows grid sixsquarecells. NOgutters/borders/panellabels. AllcontentframedINSIDEeachcell withmargin. Readingorder1purewhiteFULLSIXBROOCHASSORTMENT,2lavendercreamFULLSIXBROOCHASSORTMENTNOTonebrooch,3creamvanitylavenderbedroomFULLSIXBROOCHASSORTMENT,4standaloneTIGHTMACRO ONLYspecifiedactualpart NOTwholeassortment,5FULLSIXBROOCHASSORTMENTwithreadableheading FLORAL BROOCH SET,6blankcreamunused. Preserveactualsourcewholeoneproduct/countidentity/shapecolours/positions/packaging ineachfullview. Removehand/shop/externalpriceoverlay only,no newclaims/accessories/hiddenbacks.\nExactly SIXoriginalmulticolourfivepetalflowerbrooches onONElongwhiteBROOCHcard originalzigzagstaggeredarrangement. Everybroochhasroundoriginalsilver/pink/goldglitterdiscbacking, five translucent ribbedfanpetals inoriginalpink/red/blue/yellow/green exactindividualcolourorder/orientation, goldpetaledges, squareoutlinedclear-rhinestone centrewithonecreampearl. PreserveALLSIX actualshape/size/arrangementandcard, differentpetalorientationoneachunchanged; no hiddenbacks/newbrooches. Cell4tightmacro ONLYsourcepink/bluefanpetalribbedtranslucentsurface goldedge withadjacentrhinestonecorner, notentirebrooch/card.\n",
+      "sha256": "0c5a6d1f81a303ec0227f9253a18a370e062cb874d8bc3457e21ea647eddc306",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9f0c5518-82ff-48dd-8f2e-af4bfa3f4a67.png",
+      "grid_sha256": "c7297fe08015ee99460661df9e36d7d596f87f32b97ea71a77386a9cd3ee3631",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-9f0c5518-82ff-48dd-8f2e-af4bfa3f4a67.png",
+      "prompt": "ONE1536x1024LANDSCAPE image EXACT3equalcolumns2equalrows grid sixsquarecells. NOgutters/borders/panellabels. AllcontentframedINSIDEeachcell withmargin. Readingorder1purewhiteFULLSIXBROOCHASSORTMENT,2lavendercreamFULLSIXBROOCHASSORTMENTNOTonebrooch,3creamvanitylavenderbedroomFULLSIXBROOCHASSORTMENT,4standaloneTIGHTMACRO ONLYspecifiedactualpart NOTwholeassortment,5FULLSIXBROOCHASSORTMENTwithreadableheading FLORAL BROOCH SET,6blankcreamunused. Preserveactualsourcewholeoneproduct/countidentity/shapecolours/positions/packaging ineachfullview. Removehand/shop/externalpriceoverlay only,no newclaims/accessories/hiddenbacks.\nExactly SIXoriginalmulticolourfivepetalflowerbrooches onONElongwhiteBROOCHcard originalzigzagstaggeredarrangement. Everybroochhasroundoriginalsilver/pink/goldglitterdiscbacking, five translucent ribbedfanpetals inoriginalpink/red/blue/yellow/green exactindividualcolourorder/orientation, goldpetaledges, squareoutlinedclear-rhinestone centrewithonecreampearl. PreserveALLSIX actualshape/size/arrangementandcard, differentpetalorientationoneachunchanged; no hiddenbacks/newbrooches. Cell4tightmacro ONLYsourcepink/bluefanpetalribbedtranslucentsurface goldedge withadjacentrhinestonecorner, notentirebrooch/card.\n",
+      "sha256": "394db5c9bee6d1323dc9516006bbef81ff70848be368414fb7a9cad47ebd28ee",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9f0c5518-82ff-48dd-8f2e-af4bfa3f4a67.png",
+      "grid_sha256": "c7297fe08015ee99460661df9e36d7d596f87f32b97ea71a77386a9cd3ee3631",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-9f0c5518-82ff-48dd-8f2e-af4bfa3f4a67.png",
+      "prompt": "ONE1536x1024LANDSCAPE image EXACT3equalcolumns2equalrows grid sixsquarecells. NOgutters/borders/panellabels. AllcontentframedINSIDEeachcell withmargin. Readingorder1purewhiteFULLSIXBROOCHASSORTMENT,2lavendercreamFULLSIXBROOCHASSORTMENTNOTonebrooch,3creamvanitylavenderbedroomFULLSIXBROOCHASSORTMENT,4standaloneTIGHTMACRO ONLYspecifiedactualpart NOTwholeassortment,5FULLSIXBROOCHASSORTMENTwithreadableheading FLORAL BROOCH SET,6blankcreamunused. Preserveactualsourcewholeoneproduct/countidentity/shapecolours/positions/packaging ineachfullview. Removehand/shop/externalpriceoverlay only,no newclaims/accessories/hiddenbacks.\nExactly SIXoriginalmulticolourfivepetalflowerbrooches onONElongwhiteBROOCHcard originalzigzagstaggeredarrangement. Everybroochhasroundoriginalsilver/pink/goldglitterdiscbacking, five translucent ribbedfanpetals inoriginalpink/red/blue/yellow/green exactindividualcolourorder/orientation, goldpetaledges, squareoutlinedclear-rhinestone centrewithonecreampearl. PreserveALLSIX actualshape/size/arrangementandcard, differentpetalorientationoneachunchanged; no hiddenbacks/newbrooches. Cell4tightmacro ONLYsourcepink/bluefanpetalribbedtranslucentsurface goldedge withadjacentrhinestonecorner, notentirebrooch/card.\n",
+      "sha256": "2fe9687e9bb13f6723c480d413973ec132cc437e7c5843c4279be882192bd402",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9f0c5518-82ff-48dd-8f2e-af4bfa3f4a67.png",
+      "grid_sha256": "c7297fe08015ee99460661df9e36d7d596f87f32b97ea71a77386a9cd3ee3631",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

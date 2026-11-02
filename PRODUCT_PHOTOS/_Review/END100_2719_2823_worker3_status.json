@@ -3,10 +3,25 @@
     "2819",
     "2818"
   ],
-  "status": "generating",
-  "active_products": 2,
-  "actual_subjects": {
-    "2819": "sixcardneutralfabricbowhairaccessorypack",
-    "2818": "two distinct sixcardgoldrhinestonehairclippackets asoneassortment"
-  }
+  "status": "paused_for_combined_grid_workflow",
+  "active_products": 0,
+  "inflight": 0,
+  "saved_images": 2,
+  "checked_images": 1,
+  "remaining": {
+    "2819": [
+      "02_Styled-Background",
+      "03_Lifestyle",
+      "04_Detail",
+      "05_Promotional"
+    ],
+    "2818": [
+      "01_White-Background needs identity correction",
+      "02_Styled-Background",
+      "03_Lifestyle",
+      "04_Detail",
+      "05_Promotional"
+    ]
+  },
+  "originals_unchanged": true
 }

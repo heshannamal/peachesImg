@@ -1,0 +1,21 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/PXL_20250627_113019936.PORTRAIT~2.jpg": "227c8cada9d1183b389d0e135c36d2d1a3d2b88a3670a6156212de8dc5313ae2"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-4a1425b1-b60f-468c-8c3a-87a414f4f0ab.png",
+      "prompt": "Faithful square website ecommerce photograph editing reference(s). Entire original clear packet of SIX front white flower-printed cards of neutral fabric knotted-bow hair accessories, TWO columns THREE cards each, mustard/tan upper pair, pale cream middle pair, taupe/brown lower pair. Preserve exact original card positions, bow knots, fabric loops and every visible black/brown accessory behind cards, original overlaps/occlusions/clear sleeve. Do not unpack, invent hidden item count or simplify. Whole assortment ONE product, exact visible count/identity/shapes/colours/materials. Pure white seamless surroundings and soft natural shadows. Remove hand/watch/shop/price overlays only, no new text, additional products or invented hiddenparts. Original main front orientation fully framed.",
+      "sha256": "0e5bdf8613dc046d6a64979a0291efe1d7d6be5b7887e227e58e1f333045d55c",
+      "checked": true,
+      "visual_review": "Compared actual original and generated image: six front cards retained in two columns and three rows, mustard/cream/taupe knotted fabric bows and visible dark accessory loops, clear sleeve and flower cards retained; slight straightening accepted for website-ready quality.",
+      "corrective_attempts": 0
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

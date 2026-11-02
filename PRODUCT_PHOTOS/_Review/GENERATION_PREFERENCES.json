@@ -12,5 +12,18 @@
   "source_album_url": "https://photos.app.goo.gl/CLPwChWUC2jr9pSGA",
   "source_access_status": "blocked_workspace_network_HTTP403",
   "source_access_checked_at": "2026-10-28T21:58:05.385804+00:00",
-  "frozen_plan": "PRODUCT_PHOTOS/_Review/END100_2719_2823_PLAN.json"
+  "frozen_plan": "PRODUCT_PHOTOS/_Review/END100_2719_2823_PLAN.json",
+  "generation_workflow": "One native referenced image containing allfive styles in a3column2row grid; mechanicallycrop firstfivecells into01\u201305; keep sixthunused. Preservevalidexistingviews; cropfillmissing/rejectedonly; revieweachcrop.",
+  "crop_layout": {
+    "columns": 3,
+    "rows": 2,
+    "cells": [
+      "01_White-Background",
+      "02_Styled-Background",
+      "03_Lifestyle",
+      "04_Detail",
+      "05_Promotional",
+      "unused"
+    ]
+  }
 }

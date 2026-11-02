@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/PXL_20250627_113044239.PORTRAIT~2.jpg": "206d15b927a8a8a248100f6cf59676715009f783d73cefa66e0cf6aeb7b80729"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-bc96296d-f656-4edb-b0ba-eaff9779868d.png",
+      "prompt": "Faithful square website catalogue photograph editing the exact entire original packaged BLACK AND WHITE bow fabric hair-tie assortment as ONE product. Preserve SIX front cream flower-print backing cards in TWO overlapping vertical strips of THREE cards each, each front card with one black and one white fabric bow-decorated hair tie, twelve front ties total. Preserve original ribbed fabric loops, bow knots and folded bow shapes, black/white colours, all visible rear-card slivers, overlaps and clear outerbag. Keep original diagonal arrangement and exact visible crop; do not expand obscured parts or add ties. Remove hand, watch and shop background only; retain packaging and original occlusion. Pure white seamless background, soft natural shadows and clear lighting, full original assortment in frame. No added text, products or invented hidden views.",
+      "sha256": "f15bf7bbb0b7ef832ed332eedded2b6bd6cefa2cf4f387628e3c9a9608c09f9a",
+      "checked": true,
+      "visual_review": "Compared actual generated photo with original: six front flower-print cards, two strips of three, black/white paired bow fabric ties, clear outerbag and diagonal overlap retained. Main count/identity/ribbed fabric colours and bow knot shapes faithful; hand/shop removed. Minor card typography and plastic reflection differences accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-e0bcbb28-e858-4565-ba03-7f514717c574.png",
+      "prompt": "Faithful square styled website product photograph of EXACT entire original packaged black-and-white bow fabric hair-tie assortment. Keep SIX front cream flower-print cards in TWO diagonal overlapping strips THREE cards each; one black and one white bow fabric tie per front card, twelve ties total. Preserve original ribbed loops, actual knots and folded bows, black/white colours, visible rearcard slivers, clearbag and original overlaps. Same original front orientation, do not invent hidden parts or extra ties. Remove hand/shop, retain packaging. Lavender and cream studio surface with soft natural shadows, no added products or text.",
+      "sha256": "2a5daef3a558efc25b25de7d6a903486b3bb9c92df8416eeaf6587151ec0ab03",
+      "checked": true,
+      "visual_review": "Viewed generated styled image against original: two strips of three front flower cards, each black/white bow fabric tie pair, same main count, ribbed loops/knots, colour and transparent packaging retained. Lavender/cream surface accurate. Minor tiny card lettering/reflection differences accepted."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

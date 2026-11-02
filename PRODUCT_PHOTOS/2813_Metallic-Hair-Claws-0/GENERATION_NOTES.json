@@ -1,0 +1,19 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/PXL_20250306_074641291.PORTRAIT.jpg": "d95a4a8173422d2675ab97669d059416085b8befe0f47dfc8dd8b09868f7e7b8"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-aeb0bd92-d6c3-41cc-b792-652dd56ef0f4.png",
+      "prompt": "Faithful website ecommerce photo editing reference. Exact TWELVE transparent plastic open-loop hair claws with five-petal flower ornaments and multicolour confetti speckles in TWO clear sleeves SIX each. Left top2 pink/red speckles,middle2 blue/yellow,bottom2 red/yellow;right top2 lavender/purple speckles,middle2 green/yellow,bottom2 red/yellow. Preserve exact source spring/teeth shapes, loop handles, flower petals, gold hinges, source staggered overlaps and clear packaging. Not metallic solid claws. Entire original packaged assortment ONE product. Pure white seamless studio background soft shadows, preserve original front angle and exact visible count/identity/shapes/colours; remove hand/shop/old price/stock sticker only. No new text/extra products/invented hidden parts.",
+      "sha256": "984c998720c63c9bdf96a207ebb50eeef2201b48b47b19c7d9730c27bd201cf5",
+      "checked": true,
+      "visual_review": "Compared to original: twelve transparent speckled flower-decorated claws in two six-clip sleeves. Original flower/loop/spring shapes, pink-blue-red and purple-green-red colour groups, clear packaging retained; shop/hand/sticker removed. Minor speckle differences accepted."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

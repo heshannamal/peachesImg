@@ -1,0 +1,28 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/PXL_20250627_114932858.PORTRAIT~2.jpg": "61410f11419c3a72ec53246ea7033d4b404284482d89a7925d84702860827ed4"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-2e3c661b-70c1-4759-abd3-3f33ccf96fd8.png",
+      "prompt": "Faithful website catalogue reference edit. EXACT TWENTY small translucent butterfly hairclips, TEN PAIRS down ONE longwhite AS Fashion backingcard in clear sleeve. Paircolours top-to-bottom hotpink,lightblue,palepink,green,cyanblue,lavender,yellow,orange,smokygrey,hotpink. Preserve each fourwing butterfly silhouette, yellowbody on mostpairs and pinkbody on yellowpair, actual metalclips, original two-clip pairpositions, wide source gaps, cardprint/packaging and original diagonal front arrangement. Entire packaged assortment ONE product; keep ALL TWENTY clips fullyframed and exact original sequence/overlap, do not infer twelve or add/remove pairs. Replace shop/hand with purewhite seamless background softshadow, no newtext/products or invented hiddenparts. Match source shapes/colours/materials. Tall product may be reduced within squareframe to show wholecard.",
+      "sha256": "586f273bfbca32028ded452950770d8cae892388af74774002bd9fcccfde0da1",
+      "checked": true,
+      "visual_review": "Compared with original: twenty clips in ten pairs, original colour and centre sequence, main butterfly/flower shapes, white card and clear sleeve retained. Minor reflections and print differences accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-e5608654-4e5b-4b05-9384-16dc06e13165.png",
+      "prompt": "Faithful website styled-background reference edit. EXACT TWENTY small translucent butterfly hairclips, TEN PAIRS down ONE longwhite AS Fashion backingcard in clear sleeve. Paircolours top-to-bottom hotpink,lightblue,palepink,green,cyanblue,lavender,yellow,orange,smokygrey,hotpink. Preserve each fourwing butterfly silhouette, yellowbody on mostpairs and pinkbody on yellowpair, actual metalclips, original two-clip pairpositions, wide source gaps, cardprint/packaging and original diagonal front arrangement. Entire TWENTY clips TEN PAIRS on ONE card must stay visible, source arrangement and colours unchanged. Set original card/sleeve on lavender and warm cream studio surface with soft contact shadow, no props or new text. Keep exact real product shapes/materials, no extra clips or invented hidden parts. Tall card reduced within squareframe.",
+      "sha256": "f0ce008ca4af3ab7150f7aa3d8d67eb0a658d2e904a759f6708411f794e86e86",
+      "checked": true,
+      "visual_review": "Compared with original: twenty clips in ten pairs, original colour/centre order, main butterfly/flower shapes and full original card/clear sleeve retained on lavender and cream background. Minor surface reflections accepted."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

@@ -1,0 +1,28 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/PXL_20250627_114926577.PORTRAIT~2.jpg": "3619c86cda4913a34e5127bdbc9b1c5f82c0e9d0f3a0d741638d989c6c0a9590"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-f6b6d3a5-a9de-4333-829a-e842441c0082.png",
+      "prompt": "Faithful website catalogue reference edit. EXACT TWENTY small five-petal flower hairclips, TEN PAIRS down ONE longwhite AS Fashion backingcard in clear sleeve. Paircolours/centres top-to-bottom pinkwhitecentre,paleyellowwhitecentre,brightgreenyellowcentre,lavenderwhitecentre,whitepinkcentre,mintcreamcentre,paleyellowpinkcentre,whitepinkcentre,pinkwhitecentre,paleyellowpinkcentre. Preserve actual five-roundedpetal contours, textured raised centres, visible silverclips, originaltwo-clip pairpositions, sourcegaps/cardprint/packaging and diagonalfrontarrangement. Entire packaged assortment ONE product; keep ALL TWENTY clips fullyframed and exact original sequence/overlap, do not infer twelve or add/remove pairs. Replace shop/hand with purewhite seamless background softshadow, no newtext/products or invented hiddenparts. Match source shapes/colours/materials. Tall product may be reduced within squareframe to show wholecard.",
+      "sha256": "f3d5c5d40ef86f2fe17f9c74e80be1b85991860b08e864ce2b95d4abe7d50803",
+      "checked": true,
+      "visual_review": "Compared with original: twenty clips in ten pairs, original colour and centre sequence, main butterfly/flower shapes, white card and clear sleeve retained. Minor reflections and print differences accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-8769f84e-4247-4e09-ab84-0c247aa6a70a.png",
+      "prompt": "Faithful website styled-background reference edit. EXACT TWENTY small five-petal flower hairclips, TEN PAIRS down ONE longwhite AS Fashion backingcard in clear sleeve. Paircolours/centres top-to-bottom pinkwhitecentre,paleyellowwhitecentre,brightgreenyellowcentre,lavenderwhitecentre,whitepinkcentre,mintcreamcentre,paleyellowpinkcentre,whitepinkcentre,pinkwhitecentre,paleyellowpinkcentre. Preserve actual five-roundedpetal contours, textured raised centres, visible silverclips, originaltwo-clip pairpositions, sourcegaps/cardprint/packaging and diagonalfrontarrangement. Entire TWENTY clips TEN PAIRS on ONE card must stay visible, source arrangement and colours unchanged. Set original card/sleeve on lavender and warm cream studio surface with soft contact shadow, no props or new text. Keep exact real product shapes/materials, no extra clips or invented hidden parts. Tall card reduced within squareframe.",
+      "sha256": "3aa47ff4e1e96e97765aae1d6441607cefe09912a417e417fe06aebf2d09eb1a",
+      "checked": true,
+      "visual_review": "Compared with original: twenty clips in ten pairs, original colour/centre order, main butterfly/flower shapes and full original card/clear sleeve retained on lavender and cream background. Minor surface reflections accepted."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

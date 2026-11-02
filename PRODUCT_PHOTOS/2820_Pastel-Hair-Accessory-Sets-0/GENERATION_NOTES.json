@@ -1,0 +1,19 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/PXL_20250627_113026671.PORTRAIT~2.jpg": "ee87740e133d25a3436c56b93af9c55d9d2119593a02fc68a98a5f21dcff2d44"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-6304f399-ef74-4ff4-8aa3-157576bec37c.png",
+      "prompt": "Faithful square website catalogue edit of exact whole packaged pastel fabric BOW HAIR TIE assortment, ONE product. SIX front cream flower-printed cards in TWO vertical strips THREE cards each, TWO bow fabric ties per card TWELVE total. Preserve original left column top hotpink/pink, middle mint/yellow,bottom blue/lavender; right column top pink/hotpink,middle mint/yellow,bottom lavender/blue, same actual knot shapes,ribbed fabric,loops,clear outerbag,whitecard prints,overlaps and source diagonal arrangement. Do not duplicate hidden cards or expand occluded ties. Remove hand/watch/shop only, keep exact visible product arrangement and packaging. Pure white seamless background, soft natural shadows, website-ready clear lighting. No added text, products or invented parts.",
+      "sha256": "70c3593dd840528334001187411707dbc1ebf509530aabc004439c7f22b26f74",
+      "checked": true,
+      "visual_review": "Viewed actual white output against original: twelve pastel bow ties on six flower-print front cards, two strips of three, main pink/hotpink/mint/yellow/blue/lavender colours and sequence retained. Ribbed loops, bow knot shapes, card/clear packaging and diagonal overlap faithful; hand/shop removed. Minor plastic/card details accepted."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

@@ -1,0 +1,110 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/PXL_20250531_034646739.PORTRAIT~2.jpg": "6a96fad24fe8cdf245201733dff201c619a8b6daaaa87e0053117bf3c5b9c843"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-249de842-81a4-48e5-a4aa-01a9826300f0.png",
+      "prompt": "Faithful website catalogue photo edit of reference. Exact SIX original individually boxed silicone phone ring grips in original tilted2rows3 layout: top pinkwhite spiral lollipop withlightbluebow, turquoise cactus pinkpot, redhair mermaid; bottom pinkowl,whitepinkrabbitwithstrawberry/bow,brown LOVEheart teddy. Preserve sixwhitewindowboxes, labels, original characterdesigns/colours/shapes, same original orientations/overlaps and edgecrop. These are phonegrips NOT mirrors. WholeassortmentONEproduct. Pure white seamless surroundings, soft contact shadows, entireoriginalvisibleassortment inframe. Preserve original product identity/count/shape/colour/material/packaging, no invented hiddenparts or rearranging. Remove hand/shop/oldprice/stocknumberoverlay only, no newtext/props/extraitems.",
+      "sha256": "7b4a96bc341bbc08924e4cba3eb4b7a5f492b10d5d85fb77b4b1296ac9c8664b",
+      "checked": true,
+      "visual_review": "Compared original: six boxed phone grips with same lollipop/cactus/mermaid/owl/rabbit/bear designs, count, main colours/shapes and2rows3 arrangement retained. Slight printed lettering differences accepted website quality; original hashes verified."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-6cee250d-8611-43b7-8c63-94733ea7e305.png",
+      "source_output": "/workspace/generated_images/exec-6cee250d-8611-43b7-8c63-94733ea7e305.png",
+      "sha256": "0390977ecf9f17b194b484fae88016b8f92bf95a35a46900f980b035300ad86a",
+      "prompt": "Create ONE LANDSCAPE image exactly1536x1024pixels: a strict THREE-COLUMN by TWO-ROW grid, SIX equal square512x512cells. NO gutters, NO borders, NO cell labels, NO space between cells. Every product stays entirely inside its cell with small safe margins; do not cross cell edges. Native faithful product photography edit of reference, not genericstock. Source assortmentONEproduct: EXACT SIX boxed silicone phone ring grips in original tilted2rows3 arrangement: pink-white spiral lollipop with lightblue bow; turquoise cactus in pinkpot; redhaired mermaid; pinkowl; white-pink rabbit with red strawberry/bow; brown teddy with pink LOVEheart. Preserve all6 identities, original silicone shapes/colours, SIXwhitewindowboxes, existing productlabeldesigns and original relative arrangement. No invented grip/reverse view or extra items. Remove shop/hand/oldprices only. CELLORDER: TOPLEFT pureWHITE seamless studio full6boxed assortment; TOPMIDDLE lavender-and-cream styled studio full6boxed assortment; TOPRIGHT natural cream dressingtable lifestyle full6boxed assortment, softlyblurred lavenderbedroom behind. BOTTOMLEFT standalone TIGHT MACRO ONLY of realpink-white lollipopspiral and adjoining lightblue bowtexture fromsameoriginal, do NOT showfullassortment in macro. BOTTOMMIDDLE promotional lavender/cream full6boxedassortment with small accurateheading PHONE RING GRIP SET aboveproducts; full6insidecell no overlapacrosscells. BOTTOMRIGHT entirely BLANK palecream, unused. Exactlyfive actual photo panels plus oneblank. Keep main product count/identity/shape/colour/material, realisticsoftlighting. Allfive requested views must be independently composable square photographs.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-6cee250d-8611-43b7-8c63-94733ea7e305.png",
+      "prompt": "Create ONE LANDSCAPE image exactly1536x1024pixels: a strict THREE-COLUMN by TWO-ROW grid, SIX equal square512x512cells. NO gutters, NO borders, NO cell labels, NO space between cells. Every product stays entirely inside its cell with small safe margins; do not cross cell edges. Native faithful product photography edit of reference, not genericstock. Source assortmentONEproduct: EXACT SIX boxed silicone phone ring grips in original tilted2rows3 arrangement: pink-white spiral lollipop with lightblue bow; turquoise cactus in pinkpot; redhaired mermaid; pinkowl; white-pink rabbit with red strawberry/bow; brown teddy with pink LOVEheart. Preserve all6 identities, original silicone shapes/colours, SIXwhitewindowboxes, existing productlabeldesigns and original relative arrangement. No invented grip/reverse view or extra items. Remove shop/hand/oldprices only. CELLORDER: TOPLEFT pureWHITE seamless studio full6boxed assortment; TOPMIDDLE lavender-and-cream styled studio full6boxed assortment; TOPRIGHT natural cream dressingtable lifestyle full6boxed assortment, softlyblurred lavenderbedroom behind. BOTTOMLEFT standalone TIGHT MACRO ONLY of realpink-white lollipopspiral and adjoining lightblue bowtexture fromsameoriginal, do NOT showfullassortment in macro. BOTTOMMIDDLE promotional lavender/cream full6boxedassortment with small accurateheading PHONE RING GRIP SET aboveproducts; full6insidecell no overlapacrosscells. BOTTOMRIGHT entirely BLANK palecream, unused. Exactlyfive actual photo panels plus oneblank. Keep main product count/identity/shape/colour/material, realisticsoftlighting. Allfive requested views must be independently composable square photographs.\n",
+      "sha256": "cac5c4252bfae61a6de9c767981f8814b9b5ff31a930b0f596f53992797ca956",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6cee250d-8611-43b7-8c63-94733ea7e305.png",
+      "grid_sha256": "0390977ecf9f17b194b484fae88016b8f92bf95a35a46900f980b035300ad86a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-6cee250d-8611-43b7-8c63-94733ea7e305.png",
+      "prompt": "Create ONE LANDSCAPE image exactly1536x1024pixels: a strict THREE-COLUMN by TWO-ROW grid, SIX equal square512x512cells. NO gutters, NO borders, NO cell labels, NO space between cells. Every product stays entirely inside its cell with small safe margins; do not cross cell edges. Native faithful product photography edit of reference, not genericstock. Source assortmentONEproduct: EXACT SIX boxed silicone phone ring grips in original tilted2rows3 arrangement: pink-white spiral lollipop with lightblue bow; turquoise cactus in pinkpot; redhaired mermaid; pinkowl; white-pink rabbit with red strawberry/bow; brown teddy with pink LOVEheart. Preserve all6 identities, original silicone shapes/colours, SIXwhitewindowboxes, existing productlabeldesigns and original relative arrangement. No invented grip/reverse view or extra items. Remove shop/hand/oldprices only. CELLORDER: TOPLEFT pureWHITE seamless studio full6boxed assortment; TOPMIDDLE lavender-and-cream styled studio full6boxed assortment; TOPRIGHT natural cream dressingtable lifestyle full6boxed assortment, softlyblurred lavenderbedroom behind. BOTTOMLEFT standalone TIGHT MACRO ONLY of realpink-white lollipopspiral and adjoining lightblue bowtexture fromsameoriginal, do NOT showfullassortment in macro. BOTTOMMIDDLE promotional lavender/cream full6boxedassortment with small accurateheading PHONE RING GRIP SET aboveproducts; full6insidecell no overlapacrosscells. BOTTOMRIGHT entirely BLANK palecream, unused. Exactlyfive actual photo panels plus oneblank. Keep main product count/identity/shape/colour/material, realisticsoftlighting. Allfive requested views must be independently composable square photographs.\n",
+      "sha256": "734dd290edab4fbcc3ac8e1ae61ee385c50fdb556a3e7e9e8591d9246b491ea0",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6cee250d-8611-43b7-8c63-94733ea7e305.png",
+      "grid_sha256": "0390977ecf9f17b194b484fae88016b8f92bf95a35a46900f980b035300ad86a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-6cee250d-8611-43b7-8c63-94733ea7e305.png",
+      "prompt": "Create ONE LANDSCAPE image exactly1536x1024pixels: a strict THREE-COLUMN by TWO-ROW grid, SIX equal square512x512cells. NO gutters, NO borders, NO cell labels, NO space between cells. Every product stays entirely inside its cell with small safe margins; do not cross cell edges. Native faithful product photography edit of reference, not genericstock. Source assortmentONEproduct: EXACT SIX boxed silicone phone ring grips in original tilted2rows3 arrangement: pink-white spiral lollipop with lightblue bow; turquoise cactus in pinkpot; redhaired mermaid; pinkowl; white-pink rabbit with red strawberry/bow; brown teddy with pink LOVEheart. Preserve all6 identities, original silicone shapes/colours, SIXwhitewindowboxes, existing productlabeldesigns and original relative arrangement. No invented grip/reverse view or extra items. Remove shop/hand/oldprices only. CELLORDER: TOPLEFT pureWHITE seamless studio full6boxed assortment; TOPMIDDLE lavender-and-cream styled studio full6boxed assortment; TOPRIGHT natural cream dressingtable lifestyle full6boxed assortment, softlyblurred lavenderbedroom behind. BOTTOMLEFT standalone TIGHT MACRO ONLY of realpink-white lollipopspiral and adjoining lightblue bowtexture fromsameoriginal, do NOT showfullassortment in macro. BOTTOMMIDDLE promotional lavender/cream full6boxedassortment with small accurateheading PHONE RING GRIP SET aboveproducts; full6insidecell no overlapacrosscells. BOTTOMRIGHT entirely BLANK palecream, unused. Exactlyfive actual photo panels plus oneblank. Keep main product count/identity/shape/colour/material, realisticsoftlighting. Allfive requested views must be independently composable square photographs.\n",
+      "sha256": "a298d176d42bc39cdbe3ef835346d45ea40765b72b4cc940cc5319073d453891",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6cee250d-8611-43b7-8c63-94733ea7e305.png",
+      "grid_sha256": "0390977ecf9f17b194b484fae88016b8f92bf95a35a46900f980b035300ad86a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-6cee250d-8611-43b7-8c63-94733ea7e305.png",
+      "prompt": "Create ONE LANDSCAPE image exactly1536x1024pixels: a strict THREE-COLUMN by TWO-ROW grid, SIX equal square512x512cells. NO gutters, NO borders, NO cell labels, NO space between cells. Every product stays entirely inside its cell with small safe margins; do not cross cell edges. Native faithful product photography edit of reference, not genericstock. Source assortmentONEproduct: EXACT SIX boxed silicone phone ring grips in original tilted2rows3 arrangement: pink-white spiral lollipop with lightblue bow; turquoise cactus in pinkpot; redhaired mermaid; pinkowl; white-pink rabbit with red strawberry/bow; brown teddy with pink LOVEheart. Preserve all6 identities, original silicone shapes/colours, SIXwhitewindowboxes, existing productlabeldesigns and original relative arrangement. No invented grip/reverse view or extra items. Remove shop/hand/oldprices only. CELLORDER: TOPLEFT pureWHITE seamless studio full6boxed assortment; TOPMIDDLE lavender-and-cream styled studio full6boxed assortment; TOPRIGHT natural cream dressingtable lifestyle full6boxed assortment, softlyblurred lavenderbedroom behind. BOTTOMLEFT standalone TIGHT MACRO ONLY of realpink-white lollipopspiral and adjoining lightblue bowtexture fromsameoriginal, do NOT showfullassortment in macro. BOTTOMMIDDLE promotional lavender/cream full6boxedassortment with small accurateheading PHONE RING GRIP SET aboveproducts; full6insidecell no overlapacrosscells. BOTTOMRIGHT entirely BLANK palecream, unused. Exactlyfive actual photo panels plus oneblank. Keep main product count/identity/shape/colour/material, realisticsoftlighting. Allfive requested views must be independently composable square photographs.\n",
+      "sha256": "7bcc0c934c3373c1f181328db4dfebb45adb15ec1e5a625dc400126b2605719b",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6cee250d-8611-43b7-8c63-94733ea7e305.png",
+      "grid_sha256": "0390977ecf9f17b194b484fae88016b8f92bf95a35a46900f980b035300ad86a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "plan_original_hashes_verified": true,
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

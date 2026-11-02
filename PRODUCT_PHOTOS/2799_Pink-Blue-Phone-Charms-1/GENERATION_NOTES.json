@@ -124,13 +124,16 @@
       "source_output": "/workspace/generated_images/exec-c28afa8e-fb3a-443c-8544-6b6279cdd147.png",
       "prompt": "ONE allowed material-count correction for STYLED view ONLY. Return ONE SINGLE square styledwebsitephoto, NOTgrid, NOToneindividualcharm. Show EXACT ALL THREE ORIGINAL PACKAGED PHONE CHARMS side-by-side onTHREEwhitecards insideclearbag asONE assortment. LEFT pinklobsterclasp withsmallpinkring andclearpearl loop/silverpinkheartpendant; MIDDLE bluelobsterclasp/bluering andclearpearl loop/silverblueheartpendant; RIGHT purplecircularclasp withclear/lavenderheartbeads andpurplecracklebeadloop. Firstreference ORIGINAL confirmsidentity/beadsequence; secondreference is already-passedwhiteview: preserve its ENTIRETHREECHARM arrangement/count/packaging/colours/geometry withoutunpacking oraddingbeads. CHANGE ONLY surroundingbackground to softlavendercreamstudio withsoftshadow. EACH ofthreecards/threeclasps/threecompletestrapsfullyvisible withmargin. DoNOT isolatepurplecharm, no text/headings/newproducts/price/qualityclaims.",
       "sha256": "20b0c5775756641f0736e6e9fbcb4c034d469219dbda69f5f877c75cc5944ec0",
-      "checked": false
+      "checked": true,
+      "corrective_attempt": 1,
+      "visual_review": "Actual corrected single styled output compared to source and passedwhite: allTHREE packagedcharms/cards/complete straps nowshown, originalclaspcolours/types andmainbead/pendantidentities retained. Lavendercreambackground correct. Materialcountfailure fixed inONEallowedtargetedcorrection; initialsinglecharmtile retainedRejected. Minor smallreflections/cardprint accepted."
     }
   ],
-  "status": "in_progress",
+  "status": "five images saved and visually checked",
   "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
   "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
   "corrective_attempts": {
     "02_Styled-Background": 1
-  }
+  },
+  "plan_original_hashes_verified": true
 }

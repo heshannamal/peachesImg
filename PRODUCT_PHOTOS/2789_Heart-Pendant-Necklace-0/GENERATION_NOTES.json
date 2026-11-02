@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261006-WA0185.jpg": "f9b6747021b40f89a31d27a2e193a517b4c899bbfb0e6f83ac3afd1c7c16353d"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-37eba2ba-36e6-4f5f-a75f-8fc093f32b56.png",
+      "source_output": "/workspace/generated_images/exec-37eba2ba-36e6-4f5f-a75f-8fc093f32b56.png",
+      "sha256": "4511fc2f0b09414325fde197fd44fe565fa98191314a2cd3ceb916dbc8117d93",
+      "prompt": "ONE LANDSCAPE1536x1024 photographgrid EXACT3equalcolumns x2equalrows, six512x512cells, NO gutters/borders/separators/panellabels. EXACT ONE gold-tone fine oval-link chain necklace with ONE puffy reflective heart pendant on original long white jewellery card inside clear bag. Preserve actual asymmetrical rounded heart silhouette, gold rim/bail and dark reflected centre (not invented black enamel), original visible chain length/link geometry and front orientation, all printed packaging. No invented rear/clasp parts or warranty/material claims. One originalproduct as shown. Readingorder topLEFT fullproduct/card onpurewhite seamless;topMIDDLE fullproduct/card onlavendercream styledsurface;topRIGHT fullproduct/card oncream vanity inblurredlavender bedroom;bottomLEFT ONLY standalone TIGHT macro of existing goldheart pendant upperrim/bail and adjacent originalchainlinks, exact originalgeometry/material, no invented hiddenparts. bottomMIDDLE fullproduct/card promotionalphoto lavendercream withsmallaccurate heading HEART PENDANT NECKLACE;bottomRIGHT blankcream. Fullviews1,2,3,5 retain original visible count, jewelleryshape/goldcolour/reflections/cardpackaging and same frontorientation. No extra products or newclaims; removehand/shop/externalprice/warrantyoverlay only, preserve actualcardprinting. Do not openpackaging or complete unseenbackparts. Eachviewwhollyinsideowncell withmargin, no crossingboundaries. Website-ready realisticsoftlight.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-37eba2ba-36e6-4f5f-a75f-8fc093f32b56.png",
+      "prompt": "ONE LANDSCAPE1536x1024 photographgrid EXACT3equalcolumns x2equalrows, six512x512cells, NO gutters/borders/separators/panellabels. EXACT ONE gold-tone fine oval-link chain necklace with ONE puffy reflective heart pendant on original long white jewellery card inside clear bag. Preserve actual asymmetrical rounded heart silhouette, gold rim/bail and dark reflected centre (not invented black enamel), original visible chain length/link geometry and front orientation, all printed packaging. No invented rear/clasp parts or warranty/material claims. One originalproduct as shown. Readingorder topLEFT fullproduct/card onpurewhite seamless;topMIDDLE fullproduct/card onlavendercream styledsurface;topRIGHT fullproduct/card oncream vanity inblurredlavender bedroom;bottomLEFT ONLY standalone TIGHT macro of existing goldheart pendant upperrim/bail and adjacent originalchainlinks, exact originalgeometry/material, no invented hiddenparts. bottomMIDDLE fullproduct/card promotionalphoto lavendercream withsmallaccurate heading HEART PENDANT NECKLACE;bottomRIGHT blankcream. Fullviews1,2,3,5 retain original visible count, jewelleryshape/goldcolour/reflections/cardpackaging and same frontorientation. No extra products or newclaims; removehand/shop/externalprice/warrantyoverlay only, preserve actualcardprinting. Do not openpackaging or complete unseenbackparts. Eachviewwhollyinsideowncell withmargin, no crossingboundaries. Website-ready realisticsoftlight.",
+      "sha256": "fae0bdf6cada40c8a5bf1b0aab89a93b1f83c96ac123a86636178786ff10a86c",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-37eba2ba-36e6-4f5f-a75f-8fc093f32b56.png",
+      "grid_sha256": "4511fc2f0b09414325fde197fd44fe565fa98191314a2cd3ceb916dbc8117d93",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-37eba2ba-36e6-4f5f-a75f-8fc093f32b56.png",
+      "prompt": "ONE LANDSCAPE1536x1024 photographgrid EXACT3equalcolumns x2equalrows, six512x512cells, NO gutters/borders/separators/panellabels. EXACT ONE gold-tone fine oval-link chain necklace with ONE puffy reflective heart pendant on original long white jewellery card inside clear bag. Preserve actual asymmetrical rounded heart silhouette, gold rim/bail and dark reflected centre (not invented black enamel), original visible chain length/link geometry and front orientation, all printed packaging. No invented rear/clasp parts or warranty/material claims. One originalproduct as shown. Readingorder topLEFT fullproduct/card onpurewhite seamless;topMIDDLE fullproduct/card onlavendercream styledsurface;topRIGHT fullproduct/card oncream vanity inblurredlavender bedroom;bottomLEFT ONLY standalone TIGHT macro of existing goldheart pendant upperrim/bail and adjacent originalchainlinks, exact originalgeometry/material, no invented hiddenparts. bottomMIDDLE fullproduct/card promotionalphoto lavendercream withsmallaccurate heading HEART PENDANT NECKLACE;bottomRIGHT blankcream. Fullviews1,2,3,5 retain original visible count, jewelleryshape/goldcolour/reflections/cardpackaging and same frontorientation. No extra products or newclaims; removehand/shop/externalprice/warrantyoverlay only, preserve actualcardprinting. Do not openpackaging or complete unseenbackparts. Eachviewwhollyinsideowncell withmargin, no crossingboundaries. Website-ready realisticsoftlight.",
+      "sha256": "7051e1be9fb822de020939d5ec04023b53909476c605609cba63898bcc510e93",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-37eba2ba-36e6-4f5f-a75f-8fc093f32b56.png",
+      "grid_sha256": "4511fc2f0b09414325fde197fd44fe565fa98191314a2cd3ceb916dbc8117d93",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-37eba2ba-36e6-4f5f-a75f-8fc093f32b56.png",
+      "prompt": "ONE LANDSCAPE1536x1024 photographgrid EXACT3equalcolumns x2equalrows, six512x512cells, NO gutters/borders/separators/panellabels. EXACT ONE gold-tone fine oval-link chain necklace with ONE puffy reflective heart pendant on original long white jewellery card inside clear bag. Preserve actual asymmetrical rounded heart silhouette, gold rim/bail and dark reflected centre (not invented black enamel), original visible chain length/link geometry and front orientation, all printed packaging. No invented rear/clasp parts or warranty/material claims. One originalproduct as shown. Readingorder topLEFT fullproduct/card onpurewhite seamless;topMIDDLE fullproduct/card onlavendercream styledsurface;topRIGHT fullproduct/card oncream vanity inblurredlavender bedroom;bottomLEFT ONLY standalone TIGHT macro of existing goldheart pendant upperrim/bail and adjacent originalchainlinks, exact originalgeometry/material, no invented hiddenparts. bottomMIDDLE fullproduct/card promotionalphoto lavendercream withsmallaccurate heading HEART PENDANT NECKLACE;bottomRIGHT blankcream. Fullviews1,2,3,5 retain original visible count, jewelleryshape/goldcolour/reflections/cardpackaging and same frontorientation. No extra products or newclaims; removehand/shop/externalprice/warrantyoverlay only, preserve actualcardprinting. Do not openpackaging or complete unseenbackparts. Eachviewwhollyinsideowncell withmargin, no crossingboundaries. Website-ready realisticsoftlight.",
+      "sha256": "d3d6088567158acd55f28d717b230f629b615a89d08e00b5ae7237ed73fc1d6d",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-37eba2ba-36e6-4f5f-a75f-8fc093f32b56.png",
+      "grid_sha256": "4511fc2f0b09414325fde197fd44fe565fa98191314a2cd3ceb916dbc8117d93",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-37eba2ba-36e6-4f5f-a75f-8fc093f32b56.png",
+      "prompt": "ONE LANDSCAPE1536x1024 photographgrid EXACT3equalcolumns x2equalrows, six512x512cells, NO gutters/borders/separators/panellabels. EXACT ONE gold-tone fine oval-link chain necklace with ONE puffy reflective heart pendant on original long white jewellery card inside clear bag. Preserve actual asymmetrical rounded heart silhouette, gold rim/bail and dark reflected centre (not invented black enamel), original visible chain length/link geometry and front orientation, all printed packaging. No invented rear/clasp parts or warranty/material claims. One originalproduct as shown. Readingorder topLEFT fullproduct/card onpurewhite seamless;topMIDDLE fullproduct/card onlavendercream styledsurface;topRIGHT fullproduct/card oncream vanity inblurredlavender bedroom;bottomLEFT ONLY standalone TIGHT macro of existing goldheart pendant upperrim/bail and adjacent originalchainlinks, exact originalgeometry/material, no invented hiddenparts. bottomMIDDLE fullproduct/card promotionalphoto lavendercream withsmallaccurate heading HEART PENDANT NECKLACE;bottomRIGHT blankcream. Fullviews1,2,3,5 retain original visible count, jewelleryshape/goldcolour/reflections/cardpackaging and same frontorientation. No extra products or newclaims; removehand/shop/externalprice/warrantyoverlay only, preserve actualcardprinting. Do not openpackaging or complete unseenbackparts. Eachviewwhollyinsideowncell withmargin, no crossingboundaries. Website-ready realisticsoftlight.",
+      "sha256": "ff14e0f34818b9156cfb71ebb57759177e8a9738357fab5fd4e623f090f62685",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-37eba2ba-36e6-4f5f-a75f-8fc093f32b56.png",
+      "grid_sha256": "4511fc2f0b09414325fde197fd44fe565fa98191314a2cd3ceb916dbc8117d93",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-37eba2ba-36e6-4f5f-a75f-8fc093f32b56.png",
+      "prompt": "ONE LANDSCAPE1536x1024 photographgrid EXACT3equalcolumns x2equalrows, six512x512cells, NO gutters/borders/separators/panellabels. EXACT ONE gold-tone fine oval-link chain necklace with ONE puffy reflective heart pendant on original long white jewellery card inside clear bag. Preserve actual asymmetrical rounded heart silhouette, gold rim/bail and dark reflected centre (not invented black enamel), original visible chain length/link geometry and front orientation, all printed packaging. No invented rear/clasp parts or warranty/material claims. One originalproduct as shown. Readingorder topLEFT fullproduct/card onpurewhite seamless;topMIDDLE fullproduct/card onlavendercream styledsurface;topRIGHT fullproduct/card oncream vanity inblurredlavender bedroom;bottomLEFT ONLY standalone TIGHT macro of existing goldheart pendant upperrim/bail and adjacent originalchainlinks, exact originalgeometry/material, no invented hiddenparts. bottomMIDDLE fullproduct/card promotionalphoto lavendercream withsmallaccurate heading HEART PENDANT NECKLACE;bottomRIGHT blankcream. Fullviews1,2,3,5 retain original visible count, jewelleryshape/goldcolour/reflections/cardpackaging and same frontorientation. No extra products or newclaims; removehand/shop/externalprice/warrantyoverlay only, preserve actualcardprinting. Do not openpackaging or complete unseenbackparts. Eachviewwhollyinsideowncell withmargin, no crossingboundaries. Website-ready realisticsoftlight.",
+      "sha256": "1b0f51fc300ad32d3daa3b769d0ef9eb9ea747e8d71ff4e61f012d4379783e99",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-37eba2ba-36e6-4f5f-a75f-8fc093f32b56.png",
+      "grid_sha256": "4511fc2f0b09414325fde197fd44fe565fa98191314a2cd3ceb916dbc8117d93",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

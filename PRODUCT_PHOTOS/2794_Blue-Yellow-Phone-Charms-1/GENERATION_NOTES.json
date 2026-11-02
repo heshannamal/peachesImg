@@ -82,7 +82,7 @@
       "source_output": "/workspace/generated_images/exec-58fb7ed5-dbbc-4162-b44a-cdb5df199199.png",
       "prompt": "ONE landscape EXACT1536x1024 nativeimageedit, STRICT3equalcolumns by2equalrows SIX512squarecells, NOgutters/borders/panellabels. Everycell independentlysquareframedwithmargins, don'tcrosscellboundaries. Exact THREE beaded PHONE CHARM loops on THREEwhiteFashionJewelry cards in clear sleeves sidebyside MINTleft/YELLOWmiddle/BLUEright. LeftmintD-shapedsnapclip/roundring,alternatingmintround/cylindricalbeadsandclearspacers,ONElargemintfivepetalflowerwithyellowcentre uppermiddle. MiddleroundWHITEkeyring,alternatingyellow/whiteroundbeads+clearspacers,TWOyellowflowerpinkcentres(leftupper andrightlower) andONElargetranslucentyellowbowrightmiddle. RightroundBLUEkeyring,blue/white/iridescentroundbeads+clearspacers,ONElargelightbluefivepetalflower andTWOsmallblueflowerswithpinkcentres. Preserve eachoriginalvisiblebead exactsequence/count/shape, clasp, loopgeometry,specialcharmpositions,card/clearpackaging and sourceoverlap. OnlyTHREEvisiblecharms, don'tinfer12fromprice. Entire3assortmentONEproduct. TOPLEFT white seamlessstudio FULLthreecharms. TOPMIDDLE lavendercreamstyled FULLthreecharms. TOPRIGHT creamdressingtablelifestyle FULLthreecharms softlavenderroomblur. BOTTOMLEFT onlytightmacro oforiginal mintfivepetalflower/yellowcentre andadjacentmintbead notfullassortment, no unseenparts. BOTTOMMIDDLE lavendercream promotional FULLthreecharms withsmall accurateheading BEADED PHONE CHARM SET. BOTTOMRIGHT blankcreamunused. Keep actualsourceidentity/count/shape/colours/materialand originalfrontarrangement. Removehand/shop/oldpriceGoodQualityoverlay/stock679labelonly, nonewclaims/text/hiddenextras. Sourceprintedcardlabels retained.\n",
       "sha256": "b5f0a78e69fcbcbd65a3fb2725e07065b2ab3876dcde6f68bf327b213825d99d",
-      "checked": false,
+      "checked": true,
       "generation_method": "native_five_style_grid_cropped",
       "grid_source_file": "Generation_Grids/exec-58fb7ed5-dbbc-4162-b44a-cdb5df199199.png",
       "grid_sha256": "e576d7162f800beda7906c5d2e0dd3124461efac32f547ab5ef47478150eeb7e",
@@ -95,14 +95,15 @@
         512,
         512,
         1024
-      ]
+      ],
+      "visual_review": "Reviewedactual512crop: originalmintfivepetalfloweryellowcentre andadjacentmintbeads realpartmacro, actualshape/materialcolour preserved, cellcropclean."
     },
     {
       "saved_file": "New/05_Promotional.png",
       "source_output": "/workspace/generated_images/exec-58fb7ed5-dbbc-4162-b44a-cdb5df199199.png",
       "prompt": "ONE landscape EXACT1536x1024 nativeimageedit, STRICT3equalcolumns by2equalrows SIX512squarecells, NOgutters/borders/panellabels. Everycell independentlysquareframedwithmargins, don'tcrosscellboundaries. Exact THREE beaded PHONE CHARM loops on THREEwhiteFashionJewelry cards in clear sleeves sidebyside MINTleft/YELLOWmiddle/BLUEright. LeftmintD-shapedsnapclip/roundring,alternatingmintround/cylindricalbeadsandclearspacers,ONElargemintfivepetalflowerwithyellowcentre uppermiddle. MiddleroundWHITEkeyring,alternatingyellow/whiteroundbeads+clearspacers,TWOyellowflowerpinkcentres(leftupper andrightlower) andONElargetranslucentyellowbowrightmiddle. RightroundBLUEkeyring,blue/white/iridescentroundbeads+clearspacers,ONElargelightbluefivepetalflower andTWOsmallblueflowerswithpinkcentres. Preserve eachoriginalvisiblebead exactsequence/count/shape, clasp, loopgeometry,specialcharmpositions,card/clearpackaging and sourceoverlap. OnlyTHREEvisiblecharms, don'tinfer12fromprice. Entire3assortmentONEproduct. TOPLEFT white seamlessstudio FULLthreecharms. TOPMIDDLE lavendercreamstyled FULLthreecharms. TOPRIGHT creamdressingtablelifestyle FULLthreecharms softlavenderroomblur. BOTTOMLEFT onlytightmacro oforiginal mintfivepetalflower/yellowcentre andadjacentmintbead notfullassortment, no unseenparts. BOTTOMMIDDLE lavendercream promotional FULLthreecharms withsmall accurateheading BEADED PHONE CHARM SET. BOTTOMRIGHT blankcreamunused. Keep actualsourceidentity/count/shape/colours/materialand originalfrontarrangement. Removehand/shop/oldpriceGoodQualityoverlay/stock679labelonly, nonewclaims/text/hiddenextras. Sourceprintedcardlabels retained.\n",
       "sha256": "1c581d9646826150f381961c5b4afc63f9d7ea07daaf5fcc1e203c4f862368ca",
-      "checked": false,
+      "checked": true,
       "generation_method": "native_five_style_grid_cropped",
       "grid_source_file": "Generation_Grids/exec-58fb7ed5-dbbc-4162-b44a-cdb5df199199.png",
       "grid_sha256": "e576d7162f800beda7906c5d2e0dd3124461efac32f547ab5ef47478150eeb7e",
@@ -115,10 +116,11 @@
         512,
         1024,
         1024
-      ]
+      ],
+      "visual_review": "Reviewedactual512crop againstsource: THREE original packagedbeadedphonecharms with same main beadtypes/loopshapes/clasps/colourorder and originalspecialcharm placements preserved. Entirethree visibleinthiscell, no neighbouringpanels/subjectcuts, correct requestedstyle; promotionalheadingaccurate wherepresent. Finebeadreflection/smallprintedtextvariations accepted websitequality; sourcehashverified."
     }
   ],
-  "status": "in_progress",
+  "status": "five images saved and visually checked",
   "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
   "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
   "plan_original_hashes_verified": true

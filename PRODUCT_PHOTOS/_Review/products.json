@@ -33968,9 +33968,9 @@
     "source_image_ids": [
       3118
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -33980,48 +33980,54 @@
     "source_image_ids": [
       3119
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2790",
-    "folder": "2790_Butterfly-Pendant-Necklace-0",
+    "folder": "2790_Butterfly-Pendant-Necklace-1",
     "source_image_ids": [
       3120
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2791",
-    "folder": "2791_Animal-Plush-Toys-0",
+    "folder": "2791_Animal-Plush-Toys-1",
     "source_image_ids": [
       3121
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2792",
-    "folder": "2792_Black-Cord-Pendant-Necklaces-0",
+    "folder": "2792_Black-Cord-Pendant-Necklaces-1",
     "source_image_ids": [
       3122,
       3123
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2793",
@@ -34030,7 +34036,7 @@
       3124,
       3125
     ],
-    "new_images": 5,
+    "new_images": 1,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -34038,15 +34044,17 @@
   },
   {
     "product_id": "2794",
-    "folder": "2794_Blue-Yellow-Phone-Charms-0",
+    "folder": "2794_Blue-Yellow-Phone-Charms-1",
     "source_image_ids": [
       3126
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2795",
@@ -34092,27 +34100,31 @@
   },
   {
     "product_id": "2798",
-    "folder": "2798_Pink-Green-Phone-Charms-0",
+    "folder": "2798_Pink-Green-Phone-Charms-1",
     "source_image_ids": [
       3130
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2799",
-    "folder": "2799_Pink-Blue-Phone-Charms-0",
+    "folder": "2799_Pink-Blue-Phone-Charms-1",
     "source_image_ids": [
       3131
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2800",

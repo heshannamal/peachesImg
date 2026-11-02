@@ -1,11 +1,11 @@
 {
   "assigned": [
-    "2779",
-    "2778"
+    "2769",
+    "2768"
   ],
-  "status": "pair_complete",
-  "active_products": 0,
-  "inflight": 0,
+  "status": "generating_combined_grids",
+  "active_products": 2,
+  "inflight": 2,
   "completed_products": [
     "2819",
     "2818",
@@ -17,5 +17,9 @@
   ],
   "blocked_products": [
     "2800"
-  ]
+  ],
+  "actual_subjects": {
+    "2769": "6singlecolour5petalstarpearlflowerbrooches",
+    "2768": "6multicolour5petalthreepearlflowerbrooches"
+  }
 }

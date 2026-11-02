@@ -33920,9 +33920,9 @@
     "source_image_ids": [
       3114
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -33932,9 +33932,9 @@
     "source_image_ids": [
       3115
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -33944,9 +33944,9 @@
     "source_image_ids": [
       3116
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -33956,35 +33956,39 @@
     "source_image_ids": [
       3117
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2788",
-    "folder": "2788_Bow-Stud-Earrings-0",
+    "folder": "2788_Bow-Stud-Earrings-1",
     "source_image_ids": [
       3118
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2789",
-    "folder": "2789_Heart-Pendant-Necklace-0",
+    "folder": "2789_Heart-Pendant-Necklace-1",
     "source_image_ids": [
       3119
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2790",
@@ -34031,16 +34035,18 @@
   },
   {
     "product_id": "2793",
-    "folder": "2793_Pastel-Hair-Clip-Assortment-0",
+    "folder": "2793_Pastel-Hair-Clip-Assortment-1",
     "source_image_ids": [
       3124,
       3125
     ],
-    "new_images": 1,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2794",

@@ -3,25 +3,15 @@
     "2819",
     "2818"
   ],
-  "status": "paused_for_combined_grid_workflow",
+  "status": "pair_complete",
   "active_products": 0,
   "inflight": 0,
-  "saved_images": 2,
-  "checked_images": 1,
-  "remaining": {
-    "2819": [
-      "02_Styled-Background",
-      "03_Lifestyle",
-      "04_Detail",
-      "05_Promotional"
-    ],
-    "2818": [
-      "01_White-Background needs identity correction",
-      "02_Styled-Background",
-      "03_Lifestyle",
-      "04_Detail",
-      "05_Promotional"
-    ]
-  },
-  "originals_unchanged": true
+  "completed_products": [
+    "2819",
+    "2818"
+  ],
+  "saved_images": 10,
+  "checked_images": 10,
+  "originals_unchanged": true,
+  "workflow": "onegrid/product cropped,existingvalidwhite2819preserved;2818whitecorrectedonce"
 }

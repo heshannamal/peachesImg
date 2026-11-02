@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/PXL_20250306_065620154.jpg": "c59e7b676d0a88cd67cc9c304da8544045102eccad133493e8f6d0fcf96127a7"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-4f5505c9-3069-4f89-a0ac-b11e8002c4ba.png",
+      "source_output": "/workspace/generated_images/exec-4f5505c9-3069-4f89-a0ac-b11e8002c4ba.png",
+      "sha256": "3e024bace9baf6242f4018976a8162a8a4b1867ef9be8acba12df6e411e4c3e3",
+      "prompt": "Create ONE landscape1536x1024 product photograph grid EXACT3columns by2rows six EQUAL square cells, no gutters/borders/separators/panel labels. Every view fully contained within its own cell with margins, no products crossing boundaries. Full-view productidentity: EXACT TWENTYFOUR round gold-tone domed stud earrings, TWELVE PAIRS on ONE white Fashion Jewelry card in clear hangingbag. Original layout SIX ROWS, FOUR studs per row, two paired slots per row. Preserve exact24count/12pairs, actual gently textured round reflective gold domes, original pair spacing/card shape/header/clearbag. Do not add gemstones, engravings, symbols or unseen backs. Entire original packaged assortment ONE product in each FULL view, correct count/shapes/colours/arrangement. Readingorder CELL1top-left purewhite background fullproduct; CELL2top-middle lavender/cream styledstudio fullproduct; CELL3top-right fullproduct on cream dressingtable in softlyblurred lavenderbedroom, daylight no otherproducts/hands; CELL4bottom-left Standalone extreme tight macro ONLY a real visible gold-tone stud dome and its adjoining white backingcard. Preserve actual gently textured gold surface, no invented engraving/symbol/stone or hiddenpost. CELL5bottom-middle fullsameproduct lavender/cream promotionalphoto with accurate heading 'GOLD-TONE STUD EARRINGS', no other addedtext/claims/price; CELL6bottom-right completelyblankwhite unused. Match original identity and actual visibleparts; remove hand/shop/externaloldprice and warranty overlays only. Preserve original packaging print, no new assurance/claim. Output exactsix-cell landscapegrid.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-4f5505c9-3069-4f89-a0ac-b11e8002c4ba.png",
+      "prompt": "Create ONE landscape1536x1024 product photograph grid EXACT3columns by2rows six EQUAL square cells, no gutters/borders/separators/panel labels. Every view fully contained within its own cell with margins, no products crossing boundaries. Full-view productidentity: EXACT TWENTYFOUR round gold-tone domed stud earrings, TWELVE PAIRS on ONE white Fashion Jewelry card in clear hangingbag. Original layout SIX ROWS, FOUR studs per row, two paired slots per row. Preserve exact24count/12pairs, actual gently textured round reflective gold domes, original pair spacing/card shape/header/clearbag. Do not add gemstones, engravings, symbols or unseen backs. Entire original packaged assortment ONE product in each FULL view, correct count/shapes/colours/arrangement. Readingorder CELL1top-left purewhite background fullproduct; CELL2top-middle lavender/cream styledstudio fullproduct; CELL3top-right fullproduct on cream dressingtable in softlyblurred lavenderbedroom, daylight no otherproducts/hands; CELL4bottom-left Standalone extreme tight macro ONLY a real visible gold-tone stud dome and its adjoining white backingcard. Preserve actual gently textured gold surface, no invented engraving/symbol/stone or hiddenpost. CELL5bottom-middle fullsameproduct lavender/cream promotionalphoto with accurate heading 'GOLD-TONE STUD EARRINGS', no other addedtext/claims/price; CELL6bottom-right completelyblankwhite unused. Match original identity and actual visibleparts; remove hand/shop/externaloldprice and warranty overlays only. Preserve original packaging print, no new assurance/claim. Output exactsix-cell landscapegrid.",
+      "sha256": "4d3e54279baef163e6b2624a359a053e2c344956f2101f8a73b20da06b4ac4ab",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4f5505c9-3069-4f89-a0ac-b11e8002c4ba.png",
+      "grid_sha256": "3e024bace9baf6242f4018976a8162a8a4b1867ef9be8acba12df6e411e4c3e3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Inspected actual512x512 crop and original: clean view boundaries with no adjacent cell content, correct white/styled/lifestyle/macro/promotional type. Fullviews retain24studs/12pairs or one clover chain with three clovers and original round charms, source main shapes/material/colours/card/package. Macro uses a real visible dome or clover outline. Accurate heading, minor print/reflection differences accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-4f5505c9-3069-4f89-a0ac-b11e8002c4ba.png",
+      "prompt": "Create ONE landscape1536x1024 product photograph grid EXACT3columns by2rows six EQUAL square cells, no gutters/borders/separators/panel labels. Every view fully contained within its own cell with margins, no products crossing boundaries. Full-view productidentity: EXACT TWENTYFOUR round gold-tone domed stud earrings, TWELVE PAIRS on ONE white Fashion Jewelry card in clear hangingbag. Original layout SIX ROWS, FOUR studs per row, two paired slots per row. Preserve exact24count/12pairs, actual gently textured round reflective gold domes, original pair spacing/card shape/header/clearbag. Do not add gemstones, engravings, symbols or unseen backs. Entire original packaged assortment ONE product in each FULL view, correct count/shapes/colours/arrangement. Readingorder CELL1top-left purewhite background fullproduct; CELL2top-middle lavender/cream styledstudio fullproduct; CELL3top-right fullproduct on cream dressingtable in softlyblurred lavenderbedroom, daylight no otherproducts/hands; CELL4bottom-left Standalone extreme tight macro ONLY a real visible gold-tone stud dome and its adjoining white backingcard. Preserve actual gently textured gold surface, no invented engraving/symbol/stone or hiddenpost. CELL5bottom-middle fullsameproduct lavender/cream promotionalphoto with accurate heading 'GOLD-TONE STUD EARRINGS', no other addedtext/claims/price; CELL6bottom-right completelyblankwhite unused. Match original identity and actual visibleparts; remove hand/shop/externaloldprice and warranty overlays only. Preserve original packaging print, no new assurance/claim. Output exactsix-cell landscapegrid.",
+      "sha256": "d3effcc61403c6e83947c33bec125f51dd775793b7a162465df3d36196a8030b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4f5505c9-3069-4f89-a0ac-b11e8002c4ba.png",
+      "grid_sha256": "3e024bace9baf6242f4018976a8162a8a4b1867ef9be8acba12df6e411e4c3e3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Inspected actual512x512 crop and original: clean view boundaries with no adjacent cell content, correct white/styled/lifestyle/macro/promotional type. Fullviews retain24studs/12pairs or one clover chain with three clovers and original round charms, source main shapes/material/colours/card/package. Macro uses a real visible dome or clover outline. Accurate heading, minor print/reflection differences accepted."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-4f5505c9-3069-4f89-a0ac-b11e8002c4ba.png",
+      "prompt": "Create ONE landscape1536x1024 product photograph grid EXACT3columns by2rows six EQUAL square cells, no gutters/borders/separators/panel labels. Every view fully contained within its own cell with margins, no products crossing boundaries. Full-view productidentity: EXACT TWENTYFOUR round gold-tone domed stud earrings, TWELVE PAIRS on ONE white Fashion Jewelry card in clear hangingbag. Original layout SIX ROWS, FOUR studs per row, two paired slots per row. Preserve exact24count/12pairs, actual gently textured round reflective gold domes, original pair spacing/card shape/header/clearbag. Do not add gemstones, engravings, symbols or unseen backs. Entire original packaged assortment ONE product in each FULL view, correct count/shapes/colours/arrangement. Readingorder CELL1top-left purewhite background fullproduct; CELL2top-middle lavender/cream styledstudio fullproduct; CELL3top-right fullproduct on cream dressingtable in softlyblurred lavenderbedroom, daylight no otherproducts/hands; CELL4bottom-left Standalone extreme tight macro ONLY a real visible gold-tone stud dome and its adjoining white backingcard. Preserve actual gently textured gold surface, no invented engraving/symbol/stone or hiddenpost. CELL5bottom-middle fullsameproduct lavender/cream promotionalphoto with accurate heading 'GOLD-TONE STUD EARRINGS', no other addedtext/claims/price; CELL6bottom-right completelyblankwhite unused. Match original identity and actual visibleparts; remove hand/shop/externaloldprice and warranty overlays only. Preserve original packaging print, no new assurance/claim. Output exactsix-cell landscapegrid.",
+      "sha256": "b870159518eec87e70bdba03b9cb4372c22266f3aa673e1b8a80f44c2f0529d7",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4f5505c9-3069-4f89-a0ac-b11e8002c4ba.png",
+      "grid_sha256": "3e024bace9baf6242f4018976a8162a8a4b1867ef9be8acba12df6e411e4c3e3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Inspected actual512x512 crop and original: clean view boundaries with no adjacent cell content, correct white/styled/lifestyle/macro/promotional type. Fullviews retain24studs/12pairs or one clover chain with three clovers and original round charms, source main shapes/material/colours/card/package. Macro uses a real visible dome or clover outline. Accurate heading, minor print/reflection differences accepted."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-4f5505c9-3069-4f89-a0ac-b11e8002c4ba.png",
+      "prompt": "Create ONE landscape1536x1024 product photograph grid EXACT3columns by2rows six EQUAL square cells, no gutters/borders/separators/panel labels. Every view fully contained within its own cell with margins, no products crossing boundaries. Full-view productidentity: EXACT TWENTYFOUR round gold-tone domed stud earrings, TWELVE PAIRS on ONE white Fashion Jewelry card in clear hangingbag. Original layout SIX ROWS, FOUR studs per row, two paired slots per row. Preserve exact24count/12pairs, actual gently textured round reflective gold domes, original pair spacing/card shape/header/clearbag. Do not add gemstones, engravings, symbols or unseen backs. Entire original packaged assortment ONE product in each FULL view, correct count/shapes/colours/arrangement. Readingorder CELL1top-left purewhite background fullproduct; CELL2top-middle lavender/cream styledstudio fullproduct; CELL3top-right fullproduct on cream dressingtable in softlyblurred lavenderbedroom, daylight no otherproducts/hands; CELL4bottom-left Standalone extreme tight macro ONLY a real visible gold-tone stud dome and its adjoining white backingcard. Preserve actual gently textured gold surface, no invented engraving/symbol/stone or hiddenpost. CELL5bottom-middle fullsameproduct lavender/cream promotionalphoto with accurate heading 'GOLD-TONE STUD EARRINGS', no other addedtext/claims/price; CELL6bottom-right completelyblankwhite unused. Match original identity and actual visibleparts; remove hand/shop/externaloldprice and warranty overlays only. Preserve original packaging print, no new assurance/claim. Output exactsix-cell landscapegrid.",
+      "sha256": "7583cdf7e0836c7b599ab9d91f30b7baa5fbd978bffb0cd8e9858e0652712220",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4f5505c9-3069-4f89-a0ac-b11e8002c4ba.png",
+      "grid_sha256": "3e024bace9baf6242f4018976a8162a8a4b1867ef9be8acba12df6e411e4c3e3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Inspected actual512x512 crop and original: clean view boundaries with no adjacent cell content, correct white/styled/lifestyle/macro/promotional type. Fullviews retain24studs/12pairs or one clover chain with three clovers and original round charms, source main shapes/material/colours/card/package. Macro uses a real visible dome or clover outline. Accurate heading, minor print/reflection differences accepted."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-4f5505c9-3069-4f89-a0ac-b11e8002c4ba.png",
+      "prompt": "Create ONE landscape1536x1024 product photograph grid EXACT3columns by2rows six EQUAL square cells, no gutters/borders/separators/panel labels. Every view fully contained within its own cell with margins, no products crossing boundaries. Full-view productidentity: EXACT TWENTYFOUR round gold-tone domed stud earrings, TWELVE PAIRS on ONE white Fashion Jewelry card in clear hangingbag. Original layout SIX ROWS, FOUR studs per row, two paired slots per row. Preserve exact24count/12pairs, actual gently textured round reflective gold domes, original pair spacing/card shape/header/clearbag. Do not add gemstones, engravings, symbols or unseen backs. Entire original packaged assortment ONE product in each FULL view, correct count/shapes/colours/arrangement. Readingorder CELL1top-left purewhite background fullproduct; CELL2top-middle lavender/cream styledstudio fullproduct; CELL3top-right fullproduct on cream dressingtable in softlyblurred lavenderbedroom, daylight no otherproducts/hands; CELL4bottom-left Standalone extreme tight macro ONLY a real visible gold-tone stud dome and its adjoining white backingcard. Preserve actual gently textured gold surface, no invented engraving/symbol/stone or hiddenpost. CELL5bottom-middle fullsameproduct lavender/cream promotionalphoto with accurate heading 'GOLD-TONE STUD EARRINGS', no other addedtext/claims/price; CELL6bottom-right completelyblankwhite unused. Match original identity and actual visibleparts; remove hand/shop/externaloldprice and warranty overlays only. Preserve original packaging print, no new assurance/claim. Output exactsix-cell landscapegrid.",
+      "sha256": "57c91d2a80327baf96b5479a188e3079fbf335b076e28479e838e7258d1ab6d7",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4f5505c9-3069-4f89-a0ac-b11e8002c4ba.png",
+      "grid_sha256": "3e024bace9baf6242f4018976a8162a8a4b1867ef9be8acba12df6e411e4c3e3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Inspected actual512x512 crop and original: clean view boundaries with no adjacent cell content, correct white/styled/lifestyle/macro/promotional type. Fullviews retain24studs/12pairs or one clover chain with three clovers and original round charms, source main shapes/material/colours/card/package. Macro uses a real visible dome or clover outline. Accurate heading, minor print/reflection differences accepted."
+    }
+  ],
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "plan_original_hashes_verified": true
+}

@@ -3,17 +3,15 @@
     "2821",
     "2820"
   ],
-  "status": "paused_for_combined_grid_workflow",
-  "active_products": [],
+  "status": "complete",
+  "completed": [
+    "2821",
+    "2820"
+  ],
+  "saved_images": 10,
+  "checked_images": 10,
   "inflight": 0,
-  "saved_checked": {
-    "2821": [
-      "01_White-Background.png",
-      "02_Styled-Background.png"
-    ],
-    "2820": [
-      "01_White-Background.png"
-    ]
-  },
-  "updated_at": "2026-11-02T15:43:59.199966+00:00"
+  "active_products": [],
+  "originals_unchanged": true,
+  "updated_at": "2026-11-02T15:55:44.270270+00:00"
 }

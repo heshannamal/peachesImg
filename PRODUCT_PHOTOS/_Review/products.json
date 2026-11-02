@@ -34234,7 +34234,7 @@
     "source_image_ids": [
       3144
     ],
-    "new_images": 1,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -34246,7 +34246,7 @@
     "source_image_ids": [
       3145
     ],
-    "new_images": 1,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -34287,9 +34287,9 @@
       3150,
       3151
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -34299,7 +34299,7 @@
     "source_image_ids": [
       3152
     ],
-    "new_images": 1,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -34307,27 +34307,31 @@
   },
   {
     "product_id": "2820",
-    "folder": "2820_Pastel-Hair-Accessory-Sets-0",
+    "folder": "2820_Pastel-Hair-Accessory-Sets-1",
     "source_image_ids": [
       3153
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2821",
-    "folder": "2821_Printed-Hair-Accessory-Sets-0",
+    "folder": "2821_Printed-Hair-Accessory-Sets-1",
     "source_image_ids": [
       3154
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2822",

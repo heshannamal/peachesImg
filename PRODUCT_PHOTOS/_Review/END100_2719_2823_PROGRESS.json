@@ -1,141 +1,98 @@
 {
-  "updated_at": "2026-11-02T15:48:37.423252+00:00",
+  "updated_at": "2026-11-02T15:54:46.534375+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 0,
-  "partial_products": 10,
-  "pending_products": 90,
+  "completed_products": 2,
+  "partial_products": 7,
+  "pending_products": 91,
   "blocked_products": 0,
-  "saved_images": 17,
-  "checked_images": 12,
+  "saved_images": 33,
+  "checked_images": 20,
   "products": [
     {
       "product_id": "2823",
       "folder": "2823_Colourful-Character-Hair-Clips-0",
       "status": "partial",
-      "saved_images": 2,
+      "saved_images": 5,
       "checked_images": 2,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
-      ],
-      "missing_images": [
+        "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
       "notes_status": "in_progress",
-      "errors": [],
+      "errors": [
+        "unreviewed or unrecorded: 03_Lifestyle.png",
+        "unreviewed or unrecorded: 04_Detail.png",
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
       "originals_unchanged": true
     },
     {
       "product_id": "2822",
       "folder": "2822_Character-Hair-Clips-0",
       "status": "partial",
-      "saved_images": 2,
+      "saved_images": 5,
       "checked_images": 2,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
-      ],
-      "missing_images": [
+        "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
       "notes_status": "in_progress",
-      "errors": [],
+      "errors": [
+        "unreviewed or unrecorded: 03_Lifestyle.png",
+        "unreviewed or unrecorded: 04_Detail.png",
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
       "originals_unchanged": true
     },
     {
       "product_id": "2821",
       "folder": "2821_Printed-Hair-Accessory-Sets-0",
       "status": "partial",
-      "saved_images": 2,
+      "saved_images": 5,
       "checked_images": 2,
       "files": [
         "New/01_White-Background.png",
-        "New/02_Styled-Background.png"
-      ],
-      "missing_images": [
+        "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
       "notes_status": "in_progress",
-      "errors": [],
+      "errors": [
+        "unreviewed or unrecorded: 03_Lifestyle.png",
+        "unreviewed or unrecorded: 04_Detail.png",
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
       "originals_unchanged": true
     },
     {
       "product_id": "2820",
       "folder": "2820_Pastel-Hair-Accessory-Sets-0",
-      "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
-      "files": [
-        "New/01_White-Background.png"
-      ],
-      "missing_images": [
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": "in_progress",
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "2819",
-      "folder": "2819_Brown-Hair-Accessory-Sets-0",
-      "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
-      "files": [
-        "New/01_White-Background.png"
-      ],
-      "missing_images": [
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": "in_progress",
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "2818",
-      "folder": "2818_Neutral-Hair-Accessory-Sets-0",
-      "status": "partial",
-      "saved_images": 1,
-      "checked_images": 0,
-      "files": [
-        "New/01_White-Background.png"
-      ],
-      "missing_images": [
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [
-        "New/01_White-Background.png"
-      ],
-      "notes_status": "review_needed",
-      "errors": [
-        "unreviewed or unrecorded: 01_White-Background.png"
-      ],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "2817",
-      "folder": "2817_Character-Mirror-Set-0",
       "status": "partial",
       "saved_images": 5,
       "checked_images": 1,
@@ -163,8 +120,8 @@
       "originals_unchanged": true
     },
     {
-      "product_id": "2814",
-      "folder": "2814_Metal-Flower-Hair-Claws-0",
+      "product_id": "2819",
+      "folder": "2819_Brown-Hair-Accessory-Sets-0",
       "status": "partial",
       "saved_images": 1,
       "checked_images": 1,
@@ -179,6 +136,63 @@
       ],
       "review_needed_images": [],
       "notes_status": "in_progress",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "2818",
+      "folder": "2818_Neutral-Hair-Accessory-Sets-0",
+      "status": "pending",
+      "saved_images": 0,
+      "checked_images": 0,
+      "files": [],
+      "missing_images": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "review_needed_images": [],
+      "notes_status": "review_needed",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "2817",
+      "folder": "2817_Character-Mirror-Set-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five images saved and visually checked",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "2814",
+      "folder": "2814_Metal-Flower-Hair-Claws-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five images saved and visually checked",
       "errors": [],
       "originals_unchanged": true
     },

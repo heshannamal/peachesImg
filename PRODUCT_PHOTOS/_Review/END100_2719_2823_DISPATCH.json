@@ -13,8 +13,8 @@
       "2818"
     ],
     "end_worker4": [
-      "2817",
-      "2814"
+      "2811",
+      "2810"
     ],
     "end_worker5": [
       "2813",
@@ -22,8 +22,6 @@
     ]
   },
   "next_unassigned": [
-    "2811",
-    "2810",
     "2809",
     "2808",
     "2807",
@@ -114,5 +112,14 @@
     "2719"
   ],
   "order": "descending_numeric_product_id",
-  "workflow": "one_native3x2grid_fiveviews_then_crop"
+  "workflow": "one_native3x2grid_fiveviews_then_crop",
+  "assignment_history": [
+    {
+      "worker": "end_worker4",
+      "product_ids": [
+        "2817",
+        "2814"
+      ]
+    }
+  ]
 }

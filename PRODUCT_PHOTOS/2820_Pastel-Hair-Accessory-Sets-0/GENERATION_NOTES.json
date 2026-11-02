@@ -12,8 +12,98 @@
       "sha256": "70c3593dd840528334001187411707dbc1ebf509530aabc004439c7f22b26f74",
       "checked": true,
       "visual_review": "Viewed actual white output against original: twelve pastel bow ties on six flower-print front cards, two strips of three, main pink/hotpink/mint/yellow/blue/lavender colours and sequence retained. Ribbed loops, bow knot shapes, card/clear packaging and diagonal overlap faithful; hand/shop removed. Minor plastic/card details accepted."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-710d1584-a71d-48be-b733-286f10f535e9.png",
+      "source_output": "/workspace/generated_images/exec-710d1584-a71d-48be-b733-286f10f535e9.png",
+      "sha256": "4b5d4355544ba38d0281613444b2fd395f99df48230fd8a0ac4c37fd81427175",
+      "prompt": "Create ONE LANDSCAPE1536x1024 image arranged in EXACT THREE EQUAL COLUMNS and TWO EQUAL ROWS, six equal square cells, no gutters, no borders, no separators, no panel labels. Each of first five cells is a separate coherent website photograph of the same original product. Each view stays completely INSIDE ITS OWN CELL with safe margins, no crossing cell boundaries. Reading order top-left1 purewhite background FULL assortment; top-middle2 lavender and cream studio FULL assortment; top-right3 FULL assortment on cream vanity in softly blurred lavender bedroom daylight, no extra products; bottom-left4 STANDALONE TIGHT MACRO of real specified product part ONLY (NOT whole assortment); bottom-middle5 FULL assortment on lavendercream background with readable accurate heading BOW HAIR TIES above it; bottom-right6 entirely blank lightcream unused. No other new text/claims/prices.\nReference entire packaged pastel ribbed fabric bow hair ties ONE assortment. EXACT SIX front cream flower-print cards TWO strips THREE cards each TWO bowties/card TWELVE ties total. Leftcolumn top hotpink/pink,middle mint/yellow,bottom blue/lavender; rightcolumn top pink/hotpink,middle mint/yellow,bottom lavender/blue. Preserve actual loops,knots,folded bows,ribbed fabric colours,clear outerbag,originalcardprint and diagonal overlappinglayout/occlusion. Full views show same exact whole package/count each. Remove hand/shop only,no extra ties/inventedparts. Detailcell4 tight macro ONLY actual mint bow centre knot and adjoining ribbed loop fabric, faithful sourcepart; NOT entire assortment.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-710d1584-a71d-48be-b733-286f10f535e9.png",
+      "prompt": "Create ONE LANDSCAPE1536x1024 image arranged in EXACT THREE EQUAL COLUMNS and TWO EQUAL ROWS, six equal square cells, no gutters, no borders, no separators, no panel labels. Each of first five cells is a separate coherent website photograph of the same original product. Each view stays completely INSIDE ITS OWN CELL with safe margins, no crossing cell boundaries. Reading order top-left1 purewhite background FULL assortment; top-middle2 lavender and cream studio FULL assortment; top-right3 FULL assortment on cream vanity in softly blurred lavender bedroom daylight, no extra products; bottom-left4 STANDALONE TIGHT MACRO of real specified product part ONLY (NOT whole assortment); bottom-middle5 FULL assortment on lavendercream background with readable accurate heading BOW HAIR TIES above it; bottom-right6 entirely blank lightcream unused. No other new text/claims/prices.\nReference entire packaged pastel ribbed fabric bow hair ties ONE assortment. EXACT SIX front cream flower-print cards TWO strips THREE cards each TWO bowties/card TWELVE ties total. Leftcolumn top hotpink/pink,middle mint/yellow,bottom blue/lavender; rightcolumn top pink/hotpink,middle mint/yellow,bottom lavender/blue. Preserve actual loops,knots,folded bows,ribbed fabric colours,clear outerbag,originalcardprint and diagonal overlappinglayout/occlusion. Full views show same exact whole package/count each. Remove hand/shop only,no extra ties/inventedparts. Detailcell4 tight macro ONLY actual mint bow centre knot and adjoining ribbed loop fabric, faithful sourcepart; NOT entire assortment.\n",
+      "sha256": "dfa248566f8c076cb4e7cebe6f195b9c25e3b55fd31c662e5787cdff6e967e31",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-710d1584-a71d-48be-b733-286f10f535e9.png",
+      "grid_sha256": "4b5d4355544ba38d0281613444b2fd395f99df48230fd8a0ac4c37fd81427175",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-710d1584-a71d-48be-b733-286f10f535e9.png",
+      "prompt": "Create ONE LANDSCAPE1536x1024 image arranged in EXACT THREE EQUAL COLUMNS and TWO EQUAL ROWS, six equal square cells, no gutters, no borders, no separators, no panel labels. Each of first five cells is a separate coherent website photograph of the same original product. Each view stays completely INSIDE ITS OWN CELL with safe margins, no crossing cell boundaries. Reading order top-left1 purewhite background FULL assortment; top-middle2 lavender and cream studio FULL assortment; top-right3 FULL assortment on cream vanity in softly blurred lavender bedroom daylight, no extra products; bottom-left4 STANDALONE TIGHT MACRO of real specified product part ONLY (NOT whole assortment); bottom-middle5 FULL assortment on lavendercream background with readable accurate heading BOW HAIR TIES above it; bottom-right6 entirely blank lightcream unused. No other new text/claims/prices.\nReference entire packaged pastel ribbed fabric bow hair ties ONE assortment. EXACT SIX front cream flower-print cards TWO strips THREE cards each TWO bowties/card TWELVE ties total. Leftcolumn top hotpink/pink,middle mint/yellow,bottom blue/lavender; rightcolumn top pink/hotpink,middle mint/yellow,bottom lavender/blue. Preserve actual loops,knots,folded bows,ribbed fabric colours,clear outerbag,originalcardprint and diagonal overlappinglayout/occlusion. Full views show same exact whole package/count each. Remove hand/shop only,no extra ties/inventedparts. Detailcell4 tight macro ONLY actual mint bow centre knot and adjoining ribbed loop fabric, faithful sourcepart; NOT entire assortment.\n",
+      "sha256": "9d8cde8f0b8cbc95b95955ba25bacab0dfd88dae6db60a1b1e85cc3c60f0020d",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-710d1584-a71d-48be-b733-286f10f535e9.png",
+      "grid_sha256": "4b5d4355544ba38d0281613444b2fd395f99df48230fd8a0ac4c37fd81427175",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-710d1584-a71d-48be-b733-286f10f535e9.png",
+      "prompt": "Create ONE LANDSCAPE1536x1024 image arranged in EXACT THREE EQUAL COLUMNS and TWO EQUAL ROWS, six equal square cells, no gutters, no borders, no separators, no panel labels. Each of first five cells is a separate coherent website photograph of the same original product. Each view stays completely INSIDE ITS OWN CELL with safe margins, no crossing cell boundaries. Reading order top-left1 purewhite background FULL assortment; top-middle2 lavender and cream studio FULL assortment; top-right3 FULL assortment on cream vanity in softly blurred lavender bedroom daylight, no extra products; bottom-left4 STANDALONE TIGHT MACRO of real specified product part ONLY (NOT whole assortment); bottom-middle5 FULL assortment on lavendercream background with readable accurate heading BOW HAIR TIES above it; bottom-right6 entirely blank lightcream unused. No other new text/claims/prices.\nReference entire packaged pastel ribbed fabric bow hair ties ONE assortment. EXACT SIX front cream flower-print cards TWO strips THREE cards each TWO bowties/card TWELVE ties total. Leftcolumn top hotpink/pink,middle mint/yellow,bottom blue/lavender; rightcolumn top pink/hotpink,middle mint/yellow,bottom lavender/blue. Preserve actual loops,knots,folded bows,ribbed fabric colours,clear outerbag,originalcardprint and diagonal overlappinglayout/occlusion. Full views show same exact whole package/count each. Remove hand/shop only,no extra ties/inventedparts. Detailcell4 tight macro ONLY actual mint bow centre knot and adjoining ribbed loop fabric, faithful sourcepart; NOT entire assortment.\n",
+      "sha256": "51cdf8915fd9e4afe3c0b94fc3d8e1851ed7bc0f6a92dc6977ec36c070fbd615",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-710d1584-a71d-48be-b733-286f10f535e9.png",
+      "grid_sha256": "4b5d4355544ba38d0281613444b2fd395f99df48230fd8a0ac4c37fd81427175",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-710d1584-a71d-48be-b733-286f10f535e9.png",
+      "prompt": "Create ONE LANDSCAPE1536x1024 image arranged in EXACT THREE EQUAL COLUMNS and TWO EQUAL ROWS, six equal square cells, no gutters, no borders, no separators, no panel labels. Each of first five cells is a separate coherent website photograph of the same original product. Each view stays completely INSIDE ITS OWN CELL with safe margins, no crossing cell boundaries. Reading order top-left1 purewhite background FULL assortment; top-middle2 lavender and cream studio FULL assortment; top-right3 FULL assortment on cream vanity in softly blurred lavender bedroom daylight, no extra products; bottom-left4 STANDALONE TIGHT MACRO of real specified product part ONLY (NOT whole assortment); bottom-middle5 FULL assortment on lavendercream background with readable accurate heading BOW HAIR TIES above it; bottom-right6 entirely blank lightcream unused. No other new text/claims/prices.\nReference entire packaged pastel ribbed fabric bow hair ties ONE assortment. EXACT SIX front cream flower-print cards TWO strips THREE cards each TWO bowties/card TWELVE ties total. Leftcolumn top hotpink/pink,middle mint/yellow,bottom blue/lavender; rightcolumn top pink/hotpink,middle mint/yellow,bottom lavender/blue. Preserve actual loops,knots,folded bows,ribbed fabric colours,clear outerbag,originalcardprint and diagonal overlappinglayout/occlusion. Full views show same exact whole package/count each. Remove hand/shop only,no extra ties/inventedparts. Detailcell4 tight macro ONLY actual mint bow centre knot and adjoining ribbed loop fabric, faithful sourcepart; NOT entire assortment.\n",
+      "sha256": "9db7a6f531071e2bf1ae27223d15c435984d39e3735b46ab28b54b72ac3b61c7",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-710d1584-a71d-48be-b733-286f10f535e9.png",
+      "grid_sha256": "4b5d4355544ba38d0281613444b2fd395f99df48230fd8a0ac4c37fd81427175",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
     }
   ],
   "status": "in_progress",
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
 }

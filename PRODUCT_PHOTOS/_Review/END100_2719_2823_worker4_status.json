@@ -1,17 +1,25 @@
 {
-  "status": "paused_for_combined_grid_workflow",
-  "assigned_product_ids": [
-    "2817",
-    "2814"
+  "status": "pilot_complete_paused",
+  "product": "2817",
+  "folder": "2817_Character-Mirror-Set-1",
+  "grid_dimensions": [
+    1536,
+    1024
   ],
-  "saved_checked": {
-    "2817": [
-      "01_White-Background.png"
-    ],
-    "2814": [
-      "01_White-Background.png"
-    ]
-  },
+  "new_crop_dimensions": [
+    512,
+    512
+  ],
+  "preserved_white_dimensions": [
+    1088,
+    1445
+  ],
+  "five_views_checked": true,
+  "grid_source_checked": false,
+  "original_hashes_verified": true,
   "in_flight": 0,
-  "new_calls_paused": true
+  "waiting_parent_grid_workflow_confirmation": true,
+  "2814_saved_checked": [
+    "01_White-Background.png"
+  ]
 }

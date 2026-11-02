@@ -34254,27 +34254,31 @@
   },
   {
     "product_id": "2814",
-    "folder": "2814_Metal-Flower-Hair-Claws-0",
+    "folder": "2814_Metal-Flower-Hair-Claws-1",
     "source_image_ids": [
       3146
     ],
-    "new_images": 1,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2817",
-    "folder": "2817_Character-Mirror-Set-0",
+    "folder": "2817_Character-Mirror-Set-1",
     "source_image_ids": [
       3149
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2818",
@@ -34283,9 +34287,9 @@
       3150,
       3151
     ],
-    "new_images": 1,
+    "new_images": 0,
     "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_status": "pending",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -34307,7 +34311,7 @@
     "source_image_ids": [
       3153
     ],
-    "new_images": 1,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -34319,7 +34323,7 @@
     "source_image_ids": [
       3154
     ],
-    "new_images": 2,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -34331,7 +34335,7 @@
     "source_image_ids": [
       3155
     ],
-    "new_images": 2,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -34343,7 +34347,7 @@
     "source_image_ids": [
       3156
     ],
-    "new_images": 2,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",

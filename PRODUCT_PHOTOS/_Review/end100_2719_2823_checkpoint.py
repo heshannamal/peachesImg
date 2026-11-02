@@ -56,7 +56,7 @@ def sync():
  for tracked in subprocess.check_output(['git','ls-files'],cwd=REPO,text=True).splitlines():
   parts=tracked.split('/')
   if len(parts)>2 and parts[0]=='PRODUCT_PHOTOS' and parts[1][:4] in PLAN['product_ids'] and not (REPO/tracked).exists():selected.append(tracked)
- for pattern in ['END100_2719_2823*.json','end100_2719_2823_checkpoint.py','end100_2719_2823_watch.py','products.json','CONTINUE_PRODUCT_PHOTOS.md','save_generated_grid.py','GRID_GENERATION_WORKFLOW.md','GENERATION_PREFERENCES.json']:
+ for pattern in ['END100_2719_2823*.json','end100_2719_2823_checkpoint.py','end100_2719_2823_watch.py','products.json','CONTINUE_PRODUCT_PHOTOS.md','save_generated_grid.py','claim_end100_pair.py','GRID_GENERATION_WORKFLOW.md','GENERATION_PREFERENCES.json']:
   selected.extend(str(p.relative_to(REPO)) for p in REVIEW.glob(pattern))
  subprocess.run(['git','add','--pathspec-from-file=-','--pathspec-file-nul'],cwd=REPO,input=b'\0'.join(p.encode() for p in sorted(set(selected)))+b'\0',check=True)
  print('Scheduled queue recovery files staged.')

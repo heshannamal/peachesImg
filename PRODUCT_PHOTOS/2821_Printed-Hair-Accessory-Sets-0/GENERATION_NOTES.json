@@ -20,8 +20,78 @@
       "sha256": "2a5daef3a558efc25b25de7d6a903486b3bb9c92df8416eeaf6587151ec0ab03",
       "checked": true,
       "visual_review": "Viewed generated styled image against original: two strips of three front flower cards, each black/white bow fabric tie pair, same main count, ribbed loops/knots, colour and transparent packaging retained. Lavender/cream surface accurate. Minor tiny card lettering/reflection differences accepted."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-966c6901-79fa-470a-ab14-b8130603f529.png",
+      "source_output": "/workspace/generated_images/exec-966c6901-79fa-470a-ab14-b8130603f529.png",
+      "sha256": "adb8d1d1bf116fa56a5c5d87deb4c7f0856493d0372a754ea4867d8c35aca480",
+      "prompt": "Create ONE LANDSCAPE1536x1024 image arranged in EXACT THREE EQUAL COLUMNS and TWO EQUAL ROWS, six equal square cells, no gutters, no borders, no separators, no panel labels. Each of first five cells is a separate coherent website photograph of the same original product. Each view stays completely INSIDE ITS OWN CELL with safe margins, no crossing cell boundaries. Reading order top-left1 purewhite background FULL assortment; top-middle2 lavender and cream studio FULL assortment; top-right3 FULL assortment on cream vanity in softly blurred lavender bedroom daylight, no extra products; bottom-left4 STANDALONE TIGHT MACRO of real specified product part ONLY (NOT whole assortment); bottom-middle5 FULL assortment on lavendercream background with readable accurate heading BOW HAIR TIES above it; bottom-right6 entirely blank lightcream unused. No other new text/claims/prices.\nReference entire packaged black-and-white ribbed fabric bow hair ties ONE assortment. EXACT SIX front cream flower-print backing cards, TWO diagonal overlapping strips THREE cards each, each card ONEblack bowtie and ONEwhite bowtie, TWELVE ties total. Preserve actual loops/knots/bows, blackwhite colours, original clear outerbag, existingcardprint and original overlaps/occlusion. Full views show same exact whole package/count each. Remove hand/shop only, no extra ties or invented hidden parts. Detailcell4 tight macro ONLY one actual whitebow centre knot/ribbed loop fabricjunction, authentic visible weave/shape, no full assortment.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-966c6901-79fa-470a-ab14-b8130603f529.png",
+      "prompt": "Create ONE LANDSCAPE1536x1024 image arranged in EXACT THREE EQUAL COLUMNS and TWO EQUAL ROWS, six equal square cells, no gutters, no borders, no separators, no panel labels. Each of first five cells is a separate coherent website photograph of the same original product. Each view stays completely INSIDE ITS OWN CELL with safe margins, no crossing cell boundaries. Reading order top-left1 purewhite background FULL assortment; top-middle2 lavender and cream studio FULL assortment; top-right3 FULL assortment on cream vanity in softly blurred lavender bedroom daylight, no extra products; bottom-left4 STANDALONE TIGHT MACRO of real specified product part ONLY (NOT whole assortment); bottom-middle5 FULL assortment on lavendercream background with readable accurate heading BOW HAIR TIES above it; bottom-right6 entirely blank lightcream unused. No other new text/claims/prices.\nReference entire packaged black-and-white ribbed fabric bow hair ties ONE assortment. EXACT SIX front cream flower-print backing cards, TWO diagonal overlapping strips THREE cards each, each card ONEblack bowtie and ONEwhite bowtie, TWELVE ties total. Preserve actual loops/knots/bows, blackwhite colours, original clear outerbag, existingcardprint and original overlaps/occlusion. Full views show same exact whole package/count each. Remove hand/shop only, no extra ties or invented hidden parts. Detailcell4 tight macro ONLY one actual whitebow centre knot/ribbed loop fabricjunction, authentic visible weave/shape, no full assortment.\n",
+      "sha256": "c0258ee08f16dac1612c54905fb40176f842940806ff2ba7bdd4021b149f431f",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-966c6901-79fa-470a-ab14-b8130603f529.png",
+      "grid_sha256": "adb8d1d1bf116fa56a5c5d87deb4c7f0856493d0372a754ea4867d8c35aca480",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-966c6901-79fa-470a-ab14-b8130603f529.png",
+      "prompt": "Create ONE LANDSCAPE1536x1024 image arranged in EXACT THREE EQUAL COLUMNS and TWO EQUAL ROWS, six equal square cells, no gutters, no borders, no separators, no panel labels. Each of first five cells is a separate coherent website photograph of the same original product. Each view stays completely INSIDE ITS OWN CELL with safe margins, no crossing cell boundaries. Reading order top-left1 purewhite background FULL assortment; top-middle2 lavender and cream studio FULL assortment; top-right3 FULL assortment on cream vanity in softly blurred lavender bedroom daylight, no extra products; bottom-left4 STANDALONE TIGHT MACRO of real specified product part ONLY (NOT whole assortment); bottom-middle5 FULL assortment on lavendercream background with readable accurate heading BOW HAIR TIES above it; bottom-right6 entirely blank lightcream unused. No other new text/claims/prices.\nReference entire packaged black-and-white ribbed fabric bow hair ties ONE assortment. EXACT SIX front cream flower-print backing cards, TWO diagonal overlapping strips THREE cards each, each card ONEblack bowtie and ONEwhite bowtie, TWELVE ties total. Preserve actual loops/knots/bows, blackwhite colours, original clear outerbag, existingcardprint and original overlaps/occlusion. Full views show same exact whole package/count each. Remove hand/shop only, no extra ties or invented hidden parts. Detailcell4 tight macro ONLY one actual whitebow centre knot/ribbed loop fabricjunction, authentic visible weave/shape, no full assortment.\n",
+      "sha256": "00006d925dd24e54bf7a86eee833656dc35dd43312f68ed4e5e74f6ff16418a3",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-966c6901-79fa-470a-ab14-b8130603f529.png",
+      "grid_sha256": "adb8d1d1bf116fa56a5c5d87deb4c7f0856493d0372a754ea4867d8c35aca480",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-966c6901-79fa-470a-ab14-b8130603f529.png",
+      "prompt": "Create ONE LANDSCAPE1536x1024 image arranged in EXACT THREE EQUAL COLUMNS and TWO EQUAL ROWS, six equal square cells, no gutters, no borders, no separators, no panel labels. Each of first five cells is a separate coherent website photograph of the same original product. Each view stays completely INSIDE ITS OWN CELL with safe margins, no crossing cell boundaries. Reading order top-left1 purewhite background FULL assortment; top-middle2 lavender and cream studio FULL assortment; top-right3 FULL assortment on cream vanity in softly blurred lavender bedroom daylight, no extra products; bottom-left4 STANDALONE TIGHT MACRO of real specified product part ONLY (NOT whole assortment); bottom-middle5 FULL assortment on lavendercream background with readable accurate heading BOW HAIR TIES above it; bottom-right6 entirely blank lightcream unused. No other new text/claims/prices.\nReference entire packaged black-and-white ribbed fabric bow hair ties ONE assortment. EXACT SIX front cream flower-print backing cards, TWO diagonal overlapping strips THREE cards each, each card ONEblack bowtie and ONEwhite bowtie, TWELVE ties total. Preserve actual loops/knots/bows, blackwhite colours, original clear outerbag, existingcardprint and original overlaps/occlusion. Full views show same exact whole package/count each. Remove hand/shop only, no extra ties or invented hidden parts. Detailcell4 tight macro ONLY one actual whitebow centre knot/ribbed loop fabricjunction, authentic visible weave/shape, no full assortment.\n",
+      "sha256": "71d11b91a0278ec941456bfc139388b89541c81fbb10b73d72f9b082ba7131ee",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-966c6901-79fa-470a-ab14-b8130603f529.png",
+      "grid_sha256": "adb8d1d1bf116fa56a5c5d87deb4c7f0856493d0372a754ea4867d8c35aca480",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
     }
   ],
   "status": "in_progress",
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
 }

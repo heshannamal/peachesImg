@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261002-WA0724.jpg": "2ee0b68048a361dce7f64a2c4496fe7b90124cf579a5b4ceec2a1c219f92ec0a"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-b08e70f5-60b7-49f4-b9b9-70a8e537d81f.png",
+      "source_output": "/workspace/generated_images/exec-b08e70f5-60b7-49f4-b9b9-70a8e537d81f.png",
+      "sha256": "22c28a2adf5dc230793cdd90686565991a2b905e2ac7bdc4afec78a00c7441e5",
+      "prompt": "ONE landscape1536x1024 native faithful reference product grid, EXACT3equalcolumns x2equalrows six512squarecells, NOgutters/borders/dividers/numbers. Toprow01entireproductpurewhite;02entireproductlavendercreamstyledstudio;03entireproductcreamvanitylavenderbedroomblur. Bottomrow04standalonetightmacro ONLYactualvisiblepartspecified NOTwholeassortment;05entireproduct withaccurateheading specified lavendercream;06blankcreamunused. Everyview whollyinsideowncell withmargin; no crossboundarycontent. Preserve exactoriginal foregroundassortmentcount/identity/colours/shapes/material/packaging and originalpairarrangement/occlusion. Remove hand/shop/oldpriceoverlay/backgroundinventory only; no inventedhiddenparts/newclaims/extra products/text exceptactualpackageprint+promoheading. Exact TWELVE glitter/sequin-square bow hairclips on SIX originalwhitecards TWO BOWS/card inside ONEclearrectangularbox, originaldiagonal2column3rowarrangement: row1leftYELLOWpair/rightBLACKpair;row2leftCHAMPAGNEpair/rightSILVERGREYpair;row3leftLIGHTPINKpair/rightREDpair. Preserve exact12bows sixcards, foldedloop/shorttailgeometry, matchingplain satincentreband/backfabrics and glittermesh frontloopswithsquare mirroredfoil pieces, sourcecolours/clearbox/overlap. Do not omitbow, duplicateunrelatedbackgroundpinkbows or inventbackmetalclips. Detail04 tightactualyellowbowcentreband andadjacentgold squarefoil/glittermesh LOOPsection ONLY, notwholeassortment. Promo05heading GLITTER BOW CLIPS withall12originalbows/sixcards.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-b08e70f5-60b7-49f4-b9b9-70a8e537d81f.png",
+      "prompt": "ONE landscape1536x1024 native faithful reference product grid, EXACT3equalcolumns x2equalrows six512squarecells, NOgutters/borders/dividers/numbers. Toprow01entireproductpurewhite;02entireproductlavendercreamstyledstudio;03entireproductcreamvanitylavenderbedroomblur. Bottomrow04standalonetightmacro ONLYactualvisiblepartspecified NOTwholeassortment;05entireproduct withaccurateheading specified lavendercream;06blankcreamunused. Everyview whollyinsideowncell withmargin; no crossboundarycontent. Preserve exactoriginal foregroundassortmentcount/identity/colours/shapes/material/packaging and originalpairarrangement/occlusion. Remove hand/shop/oldpriceoverlay/backgroundinventory only; no inventedhiddenparts/newclaims/extra products/text exceptactualpackageprint+promoheading. Exact TWELVE glitter/sequin-square bow hairclips on SIX originalwhitecards TWO BOWS/card inside ONEclearrectangularbox, originaldiagonal2column3rowarrangement: row1leftYELLOWpair/rightBLACKpair;row2leftCHAMPAGNEpair/rightSILVERGREYpair;row3leftLIGHTPINKpair/rightREDpair. Preserve exact12bows sixcards, foldedloop/shorttailgeometry, matchingplain satincentreband/backfabrics and glittermesh frontloopswithsquare mirroredfoil pieces, sourcecolours/clearbox/overlap. Do not omitbow, duplicateunrelatedbackgroundpinkbows or inventbackmetalclips. Detail04 tightactualyellowbowcentreband andadjacentgold squarefoil/glittermesh LOOPsection ONLY, notwholeassortment. Promo05heading GLITTER BOW CLIPS withall12originalbows/sixcards.",
+      "sha256": "d18277708c2263b5d013b7f63bee7ce8c2018416aac53c5e5c3ddf1d940c9d98",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-b08e70f5-60b7-49f4-b9b9-70a8e537d81f.png",
+      "grid_sha256": "22c28a2adf5dc230793cdd90686565991a2b905e2ac7bdc4afec78a00c7441e5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Compared actualoriginal/grid/individual512crop:12squarefoil/glitterbowclips on6cards/twobows each, originalyellow/black,champagne/silver,pink/red pairedlayout/cardbox retained. Macroactualyellowfabriccentre/foilmesh, fullviews12bows/correctstyles/cleanboundaries/accurateheading. Minor sequins/cardprint variation accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-b08e70f5-60b7-49f4-b9b9-70a8e537d81f.png",
+      "prompt": "ONE landscape1536x1024 native faithful reference product grid, EXACT3equalcolumns x2equalrows six512squarecells, NOgutters/borders/dividers/numbers. Toprow01entireproductpurewhite;02entireproductlavendercreamstyledstudio;03entireproductcreamvanitylavenderbedroomblur. Bottomrow04standalonetightmacro ONLYactualvisiblepartspecified NOTwholeassortment;05entireproduct withaccurateheading specified lavendercream;06blankcreamunused. Everyview whollyinsideowncell withmargin; no crossboundarycontent. Preserve exactoriginal foregroundassortmentcount/identity/colours/shapes/material/packaging and originalpairarrangement/occlusion. Remove hand/shop/oldpriceoverlay/backgroundinventory only; no inventedhiddenparts/newclaims/extra products/text exceptactualpackageprint+promoheading. Exact TWELVE glitter/sequin-square bow hairclips on SIX originalwhitecards TWO BOWS/card inside ONEclearrectangularbox, originaldiagonal2column3rowarrangement: row1leftYELLOWpair/rightBLACKpair;row2leftCHAMPAGNEpair/rightSILVERGREYpair;row3leftLIGHTPINKpair/rightREDpair. Preserve exact12bows sixcards, foldedloop/shorttailgeometry, matchingplain satincentreband/backfabrics and glittermesh frontloopswithsquare mirroredfoil pieces, sourcecolours/clearbox/overlap. Do not omitbow, duplicateunrelatedbackgroundpinkbows or inventbackmetalclips. Detail04 tightactualyellowbowcentreband andadjacentgold squarefoil/glittermesh LOOPsection ONLY, notwholeassortment. Promo05heading GLITTER BOW CLIPS withall12originalbows/sixcards.",
+      "sha256": "efcba1dd61d920b4f20892cbb18089345cfe4e63d7b733d21ec1bb08453322b5",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-b08e70f5-60b7-49f4-b9b9-70a8e537d81f.png",
+      "grid_sha256": "22c28a2adf5dc230793cdd90686565991a2b905e2ac7bdc4afec78a00c7441e5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Compared actualoriginal/grid/individual512crop:12squarefoil/glitterbowclips on6cards/twobows each, originalyellow/black,champagne/silver,pink/red pairedlayout/cardbox retained. Macroactualyellowfabriccentre/foilmesh, fullviews12bows/correctstyles/cleanboundaries/accurateheading. Minor sequins/cardprint variation accepted."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-b08e70f5-60b7-49f4-b9b9-70a8e537d81f.png",
+      "prompt": "ONE landscape1536x1024 native faithful reference product grid, EXACT3equalcolumns x2equalrows six512squarecells, NOgutters/borders/dividers/numbers. Toprow01entireproductpurewhite;02entireproductlavendercreamstyledstudio;03entireproductcreamvanitylavenderbedroomblur. Bottomrow04standalonetightmacro ONLYactualvisiblepartspecified NOTwholeassortment;05entireproduct withaccurateheading specified lavendercream;06blankcreamunused. Everyview whollyinsideowncell withmargin; no crossboundarycontent. Preserve exactoriginal foregroundassortmentcount/identity/colours/shapes/material/packaging and originalpairarrangement/occlusion. Remove hand/shop/oldpriceoverlay/backgroundinventory only; no inventedhiddenparts/newclaims/extra products/text exceptactualpackageprint+promoheading. Exact TWELVE glitter/sequin-square bow hairclips on SIX originalwhitecards TWO BOWS/card inside ONEclearrectangularbox, originaldiagonal2column3rowarrangement: row1leftYELLOWpair/rightBLACKpair;row2leftCHAMPAGNEpair/rightSILVERGREYpair;row3leftLIGHTPINKpair/rightREDpair. Preserve exact12bows sixcards, foldedloop/shorttailgeometry, matchingplain satincentreband/backfabrics and glittermesh frontloopswithsquare mirroredfoil pieces, sourcecolours/clearbox/overlap. Do not omitbow, duplicateunrelatedbackgroundpinkbows or inventbackmetalclips. Detail04 tightactualyellowbowcentreband andadjacentgold squarefoil/glittermesh LOOPsection ONLY, notwholeassortment. Promo05heading GLITTER BOW CLIPS withall12originalbows/sixcards.",
+      "sha256": "aa85d7a44808d1f79b1438cbdc39fc2f544686fe02b7f4e1721b999a4f243787",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-b08e70f5-60b7-49f4-b9b9-70a8e537d81f.png",
+      "grid_sha256": "22c28a2adf5dc230793cdd90686565991a2b905e2ac7bdc4afec78a00c7441e5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Compared actualoriginal/grid/individual512crop:12squarefoil/glitterbowclips on6cards/twobows each, originalyellow/black,champagne/silver,pink/red pairedlayout/cardbox retained. Macroactualyellowfabriccentre/foilmesh, fullviews12bows/correctstyles/cleanboundaries/accurateheading. Minor sequins/cardprint variation accepted."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-b08e70f5-60b7-49f4-b9b9-70a8e537d81f.png",
+      "prompt": "ONE landscape1536x1024 native faithful reference product grid, EXACT3equalcolumns x2equalrows six512squarecells, NOgutters/borders/dividers/numbers. Toprow01entireproductpurewhite;02entireproductlavendercreamstyledstudio;03entireproductcreamvanitylavenderbedroomblur. Bottomrow04standalonetightmacro ONLYactualvisiblepartspecified NOTwholeassortment;05entireproduct withaccurateheading specified lavendercream;06blankcreamunused. Everyview whollyinsideowncell withmargin; no crossboundarycontent. Preserve exactoriginal foregroundassortmentcount/identity/colours/shapes/material/packaging and originalpairarrangement/occlusion. Remove hand/shop/oldpriceoverlay/backgroundinventory only; no inventedhiddenparts/newclaims/extra products/text exceptactualpackageprint+promoheading. Exact TWELVE glitter/sequin-square bow hairclips on SIX originalwhitecards TWO BOWS/card inside ONEclearrectangularbox, originaldiagonal2column3rowarrangement: row1leftYELLOWpair/rightBLACKpair;row2leftCHAMPAGNEpair/rightSILVERGREYpair;row3leftLIGHTPINKpair/rightREDpair. Preserve exact12bows sixcards, foldedloop/shorttailgeometry, matchingplain satincentreband/backfabrics and glittermesh frontloopswithsquare mirroredfoil pieces, sourcecolours/clearbox/overlap. Do not omitbow, duplicateunrelatedbackgroundpinkbows or inventbackmetalclips. Detail04 tightactualyellowbowcentreband andadjacentgold squarefoil/glittermesh LOOPsection ONLY, notwholeassortment. Promo05heading GLITTER BOW CLIPS withall12originalbows/sixcards.",
+      "sha256": "5ce4cbbbdd010918de736c4641d42f371bbd78e416d017a2220ac254c7245d33",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-b08e70f5-60b7-49f4-b9b9-70a8e537d81f.png",
+      "grid_sha256": "22c28a2adf5dc230793cdd90686565991a2b905e2ac7bdc4afec78a00c7441e5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Compared actualoriginal/grid/individual512crop:12squarefoil/glitterbowclips on6cards/twobows each, originalyellow/black,champagne/silver,pink/red pairedlayout/cardbox retained. Macroactualyellowfabriccentre/foilmesh, fullviews12bows/correctstyles/cleanboundaries/accurateheading. Minor sequins/cardprint variation accepted."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-b08e70f5-60b7-49f4-b9b9-70a8e537d81f.png",
+      "prompt": "ONE landscape1536x1024 native faithful reference product grid, EXACT3equalcolumns x2equalrows six512squarecells, NOgutters/borders/dividers/numbers. Toprow01entireproductpurewhite;02entireproductlavendercreamstyledstudio;03entireproductcreamvanitylavenderbedroomblur. Bottomrow04standalonetightmacro ONLYactualvisiblepartspecified NOTwholeassortment;05entireproduct withaccurateheading specified lavendercream;06blankcreamunused. Everyview whollyinsideowncell withmargin; no crossboundarycontent. Preserve exactoriginal foregroundassortmentcount/identity/colours/shapes/material/packaging and originalpairarrangement/occlusion. Remove hand/shop/oldpriceoverlay/backgroundinventory only; no inventedhiddenparts/newclaims/extra products/text exceptactualpackageprint+promoheading. Exact TWELVE glitter/sequin-square bow hairclips on SIX originalwhitecards TWO BOWS/card inside ONEclearrectangularbox, originaldiagonal2column3rowarrangement: row1leftYELLOWpair/rightBLACKpair;row2leftCHAMPAGNEpair/rightSILVERGREYpair;row3leftLIGHTPINKpair/rightREDpair. Preserve exact12bows sixcards, foldedloop/shorttailgeometry, matchingplain satincentreband/backfabrics and glittermesh frontloopswithsquare mirroredfoil pieces, sourcecolours/clearbox/overlap. Do not omitbow, duplicateunrelatedbackgroundpinkbows or inventbackmetalclips. Detail04 tightactualyellowbowcentreband andadjacentgold squarefoil/glittermesh LOOPsection ONLY, notwholeassortment. Promo05heading GLITTER BOW CLIPS withall12originalbows/sixcards.",
+      "sha256": "6e9de37b657251dbbb077e40992b51cdb6858338c5ad99097ab73c2f10d45ec1",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-b08e70f5-60b7-49f4-b9b9-70a8e537d81f.png",
+      "grid_sha256": "22c28a2adf5dc230793cdd90686565991a2b905e2ac7bdc4afec78a00c7441e5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Compared actualoriginal/grid/individual512crop:12squarefoil/glitterbowclips on6cards/twobows each, originalyellow/black,champagne/silver,pink/red pairedlayout/cardbox retained. Macroactualyellowfabriccentre/foilmesh, fullviews12bows/correctstyles/cleanboundaries/accurateheading. Minor sequins/cardprint variation accepted."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "plan_original_hashes_verified": true,
+  "actual_subject": "Twelve glitter square-foil bow hair clips on six cards"
+}

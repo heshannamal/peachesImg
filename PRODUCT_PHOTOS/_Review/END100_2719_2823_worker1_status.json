@@ -16,14 +16,22 @@
   "saved_checked_images": 60,
   "active_products": 0,
   "inflight_calls": 0,
-  "status": "pair_complete",
+  "status": "pair_finished_one_review_needed",
   "originals_unchanged": true,
   "current_product_ids": [
-    "2749",
-    "2748"
+    "2738",
+    "2737"
   ],
   "new_images_saved_this_pair": 10,
-  "checked_images_this_pair": 10,
+  "checked_images_this_pair": 6,
   "in_flight": 0,
-  "review": "Allactualcrops reviewed; originals/outputSHAverified."
+  "review": "Allactualcrops reviewed; originals/outputSHAverified.",
+  "review_needed": {
+    "2737": [
+      "01_White-Background",
+      "02_Styled-Background",
+      "03_Lifestyle",
+      "05_Promotional"
+    ]
+  }
 }

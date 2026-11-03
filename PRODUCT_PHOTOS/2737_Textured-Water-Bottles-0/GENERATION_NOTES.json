@@ -82,7 +82,7 @@
       "source_output": "/workspace/generated_images/exec-77186c05-c959-4c79-bce5-56739c36bdae.png",
       "prompt": "Faithful reference edit into ONE1536x1024LANDSCAPE contact sheet EXACT3equalcolumns TWOequalrows sixsquarecells, no gutters/borders/panellabels. Readingorder01WHITE fullassortment,02LAVENDER/CREAM fullassortment,03LIFESTYLE fullassortment on palecream kitchen counter,04STANDALONE TIGHT MACRO of actual bluebasketweave-textured bottlebody surface only,05PROMOTIONAL fullassortment heading TEXTURED BOTTLE SET,06BLANKcreamunused. Everyview inside owncell safemargins. Preserve EXACT FOUR tall tapered/bulging waist bottlebodies with original raised wovenbasket rib texture, original order BLUE,YELLOW,PALEPINK,IVORY. Preserve allfour samecream cylindricalcaps and cream cord wristloops tied at sourcevisible capattachments, exact sourcewhitecubeletter beads hanging on cords, their original visiblecounts/positions/knots/lettering. Keep source bottle silhouettes/proportions, woven texture pattern and pastelcolours, no smoothplain substitutions, no addedbottles, inventedhiddenbeads, extra loops/straps, open interiors or straws. Entire4bottleassortment ONEproduct. Remove shopcounter/marblewall and external450Rs overlay only. No invented capacity/temperature/material claims or extra text. Macroonly actual bluewoven ribbed surface, no newparts. Softrealistic lighting websitequality sufficient, nothing crossingcellboundaries.\n",
       "sha256": "2ebeb74ded1da4b5e2941e54d64efabb8e9fbb4b8983028d4aafadc27b119ca7",
-      "checked": false,
+      "checked": true,
       "generation_method": "native_five_style_grid_cropped",
       "grid_source_file": "Generation_Grids/exec-77186c05-c959-4c79-bce5-56739c36bdae.png",
       "grid_sha256": "5fb87c232b8585536c7eb4436b2e60af137f07eab3ce3ab506baad796e58e5b0",
@@ -95,7 +95,8 @@
         512,
         512,
         1024
-      ]
+      ],
+      "visual_review": "Source bluebottle closeup confirms actual woven rectangular rib structure; macro preserves parallel ridges and interleaving strips. Validoriginal-grid macro retained during correctiveattempt."
     },
     {
       "saved_file": "Rejected/grid1-05_Promotional.png",
@@ -145,7 +146,8 @@
         0,
         512,
         512
-      ]
+      ],
+      "visual_review": "AFTER ONE materialcorrective attempt, fullview still changes actual finely-ribbed rectangular basketweave into rounded oval/honeycomb raised bosses. Count4/colour/order preserved but materialidentity notfaithful; unchecked, doNOTretryagain automatically."
     },
     {
       "saved_file": "New/02_Styled-Background.png",
@@ -165,7 +167,8 @@
         0,
         1024,
         512
-      ]
+      ],
+      "visual_review": "AFTER ONE materialcorrective attempt, fullview still changes actual finely-ribbed rectangular basketweave into rounded oval/honeycomb raised bosses. Count4/colour/order preserved but materialidentity notfaithful; unchecked, doNOTretryagain automatically."
     },
     {
       "saved_file": "New/03_Lifestyle.png",
@@ -185,7 +188,8 @@
         0,
         1536,
         512
-      ]
+      ],
+      "visual_review": "AFTER ONE materialcorrective attempt, fullview still changes actual finely-ribbed rectangular basketweave into rounded oval/honeycomb raised bosses. Count4/colour/order preserved but materialidentity notfaithful; unchecked, doNOTretryagain automatically."
     },
     {
       "saved_file": "New/05_Promotional.png",
@@ -205,10 +209,11 @@
         512,
         1024,
         1024
-      ]
+      ],
+      "visual_review": "AFTER ONE materialcorrective attempt, fullview still changes actual finely-ribbed rectangular basketweave into rounded oval/honeycomb raised bosses. Count4/colour/order preserved but materialidentity notfaithful; unchecked, doNOTretryagain automatically."
     }
   ],
-  "status": "in_progress",
+  "status": "review_needed_fullviews_after_spent_corrective",
   "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
   "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
   "corrective_attempts": {
@@ -216,5 +221,6 @@
     "02_Styled-Background": 1,
     "03_Lifestyle": 1,
     "05_Promotional": 1
-  }
+  },
+  "plan_original_hashes_verified": true
 }

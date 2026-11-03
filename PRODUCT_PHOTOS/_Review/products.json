@@ -33486,9 +33486,9 @@
     "source_image_ids": [
       3076
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -33498,9 +33498,9 @@
     "source_image_ids": [
       3077
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -33512,45 +33512,51 @@
     ],
     "new_images": 0,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "blocked_moderation",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2751",
-    "folder": "2751_Heart-Pendant-Necklace-0",
+    "folder": "2751_Heart-Pendant-Necklace-1",
     "source_image_ids": [
       3079
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2752",
-    "folder": "2752_Dark-Star-Necklace-0",
+    "folder": "2752_Dark-Star-Necklace-1",
     "source_image_ids": [
       3080
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2753",
-    "folder": "2753_Light-Star-Necklace-0",
+    "folder": "2753_Light-Star-Necklace-1",
     "source_image_ids": [
       3081
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2754",
@@ -33580,27 +33586,31 @@
   },
   {
     "product_id": "2756",
-    "folder": "2756_Sun-Pendant-Necklace-0",
+    "folder": "2756_Sun-Pendant-Necklace-1",
     "source_image_ids": [
       3084
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2757",
-    "folder": "2757_Small-Cross-Necklace-0",
+    "folder": "2757_Small-Cross-Necklace-1",
     "source_image_ids": [
       3085
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2758",
@@ -33632,27 +33642,31 @@
   },
   {
     "product_id": "2760",
-    "folder": "2760_Flower-Pendant-Necklace-0",
+    "folder": "2760_Flower-Pendant-Necklace-1",
     "source_image_ids": [
       3088
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2761",
-    "folder": "2761_Fogg-Body-Spray-Assortment-0",
+    "folder": "2761_Fogg-Body-Spray-Assortment-1",
     "source_image_ids": [
       3089
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2762",

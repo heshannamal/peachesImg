@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261005-WA0364.jpg": "72685d2e69f83868c4a69006a7a26c202bfda5080e77fd18841ff3d75b002395"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-e3990d9f-b73c-43be-9993-4749451e7f43.png",
+      "source_output": "/workspace/generated_images/exec-e3990d9f-b73c-43be-9993-4749451e7f43.png",
+      "sha256": "3a9f1a3dec7c7db6483afac0c37cb50799b712ccbfd00f70cefbe46b903ec83f",
+      "prompt": "Faithful edit of original into ONE landscape1536x1024 grid EXACT3equalcolumns x2equalrows, no gutters/borders/panellabels, eachtile512square independentlyframed. ONE delicate gold-tone oval-link chain necklace with ONE WHITE butterfly-silhouette pendant: FOUR curved wings, fine dark edge and goldrim, preserve source asymmetricupperlonger/lower smaller wing proportions, no extra petals/body/charms. Original white card/clear sleeve retained. Mainidentity/count/shape/colour/visibleprint unchanged, no invented hiddenback/clasp. Remove hand/shop/externalprice/material/warrantyclaimoverlays only; no addedclaims. Originalfrontview fullONEnecklace/card fullywithin margins in fullviews. TOPLEFT01 white seamless softshadow. TOPMIDDLE02 lavendercream styled studio. TOPRIGHT03 cream dressingtable lifestyle softlyblurredlavenderroom no extra jewellery. BOTTOMLEFT04 tightmacroONLYactualwhitewingedge/darkoutline/goldrim and adjoiningvisiblegoldchain, no invented parts. BOTTOMMIDDLE05 fullsameoneproduct onlavendercream withsmallheading BUTTERFLY PENDANT NECKLACE only, no price/claims. BOTTOMRIGHT06 blankunusedcream. Preserve allsourceactual pendantgeometry and goldlinkchain, no redesign.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-e3990d9f-b73c-43be-9993-4749451e7f43.png",
+      "prompt": "Faithful edit of original into ONE landscape1536x1024 grid EXACT3equalcolumns x2equalrows, no gutters/borders/panellabels, eachtile512square independentlyframed. ONE delicate gold-tone oval-link chain necklace with ONE WHITE butterfly-silhouette pendant: FOUR curved wings, fine dark edge and goldrim, preserve source asymmetricupperlonger/lower smaller wing proportions, no extra petals/body/charms. Original white card/clear sleeve retained. Mainidentity/count/shape/colour/visibleprint unchanged, no invented hiddenback/clasp. Remove hand/shop/externalprice/material/warrantyclaimoverlays only; no addedclaims. Originalfrontview fullONEnecklace/card fullywithin margins in fullviews. TOPLEFT01 white seamless softshadow. TOPMIDDLE02 lavendercream styled studio. TOPRIGHT03 cream dressingtable lifestyle softlyblurredlavenderroom no extra jewellery. BOTTOMLEFT04 tightmacroONLYactualwhitewingedge/darkoutline/goldrim and adjoiningvisiblegoldchain, no invented parts. BOTTOMMIDDLE05 fullsameoneproduct onlavendercream withsmallheading BUTTERFLY PENDANT NECKLACE only, no price/claims. BOTTOMRIGHT06 blankunusedcream. Preserve allsourceactual pendantgeometry and goldlinkchain, no redesign.",
+      "sha256": "a7f0208dd8225d7862b307d6417b715a9ccedf681eefa227fbfd3f9fd4042f76",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e3990d9f-b73c-43be-9993-4749451e7f43.png",
+      "grid_sha256": "3a9f1a3dec7c7db6483afac0c37cb50799b712ccbfd00f70cefbe46b903ec83f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual512crop compared with original: one delicate oval-link goldtone necklace and white four-wing butterfly silhouette with darkedge/goldrim retained on card/sleeve, full product within tile. External price/material/warranty overlay removed; no extra jewellery. Minor packaging typography accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-e3990d9f-b73c-43be-9993-4749451e7f43.png",
+      "prompt": "Faithful edit of original into ONE landscape1536x1024 grid EXACT3equalcolumns x2equalrows, no gutters/borders/panellabels, eachtile512square independentlyframed. ONE delicate gold-tone oval-link chain necklace with ONE WHITE butterfly-silhouette pendant: FOUR curved wings, fine dark edge and goldrim, preserve source asymmetricupperlonger/lower smaller wing proportions, no extra petals/body/charms. Original white card/clear sleeve retained. Mainidentity/count/shape/colour/visibleprint unchanged, no invented hiddenback/clasp. Remove hand/shop/externalprice/material/warrantyclaimoverlays only; no addedclaims. Originalfrontview fullONEnecklace/card fullywithin margins in fullviews. TOPLEFT01 white seamless softshadow. TOPMIDDLE02 lavendercream styled studio. TOPRIGHT03 cream dressingtable lifestyle softlyblurredlavenderroom no extra jewellery. BOTTOMLEFT04 tightmacroONLYactualwhitewingedge/darkoutline/goldrim and adjoiningvisiblegoldchain, no invented parts. BOTTOMMIDDLE05 fullsameoneproduct onlavendercream withsmallheading BUTTERFLY PENDANT NECKLACE only, no price/claims. BOTTOMRIGHT06 blankunusedcream. Preserve allsourceactual pendantgeometry and goldlinkchain, no redesign.",
+      "sha256": "e194ba5856c25cca10f7fa5a22f4dc6e3e698fe2f7240e01fc9ae88b9a9b8b58",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e3990d9f-b73c-43be-9993-4749451e7f43.png",
+      "grid_sha256": "3a9f1a3dec7c7db6483afac0c37cb50799b712ccbfd00f70cefbe46b903ec83f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "One same packaged butterfly necklace fullyframed on lavendercream styledbackground, correctcount1/mainshape/colour, crop no neighbouringpanel content."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-e3990d9f-b73c-43be-9993-4749451e7f43.png",
+      "prompt": "Faithful edit of original into ONE landscape1536x1024 grid EXACT3equalcolumns x2equalrows, no gutters/borders/panellabels, eachtile512square independentlyframed. ONE delicate gold-tone oval-link chain necklace with ONE WHITE butterfly-silhouette pendant: FOUR curved wings, fine dark edge and goldrim, preserve source asymmetricupperlonger/lower smaller wing proportions, no extra petals/body/charms. Original white card/clear sleeve retained. Mainidentity/count/shape/colour/visibleprint unchanged, no invented hiddenback/clasp. Remove hand/shop/externalprice/material/warrantyclaimoverlays only; no addedclaims. Originalfrontview fullONEnecklace/card fullywithin margins in fullviews. TOPLEFT01 white seamless softshadow. TOPMIDDLE02 lavendercream styled studio. TOPRIGHT03 cream dressingtable lifestyle softlyblurredlavenderroom no extra jewellery. BOTTOMLEFT04 tightmacroONLYactualwhitewingedge/darkoutline/goldrim and adjoiningvisiblegoldchain, no invented parts. BOTTOMMIDDLE05 fullsameoneproduct onlavendercream withsmallheading BUTTERFLY PENDANT NECKLACE only, no price/claims. BOTTOMRIGHT06 blankunusedcream. Preserve allsourceactual pendantgeometry and goldlinkchain, no redesign.",
+      "sha256": "ea94e8fab0a6f30f3065f760104acaaa4018a78d8a403787e7d110e7799aee4a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e3990d9f-b73c-43be-9993-4749451e7f43.png",
+      "grid_sha256": "3a9f1a3dec7c7db6483afac0c37cb50799b712ccbfd00f70cefbe46b903ec83f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "One same packaged butterfly necklace on cream dressingtable lavenderroom; main white four-wing pendant and oval-linkgoldchain preserved, no extra jewellery."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-e3990d9f-b73c-43be-9993-4749451e7f43.png",
+      "prompt": "Faithful edit of original into ONE landscape1536x1024 grid EXACT3equalcolumns x2equalrows, no gutters/borders/panellabels, eachtile512square independentlyframed. ONE delicate gold-tone oval-link chain necklace with ONE WHITE butterfly-silhouette pendant: FOUR curved wings, fine dark edge and goldrim, preserve source asymmetricupperlonger/lower smaller wing proportions, no extra petals/body/charms. Original white card/clear sleeve retained. Mainidentity/count/shape/colour/visibleprint unchanged, no invented hiddenback/clasp. Remove hand/shop/externalprice/material/warrantyclaimoverlays only; no addedclaims. Originalfrontview fullONEnecklace/card fullywithin margins in fullviews. TOPLEFT01 white seamless softshadow. TOPMIDDLE02 lavendercream styled studio. TOPRIGHT03 cream dressingtable lifestyle softlyblurredlavenderroom no extra jewellery. BOTTOMLEFT04 tightmacroONLYactualwhitewingedge/darkoutline/goldrim and adjoiningvisiblegoldchain, no invented parts. BOTTOMMIDDLE05 fullsameoneproduct onlavendercream withsmallheading BUTTERFLY PENDANT NECKLACE only, no price/claims. BOTTOMRIGHT06 blankunusedcream. Preserve allsourceactual pendantgeometry and goldlinkchain, no redesign.",
+      "sha256": "69102ec9408a120b5d5170cf53267950b29def30b43aeb135b5af01d27e832e2",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e3990d9f-b73c-43be-9993-4749451e7f43.png",
+      "grid_sha256": "3a9f1a3dec7c7db6483afac0c37cb50799b712ccbfd00f70cefbe46b903ec83f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Tight realpartmacro of visible white four-wing pendant, dark edge/goldrim and adjoiningovalchain. Main original asymmetric wing outline and source colours preserved; small connector/edge proportions vary slightly, accepted website-ready cosmetic variation."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-e3990d9f-b73c-43be-9993-4749451e7f43.png",
+      "prompt": "Faithful edit of original into ONE landscape1536x1024 grid EXACT3equalcolumns x2equalrows, no gutters/borders/panellabels, eachtile512square independentlyframed. ONE delicate gold-tone oval-link chain necklace with ONE WHITE butterfly-silhouette pendant: FOUR curved wings, fine dark edge and goldrim, preserve source asymmetricupperlonger/lower smaller wing proportions, no extra petals/body/charms. Original white card/clear sleeve retained. Mainidentity/count/shape/colour/visibleprint unchanged, no invented hiddenback/clasp. Remove hand/shop/externalprice/material/warrantyclaimoverlays only; no addedclaims. Originalfrontview fullONEnecklace/card fullywithin margins in fullviews. TOPLEFT01 white seamless softshadow. TOPMIDDLE02 lavendercream styled studio. TOPRIGHT03 cream dressingtable lifestyle softlyblurredlavenderroom no extra jewellery. BOTTOMLEFT04 tightmacroONLYactualwhitewingedge/darkoutline/goldrim and adjoiningvisiblegoldchain, no invented parts. BOTTOMMIDDLE05 fullsameoneproduct onlavendercream withsmallheading BUTTERFLY PENDANT NECKLACE only, no price/claims. BOTTOMRIGHT06 blankunusedcream. Preserve allsourceactual pendantgeometry and goldlinkchain, no redesign.",
+      "sha256": "fb45ccb982f41e43a3a2a9e0deb8cbd18ca41a5b97ec0fde92cf3191371da0ca",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e3990d9f-b73c-43be-9993-4749451e7f43.png",
+      "grid_sha256": "3a9f1a3dec7c7db6483afac0c37cb50799b712ccbfd00f70cefbe46b903ec83f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "One same product fullyframed with accurate BUTTERFLY PENDANT NECKLACE heading; clean512crop, no price or addedqualityclaims."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "One white butterfly-silhouette pendant necklace, not heart",
+  "original_baseline_verified": true
+}

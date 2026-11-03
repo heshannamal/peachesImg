@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261005-WA0368.jpg": "e7918d32f16ba245bb4c8ccb5ab77d6f2c6a9e600ca84af5250a5e3b803b5ab4"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-3b02ed00-f5c4-4d4e-9a60-b12bca532f9b.png",
+      "source_output": "/workspace/generated_images/exec-3b02ed00-f5c4-4d4e-9a60-b12bca532f9b.png",
+      "sha256": "421227c7bdc95e166843a8db2b5f00a89d8d48953de3992fb70f8022c3ff458c",
+      "prompt": "Faithful product reference edit into ONE LANDSCAPE1536x1024 image consisting EXACTLY THREEequalcolumns and TWOequalrows, each512x512, NOgutters/borders/panellabels. Keep every view completely inside its cell with margins. Reading order: topLEFT01 purewhite seamless full product; topMIDDLE02 lavender/cream styled full product; topRIGHT03 cream dressingtable lifestyle full product; bottomLEFT04 standalone tightmacro ONLY actual visible pendant part, not fullproduct; bottomMIDDLE05 lavender/cream promotional fullproduct with accurate heading; bottomRIGHT06 BLANKunusedcream. Preserve original visible identity/count/shapes/material colours and white backingcard/clearpacket in all fullviews, no invented hidden jewellery, no added items or material/warranty claims. Remove hand/shop/price and external warranty overlay only. Website-ready realistic clear lighting and soft shadows. Actual exact ONE finegold-tone chain necklace and ONE five-rounded-petal WHITE ivory shell-infilled flower pendant with thin gold outlines on original long white card in clearbag. NOT astar; five petals and goldcentraljunction preserved, exact oval chainlink structure and hangingchainshape. Keep same front view, no opening or rear/clasp invention. Detail cell: tightcrop whitepetal/goldrim/centraljunction visible inoriginal ONLY. Promotional heading FLOWER PENDANT NECKLACE.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-3b02ed00-f5c4-4d4e-9a60-b12bca532f9b.png",
+      "prompt": "Faithful product reference edit into ONE LANDSCAPE1536x1024 image consisting EXACTLY THREEequalcolumns and TWOequalrows, each512x512, NOgutters/borders/panellabels. Keep every view completely inside its cell with margins. Reading order: topLEFT01 purewhite seamless full product; topMIDDLE02 lavender/cream styled full product; topRIGHT03 cream dressingtable lifestyle full product; bottomLEFT04 standalone tightmacro ONLY actual visible pendant part, not fullproduct; bottomMIDDLE05 lavender/cream promotional fullproduct with accurate heading; bottomRIGHT06 BLANKunusedcream. Preserve original visible identity/count/shapes/material colours and white backingcard/clearpacket in all fullviews, no invented hidden jewellery, no added items or material/warranty claims. Remove hand/shop/price and external warranty overlay only. Website-ready realistic clear lighting and soft shadows. Actual exact ONE finegold-tone chain necklace and ONE five-rounded-petal WHITE ivory shell-infilled flower pendant with thin gold outlines on original long white card in clearbag. NOT astar; five petals and goldcentraljunction preserved, exact oval chainlink structure and hangingchainshape. Keep same front view, no opening or rear/clasp invention. Detail cell: tightcrop whitepetal/goldrim/centraljunction visible inoriginal ONLY. Promotional heading FLOWER PENDANT NECKLACE.\n",
+      "sha256": "7537aa948f5a74b6785cc280c88e184c6f23406d573f7265ff6da7eb86554000",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3b02ed00-f5c4-4d4e-9a60-b12bca532f9b.png",
+      "grid_sha256": "421227c7bdc95e166843a8db2b5f00a89d8d48953de3992fb70f8022c3ff458c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual512crop comparedwithoriginal: ONE finegold-tonechain and five-white-petal goldrim flower pendant onoriginalcard; completecount, mainshapes/colour/chain/pack preserved. Real visiblependant macro and accurateheading, cleanboundaries; minor packaging typography accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-3b02ed00-f5c4-4d4e-9a60-b12bca532f9b.png",
+      "prompt": "Faithful product reference edit into ONE LANDSCAPE1536x1024 image consisting EXACTLY THREEequalcolumns and TWOequalrows, each512x512, NOgutters/borders/panellabels. Keep every view completely inside its cell with margins. Reading order: topLEFT01 purewhite seamless full product; topMIDDLE02 lavender/cream styled full product; topRIGHT03 cream dressingtable lifestyle full product; bottomLEFT04 standalone tightmacro ONLY actual visible pendant part, not fullproduct; bottomMIDDLE05 lavender/cream promotional fullproduct with accurate heading; bottomRIGHT06 BLANKunusedcream. Preserve original visible identity/count/shapes/material colours and white backingcard/clearpacket in all fullviews, no invented hidden jewellery, no added items or material/warranty claims. Remove hand/shop/price and external warranty overlay only. Website-ready realistic clear lighting and soft shadows. Actual exact ONE finegold-tone chain necklace and ONE five-rounded-petal WHITE ivory shell-infilled flower pendant with thin gold outlines on original long white card in clearbag. NOT astar; five petals and goldcentraljunction preserved, exact oval chainlink structure and hangingchainshape. Keep same front view, no opening or rear/clasp invention. Detail cell: tightcrop whitepetal/goldrim/centraljunction visible inoriginal ONLY. Promotional heading FLOWER PENDANT NECKLACE.\n",
+      "sha256": "1ba30d600bb0246f6971c14d22fa765245fd55cab6de00284b05bd16464368d0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3b02ed00-f5c4-4d4e-9a60-b12bca532f9b.png",
+      "grid_sha256": "421227c7bdc95e166843a8db2b5f00a89d8d48953de3992fb70f8022c3ff458c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual512crop comparedwithoriginal: ONE finegold-tonechain and five-white-petal goldrim flower pendant onoriginalcard; completecount, mainshapes/colour/chain/pack preserved. Real visiblependant macro and accurateheading, cleanboundaries; minor packaging typography accepted."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-3b02ed00-f5c4-4d4e-9a60-b12bca532f9b.png",
+      "prompt": "Faithful product reference edit into ONE LANDSCAPE1536x1024 image consisting EXACTLY THREEequalcolumns and TWOequalrows, each512x512, NOgutters/borders/panellabels. Keep every view completely inside its cell with margins. Reading order: topLEFT01 purewhite seamless full product; topMIDDLE02 lavender/cream styled full product; topRIGHT03 cream dressingtable lifestyle full product; bottomLEFT04 standalone tightmacro ONLY actual visible pendant part, not fullproduct; bottomMIDDLE05 lavender/cream promotional fullproduct with accurate heading; bottomRIGHT06 BLANKunusedcream. Preserve original visible identity/count/shapes/material colours and white backingcard/clearpacket in all fullviews, no invented hidden jewellery, no added items or material/warranty claims. Remove hand/shop/price and external warranty overlay only. Website-ready realistic clear lighting and soft shadows. Actual exact ONE finegold-tone chain necklace and ONE five-rounded-petal WHITE ivory shell-infilled flower pendant with thin gold outlines on original long white card in clearbag. NOT astar; five petals and goldcentraljunction preserved, exact oval chainlink structure and hangingchainshape. Keep same front view, no opening or rear/clasp invention. Detail cell: tightcrop whitepetal/goldrim/centraljunction visible inoriginal ONLY. Promotional heading FLOWER PENDANT NECKLACE.\n",
+      "sha256": "dc43f77014133d00b7e5ea7975110d924e6c696b261e197ca3b38e267ff1b843",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3b02ed00-f5c4-4d4e-9a60-b12bca532f9b.png",
+      "grid_sha256": "421227c7bdc95e166843a8db2b5f00a89d8d48953de3992fb70f8022c3ff458c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual512crop comparedwithoriginal: ONE finegold-tonechain and five-white-petal goldrim flower pendant onoriginalcard; completecount, mainshapes/colour/chain/pack preserved. Real visiblependant macro and accurateheading, cleanboundaries; minor packaging typography accepted."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-3b02ed00-f5c4-4d4e-9a60-b12bca532f9b.png",
+      "prompt": "Faithful product reference edit into ONE LANDSCAPE1536x1024 image consisting EXACTLY THREEequalcolumns and TWOequalrows, each512x512, NOgutters/borders/panellabels. Keep every view completely inside its cell with margins. Reading order: topLEFT01 purewhite seamless full product; topMIDDLE02 lavender/cream styled full product; topRIGHT03 cream dressingtable lifestyle full product; bottomLEFT04 standalone tightmacro ONLY actual visible pendant part, not fullproduct; bottomMIDDLE05 lavender/cream promotional fullproduct with accurate heading; bottomRIGHT06 BLANKunusedcream. Preserve original visible identity/count/shapes/material colours and white backingcard/clearpacket in all fullviews, no invented hidden jewellery, no added items or material/warranty claims. Remove hand/shop/price and external warranty overlay only. Website-ready realistic clear lighting and soft shadows. Actual exact ONE finegold-tone chain necklace and ONE five-rounded-petal WHITE ivory shell-infilled flower pendant with thin gold outlines on original long white card in clearbag. NOT astar; five petals and goldcentraljunction preserved, exact oval chainlink structure and hangingchainshape. Keep same front view, no opening or rear/clasp invention. Detail cell: tightcrop whitepetal/goldrim/centraljunction visible inoriginal ONLY. Promotional heading FLOWER PENDANT NECKLACE.\n",
+      "sha256": "a4791d71407c4af6a60434f51167c750fc00309598f1a4906f645f0607d09ed4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3b02ed00-f5c4-4d4e-9a60-b12bca532f9b.png",
+      "grid_sha256": "421227c7bdc95e166843a8db2b5f00a89d8d48953de3992fb70f8022c3ff458c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual512crop comparedwithoriginal: ONE finegold-tonechain and five-white-petal goldrim flower pendant onoriginalcard; completecount, mainshapes/colour/chain/pack preserved. Real visiblependant macro and accurateheading, cleanboundaries; minor packaging typography accepted."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-3b02ed00-f5c4-4d4e-9a60-b12bca532f9b.png",
+      "prompt": "Faithful product reference edit into ONE LANDSCAPE1536x1024 image consisting EXACTLY THREEequalcolumns and TWOequalrows, each512x512, NOgutters/borders/panellabels. Keep every view completely inside its cell with margins. Reading order: topLEFT01 purewhite seamless full product; topMIDDLE02 lavender/cream styled full product; topRIGHT03 cream dressingtable lifestyle full product; bottomLEFT04 standalone tightmacro ONLY actual visible pendant part, not fullproduct; bottomMIDDLE05 lavender/cream promotional fullproduct with accurate heading; bottomRIGHT06 BLANKunusedcream. Preserve original visible identity/count/shapes/material colours and white backingcard/clearpacket in all fullviews, no invented hidden jewellery, no added items or material/warranty claims. Remove hand/shop/price and external warranty overlay only. Website-ready realistic clear lighting and soft shadows. Actual exact ONE finegold-tone chain necklace and ONE five-rounded-petal WHITE ivory shell-infilled flower pendant with thin gold outlines on original long white card in clearbag. NOT astar; five petals and goldcentraljunction preserved, exact oval chainlink structure and hangingchainshape. Keep same front view, no opening or rear/clasp invention. Detail cell: tightcrop whitepetal/goldrim/centraljunction visible inoriginal ONLY. Promotional heading FLOWER PENDANT NECKLACE.\n",
+      "sha256": "6edd237f8a1ec72766f91f0eb3ad67eeaf335c3782f05aeccefd2498dc48c5d2",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3b02ed00-f5c4-4d4e-9a60-b12bca532f9b.png",
+      "grid_sha256": "421227c7bdc95e166843a8db2b5f00a89d8d48953de3992fb70f8022c3ff458c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual512crop comparedwithoriginal: ONE finegold-tonechain and five-white-petal goldrim flower pendant onoriginalcard; completecount, mainshapes/colour/chain/pack preserved. Real visiblependant macro and accurateheading, cleanboundaries; minor packaging typography accepted."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "plan_original_hashes_verified": true
+}

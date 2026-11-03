@@ -1,22 +1,15 @@
 {
   "worker": "end_worker2",
   "completed_this_resume": [
-    "2754"
+    "2754",
+    "2751"
   ],
   "blocked_this_resume": [
-    "2755"
+    "2755",
+    "2750"
   ],
   "active_products": [],
   "inflight_calls": 0,
   "workflow": "one_native_grid_cropped",
-  "blockers": [
-    {
-      "product_id": "2755",
-      "code": "moderation_blocked",
-      "stage": "output",
-      "category": "other",
-      "request_id": "5598dea2-7f99-4c1e-bc0f-37e46dd56f21",
-      "retry": "Skipped without retry"
-    }
-  ]
+  "skipped_without_retry": true
 }

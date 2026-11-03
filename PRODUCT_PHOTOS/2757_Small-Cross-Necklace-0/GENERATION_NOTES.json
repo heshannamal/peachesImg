@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261005-WA0378.jpg": "d63a843b242bcee238a9494aa206f836fea510db66fb5fc76244dad08134af2c"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-95edb048-ca73-48c6-aa4c-88e949914085.png",
+      "source_output": "/workspace/generated_images/exec-95edb048-ca73-48c6-aa4c-88e949914085.png",
+      "sha256": "2b745e3c8400831cd348a46ca6115479c5f651a50b79a120889395d8ae8863ff",
+      "prompt": "Create ONE landscape1536x1024 image, EXACT3equalcolumns by2equalrows, SIX square512tiles. No gutters, borders, panel labels or numbers. Each tile independent framed product photograph with generous margins, no content crosses tile edges. Reading order: top-left WHITE seamless full product; top-middle lavender/cream STYLED full product; top-right dressingtable LIFESTYLE full product; bottom-left standalone TIGHT MACRO crop of specified realpart ONLY; bottom-middle lavendercream PROMOTIONAL full product with exact short heading; bottom-right completely BLANK cream unused. Remove hand/shop/price/material/warranty overlaidclaims. Preserve actual original product identity, count, shape, gold colour, chain geometry and packaging, original frontview, no invented hiddenparts or extra jewellery. Keep actual package printed marks but add no material/quality claims. Websitequality sufficient. Actualreference is ONE goldtone HEART pendant necklace, notcross. Original fine oval-link chain has spaced roundgold beads and one smooth puffy heart pendant at bottom on same longwhite card inside clearbag. Preserve visible bead count/spacing, original diagonal card and necklace drape/occlusion. Fullviews include EXACT one complete original necklace/card/bag. Macro: tight crop of smooth heart and adjoining existing chain only. Promoheading HEART PENDANT NECKLACE.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-95edb048-ca73-48c6-aa4c-88e949914085.png",
+      "prompt": "Create ONE landscape1536x1024 image, EXACT3equalcolumns by2equalrows, SIX square512tiles. No gutters, borders, panel labels or numbers. Each tile independent framed product photograph with generous margins, no content crosses tile edges. Reading order: top-left WHITE seamless full product; top-middle lavender/cream STYLED full product; top-right dressingtable LIFESTYLE full product; bottom-left standalone TIGHT MACRO crop of specified realpart ONLY; bottom-middle lavendercream PROMOTIONAL full product with exact short heading; bottom-right completely BLANK cream unused. Remove hand/shop/price/material/warranty overlaidclaims. Preserve actual original product identity, count, shape, gold colour, chain geometry and packaging, original frontview, no invented hiddenparts or extra jewellery. Keep actual package printed marks but add no material/quality claims. Websitequality sufficient. Actualreference is ONE goldtone HEART pendant necklace, notcross. Original fine oval-link chain has spaced roundgold beads and one smooth puffy heart pendant at bottom on same longwhite card inside clearbag. Preserve visible bead count/spacing, original diagonal card and necklace drape/occlusion. Fullviews include EXACT one complete original necklace/card/bag. Macro: tight crop of smooth heart and adjoining existing chain only. Promoheading HEART PENDANT NECKLACE.",
+      "sha256": "90f82e3491db2ede1e0f2339d39d3b77a10cba0c90ee133f0adbcd52be461fcd",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-95edb048-ca73-48c6-aa4c-88e949914085.png",
+      "grid_sha256": "2b745e3c8400831cd348a46ca6115479c5f651a50b79a120889395d8ae8863ff",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-95edb048-ca73-48c6-aa4c-88e949914085.png",
+      "prompt": "Create ONE landscape1536x1024 image, EXACT3equalcolumns by2equalrows, SIX square512tiles. No gutters, borders, panel labels or numbers. Each tile independent framed product photograph with generous margins, no content crosses tile edges. Reading order: top-left WHITE seamless full product; top-middle lavender/cream STYLED full product; top-right dressingtable LIFESTYLE full product; bottom-left standalone TIGHT MACRO crop of specified realpart ONLY; bottom-middle lavendercream PROMOTIONAL full product with exact short heading; bottom-right completely BLANK cream unused. Remove hand/shop/price/material/warranty overlaidclaims. Preserve actual original product identity, count, shape, gold colour, chain geometry and packaging, original frontview, no invented hiddenparts or extra jewellery. Keep actual package printed marks but add no material/quality claims. Websitequality sufficient. Actualreference is ONE goldtone HEART pendant necklace, notcross. Original fine oval-link chain has spaced roundgold beads and one smooth puffy heart pendant at bottom on same longwhite card inside clearbag. Preserve visible bead count/spacing, original diagonal card and necklace drape/occlusion. Fullviews include EXACT one complete original necklace/card/bag. Macro: tight crop of smooth heart and adjoining existing chain only. Promoheading HEART PENDANT NECKLACE.",
+      "sha256": "fef9bf3c7447eb6ec0dfcd5f849d04d91f83380a01b275497046442cc9c5d789",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-95edb048-ca73-48c6-aa4c-88e949914085.png",
+      "grid_sha256": "2b745e3c8400831cd348a46ca6115479c5f651a50b79a120889395d8ae8863ff",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-95edb048-ca73-48c6-aa4c-88e949914085.png",
+      "prompt": "Create ONE landscape1536x1024 image, EXACT3equalcolumns by2equalrows, SIX square512tiles. No gutters, borders, panel labels or numbers. Each tile independent framed product photograph with generous margins, no content crosses tile edges. Reading order: top-left WHITE seamless full product; top-middle lavender/cream STYLED full product; top-right dressingtable LIFESTYLE full product; bottom-left standalone TIGHT MACRO crop of specified realpart ONLY; bottom-middle lavendercream PROMOTIONAL full product with exact short heading; bottom-right completely BLANK cream unused. Remove hand/shop/price/material/warranty overlaidclaims. Preserve actual original product identity, count, shape, gold colour, chain geometry and packaging, original frontview, no invented hiddenparts or extra jewellery. Keep actual package printed marks but add no material/quality claims. Websitequality sufficient. Actualreference is ONE goldtone HEART pendant necklace, notcross. Original fine oval-link chain has spaced roundgold beads and one smooth puffy heart pendant at bottom on same longwhite card inside clearbag. Preserve visible bead count/spacing, original diagonal card and necklace drape/occlusion. Fullviews include EXACT one complete original necklace/card/bag. Macro: tight crop of smooth heart and adjoining existing chain only. Promoheading HEART PENDANT NECKLACE.",
+      "sha256": "47b6970068e440c74243e49a0744be68a474176d87f1fb74d0bc6d0a49bc6bb8",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-95edb048-ca73-48c6-aa4c-88e949914085.png",
+      "grid_sha256": "2b745e3c8400831cd348a46ca6115479c5f651a50b79a120889395d8ae8863ff",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-95edb048-ca73-48c6-aa4c-88e949914085.png",
+      "prompt": "Create ONE landscape1536x1024 image, EXACT3equalcolumns by2equalrows, SIX square512tiles. No gutters, borders, panel labels or numbers. Each tile independent framed product photograph with generous margins, no content crosses tile edges. Reading order: top-left WHITE seamless full product; top-middle lavender/cream STYLED full product; top-right dressingtable LIFESTYLE full product; bottom-left standalone TIGHT MACRO crop of specified realpart ONLY; bottom-middle lavendercream PROMOTIONAL full product with exact short heading; bottom-right completely BLANK cream unused. Remove hand/shop/price/material/warranty overlaidclaims. Preserve actual original product identity, count, shape, gold colour, chain geometry and packaging, original frontview, no invented hiddenparts or extra jewellery. Keep actual package printed marks but add no material/quality claims. Websitequality sufficient. Actualreference is ONE goldtone HEART pendant necklace, notcross. Original fine oval-link chain has spaced roundgold beads and one smooth puffy heart pendant at bottom on same longwhite card inside clearbag. Preserve visible bead count/spacing, original diagonal card and necklace drape/occlusion. Fullviews include EXACT one complete original necklace/card/bag. Macro: tight crop of smooth heart and adjoining existing chain only. Promoheading HEART PENDANT NECKLACE.",
+      "sha256": "f8967fbf31602a81eb5d34ece73cadfed578666a4dd6164aa57069bb376694f1",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-95edb048-ca73-48c6-aa4c-88e949914085.png",
+      "grid_sha256": "2b745e3c8400831cd348a46ca6115479c5f651a50b79a120889395d8ae8863ff",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-95edb048-ca73-48c6-aa4c-88e949914085.png",
+      "prompt": "Create ONE landscape1536x1024 image, EXACT3equalcolumns by2equalrows, SIX square512tiles. No gutters, borders, panel labels or numbers. Each tile independent framed product photograph with generous margins, no content crosses tile edges. Reading order: top-left WHITE seamless full product; top-middle lavender/cream STYLED full product; top-right dressingtable LIFESTYLE full product; bottom-left standalone TIGHT MACRO crop of specified realpart ONLY; bottom-middle lavendercream PROMOTIONAL full product with exact short heading; bottom-right completely BLANK cream unused. Remove hand/shop/price/material/warranty overlaidclaims. Preserve actual original product identity, count, shape, gold colour, chain geometry and packaging, original frontview, no invented hiddenparts or extra jewellery. Keep actual package printed marks but add no material/quality claims. Websitequality sufficient. Actualreference is ONE goldtone HEART pendant necklace, notcross. Original fine oval-link chain has spaced roundgold beads and one smooth puffy heart pendant at bottom on same longwhite card inside clearbag. Preserve visible bead count/spacing, original diagonal card and necklace drape/occlusion. Fullviews include EXACT one complete original necklace/card/bag. Macro: tight crop of smooth heart and adjoining existing chain only. Promoheading HEART PENDANT NECKLACE.",
+      "sha256": "abb9f7f180f1bc91561fdb1fc86204b01c59d25d682a9edbfe93390f366b3284",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-95edb048-ca73-48c6-aa4c-88e949914085.png",
+      "grid_sha256": "2b745e3c8400831cd348a46ca6115479c5f651a50b79a120889395d8ae8863ff",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

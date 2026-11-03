@@ -1,30 +1,22 @@
 {
-  "assigned": [
-    "2773",
-    "2772"
+  "worker": "end_worker2",
+  "completed_this_resume": [
+    "2754"
   ],
-  "status": "pair_reviewed_zero_inflight",
-  "completed": [
-    "2821",
-    "2820",
-    "2809",
-    "2808",
-    "2799",
-    "2798",
-    "2783",
-    "2782",
-    "2772"
+  "blocked_this_resume": [
+    "2755"
   ],
-  "inflight": 0,
   "active_products": [],
-  "last_pair_correctives": {
-    "2799": "02 once passed",
-    "2798": "02 once passed"
-  },
-  "updated_at": "2026-11-02T17:54:35.991467+00:00",
-  "review_needed": {
-    "2773": [
-      "01_White-Background.png"
-    ]
-  }
+  "inflight_calls": 0,
+  "workflow": "one_native_grid_cropped",
+  "blockers": [
+    {
+      "product_id": "2755",
+      "code": "moderation_blocked",
+      "stage": "output",
+      "category": "other",
+      "request_id": "5598dea2-7f99-4c1e-bc0f-37e46dd56f21",
+      "retry": "Skipped without retry"
+    }
+  ]
 }

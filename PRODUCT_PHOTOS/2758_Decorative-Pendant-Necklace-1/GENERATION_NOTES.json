@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261005-WA0380.jpg": "ba19fc409e90fb560b68e8cd76e0b19ddc8a4f5871c28393bf88f3fac105705c"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-e2cdf03f-f306-4fdd-b00c-36b68aaa93df.png",
+      "source_output": "/workspace/generated_images/exec-e2cdf03f-f306-4fdd-b00c-36b68aaa93df.png",
+      "sha256": "cc578dde14decbfcaa4f955e70cd1df8edc2005bfdb12dab280d6580544cc3c0",
+      "prompt": "Edit reference into ONE website-ready1536x1024LANDSCAPE contact sheet EXACTLY THREE equalcolumns TWOequalrows, six512x512cells, NOgutters/borders/panelnumbers. Readingorder: top-left WHITE full product; top-middle LAVENDER/CREAM studio full product; top-right LIFESTYLE full product on cream dressingtable; bottom-left STANDALONE TIGHT MACRO of actual goldheart surface and chainjunction only; bottom-middle PROMOTIONAL full product accurateheading HEART PENDANT NECKLACE; bottom-right BLANK cream unused. Every view self-contained inside its cell with safe margin, objects must not cross cell boundaries. In EVERY full view preserve EXACT ONE original gold-tone smooth snake-chain necklace with ONE small rounded puffy heart pendant at bottom, source heart shape/asymmetric reflections, loop proportions, actual visible lobsterclasp/tinyloop near uppercard and chain position. Keep original longwhite backingcard and clearpackaging, exact visible original front orientation and overlaps. Do not add stones, extra hearts/necklaces, hidden backs or substitute chainlinks. Macro is only a tight actualvisible heart/chain part, no entire assortment. Remove hand/shop/oldprice and floating warranty/materialclaims overlay. No new benefit/warranty/authenticity/materialclaims. Realistic soft lighting, websitequality sufficient; preserve count, identity, main shape and colour.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-e2cdf03f-f306-4fdd-b00c-36b68aaa93df.png",
+      "prompt": "Edit reference into ONE website-ready1536x1024LANDSCAPE contact sheet EXACTLY THREE equalcolumns TWOequalrows, six512x512cells, NOgutters/borders/panelnumbers. Readingorder: top-left WHITE full product; top-middle LAVENDER/CREAM studio full product; top-right LIFESTYLE full product on cream dressingtable; bottom-left STANDALONE TIGHT MACRO of actual goldheart surface and chainjunction only; bottom-middle PROMOTIONAL full product accurateheading HEART PENDANT NECKLACE; bottom-right BLANK cream unused. Every view self-contained inside its cell with safe margin, objects must not cross cell boundaries. In EVERY full view preserve EXACT ONE original gold-tone smooth snake-chain necklace with ONE small rounded puffy heart pendant at bottom, source heart shape/asymmetric reflections, loop proportions, actual visible lobsterclasp/tinyloop near uppercard and chain position. Keep original longwhite backingcard and clearpackaging, exact visible original front orientation and overlaps. Do not add stones, extra hearts/necklaces, hidden backs or substitute chainlinks. Macro is only a tight actualvisible heart/chain part, no entire assortment. Remove hand/shop/oldprice and floating warranty/materialclaims overlay. No new benefit/warranty/authenticity/materialclaims. Realistic soft lighting, websitequality sufficient; preserve count, identity, main shape and colour.\n",
+      "sha256": "d97db44b8d6d3cb7d21e992665e27b2c8fe0ddc90beb4dd2b9c05c0dc9234650",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e2cdf03f-f306-4fdd-b00c-36b68aaa93df.png",
+      "grid_sha256": "cc578dde14decbfcaa4f955e70cd1df8edc2005bfdb12dab280d6580544cc3c0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Compared actual512crop and source: one gold snake-chain necklace, one rounded puffy heart pendant, source upper clasp/loop and card/clearpackage retained; macro is tight actualheart/chain region; clean crop boundaries and appropriate style/heading. Minor tiny packaging typography/reflection differences accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-e2cdf03f-f306-4fdd-b00c-36b68aaa93df.png",
+      "prompt": "Edit reference into ONE website-ready1536x1024LANDSCAPE contact sheet EXACTLY THREE equalcolumns TWOequalrows, six512x512cells, NOgutters/borders/panelnumbers. Readingorder: top-left WHITE full product; top-middle LAVENDER/CREAM studio full product; top-right LIFESTYLE full product on cream dressingtable; bottom-left STANDALONE TIGHT MACRO of actual goldheart surface and chainjunction only; bottom-middle PROMOTIONAL full product accurateheading HEART PENDANT NECKLACE; bottom-right BLANK cream unused. Every view self-contained inside its cell with safe margin, objects must not cross cell boundaries. In EVERY full view preserve EXACT ONE original gold-tone smooth snake-chain necklace with ONE small rounded puffy heart pendant at bottom, source heart shape/asymmetric reflections, loop proportions, actual visible lobsterclasp/tinyloop near uppercard and chain position. Keep original longwhite backingcard and clearpackaging, exact visible original front orientation and overlaps. Do not add stones, extra hearts/necklaces, hidden backs or substitute chainlinks. Macro is only a tight actualvisible heart/chain part, no entire assortment. Remove hand/shop/oldprice and floating warranty/materialclaims overlay. No new benefit/warranty/authenticity/materialclaims. Realistic soft lighting, websitequality sufficient; preserve count, identity, main shape and colour.\n",
+      "sha256": "2fff3052598ab5c14516ed9cac6c6f6bd8559d56627f030c03b4a5a08f7b203f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e2cdf03f-f306-4fdd-b00c-36b68aaa93df.png",
+      "grid_sha256": "cc578dde14decbfcaa4f955e70cd1df8edc2005bfdb12dab280d6580544cc3c0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Compared actual512crop and source: one gold snake-chain necklace, one rounded puffy heart pendant, source upper clasp/loop and card/clearpackage retained; macro is tight actualheart/chain region; clean crop boundaries and appropriate style/heading. Minor tiny packaging typography/reflection differences accepted."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-e2cdf03f-f306-4fdd-b00c-36b68aaa93df.png",
+      "prompt": "Edit reference into ONE website-ready1536x1024LANDSCAPE contact sheet EXACTLY THREE equalcolumns TWOequalrows, six512x512cells, NOgutters/borders/panelnumbers. Readingorder: top-left WHITE full product; top-middle LAVENDER/CREAM studio full product; top-right LIFESTYLE full product on cream dressingtable; bottom-left STANDALONE TIGHT MACRO of actual goldheart surface and chainjunction only; bottom-middle PROMOTIONAL full product accurateheading HEART PENDANT NECKLACE; bottom-right BLANK cream unused. Every view self-contained inside its cell with safe margin, objects must not cross cell boundaries. In EVERY full view preserve EXACT ONE original gold-tone smooth snake-chain necklace with ONE small rounded puffy heart pendant at bottom, source heart shape/asymmetric reflections, loop proportions, actual visible lobsterclasp/tinyloop near uppercard and chain position. Keep original longwhite backingcard and clearpackaging, exact visible original front orientation and overlaps. Do not add stones, extra hearts/necklaces, hidden backs or substitute chainlinks. Macro is only a tight actualvisible heart/chain part, no entire assortment. Remove hand/shop/oldprice and floating warranty/materialclaims overlay. No new benefit/warranty/authenticity/materialclaims. Realistic soft lighting, websitequality sufficient; preserve count, identity, main shape and colour.\n",
+      "sha256": "fb88151c6d0e18c0f5cbea1f89b711fb37d185d81d23a5790ab0cdb592d3e9eb",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e2cdf03f-f306-4fdd-b00c-36b68aaa93df.png",
+      "grid_sha256": "cc578dde14decbfcaa4f955e70cd1df8edc2005bfdb12dab280d6580544cc3c0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Compared actual512crop and source: one gold snake-chain necklace, one rounded puffy heart pendant, source upper clasp/loop and card/clearpackage retained; macro is tight actualheart/chain region; clean crop boundaries and appropriate style/heading. Minor tiny packaging typography/reflection differences accepted."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-e2cdf03f-f306-4fdd-b00c-36b68aaa93df.png",
+      "prompt": "Edit reference into ONE website-ready1536x1024LANDSCAPE contact sheet EXACTLY THREE equalcolumns TWOequalrows, six512x512cells, NOgutters/borders/panelnumbers. Readingorder: top-left WHITE full product; top-middle LAVENDER/CREAM studio full product; top-right LIFESTYLE full product on cream dressingtable; bottom-left STANDALONE TIGHT MACRO of actual goldheart surface and chainjunction only; bottom-middle PROMOTIONAL full product accurateheading HEART PENDANT NECKLACE; bottom-right BLANK cream unused. Every view self-contained inside its cell with safe margin, objects must not cross cell boundaries. In EVERY full view preserve EXACT ONE original gold-tone smooth snake-chain necklace with ONE small rounded puffy heart pendant at bottom, source heart shape/asymmetric reflections, loop proportions, actual visible lobsterclasp/tinyloop near uppercard and chain position. Keep original longwhite backingcard and clearpackaging, exact visible original front orientation and overlaps. Do not add stones, extra hearts/necklaces, hidden backs or substitute chainlinks. Macro is only a tight actualvisible heart/chain part, no entire assortment. Remove hand/shop/oldprice and floating warranty/materialclaims overlay. No new benefit/warranty/authenticity/materialclaims. Realistic soft lighting, websitequality sufficient; preserve count, identity, main shape and colour.\n",
+      "sha256": "ae487db7da0be491aac30ec55fbd4010bbe706a8cf5cd48fc3a77ee1999d3536",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e2cdf03f-f306-4fdd-b00c-36b68aaa93df.png",
+      "grid_sha256": "cc578dde14decbfcaa4f955e70cd1df8edc2005bfdb12dab280d6580544cc3c0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Compared actual512crop and source: one gold snake-chain necklace, one rounded puffy heart pendant, source upper clasp/loop and card/clearpackage retained; macro is tight actualheart/chain region; clean crop boundaries and appropriate style/heading. Minor tiny packaging typography/reflection differences accepted."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-e2cdf03f-f306-4fdd-b00c-36b68aaa93df.png",
+      "prompt": "Edit reference into ONE website-ready1536x1024LANDSCAPE contact sheet EXACTLY THREE equalcolumns TWOequalrows, six512x512cells, NOgutters/borders/panelnumbers. Readingorder: top-left WHITE full product; top-middle LAVENDER/CREAM studio full product; top-right LIFESTYLE full product on cream dressingtable; bottom-left STANDALONE TIGHT MACRO of actual goldheart surface and chainjunction only; bottom-middle PROMOTIONAL full product accurateheading HEART PENDANT NECKLACE; bottom-right BLANK cream unused. Every view self-contained inside its cell with safe margin, objects must not cross cell boundaries. In EVERY full view preserve EXACT ONE original gold-tone smooth snake-chain necklace with ONE small rounded puffy heart pendant at bottom, source heart shape/asymmetric reflections, loop proportions, actual visible lobsterclasp/tinyloop near uppercard and chain position. Keep original longwhite backingcard and clearpackaging, exact visible original front orientation and overlaps. Do not add stones, extra hearts/necklaces, hidden backs or substitute chainlinks. Macro is only a tight actualvisible heart/chain part, no entire assortment. Remove hand/shop/oldprice and floating warranty/materialclaims overlay. No new benefit/warranty/authenticity/materialclaims. Realistic soft lighting, websitequality sufficient; preserve count, identity, main shape and colour.\n",
+      "sha256": "6286408a08e0fac2f3ab5b7ed9740718465eb8a1d649c863354878b420cd1fd4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e2cdf03f-f306-4fdd-b00c-36b68aaa93df.png",
+      "grid_sha256": "cc578dde14decbfcaa4f955e70cd1df8edc2005bfdb12dab280d6580544cc3c0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Compared actual512crop and source: one gold snake-chain necklace, one rounded puffy heart pendant, source upper clasp/loop and card/clearpackage retained; macro is tight actualheart/chain region; clean crop boundaries and appropriate style/heading. Minor tiny packaging typography/reflection differences accepted."
+    }
+  ],
+  "status": "five_grid_crops_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "plan_original_hashes_verified": true
+}

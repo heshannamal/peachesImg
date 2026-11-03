@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261005-WA0370.jpg": "8e4ae4154a4fa83a7b5a2a17727234cc8e5754dd85a49355d250c9635f95ecad"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-6ecdd9d0-424f-43c0-a1f4-5f9ec0fa15ea.png",
+      "source_output": "/workspace/generated_images/exec-6ecdd9d0-424f-43c0-a1f4-5f9ec0fa15ea.png",
+      "sha256": "b6cea870dcca7608232356a1f9216ad7c8e06ccfd94b7541ce1eb91bd0f285b0",
+      "prompt": "Edit the referenced original into ONE landscape1536x1024 product photography grid, EXACT3equalcolumns x2equalrows, six512square cells, NO gutters/borders/panel labels. EXACT ONE delicate gold-tone oval-link chain necklace with a small smooth open-heart pendant, original small top loop and white card/clear sleeve. Same thin linkchain, gold outline heart and source proportions, no cross, added stones, extra charms, chains or unseen clasp. Product is ONE necklace, keep exact identity, count1, shape, material appearance, gold colour and source front-view geometry in every full view. Preserve existing card/sleeve where visible, remove hand/shop/old overlaid price and external material/warranty advertising only. Do not add material/authenticity/warranty claims. Keep all visible product inside each tile with margin; never cross cell boundaries. Reading order: TOPLEFT01 entire necklace/card on purewhite seamless softshadow. TOPMIDDLE02 entire same product on lavender/cream styled studio. TOPRIGHT03 entire same product on cream dressingtable with blurred lavender room, no added jewellery. BOTTOMLEFT04 standalone TIGHT MACRO ONLY of actual source heart edge and adjoining chain, not entire necklace, no invented hidden parts. BOTTOMMIDDLE05 entire same product with small accurate heading HEART PENDANT NECKLACE on lavendercream; no price/claims. BOTTOMRIGHT06 plain unused cream blank. Full views preserve ONE exact necklace, macro shows only actual visible part. Realistic website-ready photograph, no redesign.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-6ecdd9d0-424f-43c0-a1f4-5f9ec0fa15ea.png",
+      "prompt": "Edit the referenced original into ONE landscape1536x1024 product photography grid, EXACT3equalcolumns x2equalrows, six512square cells, NO gutters/borders/panel labels. EXACT ONE delicate gold-tone oval-link chain necklace with a small smooth open-heart pendant, original small top loop and white card/clear sleeve. Same thin linkchain, gold outline heart and source proportions, no cross, added stones, extra charms, chains or unseen clasp. Product is ONE necklace, keep exact identity, count1, shape, material appearance, gold colour and source front-view geometry in every full view. Preserve existing card/sleeve where visible, remove hand/shop/old overlaid price and external material/warranty advertising only. Do not add material/authenticity/warranty claims. Keep all visible product inside each tile with margin; never cross cell boundaries. Reading order: TOPLEFT01 entire necklace/card on purewhite seamless softshadow. TOPMIDDLE02 entire same product on lavender/cream styled studio. TOPRIGHT03 entire same product on cream dressingtable with blurred lavender room, no added jewellery. BOTTOMLEFT04 standalone TIGHT MACRO ONLY of actual source heart edge and adjoining chain, not entire necklace, no invented hidden parts. BOTTOMMIDDLE05 entire same product with small accurate heading HEART PENDANT NECKLACE on lavendercream; no price/claims. BOTTOMRIGHT06 plain unused cream blank. Full views preserve ONE exact necklace, macro shows only actual visible part. Realistic website-ready photograph, no redesign.",
+      "sha256": "77db31bd06abefe458acfc9a1c1dd8b04074c03f2e017052c06c9754674d7dd2",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6ecdd9d0-424f-43c0-a1f4-5f9ec0fa15ea.png",
+      "grid_sha256": "b6cea870dcca7608232356a1f9216ad7c8e06ccfd94b7541ce1eb91bd0f285b0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Compared with original: one delicate oval-link gold-tone chain and small open-heart pendant on original card/sleeve, whole product framed on white. Main identity/count/colour retained; source material/warranty overlay removed. Minor card typography accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-6ecdd9d0-424f-43c0-a1f4-5f9ec0fa15ea.png",
+      "prompt": "Edit the referenced original into ONE landscape1536x1024 product photography grid, EXACT3equalcolumns x2equalrows, six512square cells, NO gutters/borders/panel labels. EXACT ONE delicate gold-tone oval-link chain necklace with a small smooth open-heart pendant, original small top loop and white card/clear sleeve. Same thin linkchain, gold outline heart and source proportions, no cross, added stones, extra charms, chains or unseen clasp. Product is ONE necklace, keep exact identity, count1, shape, material appearance, gold colour and source front-view geometry in every full view. Preserve existing card/sleeve where visible, remove hand/shop/old overlaid price and external material/warranty advertising only. Do not add material/authenticity/warranty claims. Keep all visible product inside each tile with margin; never cross cell boundaries. Reading order: TOPLEFT01 entire necklace/card on purewhite seamless softshadow. TOPMIDDLE02 entire same product on lavender/cream styled studio. TOPRIGHT03 entire same product on cream dressingtable with blurred lavender room, no added jewellery. BOTTOMLEFT04 standalone TIGHT MACRO ONLY of actual source heart edge and adjoining chain, not entire necklace, no invented hidden parts. BOTTOMMIDDLE05 entire same product with small accurate heading HEART PENDANT NECKLACE on lavendercream; no price/claims. BOTTOMRIGHT06 plain unused cream blank. Full views preserve ONE exact necklace, macro shows only actual visible part. Realistic website-ready photograph, no redesign.",
+      "sha256": "5dbf6366b17b168addf55f3e50a6074e68eea8ca654bf49d7bbdebc94d8f6b1d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6ecdd9d0-424f-43c0-a1f4-5f9ec0fa15ea.png",
+      "grid_sha256": "b6cea870dcca7608232356a1f9216ad7c8e06ccfd94b7541ce1eb91bd0f285b0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "One same packaged heart necklace retained on lavender/cream styled background; whole necklace/card inside clean512crop, no adjacent tile content."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-6ecdd9d0-424f-43c0-a1f4-5f9ec0fa15ea.png",
+      "prompt": "Edit the referenced original into ONE landscape1536x1024 product photography grid, EXACT3equalcolumns x2equalrows, six512square cells, NO gutters/borders/panel labels. EXACT ONE delicate gold-tone oval-link chain necklace with a small smooth open-heart pendant, original small top loop and white card/clear sleeve. Same thin linkchain, gold outline heart and source proportions, no cross, added stones, extra charms, chains or unseen clasp. Product is ONE necklace, keep exact identity, count1, shape, material appearance, gold colour and source front-view geometry in every full view. Preserve existing card/sleeve where visible, remove hand/shop/old overlaid price and external material/warranty advertising only. Do not add material/authenticity/warranty claims. Keep all visible product inside each tile with margin; never cross cell boundaries. Reading order: TOPLEFT01 entire necklace/card on purewhite seamless softshadow. TOPMIDDLE02 entire same product on lavender/cream styled studio. TOPRIGHT03 entire same product on cream dressingtable with blurred lavender room, no added jewellery. BOTTOMLEFT04 standalone TIGHT MACRO ONLY of actual source heart edge and adjoining chain, not entire necklace, no invented hidden parts. BOTTOMMIDDLE05 entire same product with small accurate heading HEART PENDANT NECKLACE on lavendercream; no price/claims. BOTTOMRIGHT06 plain unused cream blank. Full views preserve ONE exact necklace, macro shows only actual visible part. Realistic website-ready photograph, no redesign.",
+      "sha256": "d729cdd8b68b85bf4301d2e0d2c9123152164e0d2ca44db28547b3a0b5db96b3",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6ecdd9d0-424f-43c0-a1f4-5f9ec0fa15ea.png",
+      "grid_sha256": "b6cea870dcca7608232356a1f9216ad7c8e06ccfd94b7541ce1eb91bd0f285b0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "One same heart necklace and card/sleeve fully framed on dressingtable scene; main chain/heart shapes and goldtone retained, no added jewellery."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-6ecdd9d0-424f-43c0-a1f4-5f9ec0fa15ea.png",
+      "prompt": "Edit the referenced original into ONE landscape1536x1024 product photography grid, EXACT3equalcolumns x2equalrows, six512square cells, NO gutters/borders/panel labels. EXACT ONE delicate gold-tone oval-link chain necklace with a small smooth open-heart pendant, original small top loop and white card/clear sleeve. Same thin linkchain, gold outline heart and source proportions, no cross, added stones, extra charms, chains or unseen clasp. Product is ONE necklace, keep exact identity, count1, shape, material appearance, gold colour and source front-view geometry in every full view. Preserve existing card/sleeve where visible, remove hand/shop/old overlaid price and external material/warranty advertising only. Do not add material/authenticity/warranty claims. Keep all visible product inside each tile with margin; never cross cell boundaries. Reading order: TOPLEFT01 entire necklace/card on purewhite seamless softshadow. TOPMIDDLE02 entire same product on lavender/cream styled studio. TOPRIGHT03 entire same product on cream dressingtable with blurred lavender room, no added jewellery. BOTTOMLEFT04 standalone TIGHT MACRO ONLY of actual source heart edge and adjoining chain, not entire necklace, no invented hidden parts. BOTTOMMIDDLE05 entire same product with small accurate heading HEART PENDANT NECKLACE on lavendercream; no price/claims. BOTTOMRIGHT06 plain unused cream blank. Full views preserve ONE exact necklace, macro shows only actual visible part. Realistic website-ready photograph, no redesign.",
+      "sha256": "81406d5dd1d2edc09e63fc171b82adfc9014890c020cc3849235f216eb06eb29",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6ecdd9d0-424f-43c0-a1f4-5f9ec0fa15ea.png",
+      "grid_sha256": "b6cea870dcca7608232356a1f9216ad7c8e06ccfd94b7541ce1eb91bd0f285b0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Tight real-part macro of visible open-heart pendant and oval-link chain. Compared with enlarged original heart region; main open-heart silhouette and goldtone retained. Connector scale/link proportions vary slightly, accepted website-ready cosmetic variation; no extra pendant or unrelated part."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-6ecdd9d0-424f-43c0-a1f4-5f9ec0fa15ea.png",
+      "prompt": "Edit the referenced original into ONE landscape1536x1024 product photography grid, EXACT3equalcolumns x2equalrows, six512square cells, NO gutters/borders/panel labels. EXACT ONE delicate gold-tone oval-link chain necklace with a small smooth open-heart pendant, original small top loop and white card/clear sleeve. Same thin linkchain, gold outline heart and source proportions, no cross, added stones, extra charms, chains or unseen clasp. Product is ONE necklace, keep exact identity, count1, shape, material appearance, gold colour and source front-view geometry in every full view. Preserve existing card/sleeve where visible, remove hand/shop/old overlaid price and external material/warranty advertising only. Do not add material/authenticity/warranty claims. Keep all visible product inside each tile with margin; never cross cell boundaries. Reading order: TOPLEFT01 entire necklace/card on purewhite seamless softshadow. TOPMIDDLE02 entire same product on lavender/cream styled studio. TOPRIGHT03 entire same product on cream dressingtable with blurred lavender room, no added jewellery. BOTTOMLEFT04 standalone TIGHT MACRO ONLY of actual source heart edge and adjoining chain, not entire necklace, no invented hidden parts. BOTTOMMIDDLE05 entire same product with small accurate heading HEART PENDANT NECKLACE on lavendercream; no price/claims. BOTTOMRIGHT06 plain unused cream blank. Full views preserve ONE exact necklace, macro shows only actual visible part. Realistic website-ready photograph, no redesign.",
+      "sha256": "b85bb61b5d087555df28eaf76f1ea89569802af797f2203dbaa22f1e736e05c5",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6ecdd9d0-424f-43c0-a1f4-5f9ec0fa15ea.png",
+      "grid_sha256": "b6cea870dcca7608232356a1f9216ad7c8e06ccfd94b7541ce1eb91bd0f285b0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "One same packaged heart necklace fully framed with accurate HEART PENDANT NECKLACE heading; clean512tile crop, no prices or added quality/material/warranty claims."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "One gold-tone oval-link open-heart pendant necklace, not a cross",
+  "original_baseline_verified": true
+}

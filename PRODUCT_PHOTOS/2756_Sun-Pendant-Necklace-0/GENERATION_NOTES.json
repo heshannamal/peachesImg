@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261005-WA0376.jpg": "41d36a99f6db6826f07596ebb25956514ec9a8fc454e96615e6076f949a98856"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-c9499b77-e548-46c1-b298-9c5c6d4819f3.png",
+      "source_output": "/workspace/generated_images/exec-c9499b77-e548-46c1-b298-9c5c6d4819f3.png",
+      "sha256": "9a8974b07fcc7fa605e9a6fa909dbbfd897da646a25446762240558b44ad8a2f",
+      "prompt": "Create ONE landscape1536x1024 image, EXACT3equalcolumns by2equalrows, SIX square512tiles. No gutters, borders, panel labels or numbers. Each tile independent framed product photograph with generous margins, no content crosses tile edges. Reading order: top-left WHITE seamless full product; top-middle lavender/cream STYLED full product; top-right dressingtable LIFESTYLE full product; bottom-left standalone TIGHT MACRO crop of specified realpart ONLY; bottom-middle lavendercream PROMOTIONAL full product with exact short heading; bottom-right completely BLANK cream unused. Remove hand/shop/price/material/warranty overlaidclaims. Preserve actual original product identity, count, shape, gold colour, chain geometry and packaging, original frontview, no invented hiddenparts or extra jewellery. Keep actual package printed marks but add no material/quality claims. Websitequality sufficient. Actualreference is ONE goldtone SHIP WHEEL pendant necklace, notsun. Pendant is open circular shipshelm with EIGHT radial spokes/round-ended knobs, visible goldbail and fine oval-link chain on same longwhite card insideclearbag. Preserve eightspokes/round knobs, original wheelopenings, chainlength/drape and cardorientation. Fullviews include EXACT one original necklace/card/bag. Macro: tight crop of actual wheel rim and adjoining spokes/bail only. Promoheading SHIP WHEEL NECKLACE.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-c9499b77-e548-46c1-b298-9c5c6d4819f3.png",
+      "prompt": "Create ONE landscape1536x1024 image, EXACT3equalcolumns by2equalrows, SIX square512tiles. No gutters, borders, panel labels or numbers. Each tile independent framed product photograph with generous margins, no content crosses tile edges. Reading order: top-left WHITE seamless full product; top-middle lavender/cream STYLED full product; top-right dressingtable LIFESTYLE full product; bottom-left standalone TIGHT MACRO crop of specified realpart ONLY; bottom-middle lavendercream PROMOTIONAL full product with exact short heading; bottom-right completely BLANK cream unused. Remove hand/shop/price/material/warranty overlaidclaims. Preserve actual original product identity, count, shape, gold colour, chain geometry and packaging, original frontview, no invented hiddenparts or extra jewellery. Keep actual package printed marks but add no material/quality claims. Websitequality sufficient. Actualreference is ONE goldtone SHIP WHEEL pendant necklace, notsun. Pendant is open circular shipshelm with EIGHT radial spokes/round-ended knobs, visible goldbail and fine oval-link chain on same longwhite card insideclearbag. Preserve eightspokes/round knobs, original wheelopenings, chainlength/drape and cardorientation. Fullviews include EXACT one original necklace/card/bag. Macro: tight crop of actual wheel rim and adjoining spokes/bail only. Promoheading SHIP WHEEL NECKLACE.",
+      "sha256": "0c258932dc9ef252b2dc4d4dc3cef0903617f2a2e906bccb76ca8cea4370af63",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c9499b77-e548-46c1-b298-9c5c6d4819f3.png",
+      "grid_sha256": "9a8974b07fcc7fa605e9a6fa909dbbfd897da646a25446762240558b44ad8a2f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-c9499b77-e548-46c1-b298-9c5c6d4819f3.png",
+      "prompt": "Create ONE landscape1536x1024 image, EXACT3equalcolumns by2equalrows, SIX square512tiles. No gutters, borders, panel labels or numbers. Each tile independent framed product photograph with generous margins, no content crosses tile edges. Reading order: top-left WHITE seamless full product; top-middle lavender/cream STYLED full product; top-right dressingtable LIFESTYLE full product; bottom-left standalone TIGHT MACRO crop of specified realpart ONLY; bottom-middle lavendercream PROMOTIONAL full product with exact short heading; bottom-right completely BLANK cream unused. Remove hand/shop/price/material/warranty overlaidclaims. Preserve actual original product identity, count, shape, gold colour, chain geometry and packaging, original frontview, no invented hiddenparts or extra jewellery. Keep actual package printed marks but add no material/quality claims. Websitequality sufficient. Actualreference is ONE goldtone SHIP WHEEL pendant necklace, notsun. Pendant is open circular shipshelm with EIGHT radial spokes/round-ended knobs, visible goldbail and fine oval-link chain on same longwhite card insideclearbag. Preserve eightspokes/round knobs, original wheelopenings, chainlength/drape and cardorientation. Fullviews include EXACT one original necklace/card/bag. Macro: tight crop of actual wheel rim and adjoining spokes/bail only. Promoheading SHIP WHEEL NECKLACE.",
+      "sha256": "9eac3c2501f05d6a09696bce07f87b6c414525efe03ac797561818fb55f19e5f",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c9499b77-e548-46c1-b298-9c5c6d4819f3.png",
+      "grid_sha256": "9a8974b07fcc7fa605e9a6fa909dbbfd897da646a25446762240558b44ad8a2f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-c9499b77-e548-46c1-b298-9c5c6d4819f3.png",
+      "prompt": "Create ONE landscape1536x1024 image, EXACT3equalcolumns by2equalrows, SIX square512tiles. No gutters, borders, panel labels or numbers. Each tile independent framed product photograph with generous margins, no content crosses tile edges. Reading order: top-left WHITE seamless full product; top-middle lavender/cream STYLED full product; top-right dressingtable LIFESTYLE full product; bottom-left standalone TIGHT MACRO crop of specified realpart ONLY; bottom-middle lavendercream PROMOTIONAL full product with exact short heading; bottom-right completely BLANK cream unused. Remove hand/shop/price/material/warranty overlaidclaims. Preserve actual original product identity, count, shape, gold colour, chain geometry and packaging, original frontview, no invented hiddenparts or extra jewellery. Keep actual package printed marks but add no material/quality claims. Websitequality sufficient. Actualreference is ONE goldtone SHIP WHEEL pendant necklace, notsun. Pendant is open circular shipshelm with EIGHT radial spokes/round-ended knobs, visible goldbail and fine oval-link chain on same longwhite card insideclearbag. Preserve eightspokes/round knobs, original wheelopenings, chainlength/drape and cardorientation. Fullviews include EXACT one original necklace/card/bag. Macro: tight crop of actual wheel rim and adjoining spokes/bail only. Promoheading SHIP WHEEL NECKLACE.",
+      "sha256": "4108eecfc4a42500ee9db353185c1854fea10c2f5b28776d51151c81f5f249f0",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c9499b77-e548-46c1-b298-9c5c6d4819f3.png",
+      "grid_sha256": "9a8974b07fcc7fa605e9a6fa909dbbfd897da646a25446762240558b44ad8a2f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-c9499b77-e548-46c1-b298-9c5c6d4819f3.png",
+      "prompt": "Create ONE landscape1536x1024 image, EXACT3equalcolumns by2equalrows, SIX square512tiles. No gutters, borders, panel labels or numbers. Each tile independent framed product photograph with generous margins, no content crosses tile edges. Reading order: top-left WHITE seamless full product; top-middle lavender/cream STYLED full product; top-right dressingtable LIFESTYLE full product; bottom-left standalone TIGHT MACRO crop of specified realpart ONLY; bottom-middle lavendercream PROMOTIONAL full product with exact short heading; bottom-right completely BLANK cream unused. Remove hand/shop/price/material/warranty overlaidclaims. Preserve actual original product identity, count, shape, gold colour, chain geometry and packaging, original frontview, no invented hiddenparts or extra jewellery. Keep actual package printed marks but add no material/quality claims. Websitequality sufficient. Actualreference is ONE goldtone SHIP WHEEL pendant necklace, notsun. Pendant is open circular shipshelm with EIGHT radial spokes/round-ended knobs, visible goldbail and fine oval-link chain on same longwhite card insideclearbag. Preserve eightspokes/round knobs, original wheelopenings, chainlength/drape and cardorientation. Fullviews include EXACT one original necklace/card/bag. Macro: tight crop of actual wheel rim and adjoining spokes/bail only. Promoheading SHIP WHEEL NECKLACE.",
+      "sha256": "0231ef348e006133c61fee260b841c763d79ff1d919a5436879ada8cf73f83c0",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c9499b77-e548-46c1-b298-9c5c6d4819f3.png",
+      "grid_sha256": "9a8974b07fcc7fa605e9a6fa909dbbfd897da646a25446762240558b44ad8a2f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-c9499b77-e548-46c1-b298-9c5c6d4819f3.png",
+      "prompt": "Create ONE landscape1536x1024 image, EXACT3equalcolumns by2equalrows, SIX square512tiles. No gutters, borders, panel labels or numbers. Each tile independent framed product photograph with generous margins, no content crosses tile edges. Reading order: top-left WHITE seamless full product; top-middle lavender/cream STYLED full product; top-right dressingtable LIFESTYLE full product; bottom-left standalone TIGHT MACRO crop of specified realpart ONLY; bottom-middle lavendercream PROMOTIONAL full product with exact short heading; bottom-right completely BLANK cream unused. Remove hand/shop/price/material/warranty overlaidclaims. Preserve actual original product identity, count, shape, gold colour, chain geometry and packaging, original frontview, no invented hiddenparts or extra jewellery. Keep actual package printed marks but add no material/quality claims. Websitequality sufficient. Actualreference is ONE goldtone SHIP WHEEL pendant necklace, notsun. Pendant is open circular shipshelm with EIGHT radial spokes/round-ended knobs, visible goldbail and fine oval-link chain on same longwhite card insideclearbag. Preserve eightspokes/round knobs, original wheelopenings, chainlength/drape and cardorientation. Fullviews include EXACT one original necklace/card/bag. Macro: tight crop of actual wheel rim and adjoining spokes/bail only. Promoheading SHIP WHEEL NECKLACE.",
+      "sha256": "af9ff3e627084a41c87a5af860afcb8be6cc14012e8148a0d936fdb998e9ade7",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c9499b77-e548-46c1-b298-9c5c6d4819f3.png",
+      "grid_sha256": "9a8974b07fcc7fa605e9a6fa909dbbfd897da646a25446762240558b44ad8a2f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

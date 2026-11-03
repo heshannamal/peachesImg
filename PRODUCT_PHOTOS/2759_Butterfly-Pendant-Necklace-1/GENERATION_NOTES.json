@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261005-WA0382.jpg": "d37d691ef822a9559fd2331ff6b2ac73b8cd0edcbf419799bb5aa432c11801ac"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-6f76bcd0-76f7-42a0-a093-9c12c02ecb47.png",
+      "source_output": "/workspace/generated_images/exec-6f76bcd0-76f7-42a0-a093-9c12c02ecb47.png",
+      "sha256": "e30671ca7ca0e9636da71610fcd40a355724adfad960a0d6c6b8218acdbc6454",
+      "prompt": "Edit the reference into ONE website-ready 1536x1024 LANDSCAPE contact sheet with EXACTLY THREE equal columns and TWO equal rows, six512x512cells, no gutters/borders/panelnumbers. Reading order: top-left WHITE background full product; top-middle LAVENDER/CREAM studio full product; top-right LIFESTYLE full product on cream dressingtable; bottom-left STANDALONE TIGHT MACRO of one real gold butterfly textured wing section only; bottom-middle PROMOTIONAL full product with accurate heading TWO-BUTTERFLY NECKLACE; bottom-right blank cream unused. Each view entirely within its own cell with safe margins, no objects crossing cells. In EVERY full view preserve EXACT ONE gold-tone fine oval-link necklace with TWO original butterfly charms on the SAME chain: one upper butterfly along right side and one lower butterfly at bottom of loop. Preserve two butterfly silhouettes, actual small textured wings, original relative positions, same gold colour and chaingeometry, long white source card and clear packaging. This is ONE necklace with two butterflies, do not add necklaces or remove a butterfly or invent hidden parts. Preserve original front view/crop and visible occlusions. Macro only actual visible textured wing, no invented jewels or rear clasp. Remove hand/shop/oldprice and floating warranty/materialclaims overlay; do not add warranty/quality/material claims. Website quality sufficient, realistic soft light. All full views must show both butterflies and entire original visible necklace/card.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-6f76bcd0-76f7-42a0-a093-9c12c02ecb47.png",
+      "prompt": "Edit the reference into ONE website-ready 1536x1024 LANDSCAPE contact sheet with EXACTLY THREE equal columns and TWO equal rows, six512x512cells, no gutters/borders/panelnumbers. Reading order: top-left WHITE background full product; top-middle LAVENDER/CREAM studio full product; top-right LIFESTYLE full product on cream dressingtable; bottom-left STANDALONE TIGHT MACRO of one real gold butterfly textured wing section only; bottom-middle PROMOTIONAL full product with accurate heading TWO-BUTTERFLY NECKLACE; bottom-right blank cream unused. Each view entirely within its own cell with safe margins, no objects crossing cells. In EVERY full view preserve EXACT ONE gold-tone fine oval-link necklace with TWO original butterfly charms on the SAME chain: one upper butterfly along right side and one lower butterfly at bottom of loop. Preserve two butterfly silhouettes, actual small textured wings, original relative positions, same gold colour and chaingeometry, long white source card and clear packaging. This is ONE necklace with two butterflies, do not add necklaces or remove a butterfly or invent hidden parts. Preserve original front view/crop and visible occlusions. Macro only actual visible textured wing, no invented jewels or rear clasp. Remove hand/shop/oldprice and floating warranty/materialclaims overlay; do not add warranty/quality/material claims. Website quality sufficient, realistic soft light. All full views must show both butterflies and entire original visible necklace/card.\n",
+      "sha256": "c89f93d431dd7cf330047d49a47c3d81a590c11e26f86289d9432be361526aca",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6f76bcd0-76f7-42a0-a093-9c12c02ecb47.png",
+      "grid_sha256": "e30671ca7ca0e9636da71610fcd40a355724adfad960a0d6c6b8218acdbc6454",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Compared actual512crop and source: one necklace with TWO gold butterfly charms retained in fullviews, upper-right/lower placement and linked chain/card/packaging preserved; macro is actual textured wing; clean cell boundaries and correct style/heading. Minor tiny packaging typography differences accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-6f76bcd0-76f7-42a0-a093-9c12c02ecb47.png",
+      "prompt": "Edit the reference into ONE website-ready 1536x1024 LANDSCAPE contact sheet with EXACTLY THREE equal columns and TWO equal rows, six512x512cells, no gutters/borders/panelnumbers. Reading order: top-left WHITE background full product; top-middle LAVENDER/CREAM studio full product; top-right LIFESTYLE full product on cream dressingtable; bottom-left STANDALONE TIGHT MACRO of one real gold butterfly textured wing section only; bottom-middle PROMOTIONAL full product with accurate heading TWO-BUTTERFLY NECKLACE; bottom-right blank cream unused. Each view entirely within its own cell with safe margins, no objects crossing cells. In EVERY full view preserve EXACT ONE gold-tone fine oval-link necklace with TWO original butterfly charms on the SAME chain: one upper butterfly along right side and one lower butterfly at bottom of loop. Preserve two butterfly silhouettes, actual small textured wings, original relative positions, same gold colour and chaingeometry, long white source card and clear packaging. This is ONE necklace with two butterflies, do not add necklaces or remove a butterfly or invent hidden parts. Preserve original front view/crop and visible occlusions. Macro only actual visible textured wing, no invented jewels or rear clasp. Remove hand/shop/oldprice and floating warranty/materialclaims overlay; do not add warranty/quality/material claims. Website quality sufficient, realistic soft light. All full views must show both butterflies and entire original visible necklace/card.\n",
+      "sha256": "0770ab7571bb6a4050c68a53370bf850b59e0297fbfc3aa64972e7ddaaefe2c4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6f76bcd0-76f7-42a0-a093-9c12c02ecb47.png",
+      "grid_sha256": "e30671ca7ca0e9636da71610fcd40a355724adfad960a0d6c6b8218acdbc6454",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Compared actual512crop and source: one necklace with TWO gold butterfly charms retained in fullviews, upper-right/lower placement and linked chain/card/packaging preserved; macro is actual textured wing; clean cell boundaries and correct style/heading. Minor tiny packaging typography differences accepted."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-6f76bcd0-76f7-42a0-a093-9c12c02ecb47.png",
+      "prompt": "Edit the reference into ONE website-ready 1536x1024 LANDSCAPE contact sheet with EXACTLY THREE equal columns and TWO equal rows, six512x512cells, no gutters/borders/panelnumbers. Reading order: top-left WHITE background full product; top-middle LAVENDER/CREAM studio full product; top-right LIFESTYLE full product on cream dressingtable; bottom-left STANDALONE TIGHT MACRO of one real gold butterfly textured wing section only; bottom-middle PROMOTIONAL full product with accurate heading TWO-BUTTERFLY NECKLACE; bottom-right blank cream unused. Each view entirely within its own cell with safe margins, no objects crossing cells. In EVERY full view preserve EXACT ONE gold-tone fine oval-link necklace with TWO original butterfly charms on the SAME chain: one upper butterfly along right side and one lower butterfly at bottom of loop. Preserve two butterfly silhouettes, actual small textured wings, original relative positions, same gold colour and chaingeometry, long white source card and clear packaging. This is ONE necklace with two butterflies, do not add necklaces or remove a butterfly or invent hidden parts. Preserve original front view/crop and visible occlusions. Macro only actual visible textured wing, no invented jewels or rear clasp. Remove hand/shop/oldprice and floating warranty/materialclaims overlay; do not add warranty/quality/material claims. Website quality sufficient, realistic soft light. All full views must show both butterflies and entire original visible necklace/card.\n",
+      "sha256": "2d6aa07a3df7000d8f899d9bbde146950293068fbe8f88809e47adfa2d42c594",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6f76bcd0-76f7-42a0-a093-9c12c02ecb47.png",
+      "grid_sha256": "e30671ca7ca0e9636da71610fcd40a355724adfad960a0d6c6b8218acdbc6454",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Compared actual512crop and source: one necklace with TWO gold butterfly charms retained in fullviews, upper-right/lower placement and linked chain/card/packaging preserved; macro is actual textured wing; clean cell boundaries and correct style/heading. Minor tiny packaging typography differences accepted."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-6f76bcd0-76f7-42a0-a093-9c12c02ecb47.png",
+      "prompt": "Edit the reference into ONE website-ready 1536x1024 LANDSCAPE contact sheet with EXACTLY THREE equal columns and TWO equal rows, six512x512cells, no gutters/borders/panelnumbers. Reading order: top-left WHITE background full product; top-middle LAVENDER/CREAM studio full product; top-right LIFESTYLE full product on cream dressingtable; bottom-left STANDALONE TIGHT MACRO of one real gold butterfly textured wing section only; bottom-middle PROMOTIONAL full product with accurate heading TWO-BUTTERFLY NECKLACE; bottom-right blank cream unused. Each view entirely within its own cell with safe margins, no objects crossing cells. In EVERY full view preserve EXACT ONE gold-tone fine oval-link necklace with TWO original butterfly charms on the SAME chain: one upper butterfly along right side and one lower butterfly at bottom of loop. Preserve two butterfly silhouettes, actual small textured wings, original relative positions, same gold colour and chaingeometry, long white source card and clear packaging. This is ONE necklace with two butterflies, do not add necklaces or remove a butterfly or invent hidden parts. Preserve original front view/crop and visible occlusions. Macro only actual visible textured wing, no invented jewels or rear clasp. Remove hand/shop/oldprice and floating warranty/materialclaims overlay; do not add warranty/quality/material claims. Website quality sufficient, realistic soft light. All full views must show both butterflies and entire original visible necklace/card.\n",
+      "sha256": "75f68d8f5544c58dac14aedc2ea96cc4c990cb63d7bc440bbdc6ed9bbb6ba8f7",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6f76bcd0-76f7-42a0-a093-9c12c02ecb47.png",
+      "grid_sha256": "e30671ca7ca0e9636da71610fcd40a355724adfad960a0d6c6b8218acdbc6454",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Compared actual512crop and source: one necklace with TWO gold butterfly charms retained in fullviews, upper-right/lower placement and linked chain/card/packaging preserved; macro is actual textured wing; clean cell boundaries and correct style/heading. Minor tiny packaging typography differences accepted."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-6f76bcd0-76f7-42a0-a093-9c12c02ecb47.png",
+      "prompt": "Edit the reference into ONE website-ready 1536x1024 LANDSCAPE contact sheet with EXACTLY THREE equal columns and TWO equal rows, six512x512cells, no gutters/borders/panelnumbers. Reading order: top-left WHITE background full product; top-middle LAVENDER/CREAM studio full product; top-right LIFESTYLE full product on cream dressingtable; bottom-left STANDALONE TIGHT MACRO of one real gold butterfly textured wing section only; bottom-middle PROMOTIONAL full product with accurate heading TWO-BUTTERFLY NECKLACE; bottom-right blank cream unused. Each view entirely within its own cell with safe margins, no objects crossing cells. In EVERY full view preserve EXACT ONE gold-tone fine oval-link necklace with TWO original butterfly charms on the SAME chain: one upper butterfly along right side and one lower butterfly at bottom of loop. Preserve two butterfly silhouettes, actual small textured wings, original relative positions, same gold colour and chaingeometry, long white source card and clear packaging. This is ONE necklace with two butterflies, do not add necklaces or remove a butterfly or invent hidden parts. Preserve original front view/crop and visible occlusions. Macro only actual visible textured wing, no invented jewels or rear clasp. Remove hand/shop/oldprice and floating warranty/materialclaims overlay; do not add warranty/quality/material claims. Website quality sufficient, realistic soft light. All full views must show both butterflies and entire original visible necklace/card.\n",
+      "sha256": "386022a584d25691c0e2582bcbcab6a790111a14fc2576caaf228a63566162c8",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6f76bcd0-76f7-42a0-a093-9c12c02ecb47.png",
+      "grid_sha256": "e30671ca7ca0e9636da71610fcd40a355724adfad960a0d6c6b8218acdbc6454",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Compared actual512crop and source: one necklace with TWO gold butterfly charms retained in fullviews, upper-right/lower placement and linked chain/card/packaging preserved; macro is actual textured wing; clean cell boundaries and correct style/heading. Minor tiny packaging typography differences accepted."
+    }
+  ],
+  "status": "five_grid_crops_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "plan_original_hashes_verified": true
+}

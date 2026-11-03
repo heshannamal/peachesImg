@@ -1,5 +1,5 @@
 {
-  "status": "waiting_for_workspace",
+  "status": "blocked_environment_startup_failed",
   "target_products": 100,
   "target_images": 500,
   "product_ids": [
@@ -1331,6 +1331,12 @@
   "processing_order": "descending_numeric_product_id",
   "generation_workflow": "one_native_3x2_grid_cropped_to_five_website_views",
   "original_sha256_status": "Must compute and freeze all original SHA256 baselines after workspace becomes usable, before generation.",
-  "blocker": "Managed workspace is still starting/offline; exec_command reports No usable execution environment. No generation calls have started for this batch.",
-  "resume_instruction": "Use these exact100 IDs2718down2619, inspect originals, freezeSHA256 in END100_2619_2718_PLAN.json, preserve complete/validexistingviews, adapt separate checkpoint/watch/claim helpers from priorEND100 batch. Fiveworkers,max2activeeach, atomicdescendingclaims; immediategrid/crop save,honestvisualreviews, -1only5checked+originalSHA. NoCSVunlessrequested."
+  "blocker": "Environment provisioning failed during container_creation: container_service_failed / transport_timeout. No usable execution environment; cannot inspect local originals or run native-grid cropping/saving pipeline.",
+  "resume_instruction": "Use these exact100 IDs2718down2619, inspect originals, freezeSHA256 in END100_2619_2718_PLAN.json, preserve complete/validexistingviews, adapt separate checkpoint/watch/claim helpers from priorEND100 batch. Fiveworkers,max2activeeach, atomicdescendingclaims; immediategrid/crop save,honestvisualreviews, -1only5checked+originalSHA. NoCSVunlessrequested.",
+  "completed_products": 0,
+  "partial_products": 0,
+  "pending_products": 100,
+  "saved_images": 0,
+  "checked_images": 0,
+  "action_needed": "Restart or repair the managed workspace, then resume these exact100 candidates. Original SHA256 baselines still must be frozen before generation."
 }

@@ -1,17 +1,20 @@
 {
-  "status": "paused_for_combined_grid_workflow",
-  "assigned": [
-    "2813",
-    "2812"
+  "worker": "end_worker5",
+  "completed_this_resume": [
+    "2763",
+    "2762",
+    "2753",
+    "2752",
+    "2743"
   ],
-  "saved_checked": {
-    "2813": [
-      "01_White-Background.png"
-    ],
-    "2812": [
-      "01_White-Background.png"
-    ]
-  },
-  "inflight": 0,
-  "next": "Awaitparentcombined-gridhelper; preservewhiteviews"
+  "assigned": [
+    "2743",
+    "2741"
+  ],
+  "blocked": [
+    "2741"
+  ],
+  "in_flight": 0,
+  "status": "stopped_tool_response_error",
+  "next_action": "Parent must diagnose2741toolfailure before retry; valid2743savedchecked, preserveallpriorcomplete."
 }

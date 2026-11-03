@@ -1,0 +1,132 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261005-WA0340.jpg": "a45f356f81f458dd19b23ced681f6e320a25d0fe38328a69870b34a810bd6bc8"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-69760db3-93d9-487d-96eb-6f53f110c263.png",
+      "source_output": "/workspace/generated_images/exec-69760db3-93d9-487d-96eb-6f53f110c263.png",
+      "sha256": "0696bbc32e94a070b3cd51a6f949780346d91a12ec6d0f5a6b80c12f303d6793",
+      "prompt": "ONE landscape1536x1024 native referenced product contact sheet: EXACT3equalcolumns x2equalrows, six512squarecells, NO gutters/borders/dividers/numbers. Readingorder TOPLEFT01 fullproduct purewhite; TOPMIDDLE02 fullproduct lavender/cream styledstudio; TOPRIGHT03 fullproduct cream dressingtable lavenderbedroomblur; BOTTOMLEFT04 standalone tightmacro ONLY actual visiblepart specified (notwholeproduct); BOTTOMMIDDLE05 fullproduct accurateheading specified lavendercream; BOTTOMRIGHT06 blankcream. Eachview fullyinsideitscell withmargins and no boundarycrossing. Preserve exactoriginal productidentity/count/shape/colours/material/packaging, samefrontview no inventedhiddenparts. Remove hand/shop/exteriorprice/materialwarrantyclaim overlays only, retain actualpackageprint, no newclaims/text except accuratepromoheading. Exact ONE gold-tone fine oval-link chain necklace with ONE round OPEN-CENTRE annular pendant on original longwhitecard/clearbag. Preserve original circular ring shape, goldrim, alternating BLACK and gold engraved rectangular/mark segments aroundrim, emptycentre, original ovalchainlinkspacing and actual sourcefrontloop/orientation. Do not fillcentre, add gemstones/heart/cross, redesignrim or inventhiddenclasp. Detail04 actual tight partcrop of gold/black annularrim segment and chainbail/links ONLY, notwhole necklace, matching original engravedsegments. Promo05heading ROUND PENDANT NECKLACE. Onepackagednecklace eachfullview.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-69760db3-93d9-487d-96eb-6f53f110c263.png",
+      "prompt": "ONE landscape1536x1024 native referenced product contact sheet: EXACT3equalcolumns x2equalrows, six512squarecells, NO gutters/borders/dividers/numbers. Readingorder TOPLEFT01 fullproduct purewhite; TOPMIDDLE02 fullproduct lavender/cream styledstudio; TOPRIGHT03 fullproduct cream dressingtable lavenderbedroomblur; BOTTOMLEFT04 standalone tightmacro ONLY actual visiblepart specified (notwholeproduct); BOTTOMMIDDLE05 fullproduct accurateheading specified lavendercream; BOTTOMRIGHT06 blankcream. Eachview fullyinsideitscell withmargins and no boundarycrossing. Preserve exactoriginal productidentity/count/shape/colours/material/packaging, samefrontview no inventedhiddenparts. Remove hand/shop/exteriorprice/materialwarrantyclaim overlays only, retain actualpackageprint, no newclaims/text except accuratepromoheading. Exact ONE gold-tone fine oval-link chain necklace with ONE round OPEN-CENTRE annular pendant on original longwhitecard/clearbag. Preserve original circular ring shape, goldrim, alternating BLACK and gold engraved rectangular/mark segments aroundrim, emptycentre, original ovalchainlinkspacing and actual sourcefrontloop/orientation. Do not fillcentre, add gemstones/heart/cross, redesignrim or inventhiddenclasp. Detail04 actual tight partcrop of gold/black annularrim segment and chainbail/links ONLY, notwhole necklace, matching original engravedsegments. Promo05heading ROUND PENDANT NECKLACE. Onepackagednecklace eachfullview.",
+      "sha256": "f481854b0d63a7082431e7b00baf39e288c0bf31c01ffbb1760a9225c121f26a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-69760db3-93d9-487d-96eb-6f53f110c263.png",
+      "grid_sha256": "0696bbc32e94a070b3cd51a6f949780346d91a12ec6d0f5a6b80c12f303d6793",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Compared actualoriginal/grid/individual512crop: onegoldoval-linkchain withoneblack/gold open-centre annularpendant retained onwhitecard; macroactualrimsegment/bail, fullviewsonependant, correct5styles/cleanboundaries/accurateheading. Minor engraving/cardprintdifferences accepted websitequality; no newclaims."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-69760db3-93d9-487d-96eb-6f53f110c263.png",
+      "prompt": "ONE landscape1536x1024 native referenced product contact sheet: EXACT3equalcolumns x2equalrows, six512squarecells, NO gutters/borders/dividers/numbers. Readingorder TOPLEFT01 fullproduct purewhite; TOPMIDDLE02 fullproduct lavender/cream styledstudio; TOPRIGHT03 fullproduct cream dressingtable lavenderbedroomblur; BOTTOMLEFT04 standalone tightmacro ONLY actual visiblepart specified (notwholeproduct); BOTTOMMIDDLE05 fullproduct accurateheading specified lavendercream; BOTTOMRIGHT06 blankcream. Eachview fullyinsideitscell withmargins and no boundarycrossing. Preserve exactoriginal productidentity/count/shape/colours/material/packaging, samefrontview no inventedhiddenparts. Remove hand/shop/exteriorprice/materialwarrantyclaim overlays only, retain actualpackageprint, no newclaims/text except accuratepromoheading. Exact ONE gold-tone fine oval-link chain necklace with ONE round OPEN-CENTRE annular pendant on original longwhitecard/clearbag. Preserve original circular ring shape, goldrim, alternating BLACK and gold engraved rectangular/mark segments aroundrim, emptycentre, original ovalchainlinkspacing and actual sourcefrontloop/orientation. Do not fillcentre, add gemstones/heart/cross, redesignrim or inventhiddenclasp. Detail04 actual tight partcrop of gold/black annularrim segment and chainbail/links ONLY, notwhole necklace, matching original engravedsegments. Promo05heading ROUND PENDANT NECKLACE. Onepackagednecklace eachfullview.",
+      "sha256": "d834345626423ff88f80f945dec2ed8cbe41487add70ab5a9f3cc01b5e7449e6",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-69760db3-93d9-487d-96eb-6f53f110c263.png",
+      "grid_sha256": "0696bbc32e94a070b3cd51a6f949780346d91a12ec6d0f5a6b80c12f303d6793",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Compared actualoriginal/grid/individual512crop: onegoldoval-linkchain withoneblack/gold open-centre annularpendant retained onwhitecard; macroactualrimsegment/bail, fullviewsonependant, correct5styles/cleanboundaries/accurateheading. Minor engraving/cardprintdifferences accepted websitequality; no newclaims."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-69760db3-93d9-487d-96eb-6f53f110c263.png",
+      "prompt": "ONE landscape1536x1024 native referenced product contact sheet: EXACT3equalcolumns x2equalrows, six512squarecells, NO gutters/borders/dividers/numbers. Readingorder TOPLEFT01 fullproduct purewhite; TOPMIDDLE02 fullproduct lavender/cream styledstudio; TOPRIGHT03 fullproduct cream dressingtable lavenderbedroomblur; BOTTOMLEFT04 standalone tightmacro ONLY actual visiblepart specified (notwholeproduct); BOTTOMMIDDLE05 fullproduct accurateheading specified lavendercream; BOTTOMRIGHT06 blankcream. Eachview fullyinsideitscell withmargins and no boundarycrossing. Preserve exactoriginal productidentity/count/shape/colours/material/packaging, samefrontview no inventedhiddenparts. Remove hand/shop/exteriorprice/materialwarrantyclaim overlays only, retain actualpackageprint, no newclaims/text except accuratepromoheading. Exact ONE gold-tone fine oval-link chain necklace with ONE round OPEN-CENTRE annular pendant on original longwhitecard/clearbag. Preserve original circular ring shape, goldrim, alternating BLACK and gold engraved rectangular/mark segments aroundrim, emptycentre, original ovalchainlinkspacing and actual sourcefrontloop/orientation. Do not fillcentre, add gemstones/heart/cross, redesignrim or inventhiddenclasp. Detail04 actual tight partcrop of gold/black annularrim segment and chainbail/links ONLY, notwhole necklace, matching original engravedsegments. Promo05heading ROUND PENDANT NECKLACE. Onepackagednecklace eachfullview.",
+      "sha256": "9c54877fd11020c876f2bab7584f5618d0c9b87d7b37e352a6a06ef87b7aa6f4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-69760db3-93d9-487d-96eb-6f53f110c263.png",
+      "grid_sha256": "0696bbc32e94a070b3cd51a6f949780346d91a12ec6d0f5a6b80c12f303d6793",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Compared actualoriginal/grid/individual512crop: onegoldoval-linkchain withoneblack/gold open-centre annularpendant retained onwhitecard; macroactualrimsegment/bail, fullviewsonependant, correct5styles/cleanboundaries/accurateheading. Minor engraving/cardprintdifferences accepted websitequality; no newclaims."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-69760db3-93d9-487d-96eb-6f53f110c263.png",
+      "prompt": "ONE landscape1536x1024 native referenced product contact sheet: EXACT3equalcolumns x2equalrows, six512squarecells, NO gutters/borders/dividers/numbers. Readingorder TOPLEFT01 fullproduct purewhite; TOPMIDDLE02 fullproduct lavender/cream styledstudio; TOPRIGHT03 fullproduct cream dressingtable lavenderbedroomblur; BOTTOMLEFT04 standalone tightmacro ONLY actual visiblepart specified (notwholeproduct); BOTTOMMIDDLE05 fullproduct accurateheading specified lavendercream; BOTTOMRIGHT06 blankcream. Eachview fullyinsideitscell withmargins and no boundarycrossing. Preserve exactoriginal productidentity/count/shape/colours/material/packaging, samefrontview no inventedhiddenparts. Remove hand/shop/exteriorprice/materialwarrantyclaim overlays only, retain actualpackageprint, no newclaims/text except accuratepromoheading. Exact ONE gold-tone fine oval-link chain necklace with ONE round OPEN-CENTRE annular pendant on original longwhitecard/clearbag. Preserve original circular ring shape, goldrim, alternating BLACK and gold engraved rectangular/mark segments aroundrim, emptycentre, original ovalchainlinkspacing and actual sourcefrontloop/orientation. Do not fillcentre, add gemstones/heart/cross, redesignrim or inventhiddenclasp. Detail04 actual tight partcrop of gold/black annularrim segment and chainbail/links ONLY, notwhole necklace, matching original engravedsegments. Promo05heading ROUND PENDANT NECKLACE. Onepackagednecklace eachfullview.",
+      "sha256": "fd872a9c544d2e0c267af44b950653ecf34939bad75f30c0b2d28aaac1f2b74b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-69760db3-93d9-487d-96eb-6f53f110c263.png",
+      "grid_sha256": "0696bbc32e94a070b3cd51a6f949780346d91a12ec6d0f5a6b80c12f303d6793",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Compared actualoriginal/grid/individual512crop: onegoldoval-linkchain withoneblack/gold open-centre annularpendant retained onwhitecard; macroactualrimsegment/bail, fullviewsonependant, correct5styles/cleanboundaries/accurateheading. Minor engraving/cardprintdifferences accepted websitequality; no newclaims."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-69760db3-93d9-487d-96eb-6f53f110c263.png",
+      "prompt": "ONE landscape1536x1024 native referenced product contact sheet: EXACT3equalcolumns x2equalrows, six512squarecells, NO gutters/borders/dividers/numbers. Readingorder TOPLEFT01 fullproduct purewhite; TOPMIDDLE02 fullproduct lavender/cream styledstudio; TOPRIGHT03 fullproduct cream dressingtable lavenderbedroomblur; BOTTOMLEFT04 standalone tightmacro ONLY actual visiblepart specified (notwholeproduct); BOTTOMMIDDLE05 fullproduct accurateheading specified lavendercream; BOTTOMRIGHT06 blankcream. Eachview fullyinsideitscell withmargins and no boundarycrossing. Preserve exactoriginal productidentity/count/shape/colours/material/packaging, samefrontview no inventedhiddenparts. Remove hand/shop/exteriorprice/materialwarrantyclaim overlays only, retain actualpackageprint, no newclaims/text except accuratepromoheading. Exact ONE gold-tone fine oval-link chain necklace with ONE round OPEN-CENTRE annular pendant on original longwhitecard/clearbag. Preserve original circular ring shape, goldrim, alternating BLACK and gold engraved rectangular/mark segments aroundrim, emptycentre, original ovalchainlinkspacing and actual sourcefrontloop/orientation. Do not fillcentre, add gemstones/heart/cross, redesignrim or inventhiddenclasp. Detail04 actual tight partcrop of gold/black annularrim segment and chainbail/links ONLY, notwhole necklace, matching original engravedsegments. Promo05heading ROUND PENDANT NECKLACE. Onepackagednecklace eachfullview.",
+      "sha256": "9dbe2cbb0fef7ce94ee781e974ee08d710ede36201e65987604f9d45ed396450",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-69760db3-93d9-487d-96eb-6f53f110c263.png",
+      "grid_sha256": "0696bbc32e94a070b3cd51a6f949780346d91a12ec6d0f5a6b80c12f303d6793",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Compared actualoriginal/grid/individual512crop: onegoldoval-linkchain withoneblack/gold open-centre annularpendant retained onwhitecard; macroactualrimsegment/bail, fullviewsonependant, correct5styles/cleanboundaries/accurateheading. Minor engraving/cardprintdifferences accepted websitequality; no newclaims."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "planned_prompt_file": "PRODUCT_PHOTOS/_Review/end_worker3_2746_grid_prompt.txt",
+  "actual_subject": "One gold-tone black-and-gold annular pendant necklace",
+  "plan_original_hashes_verified": true,
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "previous_tool_error": "Native gridcall rejected without returned result. Promise.allSettled wrapper did not capture the rejection reason; no confirmed quota/moderation classification. Latestcache contact sheet inspected, no annulus-necklace output found. No automatic retry started.",
+  "technical_recovery": "One parent-authorized guarded recovery after unknown toolrejection succeeded; fullnonimage resultmetadata persisted before parsing. No quota/moderation returned; no material corrective retry used.",
+  "recovery_metadata": "PRODUCT_PHOTOS/_Review/end_worker3_2746_recovery_metadata.json"
+}

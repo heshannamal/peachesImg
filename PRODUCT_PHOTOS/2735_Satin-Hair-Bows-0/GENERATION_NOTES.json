@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261002-WA0732.jpg": "67fa81d627f3dda72a3babed1ba36579c34808c4fedadf2bc7bc21950b033f5d"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-3d2f3615-d7fa-4752-8f4e-aeec6e386b61.png",
+      "source_output": "/workspace/generated_images/exec-3d2f3615-d7fa-4752-8f4e-aeec6e386b61.png",
+      "sha256": "4e03753a1d11943ee7db383d7479caa95c24abce41ddbfaa9f7ec0d87098a7e6",
+      "prompt": "ONE1536x1024landscape image EXACT3equalcolumns x2equalrows, sixsquare512cells, no gutters/borders/panellabels/numbers. Eachcell independently framed with margin, no crossingedges. Readingorder01WHITE fullassortment,02lavendercreamSTYLED fullassortment,03dressingtableLIFESTYLE fullassortment,04standaloneTIGHTREALPARTMACRO only,05lavendercreamPROMO fullassortment accurateheading,06completelyBLANKcream. Faithful website product photography edit originals. Preserve original wholeassortment asONEproduct, counts/identity/shapes/colours/material/actualprintedpackaging, originalfrontview, no inventedhiddenparts/extra products/textclaims. Remove hand/shop/price externaloverlays only. Websitequality sufficient. Exact ENTIRE original clearrectangular packet/box containing TWELVE satinbow hairclips on SIX originalwhite FashionJewelry cards, TWO bows/card. Preserve original diagonaloverlapped arrangement: two burgundyred uppermiddle/topright; two pale pink upperleft; two white rightmiddle; two black lowerleft; two nude beige-pink bottommiddle; two pink lowerright. Twelve total SIXpairs, bowfoldedloops/centreknots/tails and tiny silverrhinestone dots preciselysource, no redesign. Keep originalwhitecards/clearbox/originaloverlap and croppededges. No unpacking/extra hiddenbows. AllFULLviews01/02/03/05 retain ENTIRE12bowassortment ONEproduct. MacroONLY realburgundysatinloop folds/centreband+existingrhinestones, notwholepack. Exactpromoheading SATIN BOW HAIR CLIP SET.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-3d2f3615-d7fa-4752-8f4e-aeec6e386b61.png",
+      "prompt": "ONE1536x1024landscape image EXACT3equalcolumns x2equalrows, sixsquare512cells, no gutters/borders/panellabels/numbers. Eachcell independently framed with margin, no crossingedges. Readingorder01WHITE fullassortment,02lavendercreamSTYLED fullassortment,03dressingtableLIFESTYLE fullassortment,04standaloneTIGHTREALPARTMACRO only,05lavendercreamPROMO fullassortment accurateheading,06completelyBLANKcream. Faithful website product photography edit originals. Preserve original wholeassortment asONEproduct, counts/identity/shapes/colours/material/actualprintedpackaging, originalfrontview, no inventedhiddenparts/extra products/textclaims. Remove hand/shop/price externaloverlays only. Websitequality sufficient. Exact ENTIRE original clearrectangular packet/box containing TWELVE satinbow hairclips on SIX originalwhite FashionJewelry cards, TWO bows/card. Preserve original diagonaloverlapped arrangement: two burgundyred uppermiddle/topright; two pale pink upperleft; two white rightmiddle; two black lowerleft; two nude beige-pink bottommiddle; two pink lowerright. Twelve total SIXpairs, bowfoldedloops/centreknots/tails and tiny silverrhinestone dots preciselysource, no redesign. Keep originalwhitecards/clearbox/originaloverlap and croppededges. No unpacking/extra hiddenbows. AllFULLviews01/02/03/05 retain ENTIRE12bowassortment ONEproduct. MacroONLY realburgundysatinloop folds/centreband+existingrhinestones, notwholepack. Exactpromoheading SATIN BOW HAIR CLIP SET.",
+      "sha256": "47800ec3a7bf665095d093923076f52f7d7577ef0debfba32d5952bb238f2fd6",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3d2f3615-d7fa-4752-8f4e-aeec6e386b61.png",
+      "grid_sha256": "4e03753a1d11943ee7db383d7479caa95c24abce41ddbfaa9f7ec0d87098a7e6",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-3d2f3615-d7fa-4752-8f4e-aeec6e386b61.png",
+      "prompt": "ONE1536x1024landscape image EXACT3equalcolumns x2equalrows, sixsquare512cells, no gutters/borders/panellabels/numbers. Eachcell independently framed with margin, no crossingedges. Readingorder01WHITE fullassortment,02lavendercreamSTYLED fullassortment,03dressingtableLIFESTYLE fullassortment,04standaloneTIGHTREALPARTMACRO only,05lavendercreamPROMO fullassortment accurateheading,06completelyBLANKcream. Faithful website product photography edit originals. Preserve original wholeassortment asONEproduct, counts/identity/shapes/colours/material/actualprintedpackaging, originalfrontview, no inventedhiddenparts/extra products/textclaims. Remove hand/shop/price externaloverlays only. Websitequality sufficient. Exact ENTIRE original clearrectangular packet/box containing TWELVE satinbow hairclips on SIX originalwhite FashionJewelry cards, TWO bows/card. Preserve original diagonaloverlapped arrangement: two burgundyred uppermiddle/topright; two pale pink upperleft; two white rightmiddle; two black lowerleft; two nude beige-pink bottommiddle; two pink lowerright. Twelve total SIXpairs, bowfoldedloops/centreknots/tails and tiny silverrhinestone dots preciselysource, no redesign. Keep originalwhitecards/clearbox/originaloverlap and croppededges. No unpacking/extra hiddenbows. AllFULLviews01/02/03/05 retain ENTIRE12bowassortment ONEproduct. MacroONLY realburgundysatinloop folds/centreband+existingrhinestones, notwholepack. Exactpromoheading SATIN BOW HAIR CLIP SET.",
+      "sha256": "235006d3fe1faa647ebbc26df58b6ca6579ccd10b5fb72422ce03cb1d9f99c67",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3d2f3615-d7fa-4752-8f4e-aeec6e386b61.png",
+      "grid_sha256": "4e03753a1d11943ee7db383d7479caa95c24abce41ddbfaa9f7ec0d87098a7e6",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-3d2f3615-d7fa-4752-8f4e-aeec6e386b61.png",
+      "prompt": "ONE1536x1024landscape image EXACT3equalcolumns x2equalrows, sixsquare512cells, no gutters/borders/panellabels/numbers. Eachcell independently framed with margin, no crossingedges. Readingorder01WHITE fullassortment,02lavendercreamSTYLED fullassortment,03dressingtableLIFESTYLE fullassortment,04standaloneTIGHTREALPARTMACRO only,05lavendercreamPROMO fullassortment accurateheading,06completelyBLANKcream. Faithful website product photography edit originals. Preserve original wholeassortment asONEproduct, counts/identity/shapes/colours/material/actualprintedpackaging, originalfrontview, no inventedhiddenparts/extra products/textclaims. Remove hand/shop/price externaloverlays only. Websitequality sufficient. Exact ENTIRE original clearrectangular packet/box containing TWELVE satinbow hairclips on SIX originalwhite FashionJewelry cards, TWO bows/card. Preserve original diagonaloverlapped arrangement: two burgundyred uppermiddle/topright; two pale pink upperleft; two white rightmiddle; two black lowerleft; two nude beige-pink bottommiddle; two pink lowerright. Twelve total SIXpairs, bowfoldedloops/centreknots/tails and tiny silverrhinestone dots preciselysource, no redesign. Keep originalwhitecards/clearbox/originaloverlap and croppededges. No unpacking/extra hiddenbows. AllFULLviews01/02/03/05 retain ENTIRE12bowassortment ONEproduct. MacroONLY realburgundysatinloop folds/centreband+existingrhinestones, notwholepack. Exactpromoheading SATIN BOW HAIR CLIP SET.",
+      "sha256": "51e2b3207ac55505a71244c3f375e37431b0c1fd32a486bc625c2ba67941de21",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3d2f3615-d7fa-4752-8f4e-aeec6e386b61.png",
+      "grid_sha256": "4e03753a1d11943ee7db383d7479caa95c24abce41ddbfaa9f7ec0d87098a7e6",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-3d2f3615-d7fa-4752-8f4e-aeec6e386b61.png",
+      "prompt": "ONE1536x1024landscape image EXACT3equalcolumns x2equalrows, sixsquare512cells, no gutters/borders/panellabels/numbers. Eachcell independently framed with margin, no crossingedges. Readingorder01WHITE fullassortment,02lavendercreamSTYLED fullassortment,03dressingtableLIFESTYLE fullassortment,04standaloneTIGHTREALPARTMACRO only,05lavendercreamPROMO fullassortment accurateheading,06completelyBLANKcream. Faithful website product photography edit originals. Preserve original wholeassortment asONEproduct, counts/identity/shapes/colours/material/actualprintedpackaging, originalfrontview, no inventedhiddenparts/extra products/textclaims. Remove hand/shop/price externaloverlays only. Websitequality sufficient. Exact ENTIRE original clearrectangular packet/box containing TWELVE satinbow hairclips on SIX originalwhite FashionJewelry cards, TWO bows/card. Preserve original diagonaloverlapped arrangement: two burgundyred uppermiddle/topright; two pale pink upperleft; two white rightmiddle; two black lowerleft; two nude beige-pink bottommiddle; two pink lowerright. Twelve total SIXpairs, bowfoldedloops/centreknots/tails and tiny silverrhinestone dots preciselysource, no redesign. Keep originalwhitecards/clearbox/originaloverlap and croppededges. No unpacking/extra hiddenbows. AllFULLviews01/02/03/05 retain ENTIRE12bowassortment ONEproduct. MacroONLY realburgundysatinloop folds/centreband+existingrhinestones, notwholepack. Exactpromoheading SATIN BOW HAIR CLIP SET.",
+      "sha256": "9a5d3df032825a208c8ae625ab2ea5b478fa61c817a601695ef7e4010d6376a2",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3d2f3615-d7fa-4752-8f4e-aeec6e386b61.png",
+      "grid_sha256": "4e03753a1d11943ee7db383d7479caa95c24abce41ddbfaa9f7ec0d87098a7e6",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-3d2f3615-d7fa-4752-8f4e-aeec6e386b61.png",
+      "prompt": "ONE1536x1024landscape image EXACT3equalcolumns x2equalrows, sixsquare512cells, no gutters/borders/panellabels/numbers. Eachcell independently framed with margin, no crossingedges. Readingorder01WHITE fullassortment,02lavendercreamSTYLED fullassortment,03dressingtableLIFESTYLE fullassortment,04standaloneTIGHTREALPARTMACRO only,05lavendercreamPROMO fullassortment accurateheading,06completelyBLANKcream. Faithful website product photography edit originals. Preserve original wholeassortment asONEproduct, counts/identity/shapes/colours/material/actualprintedpackaging, originalfrontview, no inventedhiddenparts/extra products/textclaims. Remove hand/shop/price externaloverlays only. Websitequality sufficient. Exact ENTIRE original clearrectangular packet/box containing TWELVE satinbow hairclips on SIX originalwhite FashionJewelry cards, TWO bows/card. Preserve original diagonaloverlapped arrangement: two burgundyred uppermiddle/topright; two pale pink upperleft; two white rightmiddle; two black lowerleft; two nude beige-pink bottommiddle; two pink lowerright. Twelve total SIXpairs, bowfoldedloops/centreknots/tails and tiny silverrhinestone dots preciselysource, no redesign. Keep originalwhitecards/clearbox/originaloverlap and croppededges. No unpacking/extra hiddenbows. AllFULLviews01/02/03/05 retain ENTIRE12bowassortment ONEproduct. MacroONLY realburgundysatinloop folds/centreband+existingrhinestones, notwholepack. Exactpromoheading SATIN BOW HAIR CLIP SET.",
+      "sha256": "3d858af2c70754a7681c65816e2cced9ca6302af10fcf6801066b2ffb91c1aa3",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3d2f3615-d7fa-4752-8f4e-aeec6e386b61.png",
+      "grid_sha256": "4e03753a1d11943ee7db383d7479caa95c24abce41ddbfaa9f7ec0d87098a7e6",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

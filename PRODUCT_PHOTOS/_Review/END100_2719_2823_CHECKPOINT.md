@@ -35,3 +35,6 @@ The allowed corrective attempts for these failed views have already been spent; 
 Native output moderation blocks were recorded in product notes and skipped without retry. This is distinct from the worker model-usage interruptions encountered earlier; no native image-quota block was inferred.
 
 All eligible work in this frozen queue is finished. Do not broaden into another batch without a new user request.
+
+
+Final live verification: all455imageURLs for91completedproducts returnedHTTP200 withimage content type after finalupload.

@@ -1,20 +1,33 @@
 {
   "worker": "end_worker5",
+  "status": "completed_assignments_queue_empty",
   "completed_this_resume": [
     "2763",
     "2762",
     "2753",
     "2752",
-    "2743"
-  ],
-  "assigned": [
     "2743",
-    "2741"
+    "2741",
+    "2731",
+    "2722"
   ],
-  "blocked": [
-    "2741"
-  ],
+  "blocked_this_resume": {
+    "2732": {
+      "reason": "nativeoutputmoderation_other",
+      "request_id": "75dee90a-c571-43ed-afdb-8f46040bba6f"
+    },
+    "2721": {
+      "reason": "nativeoutputmoderation_other",
+      "request_id": "6549784b-d8f5-4a86-8346-c40806e78897"
+    }
+  },
+  "new_images_this_resume": 30,
+  "existing_images_reviewed_this_resume": 10,
+  "checked_images_for_completed_this_resume": 40,
   "in_flight": 0,
-  "status": "stopped_tool_response_error",
-  "next_action": "Parent must diagnose2741toolfailure before retry; valid2743savedchecked, preserveallpriorcomplete."
+  "assigned": [],
+  "remaining_unassigned": 0,
+  "original_hashes_verified_for_all_assigned": true,
+  "runtime_recovery": "2741firstcallresponseunavailable, ONEparentauthorizedguardedrecoverypassed; priorissuehistorical/resolved only",
+  "updated_at": "2026-11-03T05:44:29.435845+00:00"
 }

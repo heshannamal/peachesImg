@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-11-03T05:42:11.079533+00:00",
+  "updated_at": "2026-11-03T05:46:04.625026+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 87,
-  "partial_products": 4,
-  "pending_products": 4,
-  "blocked_products": 5,
-  "saved_images": 455,
-  "checked_images": 440,
-  "status": "running",
+  "completed_products": 91,
+  "partial_products": 2,
+  "pending_products": 0,
+  "blocked_products": 7,
+  "saved_images": 465,
+  "checked_images": 460,
+  "status": "finished_with_review_and_moderation_blockers",
   "started_at": "2026-11-02T15:41:05.879847+00:00",
   "processing_order": "descending_numeric_product_id",
   "scope": "Exact100frozenIDs,2823down2719withgaps",
@@ -25,5 +25,21 @@
   ],
   "resumed_at": "2026-11-03T05:37:49.290733+00:00",
   "previous_blocker": "Worker model usage limits; reported reset5:15AM passed before thisuser-authorized resume.",
-  "resume_note": "Review existing partialgrids first, neverredo complete/validviews or spentcorrectives; continue onegrid/fivecrop descendingqueue. NoCSV."
+  "resume_note": "All100selectedproducts processed. No pendingeligibleproducts remain. Do not automaticallyretry moderationblocks or spentcorrectiveviews:2773white and2737fourfullviews. Preserve465savedwebsitefiles and allsourcegrids. NoCSVrequested.",
+  "finished_at": "2026-11-03T05:46:04.681977+00:00",
+  "inflight_calls": 0,
+  "active_workers": 0,
+  "review_needed_product_ids": [
+    "2773",
+    "2737"
+  ],
+  "blocked_product_ids": [
+    "2800",
+    "2755",
+    "2750",
+    "2732",
+    "2725",
+    "2721",
+    "2720"
+  ]
 }

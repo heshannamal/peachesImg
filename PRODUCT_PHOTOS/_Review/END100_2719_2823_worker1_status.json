@@ -16,11 +16,11 @@
   "saved_checked_images": 60,
   "active_products": 0,
   "inflight_calls": 0,
-  "status": "pair_complete",
+  "status": "assigned_work_finished",
   "originals_unchanged": true,
   "current_product_ids": [
-    "2730",
-    "2729"
+    "2720",
+    "2719"
   ],
   "new_images_saved_this_pair": 10,
   "checked_images_this_pair": 10,
@@ -33,5 +33,18 @@
       "03_Lifestyle",
       "05_Promotional"
     ]
-  }
+  },
+  "blocked_products": [
+    "2720"
+  ],
+  "completed_this_resumption": [
+    "2759",
+    "2758",
+    "2749",
+    "2748",
+    "2738",
+    "2730",
+    "2729",
+    "2719"
+  ]
 }

@@ -1,19 +1,10 @@
 {
   "assigned": {
-    "end_worker1": [
-      "2720",
-      "2719"
-    ],
+    "end_worker1": [],
     "end_worker2": [],
-    "end_worker3": [
-      "2724",
-      "2723"
-    ],
+    "end_worker3": [],
     "end_worker4": [],
-    "end_worker5": [
-      "2722",
-      "2721"
-    ]
+    "end_worker5": []
   },
   "next_unassigned": [],
   "order": "descending_numeric_product_id",
@@ -347,6 +338,30 @@
         "2726",
         "2725"
       ]
+    },
+    {
+      "worker": "end_worker3",
+      "product_ids": [
+        "2724",
+        "2723"
+      ]
+    },
+    {
+      "worker": "end_worker5",
+      "product_ids": [
+        "2722",
+        "2721"
+      ]
+    },
+    {
+      "worker": "end_worker1",
+      "product_ids": [
+        "2720",
+        "2719"
+      ]
     }
-  ]
+  ],
+  "status": "exhausted",
+  "active_workers": 0,
+  "inflight_calls": 0
 }

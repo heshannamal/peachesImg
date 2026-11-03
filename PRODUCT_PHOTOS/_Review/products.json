@@ -33197,9 +33197,9 @@
     "source_image_ids": [
       3050
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -33209,9 +33209,9 @@
     "source_image_ids": [
       3051
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -33223,69 +33223,79 @@
     ],
     "new_images": 0,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "blocked_moderation",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2726",
-    "folder": "2726_Brown-Beaded-Bracelets-0",
+    "folder": "2726_Brown-Beaded-Bracelets-1",
     "source_image_ids": [
       3053
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2727",
-    "folder": "2727_Pastel-Beaded-Bracelets-0",
+    "folder": "2727_Pastel-Beaded-Bracelets-1",
     "source_image_ids": [
       3054
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2728",
-    "folder": "2728_Green-Beaded-Bracelets-0",
+    "folder": "2728_Green-Beaded-Bracelets-1",
     "source_image_ids": [
       3055
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2729",
-    "folder": "2729_Blue-Beaded-Bracelets-0",
+    "folder": "2729_Blue-Beaded-Bracelets-1",
     "source_image_ids": [
       3056
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2730",
-    "folder": "2730_Light-Beaded-Bracelets-0",
+    "folder": "2730_Light-Beaded-Bracelets-1",
     "source_image_ids": [
       3057
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2731",

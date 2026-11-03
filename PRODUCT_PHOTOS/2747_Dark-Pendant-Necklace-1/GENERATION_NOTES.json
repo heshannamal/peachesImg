@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261005-WA0344.jpg": "33a5db032dda8b05556d770a3b781fd5c4a8be894d916e04463d3c3cdb2adb84"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-b22d477f-399a-4d2c-9b78-8c35573ad9d3.png",
+      "source_output": "/workspace/generated_images/exec-b22d477f-399a-4d2c-9b78-8c35573ad9d3.png",
+      "sha256": "45d98a1f4b660f4be652cb953c92902f6326a2f9aeebf135a7c5969dbc1c2217",
+      "prompt": "ONE landscape1536x1024 native referenced product contact sheet: EXACT3equalcolumns x2equalrows, six512squarecells, NO gutters/borders/dividers/numbers. Readingorder TOPLEFT01 fullproduct purewhite; TOPMIDDLE02 fullproduct lavender/cream styledstudio; TOPRIGHT03 fullproduct cream dressingtable lavenderbedroomblur; BOTTOMLEFT04 standalone tightmacro ONLY actual visiblepart specified (notwholeproduct); BOTTOMMIDDLE05 fullproduct accurateheading specified lavendercream; BOTTOMRIGHT06 blankcream. Eachview fullyinsideitscell withmargins and no boundarycrossing. Preserve exactoriginal productidentity/count/shape/colours/material/packaging, samefrontview no inventedhiddenparts. Remove hand/shop/exteriorprice/materialwarrantyclaim overlays only, retain actualpackageprint, no newclaims/text except accuratepromoheading. Exact ONE gold-tone oval-link chain necklace with ONE joined DOUBLE-HEART black enamel pendant on longwhitecard in clearbag. Largerleft heart and smallerrightheart, both smoothblackfaces surrounded thin goldrims, connectedtogether. Preserve exactchainlinkspacing/frontloop/card/pendant shapes, twojoinedhearts count, gold/blackcolour, actual sourceorientation. Do not turn into separate pendants, gemstones, roundcharm, additionalchain or hiddenclasps. Detail04 actual closecrop of joined goldheart rims and blackenamelfaces with adjacent bail/chainlink ONLY, preserve source shapes. Promo05heading DOUBLE HEART NECKLACE. Keep ONE packaged necklace in eachfullview, no otherjewellery.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-b22d477f-399a-4d2c-9b78-8c35573ad9d3.png",
+      "prompt": "ONE landscape1536x1024 native referenced product contact sheet: EXACT3equalcolumns x2equalrows, six512squarecells, NO gutters/borders/dividers/numbers. Readingorder TOPLEFT01 fullproduct purewhite; TOPMIDDLE02 fullproduct lavender/cream styledstudio; TOPRIGHT03 fullproduct cream dressingtable lavenderbedroomblur; BOTTOMLEFT04 standalone tightmacro ONLY actual visiblepart specified (notwholeproduct); BOTTOMMIDDLE05 fullproduct accurateheading specified lavendercream; BOTTOMRIGHT06 blankcream. Eachview fullyinsideitscell withmargins and no boundarycrossing. Preserve exactoriginal productidentity/count/shape/colours/material/packaging, samefrontview no inventedhiddenparts. Remove hand/shop/exteriorprice/materialwarrantyclaim overlays only, retain actualpackageprint, no newclaims/text except accuratepromoheading. Exact ONE gold-tone oval-link chain necklace with ONE joined DOUBLE-HEART black enamel pendant on longwhitecard in clearbag. Largerleft heart and smallerrightheart, both smoothblackfaces surrounded thin goldrims, connectedtogether. Preserve exactchainlinkspacing/frontloop/card/pendant shapes, twojoinedhearts count, gold/blackcolour, actual sourceorientation. Do not turn into separate pendants, gemstones, roundcharm, additionalchain or hiddenclasps. Detail04 actual closecrop of joined goldheart rims and blackenamelfaces with adjacent bail/chainlink ONLY, preserve source shapes. Promo05heading DOUBLE HEART NECKLACE. Keep ONE packaged necklace in eachfullview, no otherjewellery.",
+      "sha256": "4e570659a0483a9ffb37ab9483b3340fcaee72b975f9d1a289a16baccd9f1c9e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-b22d477f-399a-4d2c-9b78-8c35573ad9d3.png",
+      "grid_sha256": "45d98a1f4b660f4be652cb953c92902f6326a2f9aeebf135a7c5969dbc1c2217",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Compared original, nativegrid and actual512crop: onegoldoval-linkchain withjoinedlargerleft/smallerright blackheartpendant retained, originalgoldrims/blackfaces/card/clearbag. All5styles/framing correct, macroactualheartpendant/chainlinks only, accurateheading. Minor printedcard differences accepted websitequality; no newclaims."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-b22d477f-399a-4d2c-9b78-8c35573ad9d3.png",
+      "prompt": "ONE landscape1536x1024 native referenced product contact sheet: EXACT3equalcolumns x2equalrows, six512squarecells, NO gutters/borders/dividers/numbers. Readingorder TOPLEFT01 fullproduct purewhite; TOPMIDDLE02 fullproduct lavender/cream styledstudio; TOPRIGHT03 fullproduct cream dressingtable lavenderbedroomblur; BOTTOMLEFT04 standalone tightmacro ONLY actual visiblepart specified (notwholeproduct); BOTTOMMIDDLE05 fullproduct accurateheading specified lavendercream; BOTTOMRIGHT06 blankcream. Eachview fullyinsideitscell withmargins and no boundarycrossing. Preserve exactoriginal productidentity/count/shape/colours/material/packaging, samefrontview no inventedhiddenparts. Remove hand/shop/exteriorprice/materialwarrantyclaim overlays only, retain actualpackageprint, no newclaims/text except accuratepromoheading. Exact ONE gold-tone oval-link chain necklace with ONE joined DOUBLE-HEART black enamel pendant on longwhitecard in clearbag. Largerleft heart and smallerrightheart, both smoothblackfaces surrounded thin goldrims, connectedtogether. Preserve exactchainlinkspacing/frontloop/card/pendant shapes, twojoinedhearts count, gold/blackcolour, actual sourceorientation. Do not turn into separate pendants, gemstones, roundcharm, additionalchain or hiddenclasps. Detail04 actual closecrop of joined goldheart rims and blackenamelfaces with adjacent bail/chainlink ONLY, preserve source shapes. Promo05heading DOUBLE HEART NECKLACE. Keep ONE packaged necklace in eachfullview, no otherjewellery.",
+      "sha256": "a928915717944b3564dc912eefdcd7a28ebb458b2195e144cc24c7603dd7b059",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-b22d477f-399a-4d2c-9b78-8c35573ad9d3.png",
+      "grid_sha256": "45d98a1f4b660f4be652cb953c92902f6326a2f9aeebf135a7c5969dbc1c2217",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Compared original, nativegrid and actual512crop: onegoldoval-linkchain withjoinedlargerleft/smallerright blackheartpendant retained, originalgoldrims/blackfaces/card/clearbag. All5styles/framing correct, macroactualheartpendant/chainlinks only, accurateheading. Minor printedcard differences accepted websitequality; no newclaims."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-b22d477f-399a-4d2c-9b78-8c35573ad9d3.png",
+      "prompt": "ONE landscape1536x1024 native referenced product contact sheet: EXACT3equalcolumns x2equalrows, six512squarecells, NO gutters/borders/dividers/numbers. Readingorder TOPLEFT01 fullproduct purewhite; TOPMIDDLE02 fullproduct lavender/cream styledstudio; TOPRIGHT03 fullproduct cream dressingtable lavenderbedroomblur; BOTTOMLEFT04 standalone tightmacro ONLY actual visiblepart specified (notwholeproduct); BOTTOMMIDDLE05 fullproduct accurateheading specified lavendercream; BOTTOMRIGHT06 blankcream. Eachview fullyinsideitscell withmargins and no boundarycrossing. Preserve exactoriginal productidentity/count/shape/colours/material/packaging, samefrontview no inventedhiddenparts. Remove hand/shop/exteriorprice/materialwarrantyclaim overlays only, retain actualpackageprint, no newclaims/text except accuratepromoheading. Exact ONE gold-tone oval-link chain necklace with ONE joined DOUBLE-HEART black enamel pendant on longwhitecard in clearbag. Largerleft heart and smallerrightheart, both smoothblackfaces surrounded thin goldrims, connectedtogether. Preserve exactchainlinkspacing/frontloop/card/pendant shapes, twojoinedhearts count, gold/blackcolour, actual sourceorientation. Do not turn into separate pendants, gemstones, roundcharm, additionalchain or hiddenclasps. Detail04 actual closecrop of joined goldheart rims and blackenamelfaces with adjacent bail/chainlink ONLY, preserve source shapes. Promo05heading DOUBLE HEART NECKLACE. Keep ONE packaged necklace in eachfullview, no otherjewellery.",
+      "sha256": "cdbfb9af8c5454ffb975cb9987c9b75f786e8d09cb2e59a68ec262b41f1cf251",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-b22d477f-399a-4d2c-9b78-8c35573ad9d3.png",
+      "grid_sha256": "45d98a1f4b660f4be652cb953c92902f6326a2f9aeebf135a7c5969dbc1c2217",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Compared original, nativegrid and actual512crop: onegoldoval-linkchain withjoinedlargerleft/smallerright blackheartpendant retained, originalgoldrims/blackfaces/card/clearbag. All5styles/framing correct, macroactualheartpendant/chainlinks only, accurateheading. Minor printedcard differences accepted websitequality; no newclaims."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-b22d477f-399a-4d2c-9b78-8c35573ad9d3.png",
+      "prompt": "ONE landscape1536x1024 native referenced product contact sheet: EXACT3equalcolumns x2equalrows, six512squarecells, NO gutters/borders/dividers/numbers. Readingorder TOPLEFT01 fullproduct purewhite; TOPMIDDLE02 fullproduct lavender/cream styledstudio; TOPRIGHT03 fullproduct cream dressingtable lavenderbedroomblur; BOTTOMLEFT04 standalone tightmacro ONLY actual visiblepart specified (notwholeproduct); BOTTOMMIDDLE05 fullproduct accurateheading specified lavendercream; BOTTOMRIGHT06 blankcream. Eachview fullyinsideitscell withmargins and no boundarycrossing. Preserve exactoriginal productidentity/count/shape/colours/material/packaging, samefrontview no inventedhiddenparts. Remove hand/shop/exteriorprice/materialwarrantyclaim overlays only, retain actualpackageprint, no newclaims/text except accuratepromoheading. Exact ONE gold-tone oval-link chain necklace with ONE joined DOUBLE-HEART black enamel pendant on longwhitecard in clearbag. Largerleft heart and smallerrightheart, both smoothblackfaces surrounded thin goldrims, connectedtogether. Preserve exactchainlinkspacing/frontloop/card/pendant shapes, twojoinedhearts count, gold/blackcolour, actual sourceorientation. Do not turn into separate pendants, gemstones, roundcharm, additionalchain or hiddenclasps. Detail04 actual closecrop of joined goldheart rims and blackenamelfaces with adjacent bail/chainlink ONLY, preserve source shapes. Promo05heading DOUBLE HEART NECKLACE. Keep ONE packaged necklace in eachfullview, no otherjewellery.",
+      "sha256": "85f0d346dd45125b58119f7828620c74d73399d087e5778bb722d18218277937",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-b22d477f-399a-4d2c-9b78-8c35573ad9d3.png",
+      "grid_sha256": "45d98a1f4b660f4be652cb953c92902f6326a2f9aeebf135a7c5969dbc1c2217",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Compared original, nativegrid and actual512crop: onegoldoval-linkchain withjoinedlargerleft/smallerright blackheartpendant retained, originalgoldrims/blackfaces/card/clearbag. All5styles/framing correct, macroactualheartpendant/chainlinks only, accurateheading. Minor printedcard differences accepted websitequality; no newclaims."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-b22d477f-399a-4d2c-9b78-8c35573ad9d3.png",
+      "prompt": "ONE landscape1536x1024 native referenced product contact sheet: EXACT3equalcolumns x2equalrows, six512squarecells, NO gutters/borders/dividers/numbers. Readingorder TOPLEFT01 fullproduct purewhite; TOPMIDDLE02 fullproduct lavender/cream styledstudio; TOPRIGHT03 fullproduct cream dressingtable lavenderbedroomblur; BOTTOMLEFT04 standalone tightmacro ONLY actual visiblepart specified (notwholeproduct); BOTTOMMIDDLE05 fullproduct accurateheading specified lavendercream; BOTTOMRIGHT06 blankcream. Eachview fullyinsideitscell withmargins and no boundarycrossing. Preserve exactoriginal productidentity/count/shape/colours/material/packaging, samefrontview no inventedhiddenparts. Remove hand/shop/exteriorprice/materialwarrantyclaim overlays only, retain actualpackageprint, no newclaims/text except accuratepromoheading. Exact ONE gold-tone oval-link chain necklace with ONE joined DOUBLE-HEART black enamel pendant on longwhitecard in clearbag. Largerleft heart and smallerrightheart, both smoothblackfaces surrounded thin goldrims, connectedtogether. Preserve exactchainlinkspacing/frontloop/card/pendant shapes, twojoinedhearts count, gold/blackcolour, actual sourceorientation. Do not turn into separate pendants, gemstones, roundcharm, additionalchain or hiddenclasps. Detail04 actual closecrop of joined goldheart rims and blackenamelfaces with adjacent bail/chainlink ONLY, preserve source shapes. Promo05heading DOUBLE HEART NECKLACE. Keep ONE packaged necklace in eachfullview, no otherjewellery.",
+      "sha256": "e2ef4d15f7857c1ea4ce009e5d7ea3818e9aca0afc512ef5dcc38cc3ca6feeac",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-b22d477f-399a-4d2c-9b78-8c35573ad9d3.png",
+      "grid_sha256": "45d98a1f4b660f4be652cb953c92902f6326a2f9aeebf135a7c5969dbc1c2217",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Compared original, nativegrid and actual512crop: onegoldoval-linkchain withjoinedlargerleft/smallerright blackheartpendant retained, originalgoldrims/blackfaces/card/clearbag. All5styles/framing correct, macroactualheartpendant/chainlinks only, accurateheading. Minor printedcard differences accepted websitequality; no newclaims."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "One gold-tone chain necklace with joined black double-heart pendant",
+  "plan_original_hashes_verified": true
+}

@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261005-WA0337.jpg": "e76593c9285822d0eac32b4ad864b54de5683e561cad43ac8323a2378a3875a7"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-4bbfc1d3-1213-488d-9fb3-ffa5d58cf78f.png",
+      "source_output": "/workspace/generated_images/exec-4bbfc1d3-1213-488d-9fb3-ffa5d58cf78f.png",
+      "sha256": "6ecdffce67ae1843d98710cb59ac3d8471cb2738c79beef2a8bd19df51156bb1",
+      "prompt": "ONE1536x1024landscape image EXACT3equalcolumns x2equalrows, sixsquare512cells, no gutters/borders/panellabels/numbers. Eachcell independently framed with margin, no crossingedges. Readingorder01WHITE fullproduct,02lavendercreamSTYLED fullproduct,03dressingtableLIFESTYLE fullproduct,04standaloneTIGHTREALPARTMACRO only,05lavendercreamPROMO fullproduct accurateheading,06completelyBLANKcream. Faithful website product photography edit originals. Preserve original productidentity/count/shapes/colours/material/actualprintedpackage, samefrontview; no inventedhiddenparts, extra products or textclaims. Remove hand/shop/price/material/warranty/watermark externalgraphics only. Websitequality sufficient. Exact ONE goldtone fine oval-link necklace with ONE daisy pendant: TWELVE narrowelongated BLACKteardrop petals, thin goldedges, ONEround WHITE centre. Keep exact12petals,pendant silhouette/whitecenter/blackcolour, sourcechainlength/drape/visibleextension and original longwhitecard insideclearbag. Reference2 is ONLYa realpartcrop ofsamependant forpetalgeometry, notseconditem. Fullviews showone necklace/card. Macro tightcrop originalwhitecentre plusadjoiningblackpetalends/goldoutlines only. Exactpromoheading BLACK FLOWER NECKLACE.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-4bbfc1d3-1213-488d-9fb3-ffa5d58cf78f.png",
+      "prompt": "ONE1536x1024landscape image EXACT3equalcolumns x2equalrows, sixsquare512cells, no gutters/borders/panellabels/numbers. Eachcell independently framed with margin, no crossingedges. Readingorder01WHITE fullproduct,02lavendercreamSTYLED fullproduct,03dressingtableLIFESTYLE fullproduct,04standaloneTIGHTREALPARTMACRO only,05lavendercreamPROMO fullproduct accurateheading,06completelyBLANKcream. Faithful website product photography edit originals. Preserve original productidentity/count/shapes/colours/material/actualprintedpackage, samefrontview; no inventedhiddenparts, extra products or textclaims. Remove hand/shop/price/material/warranty/watermark externalgraphics only. Websitequality sufficient. Exact ONE goldtone fine oval-link necklace with ONE daisy pendant: TWELVE narrowelongated BLACKteardrop petals, thin goldedges, ONEround WHITE centre. Keep exact12petals,pendant silhouette/whitecenter/blackcolour, sourcechainlength/drape/visibleextension and original longwhitecard insideclearbag. Reference2 is ONLYa realpartcrop ofsamependant forpetalgeometry, notseconditem. Fullviews showone necklace/card. Macro tightcrop originalwhitecentre plusadjoiningblackpetalends/goldoutlines only. Exactpromoheading BLACK FLOWER NECKLACE.",
+      "sha256": "c53293e5db3a6cd566ceb57f00ad139ec3eda7df881036eeb78b66111089cf6d",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4bbfc1d3-1213-488d-9fb3-ffa5d58cf78f.png",
+      "grid_sha256": "6ecdffce67ae1843d98710cb59ac3d8471cb2738c79beef2a8bd19df51156bb1",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-4bbfc1d3-1213-488d-9fb3-ffa5d58cf78f.png",
+      "prompt": "ONE1536x1024landscape image EXACT3equalcolumns x2equalrows, sixsquare512cells, no gutters/borders/panellabels/numbers. Eachcell independently framed with margin, no crossingedges. Readingorder01WHITE fullproduct,02lavendercreamSTYLED fullproduct,03dressingtableLIFESTYLE fullproduct,04standaloneTIGHTREALPARTMACRO only,05lavendercreamPROMO fullproduct accurateheading,06completelyBLANKcream. Faithful website product photography edit originals. Preserve original productidentity/count/shapes/colours/material/actualprintedpackage, samefrontview; no inventedhiddenparts, extra products or textclaims. Remove hand/shop/price/material/warranty/watermark externalgraphics only. Websitequality sufficient. Exact ONE goldtone fine oval-link necklace with ONE daisy pendant: TWELVE narrowelongated BLACKteardrop petals, thin goldedges, ONEround WHITE centre. Keep exact12petals,pendant silhouette/whitecenter/blackcolour, sourcechainlength/drape/visibleextension and original longwhitecard insideclearbag. Reference2 is ONLYa realpartcrop ofsamependant forpetalgeometry, notseconditem. Fullviews showone necklace/card. Macro tightcrop originalwhitecentre plusadjoiningblackpetalends/goldoutlines only. Exactpromoheading BLACK FLOWER NECKLACE.",
+      "sha256": "252ce59230ad0f6c126947b24d9d1c65907c3c2577ebec6e1081c8b0923e91d4",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4bbfc1d3-1213-488d-9fb3-ffa5d58cf78f.png",
+      "grid_sha256": "6ecdffce67ae1843d98710cb59ac3d8471cb2738c79beef2a8bd19df51156bb1",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-4bbfc1d3-1213-488d-9fb3-ffa5d58cf78f.png",
+      "prompt": "ONE1536x1024landscape image EXACT3equalcolumns x2equalrows, sixsquare512cells, no gutters/borders/panellabels/numbers. Eachcell independently framed with margin, no crossingedges. Readingorder01WHITE fullproduct,02lavendercreamSTYLED fullproduct,03dressingtableLIFESTYLE fullproduct,04standaloneTIGHTREALPARTMACRO only,05lavendercreamPROMO fullproduct accurateheading,06completelyBLANKcream. Faithful website product photography edit originals. Preserve original productidentity/count/shapes/colours/material/actualprintedpackage, samefrontview; no inventedhiddenparts, extra products or textclaims. Remove hand/shop/price/material/warranty/watermark externalgraphics only. Websitequality sufficient. Exact ONE goldtone fine oval-link necklace with ONE daisy pendant: TWELVE narrowelongated BLACKteardrop petals, thin goldedges, ONEround WHITE centre. Keep exact12petals,pendant silhouette/whitecenter/blackcolour, sourcechainlength/drape/visibleextension and original longwhitecard insideclearbag. Reference2 is ONLYa realpartcrop ofsamependant forpetalgeometry, notseconditem. Fullviews showone necklace/card. Macro tightcrop originalwhitecentre plusadjoiningblackpetalends/goldoutlines only. Exactpromoheading BLACK FLOWER NECKLACE.",
+      "sha256": "5a3fd548a99deb0236f016a3cc8d918d3ac918befaf213716bbaba6257006ac4",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4bbfc1d3-1213-488d-9fb3-ffa5d58cf78f.png",
+      "grid_sha256": "6ecdffce67ae1843d98710cb59ac3d8471cb2738c79beef2a8bd19df51156bb1",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-4bbfc1d3-1213-488d-9fb3-ffa5d58cf78f.png",
+      "prompt": "ONE1536x1024landscape image EXACT3equalcolumns x2equalrows, sixsquare512cells, no gutters/borders/panellabels/numbers. Eachcell independently framed with margin, no crossingedges. Readingorder01WHITE fullproduct,02lavendercreamSTYLED fullproduct,03dressingtableLIFESTYLE fullproduct,04standaloneTIGHTREALPARTMACRO only,05lavendercreamPROMO fullproduct accurateheading,06completelyBLANKcream. Faithful website product photography edit originals. Preserve original productidentity/count/shapes/colours/material/actualprintedpackage, samefrontview; no inventedhiddenparts, extra products or textclaims. Remove hand/shop/price/material/warranty/watermark externalgraphics only. Websitequality sufficient. Exact ONE goldtone fine oval-link necklace with ONE daisy pendant: TWELVE narrowelongated BLACKteardrop petals, thin goldedges, ONEround WHITE centre. Keep exact12petals,pendant silhouette/whitecenter/blackcolour, sourcechainlength/drape/visibleextension and original longwhitecard insideclearbag. Reference2 is ONLYa realpartcrop ofsamependant forpetalgeometry, notseconditem. Fullviews showone necklace/card. Macro tightcrop originalwhitecentre plusadjoiningblackpetalends/goldoutlines only. Exactpromoheading BLACK FLOWER NECKLACE.",
+      "sha256": "ddc8a5a6a68e09fc7ceebf8d83d0f0acf666a3fc65f7d7b0eaa521ac39cc9ec9",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4bbfc1d3-1213-488d-9fb3-ffa5d58cf78f.png",
+      "grid_sha256": "6ecdffce67ae1843d98710cb59ac3d8471cb2738c79beef2a8bd19df51156bb1",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-4bbfc1d3-1213-488d-9fb3-ffa5d58cf78f.png",
+      "prompt": "ONE1536x1024landscape image EXACT3equalcolumns x2equalrows, sixsquare512cells, no gutters/borders/panellabels/numbers. Eachcell independently framed with margin, no crossingedges. Readingorder01WHITE fullproduct,02lavendercreamSTYLED fullproduct,03dressingtableLIFESTYLE fullproduct,04standaloneTIGHTREALPARTMACRO only,05lavendercreamPROMO fullproduct accurateheading,06completelyBLANKcream. Faithful website product photography edit originals. Preserve original productidentity/count/shapes/colours/material/actualprintedpackage, samefrontview; no inventedhiddenparts, extra products or textclaims. Remove hand/shop/price/material/warranty/watermark externalgraphics only. Websitequality sufficient. Exact ONE goldtone fine oval-link necklace with ONE daisy pendant: TWELVE narrowelongated BLACKteardrop petals, thin goldedges, ONEround WHITE centre. Keep exact12petals,pendant silhouette/whitecenter/blackcolour, sourcechainlength/drape/visibleextension and original longwhitecard insideclearbag. Reference2 is ONLYa realpartcrop ofsamependant forpetalgeometry, notseconditem. Fullviews showone necklace/card. Macro tightcrop originalwhitecentre plusadjoiningblackpetalends/goldoutlines only. Exactpromoheading BLACK FLOWER NECKLACE.",
+      "sha256": "dc9c3b3ef60a765796aaf8c6bd6905a15d887a2f357c37b8b5076e8f47fcdb6a",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4bbfc1d3-1213-488d-9fb3-ffa5d58cf78f.png",
+      "grid_sha256": "6ecdffce67ae1843d98710cb59ac3d8471cb2738c79beef2a8bd19df51156bb1",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

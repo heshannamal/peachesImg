@@ -33426,9 +33426,9 @@
     "source_image_ids": [
       3071
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -33438,9 +33438,9 @@
     "source_image_ids": [
       3072
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -33450,9 +33450,9 @@
     "source_image_ids": [
       3073
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -33470,39 +33470,45 @@
   },
   {
     "product_id": "2747",
-    "folder": "2747_Dark-Pendant-Necklace-0",
+    "folder": "2747_Dark-Pendant-Necklace-1",
     "source_image_ids": [
       3075
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2748",
-    "folder": "2748_Light-Pendant-Necklace-0",
+    "folder": "2748_Light-Pendant-Necklace-1",
     "source_image_ids": [
       3076
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2749",
-    "folder": "2749_Teardrop-Pendant-Necklace-0",
+    "folder": "2749_Teardrop-Pendant-Necklace-1",
     "source_image_ids": [
       3077
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2750",

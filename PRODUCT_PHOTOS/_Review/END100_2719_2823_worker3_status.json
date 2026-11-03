@@ -3,7 +3,7 @@
     "2761",
     "2760"
   ],
-  "status": "running",
+  "status": "paused_tool_response_error",
   "active_products": [],
   "inflight": 0,
   "completed_products": [
@@ -26,7 +26,10 @@
   },
   "last_session_completed": [
     "2761",
-    "2760"
+    "2760",
+    "2747"
   ],
-  "updated_at": "2026-11-03T00:24:03.728697+00:00"
+  "updated_at": "2026-11-03T00:27:25.124776+00:00",
+  "pending_product": "2746",
+  "blocker": "Native gridcall rejected without returned result. Promise.allSettled wrapper did not capture the rejection reason; no confirmed quota/moderation classification. Latestcache contact sheet inspected, no annulus-necklace output found. No automatic retry started."
 }

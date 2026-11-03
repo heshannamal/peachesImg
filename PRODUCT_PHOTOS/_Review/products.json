@@ -33245,9 +33245,9 @@
     "source_image_ids": [
       3054
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -33257,9 +33257,9 @@
     "source_image_ids": [
       3055
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -33269,9 +33269,9 @@
     "source_image_ids": [
       3056
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -33281,23 +33281,25 @@
     "source_image_ids": [
       3057
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2731",
-    "folder": "2731_Character-Pouches-0",
+    "folder": "2731_Character-Pouches-1",
     "source_image_ids": [
       3058
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2719-2823",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2732",
@@ -33307,7 +33309,7 @@
     ],
     "new_images": 0,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "blocked_moderation",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },

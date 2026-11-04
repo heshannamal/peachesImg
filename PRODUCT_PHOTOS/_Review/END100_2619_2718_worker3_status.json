@@ -1,18 +1,16 @@
 {
   "worker": "new_worker3",
-  "assigned": [
-    "2696",
-    "2695"
-  ],
-  "status": "generating_grids",
-  "inflight": 2,
-  "originals_verified": true,
+  "status": "pair_complete_claiming_next",
   "completed": [
     "2706",
-    "2705"
+    "2705",
+    "2696",
+    "2695"
   ],
   "blocked": [
     "2714",
     "2713"
-  ]
+  ],
+  "inflight": 0,
+  "originals_verified": true
 }

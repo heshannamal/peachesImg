@@ -32812,9 +32812,9 @@
     "source_image_ids": [
       3017
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -32824,9 +32824,9 @@
     "source_image_ids": [
       3018
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -32836,9 +32836,9 @@
     "source_image_ids": [
       3019
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -32848,59 +32848,67 @@
     "source_image_ids": [
       3020
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2695",
-    "folder": "2695_Green-Jewellery-Sets-0",
+    "folder": "2695_Green-Jewellery-Sets-1",
     "source_image_ids": [
       3021
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2696",
-    "folder": "2696_Long-Straight-Hair-Extension-0",
+    "folder": "2696_Long-Straight-Hair-Extension-1",
     "source_image_ids": [
       3022
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2697",
-    "folder": "2697_Long-Black-Hair-Extension-0",
+    "folder": "2697_Long-Black-Hair-Extension-1",
     "source_image_ids": [
       3023
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2698",
-    "folder": "2698_Long-Curled-Hair-Extension-0",
+    "folder": "2698_Long-Curled-Hair-Extension-1",
     "source_image_ids": [
       3024
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2699",

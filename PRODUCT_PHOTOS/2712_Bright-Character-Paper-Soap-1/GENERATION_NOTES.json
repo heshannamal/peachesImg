@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261002-WA0594.jpg": "413b4bc8905779fd1f9ced56cd730219a80bcac1ea8bffe806744cdc846adeef"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-96454549-87ce-48b2-a1f5-e06304814415.png",
+      "source_output": "/workspace/generated_images/exec-96454549-87ce-48b2-a1f5-e06304814415.png",
+      "sha256": "a9433e2fbbcca5fcd3450f65e789e7d1a2e8570e9a0da849f1e474d6a0810340",
+      "prompt": "Edit referenced original faithfully into ONE LANDSCAPE1536x1024 product photography image, EXACT3equalcolumns TWOequalrows six512squarecells, NOgutters/borders/separators/numbers/panellabels. Everyview independentlyframed INSIDEowncellwithmargin, nocrossboundaryobjects. Readingorder TOPLEFT01 FULL ORIGINALASSORTMENT purewhite seamless softshadow; TOPMIDDLE02 FULL SAMEASSORTMENT lavendercreamstyledstudio; TOPRIGHT03 FULL SAMEASSORTMENT on cream vanity in softlyblurred lavender room, daylight; BOTTOMLEFT04 STANDALONE TIGHTREALPARTMACRO of oneactual clear tub rounded corner/lidhinge and visible overlapping soap-sheet edges, NOTwholebox or fullassortment, no inventedparts; BOTTOMMIDDLE05 FULL SAMEASSORTMENT lavendercreamstudio withsmallaccurateheading PAPER SOAP COLLECTION; BOTTOMRIGHT06 BLANKcreamunused. Preserve sourceproductidentity/count/shapes/colours/actualpackageprinting/originaloverlap, no hiddenpiecesinvented. Removehand/watch/shop and EXTERNALblackpriceoverlay only, retain actualpinkpackageheader. Websitequalitysufficient, no addedclaims/extra products. Exact ENTIRE original pink rectangular displaybox with FIFTEEN visible clear square paper-soap tubs THREErows FIVEcolumns. Original columncolours LEFTTORIGHT BLUE,PALEYELLOW,PINK,MINTGREEN,LAVENDER, repeatedallthree rows. Retain original drawings: bluecolumn whiteface bigear hoodedfigure withyellowfloat; yelloworange furryfigure; pinkwhite/red-shirt figure; mintbrown mermaid/furryfigure; lavenderboatpair withLABUBUwording. Pink topheader Colourful Paper Craft/30pcs/NO1098 remains over original topmiddle tubedges, do NOT uncover hidden parts or create30tubs fromheader. Preserve exact15count, originalclear rounded-squared hingedplasticcases, colouredpaper-sheet contents, identical originalstaggering/occlusion andthreebyfive frontlayout. Entire sourcebox ONEproduct.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-96454549-87ce-48b2-a1f5-e06304814415.png",
+      "prompt": "Edit referenced original faithfully into ONE LANDSCAPE1536x1024 product photography image, EXACT3equalcolumns TWOequalrows six512squarecells, NOgutters/borders/separators/numbers/panellabels. Everyview independentlyframed INSIDEowncellwithmargin, nocrossboundaryobjects. Readingorder TOPLEFT01 FULL ORIGINALASSORTMENT purewhite seamless softshadow; TOPMIDDLE02 FULL SAMEASSORTMENT lavendercreamstyledstudio; TOPRIGHT03 FULL SAMEASSORTMENT on cream vanity in softlyblurred lavender room, daylight; BOTTOMLEFT04 STANDALONE TIGHTREALPARTMACRO of oneactual clear tub rounded corner/lidhinge and visible overlapping soap-sheet edges, NOTwholebox or fullassortment, no inventedparts; BOTTOMMIDDLE05 FULL SAMEASSORTMENT lavendercreamstudio withsmallaccurateheading PAPER SOAP COLLECTION; BOTTOMRIGHT06 BLANKcreamunused. Preserve sourceproductidentity/count/shapes/colours/actualpackageprinting/originaloverlap, no hiddenpiecesinvented. Removehand/watch/shop and EXTERNALblackpriceoverlay only, retain actualpinkpackageheader. Websitequalitysufficient, no addedclaims/extra products. Exact ENTIRE original pink rectangular displaybox with FIFTEEN visible clear square paper-soap tubs THREErows FIVEcolumns. Original columncolours LEFTTORIGHT BLUE,PALEYELLOW,PINK,MINTGREEN,LAVENDER, repeatedallthree rows. Retain original drawings: bluecolumn whiteface bigear hoodedfigure withyellowfloat; yelloworange furryfigure; pinkwhite/red-shirt figure; mintbrown mermaid/furryfigure; lavenderboatpair withLABUBUwording. Pink topheader Colourful Paper Craft/30pcs/NO1098 remains over original topmiddle tubedges, do NOT uncover hidden parts or create30tubs fromheader. Preserve exact15count, originalclear rounded-squared hingedplasticcases, colouredpaper-sheet contents, identical originalstaggering/occlusion andthreebyfive frontlayout. Entire sourcebox ONEproduct.",
+      "sha256": "b6380ae83ecc078852a767ba615aefe6573d26f78ee73ee79638bdad72231624",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-96454549-87ce-48b2-a1f5-e06304814415.png",
+      "grid_sha256": "a9433e2fbbcca5fcd3450f65e789e7d1a2e8570e9a0da849f1e474d6a0810340",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Compared original and actual512crop: FIFTEEN clear tubs in3rows5columns, original columncolours/characterfamilies, originalpinkheader/occlusion retained; correct whitebackground; no crosspanel content. Minor smallprintedart/text variations accepted for websitequality."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-96454549-87ce-48b2-a1f5-e06304814415.png",
+      "prompt": "Edit referenced original faithfully into ONE LANDSCAPE1536x1024 product photography image, EXACT3equalcolumns TWOequalrows six512squarecells, NOgutters/borders/separators/numbers/panellabels. Everyview independentlyframed INSIDEowncellwithmargin, nocrossboundaryobjects. Readingorder TOPLEFT01 FULL ORIGINALASSORTMENT purewhite seamless softshadow; TOPMIDDLE02 FULL SAMEASSORTMENT lavendercreamstyledstudio; TOPRIGHT03 FULL SAMEASSORTMENT on cream vanity in softlyblurred lavender room, daylight; BOTTOMLEFT04 STANDALONE TIGHTREALPARTMACRO of oneactual clear tub rounded corner/lidhinge and visible overlapping soap-sheet edges, NOTwholebox or fullassortment, no inventedparts; BOTTOMMIDDLE05 FULL SAMEASSORTMENT lavendercreamstudio withsmallaccurateheading PAPER SOAP COLLECTION; BOTTOMRIGHT06 BLANKcreamunused. Preserve sourceproductidentity/count/shapes/colours/actualpackageprinting/originaloverlap, no hiddenpiecesinvented. Removehand/watch/shop and EXTERNALblackpriceoverlay only, retain actualpinkpackageheader. Websitequalitysufficient, no addedclaims/extra products. Exact ENTIRE original pink rectangular displaybox with FIFTEEN visible clear square paper-soap tubs THREErows FIVEcolumns. Original columncolours LEFTTORIGHT BLUE,PALEYELLOW,PINK,MINTGREEN,LAVENDER, repeatedallthree rows. Retain original drawings: bluecolumn whiteface bigear hoodedfigure withyellowfloat; yelloworange furryfigure; pinkwhite/red-shirt figure; mintbrown mermaid/furryfigure; lavenderboatpair withLABUBUwording. Pink topheader Colourful Paper Craft/30pcs/NO1098 remains over original topmiddle tubedges, do NOT uncover hidden parts or create30tubs fromheader. Preserve exact15count, originalclear rounded-squared hingedplasticcases, colouredpaper-sheet contents, identical originalstaggering/occlusion andthreebyfive frontlayout. Entire sourcebox ONEproduct.",
+      "sha256": "004992bc7f62b831bd3ddbcf9a13b452dbfd12ff3258f8eff5af44c31900908d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-96454549-87ce-48b2-a1f5-e06304814415.png",
+      "grid_sha256": "a9433e2fbbcca5fcd3450f65e789e7d1a2e8570e9a0da849f1e474d6a0810340",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Compared original and actual512crop: FIFTEEN clear tubs in3rows5columns, original columncolours/characterfamilies, originalpinkheader/occlusion retained; correct lavendercreamstyledsetting; no crosspanel content. Minor smallprintedart/text variations accepted for websitequality."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-96454549-87ce-48b2-a1f5-e06304814415.png",
+      "prompt": "Edit referenced original faithfully into ONE LANDSCAPE1536x1024 product photography image, EXACT3equalcolumns TWOequalrows six512squarecells, NOgutters/borders/separators/numbers/panellabels. Everyview independentlyframed INSIDEowncellwithmargin, nocrossboundaryobjects. Readingorder TOPLEFT01 FULL ORIGINALASSORTMENT purewhite seamless softshadow; TOPMIDDLE02 FULL SAMEASSORTMENT lavendercreamstyledstudio; TOPRIGHT03 FULL SAMEASSORTMENT on cream vanity in softlyblurred lavender room, daylight; BOTTOMLEFT04 STANDALONE TIGHTREALPARTMACRO of oneactual clear tub rounded corner/lidhinge and visible overlapping soap-sheet edges, NOTwholebox or fullassortment, no inventedparts; BOTTOMMIDDLE05 FULL SAMEASSORTMENT lavendercreamstudio withsmallaccurateheading PAPER SOAP COLLECTION; BOTTOMRIGHT06 BLANKcreamunused. Preserve sourceproductidentity/count/shapes/colours/actualpackageprinting/originaloverlap, no hiddenpiecesinvented. Removehand/watch/shop and EXTERNALblackpriceoverlay only, retain actualpinkpackageheader. Websitequalitysufficient, no addedclaims/extra products. Exact ENTIRE original pink rectangular displaybox with FIFTEEN visible clear square paper-soap tubs THREErows FIVEcolumns. Original columncolours LEFTTORIGHT BLUE,PALEYELLOW,PINK,MINTGREEN,LAVENDER, repeatedallthree rows. Retain original drawings: bluecolumn whiteface bigear hoodedfigure withyellowfloat; yelloworange furryfigure; pinkwhite/red-shirt figure; mintbrown mermaid/furryfigure; lavenderboatpair withLABUBUwording. Pink topheader Colourful Paper Craft/30pcs/NO1098 remains over original topmiddle tubedges, do NOT uncover hidden parts or create30tubs fromheader. Preserve exact15count, originalclear rounded-squared hingedplasticcases, colouredpaper-sheet contents, identical originalstaggering/occlusion andthreebyfive frontlayout. Entire sourcebox ONEproduct.",
+      "sha256": "cdc71f45cc4b09819cbcd267e755115b89bcaef8a8b24ce88d20c4233de1a04a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-96454549-87ce-48b2-a1f5-e06304814415.png",
+      "grid_sha256": "a9433e2fbbcca5fcd3450f65e789e7d1a2e8570e9a0da849f1e474d6a0810340",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Compared original and actual512crop: FIFTEEN clear tubs in3rows5columns, original columncolours/characterfamilies, originalpinkheader/occlusion retained; correct lifestylevanitysetting; no crosspanel content. Minor smallprintedart/text variations accepted for websitequality."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-96454549-87ce-48b2-a1f5-e06304814415.png",
+      "prompt": "Edit referenced original faithfully into ONE LANDSCAPE1536x1024 product photography image, EXACT3equalcolumns TWOequalrows six512squarecells, NOgutters/borders/separators/numbers/panellabels. Everyview independentlyframed INSIDEowncellwithmargin, nocrossboundaryobjects. Readingorder TOPLEFT01 FULL ORIGINALASSORTMENT purewhite seamless softshadow; TOPMIDDLE02 FULL SAMEASSORTMENT lavendercreamstyledstudio; TOPRIGHT03 FULL SAMEASSORTMENT on cream vanity in softlyblurred lavender room, daylight; BOTTOMLEFT04 STANDALONE TIGHTREALPARTMACRO of oneactual clear tub rounded corner/lidhinge and visible overlapping soap-sheet edges, NOTwholebox or fullassortment, no inventedparts; BOTTOMMIDDLE05 FULL SAMEASSORTMENT lavendercreamstudio withsmallaccurateheading PAPER SOAP COLLECTION; BOTTOMRIGHT06 BLANKcreamunused. Preserve sourceproductidentity/count/shapes/colours/actualpackageprinting/originaloverlap, no hiddenpiecesinvented. Removehand/watch/shop and EXTERNALblackpriceoverlay only, retain actualpinkpackageheader. Websitequalitysufficient, no addedclaims/extra products. Exact ENTIRE original pink rectangular displaybox with FIFTEEN visible clear square paper-soap tubs THREErows FIVEcolumns. Original columncolours LEFTTORIGHT BLUE,PALEYELLOW,PINK,MINTGREEN,LAVENDER, repeatedallthree rows. Retain original drawings: bluecolumn whiteface bigear hoodedfigure withyellowfloat; yelloworange furryfigure; pinkwhite/red-shirt figure; mintbrown mermaid/furryfigure; lavenderboatpair withLABUBUwording. Pink topheader Colourful Paper Craft/30pcs/NO1098 remains over original topmiddle tubedges, do NOT uncover hidden parts or create30tubs fromheader. Preserve exact15count, originalclear rounded-squared hingedplasticcases, colouredpaper-sheet contents, identical originalstaggering/occlusion andthreebyfive frontlayout. Entire sourcebox ONEproduct.",
+      "sha256": "bf55eea51e038c319acd0354e6a00c60750b8895f12488b79b37327962eb57cd",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-96454549-87ce-48b2-a1f5-e06304814415.png",
+      "grid_sha256": "a9433e2fbbcca5fcd3450f65e789e7d1a2e8570e9a0da849f1e474d6a0810340",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual512detailcrop is tightrealpartview of clearcase roundededge/lidhinge and visible soap-sheet edges with original colour/print family; no fullassortment, no inventedbackpart. Cropboundary clean; minor printedart variation accepted."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-96454549-87ce-48b2-a1f5-e06304814415.png",
+      "prompt": "Edit referenced original faithfully into ONE LANDSCAPE1536x1024 product photography image, EXACT3equalcolumns TWOequalrows six512squarecells, NOgutters/borders/separators/numbers/panellabels. Everyview independentlyframed INSIDEowncellwithmargin, nocrossboundaryobjects. Readingorder TOPLEFT01 FULL ORIGINALASSORTMENT purewhite seamless softshadow; TOPMIDDLE02 FULL SAMEASSORTMENT lavendercreamstyledstudio; TOPRIGHT03 FULL SAMEASSORTMENT on cream vanity in softlyblurred lavender room, daylight; BOTTOMLEFT04 STANDALONE TIGHTREALPARTMACRO of oneactual clear tub rounded corner/lidhinge and visible overlapping soap-sheet edges, NOTwholebox or fullassortment, no inventedparts; BOTTOMMIDDLE05 FULL SAMEASSORTMENT lavendercreamstudio withsmallaccurateheading PAPER SOAP COLLECTION; BOTTOMRIGHT06 BLANKcreamunused. Preserve sourceproductidentity/count/shapes/colours/actualpackageprinting/originaloverlap, no hiddenpiecesinvented. Removehand/watch/shop and EXTERNALblackpriceoverlay only, retain actualpinkpackageheader. Websitequalitysufficient, no addedclaims/extra products. Exact ENTIRE original pink rectangular displaybox with FIFTEEN visible clear square paper-soap tubs THREErows FIVEcolumns. Original columncolours LEFTTORIGHT BLUE,PALEYELLOW,PINK,MINTGREEN,LAVENDER, repeatedallthree rows. Retain original drawings: bluecolumn whiteface bigear hoodedfigure withyellowfloat; yelloworange furryfigure; pinkwhite/red-shirt figure; mintbrown mermaid/furryfigure; lavenderboatpair withLABUBUwording. Pink topheader Colourful Paper Craft/30pcs/NO1098 remains over original topmiddle tubedges, do NOT uncover hidden parts or create30tubs fromheader. Preserve exact15count, originalclear rounded-squared hingedplasticcases, colouredpaper-sheet contents, identical originalstaggering/occlusion andthreebyfive frontlayout. Entire sourcebox ONEproduct.",
+      "sha256": "a7e67f8de3e20e414a347ef5ecd7343f8e6744793e43bfa4d4b5780357bfb035",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-96454549-87ce-48b2-a1f5-e06304814415.png",
+      "grid_sha256": "a9433e2fbbcca5fcd3450f65e789e7d1a2e8570e9a0da849f1e474d6a0810340",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Compared original and actual512crop: FIFTEEN clear tubs in3rows5columns, original columncolours/characterfamilies, originalpinkheader/occlusion retained; correct accurate promotional heading; no crosspanel content. Minor smallprintedart/text variations accepted for websitequality."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_plan_sha256_verified": true,
+  "completed_at": "2026-11-04T01:14:17.043463+00:00"
+}

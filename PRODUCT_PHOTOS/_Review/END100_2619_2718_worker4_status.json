@@ -1,9 +1,10 @@
 {
   "worker": "new_worker4",
-  "assigned": [
+  "completed": [
     "2712",
     "2711"
   ],
-  "status": "generating_initial_grids",
-  "max_active": 2
+  "images_saved_checked": 10,
+  "inflight": 0,
+  "status": "pair_complete"
 }

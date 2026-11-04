@@ -1,0 +1,17 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261002-WA0624.jpg": "c106cbe3770bc077a02fe9384b21c6b29afc09cc9f6324ba3031495a2cc39068"
+  },
+  "records": [],
+  "status": "blocked_moderation",
+  "blocker": {
+    "type": "native_output_moderation",
+    "category": "other",
+    "request_id": "1b6b3320-e3ac-46e9-8cc6-c2e00c0e2de5",
+    "prompt": "Create ONE faithful reference-edit image LANDSCAPE1536x1024 with EXACT3EQUALCOLUMNS x2EQUALROWS, six512x512cells, NOgutters/borders/panelnumbers/labels. Readingorder: TOPLEFT01WHITE fullassortment;TOPMIDDLE02LAVENDER/CREAMstyled fullassortment;TOPRIGHT03LIFESTYLE fullassortment oncreamkitchencounter softlyblurredlavenderroom;BOTTOMLEFT04standaloneTIGHTREALPARTMACRO of actualblackslidinglid/metalrimjunction ONLY, notwholecup/pair;BOTTOMMIDDLE05PROMO fullassortment heading CHARACTER TUMBLER PAIR;BOTTOMRIGHT06blankcreamunused. Everyview completelyinsideitscell withmargin, nevercrosscellboundaries. Exact original TWO tall cylindrical character tumblers SIDE BY SIDE, BLUEleft WHITEright. Preserve actual slenderbody proportions, blackclosedsliderlids withsame uprighttab and sidehinges, silverrim bands, original purple/pinkSTITCH lettering,cherryprints and original bluebig-eyed characterprint/pose/colours exactlysource. KeepTWOcupcount and samefrontorientation, no inventedhandles/straws/opensides or hiddenparts. WholepairONEproduct inallfullviews. Remove shopbackground,price/900ml/stainlesssteel externaloverlay only; retain actualproductprinteddesigns, no addedmaterial/benefitclaims. Realistic website-qualitylighting softshadows, samecountidentityshapecolours throughout; no extra items or redesignedillustrations.\n",
+    "retry_attempted": false
+  },
+  "quality_standard": "website-ready; no moderation retries"
+}

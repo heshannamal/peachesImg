@@ -1,37 +1,27 @@
 {
   "assigned": {
     "new_worker1": [
-      "2718",
-      "2717"
+      "2708",
+      "2707"
     ],
     "new_worker2": [
-      "2716",
-      "2715"
+      "2704",
+      "2703"
     ],
     "new_worker3": [
-      "2714",
-      "2713"
+      "2706",
+      "2705"
     ],
     "new_worker4": [
-      "2712",
-      "2711"
+      "2702",
+      "2701"
     ],
     "new_worker5": [
-      "2710",
-      "2709"
+      "2700",
+      "2699"
     ]
   },
   "next_unassigned": [
-    "2708",
-    "2707",
-    "2706",
-    "2705",
-    "2704",
-    "2703",
-    "2702",
-    "2701",
-    "2700",
-    "2699",
     "2698",
     "2697",
     "2696",
@@ -114,5 +104,42 @@
     "2619"
   ],
   "order": "descending_numeric_product_id",
-  "workflow": "one_native3x2grid_fiveviews_then_crop"
+  "workflow": "one_native3x2grid_fiveviews_then_crop",
+  "assignment_history": [
+    {
+      "worker": "new_worker1",
+      "product_ids": [
+        "2718",
+        "2717"
+      ]
+    },
+    {
+      "worker": "new_worker3",
+      "product_ids": [
+        "2714",
+        "2713"
+      ]
+    },
+    {
+      "worker": "new_worker2",
+      "product_ids": [
+        "2716",
+        "2715"
+      ]
+    },
+    {
+      "worker": "new_worker4",
+      "product_ids": [
+        "2712",
+        "2711"
+      ]
+    },
+    {
+      "worker": "new_worker5",
+      "product_ids": [
+        "2710",
+        "2709"
+      ]
+    }
+  ]
 }

@@ -1,8 +1,10 @@
 {
   "worker": "new_worker5",
-  "active": [
+  "completed_products": [
     "2710",
     "2709"
   ],
-  "status": "generating_native_grids"
+  "status": "pair_complete",
+  "active": [],
+  "inflight": 0
 }

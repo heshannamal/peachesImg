@@ -1,0 +1,26 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "status": "blocked_moderation",
+  "original_hashes": {
+    "Originals/IMG-20261002-WA0604.jpg": "03b3abfbe38a7687d5536b3a688c81aac73b12ca8ff95da4ec89d6f73bb1d8bb",
+    "Originals/IMG-20261002-WA0605.jpg": "33570f688306949835616a275bc66bbc8b3b4ebcef997dd704cb565398bcb295"
+  },
+  "records": [],
+  "attempts": [
+    {
+      "prompt": "ONE faithful native reference product-photo grid LANDSCAPE1536x1024 EXACT3equalcolumns by2equalrows six512squarecells. NOgutters/borders/dividers/panellabels/numbers. Eachview independentlyframed whollyinsidecell withmargin, nocrossboundaryobjects. Readingorder TOPLEFT01fulloriginalassortment WHITE seamless softshadow; TOPMIDDLE02sameFULLassortment lavendercreamstyledstudio; TOPRIGHT03sameFULLassortment oncream bathroomcounter softlyblurred lavenderroom; BOTTOMLEFT04STANDALONE TIGHTMACRO ONLY actualvisible clearcase hinge/edge and pastelpaper sheet texture, NOTwholeassortment, no inventedinteriors; BOTTOMMIDDLE05sameFULLassortment withsmall accurateheading PAPER SOAP SET onlavendercream; BOTTOMRIGHT06blankcreamunused. Retain exactsourcevisible count/identity/shapes/colours/material/printedart/packaging and originalarrangement, no addedproducts/claims. Removehand/shop and externalprice/minimumquantity overlays only. Keep realproductprintedlabels. Websitequalitysufficient. TWO DISTINCT original PINK DISPLAYTRAYS sidebyside asONEwholeassortment, EACH EXACTFIFTEEN transparent rectangular flip-lid paper-soap cases THREErows FIVEcolumns,30visiblecases total. Firsttray originalcolumns pinkhuggingStitch,blue/yellowpartyStitch,whitepaint-splashStitch,lavenderflowerStitch,yellowguitarStitch. Secondtray columns pink/lilaccheckericecreamStitch,yellowcakeStitch,pinkhuggingStitch,blueskateboardStitch,whitefloralStitch. Preserve eachsourcecolumn's threecase positions, actualsameclearcasegeometry/latches, pastelsoap sheetsinside, printedbluecharacterfaces/designs and PINK ColourfulPaperCraft headers partiallyoccludingtoprow. DoNOTcombine intoone15tray orduplicateonlyonephoto. Keep originalclearouterwrap and exactvisibleoverlap. Fullviews show BOTHcomplete traysonce,THIRTY cases total,15each, not30pertray. ",
+      "source_images": [
+        "Originals/IMG-20261002-WA0604.jpg",
+        "Originals/IMG-20261002-WA0605.jpg"
+      ],
+      "result": "native_output_moderation_blocked",
+      "http_status": 400,
+      "category": "other",
+      "request_id": "b3229f60-964b-4234-b4a5-01f89c607422",
+      "retry_attempted": false,
+      "timestamp": "2026-11-04T01:13:29.996510+00:00"
+    }
+  ],
+  "blocker": "Native image generation output moderation blocked; skipped without retry. No generated output returned."
+}

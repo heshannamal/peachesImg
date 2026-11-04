@@ -1,0 +1,24 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "status": "blocked_moderation",
+  "original_hashes": {
+    "Originals/IMG-20261002-WA0599.jpg": "6662d99d505de938a24b7fe26d339d754fa843feee8c46d6bf7107e7b273570d"
+  },
+  "records": [],
+  "attempts": [
+    {
+      "prompt": "ONE faithful native reference product-photo grid LANDSCAPE1536x1024 EXACT3equalcolumns by2equalrows six512squarecells. NOgutters/borders/dividers/panellabels/numbers. Eachview independentlyframed whollyinsidecell withmargin, nocrossboundaryobjects. Readingorder TOPLEFT01fulloriginalassortment WHITE seamless softshadow; TOPMIDDLE02sameFULLassortment lavendercreamstyledstudio; TOPRIGHT03sameFULLassortment oncream bathroomcounter softlyblurred lavenderroom; BOTTOMLEFT04STANDALONE TIGHTMACRO ONLY actualvisible clearcase hinge/edge and pastelpaper sheet texture, NOTwholeassortment, no inventedinteriors; BOTTOMMIDDLE05sameFULLassortment withsmall accurateheading PAPER SOAP SET onlavendercream; BOTTOMRIGHT06blankcreamunused. Retain exactsourcevisible count/identity/shapes/colours/material/printedart/packaging and originalarrangement, no addedproducts/claims. Removehand/shop and externalprice/minimumquantity overlays only. Keep realproductprintedlabels. Websitequalitysufficient. EXACT ONE original PINK DISPLAYTRAY containing FIFTEEN transparent rectangular flip-lid paper-soap cases THREErows FIVEcolumns. Originallefttorightcolumns repeatedthreerows: WHITEfloralStitch label, BLUEskateboardStitch, PINK/LILACcheckericecreamStitch, YELLOWguitarStitch, PINKhuggingStitch. Preserve exact15count, actualclearcasehinges/roundedcorners/pastelsoap sheetsinside, eachoriginalcharacterface/printedart/coloursequence, originalpink ColourfulPaperCraft header partlyoccludingtoprow and clearouterwrap/overlap. DoNOTinfer30visiblecases from30pcsboxprint; only15foregroundcases arevisible. No extra trays/cases or openingcases/inventedparts. ",
+      "source_images": [
+        "Originals/IMG-20261002-WA0599.jpg"
+      ],
+      "result": "native_output_moderation_blocked",
+      "http_status": 400,
+      "category": "other",
+      "request_id": "5dbc785c-59b1-499e-a5a0-17ccc675e2f9",
+      "retry_attempted": false,
+      "timestamp": "2026-11-04T01:13:29.999199+00:00"
+    }
+  ],
+  "blocker": "Native image generation output moderation blocked; skipped without retry. No generated output returned."
+}

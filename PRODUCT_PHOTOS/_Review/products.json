@@ -32904,27 +32904,31 @@
   },
   {
     "product_id": "2699",
-    "folder": "2699_Medium-Straight-Hair-Extension-0",
+    "folder": "2699_Medium-Straight-Hair-Extension-1",
     "source_image_ids": [
       3025
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2700",
-    "folder": "2700_Medium-Wavy-Hair-Extension-0",
+    "folder": "2700_Medium-Wavy-Hair-Extension-1",
     "source_image_ids": [
       3026
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2701",
@@ -32932,9 +32936,9 @@
     "source_image_ids": [
       3027
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -32944,23 +32948,25 @@
     "source_image_ids": [
       3028
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
-    "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
-  },
-  {
-    "product_id": "2703",
-    "folder": "2703_Black-Gold-Bead-Bracelet-0",
-    "source_image_ids": [
-      3029
-    ],
     "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
+  },
+  {
+    "product_id": "2703",
+    "folder": "2703_Black-Gold-Bead-Bracelet-1",
+    "source_image_ids": [
+      3029
+    ],
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
+    "grouping_status": "initial-visual-grouping",
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2704",
@@ -32970,33 +32976,37 @@
     ],
     "new_images": 0,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "blocked_moderation",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2705",
-    "folder": "2705_Pastel-Character-Water-Bottles-0",
+    "folder": "2705_Pastel-Character-Water-Bottles-1",
     "source_image_ids": [
       3031
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2706",
-    "folder": "2706_Printed-Character-Tumblers-0",
+    "folder": "2706_Printed-Character-Tumblers-1",
     "source_image_ids": [
       3032
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2707",
@@ -33012,15 +33022,17 @@
   },
   {
     "product_id": "2708",
-    "folder": "2708_Pink-Character-Paper-Soap-0",
+    "folder": "2708_Pink-Character-Paper-Soap-1",
     "source_image_ids": [
       3034
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2709",

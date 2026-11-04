@@ -2,15 +2,19 @@
   "worker": "new_worker1",
   "complete_product_ids": [
     "2718",
-    "2717"
+    "2717",
+    "2708"
   ],
   "status": "generating_grids",
   "active_products": 2,
   "inflight_calls": 2,
-  "saved_checked_images": 10,
+  "saved_checked_images": 15,
   "corrective_retries": 0,
   "assigned": [
-    "2708",
+    "2698",
+    "2697"
+  ],
+  "blocked_product_ids": [
     "2707"
   ]
 }

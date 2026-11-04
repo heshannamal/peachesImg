@@ -1,5 +1,5 @@
 {
-  "status": "blocked_environment_startup_failed",
+  "status": "superseded_by_verified_plan",
   "target_products": 100,
   "target_images": 500,
   "product_ids": [
@@ -1338,5 +1338,8 @@
   "pending_products": 100,
   "saved_images": 0,
   "checked_images": 0,
-  "action_needed": "Restart or repair the managed workspace, then resume these exact100 candidates. Original SHA256 baselines still must be frozen before generation."
+  "action_needed": "Restart or repair the managed workspace, then resume these exact100 candidates. Original SHA256 baselines still must be frozen before generation.",
+  "resolved_blocker": "Workspaceavailable; all122originalSHA256baselines frozen beforegeneration.",
+  "verified_plan": "PRODUCT_PHOTOS/_Review/END100_2619_2718_PLAN.json",
+  "progress_file": "PRODUCT_PHOTOS/_Review/END100_2619_2718_PROGRESS.json"
 }

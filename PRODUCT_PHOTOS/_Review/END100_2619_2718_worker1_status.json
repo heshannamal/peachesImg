@@ -1,22 +1,21 @@
 {
-  "worker": "new_worker1",
-  "complete_product_ids": [
-    "2718",
-    "2717",
-    "2708",
-    "2698",
-    "2697"
-  ],
+  "updated_at": "2026-11-07T06:24:08.486556+00:00",
   "status": "pair_complete",
-  "active_products": 0,
-  "inflight_calls": 0,
-  "saved_checked_images": 25,
-  "corrective_retries": 0,
-  "assigned": [
-    "2698",
-    "2697"
+  "completed": [
+    {
+      "product_id": "2686",
+      "folder": "2686_Clear-Jewellery-Sets-1",
+      "status": "complete",
+      "checked_images": 5,
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "2685",
+      "folder": "2685_Black-Jewellery-Sets-1",
+      "status": "complete",
+      "checked_images": 5,
+      "originals_unchanged": true
+    }
   ],
-  "blocked_product_ids": [
-    "2707"
-  ]
+  "inflight": 0
 }

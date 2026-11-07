@@ -1,0 +1,136 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261002-WA0273.jpg": "fedf663b5e68c8b6770bdd5e46380cce3759e703dc319f46bce18d85857e36d1"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-a61903f5-5cef-4104-8638-90ba88eb1b04.png",
+      "source_output": "/workspace/generated_images/exec-a61903f5-5cef-4104-8638-90ba88eb1b04.png",
+      "sha256": "cad499b735672cdadce1112b85d211828b20fbbb14e3268b0262ed4081216f1a",
+      "prompt": "Faithful website reference-photo edit into ONE LANDSCAPE1536x1024 image, EXACT THREE EQUAL columns by TWO EQUAL rows: six512squarecells, NO gutters,borders,separatorlines or panel labels. Every view entirely inside its own cell with safe margins. Readingorder topLEFT01WHITE fulloriginalassortment; topMIDDLE02LAVENDER/CREAM studio fulloriginalassortment; topRIGHT03creamvanity LIFESTYLE fulloriginalassortment; bottomLEFT04standalone TIGHTREALPARTMACRO ONLY one existing red, hotpink, salmon/orange filled four-lobed clover and adjoining gold chain, notwholebracelet/set; bottomMIDDLE05PROMO fulloriginalassortment heading RED CLOVER BRACELET SET; bottomRIGHT06blankcreamunused. Exact original THREE front individually packaged gold-tone chain BRACELETS on THREE longwhitecards sidebyside, each FIVE four-lobed clover charms, FIFTEEN visible clovers total. Preserve exact source red, hotpink, salmon/orange opaque cloverfills, gold beaded/scalloped rims, original rotations/size/gold chainlinks, clasps/extensionparts only as visible, original diagonal cardarrangement/overlap and clear wrapping. Rear partial headers remain occluded, no extra bracelets inferred or invented hidden parts. NOT necklace-and-earring sets. All fullviews show EXACT3bracelets/3frontcards with EXACT5clovers EACH in same sourcefrontgeometry. Remove hand/shop and external325Rs/stainlesssteel/lifetimewarrantyclaims only, retain actualpackageprint, no added material/authenticity/warranty or other claims. Same actual shapes,colours,identity,count throughout, natural soft product shadows, website-ready realistic lighting. Do not unpack or rearrange charms, no extra jewellery or newtext except accuratepromoheading.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "Rejected/01_White-Background-original-grid-shop-background.png",
+      "source_output": "/workspace/generated_images/exec-a61903f5-5cef-4104-8638-90ba88eb1b04.png",
+      "prompt": "Faithful website reference-photo edit into ONE LANDSCAPE1536x1024 image, EXACT THREE EQUAL columns by TWO EQUAL rows: six512squarecells, NO gutters,borders,separatorlines or panel labels. Every view entirely inside its own cell with safe margins. Readingorder topLEFT01WHITE fulloriginalassortment; topMIDDLE02LAVENDER/CREAM studio fulloriginalassortment; topRIGHT03creamvanity LIFESTYLE fulloriginalassortment; bottomLEFT04standalone TIGHTREALPARTMACRO ONLY one existing red, hotpink, salmon/orange filled four-lobed clover and adjoining gold chain, notwholebracelet/set; bottomMIDDLE05PROMO fulloriginalassortment heading RED CLOVER BRACELET SET; bottomRIGHT06blankcreamunused. Exact original THREE front individually packaged gold-tone chain BRACELETS on THREE longwhitecards sidebyside, each FIVE four-lobed clover charms, FIFTEEN visible clovers total. Preserve exact source red, hotpink, salmon/orange opaque cloverfills, gold beaded/scalloped rims, original rotations/size/gold chainlinks, clasps/extensionparts only as visible, original diagonal cardarrangement/overlap and clear wrapping. Rear partial headers remain occluded, no extra bracelets inferred or invented hidden parts. NOT necklace-and-earring sets. All fullviews show EXACT3bracelets/3frontcards with EXACT5clovers EACH in same sourcefrontgeometry. Remove hand/shop and external325Rs/stainlesssteel/lifetimewarrantyclaims only, retain actualpackageprint, no added material/authenticity/warranty or other claims. Same actual shapes,colours,identity,count throughout, natural soft product shadows, website-ready realistic lighting. Do not unpack or rearrange charms, no extra jewellery or newtext except accuratepromoheading.",
+      "sha256": "7b380539f670c6bca62a0b72b9a771a2a361f1ba527223b8020ef6044d511c58",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a61903f5-5cef-4104-8638-90ba88eb1b04.png",
+      "grid_sha256": "cad499b735672cdadce1112b85d211828b20fbbb14e3268b0262ed4081216f1a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Material view-type failure: retained blurred dark shop background rather than required pure-white background. Product identities/count passed; one corrective white attempt authorized."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-a61903f5-5cef-4104-8638-90ba88eb1b04.png",
+      "prompt": "Faithful website reference-photo edit into ONE LANDSCAPE1536x1024 image, EXACT THREE EQUAL columns by TWO EQUAL rows: six512squarecells, NO gutters,borders,separatorlines or panel labels. Every view entirely inside its own cell with safe margins. Readingorder topLEFT01WHITE fulloriginalassortment; topMIDDLE02LAVENDER/CREAM studio fulloriginalassortment; topRIGHT03creamvanity LIFESTYLE fulloriginalassortment; bottomLEFT04standalone TIGHTREALPARTMACRO ONLY one existing red, hotpink, salmon/orange filled four-lobed clover and adjoining gold chain, notwholebracelet/set; bottomMIDDLE05PROMO fulloriginalassortment heading RED CLOVER BRACELET SET; bottomRIGHT06blankcreamunused. Exact original THREE front individually packaged gold-tone chain BRACELETS on THREE longwhitecards sidebyside, each FIVE four-lobed clover charms, FIFTEEN visible clovers total. Preserve exact source red, hotpink, salmon/orange opaque cloverfills, gold beaded/scalloped rims, original rotations/size/gold chainlinks, clasps/extensionparts only as visible, original diagonal cardarrangement/overlap and clear wrapping. Rear partial headers remain occluded, no extra bracelets inferred or invented hidden parts. NOT necklace-and-earring sets. All fullviews show EXACT3bracelets/3frontcards with EXACT5clovers EACH in same sourcefrontgeometry. Remove hand/shop and external325Rs/stainlesssteel/lifetimewarrantyclaims only, retain actualpackageprint, no added material/authenticity/warranty or other claims. Same actual shapes,colours,identity,count throughout, natural soft product shadows, website-ready realistic lighting. Do not unpack or rearrange charms, no extra jewellery or newtext except accuratepromoheading.",
+      "sha256": "489a016239ad07ab0c6141e5878c56dee9b760943cf5a0e138708651831322c1",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a61903f5-5cef-4104-8638-90ba88eb1b04.png",
+      "grid_sha256": "cad499b735672cdadce1112b85d211828b20fbbb14e3268b0262ed4081216f1a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual individual crop compared with original. Fullviews retain THREE packaged bracelets, five four-lobed clovers each, source chain/card/colour order; macro is tight real clover and chain; styled/lifestyle/promo correct with clean crop boundaries. Minor small package typography accepted."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-a61903f5-5cef-4104-8638-90ba88eb1b04.png",
+      "prompt": "Faithful website reference-photo edit into ONE LANDSCAPE1536x1024 image, EXACT THREE EQUAL columns by TWO EQUAL rows: six512squarecells, NO gutters,borders,separatorlines or panel labels. Every view entirely inside its own cell with safe margins. Readingorder topLEFT01WHITE fulloriginalassortment; topMIDDLE02LAVENDER/CREAM studio fulloriginalassortment; topRIGHT03creamvanity LIFESTYLE fulloriginalassortment; bottomLEFT04standalone TIGHTREALPARTMACRO ONLY one existing red, hotpink, salmon/orange filled four-lobed clover and adjoining gold chain, notwholebracelet/set; bottomMIDDLE05PROMO fulloriginalassortment heading RED CLOVER BRACELET SET; bottomRIGHT06blankcreamunused. Exact original THREE front individually packaged gold-tone chain BRACELETS on THREE longwhitecards sidebyside, each FIVE four-lobed clover charms, FIFTEEN visible clovers total. Preserve exact source red, hotpink, salmon/orange opaque cloverfills, gold beaded/scalloped rims, original rotations/size/gold chainlinks, clasps/extensionparts only as visible, original diagonal cardarrangement/overlap and clear wrapping. Rear partial headers remain occluded, no extra bracelets inferred or invented hidden parts. NOT necklace-and-earring sets. All fullviews show EXACT3bracelets/3frontcards with EXACT5clovers EACH in same sourcefrontgeometry. Remove hand/shop and external325Rs/stainlesssteel/lifetimewarrantyclaims only, retain actualpackageprint, no added material/authenticity/warranty or other claims. Same actual shapes,colours,identity,count throughout, natural soft product shadows, website-ready realistic lighting. Do not unpack or rearrange charms, no extra jewellery or newtext except accuratepromoheading.",
+      "sha256": "96a685b29f53239b8abedc6b447e6f07a6488e639b1c8a1d6c9da0fb5dab3409",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a61903f5-5cef-4104-8638-90ba88eb1b04.png",
+      "grid_sha256": "cad499b735672cdadce1112b85d211828b20fbbb14e3268b0262ed4081216f1a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual individual crop compared with original. Fullviews retain THREE packaged bracelets, five four-lobed clovers each, source chain/card/colour order; macro is tight real clover and chain; styled/lifestyle/promo correct with clean crop boundaries. Minor small package typography accepted."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-a61903f5-5cef-4104-8638-90ba88eb1b04.png",
+      "prompt": "Faithful website reference-photo edit into ONE LANDSCAPE1536x1024 image, EXACT THREE EQUAL columns by TWO EQUAL rows: six512squarecells, NO gutters,borders,separatorlines or panel labels. Every view entirely inside its own cell with safe margins. Readingorder topLEFT01WHITE fulloriginalassortment; topMIDDLE02LAVENDER/CREAM studio fulloriginalassortment; topRIGHT03creamvanity LIFESTYLE fulloriginalassortment; bottomLEFT04standalone TIGHTREALPARTMACRO ONLY one existing red, hotpink, salmon/orange filled four-lobed clover and adjoining gold chain, notwholebracelet/set; bottomMIDDLE05PROMO fulloriginalassortment heading RED CLOVER BRACELET SET; bottomRIGHT06blankcreamunused. Exact original THREE front individually packaged gold-tone chain BRACELETS on THREE longwhitecards sidebyside, each FIVE four-lobed clover charms, FIFTEEN visible clovers total. Preserve exact source red, hotpink, salmon/orange opaque cloverfills, gold beaded/scalloped rims, original rotations/size/gold chainlinks, clasps/extensionparts only as visible, original diagonal cardarrangement/overlap and clear wrapping. Rear partial headers remain occluded, no extra bracelets inferred or invented hidden parts. NOT necklace-and-earring sets. All fullviews show EXACT3bracelets/3frontcards with EXACT5clovers EACH in same sourcefrontgeometry. Remove hand/shop and external325Rs/stainlesssteel/lifetimewarrantyclaims only, retain actualpackageprint, no added material/authenticity/warranty or other claims. Same actual shapes,colours,identity,count throughout, natural soft product shadows, website-ready realistic lighting. Do not unpack or rearrange charms, no extra jewellery or newtext except accuratepromoheading.",
+      "sha256": "4921cb31eba916292aea24a773968f11ed09f1913096f3bd97580bc8a13b5a4e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a61903f5-5cef-4104-8638-90ba88eb1b04.png",
+      "grid_sha256": "cad499b735672cdadce1112b85d211828b20fbbb14e3268b0262ed4081216f1a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual individual crop compared with original. Fullviews retain THREE packaged bracelets, five four-lobed clovers each, source chain/card/colour order; macro is tight real clover and chain; styled/lifestyle/promo correct with clean crop boundaries. Minor small package typography accepted."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-a61903f5-5cef-4104-8638-90ba88eb1b04.png",
+      "prompt": "Faithful website reference-photo edit into ONE LANDSCAPE1536x1024 image, EXACT THREE EQUAL columns by TWO EQUAL rows: six512squarecells, NO gutters,borders,separatorlines or panel labels. Every view entirely inside its own cell with safe margins. Readingorder topLEFT01WHITE fulloriginalassortment; topMIDDLE02LAVENDER/CREAM studio fulloriginalassortment; topRIGHT03creamvanity LIFESTYLE fulloriginalassortment; bottomLEFT04standalone TIGHTREALPARTMACRO ONLY one existing red, hotpink, salmon/orange filled four-lobed clover and adjoining gold chain, notwholebracelet/set; bottomMIDDLE05PROMO fulloriginalassortment heading RED CLOVER BRACELET SET; bottomRIGHT06blankcreamunused. Exact original THREE front individually packaged gold-tone chain BRACELETS on THREE longwhitecards sidebyside, each FIVE four-lobed clover charms, FIFTEEN visible clovers total. Preserve exact source red, hotpink, salmon/orange opaque cloverfills, gold beaded/scalloped rims, original rotations/size/gold chainlinks, clasps/extensionparts only as visible, original diagonal cardarrangement/overlap and clear wrapping. Rear partial headers remain occluded, no extra bracelets inferred or invented hidden parts. NOT necklace-and-earring sets. All fullviews show EXACT3bracelets/3frontcards with EXACT5clovers EACH in same sourcefrontgeometry. Remove hand/shop and external325Rs/stainlesssteel/lifetimewarrantyclaims only, retain actualpackageprint, no added material/authenticity/warranty or other claims. Same actual shapes,colours,identity,count throughout, natural soft product shadows, website-ready realistic lighting. Do not unpack or rearrange charms, no extra jewellery or newtext except accuratepromoheading.",
+      "sha256": "58b9bc623e2f6140902d4a3a71ef8b3bd6584678eb2776112b069602a282c0f5",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a61903f5-5cef-4104-8638-90ba88eb1b04.png",
+      "grid_sha256": "cad499b735672cdadce1112b85d211828b20fbbb14e3268b0262ed4081216f1a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual individual crop compared with original. Fullviews retain THREE packaged bracelets, five four-lobed clovers each, source chain/card/colour order; macro is tight real clover and chain; styled/lifestyle/promo correct with clean crop boundaries. Minor small package typography accepted."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-901bcf4f-ff71-47ad-a4c3-86ed312e043d.png",
+      "prompt": "Correct ONLY the surrounding background in the attached original into a pure WHITE seamless studio ecommerce photograph, soft contactshadow. Exact original THREE individually packaged gold-tone clover-chain bracelets on THREE longwhite cards in same diagonal overlapping clearpacket arrangement; FIVE four-lobed clovercharms each/FIFTEEN total, original coral/red/pink fills and goldbeadedrims, chainlinks/clasps/croppings retained. Whole3braceletassortment ONEproduct fullyframed. Remove hand/shop and externalprice/material/warrantyoverlay; replace ALL surrounding shoparea WHITE (#FFFFFF), not dark grey/shopblur. Do NOT alter jewellery/arrangement/colours/count or additems/claims/text. ONE single square white-background image, notgrid/collage. Source packageprint retained.",
+      "sha256": "e588db91a5cd2467456987eea06e5d66091f4aefafb5dcbe29f73e561350000c",
+      "checked": true,
+      "corrective_attempt": 1,
+      "visual_review": "Single allowed background correction passed: clean pure-white seamless surroundings with soft shadow. Original THREE carded bracelets/FIVE clovers each/FIFTEEN total retained with original coral/pink/red colour order and package arrangement. No further retry."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "plan_original_hashes_verified": true
+}

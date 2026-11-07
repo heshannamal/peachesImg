@@ -1,12 +1,16 @@
 {
-  "worker": "new_worker4",
-  "completed": [
-    "2712",
-    "2711",
-    "2702",
-    "2701"
+  "status": "grid_inflight",
+  "updated_at": "2026-11-07T06:24:43.811071+00:00",
+  "worker_key": "new_worker4",
+  "completed_this_resume": [
+    "2690",
+    "2689"
   ],
-  "images_saved_checked": 20,
-  "inflight": 0,
-  "status": "pair_complete"
+  "active_products": [
+    "2684",
+    "2683"
+  ],
+  "max_active_products": 2,
+  "method": "one native3x2grid/product thenmechanicalfivecrops",
+  "originals_verified": true
 }

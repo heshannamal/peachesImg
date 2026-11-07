@@ -1,0 +1,123 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261002-WA0106.jpg": "4057f990f39aee08aa87f25e9ece530a65cd2a8d332870e93d7907954992cbe9",
+    "Originals/IMG-20261002-WA0109.jpg": "b0c2bc019f648b7b66619e9b8f909e9623101b4841a66786b69ab40f83c13e6a",
+    "Originals/IMG-20261002-WA0111.jpg": "2fbaf2d87bccf3a0d3c76cc638f8735c08da7de03dd9b084a8abccf719ca0182"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-20b17b3a-2e51-4148-8fc8-2e1c8dbaa74f.png",
+      "source_output": "/workspace/generated_images/exec-20b17b3a-2e51-4148-8fc8-2e1c8dbaa74f.png",
+      "sha256": "7ed1cb3ca67dda04916d2c6f9fcba34439bf8630747be4786a13a329af08824d",
+      "prompt": "Reference-edit faithful product photos, ONE1536x1024 landscape grid, STRICT3equalcolumns2equalrows six512squarecells, zero gutters or panel labels. Exact WHOLE ASSORTMENT in THREE reference photos is ONE PRODUCT. Each reference is a DIFFERENT card with12fluffy hair ties and12different small coloured bunny/monster character charms. Show ALLTHREE distinct longwhiteFashionJewelrycards sidebyside in every fullview, each exactly12ties =36ties and36charms total, never onecard only, never duplicateonecard3times. Each card six pairs of furry bands, preserve exact source colour order for each card: firstcard yellow, blush, lavender, blue, hotpink, verypaleblush; second/third similar sixpairs and their actual source charm colours/shapes. Preserve actual exact reference charm face/ear/body shapes and colours, onecharmperband, furrytexture, count and cardidentity. Arrange three distinct cards neatly with tiny separation and margin entirely inside each fullviewcell. TOPLEFT01 whole36tie3cardassortment seamless PUREWHITE; TOPMIDDLE02 whole36tie3cardassortment lavender/creamstudio; TOPRIGHT03 whole36tie3cardassortment cream vanity softlyblurredlavenderroom; BOTTOMLEFT04 standalone VERYTIGHTMACRO of oneactual reference character charm and adjoining fluffyband fibres ONLY, notfullcard/wholeassortment; BOTTOMMIDDLE05 whole36tie3cardassortment cream/lavender background accurateheading FLUFFY HAIR TIE COLLECTION, headingwhollywithincell; BOTTOMRIGHT06 blankcream. Remove referencehands/shop/externalbigpricewords. No extra products, no invented characters, no material claims. Exact36ties across3cards important. All5viewsphotorealistic website-ready, everyviewfullyinsidecell.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-20b17b3a-2e51-4148-8fc8-2e1c8dbaa74f.png",
+      "prompt": "Reference-edit faithful product photos, ONE1536x1024 landscape grid, STRICT3equalcolumns2equalrows six512squarecells, zero gutters or panel labels. Exact WHOLE ASSORTMENT in THREE reference photos is ONE PRODUCT. Each reference is a DIFFERENT card with12fluffy hair ties and12different small coloured bunny/monster character charms. Show ALLTHREE distinct longwhiteFashionJewelrycards sidebyside in every fullview, each exactly12ties =36ties and36charms total, never onecard only, never duplicateonecard3times. Each card six pairs of furry bands, preserve exact source colour order for each card: firstcard yellow, blush, lavender, blue, hotpink, verypaleblush; second/third similar sixpairs and their actual source charm colours/shapes. Preserve actual exact reference charm face/ear/body shapes and colours, onecharmperband, furrytexture, count and cardidentity. Arrange three distinct cards neatly with tiny separation and margin entirely inside each fullviewcell. TOPLEFT01 whole36tie3cardassortment seamless PUREWHITE; TOPMIDDLE02 whole36tie3cardassortment lavender/creamstudio; TOPRIGHT03 whole36tie3cardassortment cream vanity softlyblurredlavenderroom; BOTTOMLEFT04 standalone VERYTIGHTMACRO of oneactual reference character charm and adjoining fluffyband fibres ONLY, notfullcard/wholeassortment; BOTTOMMIDDLE05 whole36tie3cardassortment cream/lavender background accurateheading FLUFFY HAIR TIE COLLECTION, headingwhollywithincell; BOTTOMRIGHT06 blankcream. Remove referencehands/shop/externalbigpricewords. No extra products, no invented characters, no material claims. Exact36ties across3cards important. All5viewsphotorealistic website-ready, everyviewfullyinsidecell.",
+      "sha256": "66f76ab6bd975bf5f3a43c2aa469415a8066cc41099019d7ced60c11813c7ef4",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-20b17b3a-2e51-4148-8fc8-2e1c8dbaa74f.png",
+      "grid_sha256": "7ed1cb3ca67dda04916d2c6f9fcba34439bf8630747be4786a13a329af08824d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-20b17b3a-2e51-4148-8fc8-2e1c8dbaa74f.png",
+      "prompt": "Reference-edit faithful product photos, ONE1536x1024 landscape grid, STRICT3equalcolumns2equalrows six512squarecells, zero gutters or panel labels. Exact WHOLE ASSORTMENT in THREE reference photos is ONE PRODUCT. Each reference is a DIFFERENT card with12fluffy hair ties and12different small coloured bunny/monster character charms. Show ALLTHREE distinct longwhiteFashionJewelrycards sidebyside in every fullview, each exactly12ties =36ties and36charms total, never onecard only, never duplicateonecard3times. Each card six pairs of furry bands, preserve exact source colour order for each card: firstcard yellow, blush, lavender, blue, hotpink, verypaleblush; second/third similar sixpairs and their actual source charm colours/shapes. Preserve actual exact reference charm face/ear/body shapes and colours, onecharmperband, furrytexture, count and cardidentity. Arrange three distinct cards neatly with tiny separation and margin entirely inside each fullviewcell. TOPLEFT01 whole36tie3cardassortment seamless PUREWHITE; TOPMIDDLE02 whole36tie3cardassortment lavender/creamstudio; TOPRIGHT03 whole36tie3cardassortment cream vanity softlyblurredlavenderroom; BOTTOMLEFT04 standalone VERYTIGHTMACRO of oneactual reference character charm and adjoining fluffyband fibres ONLY, notfullcard/wholeassortment; BOTTOMMIDDLE05 whole36tie3cardassortment cream/lavender background accurateheading FLUFFY HAIR TIE COLLECTION, headingwhollywithincell; BOTTOMRIGHT06 blankcream. Remove referencehands/shop/externalbigpricewords. No extra products, no invented characters, no material claims. Exact36ties across3cards important. All5viewsphotorealistic website-ready, everyviewfullyinsidecell.",
+      "sha256": "74353eba10c4005e0a92d5499dac751c395940649abe5539f439a2d3a14196b7",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-20b17b3a-2e51-4148-8fc8-2e1c8dbaa74f.png",
+      "grid_sha256": "7ed1cb3ca67dda04916d2c6f9fcba34439bf8630747be4786a13a329af08824d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-20b17b3a-2e51-4148-8fc8-2e1c8dbaa74f.png",
+      "prompt": "Reference-edit faithful product photos, ONE1536x1024 landscape grid, STRICT3equalcolumns2equalrows six512squarecells, zero gutters or panel labels. Exact WHOLE ASSORTMENT in THREE reference photos is ONE PRODUCT. Each reference is a DIFFERENT card with12fluffy hair ties and12different small coloured bunny/monster character charms. Show ALLTHREE distinct longwhiteFashionJewelrycards sidebyside in every fullview, each exactly12ties =36ties and36charms total, never onecard only, never duplicateonecard3times. Each card six pairs of furry bands, preserve exact source colour order for each card: firstcard yellow, blush, lavender, blue, hotpink, verypaleblush; second/third similar sixpairs and their actual source charm colours/shapes. Preserve actual exact reference charm face/ear/body shapes and colours, onecharmperband, furrytexture, count and cardidentity. Arrange three distinct cards neatly with tiny separation and margin entirely inside each fullviewcell. TOPLEFT01 whole36tie3cardassortment seamless PUREWHITE; TOPMIDDLE02 whole36tie3cardassortment lavender/creamstudio; TOPRIGHT03 whole36tie3cardassortment cream vanity softlyblurredlavenderroom; BOTTOMLEFT04 standalone VERYTIGHTMACRO of oneactual reference character charm and adjoining fluffyband fibres ONLY, notfullcard/wholeassortment; BOTTOMMIDDLE05 whole36tie3cardassortment cream/lavender background accurateheading FLUFFY HAIR TIE COLLECTION, headingwhollywithincell; BOTTOMRIGHT06 blankcream. Remove referencehands/shop/externalbigpricewords. No extra products, no invented characters, no material claims. Exact36ties across3cards important. All5viewsphotorealistic website-ready, everyviewfullyinsidecell.",
+      "sha256": "8b1f7417414acbe1f0ccdd5d13add9345a53542273aaaffb6bb4d943864aae9b",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-20b17b3a-2e51-4148-8fc8-2e1c8dbaa74f.png",
+      "grid_sha256": "7ed1cb3ca67dda04916d2c6f9fcba34439bf8630747be4786a13a329af08824d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-20b17b3a-2e51-4148-8fc8-2e1c8dbaa74f.png",
+      "prompt": "Reference-edit faithful product photos, ONE1536x1024 landscape grid, STRICT3equalcolumns2equalrows six512squarecells, zero gutters or panel labels. Exact WHOLE ASSORTMENT in THREE reference photos is ONE PRODUCT. Each reference is a DIFFERENT card with12fluffy hair ties and12different small coloured bunny/monster character charms. Show ALLTHREE distinct longwhiteFashionJewelrycards sidebyside in every fullview, each exactly12ties =36ties and36charms total, never onecard only, never duplicateonecard3times. Each card six pairs of furry bands, preserve exact source colour order for each card: firstcard yellow, blush, lavender, blue, hotpink, verypaleblush; second/third similar sixpairs and their actual source charm colours/shapes. Preserve actual exact reference charm face/ear/body shapes and colours, onecharmperband, furrytexture, count and cardidentity. Arrange three distinct cards neatly with tiny separation and margin entirely inside each fullviewcell. TOPLEFT01 whole36tie3cardassortment seamless PUREWHITE; TOPMIDDLE02 whole36tie3cardassortment lavender/creamstudio; TOPRIGHT03 whole36tie3cardassortment cream vanity softlyblurredlavenderroom; BOTTOMLEFT04 standalone VERYTIGHTMACRO of oneactual reference character charm and adjoining fluffyband fibres ONLY, notfullcard/wholeassortment; BOTTOMMIDDLE05 whole36tie3cardassortment cream/lavender background accurateheading FLUFFY HAIR TIE COLLECTION, headingwhollywithincell; BOTTOMRIGHT06 blankcream. Remove referencehands/shop/externalbigpricewords. No extra products, no invented characters, no material claims. Exact36ties across3cards important. All5viewsphotorealistic website-ready, everyviewfullyinsidecell.",
+      "sha256": "64543fcb593b368d0442a2054529701f22d4317ca6394394c19ce74e6f37c168",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-20b17b3a-2e51-4148-8fc8-2e1c8dbaa74f.png",
+      "grid_sha256": "7ed1cb3ca67dda04916d2c6f9fcba34439bf8630747be4786a13a329af08824d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-20b17b3a-2e51-4148-8fc8-2e1c8dbaa74f.png",
+      "prompt": "Reference-edit faithful product photos, ONE1536x1024 landscape grid, STRICT3equalcolumns2equalrows six512squarecells, zero gutters or panel labels. Exact WHOLE ASSORTMENT in THREE reference photos is ONE PRODUCT. Each reference is a DIFFERENT card with12fluffy hair ties and12different small coloured bunny/monster character charms. Show ALLTHREE distinct longwhiteFashionJewelrycards sidebyside in every fullview, each exactly12ties =36ties and36charms total, never onecard only, never duplicateonecard3times. Each card six pairs of furry bands, preserve exact source colour order for each card: firstcard yellow, blush, lavender, blue, hotpink, verypaleblush; second/third similar sixpairs and their actual source charm colours/shapes. Preserve actual exact reference charm face/ear/body shapes and colours, onecharmperband, furrytexture, count and cardidentity. Arrange three distinct cards neatly with tiny separation and margin entirely inside each fullviewcell. TOPLEFT01 whole36tie3cardassortment seamless PUREWHITE; TOPMIDDLE02 whole36tie3cardassortment lavender/creamstudio; TOPRIGHT03 whole36tie3cardassortment cream vanity softlyblurredlavenderroom; BOTTOMLEFT04 standalone VERYTIGHTMACRO of oneactual reference character charm and adjoining fluffyband fibres ONLY, notfullcard/wholeassortment; BOTTOMMIDDLE05 whole36tie3cardassortment cream/lavender background accurateheading FLUFFY HAIR TIE COLLECTION, headingwhollywithincell; BOTTOMRIGHT06 blankcream. Remove referencehands/shop/externalbigpricewords. No extra products, no invented characters, no material claims. Exact36ties across3cards important. All5viewsphotorealistic website-ready, everyviewfullyinsidecell.",
+      "sha256": "8a784b0542f5699b659d7715781c603dc532e594456dac228f6bd97127b2acd5",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-20b17b3a-2e51-4148-8fc8-2e1c8dbaa74f.png",
+      "grid_sha256": "7ed1cb3ca67dda04916d2c6f9fcba34439bf8630747be4786a13a329af08824d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

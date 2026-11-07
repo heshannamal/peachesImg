@@ -1,6 +1,6 @@
 {
-  "status": "pair_complete",
-  "updated_at": "2026-11-07T06:27:29.616002+00:00",
+  "status": "grid_inflight",
+  "updated_at": "2026-11-07T06:28:00.801217+00:00",
   "worker_key": "new_worker4",
   "completed_this_resume": [
     "2690",
@@ -8,9 +8,12 @@
     "2684",
     "2683"
   ],
-  "active_products": [],
+  "active_products": [
+    "2672",
+    "2671"
+  ],
   "max_active_products": 2,
   "method": "one native3x2grid/product thenmechanicalfivecrops",
   "originals_verified": true,
-  "inflight": 0
+  "inflight": 2
 }

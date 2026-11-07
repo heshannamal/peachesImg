@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261002-WA0182.jpg": "685b4613c928542f15a14e04c70cbe96ae754634e210e4ff9ac87c00c1d58f93"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-00459666-fa73-4ed4-96d9-e1b524e16f82.png",
+      "source_output": "/workspace/generated_images/exec-00459666-fa73-4ed4-96d9-e1b524e16f82.png",
+      "sha256": "1bf99b519670cc60d2393ad2b3d3a21cd8c7e613456c82b6593e4d7e923d5baa",
+      "prompt": "Faithful ORIGINAL referenced conservative website product edit. ONE landscape1536x1024 image, exactly3columns x2rows, equal512squarecells, no gutters/borders/panel labels. Readingorder:01 top-left PURE WHITE seamlessbackground completeoriginalassortment;02 top-middle lavender/cream styled completeassortment;03 top-right lifestyle cream jewellerytray softlyblurredlavenderroom completeassortment;04 bottom-left standalone TIGHT MACRO of ONLYactualpart specified, cutthrough realpart not wholeassortment/card;05 bottom-middle promotional completeassortment accurateheading;06 bottom-right BLANKcreamunused. Eachfullview all THREE original clearpackaged white FactoryOutlet cards, exact three necklacecount, originaldiagonaloverlap, shape/colour/material/chain identity and visiblependants retained; do not unpack/rearrange or inventhiddenclasps/backviews/extra jewellery. Remove hand/shop and externallargeadvertisingoverlay only; preserve printedcard text, no new material/warrantyclaims. Clear softlight, realistic pale shadow, fullyframed with safemargin. THREE individually packaged fine gold-tone linked-chain necklaces, each ONE dark bronze/gold daisy flower pendant with many narrow elongated petals and small WHITE round centre, THREE DAISIES total. Preserve original exact petal shapes/count and white centres, not square pendants. Macro only tight partial real daisy petal/centre junction. Heading DAISY PENDANT NECKLACE SET.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-00459666-fa73-4ed4-96d9-e1b524e16f82.png",
+      "prompt": "Faithful ORIGINAL referenced conservative website product edit. ONE landscape1536x1024 image, exactly3columns x2rows, equal512squarecells, no gutters/borders/panel labels. Readingorder:01 top-left PURE WHITE seamlessbackground completeoriginalassortment;02 top-middle lavender/cream styled completeassortment;03 top-right lifestyle cream jewellerytray softlyblurredlavenderroom completeassortment;04 bottom-left standalone TIGHT MACRO of ONLYactualpart specified, cutthrough realpart not wholeassortment/card;05 bottom-middle promotional completeassortment accurateheading;06 bottom-right BLANKcreamunused. Eachfullview all THREE original clearpackaged white FactoryOutlet cards, exact three necklacecount, originaldiagonaloverlap, shape/colour/material/chain identity and visiblependants retained; do not unpack/rearrange or inventhiddenclasps/backviews/extra jewellery. Remove hand/shop and externallargeadvertisingoverlay only; preserve printedcard text, no new material/warrantyclaims. Clear softlight, realistic pale shadow, fullyframed with safemargin. THREE individually packaged fine gold-tone linked-chain necklaces, each ONE dark bronze/gold daisy flower pendant with many narrow elongated petals and small WHITE round centre, THREE DAISIES total. Preserve original exact petal shapes/count and white centres, not square pendants. Macro only tight partial real daisy petal/centre junction. Heading DAISY PENDANT NECKLACE SET.",
+      "sha256": "b3661c4b39ce547c76a9ab5fe7b8a6561970ce05fa6e993c9be2dc81d2c130ea",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-00459666-fa73-4ed4-96d9-e1b524e16f82.png",
+      "grid_sha256": "1bf99b519670cc60d2393ad2b3d3a21cd8c7e613456c82b6593e4d7e923d5baa",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual 512px saved crop inspected against original: three packaged gold-tone necklaces, one narrow-petal daisy with white centre each (three total); count, identity, colour and shape retained. Required white, lavender/cream styled, lifestyle tray, tight real pendant-part macro and accurate promotional heading accepted. Minor printed-card typography accepted for website quality."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-00459666-fa73-4ed4-96d9-e1b524e16f82.png",
+      "prompt": "Faithful ORIGINAL referenced conservative website product edit. ONE landscape1536x1024 image, exactly3columns x2rows, equal512squarecells, no gutters/borders/panel labels. Readingorder:01 top-left PURE WHITE seamlessbackground completeoriginalassortment;02 top-middle lavender/cream styled completeassortment;03 top-right lifestyle cream jewellerytray softlyblurredlavenderroom completeassortment;04 bottom-left standalone TIGHT MACRO of ONLYactualpart specified, cutthrough realpart not wholeassortment/card;05 bottom-middle promotional completeassortment accurateheading;06 bottom-right BLANKcreamunused. Eachfullview all THREE original clearpackaged white FactoryOutlet cards, exact three necklacecount, originaldiagonaloverlap, shape/colour/material/chain identity and visiblependants retained; do not unpack/rearrange or inventhiddenclasps/backviews/extra jewellery. Remove hand/shop and externallargeadvertisingoverlay only; preserve printedcard text, no new material/warrantyclaims. Clear softlight, realistic pale shadow, fullyframed with safemargin. THREE individually packaged fine gold-tone linked-chain necklaces, each ONE dark bronze/gold daisy flower pendant with many narrow elongated petals and small WHITE round centre, THREE DAISIES total. Preserve original exact petal shapes/count and white centres, not square pendants. Macro only tight partial real daisy petal/centre junction. Heading DAISY PENDANT NECKLACE SET.",
+      "sha256": "e0af7af8e744615e153d58e929f5c53d3ba0dce9d586546b65cb4bbe8ab7d650",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-00459666-fa73-4ed4-96d9-e1b524e16f82.png",
+      "grid_sha256": "1bf99b519670cc60d2393ad2b3d3a21cd8c7e613456c82b6593e4d7e923d5baa",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual 512px saved crop inspected against original: three packaged gold-tone necklaces, one narrow-petal daisy with white centre each (three total); count, identity, colour and shape retained. Required white, lavender/cream styled, lifestyle tray, tight real pendant-part macro and accurate promotional heading accepted. Minor printed-card typography accepted for website quality."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-00459666-fa73-4ed4-96d9-e1b524e16f82.png",
+      "prompt": "Faithful ORIGINAL referenced conservative website product edit. ONE landscape1536x1024 image, exactly3columns x2rows, equal512squarecells, no gutters/borders/panel labels. Readingorder:01 top-left PURE WHITE seamlessbackground completeoriginalassortment;02 top-middle lavender/cream styled completeassortment;03 top-right lifestyle cream jewellerytray softlyblurredlavenderroom completeassortment;04 bottom-left standalone TIGHT MACRO of ONLYactualpart specified, cutthrough realpart not wholeassortment/card;05 bottom-middle promotional completeassortment accurateheading;06 bottom-right BLANKcreamunused. Eachfullview all THREE original clearpackaged white FactoryOutlet cards, exact three necklacecount, originaldiagonaloverlap, shape/colour/material/chain identity and visiblependants retained; do not unpack/rearrange or inventhiddenclasps/backviews/extra jewellery. Remove hand/shop and externallargeadvertisingoverlay only; preserve printedcard text, no new material/warrantyclaims. Clear softlight, realistic pale shadow, fullyframed with safemargin. THREE individually packaged fine gold-tone linked-chain necklaces, each ONE dark bronze/gold daisy flower pendant with many narrow elongated petals and small WHITE round centre, THREE DAISIES total. Preserve original exact petal shapes/count and white centres, not square pendants. Macro only tight partial real daisy petal/centre junction. Heading DAISY PENDANT NECKLACE SET.",
+      "sha256": "66754a46fa602eb8930118990ed05f680b450d9e2e72126433cd14418b45b8e2",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-00459666-fa73-4ed4-96d9-e1b524e16f82.png",
+      "grid_sha256": "1bf99b519670cc60d2393ad2b3d3a21cd8c7e613456c82b6593e4d7e923d5baa",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual 512px saved crop inspected against original: three packaged gold-tone necklaces, one narrow-petal daisy with white centre each (three total); count, identity, colour and shape retained. Required white, lavender/cream styled, lifestyle tray, tight real pendant-part macro and accurate promotional heading accepted. Minor printed-card typography accepted for website quality."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-00459666-fa73-4ed4-96d9-e1b524e16f82.png",
+      "prompt": "Faithful ORIGINAL referenced conservative website product edit. ONE landscape1536x1024 image, exactly3columns x2rows, equal512squarecells, no gutters/borders/panel labels. Readingorder:01 top-left PURE WHITE seamlessbackground completeoriginalassortment;02 top-middle lavender/cream styled completeassortment;03 top-right lifestyle cream jewellerytray softlyblurredlavenderroom completeassortment;04 bottom-left standalone TIGHT MACRO of ONLYactualpart specified, cutthrough realpart not wholeassortment/card;05 bottom-middle promotional completeassortment accurateheading;06 bottom-right BLANKcreamunused. Eachfullview all THREE original clearpackaged white FactoryOutlet cards, exact three necklacecount, originaldiagonaloverlap, shape/colour/material/chain identity and visiblependants retained; do not unpack/rearrange or inventhiddenclasps/backviews/extra jewellery. Remove hand/shop and externallargeadvertisingoverlay only; preserve printedcard text, no new material/warrantyclaims. Clear softlight, realistic pale shadow, fullyframed with safemargin. THREE individually packaged fine gold-tone linked-chain necklaces, each ONE dark bronze/gold daisy flower pendant with many narrow elongated petals and small WHITE round centre, THREE DAISIES total. Preserve original exact petal shapes/count and white centres, not square pendants. Macro only tight partial real daisy petal/centre junction. Heading DAISY PENDANT NECKLACE SET.",
+      "sha256": "7c3813ad6cc32c81f5e2b58537cfe5ecf5f955254840a85fd0ec1a2d1d849c6d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-00459666-fa73-4ed4-96d9-e1b524e16f82.png",
+      "grid_sha256": "1bf99b519670cc60d2393ad2b3d3a21cd8c7e613456c82b6593e4d7e923d5baa",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual 512px saved crop inspected against original: three packaged gold-tone necklaces, one narrow-petal daisy with white centre each (three total); count, identity, colour and shape retained. Required white, lavender/cream styled, lifestyle tray, tight real pendant-part macro and accurate promotional heading accepted. Minor printed-card typography accepted for website quality."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-00459666-fa73-4ed4-96d9-e1b524e16f82.png",
+      "prompt": "Faithful ORIGINAL referenced conservative website product edit. ONE landscape1536x1024 image, exactly3columns x2rows, equal512squarecells, no gutters/borders/panel labels. Readingorder:01 top-left PURE WHITE seamlessbackground completeoriginalassortment;02 top-middle lavender/cream styled completeassortment;03 top-right lifestyle cream jewellerytray softlyblurredlavenderroom completeassortment;04 bottom-left standalone TIGHT MACRO of ONLYactualpart specified, cutthrough realpart not wholeassortment/card;05 bottom-middle promotional completeassortment accurateheading;06 bottom-right BLANKcreamunused. Eachfullview all THREE original clearpackaged white FactoryOutlet cards, exact three necklacecount, originaldiagonaloverlap, shape/colour/material/chain identity and visiblependants retained; do not unpack/rearrange or inventhiddenclasps/backviews/extra jewellery. Remove hand/shop and externallargeadvertisingoverlay only; preserve printedcard text, no new material/warrantyclaims. Clear softlight, realistic pale shadow, fullyframed with safemargin. THREE individually packaged fine gold-tone linked-chain necklaces, each ONE dark bronze/gold daisy flower pendant with many narrow elongated petals and small WHITE round centre, THREE DAISIES total. Preserve original exact petal shapes/count and white centres, not square pendants. Macro only tight partial real daisy petal/centre junction. Heading DAISY PENDANT NECKLACE SET.",
+      "sha256": "904a5d244037e0f7cae1bcf8920143300bc0dbba00a621ce26fb6f78f5546d23",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-00459666-fa73-4ed4-96d9-e1b524e16f82.png",
+      "grid_sha256": "1bf99b519670cc60d2393ad2b3d3a21cd8c7e613456c82b6593e4d7e923d5baa",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual 512px saved crop inspected against original: three packaged gold-tone necklaces, one narrow-petal daisy with white centre each (three total); count, identity, colour and shape retained. Required white, lavender/cream styled, lifestyle tray, tight real pendant-part macro and accurate promotional heading accepted. Minor printed-card typography accepted for website quality."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "plan_original_hashes_verified": true
+}

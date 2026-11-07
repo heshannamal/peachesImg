@@ -32499,9 +32499,9 @@
     "source_image_ids": [
       2990
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -32511,9 +32511,9 @@
     "source_image_ids": [
       2991
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -32523,9 +32523,9 @@
     "source_image_ids": [
       2992
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -32535,35 +32535,39 @@
     "source_image_ids": [
       2993
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2669",
-    "folder": "2669_Fine-Square-Necklaces-0",
+    "folder": "2669_Fine-Square-Necklaces-1",
     "source_image_ids": [
       2994
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2670",
-    "folder": "2670_Fine-Round-Pendant-Necklaces-0",
+    "folder": "2670_Fine-Round-Pendant-Necklaces-1",
     "source_image_ids": [
       2995
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2671",
@@ -32581,15 +32585,17 @@
   },
   {
     "product_id": "2672",
-    "folder": "2672_Fine-Black-Pendant-Necklaces-0",
+    "folder": "2672_Fine-Black-Pendant-Necklaces-1",
     "source_image_ids": [
       2997
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2673",
@@ -32621,27 +32627,31 @@
   },
   {
     "product_id": "2675",
-    "folder": "2675_Fine-Heart-Pendant-Necklaces-0",
+    "folder": "2675_Fine-Heart-Pendant-Necklaces-1",
     "source_image_ids": [
       3000
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2676",
-    "folder": "2676_Fine-Dark-Pendant-Necklaces-0",
+    "folder": "2676_Fine-Dark-Pendant-Necklaces-1",
     "source_image_ids": [
       3001
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2677",

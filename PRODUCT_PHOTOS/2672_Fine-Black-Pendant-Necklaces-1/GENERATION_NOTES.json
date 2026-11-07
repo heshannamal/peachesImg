@@ -120,9 +120,33 @@
         1024
       ],
       "visual_review": "Actual original, full grid and saved crop visually inspected. Three original black circular pendants and fine gold-tone chains on three cards retained; correct full-assortment count, black/gold colours and view style. Promotional heading accurate."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-8471c453-8fce-4867-a4f4-3fcc1c98f9a0.png",
+      "prompt": "Create a standalone tight real-part macro website product image edited from referenced ACTUAL original photograph. Show just ONE original black round necklace pendant, gold-tone surrounding rim and a short portion of its actual fine chain on its white backing card. Critical identity correction: the actual rim is decorated with GOLD ROMAN NUMERALS on a dark ring, as visible in the rightmost original pendant. Preserve the Roman numeral dial positions exactly from the original; absolutely NO FOREVER LOVE lettering, no words, no new letters, no new slogan. Preserve flat black circular centre, narrow metallic gold border, original fine chain and attachment; do not thicken or invent components. This is a real part crop, not full assortment; do not show all three necklaces. Photorealistic tight macro with original white card and clear packaging visible, no heading, no borders, no collage. Reference original photo only. Output square website-ready image.",
+      "sha256": "4d335e8d88260ab74dd07367cce32cf8fd263f98c0290800da4bda0075b2e59d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-8471c453-8fce-4867-a4f4-3fcc1c98f9a0.png",
+      "grid_sha256": "0afd3e075a0d84577c713732a9e780a9ff3b68efc78c0c5a0827e436dd38618d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "One corrective native edit referenced actual original. Corrected macro visually inspected: black circular centre, gold-tone ring with Roman numeral dial and fine gold chain on original white card/clear packaging retained. Prior FOREVER LOVE substitution removed. Standalone tight actual part; website-ready. No further retry.",
+      "rejected": false,
+      "corrective_attempts": 1,
+      "source": "/workspace/generated_images/exec-9144d40f-f815-4931-9553-d0c4dc0edaf8.png"
     }
   ],
-  "status": "four_views_checked_detail_corrective_inflight",
+  "status": "five_images_saved_and_visually_checked",
   "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
   "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
   "original_plan_sha256_verified": true

@@ -32643,9 +32643,9 @@
     "source_image_ids": [
       3002
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -32655,35 +32655,39 @@
     "source_image_ids": [
       3003
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2679",
-    "folder": "2679_Fine-Light-Pendant-Necklaces-0",
+    "folder": "2679_Fine-Light-Pendant-Necklaces-1",
     "source_image_ids": [
       3004
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2680",
-    "folder": "2680_Fine-Decorative-Necklaces-0",
+    "folder": "2680_Fine-Decorative-Necklaces-1",
     "source_image_ids": [
       3005
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2681",
@@ -32691,7 +32695,7 @@
     "source_image_ids": [
       3006
     ],
-    "new_images": 5,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -32699,40 +32703,46 @@
   },
   {
     "product_id": "2682",
-    "folder": "2682_Gold-Tone-Flower-Necklaces-0",
+    "folder": "2682_Gold-Tone-Flower-Necklaces-1",
     "source_image_ids": [
       3007
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2683",
-    "folder": "2683_Gold-Tone-Small-Necklaces-0",
+    "folder": "2683_Gold-Tone-Small-Necklaces-1",
     "source_image_ids": [
       3008
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2684",
-    "folder": "2684_Braided-Bracelets-0",
+    "folder": "2684_Braided-Bracelets-1",
     "source_image_ids": [
       3009,
       3010
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2685",

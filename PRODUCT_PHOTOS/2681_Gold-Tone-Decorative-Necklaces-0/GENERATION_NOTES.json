@@ -15,7 +15,7 @@
       "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
     },
     {
-      "saved_file": "New/01_White-Background.png",
+      "saved_file": "Rejected/01_White-Background-initial-dark-background.png",
       "source_output": "/workspace/generated_images/exec-75b8a434-d451-4cf6-94ae-ee2e91c8b33f.png",
       "prompt": "Faithful conservative reference product edit into ONE LANDSCAPE1536x1024 photograph grid EXACT3equalcolumns x2equalrows six512squarecells, NOgutters/borders/panellabels. Eachview independently insideitscell withsafemargin. Readingorder:01WHITE fulloriginalassortment;02LAVENDER/CREAMstyled fulloriginalassortment;03LIFESTYLE fulloriginalassortment oncreamjewellerytray softlyblurredlavenderroom;04STANDALONE TIGHTMACRO ONLYactualvisiblepart specified, notwholependant/card/assortment;05PROMOTIONAL fulloriginalassortment withaccuratesmallheading;06BLANKunusedcream. Preserve EXACT sourcevisible count/identity/shapes/colours/materials/cardpackaging and originalthreecardoverlap/frontangle/occlusions. Do notunpack/rearrange/inventhiddenclasps/extra jewellery/backviews. Remove hand/shop and externalprice/material/warrantyadvertisingoverlay only; no newclaims, originalprintedpackagingretained. Websitequality clearsoftlight and realisticshadow, all threeoriginalcards fullyframed ineachfullview. EXACT THREE individually packaged gold-tone SNAKECHAIN necklaces on THREE overlapping originalwhite FactoryOutlet cards, EACH ONE small rounded three-dimensional folded HEART pendant atbottom, THREE hearts total. Preserve exact original fineflat snakechain/curvedneckloops, samependant two-lobed foldedconvex goldface/hollowfoldshape and sizes/positions, clearbags/cards and sourceoriginaldiagonaloverlap. Do not substitute genericflatheart or extra pendants. Macro04onlyactualroundedheartfold surface and adjoiningchainjunction tightpartialcrop. Promoheading HEART PENDANT NECKLACE SET.\n",
       "sha256": "416703f3fa8be3675e64b90919c06e0b04e7833648d7323b48ad8a03450d4af9",
@@ -32,14 +32,15 @@
         0,
         512,
         512
-      ]
+      ],
+      "visual_review": "Rejected: preserves three packaged heart necklaces but charcoal background fails required white view."
     },
     {
       "saved_file": "New/02_Styled-Background.png",
       "source_output": "/workspace/generated_images/exec-75b8a434-d451-4cf6-94ae-ee2e91c8b33f.png",
       "prompt": "Faithful conservative reference product edit into ONE LANDSCAPE1536x1024 photograph grid EXACT3equalcolumns x2equalrows six512squarecells, NOgutters/borders/panellabels. Eachview independently insideitscell withsafemargin. Readingorder:01WHITE fulloriginalassortment;02LAVENDER/CREAMstyled fulloriginalassortment;03LIFESTYLE fulloriginalassortment oncreamjewellerytray softlyblurredlavenderroom;04STANDALONE TIGHTMACRO ONLYactualvisiblepart specified, notwholependant/card/assortment;05PROMOTIONAL fulloriginalassortment withaccuratesmallheading;06BLANKunusedcream. Preserve EXACT sourcevisible count/identity/shapes/colours/materials/cardpackaging and originalthreecardoverlap/frontangle/occlusions. Do notunpack/rearrange/inventhiddenclasps/extra jewellery/backviews. Remove hand/shop and externalprice/material/warrantyadvertisingoverlay only; no newclaims, originalprintedpackagingretained. Websitequality clearsoftlight and realisticshadow, all threeoriginalcards fullyframed ineachfullview. EXACT THREE individually packaged gold-tone SNAKECHAIN necklaces on THREE overlapping originalwhite FactoryOutlet cards, EACH ONE small rounded three-dimensional folded HEART pendant atbottom, THREE hearts total. Preserve exact original fineflat snakechain/curvedneckloops, samependant two-lobed foldedconvex goldface/hollowfoldshape and sizes/positions, clearbags/cards and sourceoriginaldiagonaloverlap. Do not substitute genericflatheart or extra pendants. Macro04onlyactualroundedheartfold surface and adjoiningchainjunction tightpartialcrop. Promoheading HEART PENDANT NECKLACE SET.\n",
       "sha256": "edaa8151ad6fc5440a3c8c6440a9d895e3ddd5f063a04a118bb033628877d305",
-      "checked": false,
+      "checked": true,
       "generation_method": "native_five_style_grid_cropped",
       "grid_source_file": "Generation_Grids/exec-75b8a434-d451-4cf6-94ae-ee2e91c8b33f.png",
       "grid_sha256": "0260b125fce0736e89026659588085d19165e41678847bac604467e166b70d61",
@@ -52,14 +53,15 @@
         0,
         1024,
         512
-      ]
+      ],
+      "visual_review": "Actual crop inspected: preserves three packaged gold-tone snake-chain necklaces, one rounded folded heart each; correct lavender/cream styled, lifestyle tray, tight actual heart-part macro or accurate promotional view."
     },
     {
       "saved_file": "New/03_Lifestyle.png",
       "source_output": "/workspace/generated_images/exec-75b8a434-d451-4cf6-94ae-ee2e91c8b33f.png",
       "prompt": "Faithful conservative reference product edit into ONE LANDSCAPE1536x1024 photograph grid EXACT3equalcolumns x2equalrows six512squarecells, NOgutters/borders/panellabels. Eachview independently insideitscell withsafemargin. Readingorder:01WHITE fulloriginalassortment;02LAVENDER/CREAMstyled fulloriginalassortment;03LIFESTYLE fulloriginalassortment oncreamjewellerytray softlyblurredlavenderroom;04STANDALONE TIGHTMACRO ONLYactualvisiblepart specified, notwholependant/card/assortment;05PROMOTIONAL fulloriginalassortment withaccuratesmallheading;06BLANKunusedcream. Preserve EXACT sourcevisible count/identity/shapes/colours/materials/cardpackaging and originalthreecardoverlap/frontangle/occlusions. Do notunpack/rearrange/inventhiddenclasps/extra jewellery/backviews. Remove hand/shop and externalprice/material/warrantyadvertisingoverlay only; no newclaims, originalprintedpackagingretained. Websitequality clearsoftlight and realisticshadow, all threeoriginalcards fullyframed ineachfullview. EXACT THREE individually packaged gold-tone SNAKECHAIN necklaces on THREE overlapping originalwhite FactoryOutlet cards, EACH ONE small rounded three-dimensional folded HEART pendant atbottom, THREE hearts total. Preserve exact original fineflat snakechain/curvedneckloops, samependant two-lobed foldedconvex goldface/hollowfoldshape and sizes/positions, clearbags/cards and sourceoriginaldiagonaloverlap. Do not substitute genericflatheart or extra pendants. Macro04onlyactualroundedheartfold surface and adjoiningchainjunction tightpartialcrop. Promoheading HEART PENDANT NECKLACE SET.\n",
       "sha256": "5c16dcef08180595edbb9b91add41908f9be9c33de374b1bb9fad2102172267a",
-      "checked": false,
+      "checked": true,
       "generation_method": "native_five_style_grid_cropped",
       "grid_source_file": "Generation_Grids/exec-75b8a434-d451-4cf6-94ae-ee2e91c8b33f.png",
       "grid_sha256": "0260b125fce0736e89026659588085d19165e41678847bac604467e166b70d61",
@@ -72,14 +74,15 @@
         0,
         1536,
         512
-      ]
+      ],
+      "visual_review": "Actual crop inspected: preserves three packaged gold-tone snake-chain necklaces, one rounded folded heart each; correct lavender/cream styled, lifestyle tray, tight actual heart-part macro or accurate promotional view."
     },
     {
       "saved_file": "New/04_Detail.png",
       "source_output": "/workspace/generated_images/exec-75b8a434-d451-4cf6-94ae-ee2e91c8b33f.png",
       "prompt": "Faithful conservative reference product edit into ONE LANDSCAPE1536x1024 photograph grid EXACT3equalcolumns x2equalrows six512squarecells, NOgutters/borders/panellabels. Eachview independently insideitscell withsafemargin. Readingorder:01WHITE fulloriginalassortment;02LAVENDER/CREAMstyled fulloriginalassortment;03LIFESTYLE fulloriginalassortment oncreamjewellerytray softlyblurredlavenderroom;04STANDALONE TIGHTMACRO ONLYactualvisiblepart specified, notwholependant/card/assortment;05PROMOTIONAL fulloriginalassortment withaccuratesmallheading;06BLANKunusedcream. Preserve EXACT sourcevisible count/identity/shapes/colours/materials/cardpackaging and originalthreecardoverlap/frontangle/occlusions. Do notunpack/rearrange/inventhiddenclasps/extra jewellery/backviews. Remove hand/shop and externalprice/material/warrantyadvertisingoverlay only; no newclaims, originalprintedpackagingretained. Websitequality clearsoftlight and realisticshadow, all threeoriginalcards fullyframed ineachfullview. EXACT THREE individually packaged gold-tone SNAKECHAIN necklaces on THREE overlapping originalwhite FactoryOutlet cards, EACH ONE small rounded three-dimensional folded HEART pendant atbottom, THREE hearts total. Preserve exact original fineflat snakechain/curvedneckloops, samependant two-lobed foldedconvex goldface/hollowfoldshape and sizes/positions, clearbags/cards and sourceoriginaldiagonaloverlap. Do not substitute genericflatheart or extra pendants. Macro04onlyactualroundedheartfold surface and adjoiningchainjunction tightpartialcrop. Promoheading HEART PENDANT NECKLACE SET.\n",
       "sha256": "af5b1eb7b70f36a54626e1c35e7c621951c2b597ab50db9d05bdb583250f69f4",
-      "checked": false,
+      "checked": true,
       "generation_method": "native_five_style_grid_cropped",
       "grid_source_file": "Generation_Grids/exec-75b8a434-d451-4cf6-94ae-ee2e91c8b33f.png",
       "grid_sha256": "0260b125fce0736e89026659588085d19165e41678847bac604467e166b70d61",
@@ -92,14 +95,15 @@
         512,
         512,
         1024
-      ]
+      ],
+      "visual_review": "Actual crop inspected: preserves three packaged gold-tone snake-chain necklaces, one rounded folded heart each; correct lavender/cream styled, lifestyle tray, tight actual heart-part macro or accurate promotional view."
     },
     {
       "saved_file": "New/05_Promotional.png",
       "source_output": "/workspace/generated_images/exec-75b8a434-d451-4cf6-94ae-ee2e91c8b33f.png",
       "prompt": "Faithful conservative reference product edit into ONE LANDSCAPE1536x1024 photograph grid EXACT3equalcolumns x2equalrows six512squarecells, NOgutters/borders/panellabels. Eachview independently insideitscell withsafemargin. Readingorder:01WHITE fulloriginalassortment;02LAVENDER/CREAMstyled fulloriginalassortment;03LIFESTYLE fulloriginalassortment oncreamjewellerytray softlyblurredlavenderroom;04STANDALONE TIGHTMACRO ONLYactualvisiblepart specified, notwholependant/card/assortment;05PROMOTIONAL fulloriginalassortment withaccuratesmallheading;06BLANKunusedcream. Preserve EXACT sourcevisible count/identity/shapes/colours/materials/cardpackaging and originalthreecardoverlap/frontangle/occlusions. Do notunpack/rearrange/inventhiddenclasps/extra jewellery/backviews. Remove hand/shop and externalprice/material/warrantyadvertisingoverlay only; no newclaims, originalprintedpackagingretained. Websitequality clearsoftlight and realisticshadow, all threeoriginalcards fullyframed ineachfullview. EXACT THREE individually packaged gold-tone SNAKECHAIN necklaces on THREE overlapping originalwhite FactoryOutlet cards, EACH ONE small rounded three-dimensional folded HEART pendant atbottom, THREE hearts total. Preserve exact original fineflat snakechain/curvedneckloops, samependant two-lobed foldedconvex goldface/hollowfoldshape and sizes/positions, clearbags/cards and sourceoriginaldiagonaloverlap. Do not substitute genericflatheart or extra pendants. Macro04onlyactualroundedheartfold surface and adjoiningchainjunction tightpartialcrop. Promoheading HEART PENDANT NECKLACE SET.\n",
       "sha256": "0de632f3db0e758866d9dc9cd71b6cd9066e216a69ea5ad972ab8d7a5908e0c8",
-      "checked": false,
+      "checked": true,
       "generation_method": "native_five_style_grid_cropped",
       "grid_source_file": "Generation_Grids/exec-75b8a434-d451-4cf6-94ae-ee2e91c8b33f.png",
       "grid_sha256": "0260b125fce0736e89026659588085d19165e41678847bac604467e166b70d61",
@@ -112,10 +116,19 @@
         512,
         1024,
         1024
-      ]
+      ],
+      "visual_review": "Actual crop inspected: preserves three packaged gold-tone snake-chain necklaces, one rounded folded heart each; correct lavender/cream styled, lifestyle tray, tight actual heart-part macro or accurate promotional view."
     }
   ],
   "status": "in_progress",
   "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
-  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "plan_original_hashes_verified": true,
+  "corrective_attempts": {
+    "01_White-Background": {
+      "attempts": 1,
+      "reason": "Initial white view had charcoal background",
+      "status": "reserved_inflight"
+    }
+  }
 }

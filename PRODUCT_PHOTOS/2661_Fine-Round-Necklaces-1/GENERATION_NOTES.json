@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261002-WA0159.jpg": "40dccd5452c02046c422b3890170dfb3f9b7a7b445fae0fcf0e32b16596082a0"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-818d4564-275c-49d5-9dbd-fa1aff5c6e7c.png",
+      "source_output": "/workspace/generated_images/exec-818d4564-275c-49d5-9dbd-fa1aff5c6e7c.png",
+      "sha256": "152f497dc1f5c2c2ec69ceb655e32c0e0074107e6e124a9770df28dbbd70d3f8",
+      "prompt": "Create ONE website-ready landscape 1536x1024 image, exactly 3 equal columns by 2 equal rows, six 512x512 cells, no gutters, borders or panel labels. Use the referenced actual original photograph as identity source; edit the actual product, never substitute stock. Reading-order cells: 1 entire original assortment on clean white; 2 same entire assortment on lavender/cream styled surface; 3 same entire assortment in a tasteful vanity lifestyle scene; 4 standalone tight macro of a real visible pendant and chain, only this part not whole assortment; 5 same entire assortment promotional photo with heading OPEN CIRCLE PENDANT NECKLACES; 6 plain blank cream unused. Full product entirely inside each cell with generous margins and no cross-cell overlap. Preserve EXACTLY THREE original necklaces on THREE long white cards within clear packaging, overlapping diagonal arrangement, fine gold-tone chains and one original pendant on each card. Remove hand, shop background and large external price/material/lifetime-warranty overlay. Retain actual packaging identity without adding claims. No extra necklaces, extra pendants, gemstones, colour or shape changes. Website quality sufficient. Actual pendants are OPEN circular ring/donut shapes with gold Roman numerals around a dark ring, gold outside border and EMPTY centre showing white backing card, one per necklace, three total. NOT solid black discs, NOT FOREVER LOVE text. Preserve ROMAN NUMERALS, empty centre and original ring diameter/shape. Macro tightly shows one actual open Roman-numeral ring with white through centre and its chain.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-818d4564-275c-49d5-9dbd-fa1aff5c6e7c.png",
+      "prompt": "Create ONE website-ready landscape 1536x1024 image, exactly 3 equal columns by 2 equal rows, six 512x512 cells, no gutters, borders or panel labels. Use the referenced actual original photograph as identity source; edit the actual product, never substitute stock. Reading-order cells: 1 entire original assortment on clean white; 2 same entire assortment on lavender/cream styled surface; 3 same entire assortment in a tasteful vanity lifestyle scene; 4 standalone tight macro of a real visible pendant and chain, only this part not whole assortment; 5 same entire assortment promotional photo with heading OPEN CIRCLE PENDANT NECKLACES; 6 plain blank cream unused. Full product entirely inside each cell with generous margins and no cross-cell overlap. Preserve EXACTLY THREE original necklaces on THREE long white cards within clear packaging, overlapping diagonal arrangement, fine gold-tone chains and one original pendant on each card. Remove hand, shop background and large external price/material/lifetime-warranty overlay. Retain actual packaging identity without adding claims. No extra necklaces, extra pendants, gemstones, colour or shape changes. Website quality sufficient. Actual pendants are OPEN circular ring/donut shapes with gold Roman numerals around a dark ring, gold outside border and EMPTY centre showing white backing card, one per necklace, three total. NOT solid black discs, NOT FOREVER LOVE text. Preserve ROMAN NUMERALS, empty centre and original ring diameter/shape. Macro tightly shows one actual open Roman-numeral ring with white through centre and its chain.",
+      "sha256": "04f718c507eeb2ff2c19a379074820d13c13afafb97d15a58c17b7b4392f1180",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-818d4564-275c-49d5-9dbd-fa1aff5c6e7c.png",
+      "grid_sha256": "152f497dc1f5c2c2ec69ceb655e32c0e0074107e6e124a9770df28dbbd70d3f8",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual original, whole grid and all five saved crops inspected. Preserves three open Roman-numeral ring pendants, gold/dark dial and white backing visible through empty centres on three fine gold-tone necklaces/cards within clear packaging. Correct whole-assortment count and identity in four full views; standalone tight real-pendant macro; clean white, lavender/cream style and vanity lifestyle; promotional heading accurate and legible. Website-ready, no material error observed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-818d4564-275c-49d5-9dbd-fa1aff5c6e7c.png",
+      "prompt": "Create ONE website-ready landscape 1536x1024 image, exactly 3 equal columns by 2 equal rows, six 512x512 cells, no gutters, borders or panel labels. Use the referenced actual original photograph as identity source; edit the actual product, never substitute stock. Reading-order cells: 1 entire original assortment on clean white; 2 same entire assortment on lavender/cream styled surface; 3 same entire assortment in a tasteful vanity lifestyle scene; 4 standalone tight macro of a real visible pendant and chain, only this part not whole assortment; 5 same entire assortment promotional photo with heading OPEN CIRCLE PENDANT NECKLACES; 6 plain blank cream unused. Full product entirely inside each cell with generous margins and no cross-cell overlap. Preserve EXACTLY THREE original necklaces on THREE long white cards within clear packaging, overlapping diagonal arrangement, fine gold-tone chains and one original pendant on each card. Remove hand, shop background and large external price/material/lifetime-warranty overlay. Retain actual packaging identity without adding claims. No extra necklaces, extra pendants, gemstones, colour or shape changes. Website quality sufficient. Actual pendants are OPEN circular ring/donut shapes with gold Roman numerals around a dark ring, gold outside border and EMPTY centre showing white backing card, one per necklace, three total. NOT solid black discs, NOT FOREVER LOVE text. Preserve ROMAN NUMERALS, empty centre and original ring diameter/shape. Macro tightly shows one actual open Roman-numeral ring with white through centre and its chain.",
+      "sha256": "04560f435e47dfa309c729f43902d1cba858f9c68b81948aee675642259448b0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-818d4564-275c-49d5-9dbd-fa1aff5c6e7c.png",
+      "grid_sha256": "152f497dc1f5c2c2ec69ceb655e32c0e0074107e6e124a9770df28dbbd70d3f8",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual original, whole grid and all five saved crops inspected. Preserves three open Roman-numeral ring pendants, gold/dark dial and white backing visible through empty centres on three fine gold-tone necklaces/cards within clear packaging. Correct whole-assortment count and identity in four full views; standalone tight real-pendant macro; clean white, lavender/cream style and vanity lifestyle; promotional heading accurate and legible. Website-ready, no material error observed."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-818d4564-275c-49d5-9dbd-fa1aff5c6e7c.png",
+      "prompt": "Create ONE website-ready landscape 1536x1024 image, exactly 3 equal columns by 2 equal rows, six 512x512 cells, no gutters, borders or panel labels. Use the referenced actual original photograph as identity source; edit the actual product, never substitute stock. Reading-order cells: 1 entire original assortment on clean white; 2 same entire assortment on lavender/cream styled surface; 3 same entire assortment in a tasteful vanity lifestyle scene; 4 standalone tight macro of a real visible pendant and chain, only this part not whole assortment; 5 same entire assortment promotional photo with heading OPEN CIRCLE PENDANT NECKLACES; 6 plain blank cream unused. Full product entirely inside each cell with generous margins and no cross-cell overlap. Preserve EXACTLY THREE original necklaces on THREE long white cards within clear packaging, overlapping diagonal arrangement, fine gold-tone chains and one original pendant on each card. Remove hand, shop background and large external price/material/lifetime-warranty overlay. Retain actual packaging identity without adding claims. No extra necklaces, extra pendants, gemstones, colour or shape changes. Website quality sufficient. Actual pendants are OPEN circular ring/donut shapes with gold Roman numerals around a dark ring, gold outside border and EMPTY centre showing white backing card, one per necklace, three total. NOT solid black discs, NOT FOREVER LOVE text. Preserve ROMAN NUMERALS, empty centre and original ring diameter/shape. Macro tightly shows one actual open Roman-numeral ring with white through centre and its chain.",
+      "sha256": "105fa9ba1eacc56d6b7652e5813a85abb8d86912e79d5400a452737c6f2c2bce",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-818d4564-275c-49d5-9dbd-fa1aff5c6e7c.png",
+      "grid_sha256": "152f497dc1f5c2c2ec69ceb655e32c0e0074107e6e124a9770df28dbbd70d3f8",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual original, whole grid and all five saved crops inspected. Preserves three open Roman-numeral ring pendants, gold/dark dial and white backing visible through empty centres on three fine gold-tone necklaces/cards within clear packaging. Correct whole-assortment count and identity in four full views; standalone tight real-pendant macro; clean white, lavender/cream style and vanity lifestyle; promotional heading accurate and legible. Website-ready, no material error observed."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-818d4564-275c-49d5-9dbd-fa1aff5c6e7c.png",
+      "prompt": "Create ONE website-ready landscape 1536x1024 image, exactly 3 equal columns by 2 equal rows, six 512x512 cells, no gutters, borders or panel labels. Use the referenced actual original photograph as identity source; edit the actual product, never substitute stock. Reading-order cells: 1 entire original assortment on clean white; 2 same entire assortment on lavender/cream styled surface; 3 same entire assortment in a tasteful vanity lifestyle scene; 4 standalone tight macro of a real visible pendant and chain, only this part not whole assortment; 5 same entire assortment promotional photo with heading OPEN CIRCLE PENDANT NECKLACES; 6 plain blank cream unused. Full product entirely inside each cell with generous margins and no cross-cell overlap. Preserve EXACTLY THREE original necklaces on THREE long white cards within clear packaging, overlapping diagonal arrangement, fine gold-tone chains and one original pendant on each card. Remove hand, shop background and large external price/material/lifetime-warranty overlay. Retain actual packaging identity without adding claims. No extra necklaces, extra pendants, gemstones, colour or shape changes. Website quality sufficient. Actual pendants are OPEN circular ring/donut shapes with gold Roman numerals around a dark ring, gold outside border and EMPTY centre showing white backing card, one per necklace, three total. NOT solid black discs, NOT FOREVER LOVE text. Preserve ROMAN NUMERALS, empty centre and original ring diameter/shape. Macro tightly shows one actual open Roman-numeral ring with white through centre and its chain.",
+      "sha256": "41f9d1323b5c3c5c9eb0b9a5041083ae04e5aafa2b7a82ce870764464051f4a3",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-818d4564-275c-49d5-9dbd-fa1aff5c6e7c.png",
+      "grid_sha256": "152f497dc1f5c2c2ec69ceb655e32c0e0074107e6e124a9770df28dbbd70d3f8",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual original, whole grid and all five saved crops inspected. Preserves three open Roman-numeral ring pendants, gold/dark dial and white backing visible through empty centres on three fine gold-tone necklaces/cards within clear packaging. Correct whole-assortment count and identity in four full views; standalone tight real-pendant macro; clean white, lavender/cream style and vanity lifestyle; promotional heading accurate and legible. Website-ready, no material error observed."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-818d4564-275c-49d5-9dbd-fa1aff5c6e7c.png",
+      "prompt": "Create ONE website-ready landscape 1536x1024 image, exactly 3 equal columns by 2 equal rows, six 512x512 cells, no gutters, borders or panel labels. Use the referenced actual original photograph as identity source; edit the actual product, never substitute stock. Reading-order cells: 1 entire original assortment on clean white; 2 same entire assortment on lavender/cream styled surface; 3 same entire assortment in a tasteful vanity lifestyle scene; 4 standalone tight macro of a real visible pendant and chain, only this part not whole assortment; 5 same entire assortment promotional photo with heading OPEN CIRCLE PENDANT NECKLACES; 6 plain blank cream unused. Full product entirely inside each cell with generous margins and no cross-cell overlap. Preserve EXACTLY THREE original necklaces on THREE long white cards within clear packaging, overlapping diagonal arrangement, fine gold-tone chains and one original pendant on each card. Remove hand, shop background and large external price/material/lifetime-warranty overlay. Retain actual packaging identity without adding claims. No extra necklaces, extra pendants, gemstones, colour or shape changes. Website quality sufficient. Actual pendants are OPEN circular ring/donut shapes with gold Roman numerals around a dark ring, gold outside border and EMPTY centre showing white backing card, one per necklace, three total. NOT solid black discs, NOT FOREVER LOVE text. Preserve ROMAN NUMERALS, empty centre and original ring diameter/shape. Macro tightly shows one actual open Roman-numeral ring with white through centre and its chain.",
+      "sha256": "29253745fcd953bbdb490d18dc5ab53dd77be3e101adaf3692014e2687e8df2d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-818d4564-275c-49d5-9dbd-fa1aff5c6e7c.png",
+      "grid_sha256": "152f497dc1f5c2c2ec69ceb655e32c0e0074107e6e124a9770df28dbbd70d3f8",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual original, whole grid and all five saved crops inspected. Preserves three open Roman-numeral ring pendants, gold/dark dial and white backing visible through empty centres on three fine gold-tone necklaces/cards within clear packaging. Correct whole-assortment count and identity in four full views; standalone tight real-pendant macro; clean white, lavender/cream style and vanity lifestyle; promotional heading accurate and legible. Website-ready, no material error observed."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_plan_sha256_verified": true
+}

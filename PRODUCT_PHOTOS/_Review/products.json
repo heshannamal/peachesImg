@@ -32401,9 +32401,9 @@
       2979,
       2980
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -32414,9 +32414,9 @@
       2981,
       2982
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -32427,9 +32427,9 @@
       2983,
       2984
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -32439,107 +32439,123 @@
     "source_image_ids": [
       2985
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2661",
-    "folder": "2661_Fine-Round-Necklaces-0",
+    "folder": "2661_Fine-Round-Necklaces-1",
     "source_image_ids": [
       2986
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2662",
-    "folder": "2662_Fine-Heart-Necklaces-0",
+    "folder": "2662_Fine-Heart-Necklaces-1",
     "source_image_ids": [
       2987
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2663",
-    "folder": "2663_Fine-Drop-Necklaces-0",
+    "folder": "2663_Fine-Drop-Necklaces-1",
     "source_image_ids": [
       2988
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2664",
-    "folder": "2664_Fine-Star-Necklaces-0",
+    "folder": "2664_Fine-Star-Necklaces-1",
     "source_image_ids": [
       2989
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2665",
-    "folder": "2665_Fine-Disc-Necklaces-0",
+    "folder": "2665_Fine-Disc-Necklaces-1",
     "source_image_ids": [
       2990
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2666",
-    "folder": "2666_Fine-Small-Pendant-Necklaces-0",
+    "folder": "2666_Fine-Small-Pendant-Necklaces-1",
     "source_image_ids": [
       2991
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2667",
-    "folder": "2667_Fine-Clear-Pendant-Necklaces-0",
+    "folder": "2667_Fine-Clear-Pendant-Necklaces-1",
     "source_image_ids": [
       2992
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2668",
-    "folder": "2668_Fine-Gold-Tone-Necklaces-0",
+    "folder": "2668_Fine-Gold-Tone-Necklaces-1",
     "source_image_ids": [
       2993
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2669",

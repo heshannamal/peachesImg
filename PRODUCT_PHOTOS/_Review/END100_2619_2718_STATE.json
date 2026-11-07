@@ -1,16 +1,18 @@
 {
-  "updated_at": "2026-11-04T01:21:09.525872+00:00",
+  "updated_at": "2026-11-07T06:23:40.799558+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 19,
-  "partial_products": 4,
-  "pending_products": 72,
+  "completed_products": 25,
+  "partial_products": 2,
+  "pending_products": 68,
   "blocked_products": 5,
-  "saved_images": 115,
-  "checked_images": 95,
+  "saved_images": 135,
+  "checked_images": 125,
   "status": "running",
   "started_at": "2026-11-04T01:10:59.823430+00:00",
   "max_active_products": 10,
   "processing_order": "descending_numeric_product_id",
-  "generation_workflow": "one_native3x2grid_then_five_crops"
+  "generation_workflow": "one_native3x2grid_then_five_crops",
+  "resumed_at": "2026-11-07T06:22:28.051796+00:00",
+  "resume_note": "UserContinueNov7. Resume assigneddescendingpairs; reviewexistinguncheckedgrids first; preservecomplete/validviews; onegrid\u2192fivecrops. NoCSV."
 }

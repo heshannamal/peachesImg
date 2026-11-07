@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261002-WA0267.jpg": "d2925ed51a5bc6f45a9f0e2e91056b30ae0aedd092eaf73c71709049019a637b"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-f61e8dbc-53f0-4d15-8ea7-83b82171280a.png",
+      "source_output": "/workspace/generated_images/exec-f61e8dbc-53f0-4d15-8ea7-83b82171280a.png",
+      "sha256": "49e6cbd556d9bc126f3c969546c4e9a5c5e5c4cfc28c951caeee575fb04030ad",
+      "prompt": "Create ONE landscape1536x1024 faithful productphoto grid EXACT3equalcolumns x2equalrows six512squarecells, NOgutters/borders/separatorlines/panellabels. Everyview completelycontained within its owncell withmargin. Readingorder TOPLEFT01purewhite entireassortment;TOPMIDDLE02lavender/creamstyled entireassortment;TOPRIGHT03entireassortment on creamvanity softlyblurredlavenderroom;BOTTOMLEFT04standaloneTIGHTREALPARTMACRO specified ONLYactualvisiblepart NOTwholeassortment;BOTTOMMIDDLE05entireassortment plusaccurateheading;BOTTOMRIGHT06blankcreamunused. Preserve exactsource counts/identity/shapes/colours/material/packaging and originalfrontview/overlap/occlusions. Removehand/shop/externalprice/warrantyadvertisingoverlays only; do notinventhiddenjewellery,newclaims or addedobjects. EXACT THREE frontlongwhite cards in originalclearbag, eachholding ONE goldtonefinechain withFIVE spaced four-lobed WHITE/milkyclovercharms withbeadedgoldrims, fifteenvisibleclovers total. Keep original staggeredthreecard arrangement, actual chainlinks/clasp/tailpositions, whitefilledclover shapes andgoldbeadededges, packagecards/rearpartialcardheaders/overlap and sourcegeometry. No addedchains or hiddenparts. MacrocellONLYone realwhiteclovergoldbeadedrim+adjoiningchainjunction. Promoheading WHITE CLOVER CHARM CHAINS.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-f61e8dbc-53f0-4d15-8ea7-83b82171280a.png",
+      "prompt": "Create ONE landscape1536x1024 faithful productphoto grid EXACT3equalcolumns x2equalrows six512squarecells, NOgutters/borders/separatorlines/panellabels. Everyview completelycontained within its owncell withmargin. Readingorder TOPLEFT01purewhite entireassortment;TOPMIDDLE02lavender/creamstyled entireassortment;TOPRIGHT03entireassortment on creamvanity softlyblurredlavenderroom;BOTTOMLEFT04standaloneTIGHTREALPARTMACRO specified ONLYactualvisiblepart NOTwholeassortment;BOTTOMMIDDLE05entireassortment plusaccurateheading;BOTTOMRIGHT06blankcreamunused. Preserve exactsource counts/identity/shapes/colours/material/packaging and originalfrontview/overlap/occlusions. Removehand/shop/externalprice/warrantyadvertisingoverlays only; do notinventhiddenjewellery,newclaims or addedobjects. EXACT THREE frontlongwhite cards in originalclearbag, eachholding ONE goldtonefinechain withFIVE spaced four-lobed WHITE/milkyclovercharms withbeadedgoldrims, fifteenvisibleclovers total. Keep original staggeredthreecard arrangement, actual chainlinks/clasp/tailpositions, whitefilledclover shapes andgoldbeadededges, packagecards/rearpartialcardheaders/overlap and sourcegeometry. No addedchains or hiddenparts. MacrocellONLYone realwhiteclovergoldbeadedrim+adjoiningchainjunction. Promoheading WHITE CLOVER CHARM CHAINS.",
+      "sha256": "4266a3ccaf5a25ec9d251f598cbd74a4d6b01738936b36035b99442eece971c4",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f61e8dbc-53f0-4d15-8ea7-83b82171280a.png",
+      "grid_sha256": "49e6cbd556d9bc126f3c969546c4e9a5c5e5c4cfc28c951caeee575fb04030ad",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-f61e8dbc-53f0-4d15-8ea7-83b82171280a.png",
+      "prompt": "Create ONE landscape1536x1024 faithful productphoto grid EXACT3equalcolumns x2equalrows six512squarecells, NOgutters/borders/separatorlines/panellabels. Everyview completelycontained within its owncell withmargin. Readingorder TOPLEFT01purewhite entireassortment;TOPMIDDLE02lavender/creamstyled entireassortment;TOPRIGHT03entireassortment on creamvanity softlyblurredlavenderroom;BOTTOMLEFT04standaloneTIGHTREALPARTMACRO specified ONLYactualvisiblepart NOTwholeassortment;BOTTOMMIDDLE05entireassortment plusaccurateheading;BOTTOMRIGHT06blankcreamunused. Preserve exactsource counts/identity/shapes/colours/material/packaging and originalfrontview/overlap/occlusions. Removehand/shop/externalprice/warrantyadvertisingoverlays only; do notinventhiddenjewellery,newclaims or addedobjects. EXACT THREE frontlongwhite cards in originalclearbag, eachholding ONE goldtonefinechain withFIVE spaced four-lobed WHITE/milkyclovercharms withbeadedgoldrims, fifteenvisibleclovers total. Keep original staggeredthreecard arrangement, actual chainlinks/clasp/tailpositions, whitefilledclover shapes andgoldbeadededges, packagecards/rearpartialcardheaders/overlap and sourcegeometry. No addedchains or hiddenparts. MacrocellONLYone realwhiteclovergoldbeadedrim+adjoiningchainjunction. Promoheading WHITE CLOVER CHARM CHAINS.",
+      "sha256": "bc0b09d65f4d330fbd4306d063b6e6eb062fcc74832d4adf4dead144e9c81fb5",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f61e8dbc-53f0-4d15-8ea7-83b82171280a.png",
+      "grid_sha256": "49e6cbd556d9bc126f3c969546c4e9a5c5e5c4cfc28c951caeee575fb04030ad",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-f61e8dbc-53f0-4d15-8ea7-83b82171280a.png",
+      "prompt": "Create ONE landscape1536x1024 faithful productphoto grid EXACT3equalcolumns x2equalrows six512squarecells, NOgutters/borders/separatorlines/panellabels. Everyview completelycontained within its owncell withmargin. Readingorder TOPLEFT01purewhite entireassortment;TOPMIDDLE02lavender/creamstyled entireassortment;TOPRIGHT03entireassortment on creamvanity softlyblurredlavenderroom;BOTTOMLEFT04standaloneTIGHTREALPARTMACRO specified ONLYactualvisiblepart NOTwholeassortment;BOTTOMMIDDLE05entireassortment plusaccurateheading;BOTTOMRIGHT06blankcreamunused. Preserve exactsource counts/identity/shapes/colours/material/packaging and originalfrontview/overlap/occlusions. Removehand/shop/externalprice/warrantyadvertisingoverlays only; do notinventhiddenjewellery,newclaims or addedobjects. EXACT THREE frontlongwhite cards in originalclearbag, eachholding ONE goldtonefinechain withFIVE spaced four-lobed WHITE/milkyclovercharms withbeadedgoldrims, fifteenvisibleclovers total. Keep original staggeredthreecard arrangement, actual chainlinks/clasp/tailpositions, whitefilledclover shapes andgoldbeadededges, packagecards/rearpartialcardheaders/overlap and sourcegeometry. No addedchains or hiddenparts. MacrocellONLYone realwhiteclovergoldbeadedrim+adjoiningchainjunction. Promoheading WHITE CLOVER CHARM CHAINS.",
+      "sha256": "2be29ed43feb990f4cd55aa5c48be3b42b837a761023be25571e33448559647b",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f61e8dbc-53f0-4d15-8ea7-83b82171280a.png",
+      "grid_sha256": "49e6cbd556d9bc126f3c969546c4e9a5c5e5c4cfc28c951caeee575fb04030ad",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-f61e8dbc-53f0-4d15-8ea7-83b82171280a.png",
+      "prompt": "Create ONE landscape1536x1024 faithful productphoto grid EXACT3equalcolumns x2equalrows six512squarecells, NOgutters/borders/separatorlines/panellabels. Everyview completelycontained within its owncell withmargin. Readingorder TOPLEFT01purewhite entireassortment;TOPMIDDLE02lavender/creamstyled entireassortment;TOPRIGHT03entireassortment on creamvanity softlyblurredlavenderroom;BOTTOMLEFT04standaloneTIGHTREALPARTMACRO specified ONLYactualvisiblepart NOTwholeassortment;BOTTOMMIDDLE05entireassortment plusaccurateheading;BOTTOMRIGHT06blankcreamunused. Preserve exactsource counts/identity/shapes/colours/material/packaging and originalfrontview/overlap/occlusions. Removehand/shop/externalprice/warrantyadvertisingoverlays only; do notinventhiddenjewellery,newclaims or addedobjects. EXACT THREE frontlongwhite cards in originalclearbag, eachholding ONE goldtonefinechain withFIVE spaced four-lobed WHITE/milkyclovercharms withbeadedgoldrims, fifteenvisibleclovers total. Keep original staggeredthreecard arrangement, actual chainlinks/clasp/tailpositions, whitefilledclover shapes andgoldbeadededges, packagecards/rearpartialcardheaders/overlap and sourcegeometry. No addedchains or hiddenparts. MacrocellONLYone realwhiteclovergoldbeadedrim+adjoiningchainjunction. Promoheading WHITE CLOVER CHARM CHAINS.",
+      "sha256": "6d36a401fc9dcc11cdc83c6c0fb10f32a4daa2714ea5e703adf372e162bcd16b",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f61e8dbc-53f0-4d15-8ea7-83b82171280a.png",
+      "grid_sha256": "49e6cbd556d9bc126f3c969546c4e9a5c5e5c4cfc28c951caeee575fb04030ad",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-f61e8dbc-53f0-4d15-8ea7-83b82171280a.png",
+      "prompt": "Create ONE landscape1536x1024 faithful productphoto grid EXACT3equalcolumns x2equalrows six512squarecells, NOgutters/borders/separatorlines/panellabels. Everyview completelycontained within its owncell withmargin. Readingorder TOPLEFT01purewhite entireassortment;TOPMIDDLE02lavender/creamstyled entireassortment;TOPRIGHT03entireassortment on creamvanity softlyblurredlavenderroom;BOTTOMLEFT04standaloneTIGHTREALPARTMACRO specified ONLYactualvisiblepart NOTwholeassortment;BOTTOMMIDDLE05entireassortment plusaccurateheading;BOTTOMRIGHT06blankcreamunused. Preserve exactsource counts/identity/shapes/colours/material/packaging and originalfrontview/overlap/occlusions. Removehand/shop/externalprice/warrantyadvertisingoverlays only; do notinventhiddenjewellery,newclaims or addedobjects. EXACT THREE frontlongwhite cards in originalclearbag, eachholding ONE goldtonefinechain withFIVE spaced four-lobed WHITE/milkyclovercharms withbeadedgoldrims, fifteenvisibleclovers total. Keep original staggeredthreecard arrangement, actual chainlinks/clasp/tailpositions, whitefilledclover shapes andgoldbeadededges, packagecards/rearpartialcardheaders/overlap and sourcegeometry. No addedchains or hiddenparts. MacrocellONLYone realwhiteclovergoldbeadedrim+adjoiningchainjunction. Promoheading WHITE CLOVER CHARM CHAINS.",
+      "sha256": "2d1149e5318231b23d9d85f1ebe03ec2e32c1535cc141577235befde8df84501",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f61e8dbc-53f0-4d15-8ea7-83b82171280a.png",
+      "grid_sha256": "49e6cbd556d9bc126f3c969546c4e9a5c5e5c4cfc28c951caeee575fb04030ad",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

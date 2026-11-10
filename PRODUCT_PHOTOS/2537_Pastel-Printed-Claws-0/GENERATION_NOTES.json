@@ -1,0 +1,122 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260929-WA0237.jpg": "5ae2de6f6dd888a6368fb8662242dcf60a061a08fe3fd2eefe8f0af9042adaa4"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-fc73cac5-8984-462e-b83e-223fd0378a03.png",
+      "source_output": "/workspace/generated_images/exec-fc73cac5-8984-462e-b83e-223fd0378a03.png",
+      "sha256": "6aa8b9e45d60174394ba8c0827be0c7bad4c0c0a3782a442d294c80735a2f9f0",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Pastel Cat Hair Claws\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment TWELVE translucentpastel CAT-shaped hairclawclips, packedtwostripsofSIXeach. Eachclip has whitecuteCATface withblackeyes/whiskers, colouredbowatear andmatchingpastelbody printedwithdecorativefloralpattern, actualsourcegraphicretained. SIXcolourpairs source: twoPALEYELLOW, twoPALEBLUE, twoLAVENDER, twoPINK, twoCREAMPEACH, twoPINKagain; total12not10. Fullviews1/2/3/5 show ALLTWELVE clips together intwocolumns6rows, sourcecathead/body clawshape/spring/colours unchanged. No extrastockorhand orpriceoverlay. Detail standalone tightmacro ofoneactualpalebluecatface/bowandhinge, notfullassortment. AccurateheadingPastel Cat Hair Claws.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-fc73cac5-8984-462e-b83e-223fd0378a03.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Pastel Cat Hair Claws\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment TWELVE translucentpastel CAT-shaped hairclawclips, packedtwostripsofSIXeach. Eachclip has whitecuteCATface withblackeyes/whiskers, colouredbowatear andmatchingpastelbody printedwithdecorativefloralpattern, actualsourcegraphicretained. SIXcolourpairs source: twoPALEYELLOW, twoPALEBLUE, twoLAVENDER, twoPINK, twoCREAMPEACH, twoPINKagain; total12not10. Fullviews1/2/3/5 show ALLTWELVE clips together intwocolumns6rows, sourcecathead/body clawshape/spring/colours unchanged. No extrastockorhand orpriceoverlay. Detail standalone tightmacro ofoneactualpalebluecatface/bowandhinge, notfullassortment. AccurateheadingPastel Cat Hair Claws.",
+      "sha256": "64caf671bf45d7ececd1f7ea0ee96eca258f812728c4363f500561163cfaacd0",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-fc73cac5-8984-462e-b83e-223fd0378a03.png",
+      "grid_sha256": "6aa8b9e45d60174394ba8c0827be0c7bad4c0c0a3782a442d294c80735a2f9f0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-fc73cac5-8984-462e-b83e-223fd0378a03.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Pastel Cat Hair Claws\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment TWELVE translucentpastel CAT-shaped hairclawclips, packedtwostripsofSIXeach. Eachclip has whitecuteCATface withblackeyes/whiskers, colouredbowatear andmatchingpastelbody printedwithdecorativefloralpattern, actualsourcegraphicretained. SIXcolourpairs source: twoPALEYELLOW, twoPALEBLUE, twoLAVENDER, twoPINK, twoCREAMPEACH, twoPINKagain; total12not10. Fullviews1/2/3/5 show ALLTWELVE clips together intwocolumns6rows, sourcecathead/body clawshape/spring/colours unchanged. No extrastockorhand orpriceoverlay. Detail standalone tightmacro ofoneactualpalebluecatface/bowandhinge, notfullassortment. AccurateheadingPastel Cat Hair Claws.",
+      "sha256": "f6632e89b8c5c7b6b76730ff76833fb7c6c14fcca98add7613fc446482b89b37",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-fc73cac5-8984-462e-b83e-223fd0378a03.png",
+      "grid_sha256": "6aa8b9e45d60174394ba8c0827be0c7bad4c0c0a3782a442d294c80735a2f9f0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-fc73cac5-8984-462e-b83e-223fd0378a03.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Pastel Cat Hair Claws\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment TWELVE translucentpastel CAT-shaped hairclawclips, packedtwostripsofSIXeach. Eachclip has whitecuteCATface withblackeyes/whiskers, colouredbowatear andmatchingpastelbody printedwithdecorativefloralpattern, actualsourcegraphicretained. SIXcolourpairs source: twoPALEYELLOW, twoPALEBLUE, twoLAVENDER, twoPINK, twoCREAMPEACH, twoPINKagain; total12not10. Fullviews1/2/3/5 show ALLTWELVE clips together intwocolumns6rows, sourcecathead/body clawshape/spring/colours unchanged. No extrastockorhand orpriceoverlay. Detail standalone tightmacro ofoneactualpalebluecatface/bowandhinge, notfullassortment. AccurateheadingPastel Cat Hair Claws.",
+      "sha256": "a55383ade14208e0d0f6d2d6b502fc7a81cd2e70a8ee69b815748bcfe9b83999",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-fc73cac5-8984-462e-b83e-223fd0378a03.png",
+      "grid_sha256": "6aa8b9e45d60174394ba8c0827be0c7bad4c0c0a3782a442d294c80735a2f9f0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-fc73cac5-8984-462e-b83e-223fd0378a03.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Pastel Cat Hair Claws\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment TWELVE translucentpastel CAT-shaped hairclawclips, packedtwostripsofSIXeach. Eachclip has whitecuteCATface withblackeyes/whiskers, colouredbowatear andmatchingpastelbody printedwithdecorativefloralpattern, actualsourcegraphicretained. SIXcolourpairs source: twoPALEYELLOW, twoPALEBLUE, twoLAVENDER, twoPINK, twoCREAMPEACH, twoPINKagain; total12not10. Fullviews1/2/3/5 show ALLTWELVE clips together intwocolumns6rows, sourcecathead/body clawshape/spring/colours unchanged. No extrastockorhand orpriceoverlay. Detail standalone tightmacro ofoneactualpalebluecatface/bowandhinge, notfullassortment. AccurateheadingPastel Cat Hair Claws.",
+      "sha256": "3059d8458ba2a1cd5a7c98a258aef533baf83b9ee4da2cd2ca0ba15f1e5fa649",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-fc73cac5-8984-462e-b83e-223fd0378a03.png",
+      "grid_sha256": "6aa8b9e45d60174394ba8c0827be0c7bad4c0c0a3782a442d294c80735a2f9f0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        96,
+        548,
+        425,
+        852
+      ],
+      "visual_review": "Mechanically tightened actual printedcatface/bow/hinge real-part macro."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-fc73cac5-8984-462e-b83e-223fd0378a03.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Pastel Cat Hair Claws\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment TWELVE translucentpastel CAT-shaped hairclawclips, packedtwostripsofSIXeach. Eachclip has whitecuteCATface withblackeyes/whiskers, colouredbowatear andmatchingpastelbody printedwithdecorativefloralpattern, actualsourcegraphicretained. SIXcolourpairs source: twoPALEYELLOW, twoPALEBLUE, twoLAVENDER, twoPINK, twoCREAMPEACH, twoPINKagain; total12not10. Fullviews1/2/3/5 show ALLTWELVE clips together intwocolumns6rows, sourcecathead/body clawshape/spring/colours unchanged. No extrastockorhand orpriceoverlay. Detail standalone tightmacro ofoneactualpalebluecatface/bowandhinge, notfullassortment. AccurateheadingPastel Cat Hair Claws.",
+      "sha256": "f2b23c28c954d7f2fb87cc131071db3d34920d24fd65609443bcfff5abfdc88f",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-fc73cac5-8984-462e-b83e-223fd0378a03.png",
+      "grid_sha256": "6aa8b9e45d60174394ba8c0827be0c7bad4c0c0a3782a442d294c80735a2f9f0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

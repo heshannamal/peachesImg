@@ -1,0 +1,139 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260929-WA0251.jpg": "0bae1dac17d1c7275b86faf5e582d617c40fd38e14bbcf8238f9c2a20f587dad"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-5f5cce17-c92f-48b5-98e6-e8d615b3a8e8.png",
+      "source_output": "/workspace/generated_images/exec-5f5cce17-c92f-48b5-98e6-e8d615b3a8e8.png",
+      "sha256": "70d750c1c187077c90b33a58073246e205f15a10dc388ae27e17ef1a2361e202",
+      "prompt": "Native photographic edit of actualoriginal intoONE1536x1024 strict3columns2rows contact sheet equal512squarecells no gutters. WHOLEassortment is ONEproduct, EXACTLY12 sourcehairclaws. Cell1top-left WHITEBACKGROUNDALL12;cell2top-middle LAVENDER/CREAMSTYLEDALL12;cell3top-right LIFESTYLEDRESSERALL12;cell4bottom-left standalone tightmacrorealpearlrim/goldhingepart;cell5bottom-middle PROMOTIONALALL12 accurateheading;cell6bottom-rightblankcream. Repeat entire12piece assortment ineachfullview, arrange2rows6claws or3rows4claws forclearcount. Preserveoriginalshape,creamwhitepearls,transparentchampagnegoldplasticbase,metalcoilhinge/teeth,exactquantity. Removehand,plasticbag,shop,price/stickers. Notmetalreplacement,nounrelatedhairclips. Source12identicalclear-champagnegoldhairclaws withWHITEPEARLoutline figure-eight/twoloop bowface, longpearl-edgedhorizontalwings taperingatmiddleandtwoloopedpearlpetals, asactualreference. Preserveactualtwo-loopbowshapenotsquare, transparentcombteeth andgoldspring. Exactly12piecesineachfullview. Detailmacrorealpearlrimandhinge. Heading 'Pearl Bow Hair Claws'.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "Rejected/initial_01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-5f5cce17-c92f-48b5-98e6-e8d615b3a8e8.png",
+      "prompt": "Native photographic edit of actualoriginal intoONE1536x1024 strict3columns2rows contact sheet equal512squarecells no gutters. WHOLEassortment is ONEproduct, EXACTLY12 sourcehairclaws. Cell1top-left WHITEBACKGROUNDALL12;cell2top-middle LAVENDER/CREAMSTYLEDALL12;cell3top-right LIFESTYLEDRESSERALL12;cell4bottom-left standalone tightmacrorealpearlrim/goldhingepart;cell5bottom-middle PROMOTIONALALL12 accurateheading;cell6bottom-rightblankcream. Repeat entire12piece assortment ineachfullview, arrange2rows6claws or3rows4claws forclearcount. Preserveoriginalshape,creamwhitepearls,transparentchampagnegoldplasticbase,metalcoilhinge/teeth,exactquantity. Removehand,plasticbag,shop,price/stickers. Notmetalreplacement,nounrelatedhairclips. Source12identicalclear-champagnegoldhairclaws withWHITEPEARLoutline figure-eight/twoloop bowface, longpearl-edgedhorizontalwings taperingatmiddleandtwoloopedpearlpetals, asactualreference. Preserveactualtwo-loopbowshapenotsquare, transparentcombteeth andgoldspring. Exactly12piecesineachfullview. Detailmacrorealpearlrimandhinge. Heading 'Pearl Bow Hair Claws'.",
+      "sha256": "7f1af4be495c2d03910ae256b2e36b9763386ce828250d9c7fe108420782c17f",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5f5cce17-c92f-48b5-98e6-e8d615b3a8e8.png",
+      "grid_sha256": "70d750c1c187077c90b33a58073246e205f15a10dc388ae27e17ef1a2361e202",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Rejectedidentityshapeerror: modelmakesuprightsmallloopandwingbar; sourceislargeopenelongatedtwoloopbow. Onecorrective."
+    },
+    {
+      "saved_file": "Rejected/initial_02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-5f5cce17-c92f-48b5-98e6-e8d615b3a8e8.png",
+      "prompt": "Native photographic edit of actualoriginal intoONE1536x1024 strict3columns2rows contact sheet equal512squarecells no gutters. WHOLEassortment is ONEproduct, EXACTLY12 sourcehairclaws. Cell1top-left WHITEBACKGROUNDALL12;cell2top-middle LAVENDER/CREAMSTYLEDALL12;cell3top-right LIFESTYLEDRESSERALL12;cell4bottom-left standalone tightmacrorealpearlrim/goldhingepart;cell5bottom-middle PROMOTIONALALL12 accurateheading;cell6bottom-rightblankcream. Repeat entire12piece assortment ineachfullview, arrange2rows6claws or3rows4claws forclearcount. Preserveoriginalshape,creamwhitepearls,transparentchampagnegoldplasticbase,metalcoilhinge/teeth,exactquantity. Removehand,plasticbag,shop,price/stickers. Notmetalreplacement,nounrelatedhairclips. Source12identicalclear-champagnegoldhairclaws withWHITEPEARLoutline figure-eight/twoloop bowface, longpearl-edgedhorizontalwings taperingatmiddleandtwoloopedpearlpetals, asactualreference. Preserveactualtwo-loopbowshapenotsquare, transparentcombteeth andgoldspring. Exactly12piecesineachfullview. Detailmacrorealpearlrimandhinge. Heading 'Pearl Bow Hair Claws'.",
+      "sha256": "1e6711491ed3c7c238862e4c4bf0c4d989bede6b83b4be8bb5486ac3a9b9daf0",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5f5cce17-c92f-48b5-98e6-e8d615b3a8e8.png",
+      "grid_sha256": "70d750c1c187077c90b33a58073246e205f15a10dc388ae27e17ef1a2361e202",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Rejectedidentityshapeerror: modelmakesuprightsmallloopandwingbar; sourceislargeopenelongatedtwoloopbow. Onecorrective."
+    },
+    {
+      "saved_file": "Rejected/initial_03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-5f5cce17-c92f-48b5-98e6-e8d615b3a8e8.png",
+      "prompt": "Native photographic edit of actualoriginal intoONE1536x1024 strict3columns2rows contact sheet equal512squarecells no gutters. WHOLEassortment is ONEproduct, EXACTLY12 sourcehairclaws. Cell1top-left WHITEBACKGROUNDALL12;cell2top-middle LAVENDER/CREAMSTYLEDALL12;cell3top-right LIFESTYLEDRESSERALL12;cell4bottom-left standalone tightmacrorealpearlrim/goldhingepart;cell5bottom-middle PROMOTIONALALL12 accurateheading;cell6bottom-rightblankcream. Repeat entire12piece assortment ineachfullview, arrange2rows6claws or3rows4claws forclearcount. Preserveoriginalshape,creamwhitepearls,transparentchampagnegoldplasticbase,metalcoilhinge/teeth,exactquantity. Removehand,plasticbag,shop,price/stickers. Notmetalreplacement,nounrelatedhairclips. Source12identicalclear-champagnegoldhairclaws withWHITEPEARLoutline figure-eight/twoloop bowface, longpearl-edgedhorizontalwings taperingatmiddleandtwoloopedpearlpetals, asactualreference. Preserveactualtwo-loopbowshapenotsquare, transparentcombteeth andgoldspring. Exactly12piecesineachfullview. Detailmacrorealpearlrimandhinge. Heading 'Pearl Bow Hair Claws'.",
+      "sha256": "59f65130acc72871197ac1d7ff006ed895118f3b13662f617b7dbf458cb805a7",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5f5cce17-c92f-48b5-98e6-e8d615b3a8e8.png",
+      "grid_sha256": "70d750c1c187077c90b33a58073246e205f15a10dc388ae27e17ef1a2361e202",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Rejectedidentityshapeerror: modelmakesuprightsmallloopandwingbar; sourceislargeopenelongatedtwoloopbow. Onecorrective."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-5f5cce17-c92f-48b5-98e6-e8d615b3a8e8.png",
+      "prompt": "Native photographic edit of actualoriginal intoONE1536x1024 strict3columns2rows contact sheet equal512squarecells no gutters. WHOLEassortment is ONEproduct, EXACTLY12 sourcehairclaws. Cell1top-left WHITEBACKGROUNDALL12;cell2top-middle LAVENDER/CREAMSTYLEDALL12;cell3top-right LIFESTYLEDRESSERALL12;cell4bottom-left standalone tightmacrorealpearlrim/goldhingepart;cell5bottom-middle PROMOTIONALALL12 accurateheading;cell6bottom-rightblankcream. Repeat entire12piece assortment ineachfullview, arrange2rows6claws or3rows4claws forclearcount. Preserveoriginalshape,creamwhitepearls,transparentchampagnegoldplasticbase,metalcoilhinge/teeth,exactquantity. Removehand,plasticbag,shop,price/stickers. Notmetalreplacement,nounrelatedhairclips. Source12identicalclear-champagnegoldhairclaws withWHITEPEARLoutline figure-eight/twoloop bowface, longpearl-edgedhorizontalwings taperingatmiddleandtwoloopedpearlpetals, asactualreference. Preserveactualtwo-loopbowshapenotsquare, transparentcombteeth andgoldspring. Exactly12piecesineachfullview. Detailmacrorealpearlrimandhinge. Heading 'Pearl Bow Hair Claws'.",
+      "sha256": "f0d1bfa9a05628faf43e53db7987bba1fe00f17c2c8104e26747fda3a257c1b3",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5f5cce17-c92f-48b5-98e6-e8d615b3a8e8.png",
+      "grid_sha256": "70d750c1c187077c90b33a58073246e205f15a10dc388ae27e17ef1a2361e202",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Tightrealpearlrimtransparentbasegoldcoilhingepartmatchesmaterialsandsourcepart."
+    },
+    {
+      "saved_file": "Rejected/initial_05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-5f5cce17-c92f-48b5-98e6-e8d615b3a8e8.png",
+      "prompt": "Native photographic edit of actualoriginal intoONE1536x1024 strict3columns2rows contact sheet equal512squarecells no gutters. WHOLEassortment is ONEproduct, EXACTLY12 sourcehairclaws. Cell1top-left WHITEBACKGROUNDALL12;cell2top-middle LAVENDER/CREAMSTYLEDALL12;cell3top-right LIFESTYLEDRESSERALL12;cell4bottom-left standalone tightmacrorealpearlrim/goldhingepart;cell5bottom-middle PROMOTIONALALL12 accurateheading;cell6bottom-rightblankcream. Repeat entire12piece assortment ineachfullview, arrange2rows6claws or3rows4claws forclearcount. Preserveoriginalshape,creamwhitepearls,transparentchampagnegoldplasticbase,metalcoilhinge/teeth,exactquantity. Removehand,plasticbag,shop,price/stickers. Notmetalreplacement,nounrelatedhairclips. Source12identicalclear-champagnegoldhairclaws withWHITEPEARLoutline figure-eight/twoloop bowface, longpearl-edgedhorizontalwings taperingatmiddleandtwoloopedpearlpetals, asactualreference. Preserveactualtwo-loopbowshapenotsquare, transparentcombteeth andgoldspring. Exactly12piecesineachfullview. Detailmacrorealpearlrimandhinge. Heading 'Pearl Bow Hair Claws'.",
+      "sha256": "c607b78b113d848b62c95561d4022ae252124104930e80d0d6140b98de38be34",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5f5cce17-c92f-48b5-98e6-e8d615b3a8e8.png",
+      "grid_sha256": "70d750c1c187077c90b33a58073246e205f15a10dc388ae27e17ef1a2361e202",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Rejectedidentityshapeerror: modelmakesuprightsmallloopandwingbar; sourceislargeopenelongatedtwoloopbow. Onecorrective."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": [
+    {
+      "attempt": 1,
+      "views": [
+        "01",
+        "02",
+        "03",
+        "05"
+      ],
+      "reason": "Sourceopenelongatedtwoloopbowshape, notsinglesmallloopwithwings.",
+      "status": "starting"
+    }
+  ]
+}

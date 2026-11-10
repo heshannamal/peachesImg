@@ -30971,9 +30971,9 @@
     "source_image_ids": [
       2841
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -30983,9 +30983,9 @@
     "source_image_ids": [
       2842
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -30995,9 +30995,9 @@
     "source_image_ids": [
       2843
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -31009,21 +31009,23 @@
     ],
     "new_images": 0,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "blocked_moderation",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2543",
-    "folder": "2543_Multi-Function-Keyrings-0",
+    "folder": "2543_Multi-Function-Keyrings-1",
     "source_image_ids": [
       2845
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2518-2618",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2544",
@@ -31069,15 +31071,17 @@
   },
   {
     "product_id": "2547",
-    "folder": "2547_Contact-Lens-Eye-Guide-0",
+    "folder": "2547_Contact-Lens-Eye-Guide-1",
     "source_image_ids": [
       2849
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2518-2618",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2548",

@@ -1,0 +1,134 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261002-WA0091.jpg": "3eecd45eb6d564e60314bcc2c09c90381b880ca3c255598eb0f2251a4d420a5c"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-46236b3c-da63-4ead-9d8b-fc8ad1416ffa.png",
+      "source_output": "/workspace/generated_images/exec-46236b3c-da63-4ead-9d8b-fc8ad1416ffa.png",
+      "sha256": "a1eb4a5a4198616b337d0591e393cc50ba89e442f80450b5af1436bb2d480e74",
+      "prompt": "RECOVERED ORPHAN RESULT: exact original generation prompt unavailable in retained session metadata. Observed grid uses original-referenced 3x2 layout: white background, lavender/cream styled, vanity lifestyle, tight cross/chain detail, GOLD-TONE CROSS NECKLACES promotional view, blank sixth cell. Source matched actual 2652 original by three short plain gold-tone cross necklaces, three white cards, clear overlapping sleeves and packaging code688-9. This is recovery documentation, not a claim to reproduce the unknown exact prompt.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-46236b3c-da63-4ead-9d8b-fc8ad1416ffa.png",
+      "prompt": "RECOVERED ORPHAN RESULT: exact original generation prompt unavailable in retained session metadata. Observed grid uses original-referenced 3x2 layout: white background, lavender/cream styled, vanity lifestyle, tight cross/chain detail, GOLD-TONE CROSS NECKLACES promotional view, blank sixth cell. Source matched actual 2652 original by three short plain gold-tone cross necklaces, three white cards, clear overlapping sleeves and packaging code688-9. This is recovery documentation, not a claim to reproduce the unknown exact prompt.",
+      "sha256": "0cf75db1281a2ed67ecf91edc0526c19b1b1d1aef1161af7f2f8ee490879d46a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-46236b3c-da63-4ead-9d8b-fc8ad1416ffa.png",
+      "grid_sha256": "a1eb4a5a4198616b337d0591e393cc50ba89e442f80450b5af1436bb2d480e74",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "reviewed_at": "2026-11-10T01:07:20.880848+00:00",
+      "visual_review": "Inspected actual saved crop against original and full grid. Exactly three gold-tone cross necklaces on three white cards/clear overlapping sleeves preserved; correct short cross proportions and code688-9; correct requested background/view, full assortment inside crop.  Minor packaging print variation accepted at website quality."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-46236b3c-da63-4ead-9d8b-fc8ad1416ffa.png",
+      "prompt": "RECOVERED ORPHAN RESULT: exact original generation prompt unavailable in retained session metadata. Observed grid uses original-referenced 3x2 layout: white background, lavender/cream styled, vanity lifestyle, tight cross/chain detail, GOLD-TONE CROSS NECKLACES promotional view, blank sixth cell. Source matched actual 2652 original by three short plain gold-tone cross necklaces, three white cards, clear overlapping sleeves and packaging code688-9. This is recovery documentation, not a claim to reproduce the unknown exact prompt.",
+      "sha256": "df6430d51aba1e8db46852ccc248ba1f9e4b28b7d3d89cfd1fc7c3bbbe5b5fe6",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-46236b3c-da63-4ead-9d8b-fc8ad1416ffa.png",
+      "grid_sha256": "a1eb4a5a4198616b337d0591e393cc50ba89e442f80450b5af1436bb2d480e74",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "reviewed_at": "2026-11-10T01:07:20.881224+00:00",
+      "visual_review": "Inspected actual saved crop against original and full grid. Exactly three gold-tone cross necklaces on three white cards/clear overlapping sleeves preserved; correct short cross proportions and code688-9; correct requested background/view, full assortment inside crop.  Minor packaging print variation accepted at website quality."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-46236b3c-da63-4ead-9d8b-fc8ad1416ffa.png",
+      "prompt": "RECOVERED ORPHAN RESULT: exact original generation prompt unavailable in retained session metadata. Observed grid uses original-referenced 3x2 layout: white background, lavender/cream styled, vanity lifestyle, tight cross/chain detail, GOLD-TONE CROSS NECKLACES promotional view, blank sixth cell. Source matched actual 2652 original by three short plain gold-tone cross necklaces, three white cards, clear overlapping sleeves and packaging code688-9. This is recovery documentation, not a claim to reproduce the unknown exact prompt.",
+      "sha256": "14fb59f0fdde0da20a9da0b91e7336199aaa46f361416af65466e571eec8fbb0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-46236b3c-da63-4ead-9d8b-fc8ad1416ffa.png",
+      "grid_sha256": "a1eb4a5a4198616b337d0591e393cc50ba89e442f80450b5af1436bb2d480e74",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "reviewed_at": "2026-11-10T01:07:20.881512+00:00",
+      "visual_review": "Inspected actual saved crop against original and full grid. Exactly three gold-tone cross necklaces on three white cards/clear overlapping sleeves preserved; correct short cross proportions and code688-9; correct requested background/view, full assortment inside crop.  Minor packaging print variation accepted at website quality."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-46236b3c-da63-4ead-9d8b-fc8ad1416ffa.png",
+      "prompt": "RECOVERED ORPHAN RESULT: exact original generation prompt unavailable in retained session metadata. Observed grid uses original-referenced 3x2 layout: white background, lavender/cream styled, vanity lifestyle, tight cross/chain detail, GOLD-TONE CROSS NECKLACES promotional view, blank sixth cell. Source matched actual 2652 original by three short plain gold-tone cross necklaces, three white cards, clear overlapping sleeves and packaging code688-9. This is recovery documentation, not a claim to reproduce the unknown exact prompt.",
+      "sha256": "6994593ade6c3908435292a4d7a3e22767caf1af90bbfbf9975d2c7b081f7581",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-46236b3c-da63-4ead-9d8b-fc8ad1416ffa.png",
+      "grid_sha256": "a1eb4a5a4198616b337d0591e393cc50ba89e442f80450b5af1436bb2d480e74",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "reviewed_at": "2026-11-10T01:07:20.881841+00:00",
+      "visual_review": "Inspected actual saved crop against original and full grid. Standalone tight real-part cross and chain macro; correct short plain gold-tone Latin-cross shape and colour; clean crop boundaries. Minor packaging print variation accepted at website quality."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-46236b3c-da63-4ead-9d8b-fc8ad1416ffa.png",
+      "prompt": "RECOVERED ORPHAN RESULT: exact original generation prompt unavailable in retained session metadata. Observed grid uses original-referenced 3x2 layout: white background, lavender/cream styled, vanity lifestyle, tight cross/chain detail, GOLD-TONE CROSS NECKLACES promotional view, blank sixth cell. Source matched actual 2652 original by three short plain gold-tone cross necklaces, three white cards, clear overlapping sleeves and packaging code688-9. This is recovery documentation, not a claim to reproduce the unknown exact prompt.",
+      "sha256": "bcd2239be48373961b471d69528097a2127c57d506a8f0da9685d3858982f727",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-46236b3c-da63-4ead-9d8b-fc8ad1416ffa.png",
+      "grid_sha256": "a1eb4a5a4198616b337d0591e393cc50ba89e442f80450b5af1436bb2d480e74",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "reviewed_at": "2026-11-10T01:07:20.882132+00:00",
+      "visual_review": "Inspected actual saved crop against original and full grid. Exactly three gold-tone cross necklaces on three white cards/clear overlapping sleeves preserved; correct short cross proportions and code688-9; correct requested background/view, full assortment inside crop. Heading GOLD-TONE CROSS NECKLACES accurate and legible. Minor packaging print variation accepted at website quality."
+    }
+  ],
+  "status": "complete",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baselines_verified": true,
+  "all_five_output_hashes_verified": true,
+  "recovery_note": "Recovered matching orphan native cache; exact original generation prompt unavailable, explicitly recorded as unavailable rather than invented."
+}

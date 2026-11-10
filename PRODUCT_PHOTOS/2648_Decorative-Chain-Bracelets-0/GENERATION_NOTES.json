@@ -1,0 +1,20 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261002-WA0063.jpg": "fb464bbf2cf930ddcff29f34b12e4e9d35a6c862fbdb66f40599c0dcf7c42840"
+  },
+  "status": "moderation_blocked",
+  "records": [
+    {
+      "kind": "generation_attempt",
+      "prompt": "Native edit the referenced ORIGINAL into ONE1536x1024 landscape contactgrid, exactly3equalcolumns and2equalrows, eachcell512x512. No gutters,borders,panel labels. Preserve the actual whole visible assortment, shapes,colours,chains,clasps,white cards and transparent sleeves. Remove hand/shop and overlaid price banner; ignore its12pcs claim: actual photograph visibly has SIX bracelets, exactly SIX long white cards. Every full view must have exactly SIX complete bracelets, one per card arranged six parallel upright columns safely inside its cell. Gold-tone fine double-chain bracelets with small spaced gold beads and extender chains. Exactly2blue/purple large-eared cartoon creature charms,2pink versions,2purple versions with green bodies, arranged as in source. Preserve original enamel charm faces/ears/shapes, no added variants. Readingorder TOPLEFT allsix on purewhite; TOPMIDDLE allsix on lavender/cream satin; TOPRIGHT allsix on elegant dressingtable lifestyle without people or extra jewellery; BOTTOMLEFT standalone EXTREME tight macro of ONE actual visible charm and adjoining goldchain, not full bracelet/card/assortment, no invented reverse; BOTTOMMIDDLE allsix on cream with accurate readable heading \"CHARM BRACELET ASSORTMENT\" only; BOTTOMRIGHT blankcream. Photoreal website-ready. Exact count and identity essential. Keep all fullviews entirely inside eachcell.",
+      "source_files": [
+        "Originals/IMG-20261002-WA0063.jpg"
+      ],
+      "checked": false,
+      "error": "http400 moderation_blocked; output safety stage; category other; request ID06617090-e62f-427e-8600-c641cae3e370",
+      "visual_review": "No output received; skipped without retry."
+    }
+  ]
+}

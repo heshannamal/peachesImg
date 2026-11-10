@@ -1,0 +1,18 @@
+{
+  "records": [
+    {
+      "kind": "generation_attempt",
+      "prompt": "Native reference photo edit. ONE landscape1536x1024 image STRICT3columns2rows equal512squarecells no gutters borders labels. Preserve exact visible complete original assortment, shapes, colours and count; no invented hidden pieces from price label. Remove hand/shop/price overlay and plastic glare; retain white display cards. All full views entirely inside cells with margin. Cell1topLEFT whole assortment purewhite; cell2topMIDDLE whole assortment lavendercream studio; cell3topRIGHT whole assortment creamvanity/lavenderroom lifestyle; cell4bottomLEFT standalone verytight macro of one actual visible charm and adjoining goldtone chain links only; cell5bottomMIDDLE whole assortment accurate heading CHARM BRACELET COLLECTION; cell6bottomRIGHT blankcream. Photorealistic websitequality, no invented material claims. Reference shows SIX long white cards, each one double/fine-strand goldtone charm bracelet, six visible large-eared cartoon creature charms: left two pink variants then darkblue, mediumblue, paleblue variants as actual photo. Match all SIX source cards and their original charms, chain clasp/extension shapes and bead details precisely. Do NOT invent12bracelets from external price label. ",
+      "checked": false,
+      "result": "moderation_blocked",
+      "timestamp": "2026-11-10T01:08:06.939529+00:00"
+    }
+  ],
+  "status": "moderation_blocked",
+  "blocker": {
+    "code": "moderation_blocked",
+    "stage": "output",
+    "request_id": "62eca3bc-c5be-4bde-bdf5-088fd5d06cac",
+    "message": "Native image generation HTTP400 rejected by safety system; no output; no retry."
+  }
+}

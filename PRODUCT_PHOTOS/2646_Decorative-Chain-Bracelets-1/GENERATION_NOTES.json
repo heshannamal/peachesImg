@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261002-WA0058.jpg": "83e537afed689f2d8613e52efd422d12bcf32cc32868a78e9228b0fcbb684418"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-28960085-a3c5-4bd5-9dbc-72e474dcf868.png",
+      "source_output": "/workspace/generated_images/exec-28960085-a3c5-4bd5-9dbc-72e474dcf868.png",
+      "sha256": "4cae4d5e2d0c23d358c9e789ebc373e590946d976f260240a2bd67f1ec187a04",
+      "prompt": "Edit the attached original into ONE 1536x1024 landscape image, an exact 3-column by 2-row grid with five square website product photos and sixth cell blank cream. No gutters, each cell512x512. This whole original assortment is ONE product. Preserve EXACT SIX gold-tone double-chain bracelets on SIX white long cards, with tiny spherical beads and lobster clasps: two red double-flower charms with turquoise centers and green leaves; two cream-white double-flower charms with yellow centers and green leaves; two purple double-flower charms with yellow centers and green leaves. SIX bracelets total, not twelve despite source sales overlay; remove hand, source price overlays and sticker. Preserve actual shapes, colours and counts. Cell1 top-left white background full six-card assortment. Cell2 top-middle lavender and cream full six-card assortment. Cell3 top-right full six-card assortment on a dressing-table tray lifestyle. Cell4 bottom-left standalone VERY TIGHT partial macro of actual purple flower enamel/gold rim junction; cut off most flower, show only real part texture, NO whole bracelet or full flower. Cell5 bottom-middle full six-card assortment with accurate heading FLOWER CHARM BRACELET ASSORTMENT. Cell6 bottom-right blank cream. Website ready photographic quality. Do not add other jewelry.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-28960085-a3c5-4bd5-9dbc-72e474dcf868.png",
+      "prompt": "Edit the attached original into ONE 1536x1024 landscape image, an exact 3-column by 2-row grid with five square website product photos and sixth cell blank cream. No gutters, each cell512x512. This whole original assortment is ONE product. Preserve EXACT SIX gold-tone double-chain bracelets on SIX white long cards, with tiny spherical beads and lobster clasps: two red double-flower charms with turquoise centers and green leaves; two cream-white double-flower charms with yellow centers and green leaves; two purple double-flower charms with yellow centers and green leaves. SIX bracelets total, not twelve despite source sales overlay; remove hand, source price overlays and sticker. Preserve actual shapes, colours and counts. Cell1 top-left white background full six-card assortment. Cell2 top-middle lavender and cream full six-card assortment. Cell3 top-right full six-card assortment on a dressing-table tray lifestyle. Cell4 bottom-left standalone VERY TIGHT partial macro of actual purple flower enamel/gold rim junction; cut off most flower, show only real part texture, NO whole bracelet or full flower. Cell5 bottom-middle full six-card assortment with accurate heading FLOWER CHARM BRACELET ASSORTMENT. Cell6 bottom-right blank cream. Website ready photographic quality. Do not add other jewelry.",
+      "sha256": "2de0c2a5acdb6e98b22f12e660b86142070d7d05be2cb5dd838d4aa15d2ae9ca",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-28960085-a3c5-4bd5-9dbc-72e474dcf868.png",
+      "grid_sha256": "4cae4d5e2d0c23d358c9e789ebc373e590946d976f260240a2bd67f1ec187a04",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Inspected actual original, full native grid and all saved crop files. Exactly six bracelets: two red/turquoise-center double flowers, two cream/yellow-center flowers, two purple/yellow-center flowers with green leaves and gold double chains/beads. All requested white/styled/lifestyle/promo views preserved count and identity; heading accurate. Macro is a standalone tight partial purple enamel/gold rim/link junction. Website-ready; no corrective needed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-28960085-a3c5-4bd5-9dbc-72e474dcf868.png",
+      "prompt": "Edit the attached original into ONE 1536x1024 landscape image, an exact 3-column by 2-row grid with five square website product photos and sixth cell blank cream. No gutters, each cell512x512. This whole original assortment is ONE product. Preserve EXACT SIX gold-tone double-chain bracelets on SIX white long cards, with tiny spherical beads and lobster clasps: two red double-flower charms with turquoise centers and green leaves; two cream-white double-flower charms with yellow centers and green leaves; two purple double-flower charms with yellow centers and green leaves. SIX bracelets total, not twelve despite source sales overlay; remove hand, source price overlays and sticker. Preserve actual shapes, colours and counts. Cell1 top-left white background full six-card assortment. Cell2 top-middle lavender and cream full six-card assortment. Cell3 top-right full six-card assortment on a dressing-table tray lifestyle. Cell4 bottom-left standalone VERY TIGHT partial macro of actual purple flower enamel/gold rim junction; cut off most flower, show only real part texture, NO whole bracelet or full flower. Cell5 bottom-middle full six-card assortment with accurate heading FLOWER CHARM BRACELET ASSORTMENT. Cell6 bottom-right blank cream. Website ready photographic quality. Do not add other jewelry.",
+      "sha256": "b7268320f91eaa237db44608a6879e99db42083600e94929a3af3f75c05b10df",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-28960085-a3c5-4bd5-9dbc-72e474dcf868.png",
+      "grid_sha256": "4cae4d5e2d0c23d358c9e789ebc373e590946d976f260240a2bd67f1ec187a04",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Inspected actual original, full native grid and all saved crop files. Exactly six bracelets: two red/turquoise-center double flowers, two cream/yellow-center flowers, two purple/yellow-center flowers with green leaves and gold double chains/beads. All requested white/styled/lifestyle/promo views preserved count and identity; heading accurate. Macro is a standalone tight partial purple enamel/gold rim/link junction. Website-ready; no corrective needed."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-28960085-a3c5-4bd5-9dbc-72e474dcf868.png",
+      "prompt": "Edit the attached original into ONE 1536x1024 landscape image, an exact 3-column by 2-row grid with five square website product photos and sixth cell blank cream. No gutters, each cell512x512. This whole original assortment is ONE product. Preserve EXACT SIX gold-tone double-chain bracelets on SIX white long cards, with tiny spherical beads and lobster clasps: two red double-flower charms with turquoise centers and green leaves; two cream-white double-flower charms with yellow centers and green leaves; two purple double-flower charms with yellow centers and green leaves. SIX bracelets total, not twelve despite source sales overlay; remove hand, source price overlays and sticker. Preserve actual shapes, colours and counts. Cell1 top-left white background full six-card assortment. Cell2 top-middle lavender and cream full six-card assortment. Cell3 top-right full six-card assortment on a dressing-table tray lifestyle. Cell4 bottom-left standalone VERY TIGHT partial macro of actual purple flower enamel/gold rim junction; cut off most flower, show only real part texture, NO whole bracelet or full flower. Cell5 bottom-middle full six-card assortment with accurate heading FLOWER CHARM BRACELET ASSORTMENT. Cell6 bottom-right blank cream. Website ready photographic quality. Do not add other jewelry.",
+      "sha256": "647a01095b16bfd40f69fc4c07937e81c1beddca571da0e3ca7f0087307d4684",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-28960085-a3c5-4bd5-9dbc-72e474dcf868.png",
+      "grid_sha256": "4cae4d5e2d0c23d358c9e789ebc373e590946d976f260240a2bd67f1ec187a04",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Inspected actual original, full native grid and all saved crop files. Exactly six bracelets: two red/turquoise-center double flowers, two cream/yellow-center flowers, two purple/yellow-center flowers with green leaves and gold double chains/beads. All requested white/styled/lifestyle/promo views preserved count and identity; heading accurate. Macro is a standalone tight partial purple enamel/gold rim/link junction. Website-ready; no corrective needed."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-28960085-a3c5-4bd5-9dbc-72e474dcf868.png",
+      "prompt": "Edit the attached original into ONE 1536x1024 landscape image, an exact 3-column by 2-row grid with five square website product photos and sixth cell blank cream. No gutters, each cell512x512. This whole original assortment is ONE product. Preserve EXACT SIX gold-tone double-chain bracelets on SIX white long cards, with tiny spherical beads and lobster clasps: two red double-flower charms with turquoise centers and green leaves; two cream-white double-flower charms with yellow centers and green leaves; two purple double-flower charms with yellow centers and green leaves. SIX bracelets total, not twelve despite source sales overlay; remove hand, source price overlays and sticker. Preserve actual shapes, colours and counts. Cell1 top-left white background full six-card assortment. Cell2 top-middle lavender and cream full six-card assortment. Cell3 top-right full six-card assortment on a dressing-table tray lifestyle. Cell4 bottom-left standalone VERY TIGHT partial macro of actual purple flower enamel/gold rim junction; cut off most flower, show only real part texture, NO whole bracelet or full flower. Cell5 bottom-middle full six-card assortment with accurate heading FLOWER CHARM BRACELET ASSORTMENT. Cell6 bottom-right blank cream. Website ready photographic quality. Do not add other jewelry.",
+      "sha256": "8c75284fee8b1ac2a25b5adf8463d92a1d8185e5b4a73bc6e525382ce048f36c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-28960085-a3c5-4bd5-9dbc-72e474dcf868.png",
+      "grid_sha256": "4cae4d5e2d0c23d358c9e789ebc373e590946d976f260240a2bd67f1ec187a04",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Inspected actual original, full native grid and all saved crop files. Exactly six bracelets: two red/turquoise-center double flowers, two cream/yellow-center flowers, two purple/yellow-center flowers with green leaves and gold double chains/beads. All requested white/styled/lifestyle/promo views preserved count and identity; heading accurate. Macro is a standalone tight partial purple enamel/gold rim/link junction. Website-ready; no corrective needed."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-28960085-a3c5-4bd5-9dbc-72e474dcf868.png",
+      "prompt": "Edit the attached original into ONE 1536x1024 landscape image, an exact 3-column by 2-row grid with five square website product photos and sixth cell blank cream. No gutters, each cell512x512. This whole original assortment is ONE product. Preserve EXACT SIX gold-tone double-chain bracelets on SIX white long cards, with tiny spherical beads and lobster clasps: two red double-flower charms with turquoise centers and green leaves; two cream-white double-flower charms with yellow centers and green leaves; two purple double-flower charms with yellow centers and green leaves. SIX bracelets total, not twelve despite source sales overlay; remove hand, source price overlays and sticker. Preserve actual shapes, colours and counts. Cell1 top-left white background full six-card assortment. Cell2 top-middle lavender and cream full six-card assortment. Cell3 top-right full six-card assortment on a dressing-table tray lifestyle. Cell4 bottom-left standalone VERY TIGHT partial macro of actual purple flower enamel/gold rim junction; cut off most flower, show only real part texture, NO whole bracelet or full flower. Cell5 bottom-middle full six-card assortment with accurate heading FLOWER CHARM BRACELET ASSORTMENT. Cell6 bottom-right blank cream. Website ready photographic quality. Do not add other jewelry.",
+      "sha256": "f5eb2144c68a4edde1c0b095ab84489118822e24ea3fce2cb363feef05e19875",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-28960085-a3c5-4bd5-9dbc-72e474dcf868.png",
+      "grid_sha256": "4cae4d5e2d0c23d358c9e789ebc373e590946d976f260240a2bd67f1ec187a04",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Inspected actual original, full native grid and all saved crop files. Exactly six bracelets: two red/turquoise-center double flowers, two cream/yellow-center flowers, two purple/yellow-center flowers with green leaves and gold double chains/beads. All requested white/styled/lifestyle/promo views preserved count and identity; heading accurate. Macro is a standalone tight partial purple enamel/gold rim/link junction. Website-ready; no corrective needed."
+    }
+  ],
+  "status": "complete",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true,
+  "original_baseline_verified_at": "2026-11-10T01:08:32.644269+00:00"
+}

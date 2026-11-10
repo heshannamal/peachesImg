@@ -1,6 +1,6 @@
 {
-  "status": "grid_inflight",
-  "updated_at": "2026-11-10T01:14:49.072452+00:00",
+  "status": "queue_exhausted",
+  "updated_at": "2026-11-10T01:16:50.366914+00:00",
   "worker_key": "new_worker4",
   "completed_this_resume": [
     "2690",
@@ -15,16 +15,15 @@
     "2651",
     "2641",
     "2630",
-    "2629"
-  ],
-  "active_products": [
+    "2629",
     "2620",
     "2619"
   ],
+  "active_products": [],
   "max_active_products": 2,
   "method": "one native3x2grid/product thenmechanicalfivecrops",
   "originals_verified": true,
-  "inflight": 2,
+  "inflight": 0,
   "review_needed": {
     "2642": [
       "01_White-Background.png",

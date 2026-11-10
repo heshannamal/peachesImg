@@ -82,7 +82,7 @@
       "source_output": "/workspace/generated_images/exec-fb499e1c-6f49-48fd-bba4-79c936927407.png",
       "prompt": "Native original-reference photo edit ONE1536x1024 strict3columns2rows equal512cells no gutters labels borders. Preserve exact entire original assortment identity shapes count colours. Remove hand/plastic/shop/external price warranty label. Cells topLEFT01 wholeassortment purewhite;topMIDDLE02 wholeassortment lavendercreamstudio;topRIGHT03 wholeassortment creamvanity blurredlavenderroom nootherjewellery;bottomLEFT04 standalone VERYTIGHTMACRO ofoneactual visible realpart notwholeassortment;bottomMIDDLE05 wholeassortment accurateheading PASTEL HEART BRACELETS;bottomRIGHT06 unusedblankcream. Eachfullassortment entirely insideowncell withmargin. Websitequality no cosmetic redesign. ONEpack SIX longwhitecards sidebyside, EACHcard ONEdouble-strand goldtone chainbracelet with pastelpearly HEARTshaped beads alongonechain andafineparallelplainchain, clasps/extensions. EXACTSIXbracelets/cards, not12 fromexternalpricelabel. Preserve source pearlyheartbeads and pastelcolour order white/pink/mint/lilac/yellow/peach/blue as photographed. Macro tightactualpastelheartbead andgoldtonelink. Do notreplaceheartswithroundbeads.",
       "sha256": "9bda090cb25fa1f6bd551394d755c0ab729554fd2a6dfbf9ce0870cd4b1c8518",
-      "checked": false,
+      "checked": true,
       "generation_method": "native_five_style_grid_cropped",
       "grid_source_file": "Generation_Grids/exec-fb499e1c-6f49-48fd-bba4-79c936927407.png",
       "grid_sha256": "34bfbf44eaf0daf807f65e169da894d5b5dcbee2c0fcdf4d51b3339da320c2b0",
@@ -95,7 +95,8 @@
         512,
         512,
         1024
-      ]
+      ],
+      "visual_review": "Inspected actual original, generated grid and saved square crop. Six distinct doublechain bracelets/cards retained, eight pearly pastel heart beads each (48total) in fullviews after one correction; previous seven-heart fullviews retainedRejected. Valid original tight macro preserved. Pastel heart identity, colours, clasps/extensions and chain form retained at website quality. Clean boundaries, correct white/lavenderstudio/vanity styles, accurate legible heading. No cosmetic retry."
     },
     {
       "saved_file": "Rejected/05_Promotional.png",
@@ -117,9 +118,102 @@
         1024
       ],
       "visual_review": "Rejected seven hearts with identical sequence on all bracelets; actual source eight hearts and distinct colour orders."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-e3799303-87cd-4eb1-85ac-0e3941249b6b.png",
+      "source_output": "/workspace/generated_images/exec-e3799303-87cd-4eb1-85ac-0e3941249b6b.png",
+      "sha256": "eaa7aa6bf06c7c5c4e830251da6e9328e07888cc71642e63a2774a9ed92c624c",
+      "prompt": "CORRECTIVE native reference photo edit ONE1536x1024 strict3columns2rows grid equal512squarecells no gutters. Original wholepack SIX goldtone doublechain bracelets onSIX longwhitecards each bracelet EXACTLYEIGHT pearlypastelHEARTbeads notseven;each has distinct source coloursequence. Preserve actual6differentbracelets, don't duplicate one6times. Leftmost8heartsequence topdown white,pink,mint,palepink,blue,peach,mint,hotpink. Others copy actual reference distinct white/lilac/pink/mint/yellow/peach/blue orders. Retain goldtone parallel finechain,clasps/extensions andheartshapes. Fullviews all6cards with8hearts each=48hearts. TopLEFTwholepackpurewhite,topMIDDLEwholepacklavendercreamstudio,topRIGHTwholepackcreamvanitylavenderroom;bottomLEFTtightmacroactualmintheartbead andlinks;bottomMIDDLEwholepack withaccurateheading PASTEL HEART BRACELETS;bottomRIGHTblankcream. Fullpack entirelyinsideeachcell margin. Remove hand/plastic/shop/pricewords. Websitequality, exact8heartsperbracelet important.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-e3799303-87cd-4eb1-85ac-0e3941249b6b.png",
+      "prompt": "CORRECTIVE native reference photo edit ONE1536x1024 strict3columns2rows grid equal512squarecells no gutters. Original wholepack SIX goldtone doublechain bracelets onSIX longwhitecards each bracelet EXACTLYEIGHT pearlypastelHEARTbeads notseven;each has distinct source coloursequence. Preserve actual6differentbracelets, don't duplicate one6times. Leftmost8heartsequence topdown white,pink,mint,palepink,blue,peach,mint,hotpink. Others copy actual reference distinct white/lilac/pink/mint/yellow/peach/blue orders. Retain goldtone parallel finechain,clasps/extensions andheartshapes. Fullviews all6cards with8hearts each=48hearts. TopLEFTwholepackpurewhite,topMIDDLEwholepacklavendercreamstudio,topRIGHTwholepackcreamvanitylavenderroom;bottomLEFTtightmacroactualmintheartbead andlinks;bottomMIDDLEwholepack withaccurateheading PASTEL HEART BRACELETS;bottomRIGHTblankcream. Fullpack entirelyinsideeachcell margin. Remove hand/plastic/shop/pricewords. Websitequality, exact8heartsperbracelet important.",
+      "sha256": "d15de470b1e58b56deabd02101789edf4a203f89272e15c0514adaaf54ed1853",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e3799303-87cd-4eb1-85ac-0e3941249b6b.png",
+      "grid_sha256": "eaa7aa6bf06c7c5c4e830251da6e9328e07888cc71642e63a2774a9ed92c624c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Inspected actual original, generated grid and saved square crop. Six distinct doublechain bracelets/cards retained, eight pearly pastel heart beads each (48total) in fullviews after one correction; previous seven-heart fullviews retainedRejected. Valid original tight macro preserved. Pastel heart identity, colours, clasps/extensions and chain form retained at website quality. Clean boundaries, correct white/lavenderstudio/vanity styles, accurate legible heading. No cosmetic retry."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-e3799303-87cd-4eb1-85ac-0e3941249b6b.png",
+      "prompt": "CORRECTIVE native reference photo edit ONE1536x1024 strict3columns2rows grid equal512squarecells no gutters. Original wholepack SIX goldtone doublechain bracelets onSIX longwhitecards each bracelet EXACTLYEIGHT pearlypastelHEARTbeads notseven;each has distinct source coloursequence. Preserve actual6differentbracelets, don't duplicate one6times. Leftmost8heartsequence topdown white,pink,mint,palepink,blue,peach,mint,hotpink. Others copy actual reference distinct white/lilac/pink/mint/yellow/peach/blue orders. Retain goldtone parallel finechain,clasps/extensions andheartshapes. Fullviews all6cards with8hearts each=48hearts. TopLEFTwholepackpurewhite,topMIDDLEwholepacklavendercreamstudio,topRIGHTwholepackcreamvanitylavenderroom;bottomLEFTtightmacroactualmintheartbead andlinks;bottomMIDDLEwholepack withaccurateheading PASTEL HEART BRACELETS;bottomRIGHTblankcream. Fullpack entirelyinsideeachcell margin. Remove hand/plastic/shop/pricewords. Websitequality, exact8heartsperbracelet important.",
+      "sha256": "13eb617238f7c0abf29ea77feb063491e3d20fe6f341bf9390442d723b800c92",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e3799303-87cd-4eb1-85ac-0e3941249b6b.png",
+      "grid_sha256": "eaa7aa6bf06c7c5c4e830251da6e9328e07888cc71642e63a2774a9ed92c624c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Inspected actual original, generated grid and saved square crop. Six distinct doublechain bracelets/cards retained, eight pearly pastel heart beads each (48total) in fullviews after one correction; previous seven-heart fullviews retainedRejected. Valid original tight macro preserved. Pastel heart identity, colours, clasps/extensions and chain form retained at website quality. Clean boundaries, correct white/lavenderstudio/vanity styles, accurate legible heading. No cosmetic retry."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-e3799303-87cd-4eb1-85ac-0e3941249b6b.png",
+      "prompt": "CORRECTIVE native reference photo edit ONE1536x1024 strict3columns2rows grid equal512squarecells no gutters. Original wholepack SIX goldtone doublechain bracelets onSIX longwhitecards each bracelet EXACTLYEIGHT pearlypastelHEARTbeads notseven;each has distinct source coloursequence. Preserve actual6differentbracelets, don't duplicate one6times. Leftmost8heartsequence topdown white,pink,mint,palepink,blue,peach,mint,hotpink. Others copy actual reference distinct white/lilac/pink/mint/yellow/peach/blue orders. Retain goldtone parallel finechain,clasps/extensions andheartshapes. Fullviews all6cards with8hearts each=48hearts. TopLEFTwholepackpurewhite,topMIDDLEwholepacklavendercreamstudio,topRIGHTwholepackcreamvanitylavenderroom;bottomLEFTtightmacroactualmintheartbead andlinks;bottomMIDDLEwholepack withaccurateheading PASTEL HEART BRACELETS;bottomRIGHTblankcream. Fullpack entirelyinsideeachcell margin. Remove hand/plastic/shop/pricewords. Websitequality, exact8heartsperbracelet important.",
+      "sha256": "0a55eaef71f7b747ec5364ee8f572121a01f657467902d88a9ab345ca42cf24a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e3799303-87cd-4eb1-85ac-0e3941249b6b.png",
+      "grid_sha256": "eaa7aa6bf06c7c5c4e830251da6e9328e07888cc71642e63a2774a9ed92c624c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Inspected actual original, generated grid and saved square crop. Six distinct doublechain bracelets/cards retained, eight pearly pastel heart beads each (48total) in fullviews after one correction; previous seven-heart fullviews retainedRejected. Valid original tight macro preserved. Pastel heart identity, colours, clasps/extensions and chain form retained at website quality. Clean boundaries, correct white/lavenderstudio/vanity styles, accurate legible heading. No cosmetic retry."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-e3799303-87cd-4eb1-85ac-0e3941249b6b.png",
+      "prompt": "CORRECTIVE native reference photo edit ONE1536x1024 strict3columns2rows grid equal512squarecells no gutters. Original wholepack SIX goldtone doublechain bracelets onSIX longwhitecards each bracelet EXACTLYEIGHT pearlypastelHEARTbeads notseven;each has distinct source coloursequence. Preserve actual6differentbracelets, don't duplicate one6times. Leftmost8heartsequence topdown white,pink,mint,palepink,blue,peach,mint,hotpink. Others copy actual reference distinct white/lilac/pink/mint/yellow/peach/blue orders. Retain goldtone parallel finechain,clasps/extensions andheartshapes. Fullviews all6cards with8hearts each=48hearts. TopLEFTwholepackpurewhite,topMIDDLEwholepacklavendercreamstudio,topRIGHTwholepackcreamvanitylavenderroom;bottomLEFTtightmacroactualmintheartbead andlinks;bottomMIDDLEwholepack withaccurateheading PASTEL HEART BRACELETS;bottomRIGHTblankcream. Fullpack entirelyinsideeachcell margin. Remove hand/plastic/shop/pricewords. Websitequality, exact8heartsperbracelet important.",
+      "sha256": "5ab7ab350084ae5be399b54751c42fa058ff5d2f1bcb4a4189eebe106c41f24c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e3799303-87cd-4eb1-85ac-0e3941249b6b.png",
+      "grid_sha256": "eaa7aa6bf06c7c5c4e830251da6e9328e07888cc71642e63a2774a9ed92c624c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Inspected actual original, generated grid and saved square crop. Six distinct doublechain bracelets/cards retained, eight pearly pastel heart beads each (48total) in fullviews after one correction; previous seven-heart fullviews retainedRejected. Valid original tight macro preserved. Pastel heart identity, colours, clasps/extensions and chain form retained at website quality. Clean boundaries, correct white/lavenderstudio/vanity styles, accurate legible heading. No cosmetic retry."
     }
   ],
-  "status": "in_progress",
+  "status": "five_images_saved_and_visually_checked",
   "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
   "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
   "corrective_attempts": {
@@ -127,5 +221,6 @@
     "2": 1,
     "3": 1,
     "5": 1
-  }
+  },
+  "plan_original_hashes_verified": true
 }

@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0371.jpg": "511a1ca599374004a924e2280ff99513145df1475e1acfd309c96068f4410e2b"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-200bdbac-6187-448e-8f2b-9b545820bddf.png",
+      "source_output": "/workspace/generated_images/exec-200bdbac-6187-448e-8f2b-9b545820bddf.png",
+      "sha256": "3185ef64ad5a2d04b0bd6440acba01d648f8dc65ac33e9fb1d661720625d7a57",
+      "prompt": "Native edit referenced original photograph into ONE1536x1024 landscape contactgrid exactly3equalcolumns2equalrows512squarecells. No gutters/borders/panellabels. Preserve whole actual assortment asONEproduct, identity/count/shape/colours/materials, originalwhitecardandtransparentsleeves. Removehand/shop/largepriceoverlay. The actual visible assortment is SIXindividualbracelets onSIXlongcards despite12pcs banner; exactly6completebracelets in allfullviews arranged6parallelcolumns. Goldtone layered finechain bracelets with additional strand of small lustrous pastel roundbeads pink,peach,lavender,aqua,mint,yellow. Two leftbracelets have roundgoldrim with clear-rhinestone heart centerpieces; fourrightbracelets have clear-rhinestone infinity centerpieces. Keep2heart/4infinity and actualmulticolourbeads plus finegoldchains and extenderchains. Readingorder TOPLEFT all6bracelets purewhite; TOPMIDDLE all6lavendercream satin; TOPRIGHT all6on elegantdressingtable nopeople/extra jewellery; BOTTOMLEFT standaloneEXTREMEtightmacro of actualheartcenterpiece/rhinestones/adjacentchain fromsource, notwholeassortment/fullcard, no invented reverse; BOTTOMMIDDLE all6creambackground with accurateheading \"HEART AND INFINITY BRACELETS\"; BOTTOMRIGHT blankcream. Accurate product count/style essential, fullviews entirelyinsidecell, website-readyphotorealism.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-200bdbac-6187-448e-8f2b-9b545820bddf.png",
+      "prompt": "Native edit referenced original photograph into ONE1536x1024 landscape contactgrid exactly3equalcolumns2equalrows512squarecells. No gutters/borders/panellabels. Preserve whole actual assortment asONEproduct, identity/count/shape/colours/materials, originalwhitecardandtransparentsleeves. Removehand/shop/largepriceoverlay. The actual visible assortment is SIXindividualbracelets onSIXlongcards despite12pcs banner; exactly6completebracelets in allfullviews arranged6parallelcolumns. Goldtone layered finechain bracelets with additional strand of small lustrous pastel roundbeads pink,peach,lavender,aqua,mint,yellow. Two leftbracelets have roundgoldrim with clear-rhinestone heart centerpieces; fourrightbracelets have clear-rhinestone infinity centerpieces. Keep2heart/4infinity and actualmulticolourbeads plus finegoldchains and extenderchains. Readingorder TOPLEFT all6bracelets purewhite; TOPMIDDLE all6lavendercream satin; TOPRIGHT all6on elegantdressingtable nopeople/extra jewellery; BOTTOMLEFT standaloneEXTREMEtightmacro of actualheartcenterpiece/rhinestones/adjacentchain fromsource, notwholeassortment/fullcard, no invented reverse; BOTTOMMIDDLE all6creambackground with accurateheading \"HEART AND INFINITY BRACELETS\"; BOTTOMRIGHT blankcream. Accurate product count/style essential, fullviews entirelyinsidecell, website-readyphotorealism.",
+      "sha256": "47049840e7e83419a758a8a309cf1ba45269587f5cc640dacd1d9e61bbe178ce",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-200bdbac-6187-448e-8f2b-9b545820bddf.png",
+      "grid_sha256": "3185ef64ad5a2d04b0bd6440acba01d648f8dc65ac33e9fb1d661720625d7a57",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual512crop inspected against original. Six complete pastelbead/gold layeredchain bracelets:2roundrim rhinestoneheart+4infinity centrepieces; originalbead colourmix,shape,count,clasps,chains retained. Correct requested setting/accurate heading and no panelbleed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-200bdbac-6187-448e-8f2b-9b545820bddf.png",
+      "prompt": "Native edit referenced original photograph into ONE1536x1024 landscape contactgrid exactly3equalcolumns2equalrows512squarecells. No gutters/borders/panellabels. Preserve whole actual assortment asONEproduct, identity/count/shape/colours/materials, originalwhitecardandtransparentsleeves. Removehand/shop/largepriceoverlay. The actual visible assortment is SIXindividualbracelets onSIXlongcards despite12pcs banner; exactly6completebracelets in allfullviews arranged6parallelcolumns. Goldtone layered finechain bracelets with additional strand of small lustrous pastel roundbeads pink,peach,lavender,aqua,mint,yellow. Two leftbracelets have roundgoldrim with clear-rhinestone heart centerpieces; fourrightbracelets have clear-rhinestone infinity centerpieces. Keep2heart/4infinity and actualmulticolourbeads plus finegoldchains and extenderchains. Readingorder TOPLEFT all6bracelets purewhite; TOPMIDDLE all6lavendercream satin; TOPRIGHT all6on elegantdressingtable nopeople/extra jewellery; BOTTOMLEFT standaloneEXTREMEtightmacro of actualheartcenterpiece/rhinestones/adjacentchain fromsource, notwholeassortment/fullcard, no invented reverse; BOTTOMMIDDLE all6creambackground with accurateheading \"HEART AND INFINITY BRACELETS\"; BOTTOMRIGHT blankcream. Accurate product count/style essential, fullviews entirelyinsidecell, website-readyphotorealism.",
+      "sha256": "ccdf5bc3308c041da734627a9afc3c8c3d426b87496b8c7a006d52539755fc3b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-200bdbac-6187-448e-8f2b-9b545820bddf.png",
+      "grid_sha256": "3185ef64ad5a2d04b0bd6440acba01d648f8dc65ac33e9fb1d661720625d7a57",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual512crop inspected against original. Six complete pastelbead/gold layeredchain bracelets:2roundrim rhinestoneheart+4infinity centrepieces; originalbead colourmix,shape,count,clasps,chains retained. Correct requested setting/accurate heading and no panelbleed."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-200bdbac-6187-448e-8f2b-9b545820bddf.png",
+      "prompt": "Native edit referenced original photograph into ONE1536x1024 landscape contactgrid exactly3equalcolumns2equalrows512squarecells. No gutters/borders/panellabels. Preserve whole actual assortment asONEproduct, identity/count/shape/colours/materials, originalwhitecardandtransparentsleeves. Removehand/shop/largepriceoverlay. The actual visible assortment is SIXindividualbracelets onSIXlongcards despite12pcs banner; exactly6completebracelets in allfullviews arranged6parallelcolumns. Goldtone layered finechain bracelets with additional strand of small lustrous pastel roundbeads pink,peach,lavender,aqua,mint,yellow. Two leftbracelets have roundgoldrim with clear-rhinestone heart centerpieces; fourrightbracelets have clear-rhinestone infinity centerpieces. Keep2heart/4infinity and actualmulticolourbeads plus finegoldchains and extenderchains. Readingorder TOPLEFT all6bracelets purewhite; TOPMIDDLE all6lavendercream satin; TOPRIGHT all6on elegantdressingtable nopeople/extra jewellery; BOTTOMLEFT standaloneEXTREMEtightmacro of actualheartcenterpiece/rhinestones/adjacentchain fromsource, notwholeassortment/fullcard, no invented reverse; BOTTOMMIDDLE all6creambackground with accurateheading \"HEART AND INFINITY BRACELETS\"; BOTTOMRIGHT blankcream. Accurate product count/style essential, fullviews entirelyinsidecell, website-readyphotorealism.",
+      "sha256": "c7d13c8ef88bc960b6c25e1f24be018f2df16d418d33427ff69cac1edb563d58",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-200bdbac-6187-448e-8f2b-9b545820bddf.png",
+      "grid_sha256": "3185ef64ad5a2d04b0bd6440acba01d648f8dc65ac33e9fb1d661720625d7a57",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual512crop inspected against original. Six complete pastelbead/gold layeredchain bracelets:2roundrim rhinestoneheart+4infinity centrepieces; originalbead colourmix,shape,count,clasps,chains retained. Correct requested setting/accurate heading and no panelbleed."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-200bdbac-6187-448e-8f2b-9b545820bddf.png",
+      "prompt": "Native edit referenced original photograph into ONE1536x1024 landscape contactgrid exactly3equalcolumns2equalrows512squarecells. No gutters/borders/panellabels. Preserve whole actual assortment asONEproduct, identity/count/shape/colours/materials, originalwhitecardandtransparentsleeves. Removehand/shop/largepriceoverlay. The actual visible assortment is SIXindividualbracelets onSIXlongcards despite12pcs banner; exactly6completebracelets in allfullviews arranged6parallelcolumns. Goldtone layered finechain bracelets with additional strand of small lustrous pastel roundbeads pink,peach,lavender,aqua,mint,yellow. Two leftbracelets have roundgoldrim with clear-rhinestone heart centerpieces; fourrightbracelets have clear-rhinestone infinity centerpieces. Keep2heart/4infinity and actualmulticolourbeads plus finegoldchains and extenderchains. Readingorder TOPLEFT all6bracelets purewhite; TOPMIDDLE all6lavendercream satin; TOPRIGHT all6on elegantdressingtable nopeople/extra jewellery; BOTTOMLEFT standaloneEXTREMEtightmacro of actualheartcenterpiece/rhinestones/adjacentchain fromsource, notwholeassortment/fullcard, no invented reverse; BOTTOMMIDDLE all6creambackground with accurateheading \"HEART AND INFINITY BRACELETS\"; BOTTOMRIGHT blankcream. Accurate product count/style essential, fullviews entirelyinsidecell, website-readyphotorealism.",
+      "sha256": "b94304987537da2abb1a3047e5d4336468e84842ac47baaff21668b1470eacc7",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-200bdbac-6187-448e-8f2b-9b545820bddf.png",
+      "grid_sha256": "3185ef64ad5a2d04b0bd6440acba01d648f8dc65ac33e9fb1d661720625d7a57",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual512crop inspected against original. Standalone tight real rhinestoneheart within round goldrim with adjoining pastelbeads/finechain retained."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-200bdbac-6187-448e-8f2b-9b545820bddf.png",
+      "prompt": "Native edit referenced original photograph into ONE1536x1024 landscape contactgrid exactly3equalcolumns2equalrows512squarecells. No gutters/borders/panellabels. Preserve whole actual assortment asONEproduct, identity/count/shape/colours/materials, originalwhitecardandtransparentsleeves. Removehand/shop/largepriceoverlay. The actual visible assortment is SIXindividualbracelets onSIXlongcards despite12pcs banner; exactly6completebracelets in allfullviews arranged6parallelcolumns. Goldtone layered finechain bracelets with additional strand of small lustrous pastel roundbeads pink,peach,lavender,aqua,mint,yellow. Two leftbracelets have roundgoldrim with clear-rhinestone heart centerpieces; fourrightbracelets have clear-rhinestone infinity centerpieces. Keep2heart/4infinity and actualmulticolourbeads plus finegoldchains and extenderchains. Readingorder TOPLEFT all6bracelets purewhite; TOPMIDDLE all6lavendercream satin; TOPRIGHT all6on elegantdressingtable nopeople/extra jewellery; BOTTOMLEFT standaloneEXTREMEtightmacro of actualheartcenterpiece/rhinestones/adjacentchain fromsource, notwholeassortment/fullcard, no invented reverse; BOTTOMMIDDLE all6creambackground with accurateheading \"HEART AND INFINITY BRACELETS\"; BOTTOMRIGHT blankcream. Accurate product count/style essential, fullviews entirelyinsidecell, website-readyphotorealism.",
+      "sha256": "a8c5cd31bb0d6af8f80c9539b183517d8cfb0a869fd9847147e356eafad26180",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-200bdbac-6187-448e-8f2b-9b545820bddf.png",
+      "grid_sha256": "3185ef64ad5a2d04b0bd6440acba01d648f8dc65ac33e9fb1d661720625d7a57",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual512crop inspected against original. Six complete pastelbead/gold layeredchain bracelets:2roundrim rhinestoneheart+4infinity centrepieces; originalbead colourmix,shape,count,clasps,chains retained. Correct requested setting/accurate heading and no panelbleed."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_plan_hashes_verified": true
+}

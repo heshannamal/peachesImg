@@ -5,18 +5,9 @@
       "2621"
     ],
     "new_worker2": [],
-    "new_worker3": [
-      "2626",
-      "2625"
-    ],
-    "new_worker4": [
-      "2620",
-      "2619"
-    ],
-    "new_worker5": [
-      "2624",
-      "2623"
-    ]
+    "new_worker3": [],
+    "new_worker4": [],
+    "new_worker5": []
   },
   "next_unassigned": [],
   "order": "descending_numeric_product_id",
@@ -342,6 +333,27 @@
       "product_ids": [
         "2628",
         "2627"
+      ]
+    },
+    {
+      "worker": "new_worker5",
+      "product_ids": [
+        "2624",
+        "2623"
+      ]
+    },
+    {
+      "worker": "new_worker3",
+      "product_ids": [
+        "2626",
+        "2625"
+      ]
+    },
+    {
+      "worker": "new_worker4",
+      "product_ids": [
+        "2620",
+        "2619"
       ]
     }
   ]

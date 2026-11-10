@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0365.jpg": "c67c3eef935de71ad0c5b4a7a405d84f5423bc7fb3bded9cf2a3caeb481d9df1"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-38182f64-aa8b-43b4-afd2-5e63e343c7f9.png",
+      "source_output": "/workspace/generated_images/exec-38182f64-aa8b-43b4-afd2-5e63e343c7f9.png",
+      "sha256": "24ba7f1e0c01b8557ea87d2fa2156011e109956fbbe1930616bfc981dccaf3b6",
+      "prompt": "Create ONE website-ready landscape1536x1024 image EXACT3columns by2rows of512x512cells. STRICT horizontal boundary at y512. No gutters/borders/panellabels; no crosscellcontent. Native edit referenced original actualproduct only. Cells readingorder:1 entire original assortment white;2 entire assortment lavender/cream styled;3 entire assortment vanity lifestyle;4 standalone tight macro ofactualrealpart;5 entire assortment promotional with heading GOLD-TONE CHARM BRACELETS, heading wellinsidethiscell at y560orbelow;6 blankcream. Fit whole assortment within each fullview withmargin. Preserve exact visiblecount/identity/shapes/colours/packaging/overlap. Remove hand/shop/externalpricequantityoverlay; no newclaims. Website qualitysufficient. Actual SIX bracelet lanes on SIX long white cards in original overlapping clear sleeve, preserve each separate chain and central ornament. Goldtone chains formed by small puffed heart links, bead connectors, and extender chains. Two leftmost bracelets have open heart central ornament partly sparkling; other four have small sparkling butterflylike/heartbow central charms as actually visible. Do not simplify all intoidenticalchain. Keep EXACT six separate bracelets,6central ornaments and six extenderends. Macro actual openheart centre and puffedheart chain.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-38182f64-aa8b-43b4-afd2-5e63e343c7f9.png",
+      "prompt": "Create ONE website-ready landscape1536x1024 image EXACT3columns by2rows of512x512cells. STRICT horizontal boundary at y512. No gutters/borders/panellabels; no crosscellcontent. Native edit referenced original actualproduct only. Cells readingorder:1 entire original assortment white;2 entire assortment lavender/cream styled;3 entire assortment vanity lifestyle;4 standalone tight macro ofactualrealpart;5 entire assortment promotional with heading GOLD-TONE CHARM BRACELETS, heading wellinsidethiscell at y560orbelow;6 blankcream. Fit whole assortment within each fullview withmargin. Preserve exact visiblecount/identity/shapes/colours/packaging/overlap. Remove hand/shop/externalpricequantityoverlay; no newclaims. Website qualitysufficient. Actual SIX bracelet lanes on SIX long white cards in original overlapping clear sleeve, preserve each separate chain and central ornament. Goldtone chains formed by small puffed heart links, bead connectors, and extender chains. Two leftmost bracelets have open heart central ornament partly sparkling; other four have small sparkling butterflylike/heartbow central charms as actually visible. Do not simplify all intoidenticalchain. Keep EXACT six separate bracelets,6central ornaments and six extenderends. Macro actual openheart centre and puffedheart chain.",
+      "sha256": "e7b594849d6e58d83e121bfbf11b6b7b3764afe3ccf738d1d1032535f8b4d1a8",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-38182f64-aa8b-43b4-afd2-5e63e343c7f9.png",
+      "grid_sha256": "24ba7f1e0c01b8557ea87d2fa2156011e109956fbbe1930616bfc981dccaf3b6",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Inspected actual saved crop against original and grid: Six distinct gold-tone puffed-heart-link bracelets in original card lanes, mixed openheart/sparkling ornaments and extenders preserved. Standalone tight openheart/chain macro accurate. Sleeve edge has minimal margin but all bracelets visible; acceptable website quality. Correct requested view/background, clean crop boundaries, accurate legible promotional heading; no new claims. Minor surface/packaging print differences accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-38182f64-aa8b-43b4-afd2-5e63e343c7f9.png",
+      "prompt": "Create ONE website-ready landscape1536x1024 image EXACT3columns by2rows of512x512cells. STRICT horizontal boundary at y512. No gutters/borders/panellabels; no crosscellcontent. Native edit referenced original actualproduct only. Cells readingorder:1 entire original assortment white;2 entire assortment lavender/cream styled;3 entire assortment vanity lifestyle;4 standalone tight macro ofactualrealpart;5 entire assortment promotional with heading GOLD-TONE CHARM BRACELETS, heading wellinsidethiscell at y560orbelow;6 blankcream. Fit whole assortment within each fullview withmargin. Preserve exact visiblecount/identity/shapes/colours/packaging/overlap. Remove hand/shop/externalpricequantityoverlay; no newclaims. Website qualitysufficient. Actual SIX bracelet lanes on SIX long white cards in original overlapping clear sleeve, preserve each separate chain and central ornament. Goldtone chains formed by small puffed heart links, bead connectors, and extender chains. Two leftmost bracelets have open heart central ornament partly sparkling; other four have small sparkling butterflylike/heartbow central charms as actually visible. Do not simplify all intoidenticalchain. Keep EXACT six separate bracelets,6central ornaments and six extenderends. Macro actual openheart centre and puffedheart chain.",
+      "sha256": "eb4c063b1d914933c02f6c8f3d4b1580bcb3a730d681f29b2a57b90db26e7a54",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-38182f64-aa8b-43b4-afd2-5e63e343c7f9.png",
+      "grid_sha256": "24ba7f1e0c01b8557ea87d2fa2156011e109956fbbe1930616bfc981dccaf3b6",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Inspected actual saved crop against original and grid: Six distinct gold-tone puffed-heart-link bracelets in original card lanes, mixed openheart/sparkling ornaments and extenders preserved. Standalone tight openheart/chain macro accurate. Sleeve edge has minimal margin but all bracelets visible; acceptable website quality. Correct requested view/background, clean crop boundaries, accurate legible promotional heading; no new claims. Minor surface/packaging print differences accepted."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-38182f64-aa8b-43b4-afd2-5e63e343c7f9.png",
+      "prompt": "Create ONE website-ready landscape1536x1024 image EXACT3columns by2rows of512x512cells. STRICT horizontal boundary at y512. No gutters/borders/panellabels; no crosscellcontent. Native edit referenced original actualproduct only. Cells readingorder:1 entire original assortment white;2 entire assortment lavender/cream styled;3 entire assortment vanity lifestyle;4 standalone tight macro ofactualrealpart;5 entire assortment promotional with heading GOLD-TONE CHARM BRACELETS, heading wellinsidethiscell at y560orbelow;6 blankcream. Fit whole assortment within each fullview withmargin. Preserve exact visiblecount/identity/shapes/colours/packaging/overlap. Remove hand/shop/externalpricequantityoverlay; no newclaims. Website qualitysufficient. Actual SIX bracelet lanes on SIX long white cards in original overlapping clear sleeve, preserve each separate chain and central ornament. Goldtone chains formed by small puffed heart links, bead connectors, and extender chains. Two leftmost bracelets have open heart central ornament partly sparkling; other four have small sparkling butterflylike/heartbow central charms as actually visible. Do not simplify all intoidenticalchain. Keep EXACT six separate bracelets,6central ornaments and six extenderends. Macro actual openheart centre and puffedheart chain.",
+      "sha256": "674a3aaccc80f727e2bf208acf55791596d210e6d5ecfd105df688f7fc063672",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-38182f64-aa8b-43b4-afd2-5e63e343c7f9.png",
+      "grid_sha256": "24ba7f1e0c01b8557ea87d2fa2156011e109956fbbe1930616bfc981dccaf3b6",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Inspected actual saved crop against original and grid: Six distinct gold-tone puffed-heart-link bracelets in original card lanes, mixed openheart/sparkling ornaments and extenders preserved. Standalone tight openheart/chain macro accurate. Sleeve edge has minimal margin but all bracelets visible; acceptable website quality. Correct requested view/background, clean crop boundaries, accurate legible promotional heading; no new claims. Minor surface/packaging print differences accepted."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-38182f64-aa8b-43b4-afd2-5e63e343c7f9.png",
+      "prompt": "Create ONE website-ready landscape1536x1024 image EXACT3columns by2rows of512x512cells. STRICT horizontal boundary at y512. No gutters/borders/panellabels; no crosscellcontent. Native edit referenced original actualproduct only. Cells readingorder:1 entire original assortment white;2 entire assortment lavender/cream styled;3 entire assortment vanity lifestyle;4 standalone tight macro ofactualrealpart;5 entire assortment promotional with heading GOLD-TONE CHARM BRACELETS, heading wellinsidethiscell at y560orbelow;6 blankcream. Fit whole assortment within each fullview withmargin. Preserve exact visiblecount/identity/shapes/colours/packaging/overlap. Remove hand/shop/externalpricequantityoverlay; no newclaims. Website qualitysufficient. Actual SIX bracelet lanes on SIX long white cards in original overlapping clear sleeve, preserve each separate chain and central ornament. Goldtone chains formed by small puffed heart links, bead connectors, and extender chains. Two leftmost bracelets have open heart central ornament partly sparkling; other four have small sparkling butterflylike/heartbow central charms as actually visible. Do not simplify all intoidenticalchain. Keep EXACT six separate bracelets,6central ornaments and six extenderends. Macro actual openheart centre and puffedheart chain.",
+      "sha256": "d8a08750b60944117703896b66cafd8ecffa060acd16ab8f8f22d7d38ee929ba",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-38182f64-aa8b-43b4-afd2-5e63e343c7f9.png",
+      "grid_sha256": "24ba7f1e0c01b8557ea87d2fa2156011e109956fbbe1930616bfc981dccaf3b6",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Inspected actual saved crop against original and grid: Six distinct gold-tone puffed-heart-link bracelets in original card lanes, mixed openheart/sparkling ornaments and extenders preserved. Standalone tight openheart/chain macro accurate. Sleeve edge has minimal margin but all bracelets visible; acceptable website quality. Correct requested view/background, clean crop boundaries, accurate legible promotional heading; no new claims. Minor surface/packaging print differences accepted."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-38182f64-aa8b-43b4-afd2-5e63e343c7f9.png",
+      "prompt": "Create ONE website-ready landscape1536x1024 image EXACT3columns by2rows of512x512cells. STRICT horizontal boundary at y512. No gutters/borders/panellabels; no crosscellcontent. Native edit referenced original actualproduct only. Cells readingorder:1 entire original assortment white;2 entire assortment lavender/cream styled;3 entire assortment vanity lifestyle;4 standalone tight macro ofactualrealpart;5 entire assortment promotional with heading GOLD-TONE CHARM BRACELETS, heading wellinsidethiscell at y560orbelow;6 blankcream. Fit whole assortment within each fullview withmargin. Preserve exact visiblecount/identity/shapes/colours/packaging/overlap. Remove hand/shop/externalpricequantityoverlay; no newclaims. Website qualitysufficient. Actual SIX bracelet lanes on SIX long white cards in original overlapping clear sleeve, preserve each separate chain and central ornament. Goldtone chains formed by small puffed heart links, bead connectors, and extender chains. Two leftmost bracelets have open heart central ornament partly sparkling; other four have small sparkling butterflylike/heartbow central charms as actually visible. Do not simplify all intoidenticalchain. Keep EXACT six separate bracelets,6central ornaments and six extenderends. Macro actual openheart centre and puffedheart chain.",
+      "sha256": "14823e1df970af7c87e064c7dcc90995c6dd11d48c0765bc943bf9f859eccfce",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-38182f64-aa8b-43b4-afd2-5e63e343c7f9.png",
+      "grid_sha256": "24ba7f1e0c01b8557ea87d2fa2156011e109956fbbe1930616bfc981dccaf3b6",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Inspected actual saved crop against original and grid: Six distinct gold-tone puffed-heart-link bracelets in original card lanes, mixed openheart/sparkling ornaments and extenders preserved. Standalone tight openheart/chain macro accurate. Sleeve edge has minimal margin but all bracelets visible; acceptable website quality. Correct requested view/background, clean crop boundaries, accurate legible promotional heading; no new claims. Minor surface/packaging print differences accepted."
+    }
+  ],
+  "status": "complete",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baselines_verified": true,
+  "all_five_output_hashes_verified": true
+}

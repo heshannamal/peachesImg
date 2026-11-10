@@ -1,13 +1,38 @@
 {
-  "dispatch_key": "new_worker3",
-  "completed_this_resume": [
-    2688,
-    2687,
-    2676,
-    2675,
-    2664,
-    2663
+  "worker": "new_worker3",
+  "status": "queue_fully_assigned_no_inflight",
+  "timestamp": "2026-11-10T01:16:42.153279+00:00",
+  "completed_ids": [
+    "2654",
+    "2653",
+    "2643",
+    "2633",
+    "2626",
+    "2625"
   ],
-  "active_calls": 0,
-  "white2688_corrective_spent": true
+  "partial_ids": [
+    "2634"
+  ],
+  "blocked_ids": [
+    "2644"
+  ],
+  "details": {
+    "2634": {
+      "saved": 5,
+      "checked": 1,
+      "review_needed": [
+        "01_White-Background",
+        "02_Styled-Background",
+        "03_Lifestyle",
+        "05_Promotional"
+      ],
+      "reason": "Single corrective fixed silhouette but four fullviews have28studs instead of24; retries spent; retain partial."
+    },
+    "2644": {
+      "reason": "Output moderation block HTTP400; no retry",
+      "request_id": "62eca3bc-c5be-4bde-bdf5-088fd5d06cac"
+    }
+  },
+  "inflight": 0,
+  "next_claim": []
 }

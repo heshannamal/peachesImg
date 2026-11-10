@@ -1,26 +1,30 @@
 {
-  "status": "running",
+  "status": "paused_worker_model_usage_limit",
   "started_at": "2026-11-10T03:20:32.478660+00:00",
   "max_active_products": 10,
   "processing_order": "descending_numeric_product_id",
   "generation_workflow": "one_native3x2grid_then_five_crops",
-  "updated_at": "2026-11-10T06:45:36.718562+00:00",
+  "updated_at": "2026-11-10T12:38:41.439863+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 72,
-  "partial_products": 11,
-  "pending_products": 15,
+  "completed_products": 77,
+  "partial_products": 7,
+  "pending_products": 14,
   "blocked_products": 2,
-  "saved_images": 411,
-  "checked_images": 368,
-  "paused_at": "2026-11-10T06:16:04.610521+00:00",
+  "saved_images": 420,
+  "checked_images": 393,
+  "paused_at": "2026-11-10T12:39:17.312513+00:00",
   "in_flight_calls": 0,
   "active_products": 0,
-  "resume_rule": "Preserve completed and valid crops; skip spent2618/2614/2606; resume assignedpending then atomicdescendingclaims; check new sentinel before every call.",
+  "resume_rule": "Resume14pending2531down2518 only; finish prior assignedpairs first, then atomicclaim2521down2518. Preserve77completeproducts. No retries7spentpartialproducts or2moderationblocks. Clearstop sentinel only on resumedexecution.",
   "spent_corrective_product_ids": [
     "2618",
     "2614",
-    "2606"
+    "2606",
+    "2571",
+    "2566",
+    "2563",
+    "2539"
   ],
   "recovered_cache_products": [
     "2607",
@@ -28,12 +32,18 @@
     "2603"
   ],
   "resumed_at": "2026-11-10T06:22:13.281366+00:00",
-  "prompt_recovery_update": "2607exactcorrective recovered from .generation_prompts/2607_corrective.txt",
+  "prompt_recovery_update": "2607 exact corrective prompt recovered and recorded in all matching records.",
   "previous_blocker": {
     "type": "worker_model_usage_limit",
     "message": "You have hit your usage limit. Try again at6:02AM.",
     "reported_reset_time": "6:02AM;timezone unspecified",
     "native_image_quota_error_observed": false
   },
-  "native_availability_probe": "2600 succeeded; resumed5workers max2activeproducts each"
+  "native_availability_probe": "2600 succeeded; resumed5workers max2activeproducts each",
+  "blocker": {
+    "type": "worker_model_usage_limit",
+    "observed_error": "You have hit your usage limit. Try again at11:13AM.",
+    "timezone_unspecified": true,
+    "native_image429_observed": false
+  }
 }

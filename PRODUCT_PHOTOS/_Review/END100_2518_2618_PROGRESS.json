@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-10T06:45:36.718562+00:00",
+  "updated_at": "2026-11-10T12:38:41.439863+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 72,
-  "partial_products": 11,
-  "pending_products": 15,
+  "completed_products": 77,
+  "partial_products": 7,
+  "pending_products": 14,
   "blocked_products": 2,
-  "saved_images": 411,
-  "checked_images": 368,
+  "saved_images": 420,
+  "checked_images": 393,
   "products": [
     {
       "product_id": "2618",
@@ -1513,10 +1513,10 @@
     },
     {
       "product_id": "2541",
-      "folder": "2541_Clear-Butterfly-Claws-0",
-      "status": "partial",
+      "folder": "2541_Clear-Butterfly-Claws-1",
+      "status": "complete",
       "saved_images": 5,
-      "checked_images": 0,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
@@ -1525,26 +1525,33 @@
         "New/05_Promotional.png"
       ],
       "missing_images": [],
-      "review_needed_images": [
+      "review_needed_images": [],
+      "notes_status": "five_images_saved_and_visually_checked",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "2540",
+      "folder": "2540_Clear-Square-Claws-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 01_White-Background.png",
-        "unreviewed or unrecorded: 02_Styled-Background.png",
-        "unreviewed or unrecorded: 03_Lifestyle.png",
-        "unreviewed or unrecorded: 04_Detail.png",
-        "unreviewed or unrecorded: 05_Promotional.png"
-      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five_images_saved_and_visually_checked",
+      "errors": [],
       "originals_unchanged": true
     },
     {
-      "product_id": "2540",
-      "folder": "2540_Clear-Square-Claws-0",
+      "product_id": "2539",
+      "folder": "2539_Clear-Loop-Claws-0",
       "status": "partial",
       "saved_images": 5,
       "checked_images": 1,
@@ -1562,42 +1569,11 @@
         "New/03_Lifestyle.png",
         "New/05_Promotional.png"
       ],
-      "notes_status": "in_progress",
+      "notes_status": "partial_corrective_spent_review_needed",
       "errors": [
         "unreviewed or unrecorded: 01_White-Background.png",
         "unreviewed or unrecorded: 02_Styled-Background.png",
         "unreviewed or unrecorded: 03_Lifestyle.png",
-        "unreviewed or unrecorded: 05_Promotional.png"
-      ],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "2539",
-      "folder": "2539_Clear-Loop-Claws-0",
-      "status": "partial",
-      "saved_images": 5,
-      "checked_images": 0,
-      "files": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "missing_images": [],
-      "review_needed_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 01_White-Background.png",
-        "unreviewed or unrecorded: 02_Styled-Background.png",
-        "unreviewed or unrecorded: 03_Lifestyle.png",
-        "unreviewed or unrecorded: 04_Detail.png",
         "unreviewed or unrecorded: 05_Promotional.png"
       ],
       "originals_unchanged": true
@@ -1623,10 +1599,10 @@
     },
     {
       "product_id": "2537",
-      "folder": "2537_Pastel-Printed-Claws-0",
-      "status": "partial",
+      "folder": "2537_Pastel-Printed-Claws-1",
+      "status": "complete",
       "saved_images": 5,
-      "checked_images": 0,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
@@ -1635,45 +1611,28 @@
         "New/05_Promotional.png"
       ],
       "missing_images": [],
-      "review_needed_images": [
+      "review_needed_images": [],
+      "notes_status": "five_images_saved_and_visually_checked",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "2536",
+      "folder": "2536_Pastel-Leaf-Claws-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 01_White-Background.png",
-        "unreviewed or unrecorded: 02_Styled-Background.png",
-        "unreviewed or unrecorded: 03_Lifestyle.png",
-        "unreviewed or unrecorded: 04_Detail.png",
-        "unreviewed or unrecorded: 05_Promotional.png"
-      ],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "2536",
-      "folder": "2536_Pastel-Leaf-Claws-0",
-      "status": "partial",
-      "saved_images": 1,
-      "checked_images": 0,
-      "files": [
-        "New/04_Detail.png"
-      ],
-      "missing_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [
-        "New/04_Detail.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 04_Detail.png"
-      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five_images_saved_and_visually_checked",
+      "errors": [],
       "originals_unchanged": true
     },
     {
@@ -1697,20 +1656,20 @@
     },
     {
       "product_id": "2534",
-      "folder": "2534_Clear-Banana-Clips-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "folder": "2534_Clear-Banana-Clips-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "five_images_saved_and_visually_checked",
       "errors": [],
       "originals_unchanged": true
     },

@@ -1,17 +1,17 @@
-# Resumable product-photo checkpoint:2518–2618
+# Resumable photo checkpoint:2518–2618
 
-Paused after all five worker agents reported model usage limits. No native image HTTP429 observed. Limit message says6:02AM without timezone; no hard-limit retries made. Watcher stopped; zero active calls.
+77complete,7partial,14pending,2moderation-blocked.420websiteimages saved,393checked. Of these,5whiteimages predatedthisqueue;415newwebsitefiles saved across runs. Userresumedrun started15complete/95saved; added62completeproducts/325savedfiles.
 
-100 existing products in descending order2618down2518 (2580 absent),103 frozen original files verified unchanged.
+All103frozenoriginalfileSHA256baselines verified unchanged. No activeworkers/calls/watcher remain. No unrecorded nativecaches found.
 
-15complete,8partial,77pending,0moderation-blocked;95websitefiles saved,84checked. Five previously saved makeup white images preserved;90websitefiles newly saved this run.
+Paused after worker modelusage-limit error saying tryagain11:13AM(timezone unspecified). No nativeimageHTTP429 observed; no repeatedhardlimitretries.
 
-Spent corrective partials:2618(2checked,3unchecked fullviews stillsinglecard);2614(1checked,4unchecked clipconstructionerror);2606(1checked,4unchecked mixedshapes insteadthree distinctshape-specific sheets). No further automated retries.
+Sevenpartialproducts have5savedviews each but spent corrections. Their unchecked views needreview; do not automatically retry:2618(2checked),2614(1checked),2606(1checked),2571(1checked),2566(1checked),2563(1checked),2539(1checked). Exact review-needed filenames/errors are in PROGRESS.json and each GENERATION_NOTES.json; rejected initial images retained.
 
-Five other partials2553–2549 retain their existing checked white view; four missing views each. Remaining77pending have no saved website views. See PROGRESS.json for exact per-product missing/review-needed files.
+Moderationblocked2554and2542 skippedwithoutretry; exacterrors/prompts/requestIDs recorded.
 
-Recovery saved three orphan native caches:2607(corrective passed),2606(corrective stillfailed),2603(passed). For2607 the exact corrective prompt was not recovered; records explicitly store null/disclosure rather than invented wording. Original exact prompt remains.
+Resume pending2531down2518 in descendingorder. Priorassignedpairs:worker5=2531/2530,worker1=2529/2528,worker4=2527/2526,worker2=2525/2524,worker3=2523/2522. Fourunassigned2521/2520/2519/2518 remain in atomicdispatch. Finishpriorassignedpair before claimingnext. Preserveallvalidoutputs andexistingwhites.
 
-Resume assigned pending2600,2599,2598,2597 first; then atomic descending dispatch from2596. Prior terminal assignments remain in dispatch history. All100 remain frozen; do not modify earlier batches. Mechanical style-grid crops with true cropboxes/hashes and honest visual review remain required.
+Exact2607correctiveprompt has nowbeen recovered from .generation_prompts/2607_corrective.txt and recorded; earliermissingpromptdisclosure superseded.
 
-Live verification after upload: all75imageURLs for15completedproducts returned HTTP200 with image content types.
+One nativeoriginal-referenced3×2stylegrid mechanicallycropped into5views; actualcropboxes/dimensions/SHA andhonestvisualreviews retained. NoCSVcreated.

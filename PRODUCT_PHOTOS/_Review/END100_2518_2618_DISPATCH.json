@@ -1,13 +1,5 @@
 {
   "next_unassigned": [
-    "2529",
-    "2528",
-    "2527",
-    "2526",
-    "2525",
-    "2524",
-    "2523",
-    "2522",
     "2521",
     "2520",
     "2519",
@@ -15,20 +7,20 @@
   ],
   "assigned": {
     "batch3_worker1": [
-      "2541",
-      "2540"
+      "2529",
+      "2528"
     ],
     "batch3_worker2": [
-      "2537",
-      "2536"
+      "2525",
+      "2524"
     ],
     "batch3_worker3": [
-      "2535",
-      "2534"
+      "2523",
+      "2522"
     ],
     "batch3_worker4": [
-      "2539",
-      "2538"
+      "2527",
+      "2526"
     ],
     "batch3_worker5": [
       "2531",
@@ -308,9 +300,37 @@
         "2533",
         "2532"
       ]
+    },
+    {
+      "worker": "batch3_worker1",
+      "product_ids": [
+        "2541",
+        "2540"
+      ]
+    },
+    {
+      "worker": "batch3_worker4",
+      "product_ids": [
+        "2539",
+        "2538"
+      ]
+    },
+    {
+      "worker": "batch3_worker2",
+      "product_ids": [
+        "2537",
+        "2536"
+      ]
+    },
+    {
+      "worker": "batch3_worker3",
+      "product_ids": [
+        "2535",
+        "2534"
+      ]
     }
   ],
-  "status": "running",
+  "status": "paused_worker_model_usage_limit",
   "active_products": 0,
   "in_flight_calls": 0
 }

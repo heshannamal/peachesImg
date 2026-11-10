@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0238.jpg": "61c1d28ed55a3aeadbd49ce3beaa31e6a0e1e05d43f1f5c6f3d03a03aebcb5d6"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-f0b34540-640e-4cd7-b622-e2acf88a3927.png",
+      "source_output": "/workspace/generated_images/exec-f0b34540-640e-4cd7-b622-e2acf88a3927.png",
+      "sha256": "5f950394d4a1d6bbdfa97dfed5dfa4acc3ab4e71621939c3750e62e782dbf59a",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Crystal Beaded Phone Charms\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment EXACTLY THREE separate crystal-beaded phone wriststraps/charms on THREE white hangingcards, each has ONE GOLD round keyring and U-shaped beaded loop with one larger faceted glass bead near bottom. Colours: black/charcoalsmallfacetedbeads+champagnegoldspacers+largeblackfacetedbead; redsmallfacetedbeads+champagnespacers+largered/goldfacetedbead; brightturquoisebluebeads+champagnespacers+largegreen-bluefacetedbead. Retain all THREE entire different colouredstraps together in cells1/2/3/5. Not necklaces. No extra wriststraps. Clear phone-cover tags and exactgoldkeyring hardware retained. Remove hand/shop/pricebanner. Detail tight realpartmacro of blackfacetedbead and adjacentchampagnebeads.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-f0b34540-640e-4cd7-b622-e2acf88a3927.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Crystal Beaded Phone Charms\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment EXACTLY THREE separate crystal-beaded phone wriststraps/charms on THREE white hangingcards, each has ONE GOLD round keyring and U-shaped beaded loop with one larger faceted glass bead near bottom. Colours: black/charcoalsmallfacetedbeads+champagnegoldspacers+largeblackfacetedbead; redsmallfacetedbeads+champagnespacers+largered/goldfacetedbead; brightturquoisebluebeads+champagnespacers+largegreen-bluefacetedbead. Retain all THREE entire different colouredstraps together in cells1/2/3/5. Not necklaces. No extra wriststraps. Clear phone-cover tags and exactgoldkeyring hardware retained. Remove hand/shop/pricebanner. Detail tight realpartmacro of blackfacetedbead and adjacentchampagnebeads.",
+      "sha256": "7aef94cc0719a1b084febf1668396477e6369f6075f21aa425cc1500f7581965",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f0b34540-640e-4cd7-b622-e2acf88a3927.png",
+      "grid_sha256": "5f950394d4a1d6bbdfa97dfed5dfa4acc3ab4e71621939c3750e62e782dbf59a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual grid/crop reviewed: all three distinct source phone-charms retained together in full views, correct coloured bead patterns, gold rings and pendant shapes. White/styled/lifestyle/promotional purposes passed; standalone tight real-part macro passed. Heading accurate, no shop price overlay."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-f0b34540-640e-4cd7-b622-e2acf88a3927.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Crystal Beaded Phone Charms\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment EXACTLY THREE separate crystal-beaded phone wriststraps/charms on THREE white hangingcards, each has ONE GOLD round keyring and U-shaped beaded loop with one larger faceted glass bead near bottom. Colours: black/charcoalsmallfacetedbeads+champagnegoldspacers+largeblackfacetedbead; redsmallfacetedbeads+champagnespacers+largered/goldfacetedbead; brightturquoisebluebeads+champagnespacers+largegreen-bluefacetedbead. Retain all THREE entire different colouredstraps together in cells1/2/3/5. Not necklaces. No extra wriststraps. Clear phone-cover tags and exactgoldkeyring hardware retained. Remove hand/shop/pricebanner. Detail tight realpartmacro of blackfacetedbead and adjacentchampagnebeads.",
+      "sha256": "a53c6652f0f60709c104e97cae0fb4384e52ceebb301d5aca56dea08bad9243e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f0b34540-640e-4cd7-b622-e2acf88a3927.png",
+      "grid_sha256": "5f950394d4a1d6bbdfa97dfed5dfa4acc3ab4e71621939c3750e62e782dbf59a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual grid/crop reviewed: all three distinct source phone-charms retained together in full views, correct coloured bead patterns, gold rings and pendant shapes. White/styled/lifestyle/promotional purposes passed; standalone tight real-part macro passed. Heading accurate, no shop price overlay."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-f0b34540-640e-4cd7-b622-e2acf88a3927.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Crystal Beaded Phone Charms\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment EXACTLY THREE separate crystal-beaded phone wriststraps/charms on THREE white hangingcards, each has ONE GOLD round keyring and U-shaped beaded loop with one larger faceted glass bead near bottom. Colours: black/charcoalsmallfacetedbeads+champagnegoldspacers+largeblackfacetedbead; redsmallfacetedbeads+champagnespacers+largered/goldfacetedbead; brightturquoisebluebeads+champagnespacers+largegreen-bluefacetedbead. Retain all THREE entire different colouredstraps together in cells1/2/3/5. Not necklaces. No extra wriststraps. Clear phone-cover tags and exactgoldkeyring hardware retained. Remove hand/shop/pricebanner. Detail tight realpartmacro of blackfacetedbead and adjacentchampagnebeads.",
+      "sha256": "0701e8dc812a462e1aa3812e61735d423ef8c52e16470bb6a58aa6a146a0f7fb",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f0b34540-640e-4cd7-b622-e2acf88a3927.png",
+      "grid_sha256": "5f950394d4a1d6bbdfa97dfed5dfa4acc3ab4e71621939c3750e62e782dbf59a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual grid/crop reviewed: all three distinct source phone-charms retained together in full views, correct coloured bead patterns, gold rings and pendant shapes. White/styled/lifestyle/promotional purposes passed; standalone tight real-part macro passed. Heading accurate, no shop price overlay."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-f0b34540-640e-4cd7-b622-e2acf88a3927.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Crystal Beaded Phone Charms\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment EXACTLY THREE separate crystal-beaded phone wriststraps/charms on THREE white hangingcards, each has ONE GOLD round keyring and U-shaped beaded loop with one larger faceted glass bead near bottom. Colours: black/charcoalsmallfacetedbeads+champagnegoldspacers+largeblackfacetedbead; redsmallfacetedbeads+champagnespacers+largered/goldfacetedbead; brightturquoisebluebeads+champagnespacers+largegreen-bluefacetedbead. Retain all THREE entire different colouredstraps together in cells1/2/3/5. Not necklaces. No extra wriststraps. Clear phone-cover tags and exactgoldkeyring hardware retained. Remove hand/shop/pricebanner. Detail tight realpartmacro of blackfacetedbead and adjacentchampagnebeads.",
+      "sha256": "d7e31087c5c5c1b3201147508b299461f72a7a7968dc1d8fc1ee5d87d9e4d003",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f0b34540-640e-4cd7-b622-e2acf88a3927.png",
+      "grid_sha256": "5f950394d4a1d6bbdfa97dfed5dfa4acc3ab4e71621939c3750e62e782dbf59a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual grid/crop reviewed: all three distinct source phone-charms retained together in full views, correct coloured bead patterns, gold rings and pendant shapes. White/styled/lifestyle/promotional purposes passed; standalone tight real-part macro passed. Heading accurate, no shop price overlay."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-f0b34540-640e-4cd7-b622-e2acf88a3927.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Crystal Beaded Phone Charms\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment EXACTLY THREE separate crystal-beaded phone wriststraps/charms on THREE white hangingcards, each has ONE GOLD round keyring and U-shaped beaded loop with one larger faceted glass bead near bottom. Colours: black/charcoalsmallfacetedbeads+champagnegoldspacers+largeblackfacetedbead; redsmallfacetedbeads+champagnespacers+largered/goldfacetedbead; brightturquoisebluebeads+champagnespacers+largegreen-bluefacetedbead. Retain all THREE entire different colouredstraps together in cells1/2/3/5. Not necklaces. No extra wriststraps. Clear phone-cover tags and exactgoldkeyring hardware retained. Remove hand/shop/pricebanner. Detail tight realpartmacro of blackfacetedbead and adjacentchampagnebeads.",
+      "sha256": "225072226cf0c38e7204c72eb94a7fb60066bfdce6d5fdb9db0f178e269ce324",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f0b34540-640e-4cd7-b622-e2acf88a3927.png",
+      "grid_sha256": "5f950394d4a1d6bbdfa97dfed5dfa4acc3ab4e71621939c3750e62e782dbf59a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual grid/crop reviewed: all three distinct source phone-charms retained together in full views, correct coloured bead patterns, gold rings and pendant shapes. White/styled/lifestyle/promotional purposes passed; standalone tight real-part macro passed. Heading accurate, no shop price overlay."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Three crystal-beaded phone charms",
+  "originals_verified_against_frozen_plan": true
+}

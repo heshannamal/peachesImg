@@ -1,0 +1,131 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0418.jpg": "f0f4a12519a2745fc678baa44430b46673052ecadcce25cd8a40950919c7c513"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-0db41a97-42d5-48d7-9e79-a716ffa8f34d.png",
+      "source_output": "/workspace/generated_images/exec-0db41a97-42d5-48d7-9e79-a716ffa8f34d.png",
+      "sha256": "59ecf3441be838410caa7fbce7a6b22c003f2d431755ad8739e28d754a7f5a23",
+      "prompt": "Native original-referenced edit into ONE1536x1024 landscape photo grid with exactly3equalcolumns,2equalrows of512x512. No gutters,borders,panel labels. Actual merchandise is ONE whole assortment. Preserve actual counts/identity/shapes/colours/materials, use source photograph not stock. Remove hand/shop/large priceoverlay. ONEwhite rectangular STAINLESS STEEL display card inside transparent sleeve holds TWELVE PAIRS/TWENTYFOUR individual gold-tone stud earrings. Each actual stud is a thin openheart outline with attached small and larger fivepetal flowers and a tiny round bead accent, preserve source mix of orientations and matching pairs. All12pairs belong on ONEcard, no newcards; exact24individual studs arranged clearly6rows4studs. Do not substitute geometric plain hearts or hoops. Cellreadingorder: TOPLEFT whole assortment purewhite; TOPMIDDLE samewholeassortment lavender/cream satin; TOPRIGHT samewholeassortment on elegant dressingtable with nopeople/noextramerchandise; BOTTOMLEFT standalone EXTREME tight macro of one actual visible gold floral heart stud outline, bead and petal texture, not full card/assortment, no invented reverse; BOTTOMMIDDLE wholeassortment cream background with accurate heading \"FLORAL HEART STUD EARRINGS\" only; BOTTOMRIGHT blankcream. All full views safely inside eachcell, actual exact assortment count. Website-ready photoreal quality.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "Rejected/initial_01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-0db41a97-42d5-48d7-9e79-a716ffa8f34d.png",
+      "prompt": "Native original-referenced edit into ONE1536x1024 landscape photo grid with exactly3equalcolumns,2equalrows of512x512. No gutters,borders,panel labels. Actual merchandise is ONE whole assortment. Preserve actual counts/identity/shapes/colours/materials, use source photograph not stock. Remove hand/shop/large priceoverlay. ONEwhite rectangular STAINLESS STEEL display card inside transparent sleeve holds TWELVE PAIRS/TWENTYFOUR individual gold-tone stud earrings. Each actual stud is a thin openheart outline with attached small and larger fivepetal flowers and a tiny round bead accent, preserve source mix of orientations and matching pairs. All12pairs belong on ONEcard, no newcards; exact24individual studs arranged clearly6rows4studs. Do not substitute geometric plain hearts or hoops. Cellreadingorder: TOPLEFT whole assortment purewhite; TOPMIDDLE samewholeassortment lavender/cream satin; TOPRIGHT samewholeassortment on elegant dressingtable with nopeople/noextramerchandise; BOTTOMLEFT standalone EXTREME tight macro of one actual visible gold floral heart stud outline, bead and petal texture, not full card/assortment, no invented reverse; BOTTOMMIDDLE wholeassortment cream background with accurate heading \"FLORAL HEART STUD EARRINGS\" only; BOTTOMRIGHT blankcream. All full views safely inside eachcell, actual exact assortment count. Website-ready photoreal quality.",
+      "sha256": "2f2883bc3990ca1d117ad5b4ebb44c17baa18adb4abe40e0b9b71ec00206ff0c",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0db41a97-42d5-48d7-9e79-a716ffa8f34d.png",
+      "grid_sha256": "59ecf3441be838410caa7fbce7a6b22c003f2d431755ad8739e28d754a7f5a23",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Rejected ambiguous overlapping individual stud count; must show exactly24 isolated studs."
+    },
+    {
+      "saved_file": "Rejected/initial_02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-0db41a97-42d5-48d7-9e79-a716ffa8f34d.png",
+      "prompt": "Native original-referenced edit into ONE1536x1024 landscape photo grid with exactly3equalcolumns,2equalrows of512x512. No gutters,borders,panel labels. Actual merchandise is ONE whole assortment. Preserve actual counts/identity/shapes/colours/materials, use source photograph not stock. Remove hand/shop/large priceoverlay. ONEwhite rectangular STAINLESS STEEL display card inside transparent sleeve holds TWELVE PAIRS/TWENTYFOUR individual gold-tone stud earrings. Each actual stud is a thin openheart outline with attached small and larger fivepetal flowers and a tiny round bead accent, preserve source mix of orientations and matching pairs. All12pairs belong on ONEcard, no newcards; exact24individual studs arranged clearly6rows4studs. Do not substitute geometric plain hearts or hoops. Cellreadingorder: TOPLEFT whole assortment purewhite; TOPMIDDLE samewholeassortment lavender/cream satin; TOPRIGHT samewholeassortment on elegant dressingtable with nopeople/noextramerchandise; BOTTOMLEFT standalone EXTREME tight macro of one actual visible gold floral heart stud outline, bead and petal texture, not full card/assortment, no invented reverse; BOTTOMMIDDLE wholeassortment cream background with accurate heading \"FLORAL HEART STUD EARRINGS\" only; BOTTOMRIGHT blankcream. All full views safely inside eachcell, actual exact assortment count. Website-ready photoreal quality.",
+      "sha256": "20679d1741918edaf3126a1cf0c98c02995fd9b4966387d0a17020f8ae84c3a6",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0db41a97-42d5-48d7-9e79-a716ffa8f34d.png",
+      "grid_sha256": "59ecf3441be838410caa7fbce7a6b22c003f2d431755ad8739e28d754a7f5a23",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Rejected ambiguous overlapping individual stud count; must show exactly24 isolated studs."
+    },
+    {
+      "saved_file": "Rejected/initial_03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-0db41a97-42d5-48d7-9e79-a716ffa8f34d.png",
+      "prompt": "Native original-referenced edit into ONE1536x1024 landscape photo grid with exactly3equalcolumns,2equalrows of512x512. No gutters,borders,panel labels. Actual merchandise is ONE whole assortment. Preserve actual counts/identity/shapes/colours/materials, use source photograph not stock. Remove hand/shop/large priceoverlay. ONEwhite rectangular STAINLESS STEEL display card inside transparent sleeve holds TWELVE PAIRS/TWENTYFOUR individual gold-tone stud earrings. Each actual stud is a thin openheart outline with attached small and larger fivepetal flowers and a tiny round bead accent, preserve source mix of orientations and matching pairs. All12pairs belong on ONEcard, no newcards; exact24individual studs arranged clearly6rows4studs. Do not substitute geometric plain hearts or hoops. Cellreadingorder: TOPLEFT whole assortment purewhite; TOPMIDDLE samewholeassortment lavender/cream satin; TOPRIGHT samewholeassortment on elegant dressingtable with nopeople/noextramerchandise; BOTTOMLEFT standalone EXTREME tight macro of one actual visible gold floral heart stud outline, bead and petal texture, not full card/assortment, no invented reverse; BOTTOMMIDDLE wholeassortment cream background with accurate heading \"FLORAL HEART STUD EARRINGS\" only; BOTTOMRIGHT blankcream. All full views safely inside eachcell, actual exact assortment count. Website-ready photoreal quality.",
+      "sha256": "3424e0432097c2041dbd3ecccb455dc6510645c81ab67dae87ce8a850abfa884",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0db41a97-42d5-48d7-9e79-a716ffa8f34d.png",
+      "grid_sha256": "59ecf3441be838410caa7fbce7a6b22c003f2d431755ad8739e28d754a7f5a23",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Rejected ambiguous overlapping individual stud count; must show exactly24 isolated studs."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-0db41a97-42d5-48d7-9e79-a716ffa8f34d.png",
+      "prompt": "Native original-referenced edit into ONE1536x1024 landscape photo grid with exactly3equalcolumns,2equalrows of512x512. No gutters,borders,panel labels. Actual merchandise is ONE whole assortment. Preserve actual counts/identity/shapes/colours/materials, use source photograph not stock. Remove hand/shop/large priceoverlay. ONEwhite rectangular STAINLESS STEEL display card inside transparent sleeve holds TWELVE PAIRS/TWENTYFOUR individual gold-tone stud earrings. Each actual stud is a thin openheart outline with attached small and larger fivepetal flowers and a tiny round bead accent, preserve source mix of orientations and matching pairs. All12pairs belong on ONEcard, no newcards; exact24individual studs arranged clearly6rows4studs. Do not substitute geometric plain hearts or hoops. Cellreadingorder: TOPLEFT whole assortment purewhite; TOPMIDDLE samewholeassortment lavender/cream satin; TOPRIGHT samewholeassortment on elegant dressingtable with nopeople/noextramerchandise; BOTTOMLEFT standalone EXTREME tight macro of one actual visible gold floral heart stud outline, bead and petal texture, not full card/assortment, no invented reverse; BOTTOMMIDDLE wholeassortment cream background with accurate heading \"FLORAL HEART STUD EARRINGS\" only; BOTTOMRIGHT blankcream. All full views safely inside eachcell, actual exact assortment count. Website-ready photoreal quality.",
+      "sha256": "f67c179bdd0826038171f289f7f347492b4fbc2121097feb4129bad2f3179bf2",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0db41a97-42d5-48d7-9e79-a716ffa8f34d.png",
+      "grid_sha256": "59ecf3441be838410caa7fbce7a6b22c003f2d431755ad8739e28d754a7f5a23",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "Rejected/initial_05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-0db41a97-42d5-48d7-9e79-a716ffa8f34d.png",
+      "prompt": "Native original-referenced edit into ONE1536x1024 landscape photo grid with exactly3equalcolumns,2equalrows of512x512. No gutters,borders,panel labels. Actual merchandise is ONE whole assortment. Preserve actual counts/identity/shapes/colours/materials, use source photograph not stock. Remove hand/shop/large priceoverlay. ONEwhite rectangular STAINLESS STEEL display card inside transparent sleeve holds TWELVE PAIRS/TWENTYFOUR individual gold-tone stud earrings. Each actual stud is a thin openheart outline with attached small and larger fivepetal flowers and a tiny round bead accent, preserve source mix of orientations and matching pairs. All12pairs belong on ONEcard, no newcards; exact24individual studs arranged clearly6rows4studs. Do not substitute geometric plain hearts or hoops. Cellreadingorder: TOPLEFT whole assortment purewhite; TOPMIDDLE samewholeassortment lavender/cream satin; TOPRIGHT samewholeassortment on elegant dressingtable with nopeople/noextramerchandise; BOTTOMLEFT standalone EXTREME tight macro of one actual visible gold floral heart stud outline, bead and petal texture, not full card/assortment, no invented reverse; BOTTOMMIDDLE wholeassortment cream background with accurate heading \"FLORAL HEART STUD EARRINGS\" only; BOTTOMRIGHT blankcream. All full views safely inside eachcell, actual exact assortment count. Website-ready photoreal quality.",
+      "sha256": "634ff39145e32a5d96c50d613b0278f9b9565b866ddf015147042a60fc8f7f32",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0db41a97-42d5-48d7-9e79-a716ffa8f34d.png",
+      "grid_sha256": "59ecf3441be838410caa7fbce7a6b22c003f2d431755ad8739e28d754a7f5a23",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Rejected ambiguous overlapping individual stud count; must show exactly24 isolated studs."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "01_White-Background.png": 1,
+    "02_Styled-Background.png": 1,
+    "03_Lifestyle.png": 1,
+    "05_Promotional.png": 1
+  }
+}

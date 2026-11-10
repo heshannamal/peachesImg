@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-10T01:10:50.389352+00:00",
+  "updated_at": "2026-11-10T01:12:56.749897+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 71,
-  "partial_products": 3,
-  "pending_products": 18,
+  "completed_products": 74,
+  "partial_products": 6,
+  "pending_products": 12,
   "blocked_products": 8,
-  "saved_images": 370,
-  "checked_images": 356,
+  "saved_images": 392,
+  "checked_images": 372,
   "products": [
     {
       "product_id": "2718",
@@ -1541,10 +1541,10 @@
     },
     {
       "product_id": "2638",
-      "folder": "2638_Pastel-Sequin-Headbands-0",
-      "status": "partial",
+      "folder": "2638_Pastel-Sequin-Headbands-1",
+      "status": "complete",
       "saved_images": 5,
-      "checked_images": 0,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
@@ -1553,78 +1553,76 @@
         "New/05_Promotional.png"
       ],
       "missing_images": [],
-      "review_needed_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 01_White-Background.png",
-        "unreviewed or unrecorded: 02_Styled-Background.png",
-        "unreviewed or unrecorded: 03_Lifestyle.png",
-        "unreviewed or unrecorded: 04_Detail.png",
-        "unreviewed or unrecorded: 05_Promotional.png"
-      ],
+      "review_needed_images": [],
+      "notes_status": "complete",
+      "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "2637",
-      "folder": "2637_Sequin-Heart-Headbands-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "folder": "2637_Sequin-Heart-Headbands-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "complete",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "2636",
       "folder": "2636_Pastel-Hair-Accessory-Sets-0",
-      "status": "pending",
-      "saved_images": 0,
+      "status": "partial",
+      "saved_images": 1,
       "checked_images": 0,
-      "files": [],
+      "files": [
+        "New/04_Detail.png"
+      ],
       "missing_images": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "review_needed_images": [
+        "New/04_Detail.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 04_Detail.png"
+      ],
       "originals_unchanged": true
     },
     {
       "product_id": "2635",
       "folder": "2635_Geometric-Stud-Earrings-0",
-      "status": "pending",
-      "saved_images": 0,
+      "status": "partial",
+      "saved_images": 1,
       "checked_images": 0,
-      "files": [],
+      "files": [
+        "New/04_Detail.png"
+      ],
       "missing_images": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "review_needed_images": [
+        "New/04_Detail.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 04_Detail.png"
+      ],
       "originals_unchanged": true
     },
     {
@@ -1632,6 +1630,54 @@
       "folder": "2634_Flower-Stud-Earrings-0",
       "status": "partial",
       "saved_images": 5,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/05_Promotional.png"
+      ],
+      "notes_status": "partial_review_needed_corrective_spent",
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png",
+        "unreviewed or unrecorded: 02_Styled-Background.png",
+        "unreviewed or unrecorded: 03_Lifestyle.png",
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "2633",
+      "folder": "2633_Star-Stud-Earrings-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five_images_saved_and_visually_checked",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "2632",
+      "folder": "2632_Mixed-Gold-Tone-Studs-0",
+      "status": "partial",
+      "saved_images": 5,
       "checked_images": 0,
       "files": [
         "New/01_White-Background.png",
@@ -1659,60 +1705,34 @@
       "originals_unchanged": true
     },
     {
-      "product_id": "2633",
-      "folder": "2633_Star-Stud-Earrings-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "2632",
-      "folder": "2632_Mixed-Gold-Tone-Studs-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
       "product_id": "2631",
       "folder": "2631_Heart-Gold-Tone-Studs-0",
-      "status": "pending",
-      "saved_images": 0,
+      "status": "partial",
+      "saved_images": 5,
       "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png",
+        "unreviewed or unrecorded: 02_Styled-Background.png",
+        "unreviewed or unrecorded: 03_Lifestyle.png",
+        "unreviewed or unrecorded: 04_Detail.png",
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
       "originals_unchanged": true
     },
     {

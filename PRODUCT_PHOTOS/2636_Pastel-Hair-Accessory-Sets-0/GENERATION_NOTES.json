@@ -1,0 +1,131 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0439.jpg": "0f8d74f2319cbaef19bb26696fc577a9f317387356491f7ecaf5ff5e0ff2d193"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-46804e78-7cee-4332-8cc8-581a64af857e.png",
+      "source_output": "/workspace/generated_images/exec-46804e78-7cee-4332-8cc8-581a64af857e.png",
+      "sha256": "3319364df68ea6487722ae8cdd21a58d0bcef8755f115bcc43ad2f72d9d07962",
+      "prompt": "Native original-referenced edit into ONE1536x1024 landscape photo grid with exactly3equalcolumns,2equalrows of512x512. No gutters,borders,panel labels. Actual merchandise is ONE whole assortment. Preserve actual counts/identity/shapes/colours/materials, use source photograph not stock. Remove hand/shop/large priceoverlay. Twelve individual pastel hair accessory gift sets on12longdecoratedcard backs inside transparent packaging, two groups/rows ofsix. Each set has one large five-petal fabric flower hairclip, several ribbed pastel elastic hairties and small colourful flower/ladybird decorated bar clips. Preserve the exact visible pale lavender,cream,white,pink,paleblue flowers and yellow,pink,purple,blue,mint elastic colourmix and matching card contents. Do not reduce to one set or invent extra contents. Fullviews show all12cards as two rows ofsix, preserving both original groups. Cellreadingorder: TOPLEFT whole assortment purewhite; TOPMIDDLE samewholeassortment lavender/cream satin; TOPRIGHT samewholeassortment on elegant dressingtable with nopeople/noextramerchandise; BOTTOMLEFT standalone EXTREME tight macro of one actual visible fabric flower petal and flowercentre stitch details, not full card/assortment, no invented reverse; BOTTOMMIDDLE wholeassortment cream background with accurate heading \"PASTEL HAIR ACCESSORY SETS\" only; BOTTOMRIGHT blankcream. All full views safely inside eachcell, actual exact assortment count. Website-ready photoreal quality.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "Rejected/initial_01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-46804e78-7cee-4332-8cc8-581a64af857e.png",
+      "prompt": "Native original-referenced edit into ONE1536x1024 landscape photo grid with exactly3equalcolumns,2equalrows of512x512. No gutters,borders,panel labels. Actual merchandise is ONE whole assortment. Preserve actual counts/identity/shapes/colours/materials, use source photograph not stock. Remove hand/shop/large priceoverlay. Twelve individual pastel hair accessory gift sets on12longdecoratedcard backs inside transparent packaging, two groups/rows ofsix. Each set has one large five-petal fabric flower hairclip, several ribbed pastel elastic hairties and small colourful flower/ladybird decorated bar clips. Preserve the exact visible pale lavender,cream,white,pink,paleblue flowers and yellow,pink,purple,blue,mint elastic colourmix and matching card contents. Do not reduce to one set or invent extra contents. Fullviews show all12cards as two rows ofsix, preserving both original groups. Cellreadingorder: TOPLEFT whole assortment purewhite; TOPMIDDLE samewholeassortment lavender/cream satin; TOPRIGHT samewholeassortment on elegant dressingtable with nopeople/noextramerchandise; BOTTOMLEFT standalone EXTREME tight macro of one actual visible fabric flower petal and flowercentre stitch details, not full card/assortment, no invented reverse; BOTTOMMIDDLE wholeassortment cream background with accurate heading \"PASTEL HAIR ACCESSORY SETS\" only; BOTTOMRIGHT blankcream. All full views safely inside eachcell, actual exact assortment count. Website-ready photoreal quality.",
+      "sha256": "b9f58929ca31351848ddfd6a5e7eb941ca8104795b8ef38df01dea62bb066922",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-46804e78-7cee-4332-8cc8-581a64af857e.png",
+      "grid_sha256": "3319364df68ea6487722ae8cdd21a58d0bcef8755f115bcc43ad2f72d9d07962",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Rejected material colour-distribution mismatch in full assortment."
+    },
+    {
+      "saved_file": "Rejected/initial_02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-46804e78-7cee-4332-8cc8-581a64af857e.png",
+      "prompt": "Native original-referenced edit into ONE1536x1024 landscape photo grid with exactly3equalcolumns,2equalrows of512x512. No gutters,borders,panel labels. Actual merchandise is ONE whole assortment. Preserve actual counts/identity/shapes/colours/materials, use source photograph not stock. Remove hand/shop/large priceoverlay. Twelve individual pastel hair accessory gift sets on12longdecoratedcard backs inside transparent packaging, two groups/rows ofsix. Each set has one large five-petal fabric flower hairclip, several ribbed pastel elastic hairties and small colourful flower/ladybird decorated bar clips. Preserve the exact visible pale lavender,cream,white,pink,paleblue flowers and yellow,pink,purple,blue,mint elastic colourmix and matching card contents. Do not reduce to one set or invent extra contents. Fullviews show all12cards as two rows ofsix, preserving both original groups. Cellreadingorder: TOPLEFT whole assortment purewhite; TOPMIDDLE samewholeassortment lavender/cream satin; TOPRIGHT samewholeassortment on elegant dressingtable with nopeople/noextramerchandise; BOTTOMLEFT standalone EXTREME tight macro of one actual visible fabric flower petal and flowercentre stitch details, not full card/assortment, no invented reverse; BOTTOMMIDDLE wholeassortment cream background with accurate heading \"PASTEL HAIR ACCESSORY SETS\" only; BOTTOMRIGHT blankcream. All full views safely inside eachcell, actual exact assortment count. Website-ready photoreal quality.",
+      "sha256": "12e7111e31c97573ba13563eb900ed74a36ff2c8c68078a1845d8977b4b7fead",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-46804e78-7cee-4332-8cc8-581a64af857e.png",
+      "grid_sha256": "3319364df68ea6487722ae8cdd21a58d0bcef8755f115bcc43ad2f72d9d07962",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Rejected material colour-distribution mismatch in full assortment."
+    },
+    {
+      "saved_file": "Rejected/initial_03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-46804e78-7cee-4332-8cc8-581a64af857e.png",
+      "prompt": "Native original-referenced edit into ONE1536x1024 landscape photo grid with exactly3equalcolumns,2equalrows of512x512. No gutters,borders,panel labels. Actual merchandise is ONE whole assortment. Preserve actual counts/identity/shapes/colours/materials, use source photograph not stock. Remove hand/shop/large priceoverlay. Twelve individual pastel hair accessory gift sets on12longdecoratedcard backs inside transparent packaging, two groups/rows ofsix. Each set has one large five-petal fabric flower hairclip, several ribbed pastel elastic hairties and small colourful flower/ladybird decorated bar clips. Preserve the exact visible pale lavender,cream,white,pink,paleblue flowers and yellow,pink,purple,blue,mint elastic colourmix and matching card contents. Do not reduce to one set or invent extra contents. Fullviews show all12cards as two rows ofsix, preserving both original groups. Cellreadingorder: TOPLEFT whole assortment purewhite; TOPMIDDLE samewholeassortment lavender/cream satin; TOPRIGHT samewholeassortment on elegant dressingtable with nopeople/noextramerchandise; BOTTOMLEFT standalone EXTREME tight macro of one actual visible fabric flower petal and flowercentre stitch details, not full card/assortment, no invented reverse; BOTTOMMIDDLE wholeassortment cream background with accurate heading \"PASTEL HAIR ACCESSORY SETS\" only; BOTTOMRIGHT blankcream. All full views safely inside eachcell, actual exact assortment count. Website-ready photoreal quality.",
+      "sha256": "59999d976108d76a9570b248087e1978a700eace3dcff5d3c9dba4e1b72af1ba",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-46804e78-7cee-4332-8cc8-581a64af857e.png",
+      "grid_sha256": "3319364df68ea6487722ae8cdd21a58d0bcef8755f115bcc43ad2f72d9d07962",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Rejected material colour-distribution mismatch in full assortment."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-46804e78-7cee-4332-8cc8-581a64af857e.png",
+      "prompt": "Native original-referenced edit into ONE1536x1024 landscape photo grid with exactly3equalcolumns,2equalrows of512x512. No gutters,borders,panel labels. Actual merchandise is ONE whole assortment. Preserve actual counts/identity/shapes/colours/materials, use source photograph not stock. Remove hand/shop/large priceoverlay. Twelve individual pastel hair accessory gift sets on12longdecoratedcard backs inside transparent packaging, two groups/rows ofsix. Each set has one large five-petal fabric flower hairclip, several ribbed pastel elastic hairties and small colourful flower/ladybird decorated bar clips. Preserve the exact visible pale lavender,cream,white,pink,paleblue flowers and yellow,pink,purple,blue,mint elastic colourmix and matching card contents. Do not reduce to one set or invent extra contents. Fullviews show all12cards as two rows ofsix, preserving both original groups. Cellreadingorder: TOPLEFT whole assortment purewhite; TOPMIDDLE samewholeassortment lavender/cream satin; TOPRIGHT samewholeassortment on elegant dressingtable with nopeople/noextramerchandise; BOTTOMLEFT standalone EXTREME tight macro of one actual visible fabric flower petal and flowercentre stitch details, not full card/assortment, no invented reverse; BOTTOMMIDDLE wholeassortment cream background with accurate heading \"PASTEL HAIR ACCESSORY SETS\" only; BOTTOMRIGHT blankcream. All full views safely inside eachcell, actual exact assortment count. Website-ready photoreal quality.",
+      "sha256": "2d29c2a65c728e96f7af865dca805392b0de43eeeeeacb2b606e594de571f378",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-46804e78-7cee-4332-8cc8-581a64af857e.png",
+      "grid_sha256": "3319364df68ea6487722ae8cdd21a58d0bcef8755f115bcc43ad2f72d9d07962",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "Rejected/initial_05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-46804e78-7cee-4332-8cc8-581a64af857e.png",
+      "prompt": "Native original-referenced edit into ONE1536x1024 landscape photo grid with exactly3equalcolumns,2equalrows of512x512. No gutters,borders,panel labels. Actual merchandise is ONE whole assortment. Preserve actual counts/identity/shapes/colours/materials, use source photograph not stock. Remove hand/shop/large priceoverlay. Twelve individual pastel hair accessory gift sets on12longdecoratedcard backs inside transparent packaging, two groups/rows ofsix. Each set has one large five-petal fabric flower hairclip, several ribbed pastel elastic hairties and small colourful flower/ladybird decorated bar clips. Preserve the exact visible pale lavender,cream,white,pink,paleblue flowers and yellow,pink,purple,blue,mint elastic colourmix and matching card contents. Do not reduce to one set or invent extra contents. Fullviews show all12cards as two rows ofsix, preserving both original groups. Cellreadingorder: TOPLEFT whole assortment purewhite; TOPMIDDLE samewholeassortment lavender/cream satin; TOPRIGHT samewholeassortment on elegant dressingtable with nopeople/noextramerchandise; BOTTOMLEFT standalone EXTREME tight macro of one actual visible fabric flower petal and flowercentre stitch details, not full card/assortment, no invented reverse; BOTTOMMIDDLE wholeassortment cream background with accurate heading \"PASTEL HAIR ACCESSORY SETS\" only; BOTTOMRIGHT blankcream. All full views safely inside eachcell, actual exact assortment count. Website-ready photoreal quality.",
+      "sha256": "99d7451bb8e99237ee88c9735ce96cc260adb1175ae57b9f2c4ffef7f40a2da4",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-46804e78-7cee-4332-8cc8-581a64af857e.png",
+      "grid_sha256": "3319364df68ea6487722ae8cdd21a58d0bcef8755f115bcc43ad2f72d9d07962",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Rejected material colour-distribution mismatch in full assortment."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "01_White-Background.png": 1,
+    "02_Styled-Background.png": 1,
+    "03_Lifestyle.png": 1,
+    "05_Promotional.png": 1
+  }
+}

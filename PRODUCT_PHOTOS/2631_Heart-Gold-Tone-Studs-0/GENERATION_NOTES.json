@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0403.jpg": "800b28f55147972cc2e34c78f0ceea484fa3270f8a5c67164a870f5b2ec06be8"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-2e88bfa6-ad1e-4699-a4de-f6f7fd27c673.png",
+      "source_output": "/workspace/generated_images/exec-2e88bfa6-ad1e-4699-a4de-f6f7fd27c673.png",
+      "sha256": "84bed03a1f3a41bbe33b43a0c4541527a0745e3a00951893019c343f726d4a8d",
+      "prompt": "Faithful native original-referenced edit into ONE LANDSCAPE1536x1024 grid EXACT3equalcolumns by2equalrows, six512squarecells, NOgutters/borders/panellabels. Keep each full view inside its owncell with margin. Readingorder01topLEFT full originalproduct purewhite;02topMIDDLE samefullproduct lavendercreamstudio;03topRIGHT samefullproduct oncreamvanity/lavenderroom;04bottomLEFT standaloneTIGHTrealpartmacro only;05bottomMIDDLE samefullproduct accurateheading;06bottomRIGHT blankcreamunused. Original is ONE white earring displaycard in clear hangpacket, containing EXACT24 individual gold-tone studs=12pairs; maintain the original staggered rows/columns, SAME24stud positions and heart silhouettes, no added/deletedstuds, no charms/necklaces. Preserve printed STAINLESS STEEL card text and clearpacket header/hole. Remove hand/shopbackground and externalprice/warrantyoverlay only. No extra products. Actual studs are small flat gold-tone hearts with open inner heart/scroll cutouts, retain exact thicker heart silhouettes and inner cutout designs visible in source.04macro ONLY real visible one heart stud and its cutout/metal edge, not wholecard.05heading GOLD-TONE HEART STUD EARRING SET.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-2e88bfa6-ad1e-4699-a4de-f6f7fd27c673.png",
+      "prompt": "Faithful native original-referenced edit into ONE LANDSCAPE1536x1024 grid EXACT3equalcolumns by2equalrows, six512squarecells, NOgutters/borders/panellabels. Keep each full view inside its owncell with margin. Readingorder01topLEFT full originalproduct purewhite;02topMIDDLE samefullproduct lavendercreamstudio;03topRIGHT samefullproduct oncreamvanity/lavenderroom;04bottomLEFT standaloneTIGHTrealpartmacro only;05bottomMIDDLE samefullproduct accurateheading;06bottomRIGHT blankcreamunused. Original is ONE white earring displaycard in clear hangpacket, containing EXACT24 individual gold-tone studs=12pairs; maintain the original staggered rows/columns, SAME24stud positions and heart silhouettes, no added/deletedstuds, no charms/necklaces. Preserve printed STAINLESS STEEL card text and clearpacket header/hole. Remove hand/shopbackground and externalprice/warrantyoverlay only. No extra products. Actual studs are small flat gold-tone hearts with open inner heart/scroll cutouts, retain exact thicker heart silhouettes and inner cutout designs visible in source.04macro ONLY real visible one heart stud and its cutout/metal edge, not wholecard.05heading GOLD-TONE HEART STUD EARRING SET.",
+      "sha256": "7cfc81ceaffd0afffc08d536dc234726f30711ab1b5edc2eb6d43975feab3acb",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2e88bfa6-ad1e-4699-a4de-f6f7fd27c673.png",
+      "grid_sha256": "84bed03a1f3a41bbe33b43a0c4541527a0745e3a00951893019c343f726d4a8d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-2e88bfa6-ad1e-4699-a4de-f6f7fd27c673.png",
+      "prompt": "Faithful native original-referenced edit into ONE LANDSCAPE1536x1024 grid EXACT3equalcolumns by2equalrows, six512squarecells, NOgutters/borders/panellabels. Keep each full view inside its owncell with margin. Readingorder01topLEFT full originalproduct purewhite;02topMIDDLE samefullproduct lavendercreamstudio;03topRIGHT samefullproduct oncreamvanity/lavenderroom;04bottomLEFT standaloneTIGHTrealpartmacro only;05bottomMIDDLE samefullproduct accurateheading;06bottomRIGHT blankcreamunused. Original is ONE white earring displaycard in clear hangpacket, containing EXACT24 individual gold-tone studs=12pairs; maintain the original staggered rows/columns, SAME24stud positions and heart silhouettes, no added/deletedstuds, no charms/necklaces. Preserve printed STAINLESS STEEL card text and clearpacket header/hole. Remove hand/shopbackground and externalprice/warrantyoverlay only. No extra products. Actual studs are small flat gold-tone hearts with open inner heart/scroll cutouts, retain exact thicker heart silhouettes and inner cutout designs visible in source.04macro ONLY real visible one heart stud and its cutout/metal edge, not wholecard.05heading GOLD-TONE HEART STUD EARRING SET.",
+      "sha256": "02c8f0199da97bee0a6052cd6790e5db45951e43454beb1476ca0c1e4bce4757",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2e88bfa6-ad1e-4699-a4de-f6f7fd27c673.png",
+      "grid_sha256": "84bed03a1f3a41bbe33b43a0c4541527a0745e3a00951893019c343f726d4a8d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-2e88bfa6-ad1e-4699-a4de-f6f7fd27c673.png",
+      "prompt": "Faithful native original-referenced edit into ONE LANDSCAPE1536x1024 grid EXACT3equalcolumns by2equalrows, six512squarecells, NOgutters/borders/panellabels. Keep each full view inside its owncell with margin. Readingorder01topLEFT full originalproduct purewhite;02topMIDDLE samefullproduct lavendercreamstudio;03topRIGHT samefullproduct oncreamvanity/lavenderroom;04bottomLEFT standaloneTIGHTrealpartmacro only;05bottomMIDDLE samefullproduct accurateheading;06bottomRIGHT blankcreamunused. Original is ONE white earring displaycard in clear hangpacket, containing EXACT24 individual gold-tone studs=12pairs; maintain the original staggered rows/columns, SAME24stud positions and heart silhouettes, no added/deletedstuds, no charms/necklaces. Preserve printed STAINLESS STEEL card text and clearpacket header/hole. Remove hand/shopbackground and externalprice/warrantyoverlay only. No extra products. Actual studs are small flat gold-tone hearts with open inner heart/scroll cutouts, retain exact thicker heart silhouettes and inner cutout designs visible in source.04macro ONLY real visible one heart stud and its cutout/metal edge, not wholecard.05heading GOLD-TONE HEART STUD EARRING SET.",
+      "sha256": "c3992612a70245ec9e6dd5bd5a3cc460ce93d6cf35b82c62af2be82e6c5e7192",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2e88bfa6-ad1e-4699-a4de-f6f7fd27c673.png",
+      "grid_sha256": "84bed03a1f3a41bbe33b43a0c4541527a0745e3a00951893019c343f726d4a8d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-2e88bfa6-ad1e-4699-a4de-f6f7fd27c673.png",
+      "prompt": "Faithful native original-referenced edit into ONE LANDSCAPE1536x1024 grid EXACT3equalcolumns by2equalrows, six512squarecells, NOgutters/borders/panellabels. Keep each full view inside its owncell with margin. Readingorder01topLEFT full originalproduct purewhite;02topMIDDLE samefullproduct lavendercreamstudio;03topRIGHT samefullproduct oncreamvanity/lavenderroom;04bottomLEFT standaloneTIGHTrealpartmacro only;05bottomMIDDLE samefullproduct accurateheading;06bottomRIGHT blankcreamunused. Original is ONE white earring displaycard in clear hangpacket, containing EXACT24 individual gold-tone studs=12pairs; maintain the original staggered rows/columns, SAME24stud positions and heart silhouettes, no added/deletedstuds, no charms/necklaces. Preserve printed STAINLESS STEEL card text and clearpacket header/hole. Remove hand/shopbackground and externalprice/warrantyoverlay only. No extra products. Actual studs are small flat gold-tone hearts with open inner heart/scroll cutouts, retain exact thicker heart silhouettes and inner cutout designs visible in source.04macro ONLY real visible one heart stud and its cutout/metal edge, not wholecard.05heading GOLD-TONE HEART STUD EARRING SET.",
+      "sha256": "28c273cd5f67cad8f5c90d2e2cece121aa921214f6daa95d6ab076386e23d381",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2e88bfa6-ad1e-4699-a4de-f6f7fd27c673.png",
+      "grid_sha256": "84bed03a1f3a41bbe33b43a0c4541527a0745e3a00951893019c343f726d4a8d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-2e88bfa6-ad1e-4699-a4de-f6f7fd27c673.png",
+      "prompt": "Faithful native original-referenced edit into ONE LANDSCAPE1536x1024 grid EXACT3equalcolumns by2equalrows, six512squarecells, NOgutters/borders/panellabels. Keep each full view inside its owncell with margin. Readingorder01topLEFT full originalproduct purewhite;02topMIDDLE samefullproduct lavendercreamstudio;03topRIGHT samefullproduct oncreamvanity/lavenderroom;04bottomLEFT standaloneTIGHTrealpartmacro only;05bottomMIDDLE samefullproduct accurateheading;06bottomRIGHT blankcreamunused. Original is ONE white earring displaycard in clear hangpacket, containing EXACT24 individual gold-tone studs=12pairs; maintain the original staggered rows/columns, SAME24stud positions and heart silhouettes, no added/deletedstuds, no charms/necklaces. Preserve printed STAINLESS STEEL card text and clearpacket header/hole. Remove hand/shopbackground and externalprice/warrantyoverlay only. No extra products. Actual studs are small flat gold-tone hearts with open inner heart/scroll cutouts, retain exact thicker heart silhouettes and inner cutout designs visible in source.04macro ONLY real visible one heart stud and its cutout/metal edge, not wholecard.05heading GOLD-TONE HEART STUD EARRING SET.",
+      "sha256": "6eca1bd00e7df2638259c2e53c9eae9efe960956cde17118088328e5cd95bf80",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2e88bfa6-ad1e-4699-a4de-f6f7fd27c673.png",
+      "grid_sha256": "84bed03a1f3a41bbe33b43a0c4541527a0745e3a00951893019c343f726d4a8d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

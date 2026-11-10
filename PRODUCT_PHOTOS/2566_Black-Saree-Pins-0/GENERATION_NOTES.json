@@ -1,0 +1,133 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260930-WA0127.jpg": "b07c80fd1dc5f957606537b3a970dcfbe04b1002873b7b94fed4722e3f67273f"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-a0b232cd-48fa-4b3c-ad57-aee693ae6f2a.png",
+      "source_output": "/workspace/generated_images/exec-a0b232cd-48fa-4b3c-ad57-aee693ae6f2a.png",
+      "sha256": "62ede921e746f6481a8971778fc97ddf56b1a257ebf0e568191e638efdbe65be",
+      "prompt": "Native photo edit based on actual supplied original. Landscape1536x1024 precisely3columns x2rows square512cells, boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full assortment white; top-middle full assortment lavender/cream styled; top-right full assortment on folded cream/lavender sari fabric lifestyle; bottom-left standalone tight macro of actual beads and gold rhinestone-spacer texture, not whole assortment; bottom-middle full assortment promotional with heading Decorative Saree Pins; bottom-right blank cream. Entire photographed assortment ONE product. Remove hand, shop, old price overlay and portrait graphic from packaging, use plain white card. Full views EXACTLY TWELVE decorated gold safety pins in12horizontal rows on ONE long white backing card. Each pin exactlyFOUR round beads separated by small gold/rhinestone spacer rings, gold safety-pin wire loop one end/catchotherend. Preserve source bead type,colours,count. Every pin complete and visible inside full-view cell with margin. Photoreal website-ready. Source12pins: topSIX pins each haveFOUR lustrous WHITE PEARL spheres; bottomSIX pins each haveFOUR matte BLACK rounded beads. Gold wire and rhinestone/gold spacer rings between beads. Exactly6whitepins+6blackpins=12,24whitebeads+24blackbeads=48total. Keep whitehalf/blackhalf order, no chrome/gold bead substitutions. Macro tight actual whitepearl and gold rhinestone spacer.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "Rejected/initial_01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-a0b232cd-48fa-4b3c-ad57-aee693ae6f2a.png",
+      "prompt": "Native photo edit based on actual supplied original. Landscape1536x1024 precisely3columns x2rows square512cells, boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full assortment white; top-middle full assortment lavender/cream styled; top-right full assortment on folded cream/lavender sari fabric lifestyle; bottom-left standalone tight macro of actual beads and gold rhinestone-spacer texture, not whole assortment; bottom-middle full assortment promotional with heading Decorative Saree Pins; bottom-right blank cream. Entire photographed assortment ONE product. Remove hand, shop, old price overlay and portrait graphic from packaging, use plain white card. Full views EXACTLY TWELVE decorated gold safety pins in12horizontal rows on ONE long white backing card. Each pin exactlyFOUR round beads separated by small gold/rhinestone spacer rings, gold safety-pin wire loop one end/catchotherend. Preserve source bead type,colours,count. Every pin complete and visible inside full-view cell with margin. Photoreal website-ready. Source12pins: topSIX pins each haveFOUR lustrous WHITE PEARL spheres; bottomSIX pins each haveFOUR matte BLACK rounded beads. Gold wire and rhinestone/gold spacer rings between beads. Exactly6whitepins+6blackpins=12,24whitebeads+24blackbeads=48total. Keep whitehalf/blackhalf order, no chrome/gold bead substitutions. Macro tight actual whitepearl and gold rhinestone spacer.",
+      "sha256": "040edb229512d5d573d941f70b6472afac2fe424d0c2fe2c660c659b2c355462",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a0b232cd-48fa-4b3c-ad57-aee693ae6f2a.png",
+      "grid_sha256": "62ede921e746f6481a8971778fc97ddf56b1a257ebf0e568191e638efdbe65be",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Rejected fullview: six whitepins show3pearls each instead of original4; blackpins correct4. Corrective1requested."
+    },
+    {
+      "saved_file": "Rejected/initial_02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-a0b232cd-48fa-4b3c-ad57-aee693ae6f2a.png",
+      "prompt": "Native photo edit based on actual supplied original. Landscape1536x1024 precisely3columns x2rows square512cells, boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full assortment white; top-middle full assortment lavender/cream styled; top-right full assortment on folded cream/lavender sari fabric lifestyle; bottom-left standalone tight macro of actual beads and gold rhinestone-spacer texture, not whole assortment; bottom-middle full assortment promotional with heading Decorative Saree Pins; bottom-right blank cream. Entire photographed assortment ONE product. Remove hand, shop, old price overlay and portrait graphic from packaging, use plain white card. Full views EXACTLY TWELVE decorated gold safety pins in12horizontal rows on ONE long white backing card. Each pin exactlyFOUR round beads separated by small gold/rhinestone spacer rings, gold safety-pin wire loop one end/catchotherend. Preserve source bead type,colours,count. Every pin complete and visible inside full-view cell with margin. Photoreal website-ready. Source12pins: topSIX pins each haveFOUR lustrous WHITE PEARL spheres; bottomSIX pins each haveFOUR matte BLACK rounded beads. Gold wire and rhinestone/gold spacer rings between beads. Exactly6whitepins+6blackpins=12,24whitebeads+24blackbeads=48total. Keep whitehalf/blackhalf order, no chrome/gold bead substitutions. Macro tight actual whitepearl and gold rhinestone spacer.",
+      "sha256": "924560a3877ca319c4c23de3f8e14a46428bce1c6f82241a1c1b8e41f4a400ee",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a0b232cd-48fa-4b3c-ad57-aee693ae6f2a.png",
+      "grid_sha256": "62ede921e746f6481a8971778fc97ddf56b1a257ebf0e568191e638efdbe65be",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Rejected fullview: six whitepins show3pearls each instead of original4; blackpins correct4. Corrective1requested."
+    },
+    {
+      "saved_file": "Rejected/initial_03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-a0b232cd-48fa-4b3c-ad57-aee693ae6f2a.png",
+      "prompt": "Native photo edit based on actual supplied original. Landscape1536x1024 precisely3columns x2rows square512cells, boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full assortment white; top-middle full assortment lavender/cream styled; top-right full assortment on folded cream/lavender sari fabric lifestyle; bottom-left standalone tight macro of actual beads and gold rhinestone-spacer texture, not whole assortment; bottom-middle full assortment promotional with heading Decorative Saree Pins; bottom-right blank cream. Entire photographed assortment ONE product. Remove hand, shop, old price overlay and portrait graphic from packaging, use plain white card. Full views EXACTLY TWELVE decorated gold safety pins in12horizontal rows on ONE long white backing card. Each pin exactlyFOUR round beads separated by small gold/rhinestone spacer rings, gold safety-pin wire loop one end/catchotherend. Preserve source bead type,colours,count. Every pin complete and visible inside full-view cell with margin. Photoreal website-ready. Source12pins: topSIX pins each haveFOUR lustrous WHITE PEARL spheres; bottomSIX pins each haveFOUR matte BLACK rounded beads. Gold wire and rhinestone/gold spacer rings between beads. Exactly6whitepins+6blackpins=12,24whitebeads+24blackbeads=48total. Keep whitehalf/blackhalf order, no chrome/gold bead substitutions. Macro tight actual whitepearl and gold rhinestone spacer.",
+      "sha256": "288dd69ad6907c3696d8698727b7f4a1ef5fc672dc422cf546e66bfe97b7bd51",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a0b232cd-48fa-4b3c-ad57-aee693ae6f2a.png",
+      "grid_sha256": "62ede921e746f6481a8971778fc97ddf56b1a257ebf0e568191e638efdbe65be",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Rejected fullview: six whitepins show3pearls each instead of original4; blackpins correct4. Corrective1requested."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-a0b232cd-48fa-4b3c-ad57-aee693ae6f2a.png",
+      "prompt": "Native photo edit based on actual supplied original. Landscape1536x1024 precisely3columns x2rows square512cells, boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full assortment white; top-middle full assortment lavender/cream styled; top-right full assortment on folded cream/lavender sari fabric lifestyle; bottom-left standalone tight macro of actual beads and gold rhinestone-spacer texture, not whole assortment; bottom-middle full assortment promotional with heading Decorative Saree Pins; bottom-right blank cream. Entire photographed assortment ONE product. Remove hand, shop, old price overlay and portrait graphic from packaging, use plain white card. Full views EXACTLY TWELVE decorated gold safety pins in12horizontal rows on ONE long white backing card. Each pin exactlyFOUR round beads separated by small gold/rhinestone spacer rings, gold safety-pin wire loop one end/catchotherend. Preserve source bead type,colours,count. Every pin complete and visible inside full-view cell with margin. Photoreal website-ready. Source12pins: topSIX pins each haveFOUR lustrous WHITE PEARL spheres; bottomSIX pins each haveFOUR matte BLACK rounded beads. Gold wire and rhinestone/gold spacer rings between beads. Exactly6whitepins+6blackpins=12,24whitebeads+24blackbeads=48total. Keep whitehalf/blackhalf order, no chrome/gold bead substitutions. Macro tight actual whitepearl and gold rhinestone spacer.",
+      "sha256": "c91e50efffd9c63736cff0bd2f693d57643166491e1afca71421666f5c3554ff",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a0b232cd-48fa-4b3c-ad57-aee693ae6f2a.png",
+      "grid_sha256": "62ede921e746f6481a8971778fc97ddf56b1a257ebf0e568191e638efdbe65be",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual tightcrop of original white pearl and rhinestone gold spacer passes, preserved."
+    },
+    {
+      "saved_file": "Rejected/initial_05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-a0b232cd-48fa-4b3c-ad57-aee693ae6f2a.png",
+      "prompt": "Native photo edit based on actual supplied original. Landscape1536x1024 precisely3columns x2rows square512cells, boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full assortment white; top-middle full assortment lavender/cream styled; top-right full assortment on folded cream/lavender sari fabric lifestyle; bottom-left standalone tight macro of actual beads and gold rhinestone-spacer texture, not whole assortment; bottom-middle full assortment promotional with heading Decorative Saree Pins; bottom-right blank cream. Entire photographed assortment ONE product. Remove hand, shop, old price overlay and portrait graphic from packaging, use plain white card. Full views EXACTLY TWELVE decorated gold safety pins in12horizontal rows on ONE long white backing card. Each pin exactlyFOUR round beads separated by small gold/rhinestone spacer rings, gold safety-pin wire loop one end/catchotherend. Preserve source bead type,colours,count. Every pin complete and visible inside full-view cell with margin. Photoreal website-ready. Source12pins: topSIX pins each haveFOUR lustrous WHITE PEARL spheres; bottomSIX pins each haveFOUR matte BLACK rounded beads. Gold wire and rhinestone/gold spacer rings between beads. Exactly6whitepins+6blackpins=12,24whitebeads+24blackbeads=48total. Keep whitehalf/blackhalf order, no chrome/gold bead substitutions. Macro tight actual whitepearl and gold rhinestone spacer.",
+      "sha256": "bfb0c7f42964fe028e0649eb2371f97e5d2e4d7fae38df518bf350201c25f0fb",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a0b232cd-48fa-4b3c-ad57-aee693ae6f2a.png",
+      "grid_sha256": "62ede921e746f6481a8971778fc97ddf56b1a257ebf0e568191e638efdbe65be",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Rejected fullview: six whitepins show3pearls each instead of original4; blackpins correct4. Corrective1requested."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "01_White-Background": 1,
+    "02_Styled-Background": 1,
+    "03_Lifestyle": 1,
+    "05_Promotional": 1
+  },
+  "review_issue": "Full views need four pearls per white pin; initial only three. One corrective spent/requested."
+}

@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260930-WA0078.jpg": "04aee967249a628170064063a2d54d84394cb3f7092b94ba4b4eea436c5a121b"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-af88a99d-969e-43c7-8c61-19dee05e14c6.png",
+      "source_output": "/workspace/generated_images/exec-af88a99d-969e-43c7-8c61-19dee05e14c6.png",
+      "sha256": "8c2bb6a8a95fd309620d739a4ede09d460ddf472464e2322323168888373f215",
+      "prompt": "Create faithful native edit of supplied actual original into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Subject ONEwholeassortment of EXACTLY12gold-tone saree/abaya safety pins on one longwhitecard, fourlargebeads+smallclear-rhinestoneseparators on eachpin. Keep everypin/actualcolour/shape. Fullviewcells must allshow12pins, arrangeonecard twelvehorizontalpins inonetop-to-bottomcolumn countable; allowelongatedcard butall12visible. Removehand/shop/oldpriceoverlay/outerplasticglare and optionalprintedwomanheader, noaddedproducts. Toprow whitebackground,lavender/creamstyled,naturaltextiledressingtable lifestylewithall12pins. Bottomrow tightstandalone realbead/pinmacro only,promotional wholeassortment heading 'Saree & Abaya Pins',unusedblankcream. Exactboundaries512/1024/512,no gutters/borders. Actualbeads ROUND glossy coloured beads,4eachpin. Exact12pins top-to-bottom colours PURPLE,YELLOW,WHITE,RED,TURQUOISEBLUE,PURPLE,WHITE,RED,TURQUOISEBLUE,PURPLE,WHITE,RED. Totals3purple1yellow3white3red2blue. Do notloseyellowpin. Detail tightpurple4roundbeads/clearspacers/goldwire.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-af88a99d-969e-43c7-8c61-19dee05e14c6.png",
+      "prompt": "Create faithful native edit of supplied actual original into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Subject ONEwholeassortment of EXACTLY12gold-tone saree/abaya safety pins on one longwhitecard, fourlargebeads+smallclear-rhinestoneseparators on eachpin. Keep everypin/actualcolour/shape. Fullviewcells must allshow12pins, arrangeonecard twelvehorizontalpins inonetop-to-bottomcolumn countable; allowelongatedcard butall12visible. Removehand/shop/oldpriceoverlay/outerplasticglare and optionalprintedwomanheader, noaddedproducts. Toprow whitebackground,lavender/creamstyled,naturaltextiledressingtable lifestylewithall12pins. Bottomrow tightstandalone realbead/pinmacro only,promotional wholeassortment heading 'Saree & Abaya Pins',unusedblankcream. Exactboundaries512/1024/512,no gutters/borders. Actualbeads ROUND glossy coloured beads,4eachpin. Exact12pins top-to-bottom colours PURPLE,YELLOW,WHITE,RED,TURQUOISEBLUE,PURPLE,WHITE,RED,TURQUOISEBLUE,PURPLE,WHITE,RED. Totals3purple1yellow3white3red2blue. Do notloseyellowpin. Detail tightpurple4roundbeads/clearspacers/goldwire.\n",
+      "sha256": "44ef0b3bee001105986d71b1a1ad6739623886f1197fae00db73102bee188fb5",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-af88a99d-969e-43c7-8c61-19dee05e14c6.png",
+      "grid_sha256": "8c2bb6a8a95fd309620d739a4ede09d460ddf472464e2322323168888373f215",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-af88a99d-969e-43c7-8c61-19dee05e14c6.png",
+      "prompt": "Create faithful native edit of supplied actual original into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Subject ONEwholeassortment of EXACTLY12gold-tone saree/abaya safety pins on one longwhitecard, fourlargebeads+smallclear-rhinestoneseparators on eachpin. Keep everypin/actualcolour/shape. Fullviewcells must allshow12pins, arrangeonecard twelvehorizontalpins inonetop-to-bottomcolumn countable; allowelongatedcard butall12visible. Removehand/shop/oldpriceoverlay/outerplasticglare and optionalprintedwomanheader, noaddedproducts. Toprow whitebackground,lavender/creamstyled,naturaltextiledressingtable lifestylewithall12pins. Bottomrow tightstandalone realbead/pinmacro only,promotional wholeassortment heading 'Saree & Abaya Pins',unusedblankcream. Exactboundaries512/1024/512,no gutters/borders. Actualbeads ROUND glossy coloured beads,4eachpin. Exact12pins top-to-bottom colours PURPLE,YELLOW,WHITE,RED,TURQUOISEBLUE,PURPLE,WHITE,RED,TURQUOISEBLUE,PURPLE,WHITE,RED. Totals3purple1yellow3white3red2blue. Do notloseyellowpin. Detail tightpurple4roundbeads/clearspacers/goldwire.\n",
+      "sha256": "4eb0c9f26846e27e8b182cc17047899fddfd3853e87e2618598842494c0b2d7f",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-af88a99d-969e-43c7-8c61-19dee05e14c6.png",
+      "grid_sha256": "8c2bb6a8a95fd309620d739a4ede09d460ddf472464e2322323168888373f215",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-af88a99d-969e-43c7-8c61-19dee05e14c6.png",
+      "prompt": "Create faithful native edit of supplied actual original into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Subject ONEwholeassortment of EXACTLY12gold-tone saree/abaya safety pins on one longwhitecard, fourlargebeads+smallclear-rhinestoneseparators on eachpin. Keep everypin/actualcolour/shape. Fullviewcells must allshow12pins, arrangeonecard twelvehorizontalpins inonetop-to-bottomcolumn countable; allowelongatedcard butall12visible. Removehand/shop/oldpriceoverlay/outerplasticglare and optionalprintedwomanheader, noaddedproducts. Toprow whitebackground,lavender/creamstyled,naturaltextiledressingtable lifestylewithall12pins. Bottomrow tightstandalone realbead/pinmacro only,promotional wholeassortment heading 'Saree & Abaya Pins',unusedblankcream. Exactboundaries512/1024/512,no gutters/borders. Actualbeads ROUND glossy coloured beads,4eachpin. Exact12pins top-to-bottom colours PURPLE,YELLOW,WHITE,RED,TURQUOISEBLUE,PURPLE,WHITE,RED,TURQUOISEBLUE,PURPLE,WHITE,RED. Totals3purple1yellow3white3red2blue. Do notloseyellowpin. Detail tightpurple4roundbeads/clearspacers/goldwire.\n",
+      "sha256": "94bb21802cf7564e4a71edf4d6cb5deaea4d74013efaacd7800f53b383e38fd2",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-af88a99d-969e-43c7-8c61-19dee05e14c6.png",
+      "grid_sha256": "8c2bb6a8a95fd309620d739a4ede09d460ddf472464e2322323168888373f215",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-af88a99d-969e-43c7-8c61-19dee05e14c6.png",
+      "prompt": "Create faithful native edit of supplied actual original into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Subject ONEwholeassortment of EXACTLY12gold-tone saree/abaya safety pins on one longwhitecard, fourlargebeads+smallclear-rhinestoneseparators on eachpin. Keep everypin/actualcolour/shape. Fullviewcells must allshow12pins, arrangeonecard twelvehorizontalpins inonetop-to-bottomcolumn countable; allowelongatedcard butall12visible. Removehand/shop/oldpriceoverlay/outerplasticglare and optionalprintedwomanheader, noaddedproducts. Toprow whitebackground,lavender/creamstyled,naturaltextiledressingtable lifestylewithall12pins. Bottomrow tightstandalone realbead/pinmacro only,promotional wholeassortment heading 'Saree & Abaya Pins',unusedblankcream. Exactboundaries512/1024/512,no gutters/borders. Actualbeads ROUND glossy coloured beads,4eachpin. Exact12pins top-to-bottom colours PURPLE,YELLOW,WHITE,RED,TURQUOISEBLUE,PURPLE,WHITE,RED,TURQUOISEBLUE,PURPLE,WHITE,RED. Totals3purple1yellow3white3red2blue. Do notloseyellowpin. Detail tightpurple4roundbeads/clearspacers/goldwire.\n",
+      "sha256": "d5558ac6ed6e5abb3ec02f559c85249820f3018781e6cf3989ceb6d0502a159f",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-af88a99d-969e-43c7-8c61-19dee05e14c6.png",
+      "grid_sha256": "8c2bb6a8a95fd309620d739a4ede09d460ddf472464e2322323168888373f215",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-af88a99d-969e-43c7-8c61-19dee05e14c6.png",
+      "prompt": "Create faithful native edit of supplied actual original into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Subject ONEwholeassortment of EXACTLY12gold-tone saree/abaya safety pins on one longwhitecard, fourlargebeads+smallclear-rhinestoneseparators on eachpin. Keep everypin/actualcolour/shape. Fullviewcells must allshow12pins, arrangeonecard twelvehorizontalpins inonetop-to-bottomcolumn countable; allowelongatedcard butall12visible. Removehand/shop/oldpriceoverlay/outerplasticglare and optionalprintedwomanheader, noaddedproducts. Toprow whitebackground,lavender/creamstyled,naturaltextiledressingtable lifestylewithall12pins. Bottomrow tightstandalone realbead/pinmacro only,promotional wholeassortment heading 'Saree & Abaya Pins',unusedblankcream. Exactboundaries512/1024/512,no gutters/borders. Actualbeads ROUND glossy coloured beads,4eachpin. Exact12pins top-to-bottom colours PURPLE,YELLOW,WHITE,RED,TURQUOISEBLUE,PURPLE,WHITE,RED,TURQUOISEBLUE,PURPLE,WHITE,RED. Totals3purple1yellow3white3red2blue. Do notloseyellowpin. Detail tightpurple4roundbeads/clearspacers/goldwire.\n",
+      "sha256": "ca375a6db293f38e51c2b58bfe6cfa7e317e0d467eb4cfe456c74a7c7edf34af",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-af88a99d-969e-43c7-8c61-19dee05e14c6.png",
+      "grid_sha256": "8c2bb6a8a95fd309620d739a4ede09d460ddf472464e2322323168888373f215",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

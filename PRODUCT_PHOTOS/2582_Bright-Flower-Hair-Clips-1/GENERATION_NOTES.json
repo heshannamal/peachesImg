@@ -1,0 +1,126 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0191.jpg": "228a9334f004abefaa037ff8a0f89f1f6a6425c015403067730a7cc2b2b47f25"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-6fe23fa9-c33e-47cf-9b58-d1a16fb0d465.png",
+      "source_output": "/workspace/generated_images/exec-6fe23fa9-c33e-47cf-9b58-d1a16fb0d465.png",
+      "sha256": "9d3e713ba83ca82c2f1ce8a861a50b3ccee5fb94d5c6be06fbc3fcb130ad8273",
+      "prompt": "Edit the supplied actual original into ONE1536x1024 clean website-ready borderless3columns2rows equal512squarecells. Native faithful product edit, preserve assortment/count/shapes/colours; removeoldprice/text/hand/shop clutter. Toprow white studio, lavender/cream styled, naturaldesk lifestyle showing wholeassortment. Bottomrow tightrealpart macroonly, promotional with accurateheading, unusedblankcream. Exactboundaries x512,1024,y512,no gutters/borders. Subject EXACTLY TWELVE large fabric chrysanthemum/dahlia FLOWER HAIRCLIPS on TWO white longcards, SIX on each card. Arrange eachcard verticalsixflowers in original sequence top-to-bottom PINK,PURPLE,PALEYELLOW,PINK,PURPLE,PINK. Totals6pink,4purple,2yellow. Eachflower has pointed layered fabricpetals and subtle yellow/orange centre. Fullviewcells show TWO cards together all12flowers countable, no extras,no altered flowerstyle. Macro tightpink petals/yellowcentre from originalflower. Heading 'Flower Hair Clips'.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-6fe23fa9-c33e-47cf-9b58-d1a16fb0d465.png",
+      "prompt": "Edit the supplied actual original into ONE1536x1024 clean website-ready borderless3columns2rows equal512squarecells. Native faithful product edit, preserve assortment/count/shapes/colours; removeoldprice/text/hand/shop clutter. Toprow white studio, lavender/cream styled, naturaldesk lifestyle showing wholeassortment. Bottomrow tightrealpart macroonly, promotional with accurateheading, unusedblankcream. Exactboundaries x512,1024,y512,no gutters/borders. Subject EXACTLY TWELVE large fabric chrysanthemum/dahlia FLOWER HAIRCLIPS on TWO white longcards, SIX on each card. Arrange eachcard verticalsixflowers in original sequence top-to-bottom PINK,PURPLE,PALEYELLOW,PINK,PURPLE,PINK. Totals6pink,4purple,2yellow. Eachflower has pointed layered fabricpetals and subtle yellow/orange centre. Fullviewcells show TWO cards together all12flowers countable, no extras,no altered flowerstyle. Macro tightpink petals/yellowcentre from originalflower. Heading 'Flower Hair Clips'.\n",
+      "sha256": "105887a790e5e09d37f0eccd7e1383643199c67ed6a521d13f94f983362efebc",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6fe23fa9-c33e-47cf-9b58-d1a16fb0d465.png",
+      "grid_sha256": "9d3e713ba83ca82c2f1ce8a861a50b3ccee5fb94d5c6be06fbc3fcb130ad8273",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Pass: fourfullviews retain exactly12fabricflowers on2cards6each,percardpink-purple-yellow-pink-purple-pink; layeredpointedpetals/yellowcentres. Detail tightactualpinkfabric/centre. Headingaccurate,clean512cellcrops;frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-6fe23fa9-c33e-47cf-9b58-d1a16fb0d465.png",
+      "prompt": "Edit the supplied actual original into ONE1536x1024 clean website-ready borderless3columns2rows equal512squarecells. Native faithful product edit, preserve assortment/count/shapes/colours; removeoldprice/text/hand/shop clutter. Toprow white studio, lavender/cream styled, naturaldesk lifestyle showing wholeassortment. Bottomrow tightrealpart macroonly, promotional with accurateheading, unusedblankcream. Exactboundaries x512,1024,y512,no gutters/borders. Subject EXACTLY TWELVE large fabric chrysanthemum/dahlia FLOWER HAIRCLIPS on TWO white longcards, SIX on each card. Arrange eachcard verticalsixflowers in original sequence top-to-bottom PINK,PURPLE,PALEYELLOW,PINK,PURPLE,PINK. Totals6pink,4purple,2yellow. Eachflower has pointed layered fabricpetals and subtle yellow/orange centre. Fullviewcells show TWO cards together all12flowers countable, no extras,no altered flowerstyle. Macro tightpink petals/yellowcentre from originalflower. Heading 'Flower Hair Clips'.\n",
+      "sha256": "ee2b1f14359a5cd9edaa0e0620409239cee69c8cdd58d4eb0a078b8a6cc68c7d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6fe23fa9-c33e-47cf-9b58-d1a16fb0d465.png",
+      "grid_sha256": "9d3e713ba83ca82c2f1ce8a861a50b3ccee5fb94d5c6be06fbc3fcb130ad8273",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Pass: fourfullviews retain exactly12fabricflowers on2cards6each,percardpink-purple-yellow-pink-purple-pink; layeredpointedpetals/yellowcentres. Detail tightactualpinkfabric/centre. Headingaccurate,clean512cellcrops;frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-6fe23fa9-c33e-47cf-9b58-d1a16fb0d465.png",
+      "prompt": "Edit the supplied actual original into ONE1536x1024 clean website-ready borderless3columns2rows equal512squarecells. Native faithful product edit, preserve assortment/count/shapes/colours; removeoldprice/text/hand/shop clutter. Toprow white studio, lavender/cream styled, naturaldesk lifestyle showing wholeassortment. Bottomrow tightrealpart macroonly, promotional with accurateheading, unusedblankcream. Exactboundaries x512,1024,y512,no gutters/borders. Subject EXACTLY TWELVE large fabric chrysanthemum/dahlia FLOWER HAIRCLIPS on TWO white longcards, SIX on each card. Arrange eachcard verticalsixflowers in original sequence top-to-bottom PINK,PURPLE,PALEYELLOW,PINK,PURPLE,PINK. Totals6pink,4purple,2yellow. Eachflower has pointed layered fabricpetals and subtle yellow/orange centre. Fullviewcells show TWO cards together all12flowers countable, no extras,no altered flowerstyle. Macro tightpink petals/yellowcentre from originalflower. Heading 'Flower Hair Clips'.\n",
+      "sha256": "b08db1e364425ce75b9b77dbc21141735f9135ce4f54e94b770420f910dfdb07",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6fe23fa9-c33e-47cf-9b58-d1a16fb0d465.png",
+      "grid_sha256": "9d3e713ba83ca82c2f1ce8a861a50b3ccee5fb94d5c6be06fbc3fcb130ad8273",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Pass: fourfullviews retain exactly12fabricflowers on2cards6each,percardpink-purple-yellow-pink-purple-pink; layeredpointedpetals/yellowcentres. Detail tightactualpinkfabric/centre. Headingaccurate,clean512cellcrops;frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-6fe23fa9-c33e-47cf-9b58-d1a16fb0d465.png",
+      "prompt": "Edit the supplied actual original into ONE1536x1024 clean website-ready borderless3columns2rows equal512squarecells. Native faithful product edit, preserve assortment/count/shapes/colours; removeoldprice/text/hand/shop clutter. Toprow white studio, lavender/cream styled, naturaldesk lifestyle showing wholeassortment. Bottomrow tightrealpart macroonly, promotional with accurateheading, unusedblankcream. Exactboundaries x512,1024,y512,no gutters/borders. Subject EXACTLY TWELVE large fabric chrysanthemum/dahlia FLOWER HAIRCLIPS on TWO white longcards, SIX on each card. Arrange eachcard verticalsixflowers in original sequence top-to-bottom PINK,PURPLE,PALEYELLOW,PINK,PURPLE,PINK. Totals6pink,4purple,2yellow. Eachflower has pointed layered fabricpetals and subtle yellow/orange centre. Fullviewcells show TWO cards together all12flowers countable, no extras,no altered flowerstyle. Macro tightpink petals/yellowcentre from originalflower. Heading 'Flower Hair Clips'.\n",
+      "sha256": "9eae23d2b8847797765d7969362790d9a5a426644c2d254044aba97d5afc55f0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6fe23fa9-c33e-47cf-9b58-d1a16fb0d465.png",
+      "grid_sha256": "9d3e713ba83ca82c2f1ce8a861a50b3ccee5fb94d5c6be06fbc3fcb130ad8273",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Pass: fourfullviews retain exactly12fabricflowers on2cards6each,percardpink-purple-yellow-pink-purple-pink; layeredpointedpetals/yellowcentres. Detail tightactualpinkfabric/centre. Headingaccurate,clean512cellcrops;frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-6fe23fa9-c33e-47cf-9b58-d1a16fb0d465.png",
+      "prompt": "Edit the supplied actual original into ONE1536x1024 clean website-ready borderless3columns2rows equal512squarecells. Native faithful product edit, preserve assortment/count/shapes/colours; removeoldprice/text/hand/shop clutter. Toprow white studio, lavender/cream styled, naturaldesk lifestyle showing wholeassortment. Bottomrow tightrealpart macroonly, promotional with accurateheading, unusedblankcream. Exactboundaries x512,1024,y512,no gutters/borders. Subject EXACTLY TWELVE large fabric chrysanthemum/dahlia FLOWER HAIRCLIPS on TWO white longcards, SIX on each card. Arrange eachcard verticalsixflowers in original sequence top-to-bottom PINK,PURPLE,PALEYELLOW,PINK,PURPLE,PINK. Totals6pink,4purple,2yellow. Eachflower has pointed layered fabricpetals and subtle yellow/orange centre. Fullviewcells show TWO cards together all12flowers countable, no extras,no altered flowerstyle. Macro tightpink petals/yellowcentre from originalflower. Heading 'Flower Hair Clips'.\n",
+      "sha256": "48447d78084dc8b8e4934c5c13503a729bfc75b46250a1bc9f1f3b6f858d1ed2",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6fe23fa9-c33e-47cf-9b58-d1a16fb0d465.png",
+      "grid_sha256": "9d3e713ba83ca82c2f1ce8a861a50b3ccee5fb94d5c6be06fbc3fcb130ad8273",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Pass: fourfullviews retain exactly12fabricflowers on2cards6each,percardpink-purple-yellow-pink-purple-pink; layeredpointedpetals/yellowcentres. Detail tightactualpinkfabric/centre. Headingaccurate,clean512cellcrops;frozenoriginal/outputSHAverified."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

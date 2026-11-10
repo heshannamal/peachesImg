@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260930-WA0148.jpg": "ea69a1bd53dd30eb53da7d9aadd82b81bc6c5118425f55c8ae54918e1e1e495a"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-4794ddc5-634a-42ac-89f6-642fbc45c43e.png",
+      "source_output": "/workspace/generated_images/exec-4794ddc5-634a-42ac-89f6-642fbc45c43e.png",
+      "sha256": "3deb29f8b38369c8c73d334a87f6d467cbeec80e3b80e4246558cca4c514ab45",
+      "prompt": "Native photo edit based on actual supplied original. Create landscape1536x1024 precise3columns x2rows square512cells, boundaries x512/x1024/y512, no gutters, borders, panel labels. Top-left full assortment white; top-middle full assortment lavender/cream styled; top-right full assortment on folded cream/lavender sari fabric lifestyle; bottom-left standalone tight macro of actual decorated pin beads and gold spacer texture, not whole assortment; bottom-middle full assortment promotional with heading Decorative Saree Pins; bottom-right blank cream. Entire photographed assortment ONE product. Remove hand, shop, old price overlay and portrait graphic from packaging, use plain white card. Preserve twelve safety pins, original pin metal shape, bead shapes and colours. Full views show EXACTLY TWELVE separate decorated gold safety pins arranged as12horizontal rows on ONE plain white backing card, every pin visible and complete inside own cell. Each pin exactlyTHREE beads with tiny gold/rhinestone spacers, roundwire safety-pinloop on one end and catchend on other. Photoreal website-ready. Beads are rounded irregular cube/barrel-like pearlescent iridescent glass beads, NOT hearts, not simple spherical pearls. Preserve source36beads across12pins: pink/red pearlized rows, dark smoky iridescent grey rows, pale champagne/white rows, emerald green rows, and multicolour pearlized rows as photographed. Original mix mostly white/cream/green with top pink and charcoal. No plain silver pins or heart shapes. Macro on actual white/green pearlescent cube bead plus gold spacer.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-4794ddc5-634a-42ac-89f6-642fbc45c43e.png",
+      "prompt": "Native photo edit based on actual supplied original. Create landscape1536x1024 precise3columns x2rows square512cells, boundaries x512/x1024/y512, no gutters, borders, panel labels. Top-left full assortment white; top-middle full assortment lavender/cream styled; top-right full assortment on folded cream/lavender sari fabric lifestyle; bottom-left standalone tight macro of actual decorated pin beads and gold spacer texture, not whole assortment; bottom-middle full assortment promotional with heading Decorative Saree Pins; bottom-right blank cream. Entire photographed assortment ONE product. Remove hand, shop, old price overlay and portrait graphic from packaging, use plain white card. Preserve twelve safety pins, original pin metal shape, bead shapes and colours. Full views show EXACTLY TWELVE separate decorated gold safety pins arranged as12horizontal rows on ONE plain white backing card, every pin visible and complete inside own cell. Each pin exactlyTHREE beads with tiny gold/rhinestone spacers, roundwire safety-pinloop on one end and catchend on other. Photoreal website-ready. Beads are rounded irregular cube/barrel-like pearlescent iridescent glass beads, NOT hearts, not simple spherical pearls. Preserve source36beads across12pins: pink/red pearlized rows, dark smoky iridescent grey rows, pale champagne/white rows, emerald green rows, and multicolour pearlized rows as photographed. Original mix mostly white/cream/green with top pink and charcoal. No plain silver pins or heart shapes. Macro on actual white/green pearlescent cube bead plus gold spacer.",
+      "sha256": "f23d4438d6b2c24582d6466682801048c3c2da2e96fd795b7605d4acea03e06a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4794ddc5-634a-42ac-89f6-642fbc45c43e.png",
+      "grid_sha256": "3deb29f8b38369c8c73d334a87f6d467cbeec80e3b80e4246558cca4c514ab45",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual crop visually checked vs source:12golddecoratedsafetypins in12rows,3roundedcube/barrel iridescent beads each. Pink/red2rows,grey2,champagne2,green2,white2,mixed2 retained. Real close bead/spacer detail. White/lavender/fabriclifestyle/promo styles pass, heading accurate, clean boundaries. Website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-4794ddc5-634a-42ac-89f6-642fbc45c43e.png",
+      "prompt": "Native photo edit based on actual supplied original. Create landscape1536x1024 precise3columns x2rows square512cells, boundaries x512/x1024/y512, no gutters, borders, panel labels. Top-left full assortment white; top-middle full assortment lavender/cream styled; top-right full assortment on folded cream/lavender sari fabric lifestyle; bottom-left standalone tight macro of actual decorated pin beads and gold spacer texture, not whole assortment; bottom-middle full assortment promotional with heading Decorative Saree Pins; bottom-right blank cream. Entire photographed assortment ONE product. Remove hand, shop, old price overlay and portrait graphic from packaging, use plain white card. Preserve twelve safety pins, original pin metal shape, bead shapes and colours. Full views show EXACTLY TWELVE separate decorated gold safety pins arranged as12horizontal rows on ONE plain white backing card, every pin visible and complete inside own cell. Each pin exactlyTHREE beads with tiny gold/rhinestone spacers, roundwire safety-pinloop on one end and catchend on other. Photoreal website-ready. Beads are rounded irregular cube/barrel-like pearlescent iridescent glass beads, NOT hearts, not simple spherical pearls. Preserve source36beads across12pins: pink/red pearlized rows, dark smoky iridescent grey rows, pale champagne/white rows, emerald green rows, and multicolour pearlized rows as photographed. Original mix mostly white/cream/green with top pink and charcoal. No plain silver pins or heart shapes. Macro on actual white/green pearlescent cube bead plus gold spacer.",
+      "sha256": "8965bfaadc6935fe6c8be8764563a856e5b85211a5b435fa8c758c40d7a952ae",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4794ddc5-634a-42ac-89f6-642fbc45c43e.png",
+      "grid_sha256": "3deb29f8b38369c8c73d334a87f6d467cbeec80e3b80e4246558cca4c514ab45",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual crop visually checked vs source:12golddecoratedsafetypins in12rows,3roundedcube/barrel iridescent beads each. Pink/red2rows,grey2,champagne2,green2,white2,mixed2 retained. Real close bead/spacer detail. White/lavender/fabriclifestyle/promo styles pass, heading accurate, clean boundaries. Website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-4794ddc5-634a-42ac-89f6-642fbc45c43e.png",
+      "prompt": "Native photo edit based on actual supplied original. Create landscape1536x1024 precise3columns x2rows square512cells, boundaries x512/x1024/y512, no gutters, borders, panel labels. Top-left full assortment white; top-middle full assortment lavender/cream styled; top-right full assortment on folded cream/lavender sari fabric lifestyle; bottom-left standalone tight macro of actual decorated pin beads and gold spacer texture, not whole assortment; bottom-middle full assortment promotional with heading Decorative Saree Pins; bottom-right blank cream. Entire photographed assortment ONE product. Remove hand, shop, old price overlay and portrait graphic from packaging, use plain white card. Preserve twelve safety pins, original pin metal shape, bead shapes and colours. Full views show EXACTLY TWELVE separate decorated gold safety pins arranged as12horizontal rows on ONE plain white backing card, every pin visible and complete inside own cell. Each pin exactlyTHREE beads with tiny gold/rhinestone spacers, roundwire safety-pinloop on one end and catchend on other. Photoreal website-ready. Beads are rounded irregular cube/barrel-like pearlescent iridescent glass beads, NOT hearts, not simple spherical pearls. Preserve source36beads across12pins: pink/red pearlized rows, dark smoky iridescent grey rows, pale champagne/white rows, emerald green rows, and multicolour pearlized rows as photographed. Original mix mostly white/cream/green with top pink and charcoal. No plain silver pins or heart shapes. Macro on actual white/green pearlescent cube bead plus gold spacer.",
+      "sha256": "411dfbcc57d3ae1453579becad1a1742c38e05b7777f1f25932a40b2cad85940",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4794ddc5-634a-42ac-89f6-642fbc45c43e.png",
+      "grid_sha256": "3deb29f8b38369c8c73d334a87f6d467cbeec80e3b80e4246558cca4c514ab45",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual crop visually checked vs source:12golddecoratedsafetypins in12rows,3roundedcube/barrel iridescent beads each. Pink/red2rows,grey2,champagne2,green2,white2,mixed2 retained. Real close bead/spacer detail. White/lavender/fabriclifestyle/promo styles pass, heading accurate, clean boundaries. Website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-4794ddc5-634a-42ac-89f6-642fbc45c43e.png",
+      "prompt": "Native photo edit based on actual supplied original. Create landscape1536x1024 precise3columns x2rows square512cells, boundaries x512/x1024/y512, no gutters, borders, panel labels. Top-left full assortment white; top-middle full assortment lavender/cream styled; top-right full assortment on folded cream/lavender sari fabric lifestyle; bottom-left standalone tight macro of actual decorated pin beads and gold spacer texture, not whole assortment; bottom-middle full assortment promotional with heading Decorative Saree Pins; bottom-right blank cream. Entire photographed assortment ONE product. Remove hand, shop, old price overlay and portrait graphic from packaging, use plain white card. Preserve twelve safety pins, original pin metal shape, bead shapes and colours. Full views show EXACTLY TWELVE separate decorated gold safety pins arranged as12horizontal rows on ONE plain white backing card, every pin visible and complete inside own cell. Each pin exactlyTHREE beads with tiny gold/rhinestone spacers, roundwire safety-pinloop on one end and catchend on other. Photoreal website-ready. Beads are rounded irregular cube/barrel-like pearlescent iridescent glass beads, NOT hearts, not simple spherical pearls. Preserve source36beads across12pins: pink/red pearlized rows, dark smoky iridescent grey rows, pale champagne/white rows, emerald green rows, and multicolour pearlized rows as photographed. Original mix mostly white/cream/green with top pink and charcoal. No plain silver pins or heart shapes. Macro on actual white/green pearlescent cube bead plus gold spacer.",
+      "sha256": "1ce727736281f6ff1df7ae69af17e2ff97d1a44fc17f66b8872a116c05d6a3eb",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4794ddc5-634a-42ac-89f6-642fbc45c43e.png",
+      "grid_sha256": "3deb29f8b38369c8c73d334a87f6d467cbeec80e3b80e4246558cca4c514ab45",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual crop visually checked vs source:12golddecoratedsafetypins in12rows,3roundedcube/barrel iridescent beads each. Pink/red2rows,grey2,champagne2,green2,white2,mixed2 retained. Real close bead/spacer detail. White/lavender/fabriclifestyle/promo styles pass, heading accurate, clean boundaries. Website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-4794ddc5-634a-42ac-89f6-642fbc45c43e.png",
+      "prompt": "Native photo edit based on actual supplied original. Create landscape1536x1024 precise3columns x2rows square512cells, boundaries x512/x1024/y512, no gutters, borders, panel labels. Top-left full assortment white; top-middle full assortment lavender/cream styled; top-right full assortment on folded cream/lavender sari fabric lifestyle; bottom-left standalone tight macro of actual decorated pin beads and gold spacer texture, not whole assortment; bottom-middle full assortment promotional with heading Decorative Saree Pins; bottom-right blank cream. Entire photographed assortment ONE product. Remove hand, shop, old price overlay and portrait graphic from packaging, use plain white card. Preserve twelve safety pins, original pin metal shape, bead shapes and colours. Full views show EXACTLY TWELVE separate decorated gold safety pins arranged as12horizontal rows on ONE plain white backing card, every pin visible and complete inside own cell. Each pin exactlyTHREE beads with tiny gold/rhinestone spacers, roundwire safety-pinloop on one end and catchend on other. Photoreal website-ready. Beads are rounded irregular cube/barrel-like pearlescent iridescent glass beads, NOT hearts, not simple spherical pearls. Preserve source36beads across12pins: pink/red pearlized rows, dark smoky iridescent grey rows, pale champagne/white rows, emerald green rows, and multicolour pearlized rows as photographed. Original mix mostly white/cream/green with top pink and charcoal. No plain silver pins or heart shapes. Macro on actual white/green pearlescent cube bead plus gold spacer.",
+      "sha256": "c3f7fe6482a78af74ca6664b86eb6a608794c632bf91dbe40377f026d4936bf6",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4794ddc5-634a-42ac-89f6-642fbc45c43e.png",
+      "grid_sha256": "3deb29f8b38369c8c73d334a87f6d467cbeec80e3b80e4246558cca4c514ab45",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual crop visually checked vs source:12golddecoratedsafetypins in12rows,3roundedcube/barrel iridescent beads each. Pink/red2rows,grey2,champagne2,green2,white2,mixed2 retained. Real close bead/spacer detail. White/lavender/fabriclifestyle/promo styles pass, heading accurate, clean boundaries. Website-ready."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Twelve gold saree/abaya safety pins with three pearlescent rounded-cube beads and gold rhinestone spacers each",
+  "original_baseline_verified": true
+}

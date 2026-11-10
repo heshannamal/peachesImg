@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260930-WA0146.jpg": "fdd2c7ea976915c93508a6568775e43d94e6c9613f264d38ab5608b509e2f390"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-ba09dd29-c502-4fbc-b58b-1d28bc6fc6c0.png",
+      "source_output": "/workspace/generated_images/exec-ba09dd29-c502-4fbc-b58b-1d28bc6fc6c0.png",
+      "sha256": "5d58d99abdc0370e4b5deb7c558a2eb23126ff5681462c04d1484349c9f60304",
+      "prompt": "Native photo edit based on actual supplied original. Create landscape1536x1024 precise3columns x2rows square512cells, boundaries x512/x1024/y512, no gutters, borders, panel labels. Top-left full assortment white; top-middle full assortment lavender/cream styled; top-right full assortment on folded cream/lavender sari fabric lifestyle; bottom-left standalone tight macro of actual decorated pin beads and gold spacer texture, not whole assortment; bottom-middle full assortment promotional with heading Decorative Saree Pins; bottom-right blank cream. Entire photographed assortment ONE product. Remove hand, shop, old price overlay and portrait graphic from packaging, use plain white card. Preserve twelve safety pins, original pin metal shape, bead shapes and colours. Full views show EXACTLY TWELVE separate decorated gold safety pins arranged as12horizontal rows on ONE plain white backing card, every pin visible and complete inside own cell. Each pin exactlyTHREE beads with tiny gold/rhinestone spacers, roundwire safety-pinloop on one end and catchend on other. Photoreal website-ready. Beads are distinctly puffed HEART-SHAPED marbled resin/stone-look beads, exactlyTHREE hearts on each pin. Source colour palette emerald green, sky blue, orange/peach, burgundy, cream and onewhite/grey marbled heart. Preserve source mixed three-heart colour combinations rather than making every pin same colour. Twelve pins36hearts total. Do not substitute round beads or flowers. Macro tight real marbled green heart, gold spacer and gold pin wire.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-ba09dd29-c502-4fbc-b58b-1d28bc6fc6c0.png",
+      "prompt": "Native photo edit based on actual supplied original. Create landscape1536x1024 precise3columns x2rows square512cells, boundaries x512/x1024/y512, no gutters, borders, panel labels. Top-left full assortment white; top-middle full assortment lavender/cream styled; top-right full assortment on folded cream/lavender sari fabric lifestyle; bottom-left standalone tight macro of actual decorated pin beads and gold spacer texture, not whole assortment; bottom-middle full assortment promotional with heading Decorative Saree Pins; bottom-right blank cream. Entire photographed assortment ONE product. Remove hand, shop, old price overlay and portrait graphic from packaging, use plain white card. Preserve twelve safety pins, original pin metal shape, bead shapes and colours. Full views show EXACTLY TWELVE separate decorated gold safety pins arranged as12horizontal rows on ONE plain white backing card, every pin visible and complete inside own cell. Each pin exactlyTHREE beads with tiny gold/rhinestone spacers, roundwire safety-pinloop on one end and catchend on other. Photoreal website-ready. Beads are distinctly puffed HEART-SHAPED marbled resin/stone-look beads, exactlyTHREE hearts on each pin. Source colour palette emerald green, sky blue, orange/peach, burgundy, cream and onewhite/grey marbled heart. Preserve source mixed three-heart colour combinations rather than making every pin same colour. Twelve pins36hearts total. Do not substitute round beads or flowers. Macro tight real marbled green heart, gold spacer and gold pin wire.",
+      "sha256": "b87bd4169c7983661131e659db380b6669f361e6626d70c66faef5d0242f3321",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ba09dd29-c502-4fbc-b58b-1d28bc6fc6c0.png",
+      "grid_sha256": "5d58d99abdc0370e4b5deb7c558a2eb23126ff5681462c04d1484349c9f60304",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual crop visually checked vs source:12golddecoratedsafetypins,3puffedheartbeads each, original emerald/blue/orange/burgundy/cream/whitegrey palette retained. Row bead combinations rearranged slightly; count36hearts and product shape/material/palette correct, website-ready accepted without cosmetic retry. Tight real greenheart/goldspacer macro. Accurateheading and correctstyles, clean cropboundaries."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-ba09dd29-c502-4fbc-b58b-1d28bc6fc6c0.png",
+      "prompt": "Native photo edit based on actual supplied original. Create landscape1536x1024 precise3columns x2rows square512cells, boundaries x512/x1024/y512, no gutters, borders, panel labels. Top-left full assortment white; top-middle full assortment lavender/cream styled; top-right full assortment on folded cream/lavender sari fabric lifestyle; bottom-left standalone tight macro of actual decorated pin beads and gold spacer texture, not whole assortment; bottom-middle full assortment promotional with heading Decorative Saree Pins; bottom-right blank cream. Entire photographed assortment ONE product. Remove hand, shop, old price overlay and portrait graphic from packaging, use plain white card. Preserve twelve safety pins, original pin metal shape, bead shapes and colours. Full views show EXACTLY TWELVE separate decorated gold safety pins arranged as12horizontal rows on ONE plain white backing card, every pin visible and complete inside own cell. Each pin exactlyTHREE beads with tiny gold/rhinestone spacers, roundwire safety-pinloop on one end and catchend on other. Photoreal website-ready. Beads are distinctly puffed HEART-SHAPED marbled resin/stone-look beads, exactlyTHREE hearts on each pin. Source colour palette emerald green, sky blue, orange/peach, burgundy, cream and onewhite/grey marbled heart. Preserve source mixed three-heart colour combinations rather than making every pin same colour. Twelve pins36hearts total. Do not substitute round beads or flowers. Macro tight real marbled green heart, gold spacer and gold pin wire.",
+      "sha256": "ce38c4e302e8f250afeb169f0140ad7025bc833363d01aa96eef05ad3507f1f8",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ba09dd29-c502-4fbc-b58b-1d28bc6fc6c0.png",
+      "grid_sha256": "5d58d99abdc0370e4b5deb7c558a2eb23126ff5681462c04d1484349c9f60304",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual crop visually checked vs source:12golddecoratedsafetypins,3puffedheartbeads each, original emerald/blue/orange/burgundy/cream/whitegrey palette retained. Row bead combinations rearranged slightly; count36hearts and product shape/material/palette correct, website-ready accepted without cosmetic retry. Tight real greenheart/goldspacer macro. Accurateheading and correctstyles, clean cropboundaries."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-ba09dd29-c502-4fbc-b58b-1d28bc6fc6c0.png",
+      "prompt": "Native photo edit based on actual supplied original. Create landscape1536x1024 precise3columns x2rows square512cells, boundaries x512/x1024/y512, no gutters, borders, panel labels. Top-left full assortment white; top-middle full assortment lavender/cream styled; top-right full assortment on folded cream/lavender sari fabric lifestyle; bottom-left standalone tight macro of actual decorated pin beads and gold spacer texture, not whole assortment; bottom-middle full assortment promotional with heading Decorative Saree Pins; bottom-right blank cream. Entire photographed assortment ONE product. Remove hand, shop, old price overlay and portrait graphic from packaging, use plain white card. Preserve twelve safety pins, original pin metal shape, bead shapes and colours. Full views show EXACTLY TWELVE separate decorated gold safety pins arranged as12horizontal rows on ONE plain white backing card, every pin visible and complete inside own cell. Each pin exactlyTHREE beads with tiny gold/rhinestone spacers, roundwire safety-pinloop on one end and catchend on other. Photoreal website-ready. Beads are distinctly puffed HEART-SHAPED marbled resin/stone-look beads, exactlyTHREE hearts on each pin. Source colour palette emerald green, sky blue, orange/peach, burgundy, cream and onewhite/grey marbled heart. Preserve source mixed three-heart colour combinations rather than making every pin same colour. Twelve pins36hearts total. Do not substitute round beads or flowers. Macro tight real marbled green heart, gold spacer and gold pin wire.",
+      "sha256": "38a63c77166aa38b4b39fe23449e26b8050441fc07ce0ae39a88e480203abf2f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ba09dd29-c502-4fbc-b58b-1d28bc6fc6c0.png",
+      "grid_sha256": "5d58d99abdc0370e4b5deb7c558a2eb23126ff5681462c04d1484349c9f60304",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual crop visually checked vs source:12golddecoratedsafetypins,3puffedheartbeads each, original emerald/blue/orange/burgundy/cream/whitegrey palette retained. Row bead combinations rearranged slightly; count36hearts and product shape/material/palette correct, website-ready accepted without cosmetic retry. Tight real greenheart/goldspacer macro. Accurateheading and correctstyles, clean cropboundaries."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-ba09dd29-c502-4fbc-b58b-1d28bc6fc6c0.png",
+      "prompt": "Native photo edit based on actual supplied original. Create landscape1536x1024 precise3columns x2rows square512cells, boundaries x512/x1024/y512, no gutters, borders, panel labels. Top-left full assortment white; top-middle full assortment lavender/cream styled; top-right full assortment on folded cream/lavender sari fabric lifestyle; bottom-left standalone tight macro of actual decorated pin beads and gold spacer texture, not whole assortment; bottom-middle full assortment promotional with heading Decorative Saree Pins; bottom-right blank cream. Entire photographed assortment ONE product. Remove hand, shop, old price overlay and portrait graphic from packaging, use plain white card. Preserve twelve safety pins, original pin metal shape, bead shapes and colours. Full views show EXACTLY TWELVE separate decorated gold safety pins arranged as12horizontal rows on ONE plain white backing card, every pin visible and complete inside own cell. Each pin exactlyTHREE beads with tiny gold/rhinestone spacers, roundwire safety-pinloop on one end and catchend on other. Photoreal website-ready. Beads are distinctly puffed HEART-SHAPED marbled resin/stone-look beads, exactlyTHREE hearts on each pin. Source colour palette emerald green, sky blue, orange/peach, burgundy, cream and onewhite/grey marbled heart. Preserve source mixed three-heart colour combinations rather than making every pin same colour. Twelve pins36hearts total. Do not substitute round beads or flowers. Macro tight real marbled green heart, gold spacer and gold pin wire.",
+      "sha256": "fa8529dca8ba13159fd363e09f041ce53f364f661b1169fb2d2534dba7d6e6f0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ba09dd29-c502-4fbc-b58b-1d28bc6fc6c0.png",
+      "grid_sha256": "5d58d99abdc0370e4b5deb7c558a2eb23126ff5681462c04d1484349c9f60304",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual crop visually checked vs source:12golddecoratedsafetypins,3puffedheartbeads each, original emerald/blue/orange/burgundy/cream/whitegrey palette retained. Row bead combinations rearranged slightly; count36hearts and product shape/material/palette correct, website-ready accepted without cosmetic retry. Tight real greenheart/goldspacer macro. Accurateheading and correctstyles, clean cropboundaries."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-ba09dd29-c502-4fbc-b58b-1d28bc6fc6c0.png",
+      "prompt": "Native photo edit based on actual supplied original. Create landscape1536x1024 precise3columns x2rows square512cells, boundaries x512/x1024/y512, no gutters, borders, panel labels. Top-left full assortment white; top-middle full assortment lavender/cream styled; top-right full assortment on folded cream/lavender sari fabric lifestyle; bottom-left standalone tight macro of actual decorated pin beads and gold spacer texture, not whole assortment; bottom-middle full assortment promotional with heading Decorative Saree Pins; bottom-right blank cream. Entire photographed assortment ONE product. Remove hand, shop, old price overlay and portrait graphic from packaging, use plain white card. Preserve twelve safety pins, original pin metal shape, bead shapes and colours. Full views show EXACTLY TWELVE separate decorated gold safety pins arranged as12horizontal rows on ONE plain white backing card, every pin visible and complete inside own cell. Each pin exactlyTHREE beads with tiny gold/rhinestone spacers, roundwire safety-pinloop on one end and catchend on other. Photoreal website-ready. Beads are distinctly puffed HEART-SHAPED marbled resin/stone-look beads, exactlyTHREE hearts on each pin. Source colour palette emerald green, sky blue, orange/peach, burgundy, cream and onewhite/grey marbled heart. Preserve source mixed three-heart colour combinations rather than making every pin same colour. Twelve pins36hearts total. Do not substitute round beads or flowers. Macro tight real marbled green heart, gold spacer and gold pin wire.",
+      "sha256": "b6b914d91b964d02cc2c66dfa32e6609b2f8a7cae3db9d167aca13b2fc2d9f39",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ba09dd29-c502-4fbc-b58b-1d28bc6fc6c0.png",
+      "grid_sha256": "5d58d99abdc0370e4b5deb7c558a2eb23126ff5681462c04d1484349c9f60304",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual crop visually checked vs source:12golddecoratedsafetypins,3puffedheartbeads each, original emerald/blue/orange/burgundy/cream/whitegrey palette retained. Row bead combinations rearranged slightly; count36hearts and product shape/material/palette correct, website-ready accepted without cosmetic retry. Tight real greenheart/goldspacer macro. Accurateheading and correctstyles, clean cropboundaries."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Twelve gold saree safety pins with three multicoloured marbled puffed-heart beads each",
+  "original_baseline_verified": true
+}

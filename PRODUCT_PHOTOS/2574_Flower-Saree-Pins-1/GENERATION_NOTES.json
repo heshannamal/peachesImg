@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260930-WA0193.jpg": "b81b195f4222cb53a530cf002da62d71dfe1c1b647b836d5d01b0508d2336e31"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-5dfe68bc-cd94-4e40-a5f3-c95039e1aa9e.png",
+      "source_output": "/workspace/generated_images/exec-5dfe68bc-cd94-4e40-a5f3-c95039e1aa9e.png",
+      "sha256": "630cb9d1f7d6edd3cafd1ed4fe9f9d753c0fe26ab4ae03ced25db546fc6156b0",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Heart Saree & Abaya Pins\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual product TWELVE gold-tone decorative safety-pins for saree/abaya on ONE longwhite card. EVERY pin has ONE large translucent faceted HEART-shaped central bead flanked by TWO small white-iridescent roundPEARLbeads and goldspacers. Source12heartcolours fromtop:clear,black,red,red,darkolivebrown,darkolivebrown,amber,amber,purple,purple,amber,amber. Fullviews1/2/3/5 must show allTWELVE wholepins together with all12goldcurvedclasps/heartcentres/24pearls; neatly space oncard nooverlap, no flowersorhairclips. Preserve heartfacets,sourcecolours and pearlarrangement. Remove hand/priceoverlay. Detail tightstandalone macro of oneactualamberfacetedheart with adjacentiridescentwhitepearl and goldspacer.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-5dfe68bc-cd94-4e40-a5f3-c95039e1aa9e.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Heart Saree & Abaya Pins\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual product TWELVE gold-tone decorative safety-pins for saree/abaya on ONE longwhite card. EVERY pin has ONE large translucent faceted HEART-shaped central bead flanked by TWO small white-iridescent roundPEARLbeads and goldspacers. Source12heartcolours fromtop:clear,black,red,red,darkolivebrown,darkolivebrown,amber,amber,purple,purple,amber,amber. Fullviews1/2/3/5 must show allTWELVE wholepins together with all12goldcurvedclasps/heartcentres/24pearls; neatly space oncard nooverlap, no flowersorhairclips. Preserve heartfacets,sourcecolours and pearlarrangement. Remove hand/priceoverlay. Detail tightstandalone macro of oneactualamberfacetedheart with adjacentiridescentwhitepearl and goldspacer.",
+      "sha256": "1dd2d7a7370527d956f99a3601565b18457dfee94ed82cf34625c787d76ca949",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5dfe68bc-cd94-4e40-a5f3-c95039e1aa9e.png",
+      "grid_sha256": "630cb9d1f7d6edd3cafd1ed4fe9f9d753c0fe26ab4ae03ced25db546fc6156b0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual grid/crop visually reviewed: twelve whole safety-pins retained with source heartbead shapes/colours. One faceted heart and two iridescent pearls perpin; all12source coloursequence retained. Macro tight real amberheart/pearl. Website view purposes and accurateheading pass."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-5dfe68bc-cd94-4e40-a5f3-c95039e1aa9e.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Heart Saree & Abaya Pins\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual product TWELVE gold-tone decorative safety-pins for saree/abaya on ONE longwhite card. EVERY pin has ONE large translucent faceted HEART-shaped central bead flanked by TWO small white-iridescent roundPEARLbeads and goldspacers. Source12heartcolours fromtop:clear,black,red,red,darkolivebrown,darkolivebrown,amber,amber,purple,purple,amber,amber. Fullviews1/2/3/5 must show allTWELVE wholepins together with all12goldcurvedclasps/heartcentres/24pearls; neatly space oncard nooverlap, no flowersorhairclips. Preserve heartfacets,sourcecolours and pearlarrangement. Remove hand/priceoverlay. Detail tightstandalone macro of oneactualamberfacetedheart with adjacentiridescentwhitepearl and goldspacer.",
+      "sha256": "fd018ca4f0d2ff5dafcb032cee2bd8cd692b8375722ab678e8cc2a6ae3b727b1",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5dfe68bc-cd94-4e40-a5f3-c95039e1aa9e.png",
+      "grid_sha256": "630cb9d1f7d6edd3cafd1ed4fe9f9d753c0fe26ab4ae03ced25db546fc6156b0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual grid/crop visually reviewed: twelve whole safety-pins retained with source heartbead shapes/colours. One faceted heart and two iridescent pearls perpin; all12source coloursequence retained. Macro tight real amberheart/pearl. Website view purposes and accurateheading pass."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-5dfe68bc-cd94-4e40-a5f3-c95039e1aa9e.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Heart Saree & Abaya Pins\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual product TWELVE gold-tone decorative safety-pins for saree/abaya on ONE longwhite card. EVERY pin has ONE large translucent faceted HEART-shaped central bead flanked by TWO small white-iridescent roundPEARLbeads and goldspacers. Source12heartcolours fromtop:clear,black,red,red,darkolivebrown,darkolivebrown,amber,amber,purple,purple,amber,amber. Fullviews1/2/3/5 must show allTWELVE wholepins together with all12goldcurvedclasps/heartcentres/24pearls; neatly space oncard nooverlap, no flowersorhairclips. Preserve heartfacets,sourcecolours and pearlarrangement. Remove hand/priceoverlay. Detail tightstandalone macro of oneactualamberfacetedheart with adjacentiridescentwhitepearl and goldspacer.",
+      "sha256": "713fcc5bd24cf6c3cb324462ea2c880dae19230ca4e360fb73e6b4019f5b1849",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5dfe68bc-cd94-4e40-a5f3-c95039e1aa9e.png",
+      "grid_sha256": "630cb9d1f7d6edd3cafd1ed4fe9f9d753c0fe26ab4ae03ced25db546fc6156b0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual grid/crop visually reviewed: twelve whole safety-pins retained with source heartbead shapes/colours. One faceted heart and two iridescent pearls perpin; all12source coloursequence retained. Macro tight real amberheart/pearl. Website view purposes and accurateheading pass."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-5dfe68bc-cd94-4e40-a5f3-c95039e1aa9e.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Heart Saree & Abaya Pins\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual product TWELVE gold-tone decorative safety-pins for saree/abaya on ONE longwhite card. EVERY pin has ONE large translucent faceted HEART-shaped central bead flanked by TWO small white-iridescent roundPEARLbeads and goldspacers. Source12heartcolours fromtop:clear,black,red,red,darkolivebrown,darkolivebrown,amber,amber,purple,purple,amber,amber. Fullviews1/2/3/5 must show allTWELVE wholepins together with all12goldcurvedclasps/heartcentres/24pearls; neatly space oncard nooverlap, no flowersorhairclips. Preserve heartfacets,sourcecolours and pearlarrangement. Remove hand/priceoverlay. Detail tightstandalone macro of oneactualamberfacetedheart with adjacentiridescentwhitepearl and goldspacer.",
+      "sha256": "254a384600c88119e30a5be0530c158d06eb438ad4194935b0778b0900ca892f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5dfe68bc-cd94-4e40-a5f3-c95039e1aa9e.png",
+      "grid_sha256": "630cb9d1f7d6edd3cafd1ed4fe9f9d753c0fe26ab4ae03ced25db546fc6156b0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual grid/crop visually reviewed: twelve whole safety-pins retained with source heartbead shapes/colours. One faceted heart and two iridescent pearls perpin; all12source coloursequence retained. Macro tight real amberheart/pearl. Website view purposes and accurateheading pass."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-5dfe68bc-cd94-4e40-a5f3-c95039e1aa9e.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Heart Saree & Abaya Pins\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual product TWELVE gold-tone decorative safety-pins for saree/abaya on ONE longwhite card. EVERY pin has ONE large translucent faceted HEART-shaped central bead flanked by TWO small white-iridescent roundPEARLbeads and goldspacers. Source12heartcolours fromtop:clear,black,red,red,darkolivebrown,darkolivebrown,amber,amber,purple,purple,amber,amber. Fullviews1/2/3/5 must show allTWELVE wholepins together with all12goldcurvedclasps/heartcentres/24pearls; neatly space oncard nooverlap, no flowersorhairclips. Preserve heartfacets,sourcecolours and pearlarrangement. Remove hand/priceoverlay. Detail tightstandalone macro of oneactualamberfacetedheart with adjacentiridescentwhitepearl and goldspacer.",
+      "sha256": "d0faf963882068e1127188ae6e0d43c21bed747e5161b7dcc8210434b496c4db",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5dfe68bc-cd94-4e40-a5f3-c95039e1aa9e.png",
+      "grid_sha256": "630cb9d1f7d6edd3cafd1ed4fe9f9d753c0fe26ab4ae03ced25db546fc6156b0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual grid/crop visually reviewed: twelve whole safety-pins retained with source heartbead shapes/colours. One faceted heart and two iridescent pearls perpin; all12source coloursequence retained. Macro tight real amberheart/pearl. Website view purposes and accurateheading pass."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Twelve heart-bead saree/abaya safety pins",
+  "originals_verified_against_frozen_plan": true
+}

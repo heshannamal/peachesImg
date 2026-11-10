@@ -4,27 +4,21 @@
       "2622",
       "2621"
     ],
-    "new_worker2": [
-      "2628",
-      "2627"
-    ],
+    "new_worker2": [],
     "new_worker3": [
       "2626",
       "2625"
     ],
     "new_worker4": [
-      "2630",
-      "2629"
+      "2620",
+      "2619"
     ],
     "new_worker5": [
       "2624",
       "2623"
     ]
   },
-  "next_unassigned": [
-    "2620",
-    "2619"
-  ],
+  "next_unassigned": [],
   "order": "descending_numeric_product_id",
   "workflow": "one_native3x2grid_fiveviews_then_crop",
   "assignment_history": [
@@ -334,6 +328,20 @@
       "product_ids": [
         "2636",
         "2635"
+      ]
+    },
+    {
+      "worker": "new_worker4",
+      "product_ids": [
+        "2630",
+        "2629"
+      ]
+    },
+    {
+      "worker": "new_worker2",
+      "product_ids": [
+        "2628",
+        "2627"
       ]
     }
   ]

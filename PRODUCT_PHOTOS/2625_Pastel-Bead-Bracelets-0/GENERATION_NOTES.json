@@ -1,0 +1,131 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0380.jpg": "bd127b5c95b0d6242bd83ede61e39ce9ebe37f2a30388dfbffe3766ea53f2785"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-fb499e1c-6f49-48fd-bba4-79c936927407.png",
+      "source_output": "/workspace/generated_images/exec-fb499e1c-6f49-48fd-bba4-79c936927407.png",
+      "sha256": "34bfbf44eaf0daf807f65e169da894d5b5dcbee2c0fcdf4d51b3339da320c2b0",
+      "prompt": "Native original-reference photo edit ONE1536x1024 strict3columns2rows equal512cells no gutters labels borders. Preserve exact entire original assortment identity shapes count colours. Remove hand/plastic/shop/external price warranty label. Cells topLEFT01 wholeassortment purewhite;topMIDDLE02 wholeassortment lavendercreamstudio;topRIGHT03 wholeassortment creamvanity blurredlavenderroom nootherjewellery;bottomLEFT04 standalone VERYTIGHTMACRO ofoneactual visible realpart notwholeassortment;bottomMIDDLE05 wholeassortment accurateheading PASTEL HEART BRACELETS;bottomRIGHT06 unusedblankcream. Eachfullassortment entirely insideowncell withmargin. Websitequality no cosmetic redesign. ONEpack SIX longwhitecards sidebyside, EACHcard ONEdouble-strand goldtone chainbracelet with pastelpearly HEARTshaped beads alongonechain andafineparallelplainchain, clasps/extensions. EXACTSIXbracelets/cards, not12 fromexternalpricelabel. Preserve source pearlyheartbeads and pastelcolour order white/pink/mint/lilac/yellow/peach/blue as photographed. Macro tightactualpastelheartbead andgoldtonelink. Do notreplaceheartswithroundbeads.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "Rejected/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-fb499e1c-6f49-48fd-bba4-79c936927407.png",
+      "prompt": "Native original-reference photo edit ONE1536x1024 strict3columns2rows equal512cells no gutters labels borders. Preserve exact entire original assortment identity shapes count colours. Remove hand/plastic/shop/external price warranty label. Cells topLEFT01 wholeassortment purewhite;topMIDDLE02 wholeassortment lavendercreamstudio;topRIGHT03 wholeassortment creamvanity blurredlavenderroom nootherjewellery;bottomLEFT04 standalone VERYTIGHTMACRO ofoneactual visible realpart notwholeassortment;bottomMIDDLE05 wholeassortment accurateheading PASTEL HEART BRACELETS;bottomRIGHT06 unusedblankcream. Eachfullassortment entirely insideowncell withmargin. Websitequality no cosmetic redesign. ONEpack SIX longwhitecards sidebyside, EACHcard ONEdouble-strand goldtone chainbracelet with pastelpearly HEARTshaped beads alongonechain andafineparallelplainchain, clasps/extensions. EXACTSIXbracelets/cards, not12 fromexternalpricelabel. Preserve source pearlyheartbeads and pastelcolour order white/pink/mint/lilac/yellow/peach/blue as photographed. Macro tightactualpastelheartbead andgoldtonelink. Do notreplaceheartswithroundbeads.",
+      "sha256": "ab9812453cf8a6498938f58acbeaea2580fbdd7efebe38321a2a41520684e070",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-fb499e1c-6f49-48fd-bba4-79c936927407.png",
+      "grid_sha256": "34bfbf44eaf0daf807f65e169da894d5b5dcbee2c0fcdf4d51b3339da320c2b0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Rejected seven hearts with identical sequence on all bracelets; actual source eight hearts and distinct colour orders."
+    },
+    {
+      "saved_file": "Rejected/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-fb499e1c-6f49-48fd-bba4-79c936927407.png",
+      "prompt": "Native original-reference photo edit ONE1536x1024 strict3columns2rows equal512cells no gutters labels borders. Preserve exact entire original assortment identity shapes count colours. Remove hand/plastic/shop/external price warranty label. Cells topLEFT01 wholeassortment purewhite;topMIDDLE02 wholeassortment lavendercreamstudio;topRIGHT03 wholeassortment creamvanity blurredlavenderroom nootherjewellery;bottomLEFT04 standalone VERYTIGHTMACRO ofoneactual visible realpart notwholeassortment;bottomMIDDLE05 wholeassortment accurateheading PASTEL HEART BRACELETS;bottomRIGHT06 unusedblankcream. Eachfullassortment entirely insideowncell withmargin. Websitequality no cosmetic redesign. ONEpack SIX longwhitecards sidebyside, EACHcard ONEdouble-strand goldtone chainbracelet with pastelpearly HEARTshaped beads alongonechain andafineparallelplainchain, clasps/extensions. EXACTSIXbracelets/cards, not12 fromexternalpricelabel. Preserve source pearlyheartbeads and pastelcolour order white/pink/mint/lilac/yellow/peach/blue as photographed. Macro tightactualpastelheartbead andgoldtonelink. Do notreplaceheartswithroundbeads.",
+      "sha256": "7258b17c6b17e96f583895c362bd54eb6a3fae0ea19f2327ca47dd7e3dadad5d",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-fb499e1c-6f49-48fd-bba4-79c936927407.png",
+      "grid_sha256": "34bfbf44eaf0daf807f65e169da894d5b5dcbee2c0fcdf4d51b3339da320c2b0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Rejected seven hearts with identical sequence on all bracelets; actual source eight hearts and distinct colour orders."
+    },
+    {
+      "saved_file": "Rejected/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-fb499e1c-6f49-48fd-bba4-79c936927407.png",
+      "prompt": "Native original-reference photo edit ONE1536x1024 strict3columns2rows equal512cells no gutters labels borders. Preserve exact entire original assortment identity shapes count colours. Remove hand/plastic/shop/external price warranty label. Cells topLEFT01 wholeassortment purewhite;topMIDDLE02 wholeassortment lavendercreamstudio;topRIGHT03 wholeassortment creamvanity blurredlavenderroom nootherjewellery;bottomLEFT04 standalone VERYTIGHTMACRO ofoneactual visible realpart notwholeassortment;bottomMIDDLE05 wholeassortment accurateheading PASTEL HEART BRACELETS;bottomRIGHT06 unusedblankcream. Eachfullassortment entirely insideowncell withmargin. Websitequality no cosmetic redesign. ONEpack SIX longwhitecards sidebyside, EACHcard ONEdouble-strand goldtone chainbracelet with pastelpearly HEARTshaped beads alongonechain andafineparallelplainchain, clasps/extensions. EXACTSIXbracelets/cards, not12 fromexternalpricelabel. Preserve source pearlyheartbeads and pastelcolour order white/pink/mint/lilac/yellow/peach/blue as photographed. Macro tightactualpastelheartbead andgoldtonelink. Do notreplaceheartswithroundbeads.",
+      "sha256": "d82bb22be9d4fc8b8325005bfa448cf93084bb6fc66c3876799eb93bc6f28c52",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-fb499e1c-6f49-48fd-bba4-79c936927407.png",
+      "grid_sha256": "34bfbf44eaf0daf807f65e169da894d5b5dcbee2c0fcdf4d51b3339da320c2b0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Rejected seven hearts with identical sequence on all bracelets; actual source eight hearts and distinct colour orders."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-fb499e1c-6f49-48fd-bba4-79c936927407.png",
+      "prompt": "Native original-reference photo edit ONE1536x1024 strict3columns2rows equal512cells no gutters labels borders. Preserve exact entire original assortment identity shapes count colours. Remove hand/plastic/shop/external price warranty label. Cells topLEFT01 wholeassortment purewhite;topMIDDLE02 wholeassortment lavendercreamstudio;topRIGHT03 wholeassortment creamvanity blurredlavenderroom nootherjewellery;bottomLEFT04 standalone VERYTIGHTMACRO ofoneactual visible realpart notwholeassortment;bottomMIDDLE05 wholeassortment accurateheading PASTEL HEART BRACELETS;bottomRIGHT06 unusedblankcream. Eachfullassortment entirely insideowncell withmargin. Websitequality no cosmetic redesign. ONEpack SIX longwhitecards sidebyside, EACHcard ONEdouble-strand goldtone chainbracelet with pastelpearly HEARTshaped beads alongonechain andafineparallelplainchain, clasps/extensions. EXACTSIXbracelets/cards, not12 fromexternalpricelabel. Preserve source pearlyheartbeads and pastelcolour order white/pink/mint/lilac/yellow/peach/blue as photographed. Macro tightactualpastelheartbead andgoldtonelink. Do notreplaceheartswithroundbeads.",
+      "sha256": "9bda090cb25fa1f6bd551394d755c0ab729554fd2a6dfbf9ce0870cd4b1c8518",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-fb499e1c-6f49-48fd-bba4-79c936927407.png",
+      "grid_sha256": "34bfbf44eaf0daf807f65e169da894d5b5dcbee2c0fcdf4d51b3339da320c2b0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "Rejected/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-fb499e1c-6f49-48fd-bba4-79c936927407.png",
+      "prompt": "Native original-reference photo edit ONE1536x1024 strict3columns2rows equal512cells no gutters labels borders. Preserve exact entire original assortment identity shapes count colours. Remove hand/plastic/shop/external price warranty label. Cells topLEFT01 wholeassortment purewhite;topMIDDLE02 wholeassortment lavendercreamstudio;topRIGHT03 wholeassortment creamvanity blurredlavenderroom nootherjewellery;bottomLEFT04 standalone VERYTIGHTMACRO ofoneactual visible realpart notwholeassortment;bottomMIDDLE05 wholeassortment accurateheading PASTEL HEART BRACELETS;bottomRIGHT06 unusedblankcream. Eachfullassortment entirely insideowncell withmargin. Websitequality no cosmetic redesign. ONEpack SIX longwhitecards sidebyside, EACHcard ONEdouble-strand goldtone chainbracelet with pastelpearly HEARTshaped beads alongonechain andafineparallelplainchain, clasps/extensions. EXACTSIXbracelets/cards, not12 fromexternalpricelabel. Preserve source pearlyheartbeads and pastelcolour order white/pink/mint/lilac/yellow/peach/blue as photographed. Macro tightactualpastelheartbead andgoldtonelink. Do notreplaceheartswithroundbeads.",
+      "sha256": "477e55a622eb2e05143ee1750dff65352df82396973b8d47a38db2191d5f34b8",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-fb499e1c-6f49-48fd-bba4-79c936927407.png",
+      "grid_sha256": "34bfbf44eaf0daf807f65e169da894d5b5dcbee2c0fcdf4d51b3339da320c2b0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Rejected seven hearts with identical sequence on all bracelets; actual source eight hearts and distinct colour orders."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "1": 1,
+    "2": 1,
+    "3": 1,
+    "5": 1
+  }
+}

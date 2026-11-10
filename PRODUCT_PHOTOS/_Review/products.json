@@ -31975,9 +31975,9 @@
     "source_image_ids": [
       2928
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -31987,9 +31987,9 @@
     "source_image_ids": [
       2929
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -31999,9 +31999,9 @@
     "source_image_ids": [
       2930
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -32011,62 +32011,70 @@
     "source_image_ids": [
       2931
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2627",
-    "folder": "2627_Round-Gold-Tone-Studs-0",
+    "folder": "2627_Round-Gold-Tone-Studs-1",
     "source_image_ids": [
       2932,
       2936
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2628",
-    "folder": "2628_Butterfly-Gold-Tone-Studs-0",
+    "folder": "2628_Butterfly-Gold-Tone-Studs-1",
     "source_image_ids": [
       2933,
       2937
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2629",
-    "folder": "2629_Small-Gold-Tone-Studs-0",
+    "folder": "2629_Small-Gold-Tone-Studs-1",
     "source_image_ids": [
       2934,
       2942
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2630",
-    "folder": "2630_Star-Gold-Tone-Studs-0",
+    "folder": "2630_Star-Gold-Tone-Studs-1",
     "source_image_ids": [
       2935
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2631",

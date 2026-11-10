@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260930-WA0002.jpg": "5b3a1319a4fcbb434f3775c10ef31b1a10bed46154131e38cecf6c396da38c5b"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-508f2d88-d276-43a1-8061-aadea7ccb3b9.png",
+      "source_output": "/workspace/generated_images/exec-508f2d88-d276-43a1-8061-aadea7ccb3b9.png",
+      "sha256": "fe408163d166fc90dd4f1eb9417668d02ac3f305e7ad9a8ceb33f8d56f8b242c",
+      "prompt": "Edit attached actualoriginal intoONE1536x1024 website contact sheet3columns2rows,512squarecells,nogutters. Toprow whitefullproduct/lavendercreamstyledfullproduct/vanitylifestylefullproduct. Bottomrow standalone tightrealpartmacro/fullproductpromotionalaccurateheading/blankcream. Keepobjectsinsideeachcell. Preserve actual original product identity/count/shapes/colours. ActualproductONE blue cosmeticcontactlens restinginonewelloftransparentplasticdoublewelllenscase, otherwelllooks empty/translucent; preserve exactsingleblueirisringwithdarkouterrim andclearcentre, caseandlidshape. Do not addsecondbluecontactlens orpackagingbox. Do notshoweyeballs/people or inventpower/healthclaims. White/styled/lifestylefullviews showthesamecasewithonebluelens. Macro standalone tightcrop actualbluepixelatedirispatternandclearcentre. Promotionalheading \"Blue Cosmetic Contact Lens\". Removeoldoutsidepower/diametertext andretainactualcase/lens only.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-508f2d88-d276-43a1-8061-aadea7ccb3b9.png",
+      "prompt": "Edit attached actualoriginal intoONE1536x1024 website contact sheet3columns2rows,512squarecells,nogutters. Toprow whitefullproduct/lavendercreamstyledfullproduct/vanitylifestylefullproduct. Bottomrow standalone tightrealpartmacro/fullproductpromotionalaccurateheading/blankcream. Keepobjectsinsideeachcell. Preserve actual original product identity/count/shapes/colours. ActualproductONE blue cosmeticcontactlens restinginonewelloftransparentplasticdoublewelllenscase, otherwelllooks empty/translucent; preserve exactsingleblueirisringwithdarkouterrim andclearcentre, caseandlidshape. Do not addsecondbluecontactlens orpackagingbox. Do notshoweyeballs/people or inventpower/healthclaims. White/styled/lifestylefullviews showthesamecasewithonebluelens. Macro standalone tightcrop actualbluepixelatedirispatternandclearcentre. Promotionalheading \"Blue Cosmetic Contact Lens\". Removeoldoutsidepower/diametertext andretainactualcase/lens only.",
+      "sha256": "8b4e7c88a24c54885a4d7431a92fa96a3704ed6e63abc413f2df0b04f440edeb",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-508f2d88-d276-43a1-8061-aadea7ccb3b9.png",
+      "grid_sha256": "fe408163d166fc90dd4f1eb9417668d02ac3f305e7ad9a8ceb33f8d56f8b242c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual five crops inspected: same transparentlenscasewithoneblueirispatternlens, otherwelltranslucent/empty asoriginal. Ringdarkouterrim/clearcentre/caseform retained. White/lavenderstyled/vanitylifestyle views valid; macro tightlyactualbluepattern; promotionalheadingaccuratewithoutclaims. No addedlens/eyes."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-508f2d88-d276-43a1-8061-aadea7ccb3b9.png",
+      "prompt": "Edit attached actualoriginal intoONE1536x1024 website contact sheet3columns2rows,512squarecells,nogutters. Toprow whitefullproduct/lavendercreamstyledfullproduct/vanitylifestylefullproduct. Bottomrow standalone tightrealpartmacro/fullproductpromotionalaccurateheading/blankcream. Keepobjectsinsideeachcell. Preserve actual original product identity/count/shapes/colours. ActualproductONE blue cosmeticcontactlens restinginonewelloftransparentplasticdoublewelllenscase, otherwelllooks empty/translucent; preserve exactsingleblueirisringwithdarkouterrim andclearcentre, caseandlidshape. Do not addsecondbluecontactlens orpackagingbox. Do notshoweyeballs/people or inventpower/healthclaims. White/styled/lifestylefullviews showthesamecasewithonebluelens. Macro standalone tightcrop actualbluepixelatedirispatternandclearcentre. Promotionalheading \"Blue Cosmetic Contact Lens\". Removeoldoutsidepower/diametertext andretainactualcase/lens only.",
+      "sha256": "6e4496133e8f4f2ea2233e0a1d16d10cdddd0054a06cc1f0a31e0dd834e4d389",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-508f2d88-d276-43a1-8061-aadea7ccb3b9.png",
+      "grid_sha256": "fe408163d166fc90dd4f1eb9417668d02ac3f305e7ad9a8ceb33f8d56f8b242c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual five crops inspected: same transparentlenscasewithoneblueirispatternlens, otherwelltranslucent/empty asoriginal. Ringdarkouterrim/clearcentre/caseform retained. White/lavenderstyled/vanitylifestyle views valid; macro tightlyactualbluepattern; promotionalheadingaccuratewithoutclaims. No addedlens/eyes."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-508f2d88-d276-43a1-8061-aadea7ccb3b9.png",
+      "prompt": "Edit attached actualoriginal intoONE1536x1024 website contact sheet3columns2rows,512squarecells,nogutters. Toprow whitefullproduct/lavendercreamstyledfullproduct/vanitylifestylefullproduct. Bottomrow standalone tightrealpartmacro/fullproductpromotionalaccurateheading/blankcream. Keepobjectsinsideeachcell. Preserve actual original product identity/count/shapes/colours. ActualproductONE blue cosmeticcontactlens restinginonewelloftransparentplasticdoublewelllenscase, otherwelllooks empty/translucent; preserve exactsingleblueirisringwithdarkouterrim andclearcentre, caseandlidshape. Do not addsecondbluecontactlens orpackagingbox. Do notshoweyeballs/people or inventpower/healthclaims. White/styled/lifestylefullviews showthesamecasewithonebluelens. Macro standalone tightcrop actualbluepixelatedirispatternandclearcentre. Promotionalheading \"Blue Cosmetic Contact Lens\". Removeoldoutsidepower/diametertext andretainactualcase/lens only.",
+      "sha256": "a3745e85b16a8fa8bcb341172c453401e995e4fc56dffef5930f53d303d5e615",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-508f2d88-d276-43a1-8061-aadea7ccb3b9.png",
+      "grid_sha256": "fe408163d166fc90dd4f1eb9417668d02ac3f305e7ad9a8ceb33f8d56f8b242c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual five crops inspected: same transparentlenscasewithoneblueirispatternlens, otherwelltranslucent/empty asoriginal. Ringdarkouterrim/clearcentre/caseform retained. White/lavenderstyled/vanitylifestyle views valid; macro tightlyactualbluepattern; promotionalheadingaccuratewithoutclaims. No addedlens/eyes."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-508f2d88-d276-43a1-8061-aadea7ccb3b9.png",
+      "prompt": "Edit attached actualoriginal intoONE1536x1024 website contact sheet3columns2rows,512squarecells,nogutters. Toprow whitefullproduct/lavendercreamstyledfullproduct/vanitylifestylefullproduct. Bottomrow standalone tightrealpartmacro/fullproductpromotionalaccurateheading/blankcream. Keepobjectsinsideeachcell. Preserve actual original product identity/count/shapes/colours. ActualproductONE blue cosmeticcontactlens restinginonewelloftransparentplasticdoublewelllenscase, otherwelllooks empty/translucent; preserve exactsingleblueirisringwithdarkouterrim andclearcentre, caseandlidshape. Do not addsecondbluecontactlens orpackagingbox. Do notshoweyeballs/people or inventpower/healthclaims. White/styled/lifestylefullviews showthesamecasewithonebluelens. Macro standalone tightcrop actualbluepixelatedirispatternandclearcentre. Promotionalheading \"Blue Cosmetic Contact Lens\". Removeoldoutsidepower/diametertext andretainactualcase/lens only.",
+      "sha256": "3db2294c34802467b4aedeb838fc3d2b24ea8da64f9247685f053dbe33cb32e1",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-508f2d88-d276-43a1-8061-aadea7ccb3b9.png",
+      "grid_sha256": "fe408163d166fc90dd4f1eb9417668d02ac3f305e7ad9a8ceb33f8d56f8b242c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual five crops inspected: same transparentlenscasewithoneblueirispatternlens, otherwelltranslucent/empty asoriginal. Ringdarkouterrim/clearcentre/caseform retained. White/lavenderstyled/vanitylifestyle views valid; macro tightlyactualbluepattern; promotionalheadingaccuratewithoutclaims. No addedlens/eyes."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-508f2d88-d276-43a1-8061-aadea7ccb3b9.png",
+      "prompt": "Edit attached actualoriginal intoONE1536x1024 website contact sheet3columns2rows,512squarecells,nogutters. Toprow whitefullproduct/lavendercreamstyledfullproduct/vanitylifestylefullproduct. Bottomrow standalone tightrealpartmacro/fullproductpromotionalaccurateheading/blankcream. Keepobjectsinsideeachcell. Preserve actual original product identity/count/shapes/colours. ActualproductONE blue cosmeticcontactlens restinginonewelloftransparentplasticdoublewelllenscase, otherwelllooks empty/translucent; preserve exactsingleblueirisringwithdarkouterrim andclearcentre, caseandlidshape. Do not addsecondbluecontactlens orpackagingbox. Do notshoweyeballs/people or inventpower/healthclaims. White/styled/lifestylefullviews showthesamecasewithonebluelens. Macro standalone tightcrop actualbluepixelatedirispatternandclearcentre. Promotionalheading \"Blue Cosmetic Contact Lens\". Removeoldoutsidepower/diametertext andretainactualcase/lens only.",
+      "sha256": "2fbdc4e3914230090022f02119196df7351273ff05ee6b38fc1ad6ed96b18b69",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-508f2d88-d276-43a1-8061-aadea7ccb3b9.png",
+      "grid_sha256": "fe408163d166fc90dd4f1eb9417668d02ac3f305e7ad9a8ceb33f8d56f8b242c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual five crops inspected: same transparentlenscasewithoneblueirispatternlens, otherwelltranslucent/empty asoriginal. Ringdarkouterrim/clearcentre/caseform retained. White/lavenderstyled/vanitylifestyle views valid; macro tightlyactualbluepattern; promotionalheadingaccuratewithoutclaims. No addedlens/eyes."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

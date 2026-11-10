@@ -31075,15 +31075,17 @@
   },
   {
     "product_id": "2548",
-    "folder": "2548_Blue-Contact-Lenses-0",
+    "folder": "2548_Blue-Contact-Lenses-1",
     "source_image_ids": [
       2850
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2518-2618",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2549",
@@ -31091,7 +31093,7 @@
     "source_image_ids": [
       2851
     ],
-    "new_images": 1,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -31100,29 +31102,31 @@
   },
   {
     "product_id": "2550",
-    "folder": "2550_Purple-Makeup-Palette-0",
+    "folder": "2550_Purple-Makeup-Palette-1",
     "source_image_ids": [
       2852
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5,
-    "generation_batch": "huda-makeup-original-generated-pairs"
+    "generation_batch": "scheduled-2518-2618",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2551",
-    "folder": "2551_Colourful-Makeup-Palette-0",
+    "folder": "2551_Colourful-Makeup-Palette-1",
     "source_image_ids": [
       2853
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5,
-    "generation_batch": "huda-makeup-original-generated-pairs"
+    "generation_batch": "scheduled-2518-2618",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2552",
@@ -31130,7 +31134,7 @@
     "source_image_ids": [
       2854
     ],
-    "new_images": 1,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -31143,7 +31147,7 @@
     "source_image_ids": [
       2855
     ],
-    "new_images": 1,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",

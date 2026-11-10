@@ -15,3 +15,5 @@ Resume pending2531down2518 in descendingorder. Priorassignedpairs:worker5=2531/2
 Exact2607correctiveprompt has nowbeen recovered from .generation_prompts/2607_corrective.txt and recorded; earliermissingpromptdisclosure superseded.
 
 One nativeoriginal-referenced3×2stylegrid mechanicallycropped into5views; actualcropboxes/dimensions/SHA andhonestvisualreviews retained. NoCSVcreated.
+
+Live GitHub verification afterupload:385/385imageURLs for77completeproducts returnedHTTP200 withimagecontenttype.

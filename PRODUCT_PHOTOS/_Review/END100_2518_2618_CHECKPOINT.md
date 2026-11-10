@@ -13,3 +13,5 @@ Five other partials2553–2549 retain their existing checked white view; four mi
 Recovery saved three orphan native caches:2607(corrective passed),2606(corrective stillfailed),2603(passed). For2607 the exact corrective prompt was not recovered; records explicitly store null/disclosure rather than invented wording. Original exact prompt remains.
 
 Resume assigned pending2600,2599,2598,2597 first; then atomic descending dispatch from2596. Prior terminal assignments remain in dispatch history. All100 remain frozen; do not modify earlier batches. Mechanical style-grid crops with true cropboxes/hashes and honest visual review remain required.
+
+Live verification after upload: all75imageURLs for15completedproducts returned HTTP200 with image content types.

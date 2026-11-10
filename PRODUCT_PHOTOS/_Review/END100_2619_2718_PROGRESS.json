@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-10T01:17:17.503518+00:00",
+  "updated_at": "2026-11-10T01:18:04.459559+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 89,
+  "completed_products": 90,
   "partial_products": 2,
-  "pending_products": 1,
+  "pending_products": 0,
   "blocked_products": 8,
-  "saved_images": 455,
-  "checked_images": 447,
+  "saved_images": 460,
+  "checked_images": 452,
   "products": [
     {
       "product_id": "2718",
@@ -1874,20 +1874,20 @@
     },
     {
       "product_id": "2621",
-      "folder": "2621_White-Bead-Chain-Bracelets-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "folder": "2621_White-Bead-Chain-Bracelets-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "five_images_saved_and_visually_checked",
       "errors": [],
       "originals_unchanged": true
     },

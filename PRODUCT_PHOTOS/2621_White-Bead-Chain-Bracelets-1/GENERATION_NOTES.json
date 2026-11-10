@@ -1,0 +1,255 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0368.jpg": "77e9d152d62f7b62a191048701ffff0a39cbc56e874ec4048441d748c68c84d9"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-ed3006ff-82fa-4a5a-a8b0-5f6e79ec235d.png",
+      "source_output": "/workspace/generated_images/exec-ed3006ff-82fa-4a5a-a8b0-5f6e79ec235d.png",
+      "sha256": "79e22452cbbfe014e404bbb0033c16de16e44748119574f2b41763f518a9485b",
+      "prompt": "Native edit referenced original photograph into ONE1536x1024 landscape contactgrid exactly3equalcolumns2equalrows512squarecells. No gutters/borders/panellabels. Preserve whole actual assortment asONEproduct, identity/count/shape/colours/materials, originalwhitecardandtransparentsleeves. Removehand/shop/largepriceoverlay. The actual visible assortment is SIXindividualbracelets onSIXlongcards despite12pcs banner; exactly6completebracelets in allfullviews arranged6parallelcolumns. Goldtone bracelets of linked puffedmetalheart beads, with extenderchain/clasp. Twoleftbracelets have roundgoldrim clear-rhinestone heart centerpieces; fourrightbracelets have clear-rhinestone infinity centerpieces. Preserveexact2heart/4infinity, goldheartlinkshape, no whitepearls despitefoldername. Readingorder TOPLEFT all6bracelets purewhite; TOPMIDDLE all6lavendercream satin; TOPRIGHT all6on elegantdressingtable nopeople/extra jewellery; BOTTOMLEFT standaloneEXTREMEtightmacro of actualheartcenterpiece/rhinestones/adjacentchain fromsource, notwholeassortment/fullcard, no invented reverse; BOTTOMMIDDLE all6creambackground with accurateheading \"HEART AND INFINITY BRACELETS\"; BOTTOMRIGHT blankcream. Accurate product count/style essential, fullviews entirelyinsidecell, website-readyphotorealism.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "Rejected/initial_01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-ed3006ff-82fa-4a5a-a8b0-5f6e79ec235d.png",
+      "prompt": "Native edit referenced original photograph into ONE1536x1024 landscape contactgrid exactly3equalcolumns2equalrows512squarecells. No gutters/borders/panellabels. Preserve whole actual assortment asONEproduct, identity/count/shape/colours/materials, originalwhitecardandtransparentsleeves. Removehand/shop/largepriceoverlay. The actual visible assortment is SIXindividualbracelets onSIXlongcards despite12pcs banner; exactly6completebracelets in allfullviews arranged6parallelcolumns. Goldtone bracelets of linked puffedmetalheart beads, with extenderchain/clasp. Twoleftbracelets have roundgoldrim clear-rhinestone heart centerpieces; fourrightbracelets have clear-rhinestone infinity centerpieces. Preserveexact2heart/4infinity, goldheartlinkshape, no whitepearls despitefoldername. Readingorder TOPLEFT all6bracelets purewhite; TOPMIDDLE all6lavendercream satin; TOPRIGHT all6on elegantdressingtable nopeople/extra jewellery; BOTTOMLEFT standaloneEXTREMEtightmacro of actualheartcenterpiece/rhinestones/adjacentchain fromsource, notwholeassortment/fullcard, no invented reverse; BOTTOMMIDDLE all6creambackground with accurateheading \"HEART AND INFINITY BRACELETS\"; BOTTOMRIGHT blankcream. Accurate product count/style essential, fullviews entirelyinsidecell, website-readyphotorealism.",
+      "sha256": "207ef45b6f44be61060c283ae435ead27ae494914aaf034865ba42c97010a7a0",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ed3006ff-82fa-4a5a-a8b0-5f6e79ec235d.png",
+      "grid_sha256": "79e22452cbbfe014e404bbb0033c16de16e44748119574f2b41763f518a9485b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Material pendant identity error: heartcentrepieces omit surrounding openround goldring visible in original."
+    },
+    {
+      "saved_file": "Rejected/initial_02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-ed3006ff-82fa-4a5a-a8b0-5f6e79ec235d.png",
+      "prompt": "Native edit referenced original photograph into ONE1536x1024 landscape contactgrid exactly3equalcolumns2equalrows512squarecells. No gutters/borders/panellabels. Preserve whole actual assortment asONEproduct, identity/count/shape/colours/materials, originalwhitecardandtransparentsleeves. Removehand/shop/largepriceoverlay. The actual visible assortment is SIXindividualbracelets onSIXlongcards despite12pcs banner; exactly6completebracelets in allfullviews arranged6parallelcolumns. Goldtone bracelets of linked puffedmetalheart beads, with extenderchain/clasp. Twoleftbracelets have roundgoldrim clear-rhinestone heart centerpieces; fourrightbracelets have clear-rhinestone infinity centerpieces. Preserveexact2heart/4infinity, goldheartlinkshape, no whitepearls despitefoldername. Readingorder TOPLEFT all6bracelets purewhite; TOPMIDDLE all6lavendercream satin; TOPRIGHT all6on elegantdressingtable nopeople/extra jewellery; BOTTOMLEFT standaloneEXTREMEtightmacro of actualheartcenterpiece/rhinestones/adjacentchain fromsource, notwholeassortment/fullcard, no invented reverse; BOTTOMMIDDLE all6creambackground with accurateheading \"HEART AND INFINITY BRACELETS\"; BOTTOMRIGHT blankcream. Accurate product count/style essential, fullviews entirelyinsidecell, website-readyphotorealism.",
+      "sha256": "921f54bb4fc72cd1c00899e26ddae196774dac6aecd3752434d9fca3c7f4367d",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ed3006ff-82fa-4a5a-a8b0-5f6e79ec235d.png",
+      "grid_sha256": "79e22452cbbfe014e404bbb0033c16de16e44748119574f2b41763f518a9485b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Material pendant identity error: heartcentrepieces omit surrounding openround goldring visible in original."
+    },
+    {
+      "saved_file": "Rejected/initial_03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-ed3006ff-82fa-4a5a-a8b0-5f6e79ec235d.png",
+      "prompt": "Native edit referenced original photograph into ONE1536x1024 landscape contactgrid exactly3equalcolumns2equalrows512squarecells. No gutters/borders/panellabels. Preserve whole actual assortment asONEproduct, identity/count/shape/colours/materials, originalwhitecardandtransparentsleeves. Removehand/shop/largepriceoverlay. The actual visible assortment is SIXindividualbracelets onSIXlongcards despite12pcs banner; exactly6completebracelets in allfullviews arranged6parallelcolumns. Goldtone bracelets of linked puffedmetalheart beads, with extenderchain/clasp. Twoleftbracelets have roundgoldrim clear-rhinestone heart centerpieces; fourrightbracelets have clear-rhinestone infinity centerpieces. Preserveexact2heart/4infinity, goldheartlinkshape, no whitepearls despitefoldername. Readingorder TOPLEFT all6bracelets purewhite; TOPMIDDLE all6lavendercream satin; TOPRIGHT all6on elegantdressingtable nopeople/extra jewellery; BOTTOMLEFT standaloneEXTREMEtightmacro of actualheartcenterpiece/rhinestones/adjacentchain fromsource, notwholeassortment/fullcard, no invented reverse; BOTTOMMIDDLE all6creambackground with accurateheading \"HEART AND INFINITY BRACELETS\"; BOTTOMRIGHT blankcream. Accurate product count/style essential, fullviews entirelyinsidecell, website-readyphotorealism.",
+      "sha256": "49994439f97a5102b66bd3242f49dd49cff81998da6c0be2b4252a6444c663a3",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ed3006ff-82fa-4a5a-a8b0-5f6e79ec235d.png",
+      "grid_sha256": "79e22452cbbfe014e404bbb0033c16de16e44748119574f2b41763f518a9485b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Material pendant identity error: heartcentrepieces omit surrounding openround goldring visible in original."
+    },
+    {
+      "saved_file": "Rejected/initial_04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-ed3006ff-82fa-4a5a-a8b0-5f6e79ec235d.png",
+      "prompt": "Native edit referenced original photograph into ONE1536x1024 landscape contactgrid exactly3equalcolumns2equalrows512squarecells. No gutters/borders/panellabels. Preserve whole actual assortment asONEproduct, identity/count/shape/colours/materials, originalwhitecardandtransparentsleeves. Removehand/shop/largepriceoverlay. The actual visible assortment is SIXindividualbracelets onSIXlongcards despite12pcs banner; exactly6completebracelets in allfullviews arranged6parallelcolumns. Goldtone bracelets of linked puffedmetalheart beads, with extenderchain/clasp. Twoleftbracelets have roundgoldrim clear-rhinestone heart centerpieces; fourrightbracelets have clear-rhinestone infinity centerpieces. Preserveexact2heart/4infinity, goldheartlinkshape, no whitepearls despitefoldername. Readingorder TOPLEFT all6bracelets purewhite; TOPMIDDLE all6lavendercream satin; TOPRIGHT all6on elegantdressingtable nopeople/extra jewellery; BOTTOMLEFT standaloneEXTREMEtightmacro of actualheartcenterpiece/rhinestones/adjacentchain fromsource, notwholeassortment/fullcard, no invented reverse; BOTTOMMIDDLE all6creambackground with accurateheading \"HEART AND INFINITY BRACELETS\"; BOTTOMRIGHT blankcream. Accurate product count/style essential, fullviews entirelyinsidecell, website-readyphotorealism.",
+      "sha256": "b528ec34e355b530d4e021941d1c27a66bbec7a687f83e81e8fd32de181ebbf3",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ed3006ff-82fa-4a5a-a8b0-5f6e79ec235d.png",
+      "grid_sha256": "79e22452cbbfe014e404bbb0033c16de16e44748119574f2b41763f518a9485b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Material pendant identity error: heartcentrepieces omit surrounding openround goldring visible in original."
+    },
+    {
+      "saved_file": "Rejected/initial_05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-ed3006ff-82fa-4a5a-a8b0-5f6e79ec235d.png",
+      "prompt": "Native edit referenced original photograph into ONE1536x1024 landscape contactgrid exactly3equalcolumns2equalrows512squarecells. No gutters/borders/panellabels. Preserve whole actual assortment asONEproduct, identity/count/shape/colours/materials, originalwhitecardandtransparentsleeves. Removehand/shop/largepriceoverlay. The actual visible assortment is SIXindividualbracelets onSIXlongcards despite12pcs banner; exactly6completebracelets in allfullviews arranged6parallelcolumns. Goldtone bracelets of linked puffedmetalheart beads, with extenderchain/clasp. Twoleftbracelets have roundgoldrim clear-rhinestone heart centerpieces; fourrightbracelets have clear-rhinestone infinity centerpieces. Preserveexact2heart/4infinity, goldheartlinkshape, no whitepearls despitefoldername. Readingorder TOPLEFT all6bracelets purewhite; TOPMIDDLE all6lavendercream satin; TOPRIGHT all6on elegantdressingtable nopeople/extra jewellery; BOTTOMLEFT standaloneEXTREMEtightmacro of actualheartcenterpiece/rhinestones/adjacentchain fromsource, notwholeassortment/fullcard, no invented reverse; BOTTOMMIDDLE all6creambackground with accurateheading \"HEART AND INFINITY BRACELETS\"; BOTTOMRIGHT blankcream. Accurate product count/style essential, fullviews entirelyinsidecell, website-readyphotorealism.",
+      "sha256": "d7fecd42ef66235ffba579f65f3365bff770ffdd069f9840b2030b62daf98969",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ed3006ff-82fa-4a5a-a8b0-5f6e79ec235d.png",
+      "grid_sha256": "79e22452cbbfe014e404bbb0033c16de16e44748119574f2b41763f518a9485b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Material pendant identity error: heartcentrepieces omit surrounding openround goldring visible in original."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-99d9dcc1-3950-45b9-8977-f5fa678fcb22.png",
+      "source_output": "/workspace/generated_images/exec-99d9dcc1-3950-45b9-8977-f5fa678fcb22.png",
+      "sha256": "fade4f185562976da51d733b2fbb45f879647e014d3d45c1441a23b9edd5aac2",
+      "prompt": "Native edit referenced original photograph into ONE1536x1024 landscape contactgrid exactly3equalcolumns2equalrows512squarecells. No gutters/borders/panellabels. Preserve whole actual assortment asONEproduct, identity/count/shape/colours/materials, originalwhitecardandtransparentsleeves. Removehand/shop/largepriceoverlay. The actual visible assortment is SIXindividualbracelets onSIXlongcards despite12pcs banner; exactly6completebracelets in allfullviews arranged6parallelcolumns. Goldtone bracelets of linked puffedmetalheart beads, with extenderchain/clasp. Twoleftbracelets have roundgoldrim clear-rhinestone heart centerpieces; fourrightbracelets have clear-rhinestone infinity centerpieces. Preserveexact2heart/4infinity, goldheartlinkshape, no whitepearls despitefoldername. Readingorder TOPLEFT all6bracelets purewhite; TOPMIDDLE all6lavendercream satin; TOPRIGHT all6on elegantdressingtable nopeople/extra jewellery; BOTTOMLEFT standaloneEXTREMEtightmacro of actualheartcenterpiece/rhinestones/adjacentchain fromsource, notwholeassortment/fullcard, no invented reverse; BOTTOMMIDDLE all6creambackground with accurateheading \"HEART AND INFINITY BRACELETS\"; BOTTOMRIGHT blankcream. Accurate product count/style essential, fullviews entirelyinsidecell, website-readyphotorealism. CORRECTIVE FINAL: LEFTTWO bracelets have a rhinestone HEART INSIDE a SEPARATE ROUND CIRCULAR GOLD RING. This OUTERROUND GOLD CIRCLE is ESSENTIAL visible original identity, not just a heartoutline. Keep full roundcircle surrounding smaller filledrhinestoneheart in ALLfullviews and detailmacro. RemainingFOURbracelets infinity unchanged. PreserveexactSIX.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-99d9dcc1-3950-45b9-8977-f5fa678fcb22.png",
+      "prompt": "Native edit referenced original photograph into ONE1536x1024 landscape contactgrid exactly3equalcolumns2equalrows512squarecells. No gutters/borders/panellabels. Preserve whole actual assortment asONEproduct, identity/count/shape/colours/materials, originalwhitecardandtransparentsleeves. Removehand/shop/largepriceoverlay. The actual visible assortment is SIXindividualbracelets onSIXlongcards despite12pcs banner; exactly6completebracelets in allfullviews arranged6parallelcolumns. Goldtone bracelets of linked puffedmetalheart beads, with extenderchain/clasp. Twoleftbracelets have roundgoldrim clear-rhinestone heart centerpieces; fourrightbracelets have clear-rhinestone infinity centerpieces. Preserveexact2heart/4infinity, goldheartlinkshape, no whitepearls despitefoldername. Readingorder TOPLEFT all6bracelets purewhite; TOPMIDDLE all6lavendercream satin; TOPRIGHT all6on elegantdressingtable nopeople/extra jewellery; BOTTOMLEFT standaloneEXTREMEtightmacro of actualheartcenterpiece/rhinestones/adjacentchain fromsource, notwholeassortment/fullcard, no invented reverse; BOTTOMMIDDLE all6creambackground with accurateheading \"HEART AND INFINITY BRACELETS\"; BOTTOMRIGHT blankcream. Accurate product count/style essential, fullviews entirelyinsidecell, website-readyphotorealism. CORRECTIVE FINAL: LEFTTWO bracelets have a rhinestone HEART INSIDE a SEPARATE ROUND CIRCULAR GOLD RING. This OUTERROUND GOLD CIRCLE is ESSENTIAL visible original identity, not just a heartoutline. Keep full roundcircle surrounding smaller filledrhinestoneheart in ALLfullviews and detailmacro. RemainingFOURbracelets infinity unchanged. PreserveexactSIX.",
+      "sha256": "89268fdfb157252993e60b1731b5e512d2923883e4306b4fa75a2e7dc54c4c8e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-99d9dcc1-3950-45b9-8977-f5fa678fcb22.png",
+      "grid_sha256": "fade4f185562976da51d733b2fbb45f879647e014d3d45c1441a23b9edd5aac2",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual512savedcrop inspected against original. Six complete gold puffedheartlink bracelets with2roundgoldring/rhinestoneheartcentres and4infinitycentres, originalcount/shape/colour/materials preserved; corrected roundrim omission; appropriate requestedsetting/accurateheading/no panelbleed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-99d9dcc1-3950-45b9-8977-f5fa678fcb22.png",
+      "prompt": "Native edit referenced original photograph into ONE1536x1024 landscape contactgrid exactly3equalcolumns2equalrows512squarecells. No gutters/borders/panellabels. Preserve whole actual assortment asONEproduct, identity/count/shape/colours/materials, originalwhitecardandtransparentsleeves. Removehand/shop/largepriceoverlay. The actual visible assortment is SIXindividualbracelets onSIXlongcards despite12pcs banner; exactly6completebracelets in allfullviews arranged6parallelcolumns. Goldtone bracelets of linked puffedmetalheart beads, with extenderchain/clasp. Twoleftbracelets have roundgoldrim clear-rhinestone heart centerpieces; fourrightbracelets have clear-rhinestone infinity centerpieces. Preserveexact2heart/4infinity, goldheartlinkshape, no whitepearls despitefoldername. Readingorder TOPLEFT all6bracelets purewhite; TOPMIDDLE all6lavendercream satin; TOPRIGHT all6on elegantdressingtable nopeople/extra jewellery; BOTTOMLEFT standaloneEXTREMEtightmacro of actualheartcenterpiece/rhinestones/adjacentchain fromsource, notwholeassortment/fullcard, no invented reverse; BOTTOMMIDDLE all6creambackground with accurateheading \"HEART AND INFINITY BRACELETS\"; BOTTOMRIGHT blankcream. Accurate product count/style essential, fullviews entirelyinsidecell, website-readyphotorealism. CORRECTIVE FINAL: LEFTTWO bracelets have a rhinestone HEART INSIDE a SEPARATE ROUND CIRCULAR GOLD RING. This OUTERROUND GOLD CIRCLE is ESSENTIAL visible original identity, not just a heartoutline. Keep full roundcircle surrounding smaller filledrhinestoneheart in ALLfullviews and detailmacro. RemainingFOURbracelets infinity unchanged. PreserveexactSIX.",
+      "sha256": "af0af79bad214a9e7033327cc6a7ec36c11e6d397949ee59034e3a0ebc58a167",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-99d9dcc1-3950-45b9-8977-f5fa678fcb22.png",
+      "grid_sha256": "fade4f185562976da51d733b2fbb45f879647e014d3d45c1441a23b9edd5aac2",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual512savedcrop inspected against original. Six complete gold puffedheartlink bracelets with2roundgoldring/rhinestoneheartcentres and4infinitycentres, originalcount/shape/colour/materials preserved; corrected roundrim omission; appropriate requestedsetting/accurateheading/no panelbleed."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-99d9dcc1-3950-45b9-8977-f5fa678fcb22.png",
+      "prompt": "Native edit referenced original photograph into ONE1536x1024 landscape contactgrid exactly3equalcolumns2equalrows512squarecells. No gutters/borders/panellabels. Preserve whole actual assortment asONEproduct, identity/count/shape/colours/materials, originalwhitecardandtransparentsleeves. Removehand/shop/largepriceoverlay. The actual visible assortment is SIXindividualbracelets onSIXlongcards despite12pcs banner; exactly6completebracelets in allfullviews arranged6parallelcolumns. Goldtone bracelets of linked puffedmetalheart beads, with extenderchain/clasp. Twoleftbracelets have roundgoldrim clear-rhinestone heart centerpieces; fourrightbracelets have clear-rhinestone infinity centerpieces. Preserveexact2heart/4infinity, goldheartlinkshape, no whitepearls despitefoldername. Readingorder TOPLEFT all6bracelets purewhite; TOPMIDDLE all6lavendercream satin; TOPRIGHT all6on elegantdressingtable nopeople/extra jewellery; BOTTOMLEFT standaloneEXTREMEtightmacro of actualheartcenterpiece/rhinestones/adjacentchain fromsource, notwholeassortment/fullcard, no invented reverse; BOTTOMMIDDLE all6creambackground with accurateheading \"HEART AND INFINITY BRACELETS\"; BOTTOMRIGHT blankcream. Accurate product count/style essential, fullviews entirelyinsidecell, website-readyphotorealism. CORRECTIVE FINAL: LEFTTWO bracelets have a rhinestone HEART INSIDE a SEPARATE ROUND CIRCULAR GOLD RING. This OUTERROUND GOLD CIRCLE is ESSENTIAL visible original identity, not just a heartoutline. Keep full roundcircle surrounding smaller filledrhinestoneheart in ALLfullviews and detailmacro. RemainingFOURbracelets infinity unchanged. PreserveexactSIX.",
+      "sha256": "83b603073ab86a872bce2e94bed92721349ac2a9c23d0ccf685b69b2307c4461",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-99d9dcc1-3950-45b9-8977-f5fa678fcb22.png",
+      "grid_sha256": "fade4f185562976da51d733b2fbb45f879647e014d3d45c1441a23b9edd5aac2",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual512savedcrop inspected against original. Six complete gold puffedheartlink bracelets with2roundgoldring/rhinestoneheartcentres and4infinitycentres, originalcount/shape/colour/materials preserved; corrected roundrim omission; appropriate requestedsetting/accurateheading/no panelbleed."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-99d9dcc1-3950-45b9-8977-f5fa678fcb22.png",
+      "prompt": "Native edit referenced original photograph into ONE1536x1024 landscape contactgrid exactly3equalcolumns2equalrows512squarecells. No gutters/borders/panellabels. Preserve whole actual assortment asONEproduct, identity/count/shape/colours/materials, originalwhitecardandtransparentsleeves. Removehand/shop/largepriceoverlay. The actual visible assortment is SIXindividualbracelets onSIXlongcards despite12pcs banner; exactly6completebracelets in allfullviews arranged6parallelcolumns. Goldtone bracelets of linked puffedmetalheart beads, with extenderchain/clasp. Twoleftbracelets have roundgoldrim clear-rhinestone heart centerpieces; fourrightbracelets have clear-rhinestone infinity centerpieces. Preserveexact2heart/4infinity, goldheartlinkshape, no whitepearls despitefoldername. Readingorder TOPLEFT all6bracelets purewhite; TOPMIDDLE all6lavendercream satin; TOPRIGHT all6on elegantdressingtable nopeople/extra jewellery; BOTTOMLEFT standaloneEXTREMEtightmacro of actualheartcenterpiece/rhinestones/adjacentchain fromsource, notwholeassortment/fullcard, no invented reverse; BOTTOMMIDDLE all6creambackground with accurateheading \"HEART AND INFINITY BRACELETS\"; BOTTOMRIGHT blankcream. Accurate product count/style essential, fullviews entirelyinsidecell, website-readyphotorealism. CORRECTIVE FINAL: LEFTTWO bracelets have a rhinestone HEART INSIDE a SEPARATE ROUND CIRCULAR GOLD RING. This OUTERROUND GOLD CIRCLE is ESSENTIAL visible original identity, not just a heartoutline. Keep full roundcircle surrounding smaller filledrhinestoneheart in ALLfullviews and detailmacro. RemainingFOURbracelets infinity unchanged. PreserveexactSIX.",
+      "sha256": "cac5058102467b635660c78331a47876030a58894504a72b6004d6a2d5d47b5b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-99d9dcc1-3950-45b9-8977-f5fa678fcb22.png",
+      "grid_sha256": "fade4f185562976da51d733b2fbb45f879647e014d3d45c1441a23b9edd5aac2",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual512savedcrop inspected against original. Standalone tight actual rhinestoneheart INSIDEroundgoldring with adjacentpuffedheart link; corrected missingcircle identity."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-99d9dcc1-3950-45b9-8977-f5fa678fcb22.png",
+      "prompt": "Native edit referenced original photograph into ONE1536x1024 landscape contactgrid exactly3equalcolumns2equalrows512squarecells. No gutters/borders/panellabels. Preserve whole actual assortment asONEproduct, identity/count/shape/colours/materials, originalwhitecardandtransparentsleeves. Removehand/shop/largepriceoverlay. The actual visible assortment is SIXindividualbracelets onSIXlongcards despite12pcs banner; exactly6completebracelets in allfullviews arranged6parallelcolumns. Goldtone bracelets of linked puffedmetalheart beads, with extenderchain/clasp. Twoleftbracelets have roundgoldrim clear-rhinestone heart centerpieces; fourrightbracelets have clear-rhinestone infinity centerpieces. Preserveexact2heart/4infinity, goldheartlinkshape, no whitepearls despitefoldername. Readingorder TOPLEFT all6bracelets purewhite; TOPMIDDLE all6lavendercream satin; TOPRIGHT all6on elegantdressingtable nopeople/extra jewellery; BOTTOMLEFT standaloneEXTREMEtightmacro of actualheartcenterpiece/rhinestones/adjacentchain fromsource, notwholeassortment/fullcard, no invented reverse; BOTTOMMIDDLE all6creambackground with accurateheading \"HEART AND INFINITY BRACELETS\"; BOTTOMRIGHT blankcream. Accurate product count/style essential, fullviews entirelyinsidecell, website-readyphotorealism. CORRECTIVE FINAL: LEFTTWO bracelets have a rhinestone HEART INSIDE a SEPARATE ROUND CIRCULAR GOLD RING. This OUTERROUND GOLD CIRCLE is ESSENTIAL visible original identity, not just a heartoutline. Keep full roundcircle surrounding smaller filledrhinestoneheart in ALLfullviews and detailmacro. RemainingFOURbracelets infinity unchanged. PreserveexactSIX.",
+      "sha256": "859df9590da57746d45f9cde3caca1ab0cad30aee456176564da764c8c0878e5",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-99d9dcc1-3950-45b9-8977-f5fa678fcb22.png",
+      "grid_sha256": "fade4f185562976da51d733b2fbb45f879647e014d3d45c1441a23b9edd5aac2",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual512savedcrop inspected against original. Six complete gold puffedheartlink bracelets with2roundgoldring/rhinestoneheartcentres and4infinitycentres, originalcount/shape/colour/materials preserved; corrected roundrim omission; appropriate requestedsetting/accurateheading/no panelbleed."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "01": 1,
+    "02": 1,
+    "03": 1,
+    "04": 1,
+    "05": 1
+  },
+  "corrective_attempts_by_view": {
+    "01": 1,
+    "02": 1,
+    "03": 1,
+    "04": 1,
+    "05": 1
+  },
+  "original_plan_hashes_verified": true
+}

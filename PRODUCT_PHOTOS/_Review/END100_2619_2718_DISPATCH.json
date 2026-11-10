@@ -1,9 +1,6 @@
 {
   "assigned": {
-    "new_worker1": [
-      "2622",
-      "2621"
-    ],
+    "new_worker1": [],
     "new_worker2": [],
     "new_worker3": [],
     "new_worker4": [],
@@ -355,6 +352,17 @@
         "2620",
         "2619"
       ]
+    },
+    {
+      "worker": "new_worker1",
+      "product_ids": [
+        "2622",
+        "2621"
+      ]
     }
-  ]
+  ],
+  "status": "exhausted",
+  "remaining_unassigned": 0,
+  "active_products": 0,
+  "in_flight_calls": 0
 }

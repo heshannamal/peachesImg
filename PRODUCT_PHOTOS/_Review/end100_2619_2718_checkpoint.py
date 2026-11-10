@@ -30,7 +30,7 @@ def reconcile():
    else:errors.append('unreviewed or unrecorded: '+name)
   if len(set(hashes))!=len(hashes):errors.append('duplicate generated files')
   complete=folder.name.endswith('-1') and len(checked)==5 and not errors
-  blocked=str(notes.get('status','')).startswith('blocked')
+  note_status=str(notes.get('status','')).lower();blocked=note_status.startswith('blocked') or note_status in {'moderation_blocked','output_moderation_blocked'}
   status='complete' if complete else ('blocked' if blocked else ('partial' if present else 'pending'))
   if folder.name.endswith('-1') and not complete:errors.append('incorrect complete suffix')
   index[pid].update(folder=folder.name,new_images=len(present),generation_complete=complete,generation_status=('complete' if complete else (notes.get('status') if blocked else ('in_progress' if present else 'pending'))))

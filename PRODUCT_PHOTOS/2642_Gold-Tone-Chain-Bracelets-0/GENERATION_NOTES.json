@@ -1,0 +1,131 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261002-WA0043.jpg": "806c899d352f41cce7a2bcf78e411c20d6bbd4536ec88af551f27754eb415ef8"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-dd628fc9-6ee0-401a-adde-ee0bd2f6ac8d.png",
+      "source_output": "/workspace/generated_images/exec-dd628fc9-6ee0-401a-adde-ee0bd2f6ac8d.png",
+      "sha256": "b2204f375684cb802ecd9173e632af8d309582236ff4c7c8b02e253fc8392df1",
+      "prompt": "Create ONE website-ready landscape1536x1024 image with exactly3equal columns by2equal rows, six512x512cells. No gutters, borders, panel labels or overlap across cells. Edit referenced actual original only, no stock substitute. Reading-order cells:1 full original assortment cleanwhite;2 full assortment lavender/cream styled;3 full assortment tasteful vanity lifestyle;4 standalone tight macro of one real visible part ONLY;5 full assortment promotional image with accurate heading GOLD-TONE CHARM BRACELETS;6 blankcream. Entire assortment fits each full-view cell with generous margin. Remove hand, shop and external price/quantity overlay; do not add claims. Preserve actual identity/count/shapes/colours/packaging and overlapping arrangement exactly. Website quality sufficient. Actual SIX gold-tone chain bracelets in six white narrow backing-card lanes within clear package. Six small character charms: two pink left, two blue middle, two brown right; retain original face and clothing shapes. Gold-tone small bead accents, lobster clasps and extender chains. Do not treat external12pcs text as visible count. Macro real chain/bead and one charm.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "Rejected/attempt1_01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-dd628fc9-6ee0-401a-adde-ee0bd2f6ac8d.png",
+      "prompt": "Create ONE website-ready landscape1536x1024 image with exactly3equal columns by2equal rows, six512x512cells. No gutters, borders, panel labels or overlap across cells. Edit referenced actual original only, no stock substitute. Reading-order cells:1 full original assortment cleanwhite;2 full assortment lavender/cream styled;3 full assortment tasteful vanity lifestyle;4 standalone tight macro of one real visible part ONLY;5 full assortment promotional image with accurate heading GOLD-TONE CHARM BRACELETS;6 blankcream. Entire assortment fits each full-view cell with generous margin. Remove hand, shop and external price/quantity overlay; do not add claims. Preserve actual identity/count/shapes/colours/packaging and overlapping arrangement exactly. Website quality sufficient. Actual SIX gold-tone chain bracelets in six white narrow backing-card lanes within clear package. Six small character charms: two pink left, two blue middle, two brown right; retain original face and clothing shapes. Gold-tone small bead accents, lobster clasps and extender chains. Do not treat external12pcs text as visible count. Macro real chain/bead and one charm.",
+      "sha256": "6751862af86f8a64a5afae769e1b3ccee570709055d9972bf1942d97ff7b93c4",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-dd628fc9-6ee0-401a-adde-ee0bd2f6ac8d.png",
+      "grid_sha256": "b2204f375684cb802ecd9173e632af8d309582236ff4c7c8b02e253fc8392df1",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Rejected material count error: six charms but only five distinct clasp/chain bracelet lanes; one blue charm detached. Corrective attempt allocated once."
+    },
+    {
+      "saved_file": "Rejected/attempt1_02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-dd628fc9-6ee0-401a-adde-ee0bd2f6ac8d.png",
+      "prompt": "Create ONE website-ready landscape1536x1024 image with exactly3equal columns by2equal rows, six512x512cells. No gutters, borders, panel labels or overlap across cells. Edit referenced actual original only, no stock substitute. Reading-order cells:1 full original assortment cleanwhite;2 full assortment lavender/cream styled;3 full assortment tasteful vanity lifestyle;4 standalone tight macro of one real visible part ONLY;5 full assortment promotional image with accurate heading GOLD-TONE CHARM BRACELETS;6 blankcream. Entire assortment fits each full-view cell with generous margin. Remove hand, shop and external price/quantity overlay; do not add claims. Preserve actual identity/count/shapes/colours/packaging and overlapping arrangement exactly. Website quality sufficient. Actual SIX gold-tone chain bracelets in six white narrow backing-card lanes within clear package. Six small character charms: two pink left, two blue middle, two brown right; retain original face and clothing shapes. Gold-tone small bead accents, lobster clasps and extender chains. Do not treat external12pcs text as visible count. Macro real chain/bead and one charm.",
+      "sha256": "00692f401cbcb682ddfa9ada5092da3f1fd0f4f8161f3278a505ff54216a8bef",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-dd628fc9-6ee0-401a-adde-ee0bd2f6ac8d.png",
+      "grid_sha256": "b2204f375684cb802ecd9173e632af8d309582236ff4c7c8b02e253fc8392df1",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Rejected material count error: six charms but only five distinct clasp/chain bracelet lanes; one blue charm detached. Corrective attempt allocated once."
+    },
+    {
+      "saved_file": "Rejected/attempt1_03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-dd628fc9-6ee0-401a-adde-ee0bd2f6ac8d.png",
+      "prompt": "Create ONE website-ready landscape1536x1024 image with exactly3equal columns by2equal rows, six512x512cells. No gutters, borders, panel labels or overlap across cells. Edit referenced actual original only, no stock substitute. Reading-order cells:1 full original assortment cleanwhite;2 full assortment lavender/cream styled;3 full assortment tasteful vanity lifestyle;4 standalone tight macro of one real visible part ONLY;5 full assortment promotional image with accurate heading GOLD-TONE CHARM BRACELETS;6 blankcream. Entire assortment fits each full-view cell with generous margin. Remove hand, shop and external price/quantity overlay; do not add claims. Preserve actual identity/count/shapes/colours/packaging and overlapping arrangement exactly. Website quality sufficient. Actual SIX gold-tone chain bracelets in six white narrow backing-card lanes within clear package. Six small character charms: two pink left, two blue middle, two brown right; retain original face and clothing shapes. Gold-tone small bead accents, lobster clasps and extender chains. Do not treat external12pcs text as visible count. Macro real chain/bead and one charm.",
+      "sha256": "0f752a21eea7196476bbdb4bb4aeb3400c0302c5424529ad73a3107e5917e426",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-dd628fc9-6ee0-401a-adde-ee0bd2f6ac8d.png",
+      "grid_sha256": "b2204f375684cb802ecd9173e632af8d309582236ff4c7c8b02e253fc8392df1",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Rejected material count error: six charms but only five distinct clasp/chain bracelet lanes; one blue charm detached. Corrective attempt allocated once."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-dd628fc9-6ee0-401a-adde-ee0bd2f6ac8d.png",
+      "prompt": "Create ONE website-ready landscape1536x1024 image with exactly3equal columns by2equal rows, six512x512cells. No gutters, borders, panel labels or overlap across cells. Edit referenced actual original only, no stock substitute. Reading-order cells:1 full original assortment cleanwhite;2 full assortment lavender/cream styled;3 full assortment tasteful vanity lifestyle;4 standalone tight macro of one real visible part ONLY;5 full assortment promotional image with accurate heading GOLD-TONE CHARM BRACELETS;6 blankcream. Entire assortment fits each full-view cell with generous margin. Remove hand, shop and external price/quantity overlay; do not add claims. Preserve actual identity/count/shapes/colours/packaging and overlapping arrangement exactly. Website quality sufficient. Actual SIX gold-tone chain bracelets in six white narrow backing-card lanes within clear package. Six small character charms: two pink left, two blue middle, two brown right; retain original face and clothing shapes. Gold-tone small bead accents, lobster clasps and extender chains. Do not treat external12pcs text as visible count. Macro real chain/bead and one charm.",
+      "sha256": "1d1b325f08b2333600462ae281c8b4cca9692649e34be7e99120bd814da4ed15",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-dd628fc9-6ee0-401a-adde-ee0bd2f6ac8d.png",
+      "grid_sha256": "b2204f375684cb802ecd9173e632af8d309582236ff4c7c8b02e253fc8392df1",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "Rejected/attempt1_05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-dd628fc9-6ee0-401a-adde-ee0bd2f6ac8d.png",
+      "prompt": "Create ONE website-ready landscape1536x1024 image with exactly3equal columns by2equal rows, six512x512cells. No gutters, borders, panel labels or overlap across cells. Edit referenced actual original only, no stock substitute. Reading-order cells:1 full original assortment cleanwhite;2 full assortment lavender/cream styled;3 full assortment tasteful vanity lifestyle;4 standalone tight macro of one real visible part ONLY;5 full assortment promotional image with accurate heading GOLD-TONE CHARM BRACELETS;6 blankcream. Entire assortment fits each full-view cell with generous margin. Remove hand, shop and external price/quantity overlay; do not add claims. Preserve actual identity/count/shapes/colours/packaging and overlapping arrangement exactly. Website quality sufficient. Actual SIX gold-tone chain bracelets in six white narrow backing-card lanes within clear package. Six small character charms: two pink left, two blue middle, two brown right; retain original face and clothing shapes. Gold-tone small bead accents, lobster clasps and extender chains. Do not treat external12pcs text as visible count. Macro real chain/bead and one charm.",
+      "sha256": "765d8bb47044fbf3457d1bf9eb3843b867807f229a0a2368b4241d21b7bd848f",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-dd628fc9-6ee0-401a-adde-ee0bd2f6ac8d.png",
+      "grid_sha256": "b2204f375684cb802ecd9173e632af8d309582236ff4c7c8b02e253fc8392df1",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Rejected material count error: six charms but only five distinct clasp/chain bracelet lanes; one blue charm detached. Corrective attempt allocated once."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "01_White-Background.png": 1,
+    "02_Styled-Background.png": 1,
+    "03_Lifestyle.png": 1,
+    "05_Promotional.png": 1
+  }
+}

@@ -1,28 +1,22 @@
 {
-  "status": "paused_model_usage_limit",
+  "status": "running",
   "started_at": "2026-11-10T03:20:32.478660+00:00",
   "max_active_products": 10,
   "processing_order": "descending_numeric_product_id",
   "generation_workflow": "one_native3x2grid_then_five_crops",
-  "updated_at": "2026-11-10T06:15:23.474624+00:00",
+  "updated_at": "2026-11-10T06:25:26.540313+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 15,
-  "partial_products": 8,
-  "pending_products": 77,
+  "completed_products": 18,
+  "partial_products": 10,
+  "pending_products": 72,
   "blocked_products": 0,
-  "saved_images": 95,
-  "checked_images": 84,
+  "saved_images": 120,
+  "checked_images": 99,
   "paused_at": "2026-11-10T06:16:04.610521+00:00",
   "in_flight_calls": 0,
   "active_products": 0,
-  "blocker": {
-    "type": "worker_model_usage_limit",
-    "message": "You have hit your usage limit. Try again at6:02AM.",
-    "reported_reset_time": "6:02AM;timezone unspecified",
-    "native_image_quota_error_observed": false
-  },
-  "resume_rule": "Review saved outputs first; do not retry spent corrective views2618/2614/2606. Finish assigned pending2600/2599/2598/2597 before dispatch2596down. Preserve five existing makeup whites2553\u20132549. Do not clear generation stop sentinel until new user-authorized resumed run.",
+  "resume_rule": "Preserve completed and valid crops; skip spent2618/2614/2606; resume assignedpending then atomicdescendingclaims; check new sentinel before every call.",
   "spent_corrective_product_ids": [
     "2618",
     "2614",
@@ -33,7 +27,13 @@
     "2606",
     "2603"
   ],
-  "prompt_recovery_exception": {
-    "2607": "Exact corrective prompt unavailable after worker limit; recorded null with disclosure, initial exact prompt retained."
-  }
+  "resumed_at": "2026-11-10T06:22:13.281366+00:00",
+  "prompt_recovery_update": "2607exactcorrective recovered from .generation_prompts/2607_corrective.txt",
+  "previous_blocker": {
+    "type": "worker_model_usage_limit",
+    "message": "You have hit your usage limit. Try again at6:02AM.",
+    "reported_reset_time": "6:02AM;timezone unspecified",
+    "native_image_quota_error_observed": false
+  },
+  "native_availability_probe": "2600 succeeded; resumed5workers max2activeproducts each"
 }

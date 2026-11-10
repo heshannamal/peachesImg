@@ -1,0 +1,126 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0262.jpg": "0917f121b532158e6dbccc45c60bda29a7c418c9a453ab1d9eed64cea4be6ed2"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-62783afd-f3f9-4656-905a-d7729685b135.png",
+      "source_output": "/workspace/generated_images/exec-62783afd-f3f9-4656-905a-d7729685b135.png",
+      "sha256": "02ebcbcd9382d0847621417e9a11dcc1e3b747d65d95b974b840af9d0c4f773b",
+      "prompt": "Edit supplied actual original into ONE1536x1024 website-ready borderless 3column2row equal512squarecells. Preserve exact photographed assortment count,chain/pendant identity, shapes,gem colours. Remove hand,shop,priceoverlay,outerplasticglare; retain3white displaycards. Fullviewcells show THREE necklaces/cards together,never12 despite oldoverlay. Toprow:whitebackground;lavender/creamstyled;background;naturaljewelryvanity lifestyle. Bottomrow:standalone tightrealpart pendant macro;promotional full assortment with accurateheading;blankcream unused. Exactboundaries x512,1024,y512, nogutters/borders. Actualsubject THREE gold-tone SHOOTING STAR necklaces: left pink iridescent star gem, middle brightred star gem, right black star gem; each star has small clear rhinestone perimeter and gold curved shooting tail with tiny star ends. Preserve these3variants and asymmetrical star-tail shape, linkedfinegoldchains. Detail focuses pink star+tail closeup. Promotional heading 'Shooting Star Necklaces'. Folder says round but follow actualstaroriginal.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-62783afd-f3f9-4656-905a-d7729685b135.png",
+      "prompt": "Edit supplied actual original into ONE1536x1024 website-ready borderless 3column2row equal512squarecells. Preserve exact photographed assortment count,chain/pendant identity, shapes,gem colours. Remove hand,shop,priceoverlay,outerplasticglare; retain3white displaycards. Fullviewcells show THREE necklaces/cards together,never12 despite oldoverlay. Toprow:whitebackground;lavender/creamstyled;background;naturaljewelryvanity lifestyle. Bottomrow:standalone tightrealpart pendant macro;promotional full assortment with accurateheading;blankcream unused. Exactboundaries x512,1024,y512, nogutters/borders. Actualsubject THREE gold-tone SHOOTING STAR necklaces: left pink iridescent star gem, middle brightred star gem, right black star gem; each star has small clear rhinestone perimeter and gold curved shooting tail with tiny star ends. Preserve these3variants and asymmetrical star-tail shape, linkedfinegoldchains. Detail focuses pink star+tail closeup. Promotional heading 'Shooting Star Necklaces'. Folder says round but follow actualstaroriginal.\n",
+      "sha256": "aad97f1ed52d9b99e546ab196453ee927c8c645da82ed985633dafa68bb0a59f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-62783afd-f3f9-4656-905a-d7729685b135.png",
+      "grid_sha256": "02ebcbcd9382d0847621417e9a11dcc1e3b747d65d95b974b840af9d0c4f773b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Pass: all four fullviews retain three gold shooting-star necklaces/cards pink-iridescent,red,black with rhinestone star outline and curved star-tail motif. Actualfolder mislabels round; heading correctly Shooting Star Necklaces. Detail tight actual pink star and tail. Clean512cell boundaries; original/outputSHA verified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-62783afd-f3f9-4656-905a-d7729685b135.png",
+      "prompt": "Edit supplied actual original into ONE1536x1024 website-ready borderless 3column2row equal512squarecells. Preserve exact photographed assortment count,chain/pendant identity, shapes,gem colours. Remove hand,shop,priceoverlay,outerplasticglare; retain3white displaycards. Fullviewcells show THREE necklaces/cards together,never12 despite oldoverlay. Toprow:whitebackground;lavender/creamstyled;background;naturaljewelryvanity lifestyle. Bottomrow:standalone tightrealpart pendant macro;promotional full assortment with accurateheading;blankcream unused. Exactboundaries x512,1024,y512, nogutters/borders. Actualsubject THREE gold-tone SHOOTING STAR necklaces: left pink iridescent star gem, middle brightred star gem, right black star gem; each star has small clear rhinestone perimeter and gold curved shooting tail with tiny star ends. Preserve these3variants and asymmetrical star-tail shape, linkedfinegoldchains. Detail focuses pink star+tail closeup. Promotional heading 'Shooting Star Necklaces'. Folder says round but follow actualstaroriginal.\n",
+      "sha256": "d9e88c3cb6f17ca0982dde2125b8544a5c95c4f0f5ce0f84c7c901009754f04d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-62783afd-f3f9-4656-905a-d7729685b135.png",
+      "grid_sha256": "02ebcbcd9382d0847621417e9a11dcc1e3b747d65d95b974b840af9d0c4f773b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Pass: all four fullviews retain three gold shooting-star necklaces/cards pink-iridescent,red,black with rhinestone star outline and curved star-tail motif. Actualfolder mislabels round; heading correctly Shooting Star Necklaces. Detail tight actual pink star and tail. Clean512cell boundaries; original/outputSHA verified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-62783afd-f3f9-4656-905a-d7729685b135.png",
+      "prompt": "Edit supplied actual original into ONE1536x1024 website-ready borderless 3column2row equal512squarecells. Preserve exact photographed assortment count,chain/pendant identity, shapes,gem colours. Remove hand,shop,priceoverlay,outerplasticglare; retain3white displaycards. Fullviewcells show THREE necklaces/cards together,never12 despite oldoverlay. Toprow:whitebackground;lavender/creamstyled;background;naturaljewelryvanity lifestyle. Bottomrow:standalone tightrealpart pendant macro;promotional full assortment with accurateheading;blankcream unused. Exactboundaries x512,1024,y512, nogutters/borders. Actualsubject THREE gold-tone SHOOTING STAR necklaces: left pink iridescent star gem, middle brightred star gem, right black star gem; each star has small clear rhinestone perimeter and gold curved shooting tail with tiny star ends. Preserve these3variants and asymmetrical star-tail shape, linkedfinegoldchains. Detail focuses pink star+tail closeup. Promotional heading 'Shooting Star Necklaces'. Folder says round but follow actualstaroriginal.\n",
+      "sha256": "6c2322bde520dd4c19320230cc8b6d5006be16eb28cf6def6511b4b6b633d4b3",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-62783afd-f3f9-4656-905a-d7729685b135.png",
+      "grid_sha256": "02ebcbcd9382d0847621417e9a11dcc1e3b747d65d95b974b840af9d0c4f773b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Pass: all four fullviews retain three gold shooting-star necklaces/cards pink-iridescent,red,black with rhinestone star outline and curved star-tail motif. Actualfolder mislabels round; heading correctly Shooting Star Necklaces. Detail tight actual pink star and tail. Clean512cell boundaries; original/outputSHA verified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-62783afd-f3f9-4656-905a-d7729685b135.png",
+      "prompt": "Edit supplied actual original into ONE1536x1024 website-ready borderless 3column2row equal512squarecells. Preserve exact photographed assortment count,chain/pendant identity, shapes,gem colours. Remove hand,shop,priceoverlay,outerplasticglare; retain3white displaycards. Fullviewcells show THREE necklaces/cards together,never12 despite oldoverlay. Toprow:whitebackground;lavender/creamstyled;background;naturaljewelryvanity lifestyle. Bottomrow:standalone tightrealpart pendant macro;promotional full assortment with accurateheading;blankcream unused. Exactboundaries x512,1024,y512, nogutters/borders. Actualsubject THREE gold-tone SHOOTING STAR necklaces: left pink iridescent star gem, middle brightred star gem, right black star gem; each star has small clear rhinestone perimeter and gold curved shooting tail with tiny star ends. Preserve these3variants and asymmetrical star-tail shape, linkedfinegoldchains. Detail focuses pink star+tail closeup. Promotional heading 'Shooting Star Necklaces'. Folder says round but follow actualstaroriginal.\n",
+      "sha256": "0e00ed22beeae936ae2701f566068fb64b976631a09b6aba8f26c45ba6eef086",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-62783afd-f3f9-4656-905a-d7729685b135.png",
+      "grid_sha256": "02ebcbcd9382d0847621417e9a11dcc1e3b747d65d95b974b840af9d0c4f773b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Pass: all four fullviews retain three gold shooting-star necklaces/cards pink-iridescent,red,black with rhinestone star outline and curved star-tail motif. Actualfolder mislabels round; heading correctly Shooting Star Necklaces. Detail tight actual pink star and tail. Clean512cell boundaries; original/outputSHA verified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-62783afd-f3f9-4656-905a-d7729685b135.png",
+      "prompt": "Edit supplied actual original into ONE1536x1024 website-ready borderless 3column2row equal512squarecells. Preserve exact photographed assortment count,chain/pendant identity, shapes,gem colours. Remove hand,shop,priceoverlay,outerplasticglare; retain3white displaycards. Fullviewcells show THREE necklaces/cards together,never12 despite oldoverlay. Toprow:whitebackground;lavender/creamstyled;background;naturaljewelryvanity lifestyle. Bottomrow:standalone tightrealpart pendant macro;promotional full assortment with accurateheading;blankcream unused. Exactboundaries x512,1024,y512, nogutters/borders. Actualsubject THREE gold-tone SHOOTING STAR necklaces: left pink iridescent star gem, middle brightred star gem, right black star gem; each star has small clear rhinestone perimeter and gold curved shooting tail with tiny star ends. Preserve these3variants and asymmetrical star-tail shape, linkedfinegoldchains. Detail focuses pink star+tail closeup. Promotional heading 'Shooting Star Necklaces'. Folder says round but follow actualstaroriginal.\n",
+      "sha256": "e784b79df9890e2808f6d234f40ab97f5c1fc8dad9fb9dbe06d61383284208d7",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-62783afd-f3f9-4656-905a-d7729685b135.png",
+      "grid_sha256": "02ebcbcd9382d0847621417e9a11dcc1e3b747d65d95b974b840af9d0c4f773b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Pass: all four fullviews retain three gold shooting-star necklaces/cards pink-iridescent,red,black with rhinestone star outline and curved star-tail motif. Actualfolder mislabels round; heading correctly Shooting Star Necklaces. Detail tight actual pink star and tail. Clean512cell boundaries; original/outputSHA verified."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

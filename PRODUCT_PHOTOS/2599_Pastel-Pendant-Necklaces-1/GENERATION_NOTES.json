@@ -1,0 +1,126 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0261.jpg": "3dcf4695f49a4983b282dafcbba3034615b1c06ba3a9be0e9e43000f912464ef"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-0f302ac5-a617-42e5-9d13-9a2ec766d129.png",
+      "source_output": "/workspace/generated_images/exec-0f302ac5-a617-42e5-9d13-9a2ec766d129.png",
+      "sha256": "c08fbdcdb92c61814927140cc0b26166348a4ae2f2445776cfc0c51db4a055b3",
+      "prompt": "Edit supplied actual original into ONE1536x1024 website-ready borderless 3column2row equal512squarecells. Preserve exact photographed assortment count,chain/pendant identity, shapes,gem colours. Remove hand,shop,priceoverlay,outerplasticglare; retain3white displaycards. Fullviewcells show THREE necklaces/cards together,never12 despite oldoverlay. Toprow:whitebackground;lavender/creamstyled;background;naturaljewelryvanity lifestyle. Bottomrow:standalone tightrealpart pendant macro;promotional full assortment with accurateheading;blankcream unused. Exactboundaries x512,1024,y512, nogutters/borders. Actualsubject THREE gold-tone ROUND/FOUR-LOBE jewel pendant necklaces: left iridescent lightblue oval roundgem, middle ruby-red roundgem, right iridescent palegreen roundgem; each centre set inside rounded four-lobe/clover goldframe with tiny clear rhinestones. Preserve3colours/3cards/exactframe, linkedfinegoldchains. Detailfocus blue pendant closeup. Promotionalheading 'Gem Pendant Necklaces'.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-0f302ac5-a617-42e5-9d13-9a2ec766d129.png",
+      "prompt": "Edit supplied actual original into ONE1536x1024 website-ready borderless 3column2row equal512squarecells. Preserve exact photographed assortment count,chain/pendant identity, shapes,gem colours. Remove hand,shop,priceoverlay,outerplasticglare; retain3white displaycards. Fullviewcells show THREE necklaces/cards together,never12 despite oldoverlay. Toprow:whitebackground;lavender/creamstyled;background;naturaljewelryvanity lifestyle. Bottomrow:standalone tightrealpart pendant macro;promotional full assortment with accurateheading;blankcream unused. Exactboundaries x512,1024,y512, nogutters/borders. Actualsubject THREE gold-tone ROUND/FOUR-LOBE jewel pendant necklaces: left iridescent lightblue oval roundgem, middle ruby-red roundgem, right iridescent palegreen roundgem; each centre set inside rounded four-lobe/clover goldframe with tiny clear rhinestones. Preserve3colours/3cards/exactframe, linkedfinegoldchains. Detailfocus blue pendant closeup. Promotionalheading 'Gem Pendant Necklaces'.\n",
+      "sha256": "0eeef63d19c2c4e4e48704ede5bf1ffd1c4fc40de4e138fee3d1d55e7930d814",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0f302ac5-a617-42e5-9d13-9a2ec766d129.png",
+      "grid_sha256": "c08fbdcdb92c61814927140cc0b26166348a4ae2f2445776cfc0c51db4a055b3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Pass: all four fullviews retain three white cards/gold chains with blue-iridescent,red,palegreen round central stones in matching four-lobe rhinestone frames. Detail is tight actual bluegem/frame. Accurate promotional heading and clean512cell boundaries; frozenoriginal/output SHA verified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-0f302ac5-a617-42e5-9d13-9a2ec766d129.png",
+      "prompt": "Edit supplied actual original into ONE1536x1024 website-ready borderless 3column2row equal512squarecells. Preserve exact photographed assortment count,chain/pendant identity, shapes,gem colours. Remove hand,shop,priceoverlay,outerplasticglare; retain3white displaycards. Fullviewcells show THREE necklaces/cards together,never12 despite oldoverlay. Toprow:whitebackground;lavender/creamstyled;background;naturaljewelryvanity lifestyle. Bottomrow:standalone tightrealpart pendant macro;promotional full assortment with accurateheading;blankcream unused. Exactboundaries x512,1024,y512, nogutters/borders. Actualsubject THREE gold-tone ROUND/FOUR-LOBE jewel pendant necklaces: left iridescent lightblue oval roundgem, middle ruby-red roundgem, right iridescent palegreen roundgem; each centre set inside rounded four-lobe/clover goldframe with tiny clear rhinestones. Preserve3colours/3cards/exactframe, linkedfinegoldchains. Detailfocus blue pendant closeup. Promotionalheading 'Gem Pendant Necklaces'.\n",
+      "sha256": "96e857c5d5a5feba56642945d4b6681fa7d7fe5a2e4644d7a87da29c526ab117",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0f302ac5-a617-42e5-9d13-9a2ec766d129.png",
+      "grid_sha256": "c08fbdcdb92c61814927140cc0b26166348a4ae2f2445776cfc0c51db4a055b3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Pass: all four fullviews retain three white cards/gold chains with blue-iridescent,red,palegreen round central stones in matching four-lobe rhinestone frames. Detail is tight actual bluegem/frame. Accurate promotional heading and clean512cell boundaries; frozenoriginal/output SHA verified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-0f302ac5-a617-42e5-9d13-9a2ec766d129.png",
+      "prompt": "Edit supplied actual original into ONE1536x1024 website-ready borderless 3column2row equal512squarecells. Preserve exact photographed assortment count,chain/pendant identity, shapes,gem colours. Remove hand,shop,priceoverlay,outerplasticglare; retain3white displaycards. Fullviewcells show THREE necklaces/cards together,never12 despite oldoverlay. Toprow:whitebackground;lavender/creamstyled;background;naturaljewelryvanity lifestyle. Bottomrow:standalone tightrealpart pendant macro;promotional full assortment with accurateheading;blankcream unused. Exactboundaries x512,1024,y512, nogutters/borders. Actualsubject THREE gold-tone ROUND/FOUR-LOBE jewel pendant necklaces: left iridescent lightblue oval roundgem, middle ruby-red roundgem, right iridescent palegreen roundgem; each centre set inside rounded four-lobe/clover goldframe with tiny clear rhinestones. Preserve3colours/3cards/exactframe, linkedfinegoldchains. Detailfocus blue pendant closeup. Promotionalheading 'Gem Pendant Necklaces'.\n",
+      "sha256": "8a7d4300b480f4b35b3bd419dfa66dc88eca2db091276ad77cf3603c6e0e4758",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0f302ac5-a617-42e5-9d13-9a2ec766d129.png",
+      "grid_sha256": "c08fbdcdb92c61814927140cc0b26166348a4ae2f2445776cfc0c51db4a055b3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Pass: all four fullviews retain three white cards/gold chains with blue-iridescent,red,palegreen round central stones in matching four-lobe rhinestone frames. Detail is tight actual bluegem/frame. Accurate promotional heading and clean512cell boundaries; frozenoriginal/output SHA verified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-0f302ac5-a617-42e5-9d13-9a2ec766d129.png",
+      "prompt": "Edit supplied actual original into ONE1536x1024 website-ready borderless 3column2row equal512squarecells. Preserve exact photographed assortment count,chain/pendant identity, shapes,gem colours. Remove hand,shop,priceoverlay,outerplasticglare; retain3white displaycards. Fullviewcells show THREE necklaces/cards together,never12 despite oldoverlay. Toprow:whitebackground;lavender/creamstyled;background;naturaljewelryvanity lifestyle. Bottomrow:standalone tightrealpart pendant macro;promotional full assortment with accurateheading;blankcream unused. Exactboundaries x512,1024,y512, nogutters/borders. Actualsubject THREE gold-tone ROUND/FOUR-LOBE jewel pendant necklaces: left iridescent lightblue oval roundgem, middle ruby-red roundgem, right iridescent palegreen roundgem; each centre set inside rounded four-lobe/clover goldframe with tiny clear rhinestones. Preserve3colours/3cards/exactframe, linkedfinegoldchains. Detailfocus blue pendant closeup. Promotionalheading 'Gem Pendant Necklaces'.\n",
+      "sha256": "e724a40e742565df6527b35e2cc2fd09ececb3a82a39be10692e113a3a423025",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0f302ac5-a617-42e5-9d13-9a2ec766d129.png",
+      "grid_sha256": "c08fbdcdb92c61814927140cc0b26166348a4ae2f2445776cfc0c51db4a055b3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Pass: all four fullviews retain three white cards/gold chains with blue-iridescent,red,palegreen round central stones in matching four-lobe rhinestone frames. Detail is tight actual bluegem/frame. Accurate promotional heading and clean512cell boundaries; frozenoriginal/output SHA verified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-0f302ac5-a617-42e5-9d13-9a2ec766d129.png",
+      "prompt": "Edit supplied actual original into ONE1536x1024 website-ready borderless 3column2row equal512squarecells. Preserve exact photographed assortment count,chain/pendant identity, shapes,gem colours. Remove hand,shop,priceoverlay,outerplasticglare; retain3white displaycards. Fullviewcells show THREE necklaces/cards together,never12 despite oldoverlay. Toprow:whitebackground;lavender/creamstyled;background;naturaljewelryvanity lifestyle. Bottomrow:standalone tightrealpart pendant macro;promotional full assortment with accurateheading;blankcream unused. Exactboundaries x512,1024,y512, nogutters/borders. Actualsubject THREE gold-tone ROUND/FOUR-LOBE jewel pendant necklaces: left iridescent lightblue oval roundgem, middle ruby-red roundgem, right iridescent palegreen roundgem; each centre set inside rounded four-lobe/clover goldframe with tiny clear rhinestones. Preserve3colours/3cards/exactframe, linkedfinegoldchains. Detailfocus blue pendant closeup. Promotionalheading 'Gem Pendant Necklaces'.\n",
+      "sha256": "81800e8c51048b13aeb2a35d2feb38bc77a82510c0a9d881242b697e03f1ada9",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0f302ac5-a617-42e5-9d13-9a2ec766d129.png",
+      "grid_sha256": "c08fbdcdb92c61814927140cc0b26166348a4ae2f2445776cfc0c51db4a055b3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Pass: all four fullviews retain three white cards/gold chains with blue-iridescent,red,palegreen round central stones in matching four-lobe rhinestone frames. Detail is tight actual bluegem/frame. Accurate promotional heading and clean512cell boundaries; frozenoriginal/output SHA verified."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

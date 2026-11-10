@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0203.jpg": "1282a92befd6c2c2520663ee2afef59e162951fbae7f60dcb308f65ba8a95fa9"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-4a1070cd-4201-4e90-8384-ea91981d215e.png",
+      "source_output": "/workspace/generated_images/exec-4a1070cd-4201-4e90-8384-ea91981d215e.png",
+      "sha256": "dd3726089bae74cd3c04c6b58830305c88a205a83292e1328e72bb59bb4e0012",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Transparent Gift Bags\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment FIVE separate flatfolded giftbag packs, colours PINK, KRAFT TAN, BLACK, RED, WHITE; onepackeach colour. Each rectangular paper-frame giftbag has bigrounded-rectangle TRANSPARENT plastic window panel and matching satinribbon handles, flatpacked insideclearouterpackaging. Preservefivepacks and sourceflatfolded rectangularform; do not turn into rigidboxes or sixbags. In cells1/2/3/5 ALLFIVE differentcolouredpacks mustbevisible together, no singlebagonly andno duplicatedcolour. Lifestyle flatlay on giftwrappingtable, notfilled/inventedbags. Remove oldpricebanner/storefloor and sticker. Macro closecrop of actualRED satinhandle at redpaperframe/clearwindowjunction. Promotionalheading exactTransparent Gift Bags; no quantityclaim beyondvisiblefivepacks.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-4a1070cd-4201-4e90-8384-ea91981d215e.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Transparent Gift Bags\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment FIVE separate flatfolded giftbag packs, colours PINK, KRAFT TAN, BLACK, RED, WHITE; onepackeach colour. Each rectangular paper-frame giftbag has bigrounded-rectangle TRANSPARENT plastic window panel and matching satinribbon handles, flatpacked insideclearouterpackaging. Preservefivepacks and sourceflatfolded rectangularform; do not turn into rigidboxes or sixbags. In cells1/2/3/5 ALLFIVE differentcolouredpacks mustbevisible together, no singlebagonly andno duplicatedcolour. Lifestyle flatlay on giftwrappingtable, notfilled/inventedbags. Remove oldpricebanner/storefloor and sticker. Macro closecrop of actualRED satinhandle at redpaperframe/clearwindowjunction. Promotionalheading exactTransparent Gift Bags; no quantityclaim beyondvisiblefivepacks.",
+      "sha256": "d7bfcf3f2bba891094b62bdd0984d18a5dd76394bd8c56628613f2213ae7a819",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4a1070cd-4201-4e90-8384-ea91981d215e.png",
+      "grid_sha256": "dd3726089bae74cd3c04c6b58830305c88a205a83292e1328e72bb59bb4e0012",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual grid and crop reviewed: Five flatpacked transparent-window giftbag packs, pink/tan/black/red/white. Whole assortment in full views. Correct source materials/forms/colours, white/styled/lifestyle view purpose; tight real-part macro; promotional heading accurate. Website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-4a1070cd-4201-4e90-8384-ea91981d215e.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Transparent Gift Bags\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment FIVE separate flatfolded giftbag packs, colours PINK, KRAFT TAN, BLACK, RED, WHITE; onepackeach colour. Each rectangular paper-frame giftbag has bigrounded-rectangle TRANSPARENT plastic window panel and matching satinribbon handles, flatpacked insideclearouterpackaging. Preservefivepacks and sourceflatfolded rectangularform; do not turn into rigidboxes or sixbags. In cells1/2/3/5 ALLFIVE differentcolouredpacks mustbevisible together, no singlebagonly andno duplicatedcolour. Lifestyle flatlay on giftwrappingtable, notfilled/inventedbags. Remove oldpricebanner/storefloor and sticker. Macro closecrop of actualRED satinhandle at redpaperframe/clearwindowjunction. Promotionalheading exactTransparent Gift Bags; no quantityclaim beyondvisiblefivepacks.",
+      "sha256": "c41100b5a9caeb7fecb0b96d24b548078c8ca9aeec5240afcba1605d9e2238cc",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4a1070cd-4201-4e90-8384-ea91981d215e.png",
+      "grid_sha256": "dd3726089bae74cd3c04c6b58830305c88a205a83292e1328e72bb59bb4e0012",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual grid and crop reviewed: Five flatpacked transparent-window giftbag packs, pink/tan/black/red/white. Whole assortment in full views. Correct source materials/forms/colours, white/styled/lifestyle view purpose; tight real-part macro; promotional heading accurate. Website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-4a1070cd-4201-4e90-8384-ea91981d215e.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Transparent Gift Bags\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment FIVE separate flatfolded giftbag packs, colours PINK, KRAFT TAN, BLACK, RED, WHITE; onepackeach colour. Each rectangular paper-frame giftbag has bigrounded-rectangle TRANSPARENT plastic window panel and matching satinribbon handles, flatpacked insideclearouterpackaging. Preservefivepacks and sourceflatfolded rectangularform; do not turn into rigidboxes or sixbags. In cells1/2/3/5 ALLFIVE differentcolouredpacks mustbevisible together, no singlebagonly andno duplicatedcolour. Lifestyle flatlay on giftwrappingtable, notfilled/inventedbags. Remove oldpricebanner/storefloor and sticker. Macro closecrop of actualRED satinhandle at redpaperframe/clearwindowjunction. Promotionalheading exactTransparent Gift Bags; no quantityclaim beyondvisiblefivepacks.",
+      "sha256": "d15d04c52e5454d94050b5a0bd513ece1245c19663d64de090e3d3327cb96daf",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4a1070cd-4201-4e90-8384-ea91981d215e.png",
+      "grid_sha256": "dd3726089bae74cd3c04c6b58830305c88a205a83292e1328e72bb59bb4e0012",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual grid and crop reviewed: Five flatpacked transparent-window giftbag packs, pink/tan/black/red/white. Whole assortment in full views. Correct source materials/forms/colours, white/styled/lifestyle view purpose; tight real-part macro; promotional heading accurate. Website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-4a1070cd-4201-4e90-8384-ea91981d215e.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Transparent Gift Bags\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment FIVE separate flatfolded giftbag packs, colours PINK, KRAFT TAN, BLACK, RED, WHITE; onepackeach colour. Each rectangular paper-frame giftbag has bigrounded-rectangle TRANSPARENT plastic window panel and matching satinribbon handles, flatpacked insideclearouterpackaging. Preservefivepacks and sourceflatfolded rectangularform; do not turn into rigidboxes or sixbags. In cells1/2/3/5 ALLFIVE differentcolouredpacks mustbevisible together, no singlebagonly andno duplicatedcolour. Lifestyle flatlay on giftwrappingtable, notfilled/inventedbags. Remove oldpricebanner/storefloor and sticker. Macro closecrop of actualRED satinhandle at redpaperframe/clearwindowjunction. Promotionalheading exactTransparent Gift Bags; no quantityclaim beyondvisiblefivepacks.",
+      "sha256": "75bb8df4cb43d7747a89c6df7ecbf032152847dacd72af12a4d1b82d9cad6120",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4a1070cd-4201-4e90-8384-ea91981d215e.png",
+      "grid_sha256": "dd3726089bae74cd3c04c6b58830305c88a205a83292e1328e72bb59bb4e0012",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual grid and crop reviewed: Five flatpacked transparent-window giftbag packs, pink/tan/black/red/white. Whole assortment in full views. Correct source materials/forms/colours, white/styled/lifestyle view purpose; tight real-part macro; promotional heading accurate. Website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-4a1070cd-4201-4e90-8384-ea91981d215e.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Transparent Gift Bags\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment FIVE separate flatfolded giftbag packs, colours PINK, KRAFT TAN, BLACK, RED, WHITE; onepackeach colour. Each rectangular paper-frame giftbag has bigrounded-rectangle TRANSPARENT plastic window panel and matching satinribbon handles, flatpacked insideclearouterpackaging. Preservefivepacks and sourceflatfolded rectangularform; do not turn into rigidboxes or sixbags. In cells1/2/3/5 ALLFIVE differentcolouredpacks mustbevisible together, no singlebagonly andno duplicatedcolour. Lifestyle flatlay on giftwrappingtable, notfilled/inventedbags. Remove oldpricebanner/storefloor and sticker. Macro closecrop of actualRED satinhandle at redpaperframe/clearwindowjunction. Promotionalheading exactTransparent Gift Bags; no quantityclaim beyondvisiblefivepacks.",
+      "sha256": "3826f1a644e41ac2164a359c454eecdb54a6c7bfa127141e6a1a0a9de770b044",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4a1070cd-4201-4e90-8384-ea91981d215e.png",
+      "grid_sha256": "dd3726089bae74cd3c04c6b58830305c88a205a83292e1328e72bb59bb4e0012",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual grid and crop reviewed: Five flatpacked transparent-window giftbag packs, pink/tan/black/red/white. Whole assortment in full views. Correct source materials/forms/colours, white/styled/lifestyle view purpose; tight real-part macro; promotional heading accurate. Website-ready."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Five flatpacked transparent-window giftbag packs, pink/tan/black/red/white",
+  "originals_verified_against_frozen_plan": true
+}

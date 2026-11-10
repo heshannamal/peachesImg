@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0200.jpg": "3d5ba5be9632e98c570f6eb326456b10cc7cdf8b837d514a7c96ce8a3c152131"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-872d2483-77f4-412a-9f8d-e569b4d15d9f.png",
+      "source_output": "/workspace/generated_images/exec-872d2483-77f4-412a-9f8d-e569b4d15d9f.png",
+      "sha256": "d9cdf24390034d4a584c85c471b0dab52e729679399bd6c5898e023f4d2d79d5",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Layered Flower Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment TWELVE large layeredfabricflower hairclips on TWO longwhite hangingcards, SIXflowerspercard. Pairedcolourrows across twocards: top2magenta-purple flowerswithdarkgraygreencentres, next2white-peachflowerswithorangecentres, next2pinkflowersyellowcentres, next2whiteflowerspalepinkcentres, next2deepburgundyflowersyellowcentres, bottom2pinkwhitegradientflowersyellowcentres. Sourcepetals are irregularthinlayeredfabric,daisy/chrysanthemum-like, notplasticroundedflatdaisies. PreserveALLTWELVEflowers together in fullviews1/2/3/5, twowhitecardsand6rows, not6flowers. Eachpairdifferentcolour. Remove hand/shop/pricebanner. Detail standalone tightmacro of realmagenta-layeredpetals/darkgraygreen centre andfabrictexture. AccurateheadingLayered Flower Hair Clips.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-872d2483-77f4-412a-9f8d-e569b4d15d9f.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Layered Flower Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment TWELVE large layeredfabricflower hairclips on TWO longwhite hangingcards, SIXflowerspercard. Pairedcolourrows across twocards: top2magenta-purple flowerswithdarkgraygreencentres, next2white-peachflowerswithorangecentres, next2pinkflowersyellowcentres, next2whiteflowerspalepinkcentres, next2deepburgundyflowersyellowcentres, bottom2pinkwhitegradientflowersyellowcentres. Sourcepetals are irregularthinlayeredfabric,daisy/chrysanthemum-like, notplasticroundedflatdaisies. PreserveALLTWELVEflowers together in fullviews1/2/3/5, twowhitecardsand6rows, not6flowers. Eachpairdifferentcolour. Remove hand/shop/pricebanner. Detail standalone tightmacro of realmagenta-layeredpetals/darkgraygreen centre andfabrictexture. AccurateheadingLayered Flower Hair Clips.",
+      "sha256": "58e1d433041a81d7b078193671150c1b34c4a7e2a9cda20c9b2d7965c4691531",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-872d2483-77f4-412a-9f8d-e569b4d15d9f.png",
+      "grid_sha256": "d9cdf24390034d4a584c85c471b0dab52e729679399bd6c5898e023f4d2d79d5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual grid and crop reviewed: Twelve layered fabric flower hairclips, two cards of six, source paired colours. Whole assortment in full views. Correct source materials/forms/colours, white/styled/lifestyle view purpose; tight real-part macro; promotional heading accurate. Website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-872d2483-77f4-412a-9f8d-e569b4d15d9f.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Layered Flower Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment TWELVE large layeredfabricflower hairclips on TWO longwhite hangingcards, SIXflowerspercard. Pairedcolourrows across twocards: top2magenta-purple flowerswithdarkgraygreencentres, next2white-peachflowerswithorangecentres, next2pinkflowersyellowcentres, next2whiteflowerspalepinkcentres, next2deepburgundyflowersyellowcentres, bottom2pinkwhitegradientflowersyellowcentres. Sourcepetals are irregularthinlayeredfabric,daisy/chrysanthemum-like, notplasticroundedflatdaisies. PreserveALLTWELVEflowers together in fullviews1/2/3/5, twowhitecardsand6rows, not6flowers. Eachpairdifferentcolour. Remove hand/shop/pricebanner. Detail standalone tightmacro of realmagenta-layeredpetals/darkgraygreen centre andfabrictexture. AccurateheadingLayered Flower Hair Clips.",
+      "sha256": "ca4448a229ebbb8e15e76d06cc4f766f6c820f47a3d8d164766acc139398c8fa",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-872d2483-77f4-412a-9f8d-e569b4d15d9f.png",
+      "grid_sha256": "d9cdf24390034d4a584c85c471b0dab52e729679399bd6c5898e023f4d2d79d5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual grid and crop reviewed: Twelve layered fabric flower hairclips, two cards of six, source paired colours. Whole assortment in full views. Correct source materials/forms/colours, white/styled/lifestyle view purpose; tight real-part macro; promotional heading accurate. Website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-872d2483-77f4-412a-9f8d-e569b4d15d9f.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Layered Flower Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment TWELVE large layeredfabricflower hairclips on TWO longwhite hangingcards, SIXflowerspercard. Pairedcolourrows across twocards: top2magenta-purple flowerswithdarkgraygreencentres, next2white-peachflowerswithorangecentres, next2pinkflowersyellowcentres, next2whiteflowerspalepinkcentres, next2deepburgundyflowersyellowcentres, bottom2pinkwhitegradientflowersyellowcentres. Sourcepetals are irregularthinlayeredfabric,daisy/chrysanthemum-like, notplasticroundedflatdaisies. PreserveALLTWELVEflowers together in fullviews1/2/3/5, twowhitecardsand6rows, not6flowers. Eachpairdifferentcolour. Remove hand/shop/pricebanner. Detail standalone tightmacro of realmagenta-layeredpetals/darkgraygreen centre andfabrictexture. AccurateheadingLayered Flower Hair Clips.",
+      "sha256": "b9578d8f9e31c75925e1d355cdadfdd2cce736cccf458c43f27872d2d945894c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-872d2483-77f4-412a-9f8d-e569b4d15d9f.png",
+      "grid_sha256": "d9cdf24390034d4a584c85c471b0dab52e729679399bd6c5898e023f4d2d79d5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual grid and crop reviewed: Twelve layered fabric flower hairclips, two cards of six, source paired colours. Whole assortment in full views. Correct source materials/forms/colours, white/styled/lifestyle view purpose; tight real-part macro; promotional heading accurate. Website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-872d2483-77f4-412a-9f8d-e569b4d15d9f.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Layered Flower Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment TWELVE large layeredfabricflower hairclips on TWO longwhite hangingcards, SIXflowerspercard. Pairedcolourrows across twocards: top2magenta-purple flowerswithdarkgraygreencentres, next2white-peachflowerswithorangecentres, next2pinkflowersyellowcentres, next2whiteflowerspalepinkcentres, next2deepburgundyflowersyellowcentres, bottom2pinkwhitegradientflowersyellowcentres. Sourcepetals are irregularthinlayeredfabric,daisy/chrysanthemum-like, notplasticroundedflatdaisies. PreserveALLTWELVEflowers together in fullviews1/2/3/5, twowhitecardsand6rows, not6flowers. Eachpairdifferentcolour. Remove hand/shop/pricebanner. Detail standalone tightmacro of realmagenta-layeredpetals/darkgraygreen centre andfabrictexture. AccurateheadingLayered Flower Hair Clips.",
+      "sha256": "c0a12b7e13d6557c840be1b1a32750c7cacacb2ffd5d0bda95208b29e38c8b35",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-872d2483-77f4-412a-9f8d-e569b4d15d9f.png",
+      "grid_sha256": "d9cdf24390034d4a584c85c471b0dab52e729679399bd6c5898e023f4d2d79d5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual grid and crop reviewed: Twelve layered fabric flower hairclips, two cards of six, source paired colours. Whole assortment in full views. Correct source materials/forms/colours, white/styled/lifestyle view purpose; tight real-part macro; promotional heading accurate. Website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-872d2483-77f4-412a-9f8d-e569b4d15d9f.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Layered Flower Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment TWELVE large layeredfabricflower hairclips on TWO longwhite hangingcards, SIXflowerspercard. Pairedcolourrows across twocards: top2magenta-purple flowerswithdarkgraygreencentres, next2white-peachflowerswithorangecentres, next2pinkflowersyellowcentres, next2whiteflowerspalepinkcentres, next2deepburgundyflowersyellowcentres, bottom2pinkwhitegradientflowersyellowcentres. Sourcepetals are irregularthinlayeredfabric,daisy/chrysanthemum-like, notplasticroundedflatdaisies. PreserveALLTWELVEflowers together in fullviews1/2/3/5, twowhitecardsand6rows, not6flowers. Eachpairdifferentcolour. Remove hand/shop/pricebanner. Detail standalone tightmacro of realmagenta-layeredpetals/darkgraygreen centre andfabrictexture. AccurateheadingLayered Flower Hair Clips.",
+      "sha256": "349019d99503698c87a54807720d1d5e616f23e3a5e8b3b7329f782bf8b9f640",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-872d2483-77f4-412a-9f8d-e569b4d15d9f.png",
+      "grid_sha256": "d9cdf24390034d4a584c85c471b0dab52e729679399bd6c5898e023f4d2d79d5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual grid and crop reviewed: Twelve layered fabric flower hairclips, two cards of six, source paired colours. Whole assortment in full views. Correct source materials/forms/colours, white/styled/lifestyle view purpose; tight real-part macro; promotional heading accurate. Website-ready."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Twelve layered fabric flower hairclips, two cards of six, source paired colours",
+  "originals_verified_against_frozen_plan": true
+}

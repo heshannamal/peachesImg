@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0217.jpg": "186b5735fdd3335e03e840d5bfccbc3e515f6d53342af8c0fc178dd88329817e"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-0cf77106-2a7f-448f-a809-9c239c2dc322.png",
+      "source_output": "/workspace/generated_images/exec-0cf77106-2a7f-448f-a809-9c239c2dc322.png",
+      "sha256": "94266ec6e34619707f786f7d23cdb200ebad7f536600d8e6490e1b610139ce5b",
+      "prompt": "Native photographic edit referenced actualoriginal into ONE1536x1024contactsheet, strict3columns2rows equal512squarecells no gutters. WHOLEASSORTMENT is ONEproduct. Repeat ENTIRE THREEITEM assortment in EACH fullview: cell1top-left WHITEALL3;cell2top-middle LAVENDER/CREAMSTYLEDALL3;cell3top-right DRESSERLIFESTYLEALL3;cell4bottom-left standalone tightmacrorealpart;cell5bottom-middle PROMOTIONALALL3 heading 'Crystal Bead Phone Charms';cell6bottom-rightblankcream. Each512square fullview contains ALL THREE sourcephonecharms onwhitecards, neveroneitempercell. Preserve exactcount3,identity,beadpattern,shapes,colours,goldhardwareandloopshape. Removehand,shop,plasticbags,priceoverlay. Eachloopattachedtogoldkeyring throughsourcefittings. The 3 actualloops:1smokygrayclear+champagnegold smallfacetedbeads withlargerovaliridescentcleargray accentbeads,2purplepink+champagnegold smallfacetedbeads withlargerovaliridescentclear accentbeads,3turquoiseblue+champagnegold smallfacetedbeads withlargerovaliridescentclear accentbeads. Preserve allthreecolourways. Nopearls,noheart,noaddedpendants. Detailmacro realturquoise/champagnefacetedbeadsequencewithlargeriridescentoval.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-0cf77106-2a7f-448f-a809-9c239c2dc322.png",
+      "prompt": "Native photographic edit referenced actualoriginal into ONE1536x1024contactsheet, strict3columns2rows equal512squarecells no gutters. WHOLEASSORTMENT is ONEproduct. Repeat ENTIRE THREEITEM assortment in EACH fullview: cell1top-left WHITEALL3;cell2top-middle LAVENDER/CREAMSTYLEDALL3;cell3top-right DRESSERLIFESTYLEALL3;cell4bottom-left standalone tightmacrorealpart;cell5bottom-middle PROMOTIONALALL3 heading 'Crystal Bead Phone Charms';cell6bottom-rightblankcream. Each512square fullview contains ALL THREE sourcephonecharms onwhitecards, neveroneitempercell. Preserve exactcount3,identity,beadpattern,shapes,colours,goldhardwareandloopshape. Removehand,shop,plasticbags,priceoverlay. Eachloopattachedtogoldkeyring throughsourcefittings. The 3 actualloops:1smokygrayclear+champagnegold smallfacetedbeads withlargerovaliridescentcleargray accentbeads,2purplepink+champagnegold smallfacetedbeads withlargerovaliridescentclear accentbeads,3turquoiseblue+champagnegold smallfacetedbeads withlargerovaliridescentclear accentbeads. Preserve allthreecolourways. Nopearls,noheart,noaddedpendants. Detailmacro realturquoise/champagnefacetedbeadsequencewithlargeriridescentoval.",
+      "sha256": "9ecfdd887546702bc3b950bb95ec97b86cbf21049ad6bffb67753050414e4ee6",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0cf77106-2a7f-448f-a809-9c239c2dc322.png",
+      "grid_sha256": "94266ec6e34619707f786f7d23cdb200ebad7f536600d8e6490e1b610139ce5b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crops reviewed: 3loops gray/champagne,purple/champagne,turquoise/champagne withlargeriridescentovalaccents andgoldrings accuratelypreserved ineachfullview; tightturquoisebeadmacro; headingaccurate. Cards visuallyjoin butproductassortmentcount remains3."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-0cf77106-2a7f-448f-a809-9c239c2dc322.png",
+      "prompt": "Native photographic edit referenced actualoriginal into ONE1536x1024contactsheet, strict3columns2rows equal512squarecells no gutters. WHOLEASSORTMENT is ONEproduct. Repeat ENTIRE THREEITEM assortment in EACH fullview: cell1top-left WHITEALL3;cell2top-middle LAVENDER/CREAMSTYLEDALL3;cell3top-right DRESSERLIFESTYLEALL3;cell4bottom-left standalone tightmacrorealpart;cell5bottom-middle PROMOTIONALALL3 heading 'Crystal Bead Phone Charms';cell6bottom-rightblankcream. Each512square fullview contains ALL THREE sourcephonecharms onwhitecards, neveroneitempercell. Preserve exactcount3,identity,beadpattern,shapes,colours,goldhardwareandloopshape. Removehand,shop,plasticbags,priceoverlay. Eachloopattachedtogoldkeyring throughsourcefittings. The 3 actualloops:1smokygrayclear+champagnegold smallfacetedbeads withlargerovaliridescentcleargray accentbeads,2purplepink+champagnegold smallfacetedbeads withlargerovaliridescentclear accentbeads,3turquoiseblue+champagnegold smallfacetedbeads withlargerovaliridescentclear accentbeads. Preserve allthreecolourways. Nopearls,noheart,noaddedpendants. Detailmacro realturquoise/champagnefacetedbeadsequencewithlargeriridescentoval.",
+      "sha256": "48879569873c855c57c99ad05690cab4cb88747433d70e5c4a221822027286fd",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0cf77106-2a7f-448f-a809-9c239c2dc322.png",
+      "grid_sha256": "94266ec6e34619707f786f7d23cdb200ebad7f536600d8e6490e1b610139ce5b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crops reviewed: 3loops gray/champagne,purple/champagne,turquoise/champagne withlargeriridescentovalaccents andgoldrings accuratelypreserved ineachfullview; tightturquoisebeadmacro; headingaccurate. Cards visuallyjoin butproductassortmentcount remains3."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-0cf77106-2a7f-448f-a809-9c239c2dc322.png",
+      "prompt": "Native photographic edit referenced actualoriginal into ONE1536x1024contactsheet, strict3columns2rows equal512squarecells no gutters. WHOLEASSORTMENT is ONEproduct. Repeat ENTIRE THREEITEM assortment in EACH fullview: cell1top-left WHITEALL3;cell2top-middle LAVENDER/CREAMSTYLEDALL3;cell3top-right DRESSERLIFESTYLEALL3;cell4bottom-left standalone tightmacrorealpart;cell5bottom-middle PROMOTIONALALL3 heading 'Crystal Bead Phone Charms';cell6bottom-rightblankcream. Each512square fullview contains ALL THREE sourcephonecharms onwhitecards, neveroneitempercell. Preserve exactcount3,identity,beadpattern,shapes,colours,goldhardwareandloopshape. Removehand,shop,plasticbags,priceoverlay. Eachloopattachedtogoldkeyring throughsourcefittings. The 3 actualloops:1smokygrayclear+champagnegold smallfacetedbeads withlargerovaliridescentcleargray accentbeads,2purplepink+champagnegold smallfacetedbeads withlargerovaliridescentclear accentbeads,3turquoiseblue+champagnegold smallfacetedbeads withlargerovaliridescentclear accentbeads. Preserve allthreecolourways. Nopearls,noheart,noaddedpendants. Detailmacro realturquoise/champagnefacetedbeadsequencewithlargeriridescentoval.",
+      "sha256": "5fc4430bb7a4bd9955990841bd1188725be837c04407873282ca5345f90a2dea",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0cf77106-2a7f-448f-a809-9c239c2dc322.png",
+      "grid_sha256": "94266ec6e34619707f786f7d23cdb200ebad7f536600d8e6490e1b610139ce5b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crops reviewed: 3loops gray/champagne,purple/champagne,turquoise/champagne withlargeriridescentovalaccents andgoldrings accuratelypreserved ineachfullview; tightturquoisebeadmacro; headingaccurate. Cards visuallyjoin butproductassortmentcount remains3."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-0cf77106-2a7f-448f-a809-9c239c2dc322.png",
+      "prompt": "Native photographic edit referenced actualoriginal into ONE1536x1024contactsheet, strict3columns2rows equal512squarecells no gutters. WHOLEASSORTMENT is ONEproduct. Repeat ENTIRE THREEITEM assortment in EACH fullview: cell1top-left WHITEALL3;cell2top-middle LAVENDER/CREAMSTYLEDALL3;cell3top-right DRESSERLIFESTYLEALL3;cell4bottom-left standalone tightmacrorealpart;cell5bottom-middle PROMOTIONALALL3 heading 'Crystal Bead Phone Charms';cell6bottom-rightblankcream. Each512square fullview contains ALL THREE sourcephonecharms onwhitecards, neveroneitempercell. Preserve exactcount3,identity,beadpattern,shapes,colours,goldhardwareandloopshape. Removehand,shop,plasticbags,priceoverlay. Eachloopattachedtogoldkeyring throughsourcefittings. The 3 actualloops:1smokygrayclear+champagnegold smallfacetedbeads withlargerovaliridescentcleargray accentbeads,2purplepink+champagnegold smallfacetedbeads withlargerovaliridescentclear accentbeads,3turquoiseblue+champagnegold smallfacetedbeads withlargerovaliridescentclear accentbeads. Preserve allthreecolourways. Nopearls,noheart,noaddedpendants. Detailmacro realturquoise/champagnefacetedbeadsequencewithlargeriridescentoval.",
+      "sha256": "7060c5aebc0c3abbe528cfe6237737493cd02db123add64c44de3b9e0d21e258",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0cf77106-2a7f-448f-a809-9c239c2dc322.png",
+      "grid_sha256": "94266ec6e34619707f786f7d23cdb200ebad7f536600d8e6490e1b610139ce5b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crops reviewed: 3loops gray/champagne,purple/champagne,turquoise/champagne withlargeriridescentovalaccents andgoldrings accuratelypreserved ineachfullview; tightturquoisebeadmacro; headingaccurate. Cards visuallyjoin butproductassortmentcount remains3."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-0cf77106-2a7f-448f-a809-9c239c2dc322.png",
+      "prompt": "Native photographic edit referenced actualoriginal into ONE1536x1024contactsheet, strict3columns2rows equal512squarecells no gutters. WHOLEASSORTMENT is ONEproduct. Repeat ENTIRE THREEITEM assortment in EACH fullview: cell1top-left WHITEALL3;cell2top-middle LAVENDER/CREAMSTYLEDALL3;cell3top-right DRESSERLIFESTYLEALL3;cell4bottom-left standalone tightmacrorealpart;cell5bottom-middle PROMOTIONALALL3 heading 'Crystal Bead Phone Charms';cell6bottom-rightblankcream. Each512square fullview contains ALL THREE sourcephonecharms onwhitecards, neveroneitempercell. Preserve exactcount3,identity,beadpattern,shapes,colours,goldhardwareandloopshape. Removehand,shop,plasticbags,priceoverlay. Eachloopattachedtogoldkeyring throughsourcefittings. The 3 actualloops:1smokygrayclear+champagnegold smallfacetedbeads withlargerovaliridescentcleargray accentbeads,2purplepink+champagnegold smallfacetedbeads withlargerovaliridescentclear accentbeads,3turquoiseblue+champagnegold smallfacetedbeads withlargerovaliridescentclear accentbeads. Preserve allthreecolourways. Nopearls,noheart,noaddedpendants. Detailmacro realturquoise/champagnefacetedbeadsequencewithlargeriridescentoval.",
+      "sha256": "820539ce343ab5630f99228dcebe2921ae49cbc9f6926ec70ad2c5bd18a8aba6",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0cf77106-2a7f-448f-a809-9c239c2dc322.png",
+      "grid_sha256": "94266ec6e34619707f786f7d23cdb200ebad7f536600d8e6490e1b610139ce5b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crops reviewed: 3loops gray/champagne,purple/champagne,turquoise/champagne withlargeriridescentovalaccents andgoldrings accuratelypreserved ineachfullview; tightturquoisebeadmacro; headingaccurate. Cards visuallyjoin butproductassortmentcount remains3."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baselines_verified": true
+}

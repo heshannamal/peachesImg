@@ -3,7 +3,7 @@
   "scheduled_start_local_time": "00:05",
   "processing_order": "descending_numeric_product_id",
   "standing_instruction": "Latestuserrequest:generate next100products from END of existing repositorylist, highestIDfirst. Supersedes previous top-of-GooglePhotos order for this run.",
-  "current_authorized_queue": "2718down2619",
+  "current_authorized_queue": "2618down2518 (2580 absent)",
   "scope_rule": "Ordering preference does not broaden the authorized product range or imply daily recurrence.",
   "next_scheduled_start_local": "2026-10-27T00:05:00+05:30",
   "parallel_dispatch_rule": "Assign nextunassigned IDs in descendingorder, fiveworkers max2activeproducts each. Completion ordermayvary.",
@@ -12,7 +12,7 @@
   "source_album_url": "https://photos.app.goo.gl/CLPwChWUC2jr9pSGA",
   "source_access_status": "blocked_workspace_network_HTTP403",
   "source_access_checked_at": "2026-10-28T21:58:05.385804+00:00",
-  "frozen_plan": "PRODUCT_PHOTOS/_Review/END100_2619_2718_PLAN.json",
+  "frozen_plan": "PRODUCT_PHOTOS/_Review/END100_2518_2618_PLAN.json",
   "generation_workflow": "one_native3x2grid_then_five_crops",
   "crop_layout": {
     "columns": 3,

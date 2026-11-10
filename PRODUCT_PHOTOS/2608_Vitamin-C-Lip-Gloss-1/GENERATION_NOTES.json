@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0330.jpg": "3273ab9a93f74ba56233a919c837b79dcfb541838438af8ced3b6ca4b3e82695"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-5de19fec-621b-4cd6-871f-cf97f6935419.png",
+      "source_output": "/workspace/generated_images/exec-5de19fec-621b-4cd6-871f-cf97f6935419.png",
+      "sha256": "5f84574e638cd3d61cc7dce586b84554321914e3b1f9daceec23478e52fd459a",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Vitamin C Lip Gloss\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual product one Miss Look VC Lip Gloss hanging display tray with TWELVE slender cylindrical lip gloss tubes, all12goldcaps and roundedclear bases. Twelveparallel horizontal slots stackedvertically. Top-to-bottom liquid colours: clear,paleyellow,red,purple,blue,orange-red,green,orange,red,magenta,amber,purple. Preserve goldmetalliccaps and clearprinted tubes; tray orange-citrus VC header. No background wallets/characters/hand/priceoverlay. Cells1/2/3/5 must each show exactly12tubes, not11or13; countslots carefully. Detail cell close macro of one real clear tube/barrel goldcap junction, no unsupported efficacy claim.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-5de19fec-621b-4cd6-871f-cf97f6935419.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Vitamin C Lip Gloss\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual product one Miss Look VC Lip Gloss hanging display tray with TWELVE slender cylindrical lip gloss tubes, all12goldcaps and roundedclear bases. Twelveparallel horizontal slots stackedvertically. Top-to-bottom liquid colours: clear,paleyellow,red,purple,blue,orange-red,green,orange,red,magenta,amber,purple. Preserve goldmetalliccaps and clearprinted tubes; tray orange-citrus VC header. No background wallets/characters/hand/priceoverlay. Cells1/2/3/5 must each show exactly12tubes, not11or13; countslots carefully. Detail cell close macro of one real clear tube/barrel goldcap junction, no unsupported efficacy claim.",
+      "sha256": "cd09871195f588d991583732c381477a74c1736cc49e47e9b5003e6b983f01a7",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5de19fec-621b-4cd6-871f-cf97f6935419.png",
+      "grid_sha256": "5f84574e638cd3d61cc7dce586b84554321914e3b1f9daceec23478e52fd459a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "All twelve original gold-cap lip-gloss tubes and source colour sequence retained in full views. Correct white/styled/lifestyle/promo views, accurate heading. Standalone macro of barrel/cap passed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-5de19fec-621b-4cd6-871f-cf97f6935419.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Vitamin C Lip Gloss\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual product one Miss Look VC Lip Gloss hanging display tray with TWELVE slender cylindrical lip gloss tubes, all12goldcaps and roundedclear bases. Twelveparallel horizontal slots stackedvertically. Top-to-bottom liquid colours: clear,paleyellow,red,purple,blue,orange-red,green,orange,red,magenta,amber,purple. Preserve goldmetalliccaps and clearprinted tubes; tray orange-citrus VC header. No background wallets/characters/hand/priceoverlay. Cells1/2/3/5 must each show exactly12tubes, not11or13; countslots carefully. Detail cell close macro of one real clear tube/barrel goldcap junction, no unsupported efficacy claim.",
+      "sha256": "a73fab072076e92a3eb9256ec7fdebbd3fe56e6bc02811120462e5f112fe50c0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5de19fec-621b-4cd6-871f-cf97f6935419.png",
+      "grid_sha256": "5f84574e638cd3d61cc7dce586b84554321914e3b1f9daceec23478e52fd459a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "All twelve original gold-cap lip-gloss tubes and source colour sequence retained in full views. Correct white/styled/lifestyle/promo views, accurate heading. Standalone macro of barrel/cap passed."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-5de19fec-621b-4cd6-871f-cf97f6935419.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Vitamin C Lip Gloss\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual product one Miss Look VC Lip Gloss hanging display tray with TWELVE slender cylindrical lip gloss tubes, all12goldcaps and roundedclear bases. Twelveparallel horizontal slots stackedvertically. Top-to-bottom liquid colours: clear,paleyellow,red,purple,blue,orange-red,green,orange,red,magenta,amber,purple. Preserve goldmetalliccaps and clearprinted tubes; tray orange-citrus VC header. No background wallets/characters/hand/priceoverlay. Cells1/2/3/5 must each show exactly12tubes, not11or13; countslots carefully. Detail cell close macro of one real clear tube/barrel goldcap junction, no unsupported efficacy claim.",
+      "sha256": "63d9128190c61553107c305acf0a2e77c151bc0adabc1e8e3d9a1930ab231a2b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5de19fec-621b-4cd6-871f-cf97f6935419.png",
+      "grid_sha256": "5f84574e638cd3d61cc7dce586b84554321914e3b1f9daceec23478e52fd459a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "All twelve original gold-cap lip-gloss tubes and source colour sequence retained in full views. Correct white/styled/lifestyle/promo views, accurate heading. Standalone macro of barrel/cap passed."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-5de19fec-621b-4cd6-871f-cf97f6935419.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Vitamin C Lip Gloss\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual product one Miss Look VC Lip Gloss hanging display tray with TWELVE slender cylindrical lip gloss tubes, all12goldcaps and roundedclear bases. Twelveparallel horizontal slots stackedvertically. Top-to-bottom liquid colours: clear,paleyellow,red,purple,blue,orange-red,green,orange,red,magenta,amber,purple. Preserve goldmetalliccaps and clearprinted tubes; tray orange-citrus VC header. No background wallets/characters/hand/priceoverlay. Cells1/2/3/5 must each show exactly12tubes, not11or13; countslots carefully. Detail cell close macro of one real clear tube/barrel goldcap junction, no unsupported efficacy claim.",
+      "sha256": "259fe2c0d48e974a8f80c448f60fecf0488ea4a27571b241887328ce338fbc9b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5de19fec-621b-4cd6-871f-cf97f6935419.png",
+      "grid_sha256": "5f84574e638cd3d61cc7dce586b84554321914e3b1f9daceec23478e52fd459a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "All twelve original gold-cap lip-gloss tubes and source colour sequence retained in full views. Correct white/styled/lifestyle/promo views, accurate heading. Standalone macro of barrel/cap passed."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-5de19fec-621b-4cd6-871f-cf97f6935419.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Vitamin C Lip Gloss\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual product one Miss Look VC Lip Gloss hanging display tray with TWELVE slender cylindrical lip gloss tubes, all12goldcaps and roundedclear bases. Twelveparallel horizontal slots stackedvertically. Top-to-bottom liquid colours: clear,paleyellow,red,purple,blue,orange-red,green,orange,red,magenta,amber,purple. Preserve goldmetalliccaps and clearprinted tubes; tray orange-citrus VC header. No background wallets/characters/hand/priceoverlay. Cells1/2/3/5 must each show exactly12tubes, not11or13; countslots carefully. Detail cell close macro of one real clear tube/barrel goldcap junction, no unsupported efficacy claim.",
+      "sha256": "e7b3c9ddb3d8dc7e44551d3f1913636d7016af42a807a1001465b06d1d99b980",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5de19fec-621b-4cd6-871f-cf97f6935419.png",
+      "grid_sha256": "5f84574e638cd3d61cc7dce586b84554321914e3b1f9daceec23478e52fd459a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "All twelve original gold-cap lip-gloss tubes and source colour sequence retained in full views. Correct white/styled/lifestyle/promo views, accurate heading. Standalone macro of barrel/cap passed."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Miss Look VC lip gloss twelve-tube tray",
+  "originals_verified_against_frozen_plan": true
+}

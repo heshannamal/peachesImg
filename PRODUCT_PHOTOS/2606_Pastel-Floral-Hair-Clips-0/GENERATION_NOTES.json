@@ -81,7 +81,7 @@
       "source_output": "/workspace/generated_images/exec-15a0351f-117c-443c-8446-f9b8f4a12a51.png",
       "prompt": "Edit original reference photos into ONE1536x1024 website contact sheet. Exactly3equal columns by2equal rows, 512squarecells, no gutters. Top cells: purewhite full assortment; lavender/cream styled full assortment; dressingtable lifestyle full assortment. Bottomcells: standalone tight macro of real product part only; full assortment promotional with accurateheading; blankcream. No crossing boundaries, no old price text/hands/shopbackground. Preserve actual identity/count/shape/colour. All THREE reference images are distinct components of ONE assortment: three display sheets of mini pastel claw clips on white bunny cards: star-shaped sheet, simple rectangular mini claw sheet, butterfly-shaped sheet. Include ALL THREE sheets together in every fullview. Each sheet has12rabbit cards arranged2columnsx6rows, eachcard10smallclips,120clips/sheet. Preserve original pink,lilac,blue,turquoise,green,yellow,peach colour mixes and actual claw teeth. Do not merge star/rectangular/butterfly forms. Arrange three complete sheets sidebyside within eachcell; cards may be small but all36cards must be present. Macro shows tight closeup of real pastel star claw and teeth. Promotional heading \"Pastel Mini Claw Clip Assortment\". Remove outer clearbag reflections; preserve bunnycardprinting. Match original references rather than invent flowers.",
       "sha256": "c5eb5540ac9ea642802ad9d776b500b51dacd4220ee93bec55a00ceb10cfaecc",
-      "checked": false,
+      "checked": true,
       "generation_method": "native_five_style_grid_cropped",
       "grid_source_file": "Generation_Grids/exec-15a0351f-117c-443c-8446-f9b8f4a12a51.png",
       "grid_sha256": "897b6a5979cbbcb62cc0953cd3faa179a5d90d8f8000f8749b3ac49773c3fb2a",
@@ -94,7 +94,8 @@
         512,
         512,
         1024
-      ]
+      ],
+      "visual_review": "Standalone tight pink starclaw detail matches actual realpart; reviewed actual grid/crop."
     },
     {
       "saved_file": "New/05_Promotional.png",
@@ -119,5 +120,13 @@
   ],
   "status": "in_progress",
   "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
-  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Three distinct sheets of pastel mini claw clips: star,rectangle,butterfly;12bunnycards each10clips per sheet",
+  "corrective_attempts": {
+    "01_White-Background.png": 1,
+    "02_Styled-Background.png": 1,
+    "03_Lifestyle.png": 1,
+    "05_Promotional.png": 1
+  },
+  "correction_reason": "First grid18cards rather than36 and mixedshapes; one corrective dispatched, no furtherattempts."
 }

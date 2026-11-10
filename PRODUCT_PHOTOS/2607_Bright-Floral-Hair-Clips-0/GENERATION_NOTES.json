@@ -1,0 +1,133 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0298.jpg": "d3a13c1b173a14c93f5f391ad151f295c9c576e4c07a3371ff8d716d552d2951",
+    "Originals/IMG-20261001-WA0307.jpg": "0b541eecaa716fdb52fbf408258e9c29d84c8628ffb39812725d29b72a0f37d3"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-2cae47d9-24f2-4587-b5d7-9dd2fc41c72d.png",
+      "source_output": "/workspace/generated_images/exec-2cae47d9-24f2-4587-b5d7-9dd2fc41c72d.png",
+      "sha256": "671ba058184f2a4c1e83ab4c971c891556c1f295490b603fffb957114f30dab3",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Mini Flower Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Two sourcephotos show two angles of SAME assortment, do not doublecount. Actual assortment TWELVE white bunny-head displaycards, SIX on each of TWO long strips sidebyside, TEN tiny pastel flower mini clawclips percard, total120clips. Reference clearly shows two bunnyface cards perrow for6rows. Preserve actual tiny glossy plastic clawclip shape with flower-side wings, silver spring, pink/peach/blue/green/yellow/lavender/teal assortment. All12cards must appear fully in cells1/2/3/5 (2columns6rows), TENclips evenlyaroundedgeeachcard. No added largeflowerbarrettes; not earrings; no hand/shop/priceoverlay. Detail close macro of ONE actual tiny pinkflower clawclip and silver spring; standalone productpart crop. Keep same cardgraphics and sourcecolours.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-2cae47d9-24f2-4587-b5d7-9dd2fc41c72d.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Mini Flower Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Two sourcephotos show two angles of SAME assortment, do not doublecount. Actual assortment TWELVE white bunny-head displaycards, SIX on each of TWO long strips sidebyside, TEN tiny pastel flower mini clawclips percard, total120clips. Reference clearly shows two bunnyface cards perrow for6rows. Preserve actual tiny glossy plastic clawclip shape with flower-side wings, silver spring, pink/peach/blue/green/yellow/lavender/teal assortment. All12cards must appear fully in cells1/2/3/5 (2columns6rows), TENclips evenlyaroundedgeeachcard. No added largeflowerbarrettes; not earrings; no hand/shop/priceoverlay. Detail close macro of ONE actual tiny pinkflower clawclip and silver spring; standalone productpart crop. Keep same cardgraphics and sourcecolours.",
+      "sha256": "0e2d0985c2d0ac2d05826f43c4f3d2bc2545871a5c40563466969c8827c4ebf8",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2cae47d9-24f2-4587-b5d7-9dd2fc41c72d.png",
+      "grid_sha256": "671ba058184f2a4c1e83ab4c971c891556c1f295490b603fffb957114f30dab3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Initial grid cards overlap heavily and cannot verify required120clips/12cards; rejected for materially unverifiable count. One correction requested."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-2cae47d9-24f2-4587-b5d7-9dd2fc41c72d.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Mini Flower Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Two sourcephotos show two angles of SAME assortment, do not doublecount. Actual assortment TWELVE white bunny-head displaycards, SIX on each of TWO long strips sidebyside, TEN tiny pastel flower mini clawclips percard, total120clips. Reference clearly shows two bunnyface cards perrow for6rows. Preserve actual tiny glossy plastic clawclip shape with flower-side wings, silver spring, pink/peach/blue/green/yellow/lavender/teal assortment. All12cards must appear fully in cells1/2/3/5 (2columns6rows), TENclips evenlyaroundedgeeachcard. No added largeflowerbarrettes; not earrings; no hand/shop/priceoverlay. Detail close macro of ONE actual tiny pinkflower clawclip and silver spring; standalone productpart crop. Keep same cardgraphics and sourcecolours.",
+      "sha256": "157dd4f390460a0668f87d4dc314a194c783fcd902d22d91f803cf846ed44b59",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2cae47d9-24f2-4587-b5d7-9dd2fc41c72d.png",
+      "grid_sha256": "671ba058184f2a4c1e83ab4c971c891556c1f295490b603fffb957114f30dab3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Initial grid cards overlap heavily and cannot verify required120clips/12cards; rejected for materially unverifiable count. One correction requested."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-2cae47d9-24f2-4587-b5d7-9dd2fc41c72d.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Mini Flower Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Two sourcephotos show two angles of SAME assortment, do not doublecount. Actual assortment TWELVE white bunny-head displaycards, SIX on each of TWO long strips sidebyside, TEN tiny pastel flower mini clawclips percard, total120clips. Reference clearly shows two bunnyface cards perrow for6rows. Preserve actual tiny glossy plastic clawclip shape with flower-side wings, silver spring, pink/peach/blue/green/yellow/lavender/teal assortment. All12cards must appear fully in cells1/2/3/5 (2columns6rows), TENclips evenlyaroundedgeeachcard. No added largeflowerbarrettes; not earrings; no hand/shop/priceoverlay. Detail close macro of ONE actual tiny pinkflower clawclip and silver spring; standalone productpart crop. Keep same cardgraphics and sourcecolours.",
+      "sha256": "3f7599270139d8b4a014913bf748c2a00013a0497ab9e3b1711fb90bd8cf69f9",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2cae47d9-24f2-4587-b5d7-9dd2fc41c72d.png",
+      "grid_sha256": "671ba058184f2a4c1e83ab4c971c891556c1f295490b603fffb957114f30dab3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Initial grid cards overlap heavily and cannot verify required120clips/12cards; rejected for materially unverifiable count. One correction requested."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-2cae47d9-24f2-4587-b5d7-9dd2fc41c72d.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Mini Flower Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Two sourcephotos show two angles of SAME assortment, do not doublecount. Actual assortment TWELVE white bunny-head displaycards, SIX on each of TWO long strips sidebyside, TEN tiny pastel flower mini clawclips percard, total120clips. Reference clearly shows two bunnyface cards perrow for6rows. Preserve actual tiny glossy plastic clawclip shape with flower-side wings, silver spring, pink/peach/blue/green/yellow/lavender/teal assortment. All12cards must appear fully in cells1/2/3/5 (2columns6rows), TENclips evenlyaroundedgeeachcard. No added largeflowerbarrettes; not earrings; no hand/shop/priceoverlay. Detail close macro of ONE actual tiny pinkflower clawclip and silver spring; standalone productpart crop. Keep same cardgraphics and sourcecolours.",
+      "sha256": "d85dc62d1ab9ab6e60d6a67892703bdbb01b0cc37baf2efbfbae887e0bca1bc5",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2cae47d9-24f2-4587-b5d7-9dd2fc41c72d.png",
+      "grid_sha256": "671ba058184f2a4c1e83ab4c971c891556c1f295490b603fffb957114f30dab3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Standalone tight pink flower-shaped claw clip and spring matches actual mini claw clip identity."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-2cae47d9-24f2-4587-b5d7-9dd2fc41c72d.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Mini Flower Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Two sourcephotos show two angles of SAME assortment, do not doublecount. Actual assortment TWELVE white bunny-head displaycards, SIX on each of TWO long strips sidebyside, TEN tiny pastel flower mini clawclips percard, total120clips. Reference clearly shows two bunnyface cards perrow for6rows. Preserve actual tiny glossy plastic clawclip shape with flower-side wings, silver spring, pink/peach/blue/green/yellow/lavender/teal assortment. All12cards must appear fully in cells1/2/3/5 (2columns6rows), TENclips evenlyaroundedgeeachcard. No added largeflowerbarrettes; not earrings; no hand/shop/priceoverlay. Detail close macro of ONE actual tiny pinkflower clawclip and silver spring; standalone productpart crop. Keep same cardgraphics and sourcecolours.",
+      "sha256": "1022bedac2c4c906d983ce4feb9b9d77b82cecaa3c878e8097517a0b131f80b4",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2cae47d9-24f2-4587-b5d7-9dd2fc41c72d.png",
+      "grid_sha256": "671ba058184f2a4c1e83ab4c971c891556c1f295490b603fffb957114f30dab3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Initial grid cards overlap heavily and cannot verify required120clips/12cards; rejected for materially unverifiable count. One correction requested."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "01_White-Background": 1,
+    "02_Styled-Background": 1,
+    "03_Lifestyle": 1,
+    "05_Promotional": 1
+  }
+}

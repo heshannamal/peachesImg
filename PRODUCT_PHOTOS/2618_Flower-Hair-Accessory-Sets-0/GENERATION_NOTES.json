@@ -96,7 +96,7 @@
         512,
         1024
       ],
-      "visual_review": "Tight macro of lavender floral fabric bow matches actual source material, shape and colour."
+      "visual_review": "Passed: lavenderrealbow macro / complete6cards12bows6glasses promotional with accurateheading."
     },
     {
       "saved_file": "Rejected/initial_05_Promotional.png",
@@ -118,9 +118,102 @@
         1024
       ],
       "visual_review": "Rejected material count error: only one bow per card; original has two separate bow clips per card. One corrective permitted."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-f20214db-7a56-437e-b9ee-510f9052d3a3.png",
+      "source_output": "/workspace/generated_images/exec-f20214db-7a56-437e-b9ee-510f9052d3a3.png",
+      "sha256": "c31b815dc702d3f3362610eecb44f1404ad65faec6ad0cc40e1d877752dafa1e",
+      "prompt": "Edit referenced original photograph into ONE landscape1536x1024 contact sheet, exact3columns2rows, equal512square cells, no gutters. Preserve exact assortment identity/count/shapes/colours. Remove hand/shop/price/plasticbags; retain six source displaycards. Full SIX-card assortment in cells1/2/3/5. Cell1top-left white background;cell2top-middle lavender/cream styled;cell3top-right lifestyle dresserflatlay;cell4bottom-left tight standalone macro real accessory;cell5bottom-middle fullassortment with heading 'Pastel Accessory Sets';cell6bottom-rightblankcream. Two SEPARATE COMPLETE clips per card, one upperright one lowerleft, plus ONE sunglasses pair percard. EXACT12clips6glasses6cards, no extra/missing. CORRECTION initial fullviews wrongly show only ONE bow percard. Actualoriginal has TWO separate floral fabric bowclips on EACH card. Show TWELVE distinct full bowshapes, not six. Sourcecards:lightbluebows bluepinkglasses;yellowbows orangeyellowglasses;pinkbows browngradientglasses;lavenderbows purplepinkglasses;palepinkfloralbows pinkclear glasses;palemintbluebows bluepinkglasses. Detailmacro lavenderfloralbow. Keep cardpaircolours and actualoriginal sunglasses.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-f20214db-7a56-437e-b9ee-510f9052d3a3.png",
+      "prompt": "Edit referenced original photograph into ONE landscape1536x1024 contact sheet, exact3columns2rows, equal512square cells, no gutters. Preserve exact assortment identity/count/shapes/colours. Remove hand/shop/price/plasticbags; retain six source displaycards. Full SIX-card assortment in cells1/2/3/5. Cell1top-left white background;cell2top-middle lavender/cream styled;cell3top-right lifestyle dresserflatlay;cell4bottom-left tight standalone macro real accessory;cell5bottom-middle fullassortment with heading 'Pastel Accessory Sets';cell6bottom-rightblankcream. Two SEPARATE COMPLETE clips per card, one upperright one lowerleft, plus ONE sunglasses pair percard. EXACT12clips6glasses6cards, no extra/missing. CORRECTION initial fullviews wrongly show only ONE bow percard. Actualoriginal has TWO separate floral fabric bowclips on EACH card. Show TWELVE distinct full bowshapes, not six. Sourcecards:lightbluebows bluepinkglasses;yellowbows orangeyellowglasses;pinkbows browngradientglasses;lavenderbows purplepinkglasses;palepinkfloralbows pinkclear glasses;palemintbluebows bluepinkglasses. Detailmacro lavenderfloralbow. Keep cardpaircolours and actualoriginal sunglasses.",
+      "sha256": "20c1e2edacb7f4d473ffb0bd676af3092bb81abda04a0b164915ca903f221294",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f20214db-7a56-437e-b9ee-510f9052d3a3.png",
+      "grid_sha256": "c31b815dc702d3f3362610eecb44f1404ad65faec6ad0cc40e1d877752dafa1e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Still rejected after spent corrective: singlecard instead of fullsixcardassortment. No more retries."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-f20214db-7a56-437e-b9ee-510f9052d3a3.png",
+      "prompt": "Edit referenced original photograph into ONE landscape1536x1024 contact sheet, exact3columns2rows, equal512square cells, no gutters. Preserve exact assortment identity/count/shapes/colours. Remove hand/shop/price/plasticbags; retain six source displaycards. Full SIX-card assortment in cells1/2/3/5. Cell1top-left white background;cell2top-middle lavender/cream styled;cell3top-right lifestyle dresserflatlay;cell4bottom-left tight standalone macro real accessory;cell5bottom-middle fullassortment with heading 'Pastel Accessory Sets';cell6bottom-rightblankcream. Two SEPARATE COMPLETE clips per card, one upperright one lowerleft, plus ONE sunglasses pair percard. EXACT12clips6glasses6cards, no extra/missing. CORRECTION initial fullviews wrongly show only ONE bow percard. Actualoriginal has TWO separate floral fabric bowclips on EACH card. Show TWELVE distinct full bowshapes, not six. Sourcecards:lightbluebows bluepinkglasses;yellowbows orangeyellowglasses;pinkbows browngradientglasses;lavenderbows purplepinkglasses;palepinkfloralbows pinkclear glasses;palemintbluebows bluepinkglasses. Detailmacro lavenderfloralbow. Keep cardpaircolours and actualoriginal sunglasses.",
+      "sha256": "6715b6c1720649b94819f2a0207fcfbd8da316c50d0a447c4aa0043131d15dcb",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f20214db-7a56-437e-b9ee-510f9052d3a3.png",
+      "grid_sha256": "c31b815dc702d3f3362610eecb44f1404ad65faec6ad0cc40e1d877752dafa1e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Still rejected after spent corrective: singlecard instead of fullsixcardassortment. No more retries."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-f20214db-7a56-437e-b9ee-510f9052d3a3.png",
+      "prompt": "Edit referenced original photograph into ONE landscape1536x1024 contact sheet, exact3columns2rows, equal512square cells, no gutters. Preserve exact assortment identity/count/shapes/colours. Remove hand/shop/price/plasticbags; retain six source displaycards. Full SIX-card assortment in cells1/2/3/5. Cell1top-left white background;cell2top-middle lavender/cream styled;cell3top-right lifestyle dresserflatlay;cell4bottom-left tight standalone macro real accessory;cell5bottom-middle fullassortment with heading 'Pastel Accessory Sets';cell6bottom-rightblankcream. Two SEPARATE COMPLETE clips per card, one upperright one lowerleft, plus ONE sunglasses pair percard. EXACT12clips6glasses6cards, no extra/missing. CORRECTION initial fullviews wrongly show only ONE bow percard. Actualoriginal has TWO separate floral fabric bowclips on EACH card. Show TWELVE distinct full bowshapes, not six. Sourcecards:lightbluebows bluepinkglasses;yellowbows orangeyellowglasses;pinkbows browngradientglasses;lavenderbows purplepinkglasses;palepinkfloralbows pinkclear glasses;palemintbluebows bluepinkglasses. Detailmacro lavenderfloralbow. Keep cardpaircolours and actualoriginal sunglasses.",
+      "sha256": "2be3e204c4a5eb75b833bd73e29b1face68d78289d0d2e1bbbb52098a8ec51e6",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f20214db-7a56-437e-b9ee-510f9052d3a3.png",
+      "grid_sha256": "c31b815dc702d3f3362610eecb44f1404ad65faec6ad0cc40e1d877752dafa1e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Still rejected after spent corrective: singlecard instead of fullsixcardassortment. No more retries."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-f20214db-7a56-437e-b9ee-510f9052d3a3.png",
+      "prompt": "Edit referenced original photograph into ONE landscape1536x1024 contact sheet, exact3columns2rows, equal512square cells, no gutters. Preserve exact assortment identity/count/shapes/colours. Remove hand/shop/price/plasticbags; retain six source displaycards. Full SIX-card assortment in cells1/2/3/5. Cell1top-left white background;cell2top-middle lavender/cream styled;cell3top-right lifestyle dresserflatlay;cell4bottom-left tight standalone macro real accessory;cell5bottom-middle fullassortment with heading 'Pastel Accessory Sets';cell6bottom-rightblankcream. Two SEPARATE COMPLETE clips per card, one upperright one lowerleft, plus ONE sunglasses pair percard. EXACT12clips6glasses6cards, no extra/missing. CORRECTION initial fullviews wrongly show only ONE bow percard. Actualoriginal has TWO separate floral fabric bowclips on EACH card. Show TWELVE distinct full bowshapes, not six. Sourcecards:lightbluebows bluepinkglasses;yellowbows orangeyellowglasses;pinkbows browngradientglasses;lavenderbows purplepinkglasses;palepinkfloralbows pinkclear glasses;palemintbluebows bluepinkglasses. Detailmacro lavenderfloralbow. Keep cardpaircolours and actualoriginal sunglasses.",
+      "sha256": "a96eb5e90ad65aa7542f4e8d0f0abdee19bed0d20e1f05fe8534f399de649829",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f20214db-7a56-437e-b9ee-510f9052d3a3.png",
+      "grid_sha256": "c31b815dc702d3f3362610eecb44f1404ad65faec6ad0cc40e1d877752dafa1e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Passed: lavenderrealbow macro / complete6cards12bows6glasses promotional with accurateheading."
     }
   ],
-  "status": "in_progress",
+  "status": "review_needed_corrective_spent",
   "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
   "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
   "corrective_attempts": [
@@ -132,8 +225,9 @@
         "05"
       ],
       "attempt": 1,
-      "reason": "Two separate bow clips per card required, initial showed only one.",
-      "status": "starting"
+      "status": "spent",
+      "reason": "Fullsixcardassortment required in every fullview; preserveclipcountidentity."
     }
-  ]
+  ],
+  "original_baselines_verified": true
 }

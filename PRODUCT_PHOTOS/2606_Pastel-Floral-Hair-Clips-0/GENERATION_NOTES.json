@@ -1,0 +1,123 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0294.jpg": "b490a0defb703555585fc3db66bcb48096d4eb22eeecfbad1f65cfefaa781d8f",
+    "Originals/IMG-20261001-WA0297.jpg": "90960d88320e328f8b524ab8870651134cb1529e2edf9bce1ea26d5d396465d5",
+    "Originals/IMG-20261001-WA0303.jpg": "a58f6e6cfb082189700bb5529617929ed957e4fbdd0d92957f37df3de89358b1"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-15a0351f-117c-443c-8446-f9b8f4a12a51.png",
+      "source_output": "/workspace/generated_images/exec-15a0351f-117c-443c-8446-f9b8f4a12a51.png",
+      "sha256": "897b6a5979cbbcb62cc0953cd3faa179a5d90d8f8000f8749b3ac49773c3fb2a",
+      "prompt": "Edit original reference photos into ONE1536x1024 website contact sheet. Exactly3equal columns by2equal rows, 512squarecells, no gutters. Top cells: purewhite full assortment; lavender/cream styled full assortment; dressingtable lifestyle full assortment. Bottomcells: standalone tight macro of real product part only; full assortment promotional with accurateheading; blankcream. No crossing boundaries, no old price text/hands/shopbackground. Preserve actual identity/count/shape/colour. All THREE reference images are distinct components of ONE assortment: three display sheets of mini pastel claw clips on white bunny cards: star-shaped sheet, simple rectangular mini claw sheet, butterfly-shaped sheet. Include ALL THREE sheets together in every fullview. Each sheet has12rabbit cards arranged2columnsx6rows, eachcard10smallclips,120clips/sheet. Preserve original pink,lilac,blue,turquoise,green,yellow,peach colour mixes and actual claw teeth. Do not merge star/rectangular/butterfly forms. Arrange three complete sheets sidebyside within eachcell; cards may be small but all36cards must be present. Macro shows tight closeup of real pastel star claw and teeth. Promotional heading \"Pastel Mini Claw Clip Assortment\". Remove outer clearbag reflections; preserve bunnycardprinting. Match original references rather than invent flowers.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-15a0351f-117c-443c-8446-f9b8f4a12a51.png",
+      "prompt": "Edit original reference photos into ONE1536x1024 website contact sheet. Exactly3equal columns by2equal rows, 512squarecells, no gutters. Top cells: purewhite full assortment; lavender/cream styled full assortment; dressingtable lifestyle full assortment. Bottomcells: standalone tight macro of real product part only; full assortment promotional with accurateheading; blankcream. No crossing boundaries, no old price text/hands/shopbackground. Preserve actual identity/count/shape/colour. All THREE reference images are distinct components of ONE assortment: three display sheets of mini pastel claw clips on white bunny cards: star-shaped sheet, simple rectangular mini claw sheet, butterfly-shaped sheet. Include ALL THREE sheets together in every fullview. Each sheet has12rabbit cards arranged2columnsx6rows, eachcard10smallclips,120clips/sheet. Preserve original pink,lilac,blue,turquoise,green,yellow,peach colour mixes and actual claw teeth. Do not merge star/rectangular/butterfly forms. Arrange three complete sheets sidebyside within eachcell; cards may be small but all36cards must be present. Macro shows tight closeup of real pastel star claw and teeth. Promotional heading \"Pastel Mini Claw Clip Assortment\". Remove outer clearbag reflections; preserve bunnycardprinting. Match original references rather than invent flowers.",
+      "sha256": "75ca86bffeac525c4223b27ad201969c618ba11e9fe860e62e9a2a13505bea0a",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-15a0351f-117c-443c-8446-f9b8f4a12a51.png",
+      "grid_sha256": "897b6a5979cbbcb62cc0953cd3faa179a5d90d8f8000f8749b3ac49773c3fb2a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-15a0351f-117c-443c-8446-f9b8f4a12a51.png",
+      "prompt": "Edit original reference photos into ONE1536x1024 website contact sheet. Exactly3equal columns by2equal rows, 512squarecells, no gutters. Top cells: purewhite full assortment; lavender/cream styled full assortment; dressingtable lifestyle full assortment. Bottomcells: standalone tight macro of real product part only; full assortment promotional with accurateheading; blankcream. No crossing boundaries, no old price text/hands/shopbackground. Preserve actual identity/count/shape/colour. All THREE reference images are distinct components of ONE assortment: three display sheets of mini pastel claw clips on white bunny cards: star-shaped sheet, simple rectangular mini claw sheet, butterfly-shaped sheet. Include ALL THREE sheets together in every fullview. Each sheet has12rabbit cards arranged2columnsx6rows, eachcard10smallclips,120clips/sheet. Preserve original pink,lilac,blue,turquoise,green,yellow,peach colour mixes and actual claw teeth. Do not merge star/rectangular/butterfly forms. Arrange three complete sheets sidebyside within eachcell; cards may be small but all36cards must be present. Macro shows tight closeup of real pastel star claw and teeth. Promotional heading \"Pastel Mini Claw Clip Assortment\". Remove outer clearbag reflections; preserve bunnycardprinting. Match original references rather than invent flowers.",
+      "sha256": "3fa9c3e3e12d868a242dcac418d2899d1c941a835e97aa57f6066d7c1b621530",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-15a0351f-117c-443c-8446-f9b8f4a12a51.png",
+      "grid_sha256": "897b6a5979cbbcb62cc0953cd3faa179a5d90d8f8000f8749b3ac49773c3fb2a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-15a0351f-117c-443c-8446-f9b8f4a12a51.png",
+      "prompt": "Edit original reference photos into ONE1536x1024 website contact sheet. Exactly3equal columns by2equal rows, 512squarecells, no gutters. Top cells: purewhite full assortment; lavender/cream styled full assortment; dressingtable lifestyle full assortment. Bottomcells: standalone tight macro of real product part only; full assortment promotional with accurateheading; blankcream. No crossing boundaries, no old price text/hands/shopbackground. Preserve actual identity/count/shape/colour. All THREE reference images are distinct components of ONE assortment: three display sheets of mini pastel claw clips on white bunny cards: star-shaped sheet, simple rectangular mini claw sheet, butterfly-shaped sheet. Include ALL THREE sheets together in every fullview. Each sheet has12rabbit cards arranged2columnsx6rows, eachcard10smallclips,120clips/sheet. Preserve original pink,lilac,blue,turquoise,green,yellow,peach colour mixes and actual claw teeth. Do not merge star/rectangular/butterfly forms. Arrange three complete sheets sidebyside within eachcell; cards may be small but all36cards must be present. Macro shows tight closeup of real pastel star claw and teeth. Promotional heading \"Pastel Mini Claw Clip Assortment\". Remove outer clearbag reflections; preserve bunnycardprinting. Match original references rather than invent flowers.",
+      "sha256": "0dd75276f06705e4f98994c924fe0594a552996cfeab8611bd8f9a0c6efc0413",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-15a0351f-117c-443c-8446-f9b8f4a12a51.png",
+      "grid_sha256": "897b6a5979cbbcb62cc0953cd3faa179a5d90d8f8000f8749b3ac49773c3fb2a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-15a0351f-117c-443c-8446-f9b8f4a12a51.png",
+      "prompt": "Edit original reference photos into ONE1536x1024 website contact sheet. Exactly3equal columns by2equal rows, 512squarecells, no gutters. Top cells: purewhite full assortment; lavender/cream styled full assortment; dressingtable lifestyle full assortment. Bottomcells: standalone tight macro of real product part only; full assortment promotional with accurateheading; blankcream. No crossing boundaries, no old price text/hands/shopbackground. Preserve actual identity/count/shape/colour. All THREE reference images are distinct components of ONE assortment: three display sheets of mini pastel claw clips on white bunny cards: star-shaped sheet, simple rectangular mini claw sheet, butterfly-shaped sheet. Include ALL THREE sheets together in every fullview. Each sheet has12rabbit cards arranged2columnsx6rows, eachcard10smallclips,120clips/sheet. Preserve original pink,lilac,blue,turquoise,green,yellow,peach colour mixes and actual claw teeth. Do not merge star/rectangular/butterfly forms. Arrange three complete sheets sidebyside within eachcell; cards may be small but all36cards must be present. Macro shows tight closeup of real pastel star claw and teeth. Promotional heading \"Pastel Mini Claw Clip Assortment\". Remove outer clearbag reflections; preserve bunnycardprinting. Match original references rather than invent flowers.",
+      "sha256": "c5eb5540ac9ea642802ad9d776b500b51dacd4220ee93bec55a00ceb10cfaecc",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-15a0351f-117c-443c-8446-f9b8f4a12a51.png",
+      "grid_sha256": "897b6a5979cbbcb62cc0953cd3faa179a5d90d8f8000f8749b3ac49773c3fb2a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-15a0351f-117c-443c-8446-f9b8f4a12a51.png",
+      "prompt": "Edit original reference photos into ONE1536x1024 website contact sheet. Exactly3equal columns by2equal rows, 512squarecells, no gutters. Top cells: purewhite full assortment; lavender/cream styled full assortment; dressingtable lifestyle full assortment. Bottomcells: standalone tight macro of real product part only; full assortment promotional with accurateheading; blankcream. No crossing boundaries, no old price text/hands/shopbackground. Preserve actual identity/count/shape/colour. All THREE reference images are distinct components of ONE assortment: three display sheets of mini pastel claw clips on white bunny cards: star-shaped sheet, simple rectangular mini claw sheet, butterfly-shaped sheet. Include ALL THREE sheets together in every fullview. Each sheet has12rabbit cards arranged2columnsx6rows, eachcard10smallclips,120clips/sheet. Preserve original pink,lilac,blue,turquoise,green,yellow,peach colour mixes and actual claw teeth. Do not merge star/rectangular/butterfly forms. Arrange three complete sheets sidebyside within eachcell; cards may be small but all36cards must be present. Macro shows tight closeup of real pastel star claw and teeth. Promotional heading \"Pastel Mini Claw Clip Assortment\". Remove outer clearbag reflections; preserve bunnycardprinting. Match original references rather than invent flowers.",
+      "sha256": "e4dfdcbd85e1fa50505991c0ad27f6797f89072dc549726c47e60d8bc8924fa8",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-15a0351f-117c-443c-8446-f9b8f4a12a51.png",
+      "grid_sha256": "897b6a5979cbbcb62cc0953cd3faa179a5d90d8f8000f8749b3ac49773c3fb2a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

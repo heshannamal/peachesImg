@@ -1,0 +1,126 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0394.jpg": "1cca919601695f47f8fb131efa541ac565d07dd8442e74df04e226f6e249c92c"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-9cd1a1a3-4a39-41d9-9a3d-0743ac343153.png",
+      "source_output": "/workspace/generated_images/exec-9cd1a1a3-4a39-41d9-9a3d-0743ac343153.png",
+      "sha256": "51c6158c2b7328274cd752525032301aee1e7dc47346e55e94d4de1a7e34b600",
+      "prompt": "Create ONE website-ready landscape1536x1024 image, exactly3equalcolumns by2equalrows, six512x512cells, no gutters/borders/panellabels. Native edit of actual referenced originals only. Reading order:1 entire assortment whitebackground;2 entire assortment lavender/cream styled;3 entire assortment vanity lifestyle;4 standalone tight macro of actual one stud;5 entire assortment promotional with heading GOLD-TONE DAISY STUDS;6 blankcream. Fit full assortment completely within each fullview cell with margins; no crosscell overlap. Remove hand/shop/large external price/warranty overlay, no new claims. Preserve packaging and actual goldtone colour, product count and detailed shapes exactly. Actual ONE white card in transparent sleeve with EXACTLY24 goldtone flat DAISY FLOWER studs, 4columns by6rows when headerupright (equivalent6columns4rows if rotated). Each flower has about10 slender rounded radiating petals, brushed textured face. NOT stars, not six-lobed flowers. Preserve24individual flowers and original varying metallic reflections, no gemstones. Macro actual daisy petals/surface.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-9cd1a1a3-4a39-41d9-9a3d-0743ac343153.png",
+      "prompt": "Create ONE website-ready landscape1536x1024 image, exactly3equalcolumns by2equalrows, six512x512cells, no gutters/borders/panellabels. Native edit of actual referenced originals only. Reading order:1 entire assortment whitebackground;2 entire assortment lavender/cream styled;3 entire assortment vanity lifestyle;4 standalone tight macro of actual one stud;5 entire assortment promotional with heading GOLD-TONE DAISY STUDS;6 blankcream. Fit full assortment completely within each fullview cell with margins; no crosscell overlap. Remove hand/shop/large external price/warranty overlay, no new claims. Preserve packaging and actual goldtone colour, product count and detailed shapes exactly. Actual ONE white card in transparent sleeve with EXACTLY24 goldtone flat DAISY FLOWER studs, 4columns by6rows when headerupright (equivalent6columns4rows if rotated). Each flower has about10 slender rounded radiating petals, brushed textured face. NOT stars, not six-lobed flowers. Preserve24individual flowers and original varying metallic reflections, no gemstones. Macro actual daisy petals/surface.",
+      "sha256": "97e65f928f1dd14dd94114bfc2e0b61a505b0fd1d37e9ee981212fec12b243ce",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9cd1a1a3-4a39-41d9-9a3d-0743ac343153.png",
+      "grid_sha256": "51c6158c2b7328274cd752525032301aee1e7dc47346e55e94d4de1a7e34b600",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        480
+      ],
+      "crop_boundary_note": "Actual native horizontal panel transition at y480 rather than requested512; mechanically cropped actual cell boundaries without content edits."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-9cd1a1a3-4a39-41d9-9a3d-0743ac343153.png",
+      "prompt": "Create ONE website-ready landscape1536x1024 image, exactly3equalcolumns by2equalrows, six512x512cells, no gutters/borders/panellabels. Native edit of actual referenced originals only. Reading order:1 entire assortment whitebackground;2 entire assortment lavender/cream styled;3 entire assortment vanity lifestyle;4 standalone tight macro of actual one stud;5 entire assortment promotional with heading GOLD-TONE DAISY STUDS;6 blankcream. Fit full assortment completely within each fullview cell with margins; no crosscell overlap. Remove hand/shop/large external price/warranty overlay, no new claims. Preserve packaging and actual goldtone colour, product count and detailed shapes exactly. Actual ONE white card in transparent sleeve with EXACTLY24 goldtone flat DAISY FLOWER studs, 4columns by6rows when headerupright (equivalent6columns4rows if rotated). Each flower has about10 slender rounded radiating petals, brushed textured face. NOT stars, not six-lobed flowers. Preserve24individual flowers and original varying metallic reflections, no gemstones. Macro actual daisy petals/surface.",
+      "sha256": "ce2544962e2d17caebdf7fa38899773eb250e3938a87e5ef5f9dc6970788c41f",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9cd1a1a3-4a39-41d9-9a3d-0743ac343153.png",
+      "grid_sha256": "51c6158c2b7328274cd752525032301aee1e7dc47346e55e94d4de1a7e34b600",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        480
+      ],
+      "crop_boundary_note": "Actual native horizontal panel transition at y480 rather than requested512; mechanically cropped actual cell boundaries without content edits."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-9cd1a1a3-4a39-41d9-9a3d-0743ac343153.png",
+      "prompt": "Create ONE website-ready landscape1536x1024 image, exactly3equalcolumns by2equalrows, six512x512cells, no gutters/borders/panellabels. Native edit of actual referenced originals only. Reading order:1 entire assortment whitebackground;2 entire assortment lavender/cream styled;3 entire assortment vanity lifestyle;4 standalone tight macro of actual one stud;5 entire assortment promotional with heading GOLD-TONE DAISY STUDS;6 blankcream. Fit full assortment completely within each fullview cell with margins; no crosscell overlap. Remove hand/shop/large external price/warranty overlay, no new claims. Preserve packaging and actual goldtone colour, product count and detailed shapes exactly. Actual ONE white card in transparent sleeve with EXACTLY24 goldtone flat DAISY FLOWER studs, 4columns by6rows when headerupright (equivalent6columns4rows if rotated). Each flower has about10 slender rounded radiating petals, brushed textured face. NOT stars, not six-lobed flowers. Preserve24individual flowers and original varying metallic reflections, no gemstones. Macro actual daisy petals/surface.",
+      "sha256": "0de057183f52a80cc3934bc6d7c83edc444a0ba4d2123b6b24bec6a96f14c655",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9cd1a1a3-4a39-41d9-9a3d-0743ac343153.png",
+      "grid_sha256": "51c6158c2b7328274cd752525032301aee1e7dc47346e55e94d4de1a7e34b600",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        480
+      ],
+      "crop_boundary_note": "Actual native horizontal panel transition at y480 rather than requested512; mechanically cropped actual cell boundaries without content edits."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-9cd1a1a3-4a39-41d9-9a3d-0743ac343153.png",
+      "prompt": "Create ONE website-ready landscape1536x1024 image, exactly3equalcolumns by2equalrows, six512x512cells, no gutters/borders/panellabels. Native edit of actual referenced originals only. Reading order:1 entire assortment whitebackground;2 entire assortment lavender/cream styled;3 entire assortment vanity lifestyle;4 standalone tight macro of actual one stud;5 entire assortment promotional with heading GOLD-TONE DAISY STUDS;6 blankcream. Fit full assortment completely within each fullview cell with margins; no crosscell overlap. Remove hand/shop/large external price/warranty overlay, no new claims. Preserve packaging and actual goldtone colour, product count and detailed shapes exactly. Actual ONE white card in transparent sleeve with EXACTLY24 goldtone flat DAISY FLOWER studs, 4columns by6rows when headerupright (equivalent6columns4rows if rotated). Each flower has about10 slender rounded radiating petals, brushed textured face. NOT stars, not six-lobed flowers. Preserve24individual flowers and original varying metallic reflections, no gemstones. Macro actual daisy petals/surface.",
+      "sha256": "9fbeebea42c53ed6a35dd6f3b7ece30be41b212fb8fac0529b27fc1255dcd174",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9cd1a1a3-4a39-41d9-9a3d-0743ac343153.png",
+      "grid_sha256": "51c6158c2b7328274cd752525032301aee1e7dc47346e55e94d4de1a7e34b600",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        480,
+        512,
+        1024
+      ],
+      "crop_boundary_note": "Actual native horizontal panel transition at y480 rather than requested512; mechanically cropped actual cell boundaries without content edits."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-9cd1a1a3-4a39-41d9-9a3d-0743ac343153.png",
+      "prompt": "Create ONE website-ready landscape1536x1024 image, exactly3equalcolumns by2equalrows, six512x512cells, no gutters/borders/panellabels. Native edit of actual referenced originals only. Reading order:1 entire assortment whitebackground;2 entire assortment lavender/cream styled;3 entire assortment vanity lifestyle;4 standalone tight macro of actual one stud;5 entire assortment promotional with heading GOLD-TONE DAISY STUDS;6 blankcream. Fit full assortment completely within each fullview cell with margins; no crosscell overlap. Remove hand/shop/large external price/warranty overlay, no new claims. Preserve packaging and actual goldtone colour, product count and detailed shapes exactly. Actual ONE white card in transparent sleeve with EXACTLY24 goldtone flat DAISY FLOWER studs, 4columns by6rows when headerupright (equivalent6columns4rows if rotated). Each flower has about10 slender rounded radiating petals, brushed textured face. NOT stars, not six-lobed flowers. Preserve24individual flowers and original varying metallic reflections, no gemstones. Macro actual daisy petals/surface.",
+      "sha256": "e72884d689bb63ad1e06f637f6784d7eff677e1ea32829f43a7a8edf63b56fd5",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9cd1a1a3-4a39-41d9-9a3d-0743ac343153.png",
+      "grid_sha256": "51c6158c2b7328274cd752525032301aee1e7dc47346e55e94d4de1a7e34b600",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        480,
+        1024,
+        1024
+      ],
+      "crop_boundary_note": "Actual native horizontal panel transition at y480 rather than requested512; mechanically cropped actual cell boundaries without content edits."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

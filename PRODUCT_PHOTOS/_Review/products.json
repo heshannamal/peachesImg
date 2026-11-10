@@ -32024,9 +32024,9 @@
       2932,
       2936
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -32037,9 +32037,9 @@
       2933,
       2937
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -32050,9 +32050,9 @@
       2934,
       2942
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -32062,35 +32062,39 @@
     "source_image_ids": [
       2935
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2631",
-    "folder": "2631_Heart-Gold-Tone-Studs-0",
+    "folder": "2631_Heart-Gold-Tone-Studs-1",
     "source_image_ids": [
       2938
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2632",
-    "folder": "2632_Mixed-Gold-Tone-Studs-0",
+    "folder": "2632_Mixed-Gold-Tone-Studs-1",
     "source_image_ids": [
       2939
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2633",
@@ -32120,27 +32124,31 @@
   },
   {
     "product_id": "2635",
-    "folder": "2635_Geometric-Stud-Earrings-0",
+    "folder": "2635_Geometric-Stud-Earrings-1",
     "source_image_ids": [
       2943
     ],
-    "new_images": 1,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2636",
-    "folder": "2636_Pastel-Hair-Accessory-Sets-0",
+    "folder": "2636_Pastel-Hair-Accessory-Sets-1",
     "source_image_ids": [
       2944
     ],
-    "new_images": 1,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2637",

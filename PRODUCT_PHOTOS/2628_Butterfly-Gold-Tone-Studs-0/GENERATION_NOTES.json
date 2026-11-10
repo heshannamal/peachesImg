@@ -1,0 +1,122 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0388.jpg": "a31c0389c298131313340bdfa634178a4f4a86e214db1175951a9bfc6732f8b8",
+    "Originals/IMG-20261001-WA0400.jpg": "cc29a997addc171f622d6b9628805d05b59d2ef922cd62710ae81d407323883a"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-9b6a2e91-3b54-4854-9f48-06287c5586fc.png",
+      "source_output": "/workspace/generated_images/exec-9b6a2e91-3b54-4854-9f48-06287c5586fc.png",
+      "sha256": "1ce40979db254d623f4450b0a8a3c57212afc67711087e4c1aa5b14e1114afa7",
+      "prompt": "Edit attached two reference angles of SAME ONE earring card assortment into ONE1536x1024 landscape exact3columns x2rows grid, square512cells no gutters. Preserve EXACT ONE white STAINLESS STEEL card holding24 gold-tone openwork butterfly-like asymmetric stud earrings,12pairs, layout4columns by6rows. Both originals show same design/card; do NOT duplicate to two cards. Preserve actual asymmetric open oval wing loops, small curled lower loops and tiny star/leaf-like detail, gold colour and individual orientations. No new jewellery. Remove hand, shop background, top price/warranty overlay; clear pouch may remain. Top-left full24stud card white background. Top-middle full24stud card lavender cream styled. Top-right full24stud card on vanity tray lifestyle. Bottom-left standalone VERY TIGHT partial macro of actual gold openwork wing loop edge and tiny adjacent detail, not whole stud/card. Bottom-middle full24stud card with accurate heading GOLD TONE BUTTERFLY STUD SET. Bottom-right blank cream. Website-ready faithful photograph; count must remain24gold studs on ONE card in each full view.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-9b6a2e91-3b54-4854-9f48-06287c5586fc.png",
+      "prompt": "Edit attached two reference angles of SAME ONE earring card assortment into ONE1536x1024 landscape exact3columns x2rows grid, square512cells no gutters. Preserve EXACT ONE white STAINLESS STEEL card holding24 gold-tone openwork butterfly-like asymmetric stud earrings,12pairs, layout4columns by6rows. Both originals show same design/card; do NOT duplicate to two cards. Preserve actual asymmetric open oval wing loops, small curled lower loops and tiny star/leaf-like detail, gold colour and individual orientations. No new jewellery. Remove hand, shop background, top price/warranty overlay; clear pouch may remain. Top-left full24stud card white background. Top-middle full24stud card lavender cream styled. Top-right full24stud card on vanity tray lifestyle. Bottom-left standalone VERY TIGHT partial macro of actual gold openwork wing loop edge and tiny adjacent detail, not whole stud/card. Bottom-middle full24stud card with accurate heading GOLD TONE BUTTERFLY STUD SET. Bottom-right blank cream. Website-ready faithful photograph; count must remain24gold studs on ONE card in each full view.",
+      "sha256": "b5350d0ca2535a28db1c8b822009527540b995761532273aef31c6237dfb76fd",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9b6a2e91-3b54-4854-9f48-06287c5586fc.png",
+      "grid_sha256": "1ce40979db254d623f4450b0a8a3c57212afc67711087e4c1aa5b14e1114afa7",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-9b6a2e91-3b54-4854-9f48-06287c5586fc.png",
+      "prompt": "Edit attached two reference angles of SAME ONE earring card assortment into ONE1536x1024 landscape exact3columns x2rows grid, square512cells no gutters. Preserve EXACT ONE white STAINLESS STEEL card holding24 gold-tone openwork butterfly-like asymmetric stud earrings,12pairs, layout4columns by6rows. Both originals show same design/card; do NOT duplicate to two cards. Preserve actual asymmetric open oval wing loops, small curled lower loops and tiny star/leaf-like detail, gold colour and individual orientations. No new jewellery. Remove hand, shop background, top price/warranty overlay; clear pouch may remain. Top-left full24stud card white background. Top-middle full24stud card lavender cream styled. Top-right full24stud card on vanity tray lifestyle. Bottom-left standalone VERY TIGHT partial macro of actual gold openwork wing loop edge and tiny adjacent detail, not whole stud/card. Bottom-middle full24stud card with accurate heading GOLD TONE BUTTERFLY STUD SET. Bottom-right blank cream. Website-ready faithful photograph; count must remain24gold studs on ONE card in each full view.",
+      "sha256": "dadb3c7861c351ce81665a9318ab799ce15f72904d324ebe49ff89e7b3f6f17d",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9b6a2e91-3b54-4854-9f48-06287c5586fc.png",
+      "grid_sha256": "1ce40979db254d623f4450b0a8a3c57212afc67711087e4c1aa5b14e1114afa7",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-9b6a2e91-3b54-4854-9f48-06287c5586fc.png",
+      "prompt": "Edit attached two reference angles of SAME ONE earring card assortment into ONE1536x1024 landscape exact3columns x2rows grid, square512cells no gutters. Preserve EXACT ONE white STAINLESS STEEL card holding24 gold-tone openwork butterfly-like asymmetric stud earrings,12pairs, layout4columns by6rows. Both originals show same design/card; do NOT duplicate to two cards. Preserve actual asymmetric open oval wing loops, small curled lower loops and tiny star/leaf-like detail, gold colour and individual orientations. No new jewellery. Remove hand, shop background, top price/warranty overlay; clear pouch may remain. Top-left full24stud card white background. Top-middle full24stud card lavender cream styled. Top-right full24stud card on vanity tray lifestyle. Bottom-left standalone VERY TIGHT partial macro of actual gold openwork wing loop edge and tiny adjacent detail, not whole stud/card. Bottom-middle full24stud card with accurate heading GOLD TONE BUTTERFLY STUD SET. Bottom-right blank cream. Website-ready faithful photograph; count must remain24gold studs on ONE card in each full view.",
+      "sha256": "589b3e8910cee7dd105623d4e46b4db074ed96df0b1eee24a7b737d604d8bf32",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9b6a2e91-3b54-4854-9f48-06287c5586fc.png",
+      "grid_sha256": "1ce40979db254d623f4450b0a8a3c57212afc67711087e4c1aa5b14e1114afa7",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-9b6a2e91-3b54-4854-9f48-06287c5586fc.png",
+      "prompt": "Edit attached two reference angles of SAME ONE earring card assortment into ONE1536x1024 landscape exact3columns x2rows grid, square512cells no gutters. Preserve EXACT ONE white STAINLESS STEEL card holding24 gold-tone openwork butterfly-like asymmetric stud earrings,12pairs, layout4columns by6rows. Both originals show same design/card; do NOT duplicate to two cards. Preserve actual asymmetric open oval wing loops, small curled lower loops and tiny star/leaf-like detail, gold colour and individual orientations. No new jewellery. Remove hand, shop background, top price/warranty overlay; clear pouch may remain. Top-left full24stud card white background. Top-middle full24stud card lavender cream styled. Top-right full24stud card on vanity tray lifestyle. Bottom-left standalone VERY TIGHT partial macro of actual gold openwork wing loop edge and tiny adjacent detail, not whole stud/card. Bottom-middle full24stud card with accurate heading GOLD TONE BUTTERFLY STUD SET. Bottom-right blank cream. Website-ready faithful photograph; count must remain24gold studs on ONE card in each full view.",
+      "sha256": "50feaa0a7d735ea105be5708f491649ef7c5e07de14f74f39f27819187e683c6",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9b6a2e91-3b54-4854-9f48-06287c5586fc.png",
+      "grid_sha256": "1ce40979db254d623f4450b0a8a3c57212afc67711087e4c1aa5b14e1114afa7",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-9b6a2e91-3b54-4854-9f48-06287c5586fc.png",
+      "prompt": "Edit attached two reference angles of SAME ONE earring card assortment into ONE1536x1024 landscape exact3columns x2rows grid, square512cells no gutters. Preserve EXACT ONE white STAINLESS STEEL card holding24 gold-tone openwork butterfly-like asymmetric stud earrings,12pairs, layout4columns by6rows. Both originals show same design/card; do NOT duplicate to two cards. Preserve actual asymmetric open oval wing loops, small curled lower loops and tiny star/leaf-like detail, gold colour and individual orientations. No new jewellery. Remove hand, shop background, top price/warranty overlay; clear pouch may remain. Top-left full24stud card white background. Top-middle full24stud card lavender cream styled. Top-right full24stud card on vanity tray lifestyle. Bottom-left standalone VERY TIGHT partial macro of actual gold openwork wing loop edge and tiny adjacent detail, not whole stud/card. Bottom-middle full24stud card with accurate heading GOLD TONE BUTTERFLY STUD SET. Bottom-right blank cream. Website-ready faithful photograph; count must remain24gold studs on ONE card in each full view.",
+      "sha256": "1667efe0f34b1954380da695365d17de534a4cefd97aed63089739dc74b8a825",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9b6a2e91-3b54-4854-9f48-06287c5586fc.png",
+      "grid_sha256": "1ce40979db254d623f4450b0a8a3c57212afc67711087e4c1aa5b14e1114afa7",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

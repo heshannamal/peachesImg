@@ -1,7 +1,5 @@
 {
   "next_unassigned": [
-    "2598",
-    "2597",
     "2596",
     "2595",
     "2594",
@@ -83,8 +81,8 @@
   ],
   "assigned": {
     "batch3_worker1": [
-      "2602",
-      "2601"
+      "2598",
+      "2597"
     ],
     "batch3_worker2": [
       "2608",
@@ -138,6 +136,22 @@
         "2610",
         "2609"
       ]
+    },
+    {
+      "worker": "batch3_worker1",
+      "product_ids": [
+        "2602",
+        "2601"
+      ]
     }
+  ],
+  "status": "paused_model_usage_limit",
+  "active_products": 0,
+  "in_flight_calls": 0,
+  "resume_assigned_pending": [
+    "2600",
+    "2599",
+    "2598",
+    "2597"
   ]
 }

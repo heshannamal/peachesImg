@@ -1,0 +1,132 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0285.jpg": "54a9d2ed45c529c9a009ac93f0515e50d36cc68f825ed38a08200eebd84e2d6f"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-5106fbdb-e625-439a-ab9a-0abdaff053cf.png",
+      "source_output": "/workspace/generated_images/exec-5106fbdb-e625-439a-ab9a-0abdaff053cf.png",
+      "sha256": "9fabb6a5dc9597cad34802b001d22f2c39c5251bca81f9aed56c5d1524633f61",
+      "prompt": "Native photo EDIT referenced to original. Create landscape1536x1024 contact sheet with exactly3columns x2rows square512cells; grid boundaries x512/1024,y512; no gutters, labels or borders. Whole assortment is ONE product. Preserve actual product identity, count, colours, beads and metal clasp shapes. Remove hand, old price overlay and distracting shop background. Top-left whole assortment white background; top-middle whole assortment lavender/cream styled; top-right whole assortment on a realistic desk beside closed notebook, lifestyle; bottom-left standalone very tight macro of real beads/clasp section, not full assortment; bottom-middle whole assortment with heading Crystal Bead Phone Charms; bottom-right blank cream. Keep all full-view products within their own cell with margin. Do not add other phone straps or claims. Photorealistic website-ready. Exactly THREE looped phone charm wrist straps on three white backing cards: one silver/clear crystal plus round WHITE PEARLS, one BLUE crystals plus WHITE PEARLS, one RED crystals plus WHITE PEARLS. Each has gold round spring clasp ring and an accent cluster near the bottom consisting of large white pearl and faceted warm golden translucent round bead. Preserve all three distinct source pearl/crystal colourways and the source bead arrangement. Full views show exactly THREE complete loop straps on three cards. Tight detail of blue crystals, round white pearl and gold clasp.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-5106fbdb-e625-439a-ab9a-0abdaff053cf.png",
+      "prompt": "Native photo EDIT referenced to original. Create landscape1536x1024 contact sheet with exactly3columns x2rows square512cells; grid boundaries x512/1024,y512; no gutters, labels or borders. Whole assortment is ONE product. Preserve actual product identity, count, colours, beads and metal clasp shapes. Remove hand, old price overlay and distracting shop background. Top-left whole assortment white background; top-middle whole assortment lavender/cream styled; top-right whole assortment on a realistic desk beside closed notebook, lifestyle; bottom-left standalone very tight macro of real beads/clasp section, not full assortment; bottom-middle whole assortment with heading Crystal Bead Phone Charms; bottom-right blank cream. Keep all full-view products within their own cell with margin. Do not add other phone straps or claims. Photorealistic website-ready. Exactly THREE looped phone charm wrist straps on three white backing cards: one silver/clear crystal plus round WHITE PEARLS, one BLUE crystals plus WHITE PEARLS, one RED crystals plus WHITE PEARLS. Each has gold round spring clasp ring and an accent cluster near the bottom consisting of large white pearl and faceted warm golden translucent round bead. Preserve all three distinct source pearl/crystal colourways and the source bead arrangement. Full views show exactly THREE complete loop straps on three cards. Tight detail of blue crystals, round white pearl and gold clasp.",
+      "sha256": "bf4ae2ec6ebd9c8c8bc11afbb29fe02cdc32395de94cd17dca05446f4e97b80b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5106fbdb-e625-439a-ab9a-0abdaff053cf.png",
+      "grid_sha256": "9fabb6a5dc9597cad34802b001d22f2c39c5251bca81f9aed56c5d1524633f61",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Exactly3loopstraps on backingcards: clear/whitepearls,blue/whitepearls,red/whitepearls; goldring clasps and golden accent preserved on white.",
+      "reviewed_by": "parent recovery review of actual saved crop montage plus original images"
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-5106fbdb-e625-439a-ab9a-0abdaff053cf.png",
+      "prompt": "Native photo EDIT referenced to original. Create landscape1536x1024 contact sheet with exactly3columns x2rows square512cells; grid boundaries x512/1024,y512; no gutters, labels or borders. Whole assortment is ONE product. Preserve actual product identity, count, colours, beads and metal clasp shapes. Remove hand, old price overlay and distracting shop background. Top-left whole assortment white background; top-middle whole assortment lavender/cream styled; top-right whole assortment on a realistic desk beside closed notebook, lifestyle; bottom-left standalone very tight macro of real beads/clasp section, not full assortment; bottom-middle whole assortment with heading Crystal Bead Phone Charms; bottom-right blank cream. Keep all full-view products within their own cell with margin. Do not add other phone straps or claims. Photorealistic website-ready. Exactly THREE looped phone charm wrist straps on three white backing cards: one silver/clear crystal plus round WHITE PEARLS, one BLUE crystals plus WHITE PEARLS, one RED crystals plus WHITE PEARLS. Each has gold round spring clasp ring and an accent cluster near the bottom consisting of large white pearl and faceted warm golden translucent round bead. Preserve all three distinct source pearl/crystal colourways and the source bead arrangement. Full views show exactly THREE complete loop straps on three cards. Tight detail of blue crystals, round white pearl and gold clasp.",
+      "sha256": "71e950a5064d0110ae740fc0b44214a99869dd0150ca853afa9477c6fcf702cc",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5106fbdb-e625-439a-ab9a-0abdaff053cf.png",
+      "grid_sha256": "9fabb6a5dc9597cad34802b001d22f2c39c5251bca81f9aed56c5d1524633f61",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Lavender/cream setting preserves same3straps,colourways and gold clasps.",
+      "reviewed_by": "parent recovery review of actual saved crop montage plus original images"
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-5106fbdb-e625-439a-ab9a-0abdaff053cf.png",
+      "prompt": "Native photo EDIT referenced to original. Create landscape1536x1024 contact sheet with exactly3columns x2rows square512cells; grid boundaries x512/1024,y512; no gutters, labels or borders. Whole assortment is ONE product. Preserve actual product identity, count, colours, beads and metal clasp shapes. Remove hand, old price overlay and distracting shop background. Top-left whole assortment white background; top-middle whole assortment lavender/cream styled; top-right whole assortment on a realistic desk beside closed notebook, lifestyle; bottom-left standalone very tight macro of real beads/clasp section, not full assortment; bottom-middle whole assortment with heading Crystal Bead Phone Charms; bottom-right blank cream. Keep all full-view products within their own cell with margin. Do not add other phone straps or claims. Photorealistic website-ready. Exactly THREE looped phone charm wrist straps on three white backing cards: one silver/clear crystal plus round WHITE PEARLS, one BLUE crystals plus WHITE PEARLS, one RED crystals plus WHITE PEARLS. Each has gold round spring clasp ring and an accent cluster near the bottom consisting of large white pearl and faceted warm golden translucent round bead. Preserve all three distinct source pearl/crystal colourways and the source bead arrangement. Full views show exactly THREE complete loop straps on three cards. Tight detail of blue crystals, round white pearl and gold clasp.",
+      "sha256": "44a6bbabffcb2bf950d6001dee3a723ef4d8257909cd4c9ac6ef153dd2c8d52a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5106fbdb-e625-439a-ab9a-0abdaff053cf.png",
+      "grid_sha256": "9fabb6a5dc9597cad34802b001d22f2c39c5251bca81f9aed56c5d1524633f61",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Desk lifestyle shows whole3strap assortment with notebook aside.",
+      "reviewed_by": "parent recovery review of actual saved crop montage plus original images"
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-5106fbdb-e625-439a-ab9a-0abdaff053cf.png",
+      "prompt": "Native photo EDIT referenced to original. Create landscape1536x1024 contact sheet with exactly3columns x2rows square512cells; grid boundaries x512/1024,y512; no gutters, labels or borders. Whole assortment is ONE product. Preserve actual product identity, count, colours, beads and metal clasp shapes. Remove hand, old price overlay and distracting shop background. Top-left whole assortment white background; top-middle whole assortment lavender/cream styled; top-right whole assortment on a realistic desk beside closed notebook, lifestyle; bottom-left standalone very tight macro of real beads/clasp section, not full assortment; bottom-middle whole assortment with heading Crystal Bead Phone Charms; bottom-right blank cream. Keep all full-view products within their own cell with margin. Do not add other phone straps or claims. Photorealistic website-ready. Exactly THREE looped phone charm wrist straps on three white backing cards: one silver/clear crystal plus round WHITE PEARLS, one BLUE crystals plus WHITE PEARLS, one RED crystals plus WHITE PEARLS. Each has gold round spring clasp ring and an accent cluster near the bottom consisting of large white pearl and faceted warm golden translucent round bead. Preserve all three distinct source pearl/crystal colourways and the source bead arrangement. Full views show exactly THREE complete loop straps on three cards. Tight detail of blue crystals, round white pearl and gold clasp.",
+      "sha256": "144fba831e7acfe0cf62d7ee17991d1b66de504c025aa7ffa62f625270723afe",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5106fbdb-e625-439a-ab9a-0abdaff053cf.png",
+      "grid_sha256": "9fabb6a5dc9597cad34802b001d22f2c39c5251bca81f9aed56c5d1524633f61",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Standalone tight macro of real goldclasp,bluecrystals,whitepearls/goldenaccent; subject identity matches original.",
+      "reviewed_by": "parent recovery review of actual saved crop montage plus original images"
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-5106fbdb-e625-439a-ab9a-0abdaff053cf.png",
+      "prompt": "Native photo EDIT referenced to original. Create landscape1536x1024 contact sheet with exactly3columns x2rows square512cells; grid boundaries x512/1024,y512; no gutters, labels or borders. Whole assortment is ONE product. Preserve actual product identity, count, colours, beads and metal clasp shapes. Remove hand, old price overlay and distracting shop background. Top-left whole assortment white background; top-middle whole assortment lavender/cream styled; top-right whole assortment on a realistic desk beside closed notebook, lifestyle; bottom-left standalone very tight macro of real beads/clasp section, not full assortment; bottom-middle whole assortment with heading Crystal Bead Phone Charms; bottom-right blank cream. Keep all full-view products within their own cell with margin. Do not add other phone straps or claims. Photorealistic website-ready. Exactly THREE looped phone charm wrist straps on three white backing cards: one silver/clear crystal plus round WHITE PEARLS, one BLUE crystals plus WHITE PEARLS, one RED crystals plus WHITE PEARLS. Each has gold round spring clasp ring and an accent cluster near the bottom consisting of large white pearl and faceted warm golden translucent round bead. Preserve all three distinct source pearl/crystal colourways and the source bead arrangement. Full views show exactly THREE complete loop straps on three cards. Tight detail of blue crystals, round white pearl and gold clasp.",
+      "sha256": "9af44b75076512d0fcbef893f77910fbc837eeacfdaf808209e7a52d5631ee57",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5106fbdb-e625-439a-ab9a-0abdaff053cf.png",
+      "grid_sha256": "9fabb6a5dc9597cad34802b001d22f2c39c5251bca81f9aed56c5d1524633f61",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Crystal Bead Phone Charms accurate heading above complete3strap assortment.",
+      "reviewed_by": "parent recovery review of actual saved crop montage plus original images"
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

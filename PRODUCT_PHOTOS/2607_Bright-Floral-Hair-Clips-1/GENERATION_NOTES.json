@@ -97,7 +97,8 @@
         512,
         1024
       ],
-      "visual_review": "Standalone tight pink flower-shaped claw clip and spring matches actual mini claw clip identity."
+      "visual_review": "Existing approved standalone real flowerclaw macro retained unchanged.",
+      "reviewed_by": "parent recovery review of actual saved crop montage plus original images"
     },
     {
       "saved_file": "New/05_Promotional.png",
@@ -119,9 +120,111 @@
         1024
       ],
       "visual_review": "Initial grid cards overlap heavily and cannot verify required120clips/12cards; rejected for materially unverifiable count. One correction requested."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-ecb0a5a8-5955-4c46-b981-c62e9beb3bf4.png",
+      "source_output": "/workspace/generated_images/exec-ecb0a5a8-5955-4c46-b981-c62e9beb3bf4.png",
+      "sha256": "679280a63c2fc3fcf245c02b7e9c991f91d4da5031796879cad3dacced99d96c",
+      "prompt": null,
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews.",
+      "prompt_recovery_status": "Exact corrective prompt unavailable after worker model usage limit; source original prompt retained in prior record; do not infer exact corrective wording."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-ecb0a5a8-5955-4c46-b981-c62e9beb3bf4.png",
+      "prompt": null,
+      "sha256": "c1a8ff42878f5fc53e90aa68d7fb4d4b089669aa14c346a9ac5ad14edbe8113e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ecb0a5a8-5955-4c46-b981-c62e9beb3bf4.png",
+      "grid_sha256": "679280a63c2fc3fcf245c02b7e9c991f91d4da5031796879cad3dacced99d96c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "prompt_recovery_status": "Exact corrective prompt unavailable after worker model usage limit; source original prompt retained in prior record; do not infer exact corrective wording.",
+      "visual_review": "Corrected white crop contains12 separate bunnycards with10mini flowerclaws each; pastel mix and claw identity match source photos; no clipped cards.",
+      "reviewed_by": "parent recovery review of actual saved crop montage plus original images"
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-ecb0a5a8-5955-4c46-b981-c62e9beb3bf4.png",
+      "prompt": null,
+      "sha256": "bf837059068693bf56dd4027144c22fdfc9ed946c2555ddd831e50aafb01edbd",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ecb0a5a8-5955-4c46-b981-c62e9beb3bf4.png",
+      "grid_sha256": "679280a63c2fc3fcf245c02b7e9c991f91d4da5031796879cad3dacced99d96c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "prompt_recovery_status": "Exact corrective prompt unavailable after worker model usage limit; source original prompt retained in prior record; do not infer exact corrective wording.",
+      "visual_review": "Lavender styled crop preserves same12cards/120mini flowerclips.",
+      "reviewed_by": "parent recovery review of actual saved crop montage plus original images"
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-ecb0a5a8-5955-4c46-b981-c62e9beb3bf4.png",
+      "prompt": null,
+      "sha256": "fbaf99798fb6a72e19fa619766daafe7583de53fded4e75d5f3f0babec1971b2",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ecb0a5a8-5955-4c46-b981-c62e9beb3bf4.png",
+      "grid_sha256": "679280a63c2fc3fcf245c02b7e9c991f91d4da5031796879cad3dacced99d96c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "prompt_recovery_status": "Exact corrective prompt unavailable after worker model usage limit; source original prompt retained in prior record; do not infer exact corrective wording.",
+      "visual_review": "Desk lifestyle crop preserves whole12card assortment without props obscuring products.",
+      "reviewed_by": "parent recovery review of actual saved crop montage plus original images"
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-ecb0a5a8-5955-4c46-b981-c62e9beb3bf4.png",
+      "prompt": null,
+      "sha256": "b2d43cc1d1d2640ac1912b059f4b6bb924cfb61c3011e9f954315e5c074cea62",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ecb0a5a8-5955-4c46-b981-c62e9beb3bf4.png",
+      "grid_sha256": "679280a63c2fc3fcf245c02b7e9c991f91d4da5031796879cad3dacced99d96c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "prompt_recovery_status": "Exact corrective prompt unavailable after worker model usage limit; source original prompt retained in prior record; do not infer exact corrective wording.",
+      "visual_review": "Mini Flower Hair Clips heading accurate; full12card assortment present.",
+      "reviewed_by": "parent recovery review of actual saved crop montage plus original images"
     }
   ],
-  "status": "in_progress",
+  "status": "five_images_saved_and_visually_checked",
   "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
   "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
   "corrective_attempts": {
@@ -129,5 +232,6 @@
     "02_Styled-Background": 1,
     "03_Lifestyle": 1,
     "05_Promotional": 1
-  }
+  },
+  "original_baseline_verified": true
 }

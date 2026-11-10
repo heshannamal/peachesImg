@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-10T03:28:41.500923+00:00",
+  "updated_at": "2026-11-10T06:15:23.474624+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 11,
-  "partial_products": 9,
-  "pending_products": 80,
+  "completed_products": 15,
+  "partial_products": 8,
+  "pending_products": 77,
   "blocked_products": 0,
-  "saved_images": 76,
-  "checked_images": 65,
+  "saved_images": 95,
+  "checked_images": 84,
   "products": [
     {
       "product_id": "2618",
@@ -238,21 +238,20 @@
     },
     {
       "product_id": "2607",
-      "folder": "2607_Bright-Floral-Hair-Clips-0",
-      "status": "partial",
-      "saved_images": 1,
-      "checked_images": 1,
+      "folder": "2607_Bright-Floral-Hair-Clips-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
-        "New/04_Detail.png"
-      ],
-      "missing_images": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
+        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "five_images_saved_and_visually_checked",
       "errors": [],
       "originals_unchanged": true
     },
@@ -276,7 +275,7 @@
         "New/03_Lifestyle.png",
         "New/05_Promotional.png"
       ],
-      "notes_status": "in_progress",
+      "notes_status": "partial_corrective_spent",
       "errors": [
         "unreviewed or unrecorded: 01_White-Background.png",
         "unreviewed or unrecorded: 02_Styled-Background.png",
@@ -325,58 +324,58 @@
     },
     {
       "product_id": "2603",
-      "folder": "2603_White-Red-Phone-Charms-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "folder": "2603_White-Red-Phone-Charms-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "five_images_saved_and_visually_checked",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "2602",
-      "folder": "2602_Blue-Black-Phone-Charms-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "folder": "2602_Blue-Black-Phone-Charms-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "five_images_saved_and_visually_checked",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "2601",
-      "folder": "2601_Flower-Pendant-Necklaces-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "folder": "2601_Flower-Pendant-Necklaces-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "five_images_saved_and_visually_checked",
       "errors": [],
       "originals_unchanged": true
     },

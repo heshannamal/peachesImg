@@ -1,0 +1,139 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0359.jpg": "9b2b6e5972f233f7bc9a4389da93c68a6382f98f741806db247c50c968095001"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-9645e339-1f8d-411d-8d2d-b16630705d9a.png",
+      "source_output": "/workspace/generated_images/exec-9645e339-1f8d-411d-8d2d-b16630705d9a.png",
+      "sha256": "b2be62ac9234f61e7dfb941bed6bb619ea500466bb38f09497e0319f94e44637",
+      "prompt": "Edit the referenced actual original into ONE website product-photo contact sheet, landscape1536x1024 pixels, exact3columns2rows with equal512square cells, no gutters/borders. Native photographic edit preserving exact assortment identity, count, shapes, colours. Remove hand, shop background, price overlay and shiny outer plastic bags; retain six display cards with each card accessories exactly as source. Whole assortment is ONE product. Full assortment must appear in cells1,2,3,5. Cell1 top-left pure white background, Cell2 top-middle lavender/cream tasteful styled background, Cell3 top-right lifestyle flatlay on dresser with subdued props, Cell4 bottom-left standalone tight macro crop of one real accessory detail (not full assortment), Cell5 bottom-middle promotional full assortment with heading ONLY \"Pastel Accessory Sets\", Cell6 bottom-right blank cream. Keep every product contained within its cell, no text across cell boundaries. Do not add accessories, omit cards or invent counts. Website-ready photographic quality sufficient. The original shows exactly SIX cards. Each contains TWO floral fabric bow clips and ONE round gradient toy sunglasses pair. Bow/card colours: lightblue with blue-pink glasses; yellow with orange-yellow glasses; pink with brown gradient glasses; lavender with purple-pink glasses; pale pink floral with pink-clear glasses; pale mint-blue with blue-pink glasses. Preserve all6cards,12bows and6glasses, same existing printed display-card designs. Detail cell macro lavender floral fabric bow from original.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "Rejected/initial_01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-9645e339-1f8d-411d-8d2d-b16630705d9a.png",
+      "prompt": "Edit the referenced actual original into ONE website product-photo contact sheet, landscape1536x1024 pixels, exact3columns2rows with equal512square cells, no gutters/borders. Native photographic edit preserving exact assortment identity, count, shapes, colours. Remove hand, shop background, price overlay and shiny outer plastic bags; retain six display cards with each card accessories exactly as source. Whole assortment is ONE product. Full assortment must appear in cells1,2,3,5. Cell1 top-left pure white background, Cell2 top-middle lavender/cream tasteful styled background, Cell3 top-right lifestyle flatlay on dresser with subdued props, Cell4 bottom-left standalone tight macro crop of one real accessory detail (not full assortment), Cell5 bottom-middle promotional full assortment with heading ONLY \"Pastel Accessory Sets\", Cell6 bottom-right blank cream. Keep every product contained within its cell, no text across cell boundaries. Do not add accessories, omit cards or invent counts. Website-ready photographic quality sufficient. The original shows exactly SIX cards. Each contains TWO floral fabric bow clips and ONE round gradient toy sunglasses pair. Bow/card colours: lightblue with blue-pink glasses; yellow with orange-yellow glasses; pink with brown gradient glasses; lavender with purple-pink glasses; pale pink floral with pink-clear glasses; pale mint-blue with blue-pink glasses. Preserve all6cards,12bows and6glasses, same existing printed display-card designs. Detail cell macro lavender floral fabric bow from original.",
+      "sha256": "33a8bff25ac2c2046807bc10109ba257525e48c07f81349bd6c757989e2e8f7f",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9645e339-1f8d-411d-8d2d-b16630705d9a.png",
+      "grid_sha256": "b2be62ac9234f61e7dfb941bed6bb619ea500466bb38f09497e0319f94e44637",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Rejected material count error: only one bow per card; original has two separate bow clips per card. One corrective permitted."
+    },
+    {
+      "saved_file": "Rejected/initial_02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-9645e339-1f8d-411d-8d2d-b16630705d9a.png",
+      "prompt": "Edit the referenced actual original into ONE website product-photo contact sheet, landscape1536x1024 pixels, exact3columns2rows with equal512square cells, no gutters/borders. Native photographic edit preserving exact assortment identity, count, shapes, colours. Remove hand, shop background, price overlay and shiny outer plastic bags; retain six display cards with each card accessories exactly as source. Whole assortment is ONE product. Full assortment must appear in cells1,2,3,5. Cell1 top-left pure white background, Cell2 top-middle lavender/cream tasteful styled background, Cell3 top-right lifestyle flatlay on dresser with subdued props, Cell4 bottom-left standalone tight macro crop of one real accessory detail (not full assortment), Cell5 bottom-middle promotional full assortment with heading ONLY \"Pastel Accessory Sets\", Cell6 bottom-right blank cream. Keep every product contained within its cell, no text across cell boundaries. Do not add accessories, omit cards or invent counts. Website-ready photographic quality sufficient. The original shows exactly SIX cards. Each contains TWO floral fabric bow clips and ONE round gradient toy sunglasses pair. Bow/card colours: lightblue with blue-pink glasses; yellow with orange-yellow glasses; pink with brown gradient glasses; lavender with purple-pink glasses; pale pink floral with pink-clear glasses; pale mint-blue with blue-pink glasses. Preserve all6cards,12bows and6glasses, same existing printed display-card designs. Detail cell macro lavender floral fabric bow from original.",
+      "sha256": "b8617717bb8234138a64070aa8b34adb7bc3e0ae8db1ba14109ca9270bbbf00e",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9645e339-1f8d-411d-8d2d-b16630705d9a.png",
+      "grid_sha256": "b2be62ac9234f61e7dfb941bed6bb619ea500466bb38f09497e0319f94e44637",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Rejected material count error: only one bow per card; original has two separate bow clips per card. One corrective permitted."
+    },
+    {
+      "saved_file": "Rejected/initial_03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-9645e339-1f8d-411d-8d2d-b16630705d9a.png",
+      "prompt": "Edit the referenced actual original into ONE website product-photo contact sheet, landscape1536x1024 pixels, exact3columns2rows with equal512square cells, no gutters/borders. Native photographic edit preserving exact assortment identity, count, shapes, colours. Remove hand, shop background, price overlay and shiny outer plastic bags; retain six display cards with each card accessories exactly as source. Whole assortment is ONE product. Full assortment must appear in cells1,2,3,5. Cell1 top-left pure white background, Cell2 top-middle lavender/cream tasteful styled background, Cell3 top-right lifestyle flatlay on dresser with subdued props, Cell4 bottom-left standalone tight macro crop of one real accessory detail (not full assortment), Cell5 bottom-middle promotional full assortment with heading ONLY \"Pastel Accessory Sets\", Cell6 bottom-right blank cream. Keep every product contained within its cell, no text across cell boundaries. Do not add accessories, omit cards or invent counts. Website-ready photographic quality sufficient. The original shows exactly SIX cards. Each contains TWO floral fabric bow clips and ONE round gradient toy sunglasses pair. Bow/card colours: lightblue with blue-pink glasses; yellow with orange-yellow glasses; pink with brown gradient glasses; lavender with purple-pink glasses; pale pink floral with pink-clear glasses; pale mint-blue with blue-pink glasses. Preserve all6cards,12bows and6glasses, same existing printed display-card designs. Detail cell macro lavender floral fabric bow from original.",
+      "sha256": "52a9771bd575de8b2dc59ba3bb950697ce0003c62ef7427e0c9eef19867aa599",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9645e339-1f8d-411d-8d2d-b16630705d9a.png",
+      "grid_sha256": "b2be62ac9234f61e7dfb941bed6bb619ea500466bb38f09497e0319f94e44637",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Rejected material count error: only one bow per card; original has two separate bow clips per card. One corrective permitted."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-9645e339-1f8d-411d-8d2d-b16630705d9a.png",
+      "prompt": "Edit the referenced actual original into ONE website product-photo contact sheet, landscape1536x1024 pixels, exact3columns2rows with equal512square cells, no gutters/borders. Native photographic edit preserving exact assortment identity, count, shapes, colours. Remove hand, shop background, price overlay and shiny outer plastic bags; retain six display cards with each card accessories exactly as source. Whole assortment is ONE product. Full assortment must appear in cells1,2,3,5. Cell1 top-left pure white background, Cell2 top-middle lavender/cream tasteful styled background, Cell3 top-right lifestyle flatlay on dresser with subdued props, Cell4 bottom-left standalone tight macro crop of one real accessory detail (not full assortment), Cell5 bottom-middle promotional full assortment with heading ONLY \"Pastel Accessory Sets\", Cell6 bottom-right blank cream. Keep every product contained within its cell, no text across cell boundaries. Do not add accessories, omit cards or invent counts. Website-ready photographic quality sufficient. The original shows exactly SIX cards. Each contains TWO floral fabric bow clips and ONE round gradient toy sunglasses pair. Bow/card colours: lightblue with blue-pink glasses; yellow with orange-yellow glasses; pink with brown gradient glasses; lavender with purple-pink glasses; pale pink floral with pink-clear glasses; pale mint-blue with blue-pink glasses. Preserve all6cards,12bows and6glasses, same existing printed display-card designs. Detail cell macro lavender floral fabric bow from original.",
+      "sha256": "9a39ee29447fe9c5877a591c857661532d752a89a008b086a63181b010fc21aa",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9645e339-1f8d-411d-8d2d-b16630705d9a.png",
+      "grid_sha256": "b2be62ac9234f61e7dfb941bed6bb619ea500466bb38f09497e0319f94e44637",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Tight macro of lavender floral fabric bow matches actual source material, shape and colour."
+    },
+    {
+      "saved_file": "Rejected/initial_05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-9645e339-1f8d-411d-8d2d-b16630705d9a.png",
+      "prompt": "Edit the referenced actual original into ONE website product-photo contact sheet, landscape1536x1024 pixels, exact3columns2rows with equal512square cells, no gutters/borders. Native photographic edit preserving exact assortment identity, count, shapes, colours. Remove hand, shop background, price overlay and shiny outer plastic bags; retain six display cards with each card accessories exactly as source. Whole assortment is ONE product. Full assortment must appear in cells1,2,3,5. Cell1 top-left pure white background, Cell2 top-middle lavender/cream tasteful styled background, Cell3 top-right lifestyle flatlay on dresser with subdued props, Cell4 bottom-left standalone tight macro crop of one real accessory detail (not full assortment), Cell5 bottom-middle promotional full assortment with heading ONLY \"Pastel Accessory Sets\", Cell6 bottom-right blank cream. Keep every product contained within its cell, no text across cell boundaries. Do not add accessories, omit cards or invent counts. Website-ready photographic quality sufficient. The original shows exactly SIX cards. Each contains TWO floral fabric bow clips and ONE round gradient toy sunglasses pair. Bow/card colours: lightblue with blue-pink glasses; yellow with orange-yellow glasses; pink with brown gradient glasses; lavender with purple-pink glasses; pale pink floral with pink-clear glasses; pale mint-blue with blue-pink glasses. Preserve all6cards,12bows and6glasses, same existing printed display-card designs. Detail cell macro lavender floral fabric bow from original.",
+      "sha256": "1062ea717f81c4fb76a3909e235d89cbd4816daa83f9a42807dd3d813eee6517",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9645e339-1f8d-411d-8d2d-b16630705d9a.png",
+      "grid_sha256": "b2be62ac9234f61e7dfb941bed6bb619ea500466bb38f09497e0319f94e44637",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Rejected material count error: only one bow per card; original has two separate bow clips per card. One corrective permitted."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": [
+    {
+      "views": [
+        "01",
+        "02",
+        "03",
+        "05"
+      ],
+      "attempt": 1,
+      "reason": "Two separate bow clips per card required, initial showed only one.",
+      "status": "starting"
+    }
+  ]
+}

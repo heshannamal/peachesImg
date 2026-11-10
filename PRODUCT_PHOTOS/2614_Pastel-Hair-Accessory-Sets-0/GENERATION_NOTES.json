@@ -1,0 +1,133 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0347.jpg": "1c0336a130ec217478f2e844bf55056ef976f334c4440f6409b83139dd9abbc6"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-3efdf368-d2c1-44bc-87a0-2b9d3a3506b6.png",
+      "source_output": "/workspace/generated_images/exec-3efdf368-d2c1-44bc-87a0-2b9d3a3506b6.png",
+      "sha256": "a0ea1c0223a9ad2d4376574079c767e5891ce3f7d65bc33699b9612e4eb50b19",
+      "prompt": "Create a single native edited ecommerce photography contact sheet, landscape1536x1024, precisely3columns x2rows of square512x512cells, hard cell boundaries at x512,1024 and y512; no gutters, no labels or borders. Reference the supplied original product photo faithfully. Entire assortment is ONE product. Remove hand, shop background and old price overlay. Preserve exact photographed product identity, count, shapes and colours. Top-left full assortment on white; top-middle full assortment on lavender/cream styled background; top-right full assortment on realistic tidy dressing-table lifestyle background; bottom-left standalone tight real-part macro, only a close cropped detail of an actual item not the full assortment; bottom-middle full assortment promotional photo with the accurate specified heading; bottom-right blank cream. Keep all product edges inside each full-view cell, no props that resemble extra products. Website-ready, photorealistic, no beautification changes. Subject is SIX distinct white display cards each holding one pair of hair clips and one pair of floral-rim translucent gradient toy sunglasses. Preserve all six cards and their pair layouts: blue floral bows with blue/pink glasses; orange flowers with pale green centres and brown/clear glasses; yellow gingham bows with orange/yellow glasses; pink textured flowers with blue centres and pink/clear glasses; lavender gingham bows with purple/pink glasses; green gingham heart clips with blue/pink glasses. The source includes all six cards in one bundle. Full views must show exactly SIX cards, twelve clips, six pairs of sunglasses. Detail a real blue bow fabric/flowered rim closeup. Heading: Hair Accessory Sets.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "Rejected/initial_01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-3efdf368-d2c1-44bc-87a0-2b9d3a3506b6.png",
+      "prompt": "Create a single native edited ecommerce photography contact sheet, landscape1536x1024, precisely3columns x2rows of square512x512cells, hard cell boundaries at x512,1024 and y512; no gutters, no labels or borders. Reference the supplied original product photo faithfully. Entire assortment is ONE product. Remove hand, shop background and old price overlay. Preserve exact photographed product identity, count, shapes and colours. Top-left full assortment on white; top-middle full assortment on lavender/cream styled background; top-right full assortment on realistic tidy dressing-table lifestyle background; bottom-left standalone tight real-part macro, only a close cropped detail of an actual item not the full assortment; bottom-middle full assortment promotional photo with the accurate specified heading; bottom-right blank cream. Keep all product edges inside each full-view cell, no props that resemble extra products. Website-ready, photorealistic, no beautification changes. Subject is SIX distinct white display cards each holding one pair of hair clips and one pair of floral-rim translucent gradient toy sunglasses. Preserve all six cards and their pair layouts: blue floral bows with blue/pink glasses; orange flowers with pale green centres and brown/clear glasses; yellow gingham bows with orange/yellow glasses; pink textured flowers with blue centres and pink/clear glasses; lavender gingham bows with purple/pink glasses; green gingham heart clips with blue/pink glasses. The source includes all six cards in one bundle. Full views must show exactly SIX cards, twelve clips, six pairs of sunglasses. Detail a real blue bow fabric/flowered rim closeup. Heading: Hair Accessory Sets.",
+      "sha256": "d386d61fdca948d036202ca343161e3fbc610c0811b23f3f6badd245185df88a",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3efdf368-d2c1-44bc-87a0-2b9d3a3506b6.png",
+      "grid_sha256": "a0ea1c0223a9ad2d4376574079c767e5891ce3f7d65bc33699b9612e4eb50b19",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Rejected: green gingham hearts replaced by bow silhouette"
+    },
+    {
+      "saved_file": "Rejected/initial_02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-3efdf368-d2c1-44bc-87a0-2b9d3a3506b6.png",
+      "prompt": "Create a single native edited ecommerce photography contact sheet, landscape1536x1024, precisely3columns x2rows of square512x512cells, hard cell boundaries at x512,1024 and y512; no gutters, no labels or borders. Reference the supplied original product photo faithfully. Entire assortment is ONE product. Remove hand, shop background and old price overlay. Preserve exact photographed product identity, count, shapes and colours. Top-left full assortment on white; top-middle full assortment on lavender/cream styled background; top-right full assortment on realistic tidy dressing-table lifestyle background; bottom-left standalone tight real-part macro, only a close cropped detail of an actual item not the full assortment; bottom-middle full assortment promotional photo with the accurate specified heading; bottom-right blank cream. Keep all product edges inside each full-view cell, no props that resemble extra products. Website-ready, photorealistic, no beautification changes. Subject is SIX distinct white display cards each holding one pair of hair clips and one pair of floral-rim translucent gradient toy sunglasses. Preserve all six cards and their pair layouts: blue floral bows with blue/pink glasses; orange flowers with pale green centres and brown/clear glasses; yellow gingham bows with orange/yellow glasses; pink textured flowers with blue centres and pink/clear glasses; lavender gingham bows with purple/pink glasses; green gingham heart clips with blue/pink glasses. The source includes all six cards in one bundle. Full views must show exactly SIX cards, twelve clips, six pairs of sunglasses. Detail a real blue bow fabric/flowered rim closeup. Heading: Hair Accessory Sets.",
+      "sha256": "d5abd62d818efd628cb31266960e2b02f44cb6dae718d5ebbe158d6f4a935c6c",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3efdf368-d2c1-44bc-87a0-2b9d3a3506b6.png",
+      "grid_sha256": "a0ea1c0223a9ad2d4376574079c767e5891ce3f7d65bc33699b9612e4eb50b19",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Rejected: green gingham hearts replaced by bow silhouette"
+    },
+    {
+      "saved_file": "Rejected/initial_03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-3efdf368-d2c1-44bc-87a0-2b9d3a3506b6.png",
+      "prompt": "Create a single native edited ecommerce photography contact sheet, landscape1536x1024, precisely3columns x2rows of square512x512cells, hard cell boundaries at x512,1024 and y512; no gutters, no labels or borders. Reference the supplied original product photo faithfully. Entire assortment is ONE product. Remove hand, shop background and old price overlay. Preserve exact photographed product identity, count, shapes and colours. Top-left full assortment on white; top-middle full assortment on lavender/cream styled background; top-right full assortment on realistic tidy dressing-table lifestyle background; bottom-left standalone tight real-part macro, only a close cropped detail of an actual item not the full assortment; bottom-middle full assortment promotional photo with the accurate specified heading; bottom-right blank cream. Keep all product edges inside each full-view cell, no props that resemble extra products. Website-ready, photorealistic, no beautification changes. Subject is SIX distinct white display cards each holding one pair of hair clips and one pair of floral-rim translucent gradient toy sunglasses. Preserve all six cards and their pair layouts: blue floral bows with blue/pink glasses; orange flowers with pale green centres and brown/clear glasses; yellow gingham bows with orange/yellow glasses; pink textured flowers with blue centres and pink/clear glasses; lavender gingham bows with purple/pink glasses; green gingham heart clips with blue/pink glasses. The source includes all six cards in one bundle. Full views must show exactly SIX cards, twelve clips, six pairs of sunglasses. Detail a real blue bow fabric/flowered rim closeup. Heading: Hair Accessory Sets.",
+      "sha256": "d0f8c416f7f445853451d68c54bc88a8a0ba2fb4cd88893f4cde459cbfd45f5d",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3efdf368-d2c1-44bc-87a0-2b9d3a3506b6.png",
+      "grid_sha256": "a0ea1c0223a9ad2d4376574079c767e5891ce3f7d65bc33699b9612e4eb50b19",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Rejected: green gingham hearts replaced by bow silhouette"
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-3efdf368-d2c1-44bc-87a0-2b9d3a3506b6.png",
+      "prompt": "Create a single native edited ecommerce photography contact sheet, landscape1536x1024, precisely3columns x2rows of square512x512cells, hard cell boundaries at x512,1024 and y512; no gutters, no labels or borders. Reference the supplied original product photo faithfully. Entire assortment is ONE product. Remove hand, shop background and old price overlay. Preserve exact photographed product identity, count, shapes and colours. Top-left full assortment on white; top-middle full assortment on lavender/cream styled background; top-right full assortment on realistic tidy dressing-table lifestyle background; bottom-left standalone tight real-part macro, only a close cropped detail of an actual item not the full assortment; bottom-middle full assortment promotional photo with the accurate specified heading; bottom-right blank cream. Keep all product edges inside each full-view cell, no props that resemble extra products. Website-ready, photorealistic, no beautification changes. Subject is SIX distinct white display cards each holding one pair of hair clips and one pair of floral-rim translucent gradient toy sunglasses. Preserve all six cards and their pair layouts: blue floral bows with blue/pink glasses; orange flowers with pale green centres and brown/clear glasses; yellow gingham bows with orange/yellow glasses; pink textured flowers with blue centres and pink/clear glasses; lavender gingham bows with purple/pink glasses; green gingham heart clips with blue/pink glasses. The source includes all six cards in one bundle. Full views must show exactly SIX cards, twelve clips, six pairs of sunglasses. Detail a real blue bow fabric/flowered rim closeup. Heading: Hair Accessory Sets.",
+      "sha256": "4cafdadd7dd4e2afc79608026663381b4fc3f79310df5b744f7587b730e20b87",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3efdf368-d2c1-44bc-87a0-2b9d3a3506b6.png",
+      "grid_sha256": "a0ea1c0223a9ad2d4376574079c767e5891ce3f7d65bc33699b9612e4eb50b19",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Checked actual crop: tight real blue floral bow fabric and flowered glasses rim; matches source."
+    },
+    {
+      "saved_file": "Rejected/initial_05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-3efdf368-d2c1-44bc-87a0-2b9d3a3506b6.png",
+      "prompt": "Create a single native edited ecommerce photography contact sheet, landscape1536x1024, precisely3columns x2rows of square512x512cells, hard cell boundaries at x512,1024 and y512; no gutters, no labels or borders. Reference the supplied original product photo faithfully. Entire assortment is ONE product. Remove hand, shop background and old price overlay. Preserve exact photographed product identity, count, shapes and colours. Top-left full assortment on white; top-middle full assortment on lavender/cream styled background; top-right full assortment on realistic tidy dressing-table lifestyle background; bottom-left standalone tight real-part macro, only a close cropped detail of an actual item not the full assortment; bottom-middle full assortment promotional photo with the accurate specified heading; bottom-right blank cream. Keep all product edges inside each full-view cell, no props that resemble extra products. Website-ready, photorealistic, no beautification changes. Subject is SIX distinct white display cards each holding one pair of hair clips and one pair of floral-rim translucent gradient toy sunglasses. Preserve all six cards and their pair layouts: blue floral bows with blue/pink glasses; orange flowers with pale green centres and brown/clear glasses; yellow gingham bows with orange/yellow glasses; pink textured flowers with blue centres and pink/clear glasses; lavender gingham bows with purple/pink glasses; green gingham heart clips with blue/pink glasses. The source includes all six cards in one bundle. Full views must show exactly SIX cards, twelve clips, six pairs of sunglasses. Detail a real blue bow fabric/flowered rim closeup. Heading: Hair Accessory Sets.",
+      "sha256": "8d1127641ea58a33bf9baa9821cea4a74751413c99cd14cc7d74b700a93706b3",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3efdf368-d2c1-44bc-87a0-2b9d3a3506b6.png",
+      "grid_sha256": "a0ea1c0223a9ad2d4376574079c767e5891ce3f7d65bc33699b9612e4eb50b19",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Rejected: green gingham hearts replaced by bow silhouette"
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "01_White-Background": 1,
+    "02_Styled-Background": 1,
+    "03_Lifestyle": 1,
+    "05_Promotional": 1
+  },
+  "review_issue": "Initial full views changed original green gingham heart clips into bows; one corrective needed."
+}

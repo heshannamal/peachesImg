@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260930-WA0059.jpg": "734e062c3db540c17f42a91b8111a7313a0ed2c5543cbfaa3debc7ba278602c7"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-7b4ecdd1-1252-412f-87fd-20074147f2f6.png",
+      "source_output": "/workspace/generated_images/exec-7b4ecdd1-1252-412f-87fd-20074147f2f6.png",
+      "sha256": "73a7111aec10a9cde4b6131699eb5a796c5d7c3af85d503204202167b0039944",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows512squarecells boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full product white; top-middle full product lavender/cream styled; top-right full product realistic relevant lifestyle; bottom-left standalone tight real-part macro not whole product; bottom-middle full product promotional with accurate heading specified; bottom-right blank cream. Preserve photographed product count,identity,shapes,colours,labels/printeddesigns. Remove shop,hand,oldpriceoverlay. Full views wholly inside own cell with margin. Photoreal website-ready. ACTUAL product is ONE rectangular sealed hair-dye retail BOX with printed woman portrait and vivid long deep bright-red hair; original red/brown/gold packaging with shade045 Bright Red and stylized brand lettering must remain as printed in reference. This is NOT henna cones despite folder name. Preserve box exactly, no replacement hair-dye brand/model, no loose tubes or added duplicate boxes. Full views show ONEbox only; lifestyle beside simple hairbrush on vanity, no additional products. Detail tight real crop of actual BrightRed045 printed hair-colour packaging section. Promo heading Bright Red Hair Colour. Do not invent effectiveness/safety claims.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-7b4ecdd1-1252-412f-87fd-20074147f2f6.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows512squarecells boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full product white; top-middle full product lavender/cream styled; top-right full product realistic relevant lifestyle; bottom-left standalone tight real-part macro not whole product; bottom-middle full product promotional with accurate heading specified; bottom-right blank cream. Preserve photographed product count,identity,shapes,colours,labels/printeddesigns. Remove shop,hand,oldpriceoverlay. Full views wholly inside own cell with margin. Photoreal website-ready. ACTUAL product is ONE rectangular sealed hair-dye retail BOX with printed woman portrait and vivid long deep bright-red hair; original red/brown/gold packaging with shade045 Bright Red and stylized brand lettering must remain as printed in reference. This is NOT henna cones despite folder name. Preserve box exactly, no replacement hair-dye brand/model, no loose tubes or added duplicate boxes. Full views show ONEbox only; lifestyle beside simple hairbrush on vanity, no additional products. Detail tight real crop of actual BrightRed045 printed hair-colour packaging section. Promo heading Bright Red Hair Colour. Do not invent effectiveness/safety claims.",
+      "sha256": "5ccb40d80908396bb1d3542c61a3b323b59a0f61b6f2b48138cc52d1976143fe",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7b4ecdd1-1252-412f-87fd-20074147f2f6.png",
+      "grid_sha256": "73a7111aec10a9cde4b6131699eb5a796c5d7c3af85d503204202167b0039944",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crop checked vs source:ONEhairdyebox,red/brown/goldpackaging,redhairedportrait,045BrightRedshade and stylizedbrand retained. Folderhenna name inaccurate; actualproduct identity preserved. Small packagingmicrotext imperfect butwebsite-ready. Tight real045label/hairprint detail. Accurate heading BrightRedHairColour, correct white/lavender/vanitylifestyle/promo styles and clean boundaries."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-7b4ecdd1-1252-412f-87fd-20074147f2f6.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows512squarecells boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full product white; top-middle full product lavender/cream styled; top-right full product realistic relevant lifestyle; bottom-left standalone tight real-part macro not whole product; bottom-middle full product promotional with accurate heading specified; bottom-right blank cream. Preserve photographed product count,identity,shapes,colours,labels/printeddesigns. Remove shop,hand,oldpriceoverlay. Full views wholly inside own cell with margin. Photoreal website-ready. ACTUAL product is ONE rectangular sealed hair-dye retail BOX with printed woman portrait and vivid long deep bright-red hair; original red/brown/gold packaging with shade045 Bright Red and stylized brand lettering must remain as printed in reference. This is NOT henna cones despite folder name. Preserve box exactly, no replacement hair-dye brand/model, no loose tubes or added duplicate boxes. Full views show ONEbox only; lifestyle beside simple hairbrush on vanity, no additional products. Detail tight real crop of actual BrightRed045 printed hair-colour packaging section. Promo heading Bright Red Hair Colour. Do not invent effectiveness/safety claims.",
+      "sha256": "035405bb8bfaf9be238db31a7f4ac20803398c2c8c56b1526e9d9d3d91782a53",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7b4ecdd1-1252-412f-87fd-20074147f2f6.png",
+      "grid_sha256": "73a7111aec10a9cde4b6131699eb5a796c5d7c3af85d503204202167b0039944",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crop checked vs source:ONEhairdyebox,red/brown/goldpackaging,redhairedportrait,045BrightRedshade and stylizedbrand retained. Folderhenna name inaccurate; actualproduct identity preserved. Small packagingmicrotext imperfect butwebsite-ready. Tight real045label/hairprint detail. Accurate heading BrightRedHairColour, correct white/lavender/vanitylifestyle/promo styles and clean boundaries."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-7b4ecdd1-1252-412f-87fd-20074147f2f6.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows512squarecells boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full product white; top-middle full product lavender/cream styled; top-right full product realistic relevant lifestyle; bottom-left standalone tight real-part macro not whole product; bottom-middle full product promotional with accurate heading specified; bottom-right blank cream. Preserve photographed product count,identity,shapes,colours,labels/printeddesigns. Remove shop,hand,oldpriceoverlay. Full views wholly inside own cell with margin. Photoreal website-ready. ACTUAL product is ONE rectangular sealed hair-dye retail BOX with printed woman portrait and vivid long deep bright-red hair; original red/brown/gold packaging with shade045 Bright Red and stylized brand lettering must remain as printed in reference. This is NOT henna cones despite folder name. Preserve box exactly, no replacement hair-dye brand/model, no loose tubes or added duplicate boxes. Full views show ONEbox only; lifestyle beside simple hairbrush on vanity, no additional products. Detail tight real crop of actual BrightRed045 printed hair-colour packaging section. Promo heading Bright Red Hair Colour. Do not invent effectiveness/safety claims.",
+      "sha256": "b23dc696c81c5e3a8b68e4b46a476c0ad9cf36cdf2e251b22c17e44affe4725f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7b4ecdd1-1252-412f-87fd-20074147f2f6.png",
+      "grid_sha256": "73a7111aec10a9cde4b6131699eb5a796c5d7c3af85d503204202167b0039944",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crop checked vs source:ONEhairdyebox,red/brown/goldpackaging,redhairedportrait,045BrightRedshade and stylizedbrand retained. Folderhenna name inaccurate; actualproduct identity preserved. Small packagingmicrotext imperfect butwebsite-ready. Tight real045label/hairprint detail. Accurate heading BrightRedHairColour, correct white/lavender/vanitylifestyle/promo styles and clean boundaries."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-7b4ecdd1-1252-412f-87fd-20074147f2f6.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows512squarecells boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full product white; top-middle full product lavender/cream styled; top-right full product realistic relevant lifestyle; bottom-left standalone tight real-part macro not whole product; bottom-middle full product promotional with accurate heading specified; bottom-right blank cream. Preserve photographed product count,identity,shapes,colours,labels/printeddesigns. Remove shop,hand,oldpriceoverlay. Full views wholly inside own cell with margin. Photoreal website-ready. ACTUAL product is ONE rectangular sealed hair-dye retail BOX with printed woman portrait and vivid long deep bright-red hair; original red/brown/gold packaging with shade045 Bright Red and stylized brand lettering must remain as printed in reference. This is NOT henna cones despite folder name. Preserve box exactly, no replacement hair-dye brand/model, no loose tubes or added duplicate boxes. Full views show ONEbox only; lifestyle beside simple hairbrush on vanity, no additional products. Detail tight real crop of actual BrightRed045 printed hair-colour packaging section. Promo heading Bright Red Hair Colour. Do not invent effectiveness/safety claims.",
+      "sha256": "acb58f373829d8e00bb05a700013135d428b0a42324fa2900f4dc6428ab556b9",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7b4ecdd1-1252-412f-87fd-20074147f2f6.png",
+      "grid_sha256": "73a7111aec10a9cde4b6131699eb5a796c5d7c3af85d503204202167b0039944",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crop checked vs source:ONEhairdyebox,red/brown/goldpackaging,redhairedportrait,045BrightRedshade and stylizedbrand retained. Folderhenna name inaccurate; actualproduct identity preserved. Small packagingmicrotext imperfect butwebsite-ready. Tight real045label/hairprint detail. Accurate heading BrightRedHairColour, correct white/lavender/vanitylifestyle/promo styles and clean boundaries."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-7b4ecdd1-1252-412f-87fd-20074147f2f6.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows512squarecells boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full product white; top-middle full product lavender/cream styled; top-right full product realistic relevant lifestyle; bottom-left standalone tight real-part macro not whole product; bottom-middle full product promotional with accurate heading specified; bottom-right blank cream. Preserve photographed product count,identity,shapes,colours,labels/printeddesigns. Remove shop,hand,oldpriceoverlay. Full views wholly inside own cell with margin. Photoreal website-ready. ACTUAL product is ONE rectangular sealed hair-dye retail BOX with printed woman portrait and vivid long deep bright-red hair; original red/brown/gold packaging with shade045 Bright Red and stylized brand lettering must remain as printed in reference. This is NOT henna cones despite folder name. Preserve box exactly, no replacement hair-dye brand/model, no loose tubes or added duplicate boxes. Full views show ONEbox only; lifestyle beside simple hairbrush on vanity, no additional products. Detail tight real crop of actual BrightRed045 printed hair-colour packaging section. Promo heading Bright Red Hair Colour. Do not invent effectiveness/safety claims.",
+      "sha256": "8f36495728e3b53f1dbbfd76c35ca7e76dd4cff563f8e0c721c0ae42a1175994",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7b4ecdd1-1252-412f-87fd-20074147f2f6.png",
+      "grid_sha256": "73a7111aec10a9cde4b6131699eb5a796c5d7c3af85d503204202167b0039944",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crop checked vs source:ONEhairdyebox,red/brown/goldpackaging,redhairedportrait,045BrightRedshade and stylizedbrand retained. Folderhenna name inaccurate; actualproduct identity preserved. Small packagingmicrotext imperfect butwebsite-ready. Tight real045label/hairprint detail. Accurate heading BrightRedHairColour, correct white/lavender/vanitylifestyle/promo styles and clean boundaries."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "ONE sealed Bright Red045 hair dye retail box with red-haired woman printed on brown/gold packaging; NOT henna cones",
+  "original_baseline_verified": true
+}

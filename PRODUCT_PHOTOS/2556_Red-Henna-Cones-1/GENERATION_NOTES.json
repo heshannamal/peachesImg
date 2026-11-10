@@ -1,0 +1,129 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260930-WA0060.jpg": "b6374999c1184e6184912555d0091ef5728f48ae5acc391fafa6a9e5301d9e47"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-f05dd3d5-dce2-4c34-ba22-00f7aba17c4a.png",
+      "source_output": "/workspace/generated_images/exec-f05dd3d5-dce2-4c34-ba22-00f7aba17c4a.png",
+      "sha256": "42d62eca51e01d9b446971eeef6e2daecc3816e05116db4f325356dfdf892547",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Golden Yellow Hair Dye\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actualproduct is ONE rectangular HANNA HAIR DYE box, shade0.33 GOLDEN YELLOW, net60mlx2. Not redhennacones despitefoldername. Match actualsource packaging: tallbronze/brown/goldcarton, frontphotoof adultwomanwithbrightGOLDENYELLOWwavyhair, large0.33 nearupperleft, Golden Yellow text, large stylised darkbrandletterswithgoldS atbottom, HANNA HAIR DYE inwhitebelow. Allfullviews1/2/3/5 show ONE SAME WHOLEBOX only, shade0.33not7.43. Backgroundshippingcartons/stock arenotpartofproduct; remove hand/priceoverlay/stock and preserveonlyfrontproductbox. No openedcontents/inventedtubes,no addedunsupportedclaims. Lifestyle onebox onhaircarevanity. Detail standalone tightcrop of actual0.33 Golden Yellow shadeprint andgoldenhairimage oncarton, notfullbox. PromotionalheadingGolden Yellow Hair Dye.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-f05dd3d5-dce2-4c34-ba22-00f7aba17c4a.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Golden Yellow Hair Dye\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actualproduct is ONE rectangular HANNA HAIR DYE box, shade0.33 GOLDEN YELLOW, net60mlx2. Not redhennacones despitefoldername. Match actualsource packaging: tallbronze/brown/goldcarton, frontphotoof adultwomanwithbrightGOLDENYELLOWwavyhair, large0.33 nearupperleft, Golden Yellow text, large stylised darkbrandletterswithgoldS atbottom, HANNA HAIR DYE inwhitebelow. Allfullviews1/2/3/5 show ONE SAME WHOLEBOX only, shade0.33not7.43. Backgroundshippingcartons/stock arenotpartofproduct; remove hand/priceoverlay/stock and preserveonlyfrontproductbox. No openedcontents/inventedtubes,no addedunsupportedclaims. Lifestyle onebox onhaircarevanity. Detail standalone tightcrop of actual0.33 Golden Yellow shadeprint andgoldenhairimage oncarton, notfullbox. PromotionalheadingGolden Yellow Hair Dye.",
+      "sha256": "d13b47053c2e23cdede2806bf7e4f3ac16db73590e2f3209f2e1b2b1eeb7d6a3",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f05dd3d5-dce2-4c34-ba22-00f7aba17c4a.png",
+      "grid_sha256": "42d62eca51e01d9b446971eeef6e2daecc3816e05116db4f325356dfdf892547",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared with original: One Hanna hair-dye box shade0.33 Golden Yellow. Correct frontbox portrait, shade code, haircolour, cartonform and onebox count; shippingstock excluded. White/styled/lifestyle/promotional view purposes pass, accurateheading; detail actual cartonshadeprint tightcrop. Tiny packagingtypography cosmeticimperfections accepted websitequality."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-f05dd3d5-dce2-4c34-ba22-00f7aba17c4a.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Golden Yellow Hair Dye\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actualproduct is ONE rectangular HANNA HAIR DYE box, shade0.33 GOLDEN YELLOW, net60mlx2. Not redhennacones despitefoldername. Match actualsource packaging: tallbronze/brown/goldcarton, frontphotoof adultwomanwithbrightGOLDENYELLOWwavyhair, large0.33 nearupperleft, Golden Yellow text, large stylised darkbrandletterswithgoldS atbottom, HANNA HAIR DYE inwhitebelow. Allfullviews1/2/3/5 show ONE SAME WHOLEBOX only, shade0.33not7.43. Backgroundshippingcartons/stock arenotpartofproduct; remove hand/priceoverlay/stock and preserveonlyfrontproductbox. No openedcontents/inventedtubes,no addedunsupportedclaims. Lifestyle onebox onhaircarevanity. Detail standalone tightcrop of actual0.33 Golden Yellow shadeprint andgoldenhairimage oncarton, notfullbox. PromotionalheadingGolden Yellow Hair Dye.",
+      "sha256": "7abc53e46a72acbb81f2a29945e6ad72ef4ccebbb3e9b548e490be09042c5b26",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f05dd3d5-dce2-4c34-ba22-00f7aba17c4a.png",
+      "grid_sha256": "42d62eca51e01d9b446971eeef6e2daecc3816e05116db4f325356dfdf892547",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared with original: One Hanna hair-dye box shade0.33 Golden Yellow. Correct frontbox portrait, shade code, haircolour, cartonform and onebox count; shippingstock excluded. White/styled/lifestyle/promotional view purposes pass, accurateheading; detail actual cartonshadeprint tightcrop. Tiny packagingtypography cosmeticimperfections accepted websitequality."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-f05dd3d5-dce2-4c34-ba22-00f7aba17c4a.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Golden Yellow Hair Dye\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actualproduct is ONE rectangular HANNA HAIR DYE box, shade0.33 GOLDEN YELLOW, net60mlx2. Not redhennacones despitefoldername. Match actualsource packaging: tallbronze/brown/goldcarton, frontphotoof adultwomanwithbrightGOLDENYELLOWwavyhair, large0.33 nearupperleft, Golden Yellow text, large stylised darkbrandletterswithgoldS atbottom, HANNA HAIR DYE inwhitebelow. Allfullviews1/2/3/5 show ONE SAME WHOLEBOX only, shade0.33not7.43. Backgroundshippingcartons/stock arenotpartofproduct; remove hand/priceoverlay/stock and preserveonlyfrontproductbox. No openedcontents/inventedtubes,no addedunsupportedclaims. Lifestyle onebox onhaircarevanity. Detail standalone tightcrop of actual0.33 Golden Yellow shadeprint andgoldenhairimage oncarton, notfullbox. PromotionalheadingGolden Yellow Hair Dye.",
+      "sha256": "64e9b0a1454a65a99edbb264a9a875878c178d6b69a02751b1dafca56622386e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f05dd3d5-dce2-4c34-ba22-00f7aba17c4a.png",
+      "grid_sha256": "42d62eca51e01d9b446971eeef6e2daecc3816e05116db4f325356dfdf892547",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared with original: One Hanna hair-dye box shade0.33 Golden Yellow. Correct frontbox portrait, shade code, haircolour, cartonform and onebox count; shippingstock excluded. White/styled/lifestyle/promotional view purposes pass, accurateheading; detail actual cartonshadeprint tightcrop. Tiny packagingtypography cosmeticimperfections accepted websitequality."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-f05dd3d5-dce2-4c34-ba22-00f7aba17c4a.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Golden Yellow Hair Dye\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actualproduct is ONE rectangular HANNA HAIR DYE box, shade0.33 GOLDEN YELLOW, net60mlx2. Not redhennacones despitefoldername. Match actualsource packaging: tallbronze/brown/goldcarton, frontphotoof adultwomanwithbrightGOLDENYELLOWwavyhair, large0.33 nearupperleft, Golden Yellow text, large stylised darkbrandletterswithgoldS atbottom, HANNA HAIR DYE inwhitebelow. Allfullviews1/2/3/5 show ONE SAME WHOLEBOX only, shade0.33not7.43. Backgroundshippingcartons/stock arenotpartofproduct; remove hand/priceoverlay/stock and preserveonlyfrontproductbox. No openedcontents/inventedtubes,no addedunsupportedclaims. Lifestyle onebox onhaircarevanity. Detail standalone tightcrop of actual0.33 Golden Yellow shadeprint andgoldenhairimage oncarton, notfullbox. PromotionalheadingGolden Yellow Hair Dye.",
+      "sha256": "7e1575dfe52d0440a106216f2269845c2e280d5a67e2d1866c4074f9fcb3cffb",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f05dd3d5-dce2-4c34-ba22-00f7aba17c4a.png",
+      "grid_sha256": "42d62eca51e01d9b446971eeef6e2daecc3816e05116db4f325356dfdf892547",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual grid/crops compared with original: One Hanna hair-dye box shade0.33 Golden Yellow. Correct frontbox portrait, shade code, haircolour, cartonform and onebox count; shippingstock excluded. White/styled/lifestyle/promotional view purposes pass, accurateheading; detail actual cartonshadeprint tightcrop. Tiny packagingtypography cosmeticimperfections accepted websitequality."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-f05dd3d5-dce2-4c34-ba22-00f7aba17c4a.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Golden Yellow Hair Dye\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actualproduct is ONE rectangular HANNA HAIR DYE box, shade0.33 GOLDEN YELLOW, net60mlx2. Not redhennacones despitefoldername. Match actualsource packaging: tallbronze/brown/goldcarton, frontphotoof adultwomanwithbrightGOLDENYELLOWwavyhair, large0.33 nearupperleft, Golden Yellow text, large stylised darkbrandletterswithgoldS atbottom, HANNA HAIR DYE inwhitebelow. Allfullviews1/2/3/5 show ONE SAME WHOLEBOX only, shade0.33not7.43. Backgroundshippingcartons/stock arenotpartofproduct; remove hand/priceoverlay/stock and preserveonlyfrontproductbox. No openedcontents/inventedtubes,no addedunsupportedclaims. Lifestyle onebox onhaircarevanity. Detail standalone tightcrop of actual0.33 Golden Yellow shadeprint andgoldenhairimage oncarton, notfullbox. PromotionalheadingGolden Yellow Hair Dye.",
+      "sha256": "4f48852148999592c5bdc35812fce7ffb96ff9f22c41ffd9b6da9f4286f67aa3",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f05dd3d5-dce2-4c34-ba22-00f7aba17c4a.png",
+      "grid_sha256": "42d62eca51e01d9b446971eeef6e2daecc3816e05116db4f325356dfdf892547",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual grid/crops compared with original: One Hanna hair-dye box shade0.33 Golden Yellow. Correct frontbox portrait, shade code, haircolour, cartonform and onebox count; shippingstock excluded. White/styled/lifestyle/promotional view purposes pass, accurateheading; detail actual cartonshadeprint tightcrop. Tiny packagingtypography cosmeticimperfections accepted websitequality."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "One Hanna hair-dye box shade0.33 Golden Yellow",
+  "folder_name_misidentifies_product": "Not henna cones; actual photographed hairdye box",
+  "originals_verified_against_frozen_plan": true
+}

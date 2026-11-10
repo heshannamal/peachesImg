@@ -146,7 +146,8 @@
         0,
         512,
         512
-      ]
+      ],
+      "visual_review": "Corrective spent; still only3facetedbeads perpin instead of4inoriginal. 12pin count/colours retained but material beadcount mismatch; unchecked, nofurtherretry."
     },
     {
       "saved_file": "New/02_Styled-Background.png",
@@ -166,7 +167,8 @@
         0,
         1024,
         512
-      ]
+      ],
+      "visual_review": "Corrective spent; still only3facetedbeads perpin instead of4inoriginal. 12pin count/colours retained but material beadcount mismatch; unchecked, nofurtherretry."
     },
     {
       "saved_file": "New/03_Lifestyle.png",
@@ -186,7 +188,8 @@
         0,
         1536,
         512
-      ]
+      ],
+      "visual_review": "Corrective spent; still only3facetedbeads perpin instead of4inoriginal. 12pin count/colours retained but material beadcount mismatch; unchecked, nofurtherretry."
     },
     {
       "saved_file": "New/05_Promotional.png",
@@ -206,10 +209,11 @@
         512,
         1024,
         1024
-      ]
+      ],
+      "visual_review": "Corrective spent; still only3facetedbeads perpin instead of4inoriginal. 12pin count/colours retained but material beadcount mismatch; unchecked, nofurtherretry."
     }
   ],
-  "status": "in_progress",
+  "status": "partial_review_needed_corrective_spent",
   "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
   "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
   "corrective_attempts": {
@@ -218,5 +222,12 @@
     "03_Lifestyle": 1,
     "05_Promotional": 1
   },
-  "correction_reason": "Fullviews show3facetedbeads perpin ratherthanoriginal4;promo wrongcell/missingassortment."
+  "correction_reason": "Fullviews show3facetedbeads perpin ratherthanoriginal4;promo wrongcell/missingassortment.",
+  "review_needed_views": [
+    "01_White-Background.png",
+    "02_Styled-Background.png",
+    "03_Lifestyle.png",
+    "05_Promotional.png"
+  ],
+  "originals_verified_unchanged": true
 }

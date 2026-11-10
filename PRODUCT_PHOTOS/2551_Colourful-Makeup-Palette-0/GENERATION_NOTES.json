@@ -12,9 +12,99 @@
       "sha256": "c7dee21b2a8b54fcd34527fafc307dbea6e129f3e1f362efec40960bd5bb103e",
       "checked": true,
       "visual_review": "Compared actual output against source: original pink display, separate closed book at left and open book below retained. Actual source left panel has four rectangular pans beside five round pans; output correctly retains this geometry despite prompt count wording. Twenty right round pans and sponge slot retained, same main cover girl art/colours/assortment layout. Minor packaging lettering differences accepted; price/catalog overlays removed."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-1cb3964b-0b51-41a9-bb7b-c2bae3ebbeb3.png",
+      "source_output": "/workspace/generated_images/exec-1cb3964b-0b51-41a9-bb7b-c2bae3ebbeb3.png",
+      "sha256": "6f02650a45c3c8f3e45b40cdeaf7438af623498b206d8c562d0beee9b56dafae",
+      "prompt": "Native faithful edit of supplied original into ONE1536x1024 clean website-ready borderless3columns2rows equal512squarecells. ENTIRE catalogue assortment is ONEproduct: preserve original two-column stacked book counterdisplay with exact visible books/overlaps/header/tray, ONE separate closed book and ONE fully-open book below, no addedunits. Remove ONLY floating catalogue background/price/specification overlays,retain original packaging print/brand/coverillustrations. Fullviews retain ENTIREassortment plus exactpan geometry/colours. Toprowwhite,lavendercreamstyled,naturalvanitylifestyle. Bottomrowtight realpart macro of2actualoriginaleyeshadowpans ONLY, promotionalentireassortment+heading,blankcreamunused. Exactboundaries512/1024/512 no gutters/borders. Existingwhitephotoalreadyvalidandwillbepreserved; createother4views faithfully. Subject PINK OAUMD makeupbookgirlcover assortment, separateclosedbookatLEFT ofdisplay. Openbookpinkcasing: LEFT tallmirror,FOURrectangular pans stackedbesideFIVEroundpans vertical;RIGHT20roundpans5rows4columns and one double-endedsponge inrightslot. Keep EXACT4rect+5leftcircle+20rightcircle=29pans,not5rect. Match actualneutralpink/coral/brown/gold,purplecolours. Heading 'OAUMD Pink Makeup Book'. Macro tightrealbronzeandpinkpans,notnewpans.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-1cb3964b-0b51-41a9-bb7b-c2bae3ebbeb3.png",
+      "prompt": "Native faithful edit of supplied original into ONE1536x1024 clean website-ready borderless3columns2rows equal512squarecells. ENTIRE catalogue assortment is ONEproduct: preserve original two-column stacked book counterdisplay with exact visible books/overlaps/header/tray, ONE separate closed book and ONE fully-open book below, no addedunits. Remove ONLY floating catalogue background/price/specification overlays,retain original packaging print/brand/coverillustrations. Fullviews retain ENTIREassortment plus exactpan geometry/colours. Toprowwhite,lavendercreamstyled,naturalvanitylifestyle. Bottomrowtight realpart macro of2actualoriginaleyeshadowpans ONLY, promotionalentireassortment+heading,blankcreamunused. Exactboundaries512/1024/512 no gutters/borders. Existingwhitephotoalreadyvalidandwillbepreserved; createother4views faithfully. Subject PINK OAUMD makeupbookgirlcover assortment, separateclosedbookatLEFT ofdisplay. Openbookpinkcasing: LEFT tallmirror,FOURrectangular pans stackedbesideFIVEroundpans vertical;RIGHT20roundpans5rows4columns and one double-endedsponge inrightslot. Keep EXACT4rect+5leftcircle+20rightcircle=29pans,not5rect. Match actualneutralpink/coral/brown/gold,purplecolours. Heading 'OAUMD Pink Makeup Book'. Macro tightrealbronzeandpinkpans,notnewpans.\n",
+      "sha256": "7a0c1ea81da519b29f210480f9e38ac50f6572b95d21b9fad8b846398180959f",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1cb3964b-0b51-41a9-bb7b-c2bae3ebbeb3.png",
+      "grid_sha256": "6f02650a45c3c8f3e45b40cdeaf7438af623498b206d8c562d0beee9b56dafae",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-1cb3964b-0b51-41a9-bb7b-c2bae3ebbeb3.png",
+      "prompt": "Native faithful edit of supplied original into ONE1536x1024 clean website-ready borderless3columns2rows equal512squarecells. ENTIRE catalogue assortment is ONEproduct: preserve original two-column stacked book counterdisplay with exact visible books/overlaps/header/tray, ONE separate closed book and ONE fully-open book below, no addedunits. Remove ONLY floating catalogue background/price/specification overlays,retain original packaging print/brand/coverillustrations. Fullviews retain ENTIREassortment plus exactpan geometry/colours. Toprowwhite,lavendercreamstyled,naturalvanitylifestyle. Bottomrowtight realpart macro of2actualoriginaleyeshadowpans ONLY, promotionalentireassortment+heading,blankcreamunused. Exactboundaries512/1024/512 no gutters/borders. Existingwhitephotoalreadyvalidandwillbepreserved; createother4views faithfully. Subject PINK OAUMD makeupbookgirlcover assortment, separateclosedbookatLEFT ofdisplay. Openbookpinkcasing: LEFT tallmirror,FOURrectangular pans stackedbesideFIVEroundpans vertical;RIGHT20roundpans5rows4columns and one double-endedsponge inrightslot. Keep EXACT4rect+5leftcircle+20rightcircle=29pans,not5rect. Match actualneutralpink/coral/brown/gold,purplecolours. Heading 'OAUMD Pink Makeup Book'. Macro tightrealbronzeandpinkpans,notnewpans.\n",
+      "sha256": "9fde188f00f7d0a76a885a1fc37a871a58921ba46b1c2de821c3012d764f0725",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1cb3964b-0b51-41a9-bb7b-c2bae3ebbeb3.png",
+      "grid_sha256": "6f02650a45c3c8f3e45b40cdeaf7438af623498b206d8c562d0beee9b56dafae",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-1cb3964b-0b51-41a9-bb7b-c2bae3ebbeb3.png",
+      "prompt": "Native faithful edit of supplied original into ONE1536x1024 clean website-ready borderless3columns2rows equal512squarecells. ENTIRE catalogue assortment is ONEproduct: preserve original two-column stacked book counterdisplay with exact visible books/overlaps/header/tray, ONE separate closed book and ONE fully-open book below, no addedunits. Remove ONLY floating catalogue background/price/specification overlays,retain original packaging print/brand/coverillustrations. Fullviews retain ENTIREassortment plus exactpan geometry/colours. Toprowwhite,lavendercreamstyled,naturalvanitylifestyle. Bottomrowtight realpart macro of2actualoriginaleyeshadowpans ONLY, promotionalentireassortment+heading,blankcreamunused. Exactboundaries512/1024/512 no gutters/borders. Existingwhitephotoalreadyvalidandwillbepreserved; createother4views faithfully. Subject PINK OAUMD makeupbookgirlcover assortment, separateclosedbookatLEFT ofdisplay. Openbookpinkcasing: LEFT tallmirror,FOURrectangular pans stackedbesideFIVEroundpans vertical;RIGHT20roundpans5rows4columns and one double-endedsponge inrightslot. Keep EXACT4rect+5leftcircle+20rightcircle=29pans,not5rect. Match actualneutralpink/coral/brown/gold,purplecolours. Heading 'OAUMD Pink Makeup Book'. Macro tightrealbronzeandpinkpans,notnewpans.\n",
+      "sha256": "9a7dcba1abc4e726c7df835e9f6f3addfaf123d56714583c78e2538b5d8a91eb",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1cb3964b-0b51-41a9-bb7b-c2bae3ebbeb3.png",
+      "grid_sha256": "6f02650a45c3c8f3e45b40cdeaf7438af623498b206d8c562d0beee9b56dafae",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-1cb3964b-0b51-41a9-bb7b-c2bae3ebbeb3.png",
+      "prompt": "Native faithful edit of supplied original into ONE1536x1024 clean website-ready borderless3columns2rows equal512squarecells. ENTIRE catalogue assortment is ONEproduct: preserve original two-column stacked book counterdisplay with exact visible books/overlaps/header/tray, ONE separate closed book and ONE fully-open book below, no addedunits. Remove ONLY floating catalogue background/price/specification overlays,retain original packaging print/brand/coverillustrations. Fullviews retain ENTIREassortment plus exactpan geometry/colours. Toprowwhite,lavendercreamstyled,naturalvanitylifestyle. Bottomrowtight realpart macro of2actualoriginaleyeshadowpans ONLY, promotionalentireassortment+heading,blankcreamunused. Exactboundaries512/1024/512 no gutters/borders. Existingwhitephotoalreadyvalidandwillbepreserved; createother4views faithfully. Subject PINK OAUMD makeupbookgirlcover assortment, separateclosedbookatLEFT ofdisplay. Openbookpinkcasing: LEFT tallmirror,FOURrectangular pans stackedbesideFIVEroundpans vertical;RIGHT20roundpans5rows4columns and one double-endedsponge inrightslot. Keep EXACT4rect+5leftcircle+20rightcircle=29pans,not5rect. Match actualneutralpink/coral/brown/gold,purplecolours. Heading 'OAUMD Pink Makeup Book'. Macro tightrealbronzeandpinkpans,notnewpans.\n",
+      "sha256": "1d97028310fa6753911eb430e88fa91f11f6320a80bff149d7900e8c24403639",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1cb3964b-0b51-41a9-bb7b-c2bae3ebbeb3.png",
+      "grid_sha256": "6f02650a45c3c8f3e45b40cdeaf7438af623498b206d8c562d0beee9b56dafae",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
     }
   ],
-  "status": "partial_one_white_background_saved_and_checked",
-  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
-  "original_hashes_verified": true
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "original_hashes_verified": true,
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
 }

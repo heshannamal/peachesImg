@@ -31104,7 +31104,7 @@
     "source_image_ids": [
       2852
     ],
-    "new_images": 1,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -31117,7 +31117,7 @@
     "source_image_ids": [
       2853
     ],
-    "new_images": 1,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -31158,45 +31158,51 @@
     ],
     "new_images": 0,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "blocked_moderation",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2555",
-    "folder": "2555_Dark-Henna-Cones-0",
+    "folder": "2555_Dark-Henna-Cones-1",
     "source_image_ids": [
       2857
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2518-2618",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2556",
-    "folder": "2556_Red-Henna-Cones-0",
+    "folder": "2556_Red-Henna-Cones-1",
     "source_image_ids": [
       2858
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2518-2618",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2557",
-    "folder": "2557_Brown-Henna-Cones-0",
+    "folder": "2557_Brown-Henna-Cones-1",
     "source_image_ids": [
       2859
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2518-2618",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2558",
@@ -31228,15 +31234,17 @@
   },
   {
     "product_id": "2560",
-    "folder": "2560_Red-Cosmetic-Tubes-0",
+    "folder": "2560_Red-Cosmetic-Tubes-1",
     "source_image_ids": [
       2862
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2518-2618",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2561",
@@ -31254,15 +31262,17 @@
   },
   {
     "product_id": "2562",
-    "folder": "2562_Pastel-Saree-Pins-0",
+    "folder": "2562_Pastel-Saree-Pins-1",
     "source_image_ids": [
       2864
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2518-2618",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2563",

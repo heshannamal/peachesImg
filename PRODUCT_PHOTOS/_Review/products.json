@@ -31200,27 +31200,31 @@
   },
   {
     "product_id": "2558",
-    "folder": "2558_Black-Henna-Cones-0",
+    "folder": "2558_Black-Henna-Cones-1",
     "source_image_ids": [
       2860
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2518-2618",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2559",
-    "folder": "2559_Black-Cosmetic-Tubes-0",
+    "folder": "2559_Black-Cosmetic-Tubes-1",
     "source_image_ids": [
       2861
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2518-2618",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2560",
@@ -31228,23 +31232,25 @@
     "source_image_ids": [
       2862
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2561",
-    "folder": "2561_Colourful-Saree-Pins-0",
+    "folder": "2561_Colourful-Saree-Pins-1",
     "source_image_ids": [
       2863
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2518-2618",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2562",
@@ -31304,7 +31310,7 @@
     "source_image_ids": [
       2868
     ],
-    "new_images": 1,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",

@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260930-WA0077.jpg": "f99fad8e2b4d81da828f46387f7d20dfb91941aabdc54bb875b04b3e6aa721d4"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-336f1811-3ac8-40e3-9195-96f39873231a.png",
+      "source_output": "/workspace/generated_images/exec-336f1811-3ac8-40e3-9195-96f39873231a.png",
+      "sha256": "bfa7e43db0ce69724bfbdf387393f2b960576510599092332157cf96134e5b7d",
+      "prompt": "Edit attached actualoriginal into ONE1536x1024 website contact sheet,3equalcolumns2equalrows square512cells no gutters. Toprow purewhitefullassortment/lavendercreamstyledfullassortment/vanitylifestylefullassortment. Bottomrow standalone tightrealpartmacro/fullassortmentpromotional accurateheading/blankcream. Preserve exact original productidentity/count/shapes/colours. Removehand,outerbag/cartonstockbackground/wholesalepriceoverlay. No crossingboundaries or unrelatedproducts. ActualproductONEwhitecardholding12goldtonesaree/abayapins, eachFOURroundcats-eye glossybeads with3rhinestoneseparatorrings. Preserve12horizontalpinrows exactlyoriginalcolourorder: red,palelime,turquoise,grey,magenta,blue,red,palelime,turquoise,grey,magenta,blue. All4fullviews show12distinctpins48roundbeadstotal, noheartshapes. Preservegoldwireclosure/loopshape. Macro tightlyrealpartturquoisecatseyeroundbeadanddiamanteseparator. Promotionalheading \"Colourful Saree & Abaya Pins\". Originalprintedmodelheader maystay, noinventedextra pins.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-336f1811-3ac8-40e3-9195-96f39873231a.png",
+      "prompt": "Edit attached actualoriginal into ONE1536x1024 website contact sheet,3equalcolumns2equalrows square512cells no gutters. Toprow purewhitefullassortment/lavendercreamstyledfullassortment/vanitylifestylefullassortment. Bottomrow standalone tightrealpartmacro/fullassortmentpromotional accurateheading/blankcream. Preserve exact original productidentity/count/shapes/colours. Removehand,outerbag/cartonstockbackground/wholesalepriceoverlay. No crossingboundaries or unrelatedproducts. ActualproductONEwhitecardholding12goldtonesaree/abayapins, eachFOURroundcats-eye glossybeads with3rhinestoneseparatorrings. Preserve12horizontalpinrows exactlyoriginalcolourorder: red,palelime,turquoise,grey,magenta,blue,red,palelime,turquoise,grey,magenta,blue. All4fullviews show12distinctpins48roundbeadstotal, noheartshapes. Preservegoldwireclosure/loopshape. Macro tightlyrealpartturquoisecatseyeroundbeadanddiamanteseparator. Promotionalheading \"Colourful Saree & Abaya Pins\". Originalprintedmodelheader maystay, noinventedextra pins.",
+      "sha256": "663de8acf9ab1b12f71fc929210ac2d08b973961d68001a00fc6622bcc76736e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-336f1811-3ac8-40e3-9195-96f39873231a.png",
+      "grid_sha256": "bfa7e43db0ce69724bfbdf387393f2b960576510599092332157cf96134e5b7d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual five crops inspected:12horizontalgoldtonepins, FOURroundcatseyebeads each48total, originalrowcolourorder red/lime/turquoise/grey/magenta/blue repeatedtwice. Originalclosureloops/rhinestoneseparators retained. White/lavenderstyled/vanitylifestyle/promo countidentitypassed; actualturquoisebead/rhinestoneseparator macro tightrealpart; headingaccurate."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-336f1811-3ac8-40e3-9195-96f39873231a.png",
+      "prompt": "Edit attached actualoriginal into ONE1536x1024 website contact sheet,3equalcolumns2equalrows square512cells no gutters. Toprow purewhitefullassortment/lavendercreamstyledfullassortment/vanitylifestylefullassortment. Bottomrow standalone tightrealpartmacro/fullassortmentpromotional accurateheading/blankcream. Preserve exact original productidentity/count/shapes/colours. Removehand,outerbag/cartonstockbackground/wholesalepriceoverlay. No crossingboundaries or unrelatedproducts. ActualproductONEwhitecardholding12goldtonesaree/abayapins, eachFOURroundcats-eye glossybeads with3rhinestoneseparatorrings. Preserve12horizontalpinrows exactlyoriginalcolourorder: red,palelime,turquoise,grey,magenta,blue,red,palelime,turquoise,grey,magenta,blue. All4fullviews show12distinctpins48roundbeadstotal, noheartshapes. Preservegoldwireclosure/loopshape. Macro tightlyrealpartturquoisecatseyeroundbeadanddiamanteseparator. Promotionalheading \"Colourful Saree & Abaya Pins\". Originalprintedmodelheader maystay, noinventedextra pins.",
+      "sha256": "5c15f52c28893c2e9fc338706b3c1302c8fb8ca734c4f896d56d0a031b81b82e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-336f1811-3ac8-40e3-9195-96f39873231a.png",
+      "grid_sha256": "bfa7e43db0ce69724bfbdf387393f2b960576510599092332157cf96134e5b7d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual five crops inspected:12horizontalgoldtonepins, FOURroundcatseyebeads each48total, originalrowcolourorder red/lime/turquoise/grey/magenta/blue repeatedtwice. Originalclosureloops/rhinestoneseparators retained. White/lavenderstyled/vanitylifestyle/promo countidentitypassed; actualturquoisebead/rhinestoneseparator macro tightrealpart; headingaccurate."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-336f1811-3ac8-40e3-9195-96f39873231a.png",
+      "prompt": "Edit attached actualoriginal into ONE1536x1024 website contact sheet,3equalcolumns2equalrows square512cells no gutters. Toprow purewhitefullassortment/lavendercreamstyledfullassortment/vanitylifestylefullassortment. Bottomrow standalone tightrealpartmacro/fullassortmentpromotional accurateheading/blankcream. Preserve exact original productidentity/count/shapes/colours. Removehand,outerbag/cartonstockbackground/wholesalepriceoverlay. No crossingboundaries or unrelatedproducts. ActualproductONEwhitecardholding12goldtonesaree/abayapins, eachFOURroundcats-eye glossybeads with3rhinestoneseparatorrings. Preserve12horizontalpinrows exactlyoriginalcolourorder: red,palelime,turquoise,grey,magenta,blue,red,palelime,turquoise,grey,magenta,blue. All4fullviews show12distinctpins48roundbeadstotal, noheartshapes. Preservegoldwireclosure/loopshape. Macro tightlyrealpartturquoisecatseyeroundbeadanddiamanteseparator. Promotionalheading \"Colourful Saree & Abaya Pins\". Originalprintedmodelheader maystay, noinventedextra pins.",
+      "sha256": "661fad000dd3e7b54c155a41c7b6b5fc72728355ea872af71ae3c618c8e9c2a1",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-336f1811-3ac8-40e3-9195-96f39873231a.png",
+      "grid_sha256": "bfa7e43db0ce69724bfbdf387393f2b960576510599092332157cf96134e5b7d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual five crops inspected:12horizontalgoldtonepins, FOURroundcatseyebeads each48total, originalrowcolourorder red/lime/turquoise/grey/magenta/blue repeatedtwice. Originalclosureloops/rhinestoneseparators retained. White/lavenderstyled/vanitylifestyle/promo countidentitypassed; actualturquoisebead/rhinestoneseparator macro tightrealpart; headingaccurate."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-336f1811-3ac8-40e3-9195-96f39873231a.png",
+      "prompt": "Edit attached actualoriginal into ONE1536x1024 website contact sheet,3equalcolumns2equalrows square512cells no gutters. Toprow purewhitefullassortment/lavendercreamstyledfullassortment/vanitylifestylefullassortment. Bottomrow standalone tightrealpartmacro/fullassortmentpromotional accurateheading/blankcream. Preserve exact original productidentity/count/shapes/colours. Removehand,outerbag/cartonstockbackground/wholesalepriceoverlay. No crossingboundaries or unrelatedproducts. ActualproductONEwhitecardholding12goldtonesaree/abayapins, eachFOURroundcats-eye glossybeads with3rhinestoneseparatorrings. Preserve12horizontalpinrows exactlyoriginalcolourorder: red,palelime,turquoise,grey,magenta,blue,red,palelime,turquoise,grey,magenta,blue. All4fullviews show12distinctpins48roundbeadstotal, noheartshapes. Preservegoldwireclosure/loopshape. Macro tightlyrealpartturquoisecatseyeroundbeadanddiamanteseparator. Promotionalheading \"Colourful Saree & Abaya Pins\". Originalprintedmodelheader maystay, noinventedextra pins.",
+      "sha256": "36d5a67786944426a047c5c56e344b38b0de4e2a7d6305cba47c585eed108816",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-336f1811-3ac8-40e3-9195-96f39873231a.png",
+      "grid_sha256": "bfa7e43db0ce69724bfbdf387393f2b960576510599092332157cf96134e5b7d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual five crops inspected:12horizontalgoldtonepins, FOURroundcatseyebeads each48total, originalrowcolourorder red/lime/turquoise/grey/magenta/blue repeatedtwice. Originalclosureloops/rhinestoneseparators retained. White/lavenderstyled/vanitylifestyle/promo countidentitypassed; actualturquoisebead/rhinestoneseparator macro tightrealpart; headingaccurate."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-336f1811-3ac8-40e3-9195-96f39873231a.png",
+      "prompt": "Edit attached actualoriginal into ONE1536x1024 website contact sheet,3equalcolumns2equalrows square512cells no gutters. Toprow purewhitefullassortment/lavendercreamstyledfullassortment/vanitylifestylefullassortment. Bottomrow standalone tightrealpartmacro/fullassortmentpromotional accurateheading/blankcream. Preserve exact original productidentity/count/shapes/colours. Removehand,outerbag/cartonstockbackground/wholesalepriceoverlay. No crossingboundaries or unrelatedproducts. ActualproductONEwhitecardholding12goldtonesaree/abayapins, eachFOURroundcats-eye glossybeads with3rhinestoneseparatorrings. Preserve12horizontalpinrows exactlyoriginalcolourorder: red,palelime,turquoise,grey,magenta,blue,red,palelime,turquoise,grey,magenta,blue. All4fullviews show12distinctpins48roundbeadstotal, noheartshapes. Preservegoldwireclosure/loopshape. Macro tightlyrealpartturquoisecatseyeroundbeadanddiamanteseparator. Promotionalheading \"Colourful Saree & Abaya Pins\". Originalprintedmodelheader maystay, noinventedextra pins.",
+      "sha256": "71600e3a212b969a05abb133ece2a467728d29ecefe235d96abdbfecc2264757",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-336f1811-3ac8-40e3-9195-96f39873231a.png",
+      "grid_sha256": "bfa7e43db0ce69724bfbdf387393f2b960576510599092332157cf96134e5b7d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual five crops inspected:12horizontalgoldtonepins, FOURroundcatseyebeads each48total, originalrowcolourorder red/lime/turquoise/grey/magenta/blue repeatedtwice. Originalclosureloops/rhinestoneseparators retained. White/lavenderstyled/vanitylifestyle/promo countidentitypassed; actualturquoisebead/rhinestoneseparator macro tightrealpart; headingaccurate."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

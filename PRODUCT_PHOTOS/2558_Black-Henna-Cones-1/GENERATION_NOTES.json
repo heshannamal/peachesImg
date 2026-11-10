@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260930-WA0062.jpg": "77a22b87ac45e567c0e49a8616c9792ecd459e6aa1eed360ce066f01f4083ed1"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-24074262-8059-408c-a2e3-eb4e3bd1e259.png",
+      "source_output": "/workspace/generated_images/exec-24074262-8059-408c-a2e3-eb4e3bd1e259.png",
+      "sha256": "1af9169d7c02531e89b9e229f94d454f9143b0d7c3854f491a83211e58406afe",
+      "prompt": "Native photographic edit actualreference intoONE1536x1024contactsheet strict3columns2rows equal512squarecells no gutters. Product is foregroundheldretailproduct only, backgroundwarehousecartons arestocknotextraassortmentitems. Preserveexactforegroundcount,identity,shapes,coloursandpackagingprint. Removehand,warehouse,priceoverlayandouterplasticglare. Cell1top-left fullproductwhitebackground;cell2top-middle fullproductlavender/creamstyled;cell3top-right fullproductlifestylevanity;cell4bottom-left standalone tightmacroactualpackaging/productdetail;cell5bottom-middle fullproductpromotional accurateheading;cell6bottom-rightblankcream. No stocksubstitutes,no inventedclaims/benefits.Actualproduct ONE rectangularKAIWS HANNAHAIRDYE retailbox shade6.0 DarkBrown, brown/orangeblackpackaging withphotoofwomanlongbrownhair. Preserveexactboxfrontidentitycolours,6.0DarkBrownlabel,brandvisual,existinglabelprint. No hennacones despitewrongfoldername. Oneboxonlyeachfullview. Detailmacroactual6.0DarkBrowntext/hairimageonboxfront. Heading 'Dark Brown Hair Dye'.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-24074262-8059-408c-a2e3-eb4e3bd1e259.png",
+      "prompt": "Native photographic edit actualreference intoONE1536x1024contactsheet strict3columns2rows equal512squarecells no gutters. Product is foregroundheldretailproduct only, backgroundwarehousecartons arestocknotextraassortmentitems. Preserveexactforegroundcount,identity,shapes,coloursandpackagingprint. Removehand,warehouse,priceoverlayandouterplasticglare. Cell1top-left fullproductwhitebackground;cell2top-middle fullproductlavender/creamstyled;cell3top-right fullproductlifestylevanity;cell4bottom-left standalone tightmacroactualpackaging/productdetail;cell5bottom-middle fullproductpromotional accurateheading;cell6bottom-rightblankcream. No stocksubstitutes,no inventedclaims/benefits.Actualproduct ONE rectangularKAIWS HANNAHAIRDYE retailbox shade6.0 DarkBrown, brown/orangeblackpackaging withphotoofwomanlongbrownhair. Preserveexactboxfrontidentitycolours,6.0DarkBrownlabel,brandvisual,existinglabelprint. No hennacones despitewrongfoldername. Oneboxonlyeachfullview. Detailmacroactual6.0DarkBrowntext/hairimageonboxfront. Heading 'Dark Brown Hair Dye'.",
+      "sha256": "c772c7ec4f3070eba15aaddc98391b21edb664d26a3e93aaefa88c5c4515914f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-24074262-8059-408c-a2e3-eb4e3bd1e259.png",
+      "grid_sha256": "1af9169d7c02531e89b9e229f94d454f9143b0d7c3854f491a83211e58406afe",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crops reviewed: ONEKAIWS6.0DarkBrownhairdye boxpreserved, orangebrownpackagingbrand/photo/shadelabelidentitymatchsource. FolderBlackHennaConesiswrong. Tightrealpackagingdetailcrop; accurateDarkBrownHairDyeheading."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-24074262-8059-408c-a2e3-eb4e3bd1e259.png",
+      "prompt": "Native photographic edit actualreference intoONE1536x1024contactsheet strict3columns2rows equal512squarecells no gutters. Product is foregroundheldretailproduct only, backgroundwarehousecartons arestocknotextraassortmentitems. Preserveexactforegroundcount,identity,shapes,coloursandpackagingprint. Removehand,warehouse,priceoverlayandouterplasticglare. Cell1top-left fullproductwhitebackground;cell2top-middle fullproductlavender/creamstyled;cell3top-right fullproductlifestylevanity;cell4bottom-left standalone tightmacroactualpackaging/productdetail;cell5bottom-middle fullproductpromotional accurateheading;cell6bottom-rightblankcream. No stocksubstitutes,no inventedclaims/benefits.Actualproduct ONE rectangularKAIWS HANNAHAIRDYE retailbox shade6.0 DarkBrown, brown/orangeblackpackaging withphotoofwomanlongbrownhair. Preserveexactboxfrontidentitycolours,6.0DarkBrownlabel,brandvisual,existinglabelprint. No hennacones despitewrongfoldername. Oneboxonlyeachfullview. Detailmacroactual6.0DarkBrowntext/hairimageonboxfront. Heading 'Dark Brown Hair Dye'.",
+      "sha256": "94d513ba1df797f9f2ad261d5715df2373da568e4d63d91bd3c5a8a8c576c174",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-24074262-8059-408c-a2e3-eb4e3bd1e259.png",
+      "grid_sha256": "1af9169d7c02531e89b9e229f94d454f9143b0d7c3854f491a83211e58406afe",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crops reviewed: ONEKAIWS6.0DarkBrownhairdye boxpreserved, orangebrownpackagingbrand/photo/shadelabelidentitymatchsource. FolderBlackHennaConesiswrong. Tightrealpackagingdetailcrop; accurateDarkBrownHairDyeheading."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-24074262-8059-408c-a2e3-eb4e3bd1e259.png",
+      "prompt": "Native photographic edit actualreference intoONE1536x1024contactsheet strict3columns2rows equal512squarecells no gutters. Product is foregroundheldretailproduct only, backgroundwarehousecartons arestocknotextraassortmentitems. Preserveexactforegroundcount,identity,shapes,coloursandpackagingprint. Removehand,warehouse,priceoverlayandouterplasticglare. Cell1top-left fullproductwhitebackground;cell2top-middle fullproductlavender/creamstyled;cell3top-right fullproductlifestylevanity;cell4bottom-left standalone tightmacroactualpackaging/productdetail;cell5bottom-middle fullproductpromotional accurateheading;cell6bottom-rightblankcream. No stocksubstitutes,no inventedclaims/benefits.Actualproduct ONE rectangularKAIWS HANNAHAIRDYE retailbox shade6.0 DarkBrown, brown/orangeblackpackaging withphotoofwomanlongbrownhair. Preserveexactboxfrontidentitycolours,6.0DarkBrownlabel,brandvisual,existinglabelprint. No hennacones despitewrongfoldername. Oneboxonlyeachfullview. Detailmacroactual6.0DarkBrowntext/hairimageonboxfront. Heading 'Dark Brown Hair Dye'.",
+      "sha256": "2f8c98683da36aff055a4d49b4b4b4d9907c85e787622e347dde8bd28244d74a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-24074262-8059-408c-a2e3-eb4e3bd1e259.png",
+      "grid_sha256": "1af9169d7c02531e89b9e229f94d454f9143b0d7c3854f491a83211e58406afe",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crops reviewed: ONEKAIWS6.0DarkBrownhairdye boxpreserved, orangebrownpackagingbrand/photo/shadelabelidentitymatchsource. FolderBlackHennaConesiswrong. Tightrealpackagingdetailcrop; accurateDarkBrownHairDyeheading."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-24074262-8059-408c-a2e3-eb4e3bd1e259.png",
+      "prompt": "Native photographic edit actualreference intoONE1536x1024contactsheet strict3columns2rows equal512squarecells no gutters. Product is foregroundheldretailproduct only, backgroundwarehousecartons arestocknotextraassortmentitems. Preserveexactforegroundcount,identity,shapes,coloursandpackagingprint. Removehand,warehouse,priceoverlayandouterplasticglare. Cell1top-left fullproductwhitebackground;cell2top-middle fullproductlavender/creamstyled;cell3top-right fullproductlifestylevanity;cell4bottom-left standalone tightmacroactualpackaging/productdetail;cell5bottom-middle fullproductpromotional accurateheading;cell6bottom-rightblankcream. No stocksubstitutes,no inventedclaims/benefits.Actualproduct ONE rectangularKAIWS HANNAHAIRDYE retailbox shade6.0 DarkBrown, brown/orangeblackpackaging withphotoofwomanlongbrownhair. Preserveexactboxfrontidentitycolours,6.0DarkBrownlabel,brandvisual,existinglabelprint. No hennacones despitewrongfoldername. Oneboxonlyeachfullview. Detailmacroactual6.0DarkBrowntext/hairimageonboxfront. Heading 'Dark Brown Hair Dye'.",
+      "sha256": "9f2e7b8e616e32b1ea64580f5751e090f57533516516af203f099dc2d14d01e6",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-24074262-8059-408c-a2e3-eb4e3bd1e259.png",
+      "grid_sha256": "1af9169d7c02531e89b9e229f94d454f9143b0d7c3854f491a83211e58406afe",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crops reviewed: ONEKAIWS6.0DarkBrownhairdye boxpreserved, orangebrownpackagingbrand/photo/shadelabelidentitymatchsource. FolderBlackHennaConesiswrong. Tightrealpackagingdetailcrop; accurateDarkBrownHairDyeheading."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-24074262-8059-408c-a2e3-eb4e3bd1e259.png",
+      "prompt": "Native photographic edit actualreference intoONE1536x1024contactsheet strict3columns2rows equal512squarecells no gutters. Product is foregroundheldretailproduct only, backgroundwarehousecartons arestocknotextraassortmentitems. Preserveexactforegroundcount,identity,shapes,coloursandpackagingprint. Removehand,warehouse,priceoverlayandouterplasticglare. Cell1top-left fullproductwhitebackground;cell2top-middle fullproductlavender/creamstyled;cell3top-right fullproductlifestylevanity;cell4bottom-left standalone tightmacroactualpackaging/productdetail;cell5bottom-middle fullproductpromotional accurateheading;cell6bottom-rightblankcream. No stocksubstitutes,no inventedclaims/benefits.Actualproduct ONE rectangularKAIWS HANNAHAIRDYE retailbox shade6.0 DarkBrown, brown/orangeblackpackaging withphotoofwomanlongbrownhair. Preserveexactboxfrontidentitycolours,6.0DarkBrownlabel,brandvisual,existinglabelprint. No hennacones despitewrongfoldername. Oneboxonlyeachfullview. Detailmacroactual6.0DarkBrowntext/hairimageonboxfront. Heading 'Dark Brown Hair Dye'.",
+      "sha256": "40ecfc4ccc1f4bd1e53d28a1630c6d8d2921cc845fb02ac72c818eaf5c1ded7b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-24074262-8059-408c-a2e3-eb4e3bd1e259.png",
+      "grid_sha256": "1af9169d7c02531e89b9e229f94d454f9143b0d7c3854f491a83211e58406afe",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crops reviewed: ONEKAIWS6.0DarkBrownhairdye boxpreserved, orangebrownpackagingbrand/photo/shadelabelidentitymatchsource. FolderBlackHennaConesiswrong. Tightrealpackagingdetailcrop; accurateDarkBrownHairDyeheading."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baselines_verified": true
+}

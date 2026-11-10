@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261002-WA0011.jpg": "4969cd73f46b7819b95aa557be56c94f5d828484b7cebd97b7d08dd19c75bdf7",
+    "Originals/IMG-20261002-WA0017.jpg": "d9ed9fac50bde15338688117c64092e1899917fc5179b9439fbe461cf063b3bf"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-fdb56411-3861-4f6b-84e3-8b2a85b15239.png",
+      "source_output": "/workspace/generated_images/exec-fdb56411-3861-4f6b-84e3-8b2a85b15239.png",
+      "sha256": "37f3be61bfc6754d4a73f9e4846311ff4cb73e249d96868d2a1b1a936cf53c0a",
+      "prompt": "Native faithful edit of original photographs into ONE1536x1024 LANDSCAPE grid3equalcolumns x2equalrows, six512squarecells NOgutters/separators/panellabels. Each view selfcontained inside cell with margin. Readingorder:01topLEFT full original packaged assortment onpurewhite;02topMIDDLE SAMEfullassortment lavendercreamstudio;03topRIGHT SAMEfullassortment creamvanity/lavenderroom;04bottomLEFT standaloneTIGHTrealpartmacro specified,NOTfullassortment;05bottomMIDDLE SAMEfullassortment accurateheading specified;06bottomRIGHT blankcreamunused. Preserve actual source count, identity, colours, shapes, packaging and occlusions; never infer hidden units from priceoverlay. Remove hand/shopbackground/priceoverlay only. Wholeassortment ONEproduct; photographs show different sides/angles, not extra units to multiply. Use IMG-20261002-WA0011 as main exact composition of ONE original transparent package/stack containing fluffy bright pink,red,white,lavender and lightblue bunny-ear headbands with small blue/pink cartoon face decorations. Preserve visible layered bands and shapes exactly; secondphoto is reverse side showing flower/butterfly decorations, not separate additional stock. Product is soft fluffy plush NOT sequins despite foldername. Keep primaryphotograph visible count and overlap, no inventedhiddenunits.04macro only real fluffy pink band texture beside small original face decoration.05heading COLOURFUL PLUSH HEADBAND ASSORTMENT.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-fdb56411-3861-4f6b-84e3-8b2a85b15239.png",
+      "prompt": "Native faithful edit of original photographs into ONE1536x1024 LANDSCAPE grid3equalcolumns x2equalrows, six512squarecells NOgutters/separators/panellabels. Each view selfcontained inside cell with margin. Readingorder:01topLEFT full original packaged assortment onpurewhite;02topMIDDLE SAMEfullassortment lavendercreamstudio;03topRIGHT SAMEfullassortment creamvanity/lavenderroom;04bottomLEFT standaloneTIGHTrealpartmacro specified,NOTfullassortment;05bottomMIDDLE SAMEfullassortment accurateheading specified;06bottomRIGHT blankcreamunused. Preserve actual source count, identity, colours, shapes, packaging and occlusions; never infer hidden units from priceoverlay. Remove hand/shopbackground/priceoverlay only. Wholeassortment ONEproduct; photographs show different sides/angles, not extra units to multiply. Use IMG-20261002-WA0011 as main exact composition of ONE original transparent package/stack containing fluffy bright pink,red,white,lavender and lightblue bunny-ear headbands with small blue/pink cartoon face decorations. Preserve visible layered bands and shapes exactly; secondphoto is reverse side showing flower/butterfly decorations, not separate additional stock. Product is soft fluffy plush NOT sequins despite foldername. Keep primaryphotograph visible count and overlap, no inventedhiddenunits.04macro only real fluffy pink band texture beside small original face decoration.05heading COLOURFUL PLUSH HEADBAND ASSORTMENT.",
+      "sha256": "9c336f0d26f0e5a613078108792533daa023b091183296029df457cd910f6e40",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-fdb56411-3861-4f6b-84e3-8b2a85b15239.png",
+      "grid_sha256": "37f3be61bfc6754d4a73f9e4846311ff4cb73e249d96868d2a1b1a936cf53c0a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual originals, source grid and actual crop inspected. White-background full original layered packaged assortment retained, visible count/identity/plush shapes and colours match. Crop boundaries self-contained; website-ready, no material error."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-fdb56411-3861-4f6b-84e3-8b2a85b15239.png",
+      "prompt": "Native faithful edit of original photographs into ONE1536x1024 LANDSCAPE grid3equalcolumns x2equalrows, six512squarecells NOgutters/separators/panellabels. Each view selfcontained inside cell with margin. Readingorder:01topLEFT full original packaged assortment onpurewhite;02topMIDDLE SAMEfullassortment lavendercreamstudio;03topRIGHT SAMEfullassortment creamvanity/lavenderroom;04bottomLEFT standaloneTIGHTrealpartmacro specified,NOTfullassortment;05bottomMIDDLE SAMEfullassortment accurateheading specified;06bottomRIGHT blankcreamunused. Preserve actual source count, identity, colours, shapes, packaging and occlusions; never infer hidden units from priceoverlay. Remove hand/shopbackground/priceoverlay only. Wholeassortment ONEproduct; photographs show different sides/angles, not extra units to multiply. Use IMG-20261002-WA0011 as main exact composition of ONE original transparent package/stack containing fluffy bright pink,red,white,lavender and lightblue bunny-ear headbands with small blue/pink cartoon face decorations. Preserve visible layered bands and shapes exactly; secondphoto is reverse side showing flower/butterfly decorations, not separate additional stock. Product is soft fluffy plush NOT sequins despite foldername. Keep primaryphotograph visible count and overlap, no inventedhiddenunits.04macro only real fluffy pink band texture beside small original face decoration.05heading COLOURFUL PLUSH HEADBAND ASSORTMENT.",
+      "sha256": "adeb84e9e85fa10366f97a496cc1705387292046e3a74628f27e97a3b222a491",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-fdb56411-3861-4f6b-84e3-8b2a85b15239.png",
+      "grid_sha256": "37f3be61bfc6754d4a73f9e4846311ff4cb73e249d96868d2a1b1a936cf53c0a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual originals, source grid and actual crop inspected. Lavender/cream styled full packaged assortment retained with original count/overlaps/colours. Crop boundaries self-contained; website-ready, no material error."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-fdb56411-3861-4f6b-84e3-8b2a85b15239.png",
+      "prompt": "Native faithful edit of original photographs into ONE1536x1024 LANDSCAPE grid3equalcolumns x2equalrows, six512squarecells NOgutters/separators/panellabels. Each view selfcontained inside cell with margin. Readingorder:01topLEFT full original packaged assortment onpurewhite;02topMIDDLE SAMEfullassortment lavendercreamstudio;03topRIGHT SAMEfullassortment creamvanity/lavenderroom;04bottomLEFT standaloneTIGHTrealpartmacro specified,NOTfullassortment;05bottomMIDDLE SAMEfullassortment accurateheading specified;06bottomRIGHT blankcreamunused. Preserve actual source count, identity, colours, shapes, packaging and occlusions; never infer hidden units from priceoverlay. Remove hand/shopbackground/priceoverlay only. Wholeassortment ONEproduct; photographs show different sides/angles, not extra units to multiply. Use IMG-20261002-WA0011 as main exact composition of ONE original transparent package/stack containing fluffy bright pink,red,white,lavender and lightblue bunny-ear headbands with small blue/pink cartoon face decorations. Preserve visible layered bands and shapes exactly; secondphoto is reverse side showing flower/butterfly decorations, not separate additional stock. Product is soft fluffy plush NOT sequins despite foldername. Keep primaryphotograph visible count and overlap, no inventedhiddenunits.04macro only real fluffy pink band texture beside small original face decoration.05heading COLOURFUL PLUSH HEADBAND ASSORTMENT.",
+      "sha256": "e06101fcfb6000f74c65cf04f06bdb55e40d42309894bd9dd5443660d24c972c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-fdb56411-3861-4f6b-84e3-8b2a85b15239.png",
+      "grid_sha256": "37f3be61bfc6754d4a73f9e4846311ff4cb73e249d96868d2a1b1a936cf53c0a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual originals, source grid and actual crop inspected. Cream vanity/lavender lifestyle with original full packaged assortment; reverse-side decoration view for2639 matches its second original. Crop boundaries self-contained; website-ready, no material error."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-fdb56411-3861-4f6b-84e3-8b2a85b15239.png",
+      "prompt": "Native faithful edit of original photographs into ONE1536x1024 LANDSCAPE grid3equalcolumns x2equalrows, six512squarecells NOgutters/separators/panellabels. Each view selfcontained inside cell with margin. Readingorder:01topLEFT full original packaged assortment onpurewhite;02topMIDDLE SAMEfullassortment lavendercreamstudio;03topRIGHT SAMEfullassortment creamvanity/lavenderroom;04bottomLEFT standaloneTIGHTrealpartmacro specified,NOTfullassortment;05bottomMIDDLE SAMEfullassortment accurateheading specified;06bottomRIGHT blankcreamunused. Preserve actual source count, identity, colours, shapes, packaging and occlusions; never infer hidden units from priceoverlay. Remove hand/shopbackground/priceoverlay only. Wholeassortment ONEproduct; photographs show different sides/angles, not extra units to multiply. Use IMG-20261002-WA0011 as main exact composition of ONE original transparent package/stack containing fluffy bright pink,red,white,lavender and lightblue bunny-ear headbands with small blue/pink cartoon face decorations. Preserve visible layered bands and shapes exactly; secondphoto is reverse side showing flower/butterfly decorations, not separate additional stock. Product is soft fluffy plush NOT sequins despite foldername. Keep primaryphotograph visible count and overlap, no inventedhiddenunits.04macro only real fluffy pink band texture beside small original face decoration.05heading COLOURFUL PLUSH HEADBAND ASSORTMENT.",
+      "sha256": "bd8f2e2f0f8f6cd526aebddc09613ab9f6d5db625987d18da27b0d699260f119",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-fdb56411-3861-4f6b-84e3-8b2a85b15239.png",
+      "grid_sha256": "37f3be61bfc6754d4a73f9e4846311ff4cb73e249d96868d2a1b1a936cf53c0a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual originals, source grid and actual crop inspected. Standalone tight macro of real plush texture and attached original decoration, not full product. Crop boundaries self-contained; website-ready, no material error."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-fdb56411-3861-4f6b-84e3-8b2a85b15239.png",
+      "prompt": "Native faithful edit of original photographs into ONE1536x1024 LANDSCAPE grid3equalcolumns x2equalrows, six512squarecells NOgutters/separators/panellabels. Each view selfcontained inside cell with margin. Readingorder:01topLEFT full original packaged assortment onpurewhite;02topMIDDLE SAMEfullassortment lavendercreamstudio;03topRIGHT SAMEfullassortment creamvanity/lavenderroom;04bottomLEFT standaloneTIGHTrealpartmacro specified,NOTfullassortment;05bottomMIDDLE SAMEfullassortment accurateheading specified;06bottomRIGHT blankcreamunused. Preserve actual source count, identity, colours, shapes, packaging and occlusions; never infer hidden units from priceoverlay. Remove hand/shopbackground/priceoverlay only. Wholeassortment ONEproduct; photographs show different sides/angles, not extra units to multiply. Use IMG-20261002-WA0011 as main exact composition of ONE original transparent package/stack containing fluffy bright pink,red,white,lavender and lightblue bunny-ear headbands with small blue/pink cartoon face decorations. Preserve visible layered bands and shapes exactly; secondphoto is reverse side showing flower/butterfly decorations, not separate additional stock. Product is soft fluffy plush NOT sequins despite foldername. Keep primaryphotograph visible count and overlap, no inventedhiddenunits.04macro only real fluffy pink band texture beside small original face decoration.05heading COLOURFUL PLUSH HEADBAND ASSORTMENT.",
+      "sha256": "a2747ffccf4281b4fa5761c7bf7143406790586826ecbfe3a1a1e7955f522d2c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-fdb56411-3861-4f6b-84e3-8b2a85b15239.png",
+      "grid_sha256": "37f3be61bfc6754d4a73f9e4846311ff4cb73e249d96868d2a1b1a936cf53c0a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual originals, source grid and actual crop inspected. Full packaged assortment with accurate legible plush headband assortment heading; count/identity and colour retained. Crop boundaries self-contained; website-ready, no material error."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "plan_original_hashes_verified": true
+}

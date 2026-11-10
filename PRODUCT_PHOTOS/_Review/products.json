@@ -32110,9 +32110,9 @@
     "source_image_ids": [
       2941
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -32159,45 +32159,6 @@
     "source_image_ids": [
       2946
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
-    "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
-  },
-  {
-    "product_id": "2639",
-    "folder": "2639_Bright-Sequin-Headbands-0",
-    "source_image_ids": [
-      2947,
-      2949
-    ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
-    "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
-  },
-  {
-    "product_id": "2640",
-    "folder": "2640_Character-Plush-Headbands-0",
-    "source_image_ids": [
-      2950,
-      2951,
-      2953
-    ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
-    "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
-  },
-  {
-    "product_id": "2641",
-    "folder": "2641_Pastel-Character-Headbands-0",
-    "source_image_ids": [
-      2952
-    ],
     "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
@@ -32205,12 +32166,57 @@
     "required_new_images": 5
   },
   {
+    "product_id": "2639",
+    "folder": "2639_Bright-Sequin-Headbands-1",
+    "source_image_ids": [
+      2947,
+      2949
+    ],
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
+    "grouping_status": "initial-visual-grouping",
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
+  },
+  {
+    "product_id": "2640",
+    "folder": "2640_Character-Plush-Headbands-1",
+    "source_image_ids": [
+      2950,
+      2951,
+      2953
+    ],
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
+    "grouping_status": "initial-visual-grouping",
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
+  },
+  {
+    "product_id": "2641",
+    "folder": "2641_Pastel-Character-Headbands-1",
+    "source_image_ids": [
+      2952
+    ],
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
+    "grouping_status": "initial-visual-grouping",
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2619-2718",
+    "style_review": "visually-checked"
+  },
+  {
     "product_id": "2642",
     "folder": "2642_Gold-Tone-Chain-Bracelets-0",
     "source_image_ids": [
       2954
     ],
-    "new_images": 1,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",

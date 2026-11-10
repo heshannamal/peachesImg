@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-10T01:09:45.583211+00:00",
+  "updated_at": "2026-11-10T01:10:50.389352+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 68,
-  "partial_products": 2,
-  "pending_products": 22,
+  "completed_products": 71,
+  "partial_products": 3,
+  "pending_products": 18,
   "blocked_products": 8,
-  "saved_images": 346,
-  "checked_images": 340,
+  "saved_images": 370,
+  "checked_images": 356,
   "products": [
     {
       "product_id": "2718",
@@ -1457,29 +1457,91 @@
       "product_id": "2642",
       "folder": "2642_Gold-Tone-Chain-Bracelets-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 0,
+      "saved_images": 5,
+      "checked_images": 1,
       "files": [
-        "New/04_Detail.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
       ],
-      "missing_images": [
+      "missing_images": [],
+      "review_needed_images": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [
-        "New/04_Detail.png"
-      ],
-      "notes_status": "in_progress",
+      "notes_status": "partial_review_needed_corrective_spent",
       "errors": [
-        "unreviewed or unrecorded: 04_Detail.png"
+        "unreviewed or unrecorded: 01_White-Background.png",
+        "unreviewed or unrecorded: 02_Styled-Background.png",
+        "unreviewed or unrecorded: 03_Lifestyle.png",
+        "unreviewed or unrecorded: 05_Promotional.png"
       ],
       "originals_unchanged": true
     },
     {
       "product_id": "2641",
-      "folder": "2641_Pastel-Character-Headbands-0",
+      "folder": "2641_Pastel-Character-Headbands-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "complete",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "2640",
+      "folder": "2640_Character-Plush-Headbands-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five_images_saved_and_visually_checked",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "2639",
+      "folder": "2639_Bright-Sequin-Headbands-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five_images_saved_and_visually_checked",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "2638",
+      "folder": "2638_Pastel-Sequin-Headbands-0",
       "status": "partial",
       "saved_images": 5,
       "checked_images": 0,
@@ -1506,63 +1568,6 @@
         "unreviewed or unrecorded: 04_Detail.png",
         "unreviewed or unrecorded: 05_Promotional.png"
       ],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "2640",
-      "folder": "2640_Character-Plush-Headbands-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "2639",
-      "folder": "2639_Bright-Sequin-Headbands-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "2638",
-      "folder": "2638_Pastel-Sequin-Headbands-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
       "originals_unchanged": true
     },
     {
@@ -1625,20 +1630,32 @@
     {
       "product_id": "2634",
       "folder": "2634_Flower-Stud-Earrings-0",
-      "status": "pending",
-      "saved_images": 0,
+      "status": "partial",
+      "saved_images": 5,
       "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png",
+        "unreviewed or unrecorded: 02_Styled-Background.png",
+        "unreviewed or unrecorded: 03_Lifestyle.png",
+        "unreviewed or unrecorded: 04_Detail.png",
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
       "originals_unchanged": true
     },
     {

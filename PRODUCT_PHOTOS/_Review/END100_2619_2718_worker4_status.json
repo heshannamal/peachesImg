@@ -1,6 +1,6 @@
 {
-  "status": "generating",
-  "updated_at": "2026-11-10T01:07:47.764771+00:00",
+  "status": "partial_pair_corrective_spent",
+  "updated_at": "2026-11-10T01:10:45.860139+00:00",
   "worker_key": "new_worker4",
   "completed_this_resume": [
     "2690",
@@ -12,14 +12,20 @@
     "2662",
     "2661",
     "2652",
-    "2651"
-  ],
-  "active_products": [
-    "2642",
+    "2651",
     "2641"
   ],
+  "active_products": [],
   "max_active_products": 2,
   "method": "one native3x2grid/product thenmechanicalfivecrops",
   "originals_verified": true,
-  "inflight": 2
+  "inflight": 0,
+  "review_needed": {
+    "2642": [
+      "01_White-Background.png",
+      "02_Styled-Background.png",
+      "03_Lifestyle.png",
+      "05_Promotional.png"
+    ]
+  }
 }

@@ -12,3 +12,5 @@ Partial products (corrective attempts spent; do not automatically retry):
 Moderation-blocked without retries: 2716, 2714, 2713, 2707, 2704, 2649, 2648, 2644. Exact errors and prompts retained in product notes.
 
 No CSV created. Generation queue exhausted in descending ID order. Live image verification is recorded separately in END100_2619_2718_WEB_VERIFICATION.json.
+
+Live GitHub verification: all 450 image URLs for the 90 completed products returned HTTP 200 with image content types.

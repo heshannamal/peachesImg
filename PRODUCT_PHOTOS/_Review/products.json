@@ -30767,23 +30767,25 @@
     "source_image_ids": [
       2824
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2523",
-    "folder": "2523_Pastel-Flower-Claws-0",
+    "folder": "2523_Pastel-Flower-Claws-1",
     "source_image_ids": [
       2825
     ],
-    "new_images": 1,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2518-2618",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2524",
@@ -30793,7 +30795,7 @@
     ],
     "new_images": 0,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "blocked_moderation",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -30805,57 +30807,65 @@
     ],
     "new_images": 0,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "blocked_moderation",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2526",
-    "folder": "2526_Colourful-Daisy-Claws-0",
+    "folder": "2526_Colourful-Daisy-Claws-1",
     "source_image_ids": [
       2828
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2518-2618",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2527",
-    "folder": "2527_Bright-Flower-Claw-Sets-0",
+    "folder": "2527_Bright-Flower-Claw-Sets-1",
     "source_image_ids": [
       2829
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2518-2618",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2528",
-    "folder": "2528_Clear-Heart-Claws-0",
+    "folder": "2528_Clear-Heart-Claws-1",
     "source_image_ids": [
       2830
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2518-2618",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2529",
-    "folder": "2529_Clear-Rectangle-Claws-0",
+    "folder": "2529_Clear-Rectangle-Claws-1",
     "source_image_ids": [
       2831
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2518-2618",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2530",
@@ -30863,7 +30873,7 @@
     "source_image_ids": [
       2832
     ],
-    "new_images": 2,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",

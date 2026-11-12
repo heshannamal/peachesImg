@@ -1,0 +1,228 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260929-WA0186.jpg": "17b9921276028d0ef9654719bee7492861f81da3a69bc7f8c3ca4414ab214400"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-7e43f851-dfa4-4173-ab68-d852078d790c.png",
+      "source_output": "/workspace/generated_images/exec-7e43f851-dfa4-4173-ab68-d852078d790c.png",
+      "sha256": "05f52074d5ce1b04af9e13b7b29f54e2b4d0e7ed40c3ab8a1782c9a6a1e87026",
+      "prompt": "Native photo edit referenced faithfully to original. Make landscape1536x1024 precise3columns x2rows of512squarecells; boundaries x512/1024,y512; no gutters,borders,panel labels. Top-left full assortment white background; top-middle full assortment lavender/cream styled background; top-right full assortment tidyvanity lifestyle; bottom-left standalone tightmacro of actual petal/wing+hinge part,not wholeassortment; bottom-middle fullassortment promotional with accurateheading specified; bottom-right blankcream. Entire original assortment ONEproduct. Remove hand,shop,priceoverlay; preserve exactlyTWELVE hairclaws, original forms,two-tone colour combinations,clawteeth/spring construction. Fullviews arrange12separate clips2columns\u00d76 or2rows\u00d76, everyclipvisible and withinowncellmargin. No otherhairaccessoryprops. Photoreal website-ready. Actual products twelve smooth plumeria/frangipani FIVE-PETAL FLOWER hairclaw clips with shallow spoonlike pointedoval petals, notsixpetals/nordaisies. Glossy softpastel TWO-TONE petals on eachclip. Match source:2blue/pink,4pink/cream,2mint/cream,2blue/cream,2purple/pink =12. Originalshows2six-clipwhitecards. Preserve5petalsperflower,two-tonegradientidentity, no flowercentre bead. Macro tight actualglossyfivepetal edge/two-tonefinish+smallclawpart. Heading Pastel Flower Hair Claws.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "Rejected/initial_01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-7e43f851-dfa4-4173-ab68-d852078d790c.png",
+      "prompt": "Native photo edit referenced faithfully to original. Make landscape1536x1024 precise3columns x2rows of512squarecells; boundaries x512/1024,y512; no gutters,borders,panel labels. Top-left full assortment white background; top-middle full assortment lavender/cream styled background; top-right full assortment tidyvanity lifestyle; bottom-left standalone tightmacro of actual petal/wing+hinge part,not wholeassortment; bottom-middle fullassortment promotional with accurateheading specified; bottom-right blankcream. Entire original assortment ONEproduct. Remove hand,shop,priceoverlay; preserve exactlyTWELVE hairclaws, original forms,two-tone colour combinations,clawteeth/spring construction. Fullviews arrange12separate clips2columns\u00d76 or2rows\u00d76, everyclipvisible and withinowncellmargin. No otherhairaccessoryprops. Photoreal website-ready. Actual products twelve smooth plumeria/frangipani FIVE-PETAL FLOWER hairclaw clips with shallow spoonlike pointedoval petals, notsixpetals/nordaisies. Glossy softpastel TWO-TONE petals on eachclip. Match source:2blue/pink,4pink/cream,2mint/cream,2blue/cream,2purple/pink =12. Originalshows2six-clipwhitecards. Preserve5petalsperflower,two-tonegradientidentity, no flowercentre bead. Macro tight actualglossyfivepetal edge/two-tonefinish+smallclawpart. Heading Pastel Flower Hair Claws.",
+      "sha256": "9e3a6661d652b0496ad8ba3aba71430186bd4c186c598c63a4328a8c256b0094",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7e43f851-dfa4-4173-ab68-d852078d790c.png",
+      "grid_sha256": "05f52074d5ce1b04af9e13b7b29f54e2b4d0e7ed40c3ab8a1782c9a6a1e87026",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Rejected:fullviews have5pinkcream+1mintcream rather than4pinkcream+2mintcream; purple/pink changedsolidpurple. Onecorrective requested."
+    },
+    {
+      "saved_file": "Rejected/initial_02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-7e43f851-dfa4-4173-ab68-d852078d790c.png",
+      "prompt": "Native photo edit referenced faithfully to original. Make landscape1536x1024 precise3columns x2rows of512squarecells; boundaries x512/1024,y512; no gutters,borders,panel labels. Top-left full assortment white background; top-middle full assortment lavender/cream styled background; top-right full assortment tidyvanity lifestyle; bottom-left standalone tightmacro of actual petal/wing+hinge part,not wholeassortment; bottom-middle fullassortment promotional with accurateheading specified; bottom-right blankcream. Entire original assortment ONEproduct. Remove hand,shop,priceoverlay; preserve exactlyTWELVE hairclaws, original forms,two-tone colour combinations,clawteeth/spring construction. Fullviews arrange12separate clips2columns\u00d76 or2rows\u00d76, everyclipvisible and withinowncellmargin. No otherhairaccessoryprops. Photoreal website-ready. Actual products twelve smooth plumeria/frangipani FIVE-PETAL FLOWER hairclaw clips with shallow spoonlike pointedoval petals, notsixpetals/nordaisies. Glossy softpastel TWO-TONE petals on eachclip. Match source:2blue/pink,4pink/cream,2mint/cream,2blue/cream,2purple/pink =12. Originalshows2six-clipwhitecards. Preserve5petalsperflower,two-tonegradientidentity, no flowercentre bead. Macro tight actualglossyfivepetal edge/two-tonefinish+smallclawpart. Heading Pastel Flower Hair Claws.",
+      "sha256": "eb0f959ee91c0e021c26787145949a88526d5686e662b9b966d2df0751bdeada",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7e43f851-dfa4-4173-ab68-d852078d790c.png",
+      "grid_sha256": "05f52074d5ce1b04af9e13b7b29f54e2b4d0e7ed40c3ab8a1782c9a6a1e87026",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Rejected:fullviews have5pinkcream+1mintcream rather than4pinkcream+2mintcream; purple/pink changedsolidpurple. Onecorrective requested."
+    },
+    {
+      "saved_file": "Rejected/initial_03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-7e43f851-dfa4-4173-ab68-d852078d790c.png",
+      "prompt": "Native photo edit referenced faithfully to original. Make landscape1536x1024 precise3columns x2rows of512squarecells; boundaries x512/1024,y512; no gutters,borders,panel labels. Top-left full assortment white background; top-middle full assortment lavender/cream styled background; top-right full assortment tidyvanity lifestyle; bottom-left standalone tightmacro of actual petal/wing+hinge part,not wholeassortment; bottom-middle fullassortment promotional with accurateheading specified; bottom-right blankcream. Entire original assortment ONEproduct. Remove hand,shop,priceoverlay; preserve exactlyTWELVE hairclaws, original forms,two-tone colour combinations,clawteeth/spring construction. Fullviews arrange12separate clips2columns\u00d76 or2rows\u00d76, everyclipvisible and withinowncellmargin. No otherhairaccessoryprops. Photoreal website-ready. Actual products twelve smooth plumeria/frangipani FIVE-PETAL FLOWER hairclaw clips with shallow spoonlike pointedoval petals, notsixpetals/nordaisies. Glossy softpastel TWO-TONE petals on eachclip. Match source:2blue/pink,4pink/cream,2mint/cream,2blue/cream,2purple/pink =12. Originalshows2six-clipwhitecards. Preserve5petalsperflower,two-tonegradientidentity, no flowercentre bead. Macro tight actualglossyfivepetal edge/two-tonefinish+smallclawpart. Heading Pastel Flower Hair Claws.",
+      "sha256": "e0806ff1c328d11973716b8893b629a5c35dcdd7e91a2c07de2d24ddc9d6b56e",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7e43f851-dfa4-4173-ab68-d852078d790c.png",
+      "grid_sha256": "05f52074d5ce1b04af9e13b7b29f54e2b4d0e7ed40c3ab8a1782c9a6a1e87026",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Rejected:fullviews have5pinkcream+1mintcream rather than4pinkcream+2mintcream; purple/pink changedsolidpurple. Onecorrective requested."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-7e43f851-dfa4-4173-ab68-d852078d790c.png",
+      "prompt": "Native photo edit referenced faithfully to original. Make landscape1536x1024 precise3columns x2rows of512squarecells; boundaries x512/1024,y512; no gutters,borders,panel labels. Top-left full assortment white background; top-middle full assortment lavender/cream styled background; top-right full assortment tidyvanity lifestyle; bottom-left standalone tightmacro of actual petal/wing+hinge part,not wholeassortment; bottom-middle fullassortment promotional with accurateheading specified; bottom-right blankcream. Entire original assortment ONEproduct. Remove hand,shop,priceoverlay; preserve exactlyTWELVE hairclaws, original forms,two-tone colour combinations,clawteeth/spring construction. Fullviews arrange12separate clips2columns\u00d76 or2rows\u00d76, everyclipvisible and withinowncellmargin. No otherhairaccessoryprops. Photoreal website-ready. Actual products twelve smooth plumeria/frangipani FIVE-PETAL FLOWER hairclaw clips with shallow spoonlike pointedoval petals, notsixpetals/nordaisies. Glossy softpastel TWO-TONE petals on eachclip. Match source:2blue/pink,4pink/cream,2mint/cream,2blue/cream,2purple/pink =12. Originalshows2six-clipwhitecards. Preserve5petalsperflower,two-tonegradientidentity, no flowercentre bead. Macro tight actualglossyfivepetal edge/two-tonefinish+smallclawpart. Heading Pastel Flower Hair Claws.",
+      "sha256": "321f16b1f90b11d7f7e3c7405e28ade4855846c704fdeaba3407ddd57ed79661",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7e43f851-dfa4-4173-ab68-d852078d790c.png",
+      "grid_sha256": "05f52074d5ce1b04af9e13b7b29f54e2b4d0e7ed40c3ab8a1782c9a6a1e87026",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crop checked vs original. Correctivefullviews now12fivepetalflowerclaws:4pinkcream+2mintcream+2bluecream+2bluepink+2purplepink, sourcecount/colourgradients restored. Validinitial04macro retained realpetal/hinge detail. Accurateheading, white/lavender/vanity/promo styles and cleanboundaries pass. Website-ready."
+    },
+    {
+      "saved_file": "Rejected/initial_05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-7e43f851-dfa4-4173-ab68-d852078d790c.png",
+      "prompt": "Native photo edit referenced faithfully to original. Make landscape1536x1024 precise3columns x2rows of512squarecells; boundaries x512/1024,y512; no gutters,borders,panel labels. Top-left full assortment white background; top-middle full assortment lavender/cream styled background; top-right full assortment tidyvanity lifestyle; bottom-left standalone tightmacro of actual petal/wing+hinge part,not wholeassortment; bottom-middle fullassortment promotional with accurateheading specified; bottom-right blankcream. Entire original assortment ONEproduct. Remove hand,shop,priceoverlay; preserve exactlyTWELVE hairclaws, original forms,two-tone colour combinations,clawteeth/spring construction. Fullviews arrange12separate clips2columns\u00d76 or2rows\u00d76, everyclipvisible and withinowncellmargin. No otherhairaccessoryprops. Photoreal website-ready. Actual products twelve smooth plumeria/frangipani FIVE-PETAL FLOWER hairclaw clips with shallow spoonlike pointedoval petals, notsixpetals/nordaisies. Glossy softpastel TWO-TONE petals on eachclip. Match source:2blue/pink,4pink/cream,2mint/cream,2blue/cream,2purple/pink =12. Originalshows2six-clipwhitecards. Preserve5petalsperflower,two-tonegradientidentity, no flowercentre bead. Macro tight actualglossyfivepetal edge/two-tonefinish+smallclawpart. Heading Pastel Flower Hair Claws.",
+      "sha256": "45fea8548661ac3008f814ccb05808f73e87554eed0de4106caddfd44d2d09f9",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7e43f851-dfa4-4173-ab68-d852078d790c.png",
+      "grid_sha256": "05f52074d5ce1b04af9e13b7b29f54e2b4d0e7ed40c3ab8a1782c9a6a1e87026",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Rejected:fullviews have5pinkcream+1mintcream rather than4pinkcream+2mintcream; purple/pink changedsolidpurple. Onecorrective requested."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-c8d1e930-4b5e-4f90-a296-7ed710343373.png",
+      "source_output": "/workspace/generated_images/exec-c8d1e930-4b5e-4f90-a296-7ed710343373.png",
+      "sha256": "9357787f17b63c10cc33ce8843a69e1b74fbb51afe72d87cf97b901b5a3cd086",
+      "prompt": "Native photo edit referenced faithfully to original. Make landscape1536x1024 precise3columns x2rows of512squarecells; boundaries x512/1024,y512; no gutters,borders,panel labels. Top-left full assortment white background; top-middle full assortment lavender/cream styled background; top-right full assortment tidyvanity lifestyle; bottom-left standalone tightmacro of actual petal/wing+hinge part,not wholeassortment; bottom-middle fullassortment promotional with accurateheading specified; bottom-right blankcream. Entire original assortment ONEproduct. Remove hand,shop,priceoverlay; preserve exactlyTWELVE hairclaws, original forms,two-tone colour combinations,clawteeth/spring construction. Fullviews arrange12separate clips2columns\u00d76 or2rows\u00d76, everyclipvisible and withinowncellmargin. No otherhairaccessoryprops. Photoreal website-ready. Actual products twelve smooth plumeria/frangipani FIVE-PETAL FLOWER hairclaw clips with shallow spoonlike pointedoval petals, notsixpetals/nordaisies. Glossy softpastel TWO-TONE petals on eachclip. Match source:2blue/pink,4pink/cream,2mint/cream,2blue/cream,2purple/pink =12. Originalshows2six-clipwhitecards. Preserve5petalsperflower,two-tonegradientidentity, no flowercentre bead. Macro tight actualglossyfivepetal edge/two-tonefinish+smallclawpart. Heading Pastel Flower Hair Claws. CORRECTION: Match EXACT two vertical sixclip columns. LEFT column fromtop1PINK/CREAM,2PINK/CREAM,3MINT/CREAM,4MINT/CREAM,5BLUE/CREAM,6BLUE/CREAM. RIGHTcolumn fromtop1BLUE/PINK,2BLUE/PINK,3PINK/CREAM,4PINK/CREAM,5PURPLE/PINK,6PURPLE/PINK. Exactly12total,4pinkcream+2mintcream+2bluecream+2bluepink+2purplepink. Do not substitute a thirdpink for mint. Purple flowers must have PINK petalgradient visible, notsolidpurple. No tinydecorative extra flower icon inpromo; only12products. Allfourfullviews useexactsame12withcorrectcolourdistribution.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-c8d1e930-4b5e-4f90-a296-7ed710343373.png",
+      "prompt": "Native photo edit referenced faithfully to original. Make landscape1536x1024 precise3columns x2rows of512squarecells; boundaries x512/1024,y512; no gutters,borders,panel labels. Top-left full assortment white background; top-middle full assortment lavender/cream styled background; top-right full assortment tidyvanity lifestyle; bottom-left standalone tightmacro of actual petal/wing+hinge part,not wholeassortment; bottom-middle fullassortment promotional with accurateheading specified; bottom-right blankcream. Entire original assortment ONEproduct. Remove hand,shop,priceoverlay; preserve exactlyTWELVE hairclaws, original forms,two-tone colour combinations,clawteeth/spring construction. Fullviews arrange12separate clips2columns\u00d76 or2rows\u00d76, everyclipvisible and withinowncellmargin. No otherhairaccessoryprops. Photoreal website-ready. Actual products twelve smooth plumeria/frangipani FIVE-PETAL FLOWER hairclaw clips with shallow spoonlike pointedoval petals, notsixpetals/nordaisies. Glossy softpastel TWO-TONE petals on eachclip. Match source:2blue/pink,4pink/cream,2mint/cream,2blue/cream,2purple/pink =12. Originalshows2six-clipwhitecards. Preserve5petalsperflower,two-tonegradientidentity, no flowercentre bead. Macro tight actualglossyfivepetal edge/two-tonefinish+smallclawpart. Heading Pastel Flower Hair Claws. CORRECTION: Match EXACT two vertical sixclip columns. LEFT column fromtop1PINK/CREAM,2PINK/CREAM,3MINT/CREAM,4MINT/CREAM,5BLUE/CREAM,6BLUE/CREAM. RIGHTcolumn fromtop1BLUE/PINK,2BLUE/PINK,3PINK/CREAM,4PINK/CREAM,5PURPLE/PINK,6PURPLE/PINK. Exactly12total,4pinkcream+2mintcream+2bluecream+2bluepink+2purplepink. Do not substitute a thirdpink for mint. Purple flowers must have PINK petalgradient visible, notsolidpurple. No tinydecorative extra flower icon inpromo; only12products. Allfourfullviews useexactsame12withcorrectcolourdistribution.",
+      "sha256": "31ffdc9f79dcb38bfefad4fd57b953febb981c6cde9188df3a64ecb4d763663f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c8d1e930-4b5e-4f90-a296-7ed710343373.png",
+      "grid_sha256": "9357787f17b63c10cc33ce8843a69e1b74fbb51afe72d87cf97b901b5a3cd086",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crop checked vs original. Correctivefullviews now12fivepetalflowerclaws:4pinkcream+2mintcream+2bluecream+2bluepink+2purplepink, sourcecount/colourgradients restored. Validinitial04macro retained realpetal/hinge detail. Accurateheading, white/lavender/vanity/promo styles and cleanboundaries pass. Website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-c8d1e930-4b5e-4f90-a296-7ed710343373.png",
+      "prompt": "Native photo edit referenced faithfully to original. Make landscape1536x1024 precise3columns x2rows of512squarecells; boundaries x512/1024,y512; no gutters,borders,panel labels. Top-left full assortment white background; top-middle full assortment lavender/cream styled background; top-right full assortment tidyvanity lifestyle; bottom-left standalone tightmacro of actual petal/wing+hinge part,not wholeassortment; bottom-middle fullassortment promotional with accurateheading specified; bottom-right blankcream. Entire original assortment ONEproduct. Remove hand,shop,priceoverlay; preserve exactlyTWELVE hairclaws, original forms,two-tone colour combinations,clawteeth/spring construction. Fullviews arrange12separate clips2columns\u00d76 or2rows\u00d76, everyclipvisible and withinowncellmargin. No otherhairaccessoryprops. Photoreal website-ready. Actual products twelve smooth plumeria/frangipani FIVE-PETAL FLOWER hairclaw clips with shallow spoonlike pointedoval petals, notsixpetals/nordaisies. Glossy softpastel TWO-TONE petals on eachclip. Match source:2blue/pink,4pink/cream,2mint/cream,2blue/cream,2purple/pink =12. Originalshows2six-clipwhitecards. Preserve5petalsperflower,two-tonegradientidentity, no flowercentre bead. Macro tight actualglossyfivepetal edge/two-tonefinish+smallclawpart. Heading Pastel Flower Hair Claws. CORRECTION: Match EXACT two vertical sixclip columns. LEFT column fromtop1PINK/CREAM,2PINK/CREAM,3MINT/CREAM,4MINT/CREAM,5BLUE/CREAM,6BLUE/CREAM. RIGHTcolumn fromtop1BLUE/PINK,2BLUE/PINK,3PINK/CREAM,4PINK/CREAM,5PURPLE/PINK,6PURPLE/PINK. Exactly12total,4pinkcream+2mintcream+2bluecream+2bluepink+2purplepink. Do not substitute a thirdpink for mint. Purple flowers must have PINK petalgradient visible, notsolidpurple. No tinydecorative extra flower icon inpromo; only12products. Allfourfullviews useexactsame12withcorrectcolourdistribution.",
+      "sha256": "6f5811e030a25ef7b0ac59fdc90dbb139a398f25452684713ad57d440894e624",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c8d1e930-4b5e-4f90-a296-7ed710343373.png",
+      "grid_sha256": "9357787f17b63c10cc33ce8843a69e1b74fbb51afe72d87cf97b901b5a3cd086",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crop checked vs original. Correctivefullviews now12fivepetalflowerclaws:4pinkcream+2mintcream+2bluecream+2bluepink+2purplepink, sourcecount/colourgradients restored. Validinitial04macro retained realpetal/hinge detail. Accurateheading, white/lavender/vanity/promo styles and cleanboundaries pass. Website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-c8d1e930-4b5e-4f90-a296-7ed710343373.png",
+      "prompt": "Native photo edit referenced faithfully to original. Make landscape1536x1024 precise3columns x2rows of512squarecells; boundaries x512/1024,y512; no gutters,borders,panel labels. Top-left full assortment white background; top-middle full assortment lavender/cream styled background; top-right full assortment tidyvanity lifestyle; bottom-left standalone tightmacro of actual petal/wing+hinge part,not wholeassortment; bottom-middle fullassortment promotional with accurateheading specified; bottom-right blankcream. Entire original assortment ONEproduct. Remove hand,shop,priceoverlay; preserve exactlyTWELVE hairclaws, original forms,two-tone colour combinations,clawteeth/spring construction. Fullviews arrange12separate clips2columns\u00d76 or2rows\u00d76, everyclipvisible and withinowncellmargin. No otherhairaccessoryprops. Photoreal website-ready. Actual products twelve smooth plumeria/frangipani FIVE-PETAL FLOWER hairclaw clips with shallow spoonlike pointedoval petals, notsixpetals/nordaisies. Glossy softpastel TWO-TONE petals on eachclip. Match source:2blue/pink,4pink/cream,2mint/cream,2blue/cream,2purple/pink =12. Originalshows2six-clipwhitecards. Preserve5petalsperflower,two-tonegradientidentity, no flowercentre bead. Macro tight actualglossyfivepetal edge/two-tonefinish+smallclawpart. Heading Pastel Flower Hair Claws. CORRECTION: Match EXACT two vertical sixclip columns. LEFT column fromtop1PINK/CREAM,2PINK/CREAM,3MINT/CREAM,4MINT/CREAM,5BLUE/CREAM,6BLUE/CREAM. RIGHTcolumn fromtop1BLUE/PINK,2BLUE/PINK,3PINK/CREAM,4PINK/CREAM,5PURPLE/PINK,6PURPLE/PINK. Exactly12total,4pinkcream+2mintcream+2bluecream+2bluepink+2purplepink. Do not substitute a thirdpink for mint. Purple flowers must have PINK petalgradient visible, notsolidpurple. No tinydecorative extra flower icon inpromo; only12products. Allfourfullviews useexactsame12withcorrectcolourdistribution.",
+      "sha256": "6149a40f67bf0bdb933684cd15e3eac5b50a2a2ea64099e6d2eac035ecc45202",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c8d1e930-4b5e-4f90-a296-7ed710343373.png",
+      "grid_sha256": "9357787f17b63c10cc33ce8843a69e1b74fbb51afe72d87cf97b901b5a3cd086",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crop checked vs original. Correctivefullviews now12fivepetalflowerclaws:4pinkcream+2mintcream+2bluecream+2bluepink+2purplepink, sourcecount/colourgradients restored. Validinitial04macro retained realpetal/hinge detail. Accurateheading, white/lavender/vanity/promo styles and cleanboundaries pass. Website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-c8d1e930-4b5e-4f90-a296-7ed710343373.png",
+      "prompt": "Native photo edit referenced faithfully to original. Make landscape1536x1024 precise3columns x2rows of512squarecells; boundaries x512/1024,y512; no gutters,borders,panel labels. Top-left full assortment white background; top-middle full assortment lavender/cream styled background; top-right full assortment tidyvanity lifestyle; bottom-left standalone tightmacro of actual petal/wing+hinge part,not wholeassortment; bottom-middle fullassortment promotional with accurateheading specified; bottom-right blankcream. Entire original assortment ONEproduct. Remove hand,shop,priceoverlay; preserve exactlyTWELVE hairclaws, original forms,two-tone colour combinations,clawteeth/spring construction. Fullviews arrange12separate clips2columns\u00d76 or2rows\u00d76, everyclipvisible and withinowncellmargin. No otherhairaccessoryprops. Photoreal website-ready. Actual products twelve smooth plumeria/frangipani FIVE-PETAL FLOWER hairclaw clips with shallow spoonlike pointedoval petals, notsixpetals/nordaisies. Glossy softpastel TWO-TONE petals on eachclip. Match source:2blue/pink,4pink/cream,2mint/cream,2blue/cream,2purple/pink =12. Originalshows2six-clipwhitecards. Preserve5petalsperflower,two-tonegradientidentity, no flowercentre bead. Macro tight actualglossyfivepetal edge/two-tonefinish+smallclawpart. Heading Pastel Flower Hair Claws. CORRECTION: Match EXACT two vertical sixclip columns. LEFT column fromtop1PINK/CREAM,2PINK/CREAM,3MINT/CREAM,4MINT/CREAM,5BLUE/CREAM,6BLUE/CREAM. RIGHTcolumn fromtop1BLUE/PINK,2BLUE/PINK,3PINK/CREAM,4PINK/CREAM,5PURPLE/PINK,6PURPLE/PINK. Exactly12total,4pinkcream+2mintcream+2bluecream+2bluepink+2purplepink. Do not substitute a thirdpink for mint. Purple flowers must have PINK petalgradient visible, notsolidpurple. No tinydecorative extra flower icon inpromo; only12products. Allfourfullviews useexactsame12withcorrectcolourdistribution.",
+      "sha256": "6052646f46ad72442e2ef557855ae2589cb07f5aad6a24a4c59b4474f1a11a38",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c8d1e930-4b5e-4f90-a296-7ed710343373.png",
+      "grid_sha256": "9357787f17b63c10cc33ce8843a69e1b74fbb51afe72d87cf97b901b5a3cd086",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crop checked vs original. Correctivefullviews now12fivepetalflowerclaws:4pinkcream+2mintcream+2bluecream+2bluepink+2purplepink, sourcecount/colourgradients restored. Validinitial04macro retained realpetal/hinge detail. Accurateheading, white/lavender/vanity/promo styles and cleanboundaries pass. Website-ready."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "01_White-Background": 1,
+    "02_Styled-Background": 1,
+    "03_Lifestyle": 1,
+    "05_Promotional": 1
+  },
+  "review_issue": "Wrongcolourdistribution1mintinstead2; purplepinkgradientlost.Onecorrective requested.",
+  "actual_subject": "Twelve two-tone pastel five-petal plumeria flower hair claw clips",
+  "original_baseline_verified": true
+}

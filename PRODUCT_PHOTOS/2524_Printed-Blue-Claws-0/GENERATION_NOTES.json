@@ -1,0 +1,25 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "status": "blocked_moderation",
+  "records": [],
+  "original_hashes": {
+    "Originals/IMG-20260929-WA0189.jpg": "11a65a827bb42055dba6856c682433dfa13f8a631aa936009c137e596cce9011"
+  },
+  "generation_attempts": [
+    {
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Printed Flower Hair Claws\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment TWELVE larger roundedfive-petalFLOWER hairclawclips, glossyprinted bluecartoonanimalface artworks asactualsourcephoto, silver/goldsmallmetal spring andtranslucentwhiteplasticjaws. TWOlongwhitestrips SIXclips each. Sourcepaircolours:creampinkblueprint2,mintturquoise2,palepink/lavender2,bluewhite2,hotpink2,whiteblue2. PreserveALL12 sourceflowerclaws, sixsameartworkcolourpairs, roundedpetalforms/printedfaces; no plainflowersorsixclips. Fullviews1/2/3/5 eachMUSTshow all12wholeclips together in TWOCOLUMNS SIXROWS,2clipsperrow. Count6rows, donotomitbottom2. Remove hand/shop/pricebanner. Detail standalone tightmacro ofactualmintprintedflowerpetal andhingespring, notfullclip. AccurateheadingPrinted Flower Hair Claws.",
+      "referenced_originals": [
+        "Originals/IMG-20260929-WA0189.jpg"
+      ],
+      "result": "HTTP400 moderation_blocked",
+      "moderation_stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "f7c9a563-d5a4-4304-bdf3-4d582aa80928",
+      "error_message": "Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID f7c9a563-d5a4-4304-bdf3-4d582aa80928.",
+      "retried": false
+    }
+  ]
+}

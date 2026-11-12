@@ -96,7 +96,7 @@
         512,
         1024
       ],
-      "visual_review": "Pass: detailtightrealpearlroundframe/hingespring;promo12roundclaws3rows4withaccurateheading. Identity/shape/colourretained."
+      "visual_review": "Pass: correctivewhite/styledhave12roundpearlclaws2cards6each;validinitialdetailandpromotional12claws3rows4preserved. Clearivoryroundframe/whitepearls/hingespringretained. Original/outputSHAverified."
     },
     {
       "saved_file": "New/05_Promotional.png",
@@ -117,15 +117,91 @@
         1024,
         1024
       ],
-      "visual_review": "Pass: detailtightrealpearlroundframe/hingespring;promo12roundclaws3rows4withaccurateheading. Identity/shape/colourretained."
+      "visual_review": "Pass: correctivewhite/styledhave12roundpearlclaws2cards6each;validinitialdetailandpromotional12claws3rows4preserved. Clearivoryroundframe/whitepearls/hingespringretained. Original/outputSHAverified."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-58add5b9-3a13-4587-9845-26f4a64930a7.png",
+      "source_output": "/workspace/generated_images/exec-58add5b9-3a13-4587-9845-26f4a64930a7.png",
+      "sha256": "220e857089527823a6c66de82763c5de6ee978d3671b1981befab677f0a6fd53",
+      "prompt": "Native faithful edit of suppliedactualoriginal into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Preserve originalWHOLEassortment EXACTLY12clearplastic pearl-adorned hairclaws onTWOlongwhitecards withSIXclips each. Preserve transparentivory plastic,whitefauxpearls,outlines,matchingrectangulartexturedhingetab/visiblemetalspring. Removehand/store/priceoverlay/outerplastic only. Fullviews showall12,countable2cards6each. Toprowwhite,lavendercreamstyled,naturalvanitylifestyle. Bottomrowtightstandalone pearl-edge/hinge REALPARTmacro only,promotionalall12plusaccurateheading,unusedblankcream. Exactboundaries512/1024/512,nogutters/borders. Exact2530shapeis ROUND/OVALopen-loop clearhairclaws withsinglelargewhitepearloutline aroundovalframe andsmallpearlcoveredrectangularhingetab. NOTboworbutterflyshapes. Preserve12roundovalpearlclaws originaloutlineexactly. Heading 'Pearl Round Hair Claws'.\n\nCORRECTIVE ONE ALLOWED: previous topfullviewswrongly10(5percard). In EACH TOP CELL make TWO whitecards with SIX pearlroundclawspercard, EXACT6ROWS x2COLUMNS=12. Count6rowsexplicitly1,2,3,4,5,6;no5rows. Bottomdetailandpromopassedwillbepreserved. Referenceactualoriginal12roundclaws. Allotheridentityrulespreserved.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-58add5b9-3a13-4587-9845-26f4a64930a7.png",
+      "prompt": "Native faithful edit of suppliedactualoriginal into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Preserve originalWHOLEassortment EXACTLY12clearplastic pearl-adorned hairclaws onTWOlongwhitecards withSIXclips each. Preserve transparentivory plastic,whitefauxpearls,outlines,matchingrectangulartexturedhingetab/visiblemetalspring. Removehand/store/priceoverlay/outerplastic only. Fullviews showall12,countable2cards6each. Toprowwhite,lavendercreamstyled,naturalvanitylifestyle. Bottomrowtightstandalone pearl-edge/hinge REALPARTmacro only,promotionalall12plusaccurateheading,unusedblankcream. Exactboundaries512/1024/512,nogutters/borders. Exact2530shapeis ROUND/OVALopen-loop clearhairclaws withsinglelargewhitepearloutline aroundovalframe andsmallpearlcoveredrectangularhingetab. NOTboworbutterflyshapes. Preserve12roundovalpearlclaws originaloutlineexactly. Heading 'Pearl Round Hair Claws'.\n\nCORRECTIVE ONE ALLOWED: previous topfullviewswrongly10(5percard). In EACH TOP CELL make TWO whitecards with SIX pearlroundclawspercard, EXACT6ROWS x2COLUMNS=12. Count6rowsexplicitly1,2,3,4,5,6;no5rows. Bottomdetailandpromopassedwillbepreserved. Referenceactualoriginal12roundclaws. Allotheridentityrulespreserved.\n",
+      "sha256": "3c14c45099eef0800673095fc28c127aa083b2e3cf8ea3420f1e89c48bf30cad",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-58add5b9-3a13-4587-9845-26f4a64930a7.png",
+      "grid_sha256": "220e857089527823a6c66de82763c5de6ee978d3671b1981befab677f0a6fd53",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Pass: correctivewhite/styledhave12roundpearlclaws2cards6each;validinitialdetailandpromotional12claws3rows4preserved. Clearivoryroundframe/whitepearls/hingespringretained. Original/outputSHAverified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-58add5b9-3a13-4587-9845-26f4a64930a7.png",
+      "prompt": "Native faithful edit of suppliedactualoriginal into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Preserve originalWHOLEassortment EXACTLY12clearplastic pearl-adorned hairclaws onTWOlongwhitecards withSIXclips each. Preserve transparentivory plastic,whitefauxpearls,outlines,matchingrectangulartexturedhingetab/visiblemetalspring. Removehand/store/priceoverlay/outerplastic only. Fullviews showall12,countable2cards6each. Toprowwhite,lavendercreamstyled,naturalvanitylifestyle. Bottomrowtightstandalone pearl-edge/hinge REALPARTmacro only,promotionalall12plusaccurateheading,unusedblankcream. Exactboundaries512/1024/512,nogutters/borders. Exact2530shapeis ROUND/OVALopen-loop clearhairclaws withsinglelargewhitepearloutline aroundovalframe andsmallpearlcoveredrectangularhingetab. NOTboworbutterflyshapes. Preserve12roundovalpearlclaws originaloutlineexactly. Heading 'Pearl Round Hair Claws'.\n\nCORRECTIVE ONE ALLOWED: previous topfullviewswrongly10(5percard). In EACH TOP CELL make TWO whitecards with SIX pearlroundclawspercard, EXACT6ROWS x2COLUMNS=12. Count6rowsexplicitly1,2,3,4,5,6;no5rows. Bottomdetailandpromopassedwillbepreserved. Referenceactualoriginal12roundclaws. Allotheridentityrulespreserved.\n",
+      "sha256": "71dc203427022ba58e8c99e69b955a4a63ca61c97a2126df875be04c6fd0d594",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-58add5b9-3a13-4587-9845-26f4a64930a7.png",
+      "grid_sha256": "220e857089527823a6c66de82763c5de6ee978d3671b1981befab677f0a6fd53",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Pass: correctivewhite/styledhave12roundpearlclaws2cards6each;validinitialdetailandpromotional12claws3rows4preserved. Clearivoryroundframe/whitepearls/hingespringretained. Original/outputSHAverified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-58add5b9-3a13-4587-9845-26f4a64930a7.png",
+      "prompt": "Native faithful edit of suppliedactualoriginal into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Preserve originalWHOLEassortment EXACTLY12clearplastic pearl-adorned hairclaws onTWOlongwhitecards withSIXclips each. Preserve transparentivory plastic,whitefauxpearls,outlines,matchingrectangulartexturedhingetab/visiblemetalspring. Removehand/store/priceoverlay/outerplastic only. Fullviews showall12,countable2cards6each. Toprowwhite,lavendercreamstyled,naturalvanitylifestyle. Bottomrowtightstandalone pearl-edge/hinge REALPARTmacro only,promotionalall12plusaccurateheading,unusedblankcream. Exactboundaries512/1024/512,nogutters/borders. Exact2530shapeis ROUND/OVALopen-loop clearhairclaws withsinglelargewhitepearloutline aroundovalframe andsmallpearlcoveredrectangularhingetab. NOTboworbutterflyshapes. Preserve12roundovalpearlclaws originaloutlineexactly. Heading 'Pearl Round Hair Claws'.\n\nCORRECTIVE ONE ALLOWED: previous topfullviewswrongly10(5percard). In EACH TOP CELL make TWO whitecards with SIX pearlroundclawspercard, EXACT6ROWS x2COLUMNS=12. Count6rowsexplicitly1,2,3,4,5,6;no5rows. Bottomdetailandpromopassedwillbepreserved. Referenceactualoriginal12roundclaws. Allotheridentityrulespreserved.\n",
+      "sha256": "a33ff99006c1f202b7cd466672dbcfe4808de82870d70c0cd3f215dbb108fad6",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-58add5b9-3a13-4587-9845-26f4a64930a7.png",
+      "grid_sha256": "220e857089527823a6c66de82763c5de6ee978d3671b1981befab677f0a6fd53",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Corrective spent: lifestyle nowshowsONLYoneclawinmodelhair, missingwhole12clipassortment; materialcount/viewcompositionerror. Retainedunchecked,no furtherretry."
     }
   ],
-  "status": "in_progress",
+  "status": "partial_review_needed_corrective_spent",
   "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
   "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
   "corrective_attempts": {
     "01_White-Background": 1,
     "02_Styled-Background": 1,
     "03_Lifestyle": 1
-  }
+  },
+  "review_needed_views": [
+    "03_Lifestyle.png"
+  ],
+  "originals_verified_unchanged": true
 }

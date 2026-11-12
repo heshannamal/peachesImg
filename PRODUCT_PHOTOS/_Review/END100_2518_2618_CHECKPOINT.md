@@ -1,6 +1,6 @@
 # Finished photo queue:2518–2618
 
-88complete,8partial,0pending,4moderation-blocked.480websitefiles saved,452visuallychecked. All103frozenoriginalSHA256baselines verifiedunchanged. No calls/workers/watcher active; queue exhausted in descendingID order.100existingproducts2618down2518 excludingabsent2580.
+88complete,8partial,0pending,4moderation-blocked.480websitefiles saved,452visuallychecked. All103frozenoriginalSHA256baselines verifiedunchanged. No generation calls/workers/watcher active; queue exhausted in descendingID order.100existingproducts2618down2518 excludingabsent2580.
 
 Nov12resume processed14pendingproducts:11complete,1partial2530,2moderationblocked2525/2524.60newwebsitefiles saved. Existing77completeproducts andvalidoutputs preserved.
 
@@ -19,4 +19,4 @@ Moderationblocked2554,2542,2525,2524: exacterrors/prompts/requestIDs retained; n
 
 Wholeassortmenttreatedasoneproduct; actualoriginals inspected because foldernames maybewrong. One nativeoriginal-referenced3×2stylegrid mechanicallycropped into5websiteviews; exactprompts/source/outputSHA/actualcropboxes andhonestreviews retained. Sourcegridunchecked flag isexpected; websiteviews carryapproval. Exact2607correctiveprompt recovered andrecorded.
 
-CSVbatches26–29contain77previouslyunexportedcompletedproducts,20/20/20/17rows,price1LKR. Additionalbatch30willcontain11newcompleteproducts once liveURLs verified; no duplicateSKUs.
+CSVbatches26–29contain77previouslyunexportedcompletedproducts,20/20/20/17rows,price1LKR. Additional batch30 contains11newcompleteproducts; no duplicateSKUs. All440/440liveimageURLs for88completeproducts verified HTTP200 withimagecontenttype.

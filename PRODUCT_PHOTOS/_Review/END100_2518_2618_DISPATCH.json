@@ -1,18 +1,12 @@
 {
   "next_unassigned": [],
   "assigned": {
-    "batch3_worker1": [
-      "2521",
-      "2520"
-    ],
+    "batch3_worker1": [],
     "batch3_worker2": [
       "2519",
       "2518"
     ],
-    "batch3_worker3": [
-      "2523",
-      "2522"
-    ],
+    "batch3_worker3": [],
     "batch3_worker4": [],
     "batch3_worker5": []
   },
@@ -344,6 +338,20 @@
       "product_ids": [
         "2531",
         "2530"
+      ]
+    },
+    {
+      "worker": "batch3_worker3",
+      "product_ids": [
+        "2523",
+        "2522"
+      ]
+    },
+    {
+      "worker": "batch3_worker1",
+      "product_ids": [
+        "2521",
+        "2520"
       ]
     }
   ],

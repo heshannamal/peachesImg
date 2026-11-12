@@ -30719,9 +30719,9 @@
     "source_image_ids": [
       2820
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -30731,47 +30731,53 @@
     "source_image_ids": [
       2821
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
-    "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
-  },
-  {
-    "product_id": "2520",
-    "folder": "2520_Large-Daisy-Claws-0",
-    "source_image_ids": [
-      2822
-    ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
-    "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
-  },
-  {
-    "product_id": "2521",
-    "folder": "2521_Neutral-Outline-Claws-0",
-    "source_image_ids": [
-      2823
-    ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
-    "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
-  },
-  {
-    "product_id": "2522",
-    "folder": "2522_Pastel-Butterfly-Claws-0",
-    "source_image_ids": [
-      2824
-    ],
     "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
+  },
+  {
+    "product_id": "2520",
+    "folder": "2520_Large-Daisy-Claws-1",
+    "source_image_ids": [
+      2822
+    ],
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
+    "grouping_status": "initial-visual-grouping",
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2518-2618",
+    "style_review": "visually-checked"
+  },
+  {
+    "product_id": "2521",
+    "folder": "2521_Neutral-Outline-Claws-1",
+    "source_image_ids": [
+      2823
+    ],
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
+    "grouping_status": "initial-visual-grouping",
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2518-2618",
+    "style_review": "visually-checked"
+  },
+  {
+    "product_id": "2522",
+    "folder": "2522_Pastel-Butterfly-Claws-1",
+    "source_image_ids": [
+      2824
+    ],
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
+    "grouping_status": "initial-visual-grouping",
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2518-2618",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2523",

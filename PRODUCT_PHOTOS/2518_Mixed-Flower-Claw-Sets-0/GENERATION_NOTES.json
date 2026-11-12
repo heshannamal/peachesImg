@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260929-WA0171.jpg": "72f70cd625e051dc34fe90cd7e5dcebccbb2c8c60a14a808373b63826185ca8b"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-8bc0cdb0-2683-4334-aa35-1b4f3399eb5a.png",
+      "source_output": "/workspace/generated_images/exec-8bc0cdb0-2683-4334-aa35-1b4f3399eb5a.png",
+      "sha256": "2da6a7ad5e9e358825853fc3f2a2b66cd12388e3dc5cc5b6348ccb174a9e7ce2",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Mixed Frangipani Hair Claw Sets\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment SIX different colourSETCARDS of glossyFIVE-PETAL frangipani/plumeria flowerhairclaws. Eachcardhas FOURclips: TWOlargeflowerclaws plusTWOsmallmatchingflowerclaws, total24clips. In sourceoneoftwolargeflowersonsomecardsishiddenpartlybycardheader; preservebothlargeones. SIXcolours exactly:CORALRED,PALEYELLOW,ORANGE,PALELAVENDER,HOTPINK,BRIGHTBLUEwithgreenishcentre. Eachglossyfivebroadpetalflowerhasintensecolouredcentre fadingtolighteredges andclearplasticclawbehind. Fullviews1/2/3/5 show ALLSIXcolourcards TOGETHER, 2columns3rows or3columns2rowswithin eachcell; EACHcard's2large+2smallflowerscountable. Do notomitcards,donotshowonly6singleflowers. Keepcolourgroupsandlargesmallsizecontrastsource. Removehand/pricebanner/shop. Detail standalone tightmacroofactualBLUEpetalandgreenishflowercentre/hinge, notwholeassortment. AccurateheadingMixed Frangipani Hair Claw Sets.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-8bc0cdb0-2683-4334-aa35-1b4f3399eb5a.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Mixed Frangipani Hair Claw Sets\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment SIX different colourSETCARDS of glossyFIVE-PETAL frangipani/plumeria flowerhairclaws. Eachcardhas FOURclips: TWOlargeflowerclaws plusTWOsmallmatchingflowerclaws, total24clips. In sourceoneoftwolargeflowersonsomecardsishiddenpartlybycardheader; preservebothlargeones. SIXcolours exactly:CORALRED,PALEYELLOW,ORANGE,PALELAVENDER,HOTPINK,BRIGHTBLUEwithgreenishcentre. Eachglossyfivebroadpetalflowerhasintensecolouredcentre fadingtolighteredges andclearplasticclawbehind. Fullviews1/2/3/5 show ALLSIXcolourcards TOGETHER, 2columns3rows or3columns2rowswithin eachcell; EACHcard's2large+2smallflowerscountable. Do notomitcards,donotshowonly6singleflowers. Keepcolourgroupsandlargesmallsizecontrastsource. Removehand/pricebanner/shop. Detail standalone tightmacroofactualBLUEpetalandgreenishflowercentre/hinge, notwholeassortment. AccurateheadingMixed Frangipani Hair Claw Sets.",
+      "sha256": "a2ada89cf57d53984759bb1ca4472f4cad07f3faede5a06d610b82f3405d22df",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-8bc0cdb0-2683-4334-aa35-1b4f3399eb5a.png",
+      "grid_sha256": "2da6a7ad5e9e358825853fc3f2a2b66cd12388e3dc5cc5b6348ccb174a9e7ce2",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-8bc0cdb0-2683-4334-aa35-1b4f3399eb5a.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Mixed Frangipani Hair Claw Sets\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment SIX different colourSETCARDS of glossyFIVE-PETAL frangipani/plumeria flowerhairclaws. Eachcardhas FOURclips: TWOlargeflowerclaws plusTWOsmallmatchingflowerclaws, total24clips. In sourceoneoftwolargeflowersonsomecardsishiddenpartlybycardheader; preservebothlargeones. SIXcolours exactly:CORALRED,PALEYELLOW,ORANGE,PALELAVENDER,HOTPINK,BRIGHTBLUEwithgreenishcentre. Eachglossyfivebroadpetalflowerhasintensecolouredcentre fadingtolighteredges andclearplasticclawbehind. Fullviews1/2/3/5 show ALLSIXcolourcards TOGETHER, 2columns3rows or3columns2rowswithin eachcell; EACHcard's2large+2smallflowerscountable. Do notomitcards,donotshowonly6singleflowers. Keepcolourgroupsandlargesmallsizecontrastsource. Removehand/pricebanner/shop. Detail standalone tightmacroofactualBLUEpetalandgreenishflowercentre/hinge, notwholeassortment. AccurateheadingMixed Frangipani Hair Claw Sets.",
+      "sha256": "86d6c97ce9d8484a1fc3bc88c66f3c7cb330e26ed2b4c0e5dad4cf5a73e8f268",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-8bc0cdb0-2683-4334-aa35-1b4f3399eb5a.png",
+      "grid_sha256": "2da6a7ad5e9e358825853fc3f2a2b66cd12388e3dc5cc5b6348ccb174a9e7ce2",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-8bc0cdb0-2683-4334-aa35-1b4f3399eb5a.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Mixed Frangipani Hair Claw Sets\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment SIX different colourSETCARDS of glossyFIVE-PETAL frangipani/plumeria flowerhairclaws. Eachcardhas FOURclips: TWOlargeflowerclaws plusTWOsmallmatchingflowerclaws, total24clips. In sourceoneoftwolargeflowersonsomecardsishiddenpartlybycardheader; preservebothlargeones. SIXcolours exactly:CORALRED,PALEYELLOW,ORANGE,PALELAVENDER,HOTPINK,BRIGHTBLUEwithgreenishcentre. Eachglossyfivebroadpetalflowerhasintensecolouredcentre fadingtolighteredges andclearplasticclawbehind. Fullviews1/2/3/5 show ALLSIXcolourcards TOGETHER, 2columns3rows or3columns2rowswithin eachcell; EACHcard's2large+2smallflowerscountable. Do notomitcards,donotshowonly6singleflowers. Keepcolourgroupsandlargesmallsizecontrastsource. Removehand/pricebanner/shop. Detail standalone tightmacroofactualBLUEpetalandgreenishflowercentre/hinge, notwholeassortment. AccurateheadingMixed Frangipani Hair Claw Sets.",
+      "sha256": "f2409692459e1baaaee1b54125d6987446c442f662f261ed504ab0de632d670c",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-8bc0cdb0-2683-4334-aa35-1b4f3399eb5a.png",
+      "grid_sha256": "2da6a7ad5e9e358825853fc3f2a2b66cd12388e3dc5cc5b6348ccb174a9e7ce2",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-8bc0cdb0-2683-4334-aa35-1b4f3399eb5a.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Mixed Frangipani Hair Claw Sets\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment SIX different colourSETCARDS of glossyFIVE-PETAL frangipani/plumeria flowerhairclaws. Eachcardhas FOURclips: TWOlargeflowerclaws plusTWOsmallmatchingflowerclaws, total24clips. In sourceoneoftwolargeflowersonsomecardsishiddenpartlybycardheader; preservebothlargeones. SIXcolours exactly:CORALRED,PALEYELLOW,ORANGE,PALELAVENDER,HOTPINK,BRIGHTBLUEwithgreenishcentre. Eachglossyfivebroadpetalflowerhasintensecolouredcentre fadingtolighteredges andclearplasticclawbehind. Fullviews1/2/3/5 show ALLSIXcolourcards TOGETHER, 2columns3rows or3columns2rowswithin eachcell; EACHcard's2large+2smallflowerscountable. Do notomitcards,donotshowonly6singleflowers. Keepcolourgroupsandlargesmallsizecontrastsource. Removehand/pricebanner/shop. Detail standalone tightmacroofactualBLUEpetalandgreenishflowercentre/hinge, notwholeassortment. AccurateheadingMixed Frangipani Hair Claw Sets.",
+      "sha256": "c3ae9600a3634ff200044e7a60dbcacf5193167cd4dbe1b72e4d3e51bde7bbae",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-8bc0cdb0-2683-4334-aa35-1b4f3399eb5a.png",
+      "grid_sha256": "2da6a7ad5e9e358825853fc3f2a2b66cd12388e3dc5cc5b6348ccb174a9e7ce2",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-8bc0cdb0-2683-4334-aa35-1b4f3399eb5a.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Mixed Frangipani Hair Claw Sets\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment SIX different colourSETCARDS of glossyFIVE-PETAL frangipani/plumeria flowerhairclaws. Eachcardhas FOURclips: TWOlargeflowerclaws plusTWOsmallmatchingflowerclaws, total24clips. In sourceoneoftwolargeflowersonsomecardsishiddenpartlybycardheader; preservebothlargeones. SIXcolours exactly:CORALRED,PALEYELLOW,ORANGE,PALELAVENDER,HOTPINK,BRIGHTBLUEwithgreenishcentre. Eachglossyfivebroadpetalflowerhasintensecolouredcentre fadingtolighteredges andclearplasticclawbehind. Fullviews1/2/3/5 show ALLSIXcolourcards TOGETHER, 2columns3rows or3columns2rowswithin eachcell; EACHcard's2large+2smallflowerscountable. Do notomitcards,donotshowonly6singleflowers. Keepcolourgroupsandlargesmallsizecontrastsource. Removehand/pricebanner/shop. Detail standalone tightmacroofactualBLUEpetalandgreenishflowercentre/hinge, notwholeassortment. AccurateheadingMixed Frangipani Hair Claw Sets.",
+      "sha256": "1cc6089213c13231093f511fe1e6076f84f7568a3a81f6a1dca083fa5063b3bc",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-8bc0cdb0-2683-4334-aa35-1b4f3399eb5a.png",
+      "grid_sha256": "2da6a7ad5e9e358825853fc3f2a2b66cd12388e3dc5cc5b6348ccb174a9e7ce2",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

@@ -30715,27 +30715,31 @@
   },
   {
     "product_id": "2518",
-    "folder": "2518_Mixed-Flower-Claw-Sets-0",
+    "folder": "2518_Mixed-Flower-Claw-Sets-1",
     "source_image_ids": [
       2820
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2518-2618",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2519",
-    "folder": "2519_White-Daisy-Claws-0",
+    "folder": "2519_White-Daisy-Claws-1",
     "source_image_ids": [
       2821
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2518-2618",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2520",

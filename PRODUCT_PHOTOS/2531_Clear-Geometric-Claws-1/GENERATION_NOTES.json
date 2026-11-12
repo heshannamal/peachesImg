@@ -1,0 +1,203 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260929-WA0219.jpg": "1898e797112a3cbbcb9a4ba018677e4c5fbb9f93e03c06147f98eafbe1bb1f48"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-07680377-555d-4cca-bea9-c183f1837c47.png",
+      "source_output": "/workspace/generated_images/exec-07680377-555d-4cca-bea9-c183f1837c47.png",
+      "sha256": "6c817315e0926ddfe72b48ec88e9d147b58b1794cc40d960d1ba8e34251ba508",
+      "prompt": "Native faithful edit of suppliedactualoriginal into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Preserve originalWHOLEassortment EXACTLY12clearplastic pearl-adorned hairclaws onTWOlongwhitecards withSIXclips each. Preserve transparentivory plastic,whitefauxpearls,outlines,matchingrectangulartexturedhingetab/visiblemetalspring. Removehand/store/priceoverlay/outerplastic only. Fullviews showall12,countable2cards6each. Toprowwhite,lavendercreamstyled,naturalvanitylifestyle. Bottomrowtightstandalone pearl-edge/hinge REALPARTmacro only,promotionalall12plusaccurateheading,unusedblankcream. Exactboundaries512/1024/512,nogutters/borders. Exact2531shapeis angular BOW/BUTTERFLY outline clearhairclaws withmultiplecurvedtriangular/openwings, whitepearls outlining two broad bowloops and smallpearl-covered rectangularhingetab. NOTplaincircles. Preserve originalbowoutline andpearlpatternexactly,eachpair6oncard. Heading 'Pearl Bow Hair Claws'.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "Rejected/initial_01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-07680377-555d-4cca-bea9-c183f1837c47.png",
+      "prompt": "Native faithful edit of suppliedactualoriginal into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Preserve originalWHOLEassortment EXACTLY12clearplastic pearl-adorned hairclaws onTWOlongwhitecards withSIXclips each. Preserve transparentivory plastic,whitefauxpearls,outlines,matchingrectangulartexturedhingetab/visiblemetalspring. Removehand/store/priceoverlay/outerplastic only. Fullviews showall12,countable2cards6each. Toprowwhite,lavendercreamstyled,naturalvanitylifestyle. Bottomrowtightstandalone pearl-edge/hinge REALPARTmacro only,promotionalall12plusaccurateheading,unusedblankcream. Exactboundaries512/1024/512,nogutters/borders. Exact2531shapeis angular BOW/BUTTERFLY outline clearhairclaws withmultiplecurvedtriangular/openwings, whitepearls outlining two broad bowloops and smallpearl-covered rectangularhingetab. NOTplaincircles. Preserve originalbowoutline andpearlpatternexactly,eachpair6oncard. Heading 'Pearl Bow Hair Claws'.\n",
+      "sha256": "883a4394339fe11eb2d6a61ef13f6be25983dbac35d400696305c4b28ba511e7",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-07680377-555d-4cca-bea9-c183f1837c47.png",
+      "grid_sha256": "6c817315e0926ddfe72b48ec88e9d147b58b1794cc40d960d1ba8e34251ba508",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Rejected: topfullviews10clips5percard instead12clips6percard;countmaterialerror."
+    },
+    {
+      "saved_file": "Rejected/initial_02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-07680377-555d-4cca-bea9-c183f1837c47.png",
+      "prompt": "Native faithful edit of suppliedactualoriginal into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Preserve originalWHOLEassortment EXACTLY12clearplastic pearl-adorned hairclaws onTWOlongwhitecards withSIXclips each. Preserve transparentivory plastic,whitefauxpearls,outlines,matchingrectangulartexturedhingetab/visiblemetalspring. Removehand/store/priceoverlay/outerplastic only. Fullviews showall12,countable2cards6each. Toprowwhite,lavendercreamstyled,naturalvanitylifestyle. Bottomrowtightstandalone pearl-edge/hinge REALPARTmacro only,promotionalall12plusaccurateheading,unusedblankcream. Exactboundaries512/1024/512,nogutters/borders. Exact2531shapeis angular BOW/BUTTERFLY outline clearhairclaws withmultiplecurvedtriangular/openwings, whitepearls outlining two broad bowloops and smallpearl-covered rectangularhingetab. NOTplaincircles. Preserve originalbowoutline andpearlpatternexactly,eachpair6oncard. Heading 'Pearl Bow Hair Claws'.\n",
+      "sha256": "a5c169ede2a9986db7ede5b94c611321d9595d387d889e1bb268d2277ab62747",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-07680377-555d-4cca-bea9-c183f1837c47.png",
+      "grid_sha256": "6c817315e0926ddfe72b48ec88e9d147b58b1794cc40d960d1ba8e34251ba508",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Rejected: topfullviews10clips5percard instead12clips6percard;countmaterialerror."
+    },
+    {
+      "saved_file": "Rejected/initial_03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-07680377-555d-4cca-bea9-c183f1837c47.png",
+      "prompt": "Native faithful edit of suppliedactualoriginal into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Preserve originalWHOLEassortment EXACTLY12clearplastic pearl-adorned hairclaws onTWOlongwhitecards withSIXclips each. Preserve transparentivory plastic,whitefauxpearls,outlines,matchingrectangulartexturedhingetab/visiblemetalspring. Removehand/store/priceoverlay/outerplastic only. Fullviews showall12,countable2cards6each. Toprowwhite,lavendercreamstyled,naturalvanitylifestyle. Bottomrowtightstandalone pearl-edge/hinge REALPARTmacro only,promotionalall12plusaccurateheading,unusedblankcream. Exactboundaries512/1024/512,nogutters/borders. Exact2531shapeis angular BOW/BUTTERFLY outline clearhairclaws withmultiplecurvedtriangular/openwings, whitepearls outlining two broad bowloops and smallpearl-covered rectangularhingetab. NOTplaincircles. Preserve originalbowoutline andpearlpatternexactly,eachpair6oncard. Heading 'Pearl Bow Hair Claws'.\n",
+      "sha256": "9df059a750973fb5149c0e4af566727b5acae044d87af6e22c71e4b4217f4f49",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-07680377-555d-4cca-bea9-c183f1837c47.png",
+      "grid_sha256": "6c817315e0926ddfe72b48ec88e9d147b58b1794cc40d960d1ba8e34251ba508",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Rejected: topfullviews10clips5percard instead12clips6percard;countmaterialerror."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-07680377-555d-4cca-bea9-c183f1837c47.png",
+      "prompt": "Native faithful edit of suppliedactualoriginal into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Preserve originalWHOLEassortment EXACTLY12clearplastic pearl-adorned hairclaws onTWOlongwhitecards withSIXclips each. Preserve transparentivory plastic,whitefauxpearls,outlines,matchingrectangulartexturedhingetab/visiblemetalspring. Removehand/store/priceoverlay/outerplastic only. Fullviews showall12,countable2cards6each. Toprowwhite,lavendercreamstyled,naturalvanitylifestyle. Bottomrowtightstandalone pearl-edge/hinge REALPARTmacro only,promotionalall12plusaccurateheading,unusedblankcream. Exactboundaries512/1024/512,nogutters/borders. Exact2531shapeis angular BOW/BUTTERFLY outline clearhairclaws withmultiplecurvedtriangular/openwings, whitepearls outlining two broad bowloops and smallpearl-covered rectangularhingetab. NOTplaincircles. Preserve originalbowoutline andpearlpatternexactly,eachpair6oncard. Heading 'Pearl Bow Hair Claws'.\n",
+      "sha256": "e3424fb466c84a8c33800d75f69bfb5380495b2bd32bde3d9180f49d3faa7c24",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-07680377-555d-4cca-bea9-c183f1837c47.png",
+      "grid_sha256": "6c817315e0926ddfe72b48ec88e9d147b58b1794cc40d960d1ba8e34251ba508",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Pass: correctivefullviews01/02/03show12pearlbowclaws2cards6each, sourceclearivorybowoutline/whitepearls/springtabretained. Validinitialdetailandpromo12bows3rows4preserved. Original/outputSHAverified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-07680377-555d-4cca-bea9-c183f1837c47.png",
+      "prompt": "Native faithful edit of suppliedactualoriginal into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Preserve originalWHOLEassortment EXACTLY12clearplastic pearl-adorned hairclaws onTWOlongwhitecards withSIXclips each. Preserve transparentivory plastic,whitefauxpearls,outlines,matchingrectangulartexturedhingetab/visiblemetalspring. Removehand/store/priceoverlay/outerplastic only. Fullviews showall12,countable2cards6each. Toprowwhite,lavendercreamstyled,naturalvanitylifestyle. Bottomrowtightstandalone pearl-edge/hinge REALPARTmacro only,promotionalall12plusaccurateheading,unusedblankcream. Exactboundaries512/1024/512,nogutters/borders. Exact2531shapeis angular BOW/BUTTERFLY outline clearhairclaws withmultiplecurvedtriangular/openwings, whitepearls outlining two broad bowloops and smallpearl-covered rectangularhingetab. NOTplaincircles. Preserve originalbowoutline andpearlpatternexactly,eachpair6oncard. Heading 'Pearl Bow Hair Claws'.\n",
+      "sha256": "f8221053078df92bd8ee869303bc2bf8252fe828d8e79844271a9d48586ecbfc",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-07680377-555d-4cca-bea9-c183f1837c47.png",
+      "grid_sha256": "6c817315e0926ddfe72b48ec88e9d147b58b1794cc40d960d1ba8e34251ba508",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Pass: correctivefullviews01/02/03show12pearlbowclaws2cards6each, sourceclearivorybowoutline/whitepearls/springtabretained. Validinitialdetailandpromo12bows3rows4preserved. Original/outputSHAverified."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-29eb1332-6297-4331-9333-7783da2f449b.png",
+      "source_output": "/workspace/generated_images/exec-29eb1332-6297-4331-9333-7783da2f449b.png",
+      "sha256": "115aaab57eeeac48087c2460e1d34f5688eb89b546206a1c946f5ff60351b16b",
+      "prompt": "Native faithful edit of suppliedactualoriginal into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Preserve originalWHOLEassortment EXACTLY12clearplastic pearl-adorned hairclaws onTWOlongwhitecards withSIXclips each. Preserve transparentivory plastic,whitefauxpearls,outlines,matchingrectangulartexturedhingetab/visiblemetalspring. Removehand/store/priceoverlay/outerplastic only. Fullviews showall12,countable2cards6each. Toprowwhite,lavendercreamstyled,naturalvanitylifestyle. Bottomrowtightstandalone pearl-edge/hinge REALPARTmacro only,promotionalall12plusaccurateheading,unusedblankcream. Exactboundaries512/1024/512,nogutters/borders. Exact2531shapeis angular BOW/BUTTERFLY outline clearhairclaws withmultiplecurvedtriangular/openwings, whitepearls outlining two broad bowloops and smallpearl-covered rectangularhingetab. NOTplaincircles. Preserve originalbowoutline andpearlpatternexactly,eachpair6oncard. Heading 'Pearl Bow Hair Claws'.\n\nCORRECTIVE ONE ALLOWED: previous topfullviewswrongly10(5percard). In EACH TOP CELL make TWO whitecards with SIX pearlbowclawspercard, EXACT6ROWS x2COLUMNS=12. Count6rows explicitly1,2,3,4,5,6; no5rows. Bottomdetailandpromopassedwillbepreserved. Referenceactualoriginal12bows. Allotheridentityrulespreserved.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-29eb1332-6297-4331-9333-7783da2f449b.png",
+      "prompt": "Native faithful edit of suppliedactualoriginal into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Preserve originalWHOLEassortment EXACTLY12clearplastic pearl-adorned hairclaws onTWOlongwhitecards withSIXclips each. Preserve transparentivory plastic,whitefauxpearls,outlines,matchingrectangulartexturedhingetab/visiblemetalspring. Removehand/store/priceoverlay/outerplastic only. Fullviews showall12,countable2cards6each. Toprowwhite,lavendercreamstyled,naturalvanitylifestyle. Bottomrowtightstandalone pearl-edge/hinge REALPARTmacro only,promotionalall12plusaccurateheading,unusedblankcream. Exactboundaries512/1024/512,nogutters/borders. Exact2531shapeis angular BOW/BUTTERFLY outline clearhairclaws withmultiplecurvedtriangular/openwings, whitepearls outlining two broad bowloops and smallpearl-covered rectangularhingetab. NOTplaincircles. Preserve originalbowoutline andpearlpatternexactly,eachpair6oncard. Heading 'Pearl Bow Hair Claws'.\n\nCORRECTIVE ONE ALLOWED: previous topfullviewswrongly10(5percard). In EACH TOP CELL make TWO whitecards with SIX pearlbowclawspercard, EXACT6ROWS x2COLUMNS=12. Count6rows explicitly1,2,3,4,5,6; no5rows. Bottomdetailandpromopassedwillbepreserved. Referenceactualoriginal12bows. Allotheridentityrulespreserved.\n",
+      "sha256": "63e574820f0073be3a18e183271e03637f8f78f2335168515405392c822d5694",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-29eb1332-6297-4331-9333-7783da2f449b.png",
+      "grid_sha256": "115aaab57eeeac48087c2460e1d34f5688eb89b546206a1c946f5ff60351b16b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Pass: correctivefullviews01/02/03show12pearlbowclaws2cards6each, sourceclearivorybowoutline/whitepearls/springtabretained. Validinitialdetailandpromo12bows3rows4preserved. Original/outputSHAverified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-29eb1332-6297-4331-9333-7783da2f449b.png",
+      "prompt": "Native faithful edit of suppliedactualoriginal into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Preserve originalWHOLEassortment EXACTLY12clearplastic pearl-adorned hairclaws onTWOlongwhitecards withSIXclips each. Preserve transparentivory plastic,whitefauxpearls,outlines,matchingrectangulartexturedhingetab/visiblemetalspring. Removehand/store/priceoverlay/outerplastic only. Fullviews showall12,countable2cards6each. Toprowwhite,lavendercreamstyled,naturalvanitylifestyle. Bottomrowtightstandalone pearl-edge/hinge REALPARTmacro only,promotionalall12plusaccurateheading,unusedblankcream. Exactboundaries512/1024/512,nogutters/borders. Exact2531shapeis angular BOW/BUTTERFLY outline clearhairclaws withmultiplecurvedtriangular/openwings, whitepearls outlining two broad bowloops and smallpearl-covered rectangularhingetab. NOTplaincircles. Preserve originalbowoutline andpearlpatternexactly,eachpair6oncard. Heading 'Pearl Bow Hair Claws'.\n\nCORRECTIVE ONE ALLOWED: previous topfullviewswrongly10(5percard). In EACH TOP CELL make TWO whitecards with SIX pearlbowclawspercard, EXACT6ROWS x2COLUMNS=12. Count6rows explicitly1,2,3,4,5,6; no5rows. Bottomdetailandpromopassedwillbepreserved. Referenceactualoriginal12bows. Allotheridentityrulespreserved.\n",
+      "sha256": "208279f3abe0efc1cda0e856b9e871598e9dfacdd7ec256490e65e408e377621",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-29eb1332-6297-4331-9333-7783da2f449b.png",
+      "grid_sha256": "115aaab57eeeac48087c2460e1d34f5688eb89b546206a1c946f5ff60351b16b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Pass: correctivefullviews01/02/03show12pearlbowclaws2cards6each, sourceclearivorybowoutline/whitepearls/springtabretained. Validinitialdetailandpromo12bows3rows4preserved. Original/outputSHAverified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-29eb1332-6297-4331-9333-7783da2f449b.png",
+      "prompt": "Native faithful edit of suppliedactualoriginal into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Preserve originalWHOLEassortment EXACTLY12clearplastic pearl-adorned hairclaws onTWOlongwhitecards withSIXclips each. Preserve transparentivory plastic,whitefauxpearls,outlines,matchingrectangulartexturedhingetab/visiblemetalspring. Removehand/store/priceoverlay/outerplastic only. Fullviews showall12,countable2cards6each. Toprowwhite,lavendercreamstyled,naturalvanitylifestyle. Bottomrowtightstandalone pearl-edge/hinge REALPARTmacro only,promotionalall12plusaccurateheading,unusedblankcream. Exactboundaries512/1024/512,nogutters/borders. Exact2531shapeis angular BOW/BUTTERFLY outline clearhairclaws withmultiplecurvedtriangular/openwings, whitepearls outlining two broad bowloops and smallpearl-covered rectangularhingetab. NOTplaincircles. Preserve originalbowoutline andpearlpatternexactly,eachpair6oncard. Heading 'Pearl Bow Hair Claws'.\n\nCORRECTIVE ONE ALLOWED: previous topfullviewswrongly10(5percard). In EACH TOP CELL make TWO whitecards with SIX pearlbowclawspercard, EXACT6ROWS x2COLUMNS=12. Count6rows explicitly1,2,3,4,5,6; no5rows. Bottomdetailandpromopassedwillbepreserved. Referenceactualoriginal12bows. Allotheridentityrulespreserved.\n",
+      "sha256": "e12eb898b7907dc326fd353d74693b7bd4e14c1d2015a835b59e16ac880caa7b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-29eb1332-6297-4331-9333-7783da2f449b.png",
+      "grid_sha256": "115aaab57eeeac48087c2460e1d34f5688eb89b546206a1c946f5ff60351b16b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Pass: correctivefullviews01/02/03show12pearlbowclaws2cards6each, sourceclearivorybowoutline/whitepearls/springtabretained. Validinitialdetailandpromo12bows3rows4preserved. Original/outputSHAverified."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "01_White-Background": 1,
+    "02_Styled-Background": 1,
+    "03_Lifestyle": 1
+  }
+}

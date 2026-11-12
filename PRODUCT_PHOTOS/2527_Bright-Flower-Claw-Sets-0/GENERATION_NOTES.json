@@ -1,0 +1,123 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260929-WA0198.jpg": "991991120cab98c5725aafbc9c94679d1af40f2cbf2d3cb3666b7424ee3a37ca"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-ef555242-ad7d-4564-9617-980b58352723.png",
+      "source_output": "/workspace/generated_images/exec-ef555242-ad7d-4564-9617-980b58352723.png",
+      "sha256": "2afbc456124e775370914790af5da3306511cfaab439620ee4111dd24ee9f071",
+      "prompt": "Edit the attached actualoriginal intoONE1536x1024 websitecontactsheet, exactly3columns2rows,512squarecells,no gutters. Toprow: purewhitefullassortment; lavendercreamstyledfullassortment; vanitytablelifestylefullassortment. Bottomrow: standalone tightrealpartmacro; fullassortment promotionalaccurateheading; blankcream. Keepallproductswithineachcell. Preserve actualvisibleassortment count/identity/shapes/colours, noextras; removehand,shopbackground,outerbag,oldpriceoverlay. ActualvisibleproductSIXwhitecards in2columns3rows, eachcardONElarge+TWOsmall fivepetalplumeriaflowerhairclaws,18flowers total. Sixcardcolours: leftcolumn pale pink,green,magenta; rightcolumn purple,red,skyblue. Everyflower haswhiteinnerpetals/yellowcentre andcolouredpetaltips. Preserveoriginal3flowerspercardwithrealclawteeth/hingesbehind,notlooseflowers. EveryfullviewshowsALL6cards18flowers, not12cards/36flowers. Macro standalone tightactualpinkflowerpetals/yellowcentre andclawhingesection. Promotionalheading \"Plumeria Hair Claw Sets\". Accuratecardcount6; oldwholesaletext12setsnotinstructiontoinventoffscreenproducts.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-ef555242-ad7d-4564-9617-980b58352723.png",
+      "prompt": "Edit the attached actualoriginal intoONE1536x1024 websitecontactsheet, exactly3columns2rows,512squarecells,no gutters. Toprow: purewhitefullassortment; lavendercreamstyledfullassortment; vanitytablelifestylefullassortment. Bottomrow: standalone tightrealpartmacro; fullassortment promotionalaccurateheading; blankcream. Keepallproductswithineachcell. Preserve actualvisibleassortment count/identity/shapes/colours, noextras; removehand,shopbackground,outerbag,oldpriceoverlay. ActualvisibleproductSIXwhitecards in2columns3rows, eachcardONElarge+TWOsmall fivepetalplumeriaflowerhairclaws,18flowers total. Sixcardcolours: leftcolumn pale pink,green,magenta; rightcolumn purple,red,skyblue. Everyflower haswhiteinnerpetals/yellowcentre andcolouredpetaltips. Preserveoriginal3flowerspercardwithrealclawteeth/hingesbehind,notlooseflowers. EveryfullviewshowsALL6cards18flowers, not12cards/36flowers. Macro standalone tightactualpinkflowerpetals/yellowcentre andclawhingesection. Promotionalheading \"Plumeria Hair Claw Sets\". Accuratecardcount6; oldwholesaletext12setsnotinstructiontoinventoffscreenproducts.",
+      "sha256": "cab497ccd97400f5c2889ab69d3c4673920ecdced2111e654904c85cb2397f28",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ef555242-ad7d-4564-9617-980b58352723.png",
+      "grid_sha256": "2afbc456124e775370914790af5da3306511cfaab439620ee4111dd24ee9f071",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-ef555242-ad7d-4564-9617-980b58352723.png",
+      "prompt": "Edit the attached actualoriginal intoONE1536x1024 websitecontactsheet, exactly3columns2rows,512squarecells,no gutters. Toprow: purewhitefullassortment; lavendercreamstyledfullassortment; vanitytablelifestylefullassortment. Bottomrow: standalone tightrealpartmacro; fullassortment promotionalaccurateheading; blankcream. Keepallproductswithineachcell. Preserve actualvisibleassortment count/identity/shapes/colours, noextras; removehand,shopbackground,outerbag,oldpriceoverlay. ActualvisibleproductSIXwhitecards in2columns3rows, eachcardONElarge+TWOsmall fivepetalplumeriaflowerhairclaws,18flowers total. Sixcardcolours: leftcolumn pale pink,green,magenta; rightcolumn purple,red,skyblue. Everyflower haswhiteinnerpetals/yellowcentre andcolouredpetaltips. Preserveoriginal3flowerspercardwithrealclawteeth/hingesbehind,notlooseflowers. EveryfullviewshowsALL6cards18flowers, not12cards/36flowers. Macro standalone tightactualpinkflowerpetals/yellowcentre andclawhingesection. Promotionalheading \"Plumeria Hair Claw Sets\". Accuratecardcount6; oldwholesaletext12setsnotinstructiontoinventoffscreenproducts.",
+      "sha256": "f764a735552480ed4218e10105e8d9388281569caf42d30c99529448b5bfdec3",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ef555242-ad7d-4564-9617-980b58352723.png",
+      "grid_sha256": "2afbc456124e775370914790af5da3306511cfaab439620ee4111dd24ee9f071",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-ef555242-ad7d-4564-9617-980b58352723.png",
+      "prompt": "Edit the attached actualoriginal intoONE1536x1024 websitecontactsheet, exactly3columns2rows,512squarecells,no gutters. Toprow: purewhitefullassortment; lavendercreamstyledfullassortment; vanitytablelifestylefullassortment. Bottomrow: standalone tightrealpartmacro; fullassortment promotionalaccurateheading; blankcream. Keepallproductswithineachcell. Preserve actualvisibleassortment count/identity/shapes/colours, noextras; removehand,shopbackground,outerbag,oldpriceoverlay. ActualvisibleproductSIXwhitecards in2columns3rows, eachcardONElarge+TWOsmall fivepetalplumeriaflowerhairclaws,18flowers total. Sixcardcolours: leftcolumn pale pink,green,magenta; rightcolumn purple,red,skyblue. Everyflower haswhiteinnerpetals/yellowcentre andcolouredpetaltips. Preserveoriginal3flowerspercardwithrealclawteeth/hingesbehind,notlooseflowers. EveryfullviewshowsALL6cards18flowers, not12cards/36flowers. Macro standalone tightactualpinkflowerpetals/yellowcentre andclawhingesection. Promotionalheading \"Plumeria Hair Claw Sets\". Accuratecardcount6; oldwholesaletext12setsnotinstructiontoinventoffscreenproducts.",
+      "sha256": "3980b56d4391e02a87a15d5ebb0ad4778989dda3b7c888660d6902f7afb0ff54",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ef555242-ad7d-4564-9617-980b58352723.png",
+      "grid_sha256": "2afbc456124e775370914790af5da3306511cfaab439620ee4111dd24ee9f071",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-ef555242-ad7d-4564-9617-980b58352723.png",
+      "prompt": "Edit the attached actualoriginal intoONE1536x1024 websitecontactsheet, exactly3columns2rows,512squarecells,no gutters. Toprow: purewhitefullassortment; lavendercreamstyledfullassortment; vanitytablelifestylefullassortment. Bottomrow: standalone tightrealpartmacro; fullassortment promotionalaccurateheading; blankcream. Keepallproductswithineachcell. Preserve actualvisibleassortment count/identity/shapes/colours, noextras; removehand,shopbackground,outerbag,oldpriceoverlay. ActualvisibleproductSIXwhitecards in2columns3rows, eachcardONElarge+TWOsmall fivepetalplumeriaflowerhairclaws,18flowers total. Sixcardcolours: leftcolumn pale pink,green,magenta; rightcolumn purple,red,skyblue. Everyflower haswhiteinnerpetals/yellowcentre andcolouredpetaltips. Preserveoriginal3flowerspercardwithrealclawteeth/hingesbehind,notlooseflowers. EveryfullviewshowsALL6cards18flowers, not12cards/36flowers. Macro standalone tightactualpinkflowerpetals/yellowcentre andclawhingesection. Promotionalheading \"Plumeria Hair Claw Sets\". Accuratecardcount6; oldwholesaletext12setsnotinstructiontoinventoffscreenproducts.",
+      "sha256": "8d9f04a6ee5b3dcd9f7a91162e3066591154d8c9936cb1a489632bd2be03a17d",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ef555242-ad7d-4564-9617-980b58352723.png",
+      "grid_sha256": "2afbc456124e775370914790af5da3306511cfaab439620ee4111dd24ee9f071",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        180,
+        630,
+        430,
+        880
+      ],
+      "mechanical_recrop_note": "Detailtightrealpart; promotionalbottomunsupported12setstripcroppedoffwithoutremoving6cards oraccurateheading."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-ef555242-ad7d-4564-9617-980b58352723.png",
+      "prompt": "Edit the attached actualoriginal intoONE1536x1024 websitecontactsheet, exactly3columns2rows,512squarecells,no gutters. Toprow: purewhitefullassortment; lavendercreamstyledfullassortment; vanitytablelifestylefullassortment. Bottomrow: standalone tightrealpartmacro; fullassortment promotionalaccurateheading; blankcream. Keepallproductswithineachcell. Preserve actualvisibleassortment count/identity/shapes/colours, noextras; removehand,shopbackground,outerbag,oldpriceoverlay. ActualvisibleproductSIXwhitecards in2columns3rows, eachcardONElarge+TWOsmall fivepetalplumeriaflowerhairclaws,18flowers total. Sixcardcolours: leftcolumn pale pink,green,magenta; rightcolumn purple,red,skyblue. Everyflower haswhiteinnerpetals/yellowcentre andcolouredpetaltips. Preserveoriginal3flowerspercardwithrealclawteeth/hingesbehind,notlooseflowers. EveryfullviewshowsALL6cards18flowers, not12cards/36flowers. Macro standalone tightactualpinkflowerpetals/yellowcentre andclawhingesection. Promotionalheading \"Plumeria Hair Claw Sets\". Accuratecardcount6; oldwholesaletext12setsnotinstructiontoinventoffscreenproducts.",
+      "sha256": "fb3340e2226ada4315a391f9599c8b3688c13ad7aa6b2c201a9a7de7aa4a991f",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ef555242-ad7d-4564-9617-980b58352723.png",
+      "grid_sha256": "2afbc456124e775370914790af5da3306511cfaab439620ee4111dd24ee9f071",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        946
+      ],
+      "mechanical_recrop_note": "Detailtightrealpart; promotionalbottomunsupported12setstripcroppedoffwithoutremoving6cards oraccurateheading."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

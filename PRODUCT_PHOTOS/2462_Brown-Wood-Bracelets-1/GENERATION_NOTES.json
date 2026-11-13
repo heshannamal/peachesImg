@@ -1,0 +1,126 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260922-WA0177.jpg": "c811daa157035a4de84951c7193d09621ff3f7a9cedf096f72f7f98b871d7a85"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-6bd4cb50-fc0a-451d-bef5-cb2cd6e332df.png",
+      "source_output": "/workspace/generated_images/exec-6bd4cb50-fc0a-451d-bef5-cb2cd6e332df.png",
+      "sha256": "80dd86b4c23ad4cd74376e8c509ae37b1449a5699b89c142e9bf3b0711d3cd7d",
+      "prompt": "Native faithful edit of supplied actual product photo into ONE website-ready landscape1536x1024 borderless3columns2rows equal512squarecells; exactsplits x512,x1024,y512. Preserve original whole assortment count,identity,shapes,colours. Remove hand,shop,floatingprice overlays only. Toprow WHITE fullassortment, lavender/creamstyled fullassortment,naturaldesktoplifestyle fullassortment. Bottomrow standalone TIGHTREALPARTmacro only,promotional fullassortment with accurateheading,blankcreamunused. No unrelated stocksubstitutes,missing or extraunits. Actual assortment THREE dark brown wooden beaded stretch bracelets, each circular loop has matte roundbrownwoodbeads, ONEblue/white/blackevil-eyeaccentbead andONEdarkroundedrectangularwoodplaque withGOLD Om symbol. Keep allTHREEbracelets withsameplaque/eyeidentity, beadshape/colour. Preserve overlap layout twohigher/oneleftlower. Do notdraw12bracelets despiteoldpriceoverlay. Detail tightrealOmplaque/adjacentwoodbeads. Heading 'Wood Bead Bracelets'.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-6bd4cb50-fc0a-451d-bef5-cb2cd6e332df.png",
+      "prompt": "Native faithful edit of supplied actual product photo into ONE website-ready landscape1536x1024 borderless3columns2rows equal512squarecells; exactsplits x512,x1024,y512. Preserve original whole assortment count,identity,shapes,colours. Remove hand,shop,floatingprice overlays only. Toprow WHITE fullassortment, lavender/creamstyled fullassortment,naturaldesktoplifestyle fullassortment. Bottomrow standalone TIGHTREALPARTmacro only,promotional fullassortment with accurateheading,blankcreamunused. No unrelated stocksubstitutes,missing or extraunits. Actual assortment THREE dark brown wooden beaded stretch bracelets, each circular loop has matte roundbrownwoodbeads, ONEblue/white/blackevil-eyeaccentbead andONEdarkroundedrectangularwoodplaque withGOLD Om symbol. Keep allTHREEbracelets withsameplaque/eyeidentity, beadshape/colour. Preserve overlap layout twohigher/oneleftlower. Do notdraw12bracelets despiteoldpriceoverlay. Detail tightrealOmplaque/adjacentwoodbeads. Heading 'Wood Bead Bracelets'.\n",
+      "sha256": "c49cf1bb1973d155f93dbe16b04cd4413ddf999318b21fc83284ce4ef04c7fc0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6bd4cb50-fc0a-451d-bef5-cb2cd6e332df.png",
+      "grid_sha256": "80dd86b4c23ad4cd74376e8c509ae37b1449a5699b89c142e9bf3b0711d3cd7d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Pass: fourfullviews preserveTHREEwoodbeadbracelets,eachgoldOmplaque+blueevil-eyeaccent; browndarkmattebeads/plaqueformmatchsource. TightOmplaque/woodgrainmacro,accurateheading,clean512crops. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-6bd4cb50-fc0a-451d-bef5-cb2cd6e332df.png",
+      "prompt": "Native faithful edit of supplied actual product photo into ONE website-ready landscape1536x1024 borderless3columns2rows equal512squarecells; exactsplits x512,x1024,y512. Preserve original whole assortment count,identity,shapes,colours. Remove hand,shop,floatingprice overlays only. Toprow WHITE fullassortment, lavender/creamstyled fullassortment,naturaldesktoplifestyle fullassortment. Bottomrow standalone TIGHTREALPARTmacro only,promotional fullassortment with accurateheading,blankcreamunused. No unrelated stocksubstitutes,missing or extraunits. Actual assortment THREE dark brown wooden beaded stretch bracelets, each circular loop has matte roundbrownwoodbeads, ONEblue/white/blackevil-eyeaccentbead andONEdarkroundedrectangularwoodplaque withGOLD Om symbol. Keep allTHREEbracelets withsameplaque/eyeidentity, beadshape/colour. Preserve overlap layout twohigher/oneleftlower. Do notdraw12bracelets despiteoldpriceoverlay. Detail tightrealOmplaque/adjacentwoodbeads. Heading 'Wood Bead Bracelets'.\n",
+      "sha256": "27bdf30f4088dcb5e5f97c107268e79c507722809d382396b6064d6bf746409d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6bd4cb50-fc0a-451d-bef5-cb2cd6e332df.png",
+      "grid_sha256": "80dd86b4c23ad4cd74376e8c509ae37b1449a5699b89c142e9bf3b0711d3cd7d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Pass: fourfullviews preserveTHREEwoodbeadbracelets,eachgoldOmplaque+blueevil-eyeaccent; browndarkmattebeads/plaqueformmatchsource. TightOmplaque/woodgrainmacro,accurateheading,clean512crops. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-6bd4cb50-fc0a-451d-bef5-cb2cd6e332df.png",
+      "prompt": "Native faithful edit of supplied actual product photo into ONE website-ready landscape1536x1024 borderless3columns2rows equal512squarecells; exactsplits x512,x1024,y512. Preserve original whole assortment count,identity,shapes,colours. Remove hand,shop,floatingprice overlays only. Toprow WHITE fullassortment, lavender/creamstyled fullassortment,naturaldesktoplifestyle fullassortment. Bottomrow standalone TIGHTREALPARTmacro only,promotional fullassortment with accurateheading,blankcreamunused. No unrelated stocksubstitutes,missing or extraunits. Actual assortment THREE dark brown wooden beaded stretch bracelets, each circular loop has matte roundbrownwoodbeads, ONEblue/white/blackevil-eyeaccentbead andONEdarkroundedrectangularwoodplaque withGOLD Om symbol. Keep allTHREEbracelets withsameplaque/eyeidentity, beadshape/colour. Preserve overlap layout twohigher/oneleftlower. Do notdraw12bracelets despiteoldpriceoverlay. Detail tightrealOmplaque/adjacentwoodbeads. Heading 'Wood Bead Bracelets'.\n",
+      "sha256": "d633f6e232f3d3b97030d9810241324cfc8cf3f601f668c562ff0f9a2ec28a23",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6bd4cb50-fc0a-451d-bef5-cb2cd6e332df.png",
+      "grid_sha256": "80dd86b4c23ad4cd74376e8c509ae37b1449a5699b89c142e9bf3b0711d3cd7d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Pass: fourfullviews preserveTHREEwoodbeadbracelets,eachgoldOmplaque+blueevil-eyeaccent; browndarkmattebeads/plaqueformmatchsource. TightOmplaque/woodgrainmacro,accurateheading,clean512crops. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-6bd4cb50-fc0a-451d-bef5-cb2cd6e332df.png",
+      "prompt": "Native faithful edit of supplied actual product photo into ONE website-ready landscape1536x1024 borderless3columns2rows equal512squarecells; exactsplits x512,x1024,y512. Preserve original whole assortment count,identity,shapes,colours. Remove hand,shop,floatingprice overlays only. Toprow WHITE fullassortment, lavender/creamstyled fullassortment,naturaldesktoplifestyle fullassortment. Bottomrow standalone TIGHTREALPARTmacro only,promotional fullassortment with accurateheading,blankcreamunused. No unrelated stocksubstitutes,missing or extraunits. Actual assortment THREE dark brown wooden beaded stretch bracelets, each circular loop has matte roundbrownwoodbeads, ONEblue/white/blackevil-eyeaccentbead andONEdarkroundedrectangularwoodplaque withGOLD Om symbol. Keep allTHREEbracelets withsameplaque/eyeidentity, beadshape/colour. Preserve overlap layout twohigher/oneleftlower. Do notdraw12bracelets despiteoldpriceoverlay. Detail tightrealOmplaque/adjacentwoodbeads. Heading 'Wood Bead Bracelets'.\n",
+      "sha256": "afdbc2f75f23d2a9904e930483d0ecb754b8db5825c2faed4425985ecc755522",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6bd4cb50-fc0a-451d-bef5-cb2cd6e332df.png",
+      "grid_sha256": "80dd86b4c23ad4cd74376e8c509ae37b1449a5699b89c142e9bf3b0711d3cd7d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Pass: fourfullviews preserveTHREEwoodbeadbracelets,eachgoldOmplaque+blueevil-eyeaccent; browndarkmattebeads/plaqueformmatchsource. TightOmplaque/woodgrainmacro,accurateheading,clean512crops. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-6bd4cb50-fc0a-451d-bef5-cb2cd6e332df.png",
+      "prompt": "Native faithful edit of supplied actual product photo into ONE website-ready landscape1536x1024 borderless3columns2rows equal512squarecells; exactsplits x512,x1024,y512. Preserve original whole assortment count,identity,shapes,colours. Remove hand,shop,floatingprice overlays only. Toprow WHITE fullassortment, lavender/creamstyled fullassortment,naturaldesktoplifestyle fullassortment. Bottomrow standalone TIGHTREALPARTmacro only,promotional fullassortment with accurateheading,blankcreamunused. No unrelated stocksubstitutes,missing or extraunits. Actual assortment THREE dark brown wooden beaded stretch bracelets, each circular loop has matte roundbrownwoodbeads, ONEblue/white/blackevil-eyeaccentbead andONEdarkroundedrectangularwoodplaque withGOLD Om symbol. Keep allTHREEbracelets withsameplaque/eyeidentity, beadshape/colour. Preserve overlap layout twohigher/oneleftlower. Do notdraw12bracelets despiteoldpriceoverlay. Detail tightrealOmplaque/adjacentwoodbeads. Heading 'Wood Bead Bracelets'.\n",
+      "sha256": "242da16638682a8a8bf548d7b85137149bf840bde0cd0fdec73330a804d11875",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6bd4cb50-fc0a-451d-bef5-cb2cd6e332df.png",
+      "grid_sha256": "80dd86b4c23ad4cd74376e8c509ae37b1449a5699b89c142e9bf3b0711d3cd7d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Pass: fourfullviews preserveTHREEwoodbeadbracelets,eachgoldOmplaque+blueevil-eyeaccent; browndarkmattebeads/plaqueformmatchsource. TightOmplaque/woodgrainmacro,accurateheading,clean512crops. Frozenoriginal/outputSHAverified."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

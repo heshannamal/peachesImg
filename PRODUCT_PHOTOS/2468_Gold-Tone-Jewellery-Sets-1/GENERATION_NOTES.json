@@ -1,0 +1,130 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260922-WA0251.jpg": "05fede045eb549cdc58c4158157ebcc0f61ea256bbfc983bf949068e141fac81",
+    "Originals/IMG-20260922-WA0252.jpg": "86ac49db867afd27c6fb37ec2f6de8ce4b86f7f46eace729899202257732767e"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-3cc2b56a-0d15-4ad7-be55-bc809c98fa4d.png",
+      "source_output": "/workspace/generated_images/exec-3cc2b56a-0d15-4ad7-be55-bc809c98fa4d.png",
+      "sha256": "0aa1db2f0677951720bf89a50df89fe085e863e86833cc5fc317cf886d90cc6b",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Gold-Tone Jewellery Sets\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual TWO originals show TWELVE DISTINCT jewellerysetcards total, SIXdifferentcards perphoto; bothgroupsmustbecombinedasonewholeassortment. EachwhiteARBANZIRCONIAcard hasONEgoldchainnecklacewithpendant andTWOsmallmatchingstudearrings, total12necklaces24earrings12cards. Firstphotoallgold/rhinestonependantdesigns: smallrhinestonecluster, openroundswanlikeform, loop/bowcircle, openteardropcluster, tinyfloral/smallbow, ovalfiligreecluster. Secondphotogeometriccolourstones: MINTteardrop,BLACKteardrop,PALEYELLOWsquare,REDsquare,PURPLEteardrop,PALEYELLOWtriangle, withclear-rhinestoneborders. Preserveeachactualpendantshapeandcolour; doNOTsubstituteonegenericpendantfor12. Fullviews1/2/3/5 mustshowALLTWELVEwholewhitecards neatly3columns4rowswithineachcell,12separatenecklaces/24studs; no6cardsonly/no doublingonephoto. Removehands/priceoverlay/store. Detail standalone tightrealpartmacro oftheactualMINTteardropstone/rhinestoneborder/goldbail; notfullcard. AccurateheadingGold-Tone Jewellery Sets.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-3cc2b56a-0d15-4ad7-be55-bc809c98fa4d.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Gold-Tone Jewellery Sets\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual TWO originals show TWELVE DISTINCT jewellerysetcards total, SIXdifferentcards perphoto; bothgroupsmustbecombinedasonewholeassortment. EachwhiteARBANZIRCONIAcard hasONEgoldchainnecklacewithpendant andTWOsmallmatchingstudearrings, total12necklaces24earrings12cards. Firstphotoallgold/rhinestonependantdesigns: smallrhinestonecluster, openroundswanlikeform, loop/bowcircle, openteardropcluster, tinyfloral/smallbow, ovalfiligreecluster. Secondphotogeometriccolourstones: MINTteardrop,BLACKteardrop,PALEYELLOWsquare,REDsquare,PURPLEteardrop,PALEYELLOWtriangle, withclear-rhinestoneborders. Preserveeachactualpendantshapeandcolour; doNOTsubstituteonegenericpendantfor12. Fullviews1/2/3/5 mustshowALLTWELVEwholewhitecards neatly3columns4rowswithineachcell,12separatenecklaces/24studs; no6cardsonly/no doublingonephoto. Removehands/priceoverlay/store. Detail standalone tightrealpartmacro oftheactualMINTteardropstone/rhinestoneborder/goldbail; notfullcard. AccurateheadingGold-Tone Jewellery Sets.",
+      "sha256": "b7663a1eb28b8fc0d329b4334530018ed726709aa7452577c978799036648c3e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3cc2b56a-0d15-4ad7-be55-bc809c98fa4d.png",
+      "grid_sha256": "0aa1db2f0677951720bf89a50df89fe085e863e86833cc5fc317cf886d90cc6b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared with original: TwelvedistinctARBANnecklace+pairedstudsets, sixgoldrhinestone+sixcolouredgeometricpendants frombothoriginals. Wholeassortment count/identities/sourcecolours/forms retained infullviews. Requested white/styled/lifestyle/promo accurateheading andstandalone tightrealpartdetail pass. Website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-3cc2b56a-0d15-4ad7-be55-bc809c98fa4d.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Gold-Tone Jewellery Sets\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual TWO originals show TWELVE DISTINCT jewellerysetcards total, SIXdifferentcards perphoto; bothgroupsmustbecombinedasonewholeassortment. EachwhiteARBANZIRCONIAcard hasONEgoldchainnecklacewithpendant andTWOsmallmatchingstudearrings, total12necklaces24earrings12cards. Firstphotoallgold/rhinestonependantdesigns: smallrhinestonecluster, openroundswanlikeform, loop/bowcircle, openteardropcluster, tinyfloral/smallbow, ovalfiligreecluster. Secondphotogeometriccolourstones: MINTteardrop,BLACKteardrop,PALEYELLOWsquare,REDsquare,PURPLEteardrop,PALEYELLOWtriangle, withclear-rhinestoneborders. Preserveeachactualpendantshapeandcolour; doNOTsubstituteonegenericpendantfor12. Fullviews1/2/3/5 mustshowALLTWELVEwholewhitecards neatly3columns4rowswithineachcell,12separatenecklaces/24studs; no6cardsonly/no doublingonephoto. Removehands/priceoverlay/store. Detail standalone tightrealpartmacro oftheactualMINTteardropstone/rhinestoneborder/goldbail; notfullcard. AccurateheadingGold-Tone Jewellery Sets.",
+      "sha256": "ad2b89b62b7afe6207d5bc2d9b217e34dba8b46286723696105a0f987a42dade",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3cc2b56a-0d15-4ad7-be55-bc809c98fa4d.png",
+      "grid_sha256": "0aa1db2f0677951720bf89a50df89fe085e863e86833cc5fc317cf886d90cc6b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared with original: TwelvedistinctARBANnecklace+pairedstudsets, sixgoldrhinestone+sixcolouredgeometricpendants frombothoriginals. Wholeassortment count/identities/sourcecolours/forms retained infullviews. Requested white/styled/lifestyle/promo accurateheading andstandalone tightrealpartdetail pass. Website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-3cc2b56a-0d15-4ad7-be55-bc809c98fa4d.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Gold-Tone Jewellery Sets\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual TWO originals show TWELVE DISTINCT jewellerysetcards total, SIXdifferentcards perphoto; bothgroupsmustbecombinedasonewholeassortment. EachwhiteARBANZIRCONIAcard hasONEgoldchainnecklacewithpendant andTWOsmallmatchingstudearrings, total12necklaces24earrings12cards. Firstphotoallgold/rhinestonependantdesigns: smallrhinestonecluster, openroundswanlikeform, loop/bowcircle, openteardropcluster, tinyfloral/smallbow, ovalfiligreecluster. Secondphotogeometriccolourstones: MINTteardrop,BLACKteardrop,PALEYELLOWsquare,REDsquare,PURPLEteardrop,PALEYELLOWtriangle, withclear-rhinestoneborders. Preserveeachactualpendantshapeandcolour; doNOTsubstituteonegenericpendantfor12. Fullviews1/2/3/5 mustshowALLTWELVEwholewhitecards neatly3columns4rowswithineachcell,12separatenecklaces/24studs; no6cardsonly/no doublingonephoto. Removehands/priceoverlay/store. Detail standalone tightrealpartmacro oftheactualMINTteardropstone/rhinestoneborder/goldbail; notfullcard. AccurateheadingGold-Tone Jewellery Sets.",
+      "sha256": "61440fd514fc4660cda1231b87dd13ce5ba46b3a289341fec788d1d6afa22d68",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3cc2b56a-0d15-4ad7-be55-bc809c98fa4d.png",
+      "grid_sha256": "0aa1db2f0677951720bf89a50df89fe085e863e86833cc5fc317cf886d90cc6b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared with original: TwelvedistinctARBANnecklace+pairedstudsets, sixgoldrhinestone+sixcolouredgeometricpendants frombothoriginals. Wholeassortment count/identities/sourcecolours/forms retained infullviews. Requested white/styled/lifestyle/promo accurateheading andstandalone tightrealpartdetail pass. Website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-3cc2b56a-0d15-4ad7-be55-bc809c98fa4d.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Gold-Tone Jewellery Sets\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual TWO originals show TWELVE DISTINCT jewellerysetcards total, SIXdifferentcards perphoto; bothgroupsmustbecombinedasonewholeassortment. EachwhiteARBANZIRCONIAcard hasONEgoldchainnecklacewithpendant andTWOsmallmatchingstudearrings, total12necklaces24earrings12cards. Firstphotoallgold/rhinestonependantdesigns: smallrhinestonecluster, openroundswanlikeform, loop/bowcircle, openteardropcluster, tinyfloral/smallbow, ovalfiligreecluster. Secondphotogeometriccolourstones: MINTteardrop,BLACKteardrop,PALEYELLOWsquare,REDsquare,PURPLEteardrop,PALEYELLOWtriangle, withclear-rhinestoneborders. Preserveeachactualpendantshapeandcolour; doNOTsubstituteonegenericpendantfor12. Fullviews1/2/3/5 mustshowALLTWELVEwholewhitecards neatly3columns4rowswithineachcell,12separatenecklaces/24studs; no6cardsonly/no doublingonephoto. Removehands/priceoverlay/store. Detail standalone tightrealpartmacro oftheactualMINTteardropstone/rhinestoneborder/goldbail; notfullcard. AccurateheadingGold-Tone Jewellery Sets.",
+      "sha256": "0ae3736cbeab8a9be7ce406b446873424f457b22f838dd43100b3626de851d40",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3cc2b56a-0d15-4ad7-be55-bc809c98fa4d.png",
+      "grid_sha256": "0aa1db2f0677951720bf89a50df89fe085e863e86833cc5fc317cf886d90cc6b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        200,
+        680,
+        430,
+        985
+      ],
+      "visual_review": "Actual grid/crops compared with original: TwelvedistinctARBANnecklace+pairedstudsets, sixgoldrhinestone+sixcolouredgeometricpendants frombothoriginals. Wholeassortment count/identities/sourcecolours/forms retained infullviews. Requested white/styled/lifestyle/promo accurateheading andstandalone tightrealpartdetail pass. Website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-3cc2b56a-0d15-4ad7-be55-bc809c98fa4d.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Gold-Tone Jewellery Sets\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual TWO originals show TWELVE DISTINCT jewellerysetcards total, SIXdifferentcards perphoto; bothgroupsmustbecombinedasonewholeassortment. EachwhiteARBANZIRCONIAcard hasONEgoldchainnecklacewithpendant andTWOsmallmatchingstudearrings, total12necklaces24earrings12cards. Firstphotoallgold/rhinestonependantdesigns: smallrhinestonecluster, openroundswanlikeform, loop/bowcircle, openteardropcluster, tinyfloral/smallbow, ovalfiligreecluster. Secondphotogeometriccolourstones: MINTteardrop,BLACKteardrop,PALEYELLOWsquare,REDsquare,PURPLEteardrop,PALEYELLOWtriangle, withclear-rhinestoneborders. Preserveeachactualpendantshapeandcolour; doNOTsubstituteonegenericpendantfor12. Fullviews1/2/3/5 mustshowALLTWELVEwholewhitecards neatly3columns4rowswithineachcell,12separatenecklaces/24studs; no6cardsonly/no doublingonephoto. Removehands/priceoverlay/store. Detail standalone tightrealpartmacro oftheactualMINTteardropstone/rhinestoneborder/goldbail; notfullcard. AccurateheadingGold-Tone Jewellery Sets.",
+      "sha256": "fd94378f97bbbd3ff15d071a4bbc0826896aabc048f268f756427d5eb53c852d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3cc2b56a-0d15-4ad7-be55-bc809c98fa4d.png",
+      "grid_sha256": "0aa1db2f0677951720bf89a50df89fe085e863e86833cc5fc317cf886d90cc6b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual grid/crops compared with original: TwelvedistinctARBANnecklace+pairedstudsets, sixgoldrhinestone+sixcolouredgeometricpendants frombothoriginals. Wholeassortment count/identities/sourcecolours/forms retained infullviews. Requested white/styled/lifestyle/promo accurateheading andstandalone tightrealpartdetail pass. Website-ready."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "TwelvedistinctARBANnecklace+pairedstudsets, sixgoldrhinestone+sixcolouredgeometricpendants frombothoriginals",
+  "originals_verified_against_frozen_plan": true,
+  "recovery_note": "Historical initial native grid succeeded before workspace reset but cache and copies were lost; regenerated from unchanged originals this resumedrun. No material corrective was spent for lost grid."
+}

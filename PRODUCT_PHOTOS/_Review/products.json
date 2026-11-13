@@ -30395,59 +30395,67 @@
     "source_image_ids": [
       2793
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2492",
-    "folder": "2492_Warm-Tone-Hair-Clips-0",
+    "folder": "2492_Warm-Tone-Hair-Clips-1",
     "source_image_ids": [
       2794
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2493",
-    "folder": "2493_Black-Hair-Clip-Cards-0",
+    "folder": "2493_Black-Hair-Clip-Cards-1",
     "source_image_ids": [
       2795
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2494",
-    "folder": "2494_Neutral-Printed-Hair-Clips-0",
+    "folder": "2494_Neutral-Printed-Hair-Clips-1",
     "source_image_ids": [
       2796
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2495",
-    "folder": "2495_Brown-Hair-Clip-Cards-0",
+    "folder": "2495_Brown-Hair-Clip-Cards-1",
     "source_image_ids": [
       2797
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2496",

@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260923-WA0287.jpg": "daaa8e503339b002550b4e6e887a5680c2f7574c24f999498d1b85b92e8bd2b9"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-77e7b99b-69a4-41c5-bf81-ba55e5dcb1d5.png",
+      "source_output": "/workspace/generated_images/exec-77e7b99b-69a4-41c5-bf81-ba55e5dcb1d5.png",
+      "sha256": "5d9c4db83a7ea8e4e3fc6cc38604f5de6123586849e1688e89c11a73c749c956",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Neutral Glitter Hair Clips\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage shows TWO DISTINCT SIX-CLIPcards, eachphotographedtwice(samecardrepeatangles), notfourcards. OneSARASwhitecardhasSIX elongatedBOWTIE/hourglassshapedbarrettes withwideends/pinchedmiddle; secondSARAScardhasSIX elongatedOVAL/roundedrectangularbarrettes. Eachcardcoloursequence2darkbrown+2cream+2black, fineSILVERglitterflecktexture; totalTWELVEclips onTWOCARDS. Preservebothshapes andall12clips, sourcebarretteforms/materials/colours. Allfullviews1/2/3/5 mustshow BOTHcards together,6countableclipspercard, no singlecardonly. Removehand/pricebanner/collageborders. Detail tightactualpartmacroofblackglitterclip surfaceandmetaledge, notentirecard. AccurateheadingNeutral Glitter Hair Clips.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-77e7b99b-69a4-41c5-bf81-ba55e5dcb1d5.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Neutral Glitter Hair Clips\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage shows TWO DISTINCT SIX-CLIPcards, eachphotographedtwice(samecardrepeatangles), notfourcards. OneSARASwhitecardhasSIX elongatedBOWTIE/hourglassshapedbarrettes withwideends/pinchedmiddle; secondSARAScardhasSIX elongatedOVAL/roundedrectangularbarrettes. Eachcardcoloursequence2darkbrown+2cream+2black, fineSILVERglitterflecktexture; totalTWELVEclips onTWOCARDS. Preservebothshapes andall12clips, sourcebarretteforms/materials/colours. Allfullviews1/2/3/5 mustshow BOTHcards together,6countableclipspercard, no singlecardonly. Removehand/pricebanner/collageborders. Detail tightactualpartmacroofblackglitterclip surfaceandmetaledge, notentirecard. AccurateheadingNeutral Glitter Hair Clips.",
+      "sha256": "5613ed6cf644b5e7984ab2b01719f236deb7cffdcc71f683a32fb71f85fca5d3",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-77e7b99b-69a4-41c5-bf81-ba55e5dcb1d5.png",
+      "grid_sha256": "5d9c4db83a7ea8e4e3fc6cc38604f5de6123586849e1688e89c11a73c749c956",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared to original: Two distinctSARASsixclipcards, bowtie andelongatedovalforms, two brown/two cream/two blackeach;12clips total. Whole assortment/count retained allfullviews, source shapes/colours/identity preserved. Correctwhite/styled/lifestyle/promo andaccurateheading; standalone tightrealpartmacro passed. Website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-77e7b99b-69a4-41c5-bf81-ba55e5dcb1d5.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Neutral Glitter Hair Clips\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage shows TWO DISTINCT SIX-CLIPcards, eachphotographedtwice(samecardrepeatangles), notfourcards. OneSARASwhitecardhasSIX elongatedBOWTIE/hourglassshapedbarrettes withwideends/pinchedmiddle; secondSARAScardhasSIX elongatedOVAL/roundedrectangularbarrettes. Eachcardcoloursequence2darkbrown+2cream+2black, fineSILVERglitterflecktexture; totalTWELVEclips onTWOCARDS. Preservebothshapes andall12clips, sourcebarretteforms/materials/colours. Allfullviews1/2/3/5 mustshow BOTHcards together,6countableclipspercard, no singlecardonly. Removehand/pricebanner/collageborders. Detail tightactualpartmacroofblackglitterclip surfaceandmetaledge, notentirecard. AccurateheadingNeutral Glitter Hair Clips.",
+      "sha256": "ca178a5b1184946897134315b56c27d97bfe6485f0e8a6234d1f339698d27df4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-77e7b99b-69a4-41c5-bf81-ba55e5dcb1d5.png",
+      "grid_sha256": "5d9c4db83a7ea8e4e3fc6cc38604f5de6123586849e1688e89c11a73c749c956",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared to original: Two distinctSARASsixclipcards, bowtie andelongatedovalforms, two brown/two cream/two blackeach;12clips total. Whole assortment/count retained allfullviews, source shapes/colours/identity preserved. Correctwhite/styled/lifestyle/promo andaccurateheading; standalone tightrealpartmacro passed. Website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-77e7b99b-69a4-41c5-bf81-ba55e5dcb1d5.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Neutral Glitter Hair Clips\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage shows TWO DISTINCT SIX-CLIPcards, eachphotographedtwice(samecardrepeatangles), notfourcards. OneSARASwhitecardhasSIX elongatedBOWTIE/hourglassshapedbarrettes withwideends/pinchedmiddle; secondSARAScardhasSIX elongatedOVAL/roundedrectangularbarrettes. Eachcardcoloursequence2darkbrown+2cream+2black, fineSILVERglitterflecktexture; totalTWELVEclips onTWOCARDS. Preservebothshapes andall12clips, sourcebarretteforms/materials/colours. Allfullviews1/2/3/5 mustshow BOTHcards together,6countableclipspercard, no singlecardonly. Removehand/pricebanner/collageborders. Detail tightactualpartmacroofblackglitterclip surfaceandmetaledge, notentirecard. AccurateheadingNeutral Glitter Hair Clips.",
+      "sha256": "f20e4df7573d03cde27043e3865fa7c46d421cc242e093ed5694acd7b2b49c43",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-77e7b99b-69a4-41c5-bf81-ba55e5dcb1d5.png",
+      "grid_sha256": "5d9c4db83a7ea8e4e3fc6cc38604f5de6123586849e1688e89c11a73c749c956",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared to original: Two distinctSARASsixclipcards, bowtie andelongatedovalforms, two brown/two cream/two blackeach;12clips total. Whole assortment/count retained allfullviews, source shapes/colours/identity preserved. Correctwhite/styled/lifestyle/promo andaccurateheading; standalone tightrealpartmacro passed. Website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-77e7b99b-69a4-41c5-bf81-ba55e5dcb1d5.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Neutral Glitter Hair Clips\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage shows TWO DISTINCT SIX-CLIPcards, eachphotographedtwice(samecardrepeatangles), notfourcards. OneSARASwhitecardhasSIX elongatedBOWTIE/hourglassshapedbarrettes withwideends/pinchedmiddle; secondSARAScardhasSIX elongatedOVAL/roundedrectangularbarrettes. Eachcardcoloursequence2darkbrown+2cream+2black, fineSILVERglitterflecktexture; totalTWELVEclips onTWOCARDS. Preservebothshapes andall12clips, sourcebarretteforms/materials/colours. Allfullviews1/2/3/5 mustshow BOTHcards together,6countableclipspercard, no singlecardonly. Removehand/pricebanner/collageborders. Detail tightactualpartmacroofblackglitterclip surfaceandmetaledge, notentirecard. AccurateheadingNeutral Glitter Hair Clips.",
+      "sha256": "8a4ef6c378094b79da292415ea236c7e02393009a46d947cd0d5eb00540db8e1",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-77e7b99b-69a4-41c5-bf81-ba55e5dcb1d5.png",
+      "grid_sha256": "5d9c4db83a7ea8e4e3fc6cc38604f5de6123586849e1688e89c11a73c749c956",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual grid/crops compared to original: Two distinctSARASsixclipcards, bowtie andelongatedovalforms, two brown/two cream/two blackeach;12clips total. Whole assortment/count retained allfullviews, source shapes/colours/identity preserved. Correctwhite/styled/lifestyle/promo andaccurateheading; standalone tightrealpartmacro passed. Website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-77e7b99b-69a4-41c5-bf81-ba55e5dcb1d5.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Neutral Glitter Hair Clips\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage shows TWO DISTINCT SIX-CLIPcards, eachphotographedtwice(samecardrepeatangles), notfourcards. OneSARASwhitecardhasSIX elongatedBOWTIE/hourglassshapedbarrettes withwideends/pinchedmiddle; secondSARAScardhasSIX elongatedOVAL/roundedrectangularbarrettes. Eachcardcoloursequence2darkbrown+2cream+2black, fineSILVERglitterflecktexture; totalTWELVEclips onTWOCARDS. Preservebothshapes andall12clips, sourcebarretteforms/materials/colours. Allfullviews1/2/3/5 mustshow BOTHcards together,6countableclipspercard, no singlecardonly. Removehand/pricebanner/collageborders. Detail tightactualpartmacroofblackglitterclip surfaceandmetaledge, notentirecard. AccurateheadingNeutral Glitter Hair Clips.",
+      "sha256": "56ac99b63aafc6c6207dd3a3d29b1ac47f3e93c4d3af730656f5c16daec30f40",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-77e7b99b-69a4-41c5-bf81-ba55e5dcb1d5.png",
+      "grid_sha256": "5d9c4db83a7ea8e4e3fc6cc38604f5de6123586849e1688e89c11a73c749c956",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual grid/crops compared to original: Two distinctSARASsixclipcards, bowtie andelongatedovalforms, two brown/two cream/two blackeach;12clips total. Whole assortment/count retained allfullviews, source shapes/colours/identity preserved. Correctwhite/styled/lifestyle/promo andaccurateheading; standalone tightrealpartmacro passed. Website-ready."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Two distinctSARASsixclipcards, bowtie andelongatedovalforms, two brown/two cream/two blackeach;12clips total",
+  "originals_verified_against_frozen_plan": true
+}

@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260924-WA0026.jpg": "34dc3fba1aed0ebf819bd6cf09ba358b7384be8dec1e4e2c7473499a8313bb04"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-9a6fed3b-dc0b-4c5a-8f1e-f2d2104eebc3.png",
+      "source_output": "/workspace/generated_images/exec-9a6fed3b-dc0b-4c5a-8f1e-f2d2104eebc3.png",
+      "sha256": "cc146f7ab272368072f4e2adf015bccbc010cc86b610effd65df1d96463ebd78",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Colourful Spiral Notebooks\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual source is collage of FOUR DISTINCT spiralnotebooks, ONEeachcoverdesign, treat allFOURasoneassortment together. Whitewirebindings/rectangularcovers; blueandpastelpinkbeachcartoonprints: (1)browncatpinkbows holdingpinkshell/beachfruitandtwosurfboards;(2)brownpinkhoodedbunnywithfloralbow holdingpinksufboardbysea/palms;(3)browncatsunglasses holdingyellowfloatwithyellowboard/fruit;(4)browncatgreenoutfit holdingyellowsurfboardunderpalm. PreserveallFOUR actualcovers/characteridentity/colours/printartworks, notplainnotebooks/noduplicatedcover. Allfullviews1/2/3/5 mustshow EXACTFOURdifferentnotebooks sidebyside/two-by-two, coversfullyreadable. Do notshowcollageborders/hand/priceoverlay orclaim10notebooks. Lifestyle allfouronschooldesk. Detail tightstandalone macroofactualwhitewirebindingandprintedcoveredge, notfullnotebook. AccurateheadingColourful Spiral Notebooks.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-9a6fed3b-dc0b-4c5a-8f1e-f2d2104eebc3.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Colourful Spiral Notebooks\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual source is collage of FOUR DISTINCT spiralnotebooks, ONEeachcoverdesign, treat allFOURasoneassortment together. Whitewirebindings/rectangularcovers; blueandpastelpinkbeachcartoonprints: (1)browncatpinkbows holdingpinkshell/beachfruitandtwosurfboards;(2)brownpinkhoodedbunnywithfloralbow holdingpinksufboardbysea/palms;(3)browncatsunglasses holdingyellowfloatwithyellowboard/fruit;(4)browncatgreenoutfit holdingyellowsurfboardunderpalm. PreserveallFOUR actualcovers/characteridentity/colours/printartworks, notplainnotebooks/noduplicatedcover. Allfullviews1/2/3/5 mustshow EXACTFOURdifferentnotebooks sidebyside/two-by-two, coversfullyreadable. Do notshowcollageborders/hand/priceoverlay orclaim10notebooks. Lifestyle allfouronschooldesk. Detail tightstandalone macroofactualwhitewirebindingandprintedcoveredge, notfullnotebook. AccurateheadingColourful Spiral Notebooks.",
+      "sha256": "6f29390bc52924f027e10dc267ffa06f3a101353c3bd62b9d42f3e871e3978c4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9a6fed3b-dc0b-4c5a-8f1e-f2d2104eebc3.png",
+      "grid_sha256": "cc146f7ab272368072f4e2adf015bccbc010cc86b610effd65df1d96463ebd78",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared to original: Four distinct beachcartoon-cover whitewire spiralnotebooks fromsourcecollage. Whole assortment/count retained allfullviews, source shapes/colours/identity preserved. Correctwhite/styled/lifestyle/promo andaccurateheading; standalone tightrealpartmacro passed. Website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-9a6fed3b-dc0b-4c5a-8f1e-f2d2104eebc3.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Colourful Spiral Notebooks\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual source is collage of FOUR DISTINCT spiralnotebooks, ONEeachcoverdesign, treat allFOURasoneassortment together. Whitewirebindings/rectangularcovers; blueandpastelpinkbeachcartoonprints: (1)browncatpinkbows holdingpinkshell/beachfruitandtwosurfboards;(2)brownpinkhoodedbunnywithfloralbow holdingpinksufboardbysea/palms;(3)browncatsunglasses holdingyellowfloatwithyellowboard/fruit;(4)browncatgreenoutfit holdingyellowsurfboardunderpalm. PreserveallFOUR actualcovers/characteridentity/colours/printartworks, notplainnotebooks/noduplicatedcover. Allfullviews1/2/3/5 mustshow EXACTFOURdifferentnotebooks sidebyside/two-by-two, coversfullyreadable. Do notshowcollageborders/hand/priceoverlay orclaim10notebooks. Lifestyle allfouronschooldesk. Detail tightstandalone macroofactualwhitewirebindingandprintedcoveredge, notfullnotebook. AccurateheadingColourful Spiral Notebooks.",
+      "sha256": "2f35725d845e86d7a193e35dd3a639c8cce2b84abff6c8b9e6889da6a984b2d6",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9a6fed3b-dc0b-4c5a-8f1e-f2d2104eebc3.png",
+      "grid_sha256": "cc146f7ab272368072f4e2adf015bccbc010cc86b610effd65df1d96463ebd78",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared to original: Four distinct beachcartoon-cover whitewire spiralnotebooks fromsourcecollage. Whole assortment/count retained allfullviews, source shapes/colours/identity preserved. Correctwhite/styled/lifestyle/promo andaccurateheading; standalone tightrealpartmacro passed. Website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-9a6fed3b-dc0b-4c5a-8f1e-f2d2104eebc3.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Colourful Spiral Notebooks\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual source is collage of FOUR DISTINCT spiralnotebooks, ONEeachcoverdesign, treat allFOURasoneassortment together. Whitewirebindings/rectangularcovers; blueandpastelpinkbeachcartoonprints: (1)browncatpinkbows holdingpinkshell/beachfruitandtwosurfboards;(2)brownpinkhoodedbunnywithfloralbow holdingpinksufboardbysea/palms;(3)browncatsunglasses holdingyellowfloatwithyellowboard/fruit;(4)browncatgreenoutfit holdingyellowsurfboardunderpalm. PreserveallFOUR actualcovers/characteridentity/colours/printartworks, notplainnotebooks/noduplicatedcover. Allfullviews1/2/3/5 mustshow EXACTFOURdifferentnotebooks sidebyside/two-by-two, coversfullyreadable. Do notshowcollageborders/hand/priceoverlay orclaim10notebooks. Lifestyle allfouronschooldesk. Detail tightstandalone macroofactualwhitewirebindingandprintedcoveredge, notfullnotebook. AccurateheadingColourful Spiral Notebooks.",
+      "sha256": "291545267951111f84d7a3d7ca903e52f1e63892188e275fc2d852e54f3cd533",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9a6fed3b-dc0b-4c5a-8f1e-f2d2104eebc3.png",
+      "grid_sha256": "cc146f7ab272368072f4e2adf015bccbc010cc86b610effd65df1d96463ebd78",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared to original: Four distinct beachcartoon-cover whitewire spiralnotebooks fromsourcecollage. Whole assortment/count retained allfullviews, source shapes/colours/identity preserved. Correctwhite/styled/lifestyle/promo andaccurateheading; standalone tightrealpartmacro passed. Website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-9a6fed3b-dc0b-4c5a-8f1e-f2d2104eebc3.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Colourful Spiral Notebooks\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual source is collage of FOUR DISTINCT spiralnotebooks, ONEeachcoverdesign, treat allFOURasoneassortment together. Whitewirebindings/rectangularcovers; blueandpastelpinkbeachcartoonprints: (1)browncatpinkbows holdingpinkshell/beachfruitandtwosurfboards;(2)brownpinkhoodedbunnywithfloralbow holdingpinksufboardbysea/palms;(3)browncatsunglasses holdingyellowfloatwithyellowboard/fruit;(4)browncatgreenoutfit holdingyellowsurfboardunderpalm. PreserveallFOUR actualcovers/characteridentity/colours/printartworks, notplainnotebooks/noduplicatedcover. Allfullviews1/2/3/5 mustshow EXACTFOURdifferentnotebooks sidebyside/two-by-two, coversfullyreadable. Do notshowcollageborders/hand/priceoverlay orclaim10notebooks. Lifestyle allfouronschooldesk. Detail tightstandalone macroofactualwhitewirebindingandprintedcoveredge, notfullnotebook. AccurateheadingColourful Spiral Notebooks.",
+      "sha256": "fa5ecb06740a557065a02ccc03fe2a4a79d5bc8e09bdbf54570f7eb424247d00",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9a6fed3b-dc0b-4c5a-8f1e-f2d2104eebc3.png",
+      "grid_sha256": "cc146f7ab272368072f4e2adf015bccbc010cc86b610effd65df1d96463ebd78",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual grid/crops compared to original: Four distinct beachcartoon-cover whitewire spiralnotebooks fromsourcecollage. Whole assortment/count retained allfullviews, source shapes/colours/identity preserved. Correctwhite/styled/lifestyle/promo andaccurateheading; standalone tightrealpartmacro passed. Website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-9a6fed3b-dc0b-4c5a-8f1e-f2d2104eebc3.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Colourful Spiral Notebooks\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual source is collage of FOUR DISTINCT spiralnotebooks, ONEeachcoverdesign, treat allFOURasoneassortment together. Whitewirebindings/rectangularcovers; blueandpastelpinkbeachcartoonprints: (1)browncatpinkbows holdingpinkshell/beachfruitandtwosurfboards;(2)brownpinkhoodedbunnywithfloralbow holdingpinksufboardbysea/palms;(3)browncatsunglasses holdingyellowfloatwithyellowboard/fruit;(4)browncatgreenoutfit holdingyellowsurfboardunderpalm. PreserveallFOUR actualcovers/characteridentity/colours/printartworks, notplainnotebooks/noduplicatedcover. Allfullviews1/2/3/5 mustshow EXACTFOURdifferentnotebooks sidebyside/two-by-two, coversfullyreadable. Do notshowcollageborders/hand/priceoverlay orclaim10notebooks. Lifestyle allfouronschooldesk. Detail tightstandalone macroofactualwhitewirebindingandprintedcoveredge, notfullnotebook. AccurateheadingColourful Spiral Notebooks.",
+      "sha256": "80c859a3a179edb9f753617ef405b399a7d14188c63c69a3f65c26ec1af6f035",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9a6fed3b-dc0b-4c5a-8f1e-f2d2104eebc3.png",
+      "grid_sha256": "cc146f7ab272368072f4e2adf015bccbc010cc86b610effd65df1d96463ebd78",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual grid/crops compared to original: Four distinct beachcartoon-cover whitewire spiralnotebooks fromsourcecollage. Whole assortment/count retained allfullviews, source shapes/colours/identity preserved. Correctwhite/styled/lifestyle/promo andaccurateheading; standalone tightrealpartmacro passed. Website-ready."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Four distinct beachcartoon-cover whitewire spiralnotebooks fromsourcecollage",
+  "originals_verified_against_frozen_plan": true
+}

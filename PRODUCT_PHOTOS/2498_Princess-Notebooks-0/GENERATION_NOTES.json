@@ -1,0 +1,30 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "status": "blocked_moderation",
+  "actual_subject": "Four white-wire spiral notebooks with distinct original Snow White printed covers",
+  "original_hashes": {
+    "Originals/IMG-20260924-WA0032.jpg": "c71598659fa574c664cceed464cf73e832392097dd53b7c10d737f5df29e5ac8"
+  },
+  "records": [],
+  "blocked_attempt": {
+    "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows512squarecells boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full product assortment whitebackground; top-middle same lavender/cream styled; top-right full assortment realistic relevant lifestyle; bottom-left standalone tight actualpartmacro,notwholeassortment; bottom-middle full assortment promotional with accurateheading specified; bottom-right blankcream. Preserve original count,identity,shapes,colours,labels/printeddesigns. Remove hand,shop,priceoverlay/oldadverttext only. Fullviews allitemscompleteinsideowncellmargin,noextra similarprops. Photorealwebsite-ready,noinventedclaims. Actualsource collage displays FOURdistinctportrait WHITEWIRESPIRAL NOTEBOOKS with original SnowWhiteandSevenDwarfs printedcovers. Preserve allFOUR originalcoverartdesigns togetherinallfullviews:1greenforestfull-lengthSnowWhiteyellowdresswithdeerandwoodlandanimals;2bluebackgroundlargeSnowWhiteportraitsurroundedbydwarffaces;3pinkcastlebackgroundSnowWhiteportraitwithdwarfmusiciansatbottom;4blue/peachcastlebackgroundfull-lengthSnowWhitewithdwarfgroupandanimals. ExactlyFOURnotebooks,whiteleftspiralbinding,portraitrectangles,thinwhitepaperedge,originalprints/colours. Do not invent moredesigns/changeprincess. Lifestyle on tidystudydesk,noothernotebooks. Detail tightactualwhitespiralwire/paperedge+printedcovercorner. Heading Princess Spiral Notebooks. No pagecountclaimneeded.",
+    "request_id": "2c9dbf3d-3967-407d-bf4b-3994a0ecf97e",
+    "retried": false,
+    "raw_error": {
+      "http_status": 400,
+      "error": {
+        "message": "Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 2c9dbf3d-3967-407d-bf4b-3994a0ecf97e.",
+        "type": "image_generation_user_error",
+        "param": null,
+        "code": "moderation_blocked",
+        "moderation_details": {
+          "moderation_stage": "output",
+          "categories": [
+            "other"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260923-WA0285.jpg": "7278d5719a0f817af43613370a40aff1edb1f18f4e18b7022bb5d7f2e6e71b8d"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-c3e4f5a2-d511-4b2d-b1f2-231c52438c0e.png",
+      "source_output": "/workspace/generated_images/exec-c3e4f5a2-d511-4b2d-b1f2-231c52438c0e.png",
+      "sha256": "f147fe04828b49817299440afd58cdbcfff268583e4f5324e2cfe640c9d9b7f5",
+      "prompt": "Native photographic edit ACTUAL ORIGINAL CATALOGUECOLLAGE asoneproductassortment, notunrelatedreplacement. DeliverONE1536x1024strict3columns2rows contact sheet equal512squarecells,no gutters. EveryfullviewmustrepeatENTIREoriginalcataloguecollage with ALLcards/clipvariants, notonecardpercell. Cell1top-left whitebackgroundfullcollage;cell2top-middle lavender/creamstyledfullcollage;cell3top-right lifestylevanityfullcollage;cell4bottom-left standalone tightmacrooneactualbarrettefinishpart;cell5bottom-middle promotionalfullcollage heading 'Textured Hair Barrettes';cell6bottom-rightblankcream. Preserveactualclipcount,cardcount,distinctshapes,woodgrain/cracklepatternsandcolours. Removehands,priceoverlay,graybackground;retainwhiteSarasdisplaycards/brand. Sourcephotoscanremainascatalogueinsettoavoidredrawingproducts. Noextra/missingcards orrepresentativeselection. OriginalhasFOUR sourcepanels arranged2columns2rows, eachONEwhitecardwithSIXtexturedlongbarrettes. Preserveall4cardviews/variants24visiblecliprepresentations. Sixcolours burgundycrackle,oliveyellowcrackle,plainorangegrain,orangeblackgrain,paleyellowgrain,darkbrownfinegrain. Distinctshapes top-lefttaperedelongatedoval,top-rightroundedrectangle,bottomcardsbow/concavesides. Preserveall4panels/sourcegeometryandcolourorders; don'tcollapseintosinglecard. Detailmacroactualburgundyraisedcracklegrainbarrettepart.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-c3e4f5a2-d511-4b2d-b1f2-231c52438c0e.png",
+      "prompt": "Native photographic edit ACTUAL ORIGINAL CATALOGUECOLLAGE asoneproductassortment, notunrelatedreplacement. DeliverONE1536x1024strict3columns2rows contact sheet equal512squarecells,no gutters. EveryfullviewmustrepeatENTIREoriginalcataloguecollage with ALLcards/clipvariants, notonecardpercell. Cell1top-left whitebackgroundfullcollage;cell2top-middle lavender/creamstyledfullcollage;cell3top-right lifestylevanityfullcollage;cell4bottom-left standalone tightmacrooneactualbarrettefinishpart;cell5bottom-middle promotionalfullcollage heading 'Textured Hair Barrettes';cell6bottom-rightblankcream. Preserveactualclipcount,cardcount,distinctshapes,woodgrain/cracklepatternsandcolours. Removehands,priceoverlay,graybackground;retainwhiteSarasdisplaycards/brand. Sourcephotoscanremainascatalogueinsettoavoidredrawingproducts. Noextra/missingcards orrepresentativeselection. OriginalhasFOUR sourcepanels arranged2columns2rows, eachONEwhitecardwithSIXtexturedlongbarrettes. Preserveall4cardviews/variants24visiblecliprepresentations. Sixcolours burgundycrackle,oliveyellowcrackle,plainorangegrain,orangeblackgrain,paleyellowgrain,darkbrownfinegrain. Distinctshapes top-lefttaperedelongatedoval,top-rightroundedrectangle,bottomcardsbow/concavesides. Preserveall4panels/sourcegeometryandcolourorders; don'tcollapseintosinglecard. Detailmacroactualburgundyraisedcracklegrainbarrettepart.",
+      "sha256": "e9c6763983054974559011f8baa8cfb5c8098e21825fe772d02401496cd36d78",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c3e4f5a2-d511-4b2d-b1f2-231c52438c0e.png",
+      "grid_sha256": "f147fe04828b49817299440afd58cdbcfff268583e4f5324e2cfe640c9d9b7f5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-c3e4f5a2-d511-4b2d-b1f2-231c52438c0e.png",
+      "prompt": "Native photographic edit ACTUAL ORIGINAL CATALOGUECOLLAGE asoneproductassortment, notunrelatedreplacement. DeliverONE1536x1024strict3columns2rows contact sheet equal512squarecells,no gutters. EveryfullviewmustrepeatENTIREoriginalcataloguecollage with ALLcards/clipvariants, notonecardpercell. Cell1top-left whitebackgroundfullcollage;cell2top-middle lavender/creamstyledfullcollage;cell3top-right lifestylevanityfullcollage;cell4bottom-left standalone tightmacrooneactualbarrettefinishpart;cell5bottom-middle promotionalfullcollage heading 'Textured Hair Barrettes';cell6bottom-rightblankcream. Preserveactualclipcount,cardcount,distinctshapes,woodgrain/cracklepatternsandcolours. Removehands,priceoverlay,graybackground;retainwhiteSarasdisplaycards/brand. Sourcephotoscanremainascatalogueinsettoavoidredrawingproducts. Noextra/missingcards orrepresentativeselection. OriginalhasFOUR sourcepanels arranged2columns2rows, eachONEwhitecardwithSIXtexturedlongbarrettes. Preserveall4cardviews/variants24visiblecliprepresentations. Sixcolours burgundycrackle,oliveyellowcrackle,plainorangegrain,orangeblackgrain,paleyellowgrain,darkbrownfinegrain. Distinctshapes top-lefttaperedelongatedoval,top-rightroundedrectangle,bottomcardsbow/concavesides. Preserveall4panels/sourcegeometryandcolourorders; don'tcollapseintosinglecard. Detailmacroactualburgundyraisedcracklegrainbarrettepart.",
+      "sha256": "64b2a3a83091cbeb1ce1dca5fdbe6cdc9cef7bc0c0d588fd71aaa9d365dc693a",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c3e4f5a2-d511-4b2d-b1f2-231c52438c0e.png",
+      "grid_sha256": "f147fe04828b49817299440afd58cdbcfff268583e4f5324e2cfe640c9d9b7f5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-c3e4f5a2-d511-4b2d-b1f2-231c52438c0e.png",
+      "prompt": "Native photographic edit ACTUAL ORIGINAL CATALOGUECOLLAGE asoneproductassortment, notunrelatedreplacement. DeliverONE1536x1024strict3columns2rows contact sheet equal512squarecells,no gutters. EveryfullviewmustrepeatENTIREoriginalcataloguecollage with ALLcards/clipvariants, notonecardpercell. Cell1top-left whitebackgroundfullcollage;cell2top-middle lavender/creamstyledfullcollage;cell3top-right lifestylevanityfullcollage;cell4bottom-left standalone tightmacrooneactualbarrettefinishpart;cell5bottom-middle promotionalfullcollage heading 'Textured Hair Barrettes';cell6bottom-rightblankcream. Preserveactualclipcount,cardcount,distinctshapes,woodgrain/cracklepatternsandcolours. Removehands,priceoverlay,graybackground;retainwhiteSarasdisplaycards/brand. Sourcephotoscanremainascatalogueinsettoavoidredrawingproducts. Noextra/missingcards orrepresentativeselection. OriginalhasFOUR sourcepanels arranged2columns2rows, eachONEwhitecardwithSIXtexturedlongbarrettes. Preserveall4cardviews/variants24visiblecliprepresentations. Sixcolours burgundycrackle,oliveyellowcrackle,plainorangegrain,orangeblackgrain,paleyellowgrain,darkbrownfinegrain. Distinctshapes top-lefttaperedelongatedoval,top-rightroundedrectangle,bottomcardsbow/concavesides. Preserveall4panels/sourcegeometryandcolourorders; don'tcollapseintosinglecard. Detailmacroactualburgundyraisedcracklegrainbarrettepart.",
+      "sha256": "6a5066625be6615994795eec2e1000bb700f6a1d5b4a3f6a62246f804e585496",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c3e4f5a2-d511-4b2d-b1f2-231c52438c0e.png",
+      "grid_sha256": "f147fe04828b49817299440afd58cdbcfff268583e4f5324e2cfe640c9d9b7f5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-c3e4f5a2-d511-4b2d-b1f2-231c52438c0e.png",
+      "prompt": "Native photographic edit ACTUAL ORIGINAL CATALOGUECOLLAGE asoneproductassortment, notunrelatedreplacement. DeliverONE1536x1024strict3columns2rows contact sheet equal512squarecells,no gutters. EveryfullviewmustrepeatENTIREoriginalcataloguecollage with ALLcards/clipvariants, notonecardpercell. Cell1top-left whitebackgroundfullcollage;cell2top-middle lavender/creamstyledfullcollage;cell3top-right lifestylevanityfullcollage;cell4bottom-left standalone tightmacrooneactualbarrettefinishpart;cell5bottom-middle promotionalfullcollage heading 'Textured Hair Barrettes';cell6bottom-rightblankcream. Preserveactualclipcount,cardcount,distinctshapes,woodgrain/cracklepatternsandcolours. Removehands,priceoverlay,graybackground;retainwhiteSarasdisplaycards/brand. Sourcephotoscanremainascatalogueinsettoavoidredrawingproducts. Noextra/missingcards orrepresentativeselection. OriginalhasFOUR sourcepanels arranged2columns2rows, eachONEwhitecardwithSIXtexturedlongbarrettes. Preserveall4cardviews/variants24visiblecliprepresentations. Sixcolours burgundycrackle,oliveyellowcrackle,plainorangegrain,orangeblackgrain,paleyellowgrain,darkbrownfinegrain. Distinctshapes top-lefttaperedelongatedoval,top-rightroundedrectangle,bottomcardsbow/concavesides. Preserveall4panels/sourcegeometryandcolourorders; don'tcollapseintosinglecard. Detailmacroactualburgundyraisedcracklegrainbarrettepart.",
+      "sha256": "e7a8381bdfbacb317f3ae335ea87022e63fae9d439968382907ee4008731256b",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c3e4f5a2-d511-4b2d-b1f2-231c52438c0e.png",
+      "grid_sha256": "f147fe04828b49817299440afd58cdbcfff268583e4f5324e2cfe640c9d9b7f5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-c3e4f5a2-d511-4b2d-b1f2-231c52438c0e.png",
+      "prompt": "Native photographic edit ACTUAL ORIGINAL CATALOGUECOLLAGE asoneproductassortment, notunrelatedreplacement. DeliverONE1536x1024strict3columns2rows contact sheet equal512squarecells,no gutters. EveryfullviewmustrepeatENTIREoriginalcataloguecollage with ALLcards/clipvariants, notonecardpercell. Cell1top-left whitebackgroundfullcollage;cell2top-middle lavender/creamstyledfullcollage;cell3top-right lifestylevanityfullcollage;cell4bottom-left standalone tightmacrooneactualbarrettefinishpart;cell5bottom-middle promotionalfullcollage heading 'Textured Hair Barrettes';cell6bottom-rightblankcream. Preserveactualclipcount,cardcount,distinctshapes,woodgrain/cracklepatternsandcolours. Removehands,priceoverlay,graybackground;retainwhiteSarasdisplaycards/brand. Sourcephotoscanremainascatalogueinsettoavoidredrawingproducts. Noextra/missingcards orrepresentativeselection. OriginalhasFOUR sourcepanels arranged2columns2rows, eachONEwhitecardwithSIXtexturedlongbarrettes. Preserveall4cardviews/variants24visiblecliprepresentations. Sixcolours burgundycrackle,oliveyellowcrackle,plainorangegrain,orangeblackgrain,paleyellowgrain,darkbrownfinegrain. Distinctshapes top-lefttaperedelongatedoval,top-rightroundedrectangle,bottomcardsbow/concavesides. Preserveall4panels/sourcegeometryandcolourorders; don'tcollapseintosinglecard. Detailmacroactualburgundyraisedcracklegrainbarrettepart.",
+      "sha256": "6e1f0b45790c67c40c784ba6516f7c683345fd8681baeaef32f3743769506b77",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c3e4f5a2-d511-4b2d-b1f2-231c52438c0e.png",
+      "grid_sha256": "f147fe04828b49817299440afd58cdbcfff268583e4f5324e2cfe640c9d9b7f5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

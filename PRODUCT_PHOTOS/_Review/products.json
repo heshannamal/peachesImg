@@ -29860,32 +29860,36 @@
   },
   {
     "product_id": "2446",
-    "folder": "2446_Bright-Hair-Clips-0",
+    "folder": "2446_Bright-Hair-Clips-1",
     "source_image_ids": [
       2734,
       2737,
       2740,
       2743
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2447",
-    "folder": "2447_Neutral-Hair-Clips-0",
+    "folder": "2447_Neutral-Hair-Clips-1",
     "source_image_ids": [
       2735,
       2739,
       2753
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2448",

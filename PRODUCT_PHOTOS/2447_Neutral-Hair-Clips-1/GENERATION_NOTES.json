@@ -1,0 +1,130 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260919-WA0221.jpg": "a4699bdcee0d41e8a5d6368ea284ecb9895ff428f28abb0bc2568daf57653894",
+    "Originals/IMG-20260919-WA0228.jpg": "4834a9daf092ca0b975ad91a223c92e549b705748fa6fe1a06e3547203698680",
+    "Originals/IMG-20260919-WA0250.jpg": "3b483c4975fe1f205ab0ebb1ce5636685751e8cf5e38908087fa4a68c5ff98e4"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-4e16731e-b99f-47bf-bd0c-45fc07b1f79b.png",
+      "source_output": "/workspace/generated_images/exec-4e16731e-b99f-47bf-bd0c-45fc07b1f79b.png",
+      "sha256": "715812859517945f700bcd67b0ac8a18471eace69d8b9dba861223200635548b",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Neutral Textured Hair Clips\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. THREE originalphotos are repeatangles SAMEONE sixclipSARASdisplaycard, notthreecards. ActualSIXlongstraightRECTANGULARbarrettes withsquareends, slightsurfacecurve; colourstop-to-bottomDARKBROWN,OLIVEKHAKI,TANORANGE,RUSTWOODGRAIN,PALEBEIGE,DARKTAUPE. Surfaceactualembossed/wrinkledcrackedleather/woodgraintexture asreference, notglitter/notfloralprint/notrhinestones. Preserveexact6clips onONEwhiteSARAScard, samecolours/textures/form/size. Fullviews1/2/3/5 show WHOLEONEcardwithALLSIX clipscountable, noindividualcliponly/noextra card. Removehand/pricebanner/storeclutter, cleanpackagingcanremain. Detail standalone tightmacroofactualRUSTwoodgraintexturedclip surfaceandmetaledge; notwholecard. AccurateheadingNeutral Textured Hair Clips.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-4e16731e-b99f-47bf-bd0c-45fc07b1f79b.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Neutral Textured Hair Clips\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. THREE originalphotos are repeatangles SAMEONE sixclipSARASdisplaycard, notthreecards. ActualSIXlongstraightRECTANGULARbarrettes withsquareends, slightsurfacecurve; colourstop-to-bottomDARKBROWN,OLIVEKHAKI,TANORANGE,RUSTWOODGRAIN,PALEBEIGE,DARKTAUPE. Surfaceactualembossed/wrinkledcrackedleather/woodgraintexture asreference, notglitter/notfloralprint/notrhinestones. Preserveexact6clips onONEwhiteSARAScard, samecolours/textures/form/size. Fullviews1/2/3/5 show WHOLEONEcardwithALLSIX clipscountable, noindividualcliponly/noextra card. Removehand/pricebanner/storeclutter, cleanpackagingcanremain. Detail standalone tightmacroofactualRUSTwoodgraintexturedclip surfaceandmetaledge; notwholecard. AccurateheadingNeutral Textured Hair Clips.",
+      "sha256": "e413ee8d8ddf9dd656fb44b3c58bba942702f155b2c9d23800be26f304669b11",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4e16731e-b99f-47bf-bd0c-45fc07b1f79b.png",
+      "grid_sha256": "715812859517945f700bcd67b0ac8a18471eace69d8b9dba861223200635548b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared to originals: One SARAScard sixneutral texturedrectangularbarrettes, threeoriginalssamecardangles. Sourcecount/materialtexture/shapes/colourorder retained allfullviews. Requestedwhite/styled/lifestyle/promo andaccurateheading; detail standalone tightactualtexture/edge macro passed. Website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-4e16731e-b99f-47bf-bd0c-45fc07b1f79b.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Neutral Textured Hair Clips\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. THREE originalphotos are repeatangles SAMEONE sixclipSARASdisplaycard, notthreecards. ActualSIXlongstraightRECTANGULARbarrettes withsquareends, slightsurfacecurve; colourstop-to-bottomDARKBROWN,OLIVEKHAKI,TANORANGE,RUSTWOODGRAIN,PALEBEIGE,DARKTAUPE. Surfaceactualembossed/wrinkledcrackedleather/woodgraintexture asreference, notglitter/notfloralprint/notrhinestones. Preserveexact6clips onONEwhiteSARAScard, samecolours/textures/form/size. Fullviews1/2/3/5 show WHOLEONEcardwithALLSIX clipscountable, noindividualcliponly/noextra card. Removehand/pricebanner/storeclutter, cleanpackagingcanremain. Detail standalone tightmacroofactualRUSTwoodgraintexturedclip surfaceandmetaledge; notwholecard. AccurateheadingNeutral Textured Hair Clips.",
+      "sha256": "935466fbd46611aaa141351eb229b7ee20f819e6b5874b9ef113126be720e487",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4e16731e-b99f-47bf-bd0c-45fc07b1f79b.png",
+      "grid_sha256": "715812859517945f700bcd67b0ac8a18471eace69d8b9dba861223200635548b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared to originals: One SARAScard sixneutral texturedrectangularbarrettes, threeoriginalssamecardangles. Sourcecount/materialtexture/shapes/colourorder retained allfullviews. Requestedwhite/styled/lifestyle/promo andaccurateheading; detail standalone tightactualtexture/edge macro passed. Website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-4e16731e-b99f-47bf-bd0c-45fc07b1f79b.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Neutral Textured Hair Clips\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. THREE originalphotos are repeatangles SAMEONE sixclipSARASdisplaycard, notthreecards. ActualSIXlongstraightRECTANGULARbarrettes withsquareends, slightsurfacecurve; colourstop-to-bottomDARKBROWN,OLIVEKHAKI,TANORANGE,RUSTWOODGRAIN,PALEBEIGE,DARKTAUPE. Surfaceactualembossed/wrinkledcrackedleather/woodgraintexture asreference, notglitter/notfloralprint/notrhinestones. Preserveexact6clips onONEwhiteSARAScard, samecolours/textures/form/size. Fullviews1/2/3/5 show WHOLEONEcardwithALLSIX clipscountable, noindividualcliponly/noextra card. Removehand/pricebanner/storeclutter, cleanpackagingcanremain. Detail standalone tightmacroofactualRUSTwoodgraintexturedclip surfaceandmetaledge; notwholecard. AccurateheadingNeutral Textured Hair Clips.",
+      "sha256": "f4cf1e9c6776cde9fc34513ba301aa5f753aef926c062f296b44e63c08feb611",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4e16731e-b99f-47bf-bd0c-45fc07b1f79b.png",
+      "grid_sha256": "715812859517945f700bcd67b0ac8a18471eace69d8b9dba861223200635548b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared to originals: One SARAScard sixneutral texturedrectangularbarrettes, threeoriginalssamecardangles. Sourcecount/materialtexture/shapes/colourorder retained allfullviews. Requestedwhite/styled/lifestyle/promo andaccurateheading; detail standalone tightactualtexture/edge macro passed. Website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-4e16731e-b99f-47bf-bd0c-45fc07b1f79b.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Neutral Textured Hair Clips\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. THREE originalphotos are repeatangles SAMEONE sixclipSARASdisplaycard, notthreecards. ActualSIXlongstraightRECTANGULARbarrettes withsquareends, slightsurfacecurve; colourstop-to-bottomDARKBROWN,OLIVEKHAKI,TANORANGE,RUSTWOODGRAIN,PALEBEIGE,DARKTAUPE. Surfaceactualembossed/wrinkledcrackedleather/woodgraintexture asreference, notglitter/notfloralprint/notrhinestones. Preserveexact6clips onONEwhiteSARAScard, samecolours/textures/form/size. Fullviews1/2/3/5 show WHOLEONEcardwithALLSIX clipscountable, noindividualcliponly/noextra card. Removehand/pricebanner/storeclutter, cleanpackagingcanremain. Detail standalone tightmacroofactualRUSTwoodgraintexturedclip surfaceandmetaledge; notwholecard. AccurateheadingNeutral Textured Hair Clips.",
+      "sha256": "3bef48f0d75741d06c7b0d2b93df0dc5cbd8d677d90c849a60ad6d3321b9fa3e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4e16731e-b99f-47bf-bd0c-45fc07b1f79b.png",
+      "grid_sha256": "715812859517945f700bcd67b0ac8a18471eace69d8b9dba861223200635548b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual grid/crops compared to originals: One SARAScard sixneutral texturedrectangularbarrettes, threeoriginalssamecardangles. Sourcecount/materialtexture/shapes/colourorder retained allfullviews. Requestedwhite/styled/lifestyle/promo andaccurateheading; detail standalone tightactualtexture/edge macro passed. Website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-4e16731e-b99f-47bf-bd0c-45fc07b1f79b.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Neutral Textured Hair Clips\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. THREE originalphotos are repeatangles SAMEONE sixclipSARASdisplaycard, notthreecards. ActualSIXlongstraightRECTANGULARbarrettes withsquareends, slightsurfacecurve; colourstop-to-bottomDARKBROWN,OLIVEKHAKI,TANORANGE,RUSTWOODGRAIN,PALEBEIGE,DARKTAUPE. Surfaceactualembossed/wrinkledcrackedleather/woodgraintexture asreference, notglitter/notfloralprint/notrhinestones. Preserveexact6clips onONEwhiteSARAScard, samecolours/textures/form/size. Fullviews1/2/3/5 show WHOLEONEcardwithALLSIX clipscountable, noindividualcliponly/noextra card. Removehand/pricebanner/storeclutter, cleanpackagingcanremain. Detail standalone tightmacroofactualRUSTwoodgraintexturedclip surfaceandmetaledge; notwholecard. AccurateheadingNeutral Textured Hair Clips.",
+      "sha256": "5ce0a3a17f37f047de1811781c9e5bee625e380493392400384b3490c92dabf3",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4e16731e-b99f-47bf-bd0c-45fc07b1f79b.png",
+      "grid_sha256": "715812859517945f700bcd67b0ac8a18471eace69d8b9dba861223200635548b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual grid/crops compared to originals: One SARAScard sixneutral texturedrectangularbarrettes, threeoriginalssamecardangles. Sourcecount/materialtexture/shapes/colourorder retained allfullviews. Requestedwhite/styled/lifestyle/promo andaccurateheading; detail standalone tightactualtexture/edge macro passed. Website-ready."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "One SARAScard sixneutral texturedrectangularbarrettes, threeoriginalssamecardangles",
+  "originals_verified_against_frozen_plan": true
+}

@@ -30515,71 +30515,81 @@
     "source_image_ids": [
       2803
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2502",
-    "folder": "2502_Animal-Plush-Toys-0",
+    "folder": "2502_Animal-Plush-Toys-1",
     "source_image_ids": [
       2804
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2503",
-    "folder": "2503_Character-Tote-Bags-0",
+    "folder": "2503_Character-Tote-Bags-1",
     "source_image_ids": [
       2805
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2504",
-    "folder": "2504_Blue-Pink-Plush-Toys-0",
+    "folder": "2504_Blue-Pink-Plush-Toys-1",
     "source_image_ids": [
       2806
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2505",
-    "folder": "2505_Coloured-Contact-Lens-Boxes-0",
+    "folder": "2505_Coloured-Contact-Lens-Boxes-1",
     "source_image_ids": [
       2807
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2506",
-    "folder": "2506_Coloured-Contact-Lenses-0",
+    "folder": "2506_Coloured-Contact-Lenses-1",
     "source_image_ids": [
       2808
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2507",
@@ -30589,7 +30599,7 @@
     ],
     "new_images": 0,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "blocked_moderation",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -30621,15 +30631,17 @@
   },
   {
     "product_id": "2510",
-    "folder": "2510_Colourful-Rechargeable-Fans-0",
+    "folder": "2510_Colourful-Rechargeable-Fans-1",
     "source_image_ids": [
       2812
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2511",
@@ -30647,15 +30659,17 @@
   },
   {
     "product_id": "2512",
-    "folder": "2512_Contact-Lens-Travel-Kits-0",
+    "folder": "2512_Contact-Lens-Travel-Kits-1",
     "source_image_ids": [
       2814
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2513",

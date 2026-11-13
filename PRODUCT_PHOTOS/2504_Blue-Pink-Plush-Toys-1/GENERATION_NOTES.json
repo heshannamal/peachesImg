@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260929-WA0114.jpg": "53d22200c4c2a2555b638568ddf41b86a2b6639b71013cbb2fa9911345a86836"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-26bc0711-e5c4-4c66-a0c6-6d293e5b2434.png",
+      "source_output": "/workspace/generated_images/exec-26bc0711-e5c4-4c66-a0c6-6d293e5b2434.png",
+      "sha256": "840c693ef8d5a8102fbfa8d5ab9bc186e66e0379ac9703795eaf0436ab388e6f",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Blue & Pink Plush Toys\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual original shows TWO seatedplushcharacter toys together: brightBLUEtoy atleft andPALEPINKtoy atright. Eachhasoneembroideredwinkingeye andoneopenovaleye,longears(purpleinnerblue,pinkinnerpink),nose(blackblue,pinkpink),palemuzzle/belly. BLUEtoy hugs smallTURQUOISEragdollwithblackbuttoneyes/redbow/yellowtuft; PINKtoy hugs smallPINKragdollwithdarkembroideredeye/stitches/redbow/yellowtuft. PreserveexactTWOlargeplushes andtheirTWOsmalldollaccessories, shapes/sourcecharacters/colours andredbows. ALLTWOlargeplusheswiththeirrespectivedolls together in eachfullview1/2/3/5, no singletoyonly/noaddedthird. Removepriceoverlay. Detail standalone tightmacro ofactualturquoiselittledoll blackbuttoneye/stitches andredbowfabric, notreplaceddoll. AccurateheadingBlue & Pink Plush Toys.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-26bc0711-e5c4-4c66-a0c6-6d293e5b2434.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Blue & Pink Plush Toys\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual original shows TWO seatedplushcharacter toys together: brightBLUEtoy atleft andPALEPINKtoy atright. Eachhasoneembroideredwinkingeye andoneopenovaleye,longears(purpleinnerblue,pinkinnerpink),nose(blackblue,pinkpink),palemuzzle/belly. BLUEtoy hugs smallTURQUOISEragdollwithblackbuttoneyes/redbow/yellowtuft; PINKtoy hugs smallPINKragdollwithdarkembroideredeye/stitches/redbow/yellowtuft. PreserveexactTWOlargeplushes andtheirTWOsmalldollaccessories, shapes/sourcecharacters/colours andredbows. ALLTWOlargeplusheswiththeirrespectivedolls together in eachfullview1/2/3/5, no singletoyonly/noaddedthird. Removepriceoverlay. Detail standalone tightmacro ofactualturquoiselittledoll blackbuttoneye/stitches andredbowfabric, notreplaceddoll. AccurateheadingBlue & Pink Plush Toys.",
+      "sha256": "63278103abb90edb42ce4fa1f01d035c2f23fc7d00ff8b2960fa4b1c59a37c79",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-26bc0711-e5c4-4c66-a0c6-6d293e5b2434.png",
+      "grid_sha256": "840c693ef8d5a8102fbfa8d5ab9bc186e66e0379ac9703795eaf0436ab388e6f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared to original: Two blue/pink seatedplush toys hugging turquoise/pink little ragdolls. Whole assortment/count retained allfullviews, shapes/sourcecolours/identity preserved. White/styled/lifestyle/promo accurateheading passed; detail tight realpart macro passed. Tiny typographiccosmetic differences acceptedwebsitequality."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-26bc0711-e5c4-4c66-a0c6-6d293e5b2434.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Blue & Pink Plush Toys\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual original shows TWO seatedplushcharacter toys together: brightBLUEtoy atleft andPALEPINKtoy atright. Eachhasoneembroideredwinkingeye andoneopenovaleye,longears(purpleinnerblue,pinkinnerpink),nose(blackblue,pinkpink),palemuzzle/belly. BLUEtoy hugs smallTURQUOISEragdollwithblackbuttoneyes/redbow/yellowtuft; PINKtoy hugs smallPINKragdollwithdarkembroideredeye/stitches/redbow/yellowtuft. PreserveexactTWOlargeplushes andtheirTWOsmalldollaccessories, shapes/sourcecharacters/colours andredbows. ALLTWOlargeplusheswiththeirrespectivedolls together in eachfullview1/2/3/5, no singletoyonly/noaddedthird. Removepriceoverlay. Detail standalone tightmacro ofactualturquoiselittledoll blackbuttoneye/stitches andredbowfabric, notreplaceddoll. AccurateheadingBlue & Pink Plush Toys.",
+      "sha256": "52882eab68cebaf51d7b30c8c0370d9d94778bffe61870d4492d0e89c14bd5ff",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-26bc0711-e5c4-4c66-a0c6-6d293e5b2434.png",
+      "grid_sha256": "840c693ef8d5a8102fbfa8d5ab9bc186e66e0379ac9703795eaf0436ab388e6f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared to original: Two blue/pink seatedplush toys hugging turquoise/pink little ragdolls. Whole assortment/count retained allfullviews, shapes/sourcecolours/identity preserved. White/styled/lifestyle/promo accurateheading passed; detail tight realpart macro passed. Tiny typographiccosmetic differences acceptedwebsitequality."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-26bc0711-e5c4-4c66-a0c6-6d293e5b2434.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Blue & Pink Plush Toys\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual original shows TWO seatedplushcharacter toys together: brightBLUEtoy atleft andPALEPINKtoy atright. Eachhasoneembroideredwinkingeye andoneopenovaleye,longears(purpleinnerblue,pinkinnerpink),nose(blackblue,pinkpink),palemuzzle/belly. BLUEtoy hugs smallTURQUOISEragdollwithblackbuttoneyes/redbow/yellowtuft; PINKtoy hugs smallPINKragdollwithdarkembroideredeye/stitches/redbow/yellowtuft. PreserveexactTWOlargeplushes andtheirTWOsmalldollaccessories, shapes/sourcecharacters/colours andredbows. ALLTWOlargeplusheswiththeirrespectivedolls together in eachfullview1/2/3/5, no singletoyonly/noaddedthird. Removepriceoverlay. Detail standalone tightmacro ofactualturquoiselittledoll blackbuttoneye/stitches andredbowfabric, notreplaceddoll. AccurateheadingBlue & Pink Plush Toys.",
+      "sha256": "d00d8aca40c7fc82ac5624dfe8d49141b515633b3b0658d969745a213d4d690d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-26bc0711-e5c4-4c66-a0c6-6d293e5b2434.png",
+      "grid_sha256": "840c693ef8d5a8102fbfa8d5ab9bc186e66e0379ac9703795eaf0436ab388e6f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared to original: Two blue/pink seatedplush toys hugging turquoise/pink little ragdolls. Whole assortment/count retained allfullviews, shapes/sourcecolours/identity preserved. White/styled/lifestyle/promo accurateheading passed; detail tight realpart macro passed. Tiny typographiccosmetic differences acceptedwebsitequality."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-26bc0711-e5c4-4c66-a0c6-6d293e5b2434.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Blue & Pink Plush Toys\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual original shows TWO seatedplushcharacter toys together: brightBLUEtoy atleft andPALEPINKtoy atright. Eachhasoneembroideredwinkingeye andoneopenovaleye,longears(purpleinnerblue,pinkinnerpink),nose(blackblue,pinkpink),palemuzzle/belly. BLUEtoy hugs smallTURQUOISEragdollwithblackbuttoneyes/redbow/yellowtuft; PINKtoy hugs smallPINKragdollwithdarkembroideredeye/stitches/redbow/yellowtuft. PreserveexactTWOlargeplushes andtheirTWOsmalldollaccessories, shapes/sourcecharacters/colours andredbows. ALLTWOlargeplusheswiththeirrespectivedolls together in eachfullview1/2/3/5, no singletoyonly/noaddedthird. Removepriceoverlay. Detail standalone tightmacro ofactualturquoiselittledoll blackbuttoneye/stitches andredbowfabric, notreplaceddoll. AccurateheadingBlue & Pink Plush Toys.",
+      "sha256": "7098c1ae29c4123aa4dde49cb074bef64efc6f6c4bbad7247ffae6fe2c1af546",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-26bc0711-e5c4-4c66-a0c6-6d293e5b2434.png",
+      "grid_sha256": "840c693ef8d5a8102fbfa8d5ab9bc186e66e0379ac9703795eaf0436ab388e6f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual grid/crops compared to original: Two blue/pink seatedplush toys hugging turquoise/pink little ragdolls. Whole assortment/count retained allfullviews, shapes/sourcecolours/identity preserved. White/styled/lifestyle/promo accurateheading passed; detail tight realpart macro passed. Tiny typographiccosmetic differences acceptedwebsitequality."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-26bc0711-e5c4-4c66-a0c6-6d293e5b2434.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Blue & Pink Plush Toys\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual original shows TWO seatedplushcharacter toys together: brightBLUEtoy atleft andPALEPINKtoy atright. Eachhasoneembroideredwinkingeye andoneopenovaleye,longears(purpleinnerblue,pinkinnerpink),nose(blackblue,pinkpink),palemuzzle/belly. BLUEtoy hugs smallTURQUOISEragdollwithblackbuttoneyes/redbow/yellowtuft; PINKtoy hugs smallPINKragdollwithdarkembroideredeye/stitches/redbow/yellowtuft. PreserveexactTWOlargeplushes andtheirTWOsmalldollaccessories, shapes/sourcecharacters/colours andredbows. ALLTWOlargeplusheswiththeirrespectivedolls together in eachfullview1/2/3/5, no singletoyonly/noaddedthird. Removepriceoverlay. Detail standalone tightmacro ofactualturquoiselittledoll blackbuttoneye/stitches andredbowfabric, notreplaceddoll. AccurateheadingBlue & Pink Plush Toys.",
+      "sha256": "0b3344506e469e0a28e5a6112495a1262a737d47f14da4d4bf587a775aab2c58",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-26bc0711-e5c4-4c66-a0c6-6d293e5b2434.png",
+      "grid_sha256": "840c693ef8d5a8102fbfa8d5ab9bc186e66e0379ac9703795eaf0436ab388e6f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual grid/crops compared to original: Two blue/pink seatedplush toys hugging turquoise/pink little ragdolls. Whole assortment/count retained allfullviews, shapes/sourcecolours/identity preserved. White/styled/lifestyle/promo accurateheading passed; detail tight realpart macro passed. Tiny typographiccosmetic differences acceptedwebsitequality."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Two blue/pink seatedplush toys hugging turquoise/pink little ragdolls",
+  "originals_verified_against_frozen_plan": true
+}

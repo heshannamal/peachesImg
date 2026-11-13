@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260929-WA0118.jpg": "9c9189c91fe652bab5a84ca8a7cf300643a69d47db9843dab081d27550887eb7"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-7206b2a5-dbb7-4a2d-a058-ad1d3587d3b7.png",
+      "source_output": "/workspace/generated_images/exec-7206b2a5-dbb7-4a2d-a058-ad1d3587d3b7.png",
+      "sha256": "04c824a4497c062b90f7ae67c2ae03ef1581fe4a9369908fbf57de3a2a0ba982",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Coloured Contact Lenses\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual assortment FreshLook COLORBLENDS lenspackaging: TWELVE blue/silver colourvariant cartons arranged3columns4rows PLUS ONE openedblue/silvergraycarton acrossback/top (13cartons total). Twelvefrontendlabels row1BRILLIANTBLUE/GRAY/TRUESAPPHIRE,row2STERLINGGRAY/AMETHYST/HONEY,row3GEMSTONEGREEN/BROWN/BLUE,row4TURQUOISE/GREEN/PUREHAZEL. Onegrayfoilcontactlensblisterlabel andONEclearblister withgraylens restacrossfronttop. Preserve whole13cartonassortment, lensblister/foil andsourcebranddesign. Do not add efficacy/safetyclaims. Allfullviews1/2/3/5 show ALL12variantcartons+openedgraycarton+blister together, notonebox. Lifestyle completeassortment oncleanvanitytable, no eye/person. Removecardboardbackground/priceoverlay. Detail tight realpartmacro ofactualgreycontactlens insideclearblister edge, notfullassortment. AccurateheadingColoured Contact Lenses.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-7206b2a5-dbb7-4a2d-a058-ad1d3587d3b7.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Coloured Contact Lenses\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual assortment FreshLook COLORBLENDS lenspackaging: TWELVE blue/silver colourvariant cartons arranged3columns4rows PLUS ONE openedblue/silvergraycarton acrossback/top (13cartons total). Twelvefrontendlabels row1BRILLIANTBLUE/GRAY/TRUESAPPHIRE,row2STERLINGGRAY/AMETHYST/HONEY,row3GEMSTONEGREEN/BROWN/BLUE,row4TURQUOISE/GREEN/PUREHAZEL. Onegrayfoilcontactlensblisterlabel andONEclearblister withgraylens restacrossfronttop. Preserve whole13cartonassortment, lensblister/foil andsourcebranddesign. Do not add efficacy/safetyclaims. Allfullviews1/2/3/5 show ALL12variantcartons+openedgraycarton+blister together, notonebox. Lifestyle completeassortment oncleanvanitytable, no eye/person. Removecardboardbackground/priceoverlay. Detail tight realpartmacro ofactualgreycontactlens insideclearblister edge, notfullassortment. AccurateheadingColoured Contact Lenses.",
+      "sha256": "1dac2bce0e4a5dd1484748146ba1b51d45f13a7c215fb97a8dac67a8aac8f9ab",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7206b2a5-dbb7-4a2d-a058-ad1d3587d3b7.png",
+      "grid_sha256": "04c824a4497c062b90f7ae67c2ae03ef1581fe4a9369908fbf57de3a2a0ba982",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared to original: FreshLook lens assortment, twelve variant cartons plus openedgraycarton and lensblister/foil. Whole assortment/count retained allfullviews, shapes/sourcecolours/identity preserved. White/styled/lifestyle/promo accurateheading passed; detail tight realpart macro passed. Tiny typographiccosmetic differences acceptedwebsitequality."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-7206b2a5-dbb7-4a2d-a058-ad1d3587d3b7.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Coloured Contact Lenses\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual assortment FreshLook COLORBLENDS lenspackaging: TWELVE blue/silver colourvariant cartons arranged3columns4rows PLUS ONE openedblue/silvergraycarton acrossback/top (13cartons total). Twelvefrontendlabels row1BRILLIANTBLUE/GRAY/TRUESAPPHIRE,row2STERLINGGRAY/AMETHYST/HONEY,row3GEMSTONEGREEN/BROWN/BLUE,row4TURQUOISE/GREEN/PUREHAZEL. Onegrayfoilcontactlensblisterlabel andONEclearblister withgraylens restacrossfronttop. Preserve whole13cartonassortment, lensblister/foil andsourcebranddesign. Do not add efficacy/safetyclaims. Allfullviews1/2/3/5 show ALL12variantcartons+openedgraycarton+blister together, notonebox. Lifestyle completeassortment oncleanvanitytable, no eye/person. Removecardboardbackground/priceoverlay. Detail tight realpartmacro ofactualgreycontactlens insideclearblister edge, notfullassortment. AccurateheadingColoured Contact Lenses.",
+      "sha256": "af3ca9eb7789215e9408cc117e7559f5d287ebe4f0e63e159e1a6fded6206c59",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7206b2a5-dbb7-4a2d-a058-ad1d3587d3b7.png",
+      "grid_sha256": "04c824a4497c062b90f7ae67c2ae03ef1581fe4a9369908fbf57de3a2a0ba982",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared to original: FreshLook lens assortment, twelve variant cartons plus openedgraycarton and lensblister/foil. Whole assortment/count retained allfullviews, shapes/sourcecolours/identity preserved. White/styled/lifestyle/promo accurateheading passed; detail tight realpart macro passed. Tiny typographiccosmetic differences acceptedwebsitequality."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-7206b2a5-dbb7-4a2d-a058-ad1d3587d3b7.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Coloured Contact Lenses\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual assortment FreshLook COLORBLENDS lenspackaging: TWELVE blue/silver colourvariant cartons arranged3columns4rows PLUS ONE openedblue/silvergraycarton acrossback/top (13cartons total). Twelvefrontendlabels row1BRILLIANTBLUE/GRAY/TRUESAPPHIRE,row2STERLINGGRAY/AMETHYST/HONEY,row3GEMSTONEGREEN/BROWN/BLUE,row4TURQUOISE/GREEN/PUREHAZEL. Onegrayfoilcontactlensblisterlabel andONEclearblister withgraylens restacrossfronttop. Preserve whole13cartonassortment, lensblister/foil andsourcebranddesign. Do not add efficacy/safetyclaims. Allfullviews1/2/3/5 show ALL12variantcartons+openedgraycarton+blister together, notonebox. Lifestyle completeassortment oncleanvanitytable, no eye/person. Removecardboardbackground/priceoverlay. Detail tight realpartmacro ofactualgreycontactlens insideclearblister edge, notfullassortment. AccurateheadingColoured Contact Lenses.",
+      "sha256": "3fb54d13771b2165d098f18b397c0fead32d880ad964e47acb1d62f3917aa30a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7206b2a5-dbb7-4a2d-a058-ad1d3587d3b7.png",
+      "grid_sha256": "04c824a4497c062b90f7ae67c2ae03ef1581fe4a9369908fbf57de3a2a0ba982",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared to original: FreshLook lens assortment, twelve variant cartons plus openedgraycarton and lensblister/foil. Whole assortment/count retained allfullviews, shapes/sourcecolours/identity preserved. White/styled/lifestyle/promo accurateheading passed; detail tight realpart macro passed. Tiny typographiccosmetic differences acceptedwebsitequality."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-7206b2a5-dbb7-4a2d-a058-ad1d3587d3b7.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Coloured Contact Lenses\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual assortment FreshLook COLORBLENDS lenspackaging: TWELVE blue/silver colourvariant cartons arranged3columns4rows PLUS ONE openedblue/silvergraycarton acrossback/top (13cartons total). Twelvefrontendlabels row1BRILLIANTBLUE/GRAY/TRUESAPPHIRE,row2STERLINGGRAY/AMETHYST/HONEY,row3GEMSTONEGREEN/BROWN/BLUE,row4TURQUOISE/GREEN/PUREHAZEL. Onegrayfoilcontactlensblisterlabel andONEclearblister withgraylens restacrossfronttop. Preserve whole13cartonassortment, lensblister/foil andsourcebranddesign. Do not add efficacy/safetyclaims. Allfullviews1/2/3/5 show ALL12variantcartons+openedgraycarton+blister together, notonebox. Lifestyle completeassortment oncleanvanitytable, no eye/person. Removecardboardbackground/priceoverlay. Detail tight realpartmacro ofactualgreycontactlens insideclearblister edge, notfullassortment. AccurateheadingColoured Contact Lenses.",
+      "sha256": "66f88c38cf48218182e5051e58ee1af26901211050e95f1c7a1b1c8b3e374e9f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7206b2a5-dbb7-4a2d-a058-ad1d3587d3b7.png",
+      "grid_sha256": "04c824a4497c062b90f7ae67c2ae03ef1581fe4a9369908fbf57de3a2a0ba982",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual grid/crops compared to original: FreshLook lens assortment, twelve variant cartons plus openedgraycarton and lensblister/foil. Whole assortment/count retained allfullviews, shapes/sourcecolours/identity preserved. White/styled/lifestyle/promo accurateheading passed; detail tight realpart macro passed. Tiny typographiccosmetic differences acceptedwebsitequality."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-7206b2a5-dbb7-4a2d-a058-ad1d3587d3b7.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Coloured Contact Lenses\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual assortment FreshLook COLORBLENDS lenspackaging: TWELVE blue/silver colourvariant cartons arranged3columns4rows PLUS ONE openedblue/silvergraycarton acrossback/top (13cartons total). Twelvefrontendlabels row1BRILLIANTBLUE/GRAY/TRUESAPPHIRE,row2STERLINGGRAY/AMETHYST/HONEY,row3GEMSTONEGREEN/BROWN/BLUE,row4TURQUOISE/GREEN/PUREHAZEL. Onegrayfoilcontactlensblisterlabel andONEclearblister withgraylens restacrossfronttop. Preserve whole13cartonassortment, lensblister/foil andsourcebranddesign. Do not add efficacy/safetyclaims. Allfullviews1/2/3/5 show ALL12variantcartons+openedgraycarton+blister together, notonebox. Lifestyle completeassortment oncleanvanitytable, no eye/person. Removecardboardbackground/priceoverlay. Detail tight realpartmacro ofactualgreycontactlens insideclearblister edge, notfullassortment. AccurateheadingColoured Contact Lenses.",
+      "sha256": "f98101864eeac3609a12e9d1fce079adf9234504c7944f0d1858dd30392fa8fb",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7206b2a5-dbb7-4a2d-a058-ad1d3587d3b7.png",
+      "grid_sha256": "04c824a4497c062b90f7ae67c2ae03ef1581fe4a9369908fbf57de3a2a0ba982",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual grid/crops compared to original: FreshLook lens assortment, twelve variant cartons plus openedgraycarton and lensblister/foil. Whole assortment/count retained allfullviews, shapes/sourcecolours/identity preserved. White/styled/lifestyle/promo accurateheading passed; detail tight realpart macro passed. Tiny typographiccosmetic differences acceptedwebsitequality."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "FreshLook lens assortment, twelve variant cartons plus openedgraycarton and lensblister/foil",
+  "originals_verified_against_frozen_plan": true
+}

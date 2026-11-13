@@ -1,0 +1,133 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260919-WA0164.jpg": "6113e29b9dd98de699fa95532dc2163f9d28f4555e4f0b44e7609ca64c43160b"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-5ac0fc25-2f2b-4112-8e7b-548b86a756dd.png",
+      "source_output": "/workspace/generated_images/exec-5ac0fc25-2f2b-4112-8e7b-548b86a756dd.png",
+      "sha256": "84c2797c5ad7ab887edff25ca197f893f675140c620736b9ac0c1115b6276b9b",
+      "prompt": "Edit attachedACTUALoriginalphotos intoONE1536x1024websitecontactsheet exactly3columns2rows square512cells,nogutters. Toprow purewhitefullassortment/lavendercreamstyledfullassortment/cleandesklifestylefullassortment. Bottomrow standalone tightrealpartmacro/fullassortmentpromotionalaccurateheading/blankcream. Preserve actualwholeassortmentcount/identity/shapes/colours/labels;removeoldpriceoverlay,shopbackground,catalogdividers. Noextrabottles/inventedhandlesorclaims. ActualFOURtallslimroundedcylindricalSportsbottles matchingdomedscrewlids: PINK,LILAC,DUSTYBLUE,LIMEGREEN. OriginalwhiteverticalSportslogoeach. Eachlidincludesahorizontalmobilephoneholdergroove: FOURblackphonesrestlandscapeoneoneachlidlikereference,phonesarepropsnotproducts; preserve4bottlesand4phones, noextravariants. Showallfourfullbodiesandholderdemonstrations. Usegenericoceanscreenssimilartoactualphotos. Macro tightlyactualpastelpinklidphoneholdergroove/phonebottomedgepart,notwholebottle. Promotionalheading \"Phone Holder Sports Bottles\".",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-5ac0fc25-2f2b-4112-8e7b-548b86a756dd.png",
+      "prompt": "Edit attachedACTUALoriginalphotos intoONE1536x1024websitecontactsheet exactly3columns2rows square512cells,nogutters. Toprow purewhitefullassortment/lavendercreamstyledfullassortment/cleandesklifestylefullassortment. Bottomrow standalone tightrealpartmacro/fullassortmentpromotionalaccurateheading/blankcream. Preserve actualwholeassortmentcount/identity/shapes/colours/labels;removeoldpriceoverlay,shopbackground,catalogdividers. Noextrabottles/inventedhandlesorclaims. ActualFOURtallslimroundedcylindricalSportsbottles matchingdomedscrewlids: PINK,LILAC,DUSTYBLUE,LIMEGREEN. OriginalwhiteverticalSportslogoeach. Eachlidincludesahorizontalmobilephoneholdergroove: FOURblackphonesrestlandscapeoneoneachlidlikereference,phonesarepropsnotproducts; preserve4bottlesand4phones, noextravariants. Showallfourfullbodiesandholderdemonstrations. Usegenericoceanscreenssimilartoactualphotos. Macro tightlyactualpastelpinklidphoneholdergroove/phonebottomedgepart,notwholebottle. Promotionalheading \"Phone Holder Sports Bottles\".",
+      "sha256": "49cff99a4047ad5768ad45016ae03f9f96bc91a1ca36b8ad8796ac98b37f8a89",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5ac0fc25-2f2b-4112-8e7b-548b86a756dd.png",
+      "grid_sha256": "84c2797c5ad7ab887edff25ca197f893f675140c620736b9ac0c1115b6276b9b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual5savedcrops inspected:4originalslimSportsbottles pink/lilac/dustyblue/lime,domedcolourmatchedlid/whiteverticalprintand4landscapephoneprops demonstratingholders. Count4bottles/4props/identityshapescoloursretained. White/lavenderstyled/desklifestylevalid; tightactualpinklidgroove/phonebottomedgemacro realpart;accurateheading. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-5ac0fc25-2f2b-4112-8e7b-548b86a756dd.png",
+      "prompt": "Edit attachedACTUALoriginalphotos intoONE1536x1024websitecontactsheet exactly3columns2rows square512cells,nogutters. Toprow purewhitefullassortment/lavendercreamstyledfullassortment/cleandesklifestylefullassortment. Bottomrow standalone tightrealpartmacro/fullassortmentpromotionalaccurateheading/blankcream. Preserve actualwholeassortmentcount/identity/shapes/colours/labels;removeoldpriceoverlay,shopbackground,catalogdividers. Noextrabottles/inventedhandlesorclaims. ActualFOURtallslimroundedcylindricalSportsbottles matchingdomedscrewlids: PINK,LILAC,DUSTYBLUE,LIMEGREEN. OriginalwhiteverticalSportslogoeach. Eachlidincludesahorizontalmobilephoneholdergroove: FOURblackphonesrestlandscapeoneoneachlidlikereference,phonesarepropsnotproducts; preserve4bottlesand4phones, noextravariants. Showallfourfullbodiesandholderdemonstrations. Usegenericoceanscreenssimilartoactualphotos. Macro tightlyactualpastelpinklidphoneholdergroove/phonebottomedgepart,notwholebottle. Promotionalheading \"Phone Holder Sports Bottles\".",
+      "sha256": "6ae583d75247e4446f09cebd732312cd4ad8f0297767ab58e15c591f8d05a4bc",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5ac0fc25-2f2b-4112-8e7b-548b86a756dd.png",
+      "grid_sha256": "84c2797c5ad7ab887edff25ca197f893f675140c620736b9ac0c1115b6276b9b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual5savedcrops inspected:4originalslimSportsbottles pink/lilac/dustyblue/lime,domedcolourmatchedlid/whiteverticalprintand4landscapephoneprops demonstratingholders. Count4bottles/4props/identityshapescoloursretained. White/lavenderstyled/desklifestylevalid; tightactualpinklidgroove/phonebottomedgemacro realpart;accurateheading. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-5ac0fc25-2f2b-4112-8e7b-548b86a756dd.png",
+      "prompt": "Edit attachedACTUALoriginalphotos intoONE1536x1024websitecontactsheet exactly3columns2rows square512cells,nogutters. Toprow purewhitefullassortment/lavendercreamstyledfullassortment/cleandesklifestylefullassortment. Bottomrow standalone tightrealpartmacro/fullassortmentpromotionalaccurateheading/blankcream. Preserve actualwholeassortmentcount/identity/shapes/colours/labels;removeoldpriceoverlay,shopbackground,catalogdividers. Noextrabottles/inventedhandlesorclaims. ActualFOURtallslimroundedcylindricalSportsbottles matchingdomedscrewlids: PINK,LILAC,DUSTYBLUE,LIMEGREEN. OriginalwhiteverticalSportslogoeach. Eachlidincludesahorizontalmobilephoneholdergroove: FOURblackphonesrestlandscapeoneoneachlidlikereference,phonesarepropsnotproducts; preserve4bottlesand4phones, noextravariants. Showallfourfullbodiesandholderdemonstrations. Usegenericoceanscreenssimilartoactualphotos. Macro tightlyactualpastelpinklidphoneholdergroove/phonebottomedgepart,notwholebottle. Promotionalheading \"Phone Holder Sports Bottles\".",
+      "sha256": "362b30acbe0e204477d87c341d55813d693c2775a77bc3d1bbc9c0ec1f61a688",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5ac0fc25-2f2b-4112-8e7b-548b86a756dd.png",
+      "grid_sha256": "84c2797c5ad7ab887edff25ca197f893f675140c620736b9ac0c1115b6276b9b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual5savedcrops inspected:4originalslimSportsbottles pink/lilac/dustyblue/lime,domedcolourmatchedlid/whiteverticalprintand4landscapephoneprops demonstratingholders. Count4bottles/4props/identityshapescoloursretained. White/lavenderstyled/desklifestylevalid; tightactualpinklidgroove/phonebottomedgemacro realpart;accurateheading. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-5ac0fc25-2f2b-4112-8e7b-548b86a756dd.png",
+      "prompt": "Edit attachedACTUALoriginalphotos intoONE1536x1024websitecontactsheet exactly3columns2rows square512cells,nogutters. Toprow purewhitefullassortment/lavendercreamstyledfullassortment/cleandesklifestylefullassortment. Bottomrow standalone tightrealpartmacro/fullassortmentpromotionalaccurateheading/blankcream. Preserve actualwholeassortmentcount/identity/shapes/colours/labels;removeoldpriceoverlay,shopbackground,catalogdividers. Noextrabottles/inventedhandlesorclaims. ActualFOURtallslimroundedcylindricalSportsbottles matchingdomedscrewlids: PINK,LILAC,DUSTYBLUE,LIMEGREEN. OriginalwhiteverticalSportslogoeach. Eachlidincludesahorizontalmobilephoneholdergroove: FOURblackphonesrestlandscapeoneoneachlidlikereference,phonesarepropsnotproducts; preserve4bottlesand4phones, noextravariants. Showallfourfullbodiesandholderdemonstrations. Usegenericoceanscreenssimilartoactualphotos. Macro tightlyactualpastelpinklidphoneholdergroove/phonebottomedgepart,notwholebottle. Promotionalheading \"Phone Holder Sports Bottles\".",
+      "sha256": "ab00cac6f8f46541be050dcaacb47120b09dc028fc4fe3d4998564277ba00378",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5ac0fc25-2f2b-4112-8e7b-548b86a756dd.png",
+      "grid_sha256": "84c2797c5ad7ab887edff25ca197f893f675140c620736b9ac0c1115b6276b9b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual5savedcrops inspected:4originalslimSportsbottles pink/lilac/dustyblue/lime,domedcolourmatchedlid/whiteverticalprintand4landscapephoneprops demonstratingholders. Count4bottles/4props/identityshapescoloursretained. White/lavenderstyled/desklifestylevalid; tightactualpinklidgroove/phonebottomedgemacro realpart;accurateheading. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-5ac0fc25-2f2b-4112-8e7b-548b86a756dd.png",
+      "prompt": "Edit attachedACTUALoriginalphotos intoONE1536x1024websitecontactsheet exactly3columns2rows square512cells,nogutters. Toprow purewhitefullassortment/lavendercreamstyledfullassortment/cleandesklifestylefullassortment. Bottomrow standalone tightrealpartmacro/fullassortmentpromotionalaccurateheading/blankcream. Preserve actualwholeassortmentcount/identity/shapes/colours/labels;removeoldpriceoverlay,shopbackground,catalogdividers. Noextrabottles/inventedhandlesorclaims. ActualFOURtallslimroundedcylindricalSportsbottles matchingdomedscrewlids: PINK,LILAC,DUSTYBLUE,LIMEGREEN. OriginalwhiteverticalSportslogoeach. Eachlidincludesahorizontalmobilephoneholdergroove: FOURblackphonesrestlandscapeoneoneachlidlikereference,phonesarepropsnotproducts; preserve4bottlesand4phones, noextravariants. Showallfourfullbodiesandholderdemonstrations. Usegenericoceanscreenssimilartoactualphotos. Macro tightlyactualpastelpinklidphoneholdergroove/phonebottomedgepart,notwholebottle. Promotionalheading \"Phone Holder Sports Bottles\".",
+      "sha256": "905ecdcd39735178911fcb2be4b6c62e5873f8c26413e2894ba348d74a94cd07",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5ac0fc25-2f2b-4112-8e7b-548b86a756dd.png",
+      "grid_sha256": "84c2797c5ad7ab887edff25ca197f893f675140c620736b9ac0c1115b6276b9b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual5savedcrops inspected:4originalslimSportsbottles pink/lilac/dustyblue/lime,domedcolourmatchedlid/whiteverticalprintand4landscapephoneprops demonstratingholders. Count4bottles/4props/identityshapescoloursretained. White/lavenderstyled/desklifestylevalid; tightactualpinklidgroove/phonebottomedgemacro realpart;accurateheading. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "kind": "exact_prompt_file",
+      "saved_file": "Generation_Prompts/initial.txt",
+      "sha256": "2ea56662f61e229600de8f830d516079aa0199d7588cf347a754b13f64aebd95",
+      "checked": false
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

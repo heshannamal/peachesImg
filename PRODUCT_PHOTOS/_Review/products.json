@@ -30022,9 +30022,9 @@
     "source_image_ids": [
       2760
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -30034,9 +30034,9 @@
     "source_image_ids": [
       2761
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -30070,15 +30070,17 @@
   },
   {
     "product_id": "2463",
-    "folder": "2463_Pastel-Drinking-Bottles-0",
+    "folder": "2463_Pastel-Drinking-Bottles-1",
     "source_image_ids": [
       2764
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2465",
@@ -30096,27 +30098,31 @@
   },
   {
     "product_id": "2466",
-    "folder": "2466_Clear-Pendant-Jewellery-Sets-0",
+    "folder": "2466_Clear-Pendant-Jewellery-Sets-1",
     "source_image_ids": [
       2767
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2467",
-    "folder": "2467_Red-Pendant-Jewellery-Sets-0",
+    "folder": "2467_Red-Pendant-Jewellery-Sets-1",
     "source_image_ids": [
       2768
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2468",

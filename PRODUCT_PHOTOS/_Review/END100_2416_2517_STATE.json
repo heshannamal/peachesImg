@@ -1,18 +1,18 @@
 {
-  "status": "resuming_availability_probe",
+  "status": "running",
   "started_at": "2026-11-13T00:50:32.168194+00:00",
   "max_active_products": 10,
   "processing_order": "descending_numeric_product_id",
   "generation_workflow": "one_native3x2grid_then_five_crops",
-  "updated_at": "2026-11-13T07:58:32.364820+00:00",
+  "updated_at": "2026-11-13T08:03:52.530694+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 36,
+  "completed_products": 38,
   "partial_products": 4,
-  "pending_products": 54,
+  "pending_products": 52,
   "blocked_products": 6,
-  "saved_images": 194,
-  "checked_images": 186,
+  "saved_images": 204,
+  "checked_images": 196,
   "resumed_at": "2026-11-13T07:58:32.215361+00:00",
   "workspace_recovered_from_github": true,
   "lost_unpersisted_corrective_results": [
@@ -20,6 +20,5 @@
     "2476"
   ],
   "resume_note": "RecoveredGitHubcheckpoint36complete/194saved afterworkspace restart; preserve allsavedoutputs and spentcorrectives, probe onependingproduct before5workers.",
-  "in_flight_calls": 0,
-  "active_products": 0
+  "native_availability_probe": "2471succeeded after workspace recovery;5workersresumed"
 }

@@ -23,7 +23,7 @@ while not STOP.exists():
  try:
   command(['python',str(HELPER),'reconcile']);data=json.loads((REVIEW/'END100_2416_2517_PROGRESS.json').read_text())
   print(json.dumps({k:v for k,v in data.items() if k!='products'}),flush=True)
-  if data['saved_images']-old['saved_images']>=15 or data['completed_products']-old['completed_products']>=5:
+  if data['saved_images']-old['saved_images']>=5 or data['completed_products']-old['completed_products']>=1:
    checkpoint();old=data
    print('GITHUB_CHECKPOINT_UPLOADED',flush=True)
  except Exception as e:print('CHECKPOINT_RETRY_NEEDED: '+str(e),flush=True)

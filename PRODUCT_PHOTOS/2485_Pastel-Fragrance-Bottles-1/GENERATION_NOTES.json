@@ -1,0 +1,126 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260923-WA0218.jpg": "0ebe80b50186347479b9027cf47464436e7c5af52e5fc43226b4e278903098c1"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-14edf8fb-0558-4d9b-8e19-812b33896b5a.png",
+      "source_output": "/workspace/generated_images/exec-14edf8fb-0558-4d9b-8e19-812b33896b5a.png",
+      "sha256": "ad8b5baa97cea590ff2d524fadce2423ed3c0a4ad13ccb6c43d2cf5f084fb818",
+      "prompt": "Native faithful reference edit into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. ENTIRE original six-variety perfume assortment is ONEproduct. Each fullview cell show exactly SIX DIFFERENT perfume bottles and SIX matching retailboxes together in2rows3pairs; preserve original bottle shapes/caps/colours/brand labels/boxart, noextra/missingitems or stocksubstitutes. Remove floating NEW/Fragrance/catalogue overlays and collageborders only. Toprowwhite studio fullassortment,lavendercreamstyled fullassortment,naturalvanity lifestyle fullassortment. Bottomrow standalone tightrealpart cap/glass/labelmacro only,promotional all6bottles6boxes heading 'Fragrance Assortment',blankcreamunused. Exactsplitx512,x1024,y512,no gutters/borders. Sixactualpairs: 9XChoiceGold frostedpalecream roundedrectangle goldneck/clearcap withgoldbox;9XChoiceSilver frostedcream roundedrectangle silverneck/clearcap withsilverbox;SHADHA palegreen curvedshield bottle tallcurvedsilvercap withdarkgreenrosebox;MUSK frostedcream squarebottle blackrectcap withstripedgreenbox;BLUEWATER frostedpaleblue tallcurvedwaistbottle bluecap withbluewaterbox;VIPYELLOWJASMINE transparentYELLOWcylindricalbottle orangeflaredcap/silverridgedneck withyellowflowerbox. Preserve6distinctbottleshapes and matchingboxes exactly. Macro goldclearcap/neck oforiginal9XGold.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-14edf8fb-0558-4d9b-8e19-812b33896b5a.png",
+      "prompt": "Native faithful reference edit into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. ENTIRE original six-variety perfume assortment is ONEproduct. Each fullview cell show exactly SIX DIFFERENT perfume bottles and SIX matching retailboxes together in2rows3pairs; preserve original bottle shapes/caps/colours/brand labels/boxart, noextra/missingitems or stocksubstitutes. Remove floating NEW/Fragrance/catalogue overlays and collageborders only. Toprowwhite studio fullassortment,lavendercreamstyled fullassortment,naturalvanity lifestyle fullassortment. Bottomrow standalone tightrealpart cap/glass/labelmacro only,promotional all6bottles6boxes heading 'Fragrance Assortment',blankcreamunused. Exactsplitx512,x1024,y512,no gutters/borders. Sixactualpairs: 9XChoiceGold frostedpalecream roundedrectangle goldneck/clearcap withgoldbox;9XChoiceSilver frostedcream roundedrectangle silverneck/clearcap withsilverbox;SHADHA palegreen curvedshield bottle tallcurvedsilvercap withdarkgreenrosebox;MUSK frostedcream squarebottle blackrectcap withstripedgreenbox;BLUEWATER frostedpaleblue tallcurvedwaistbottle bluecap withbluewaterbox;VIPYELLOWJASMINE transparentYELLOWcylindricalbottle orangeflaredcap/silverridgedneck withyellowflowerbox. Preserve6distinctbottleshapes and matchingboxes exactly. Macro goldclearcap/neck oforiginal9XGold.\n",
+      "sha256": "dbe77252d1968226da1f1d1652e1417ee08bf9edfbd5aaa23f7cb73c63325f27",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-14edf8fb-0558-4d9b-8e19-812b33896b5a.png",
+      "grid_sha256": "ad8b5baa97cea590ff2d524fadce2423ed3c0a4ad13ccb6c43d2cf5f084fb818",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Pass: fourfullviews sixdistinctHPfragrances withsixmatchingboxes:9XGold/9XSilver/Shadha/Musk/BlueWater/Jasmine; originalbottle/capshapes/colours retained. TightGoldclearcap/neckmacro;accurategenericheading, clean512crops. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-14edf8fb-0558-4d9b-8e19-812b33896b5a.png",
+      "prompt": "Native faithful reference edit into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. ENTIRE original six-variety perfume assortment is ONEproduct. Each fullview cell show exactly SIX DIFFERENT perfume bottles and SIX matching retailboxes together in2rows3pairs; preserve original bottle shapes/caps/colours/brand labels/boxart, noextra/missingitems or stocksubstitutes. Remove floating NEW/Fragrance/catalogue overlays and collageborders only. Toprowwhite studio fullassortment,lavendercreamstyled fullassortment,naturalvanity lifestyle fullassortment. Bottomrow standalone tightrealpart cap/glass/labelmacro only,promotional all6bottles6boxes heading 'Fragrance Assortment',blankcreamunused. Exactsplitx512,x1024,y512,no gutters/borders. Sixactualpairs: 9XChoiceGold frostedpalecream roundedrectangle goldneck/clearcap withgoldbox;9XChoiceSilver frostedcream roundedrectangle silverneck/clearcap withsilverbox;SHADHA palegreen curvedshield bottle tallcurvedsilvercap withdarkgreenrosebox;MUSK frostedcream squarebottle blackrectcap withstripedgreenbox;BLUEWATER frostedpaleblue tallcurvedwaistbottle bluecap withbluewaterbox;VIPYELLOWJASMINE transparentYELLOWcylindricalbottle orangeflaredcap/silverridgedneck withyellowflowerbox. Preserve6distinctbottleshapes and matchingboxes exactly. Macro goldclearcap/neck oforiginal9XGold.\n",
+      "sha256": "995012de6bff92c0dc7ec7e40b5c3d93a772a0b8fa254c0098fc7ef4ad7e863c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-14edf8fb-0558-4d9b-8e19-812b33896b5a.png",
+      "grid_sha256": "ad8b5baa97cea590ff2d524fadce2423ed3c0a4ad13ccb6c43d2cf5f084fb818",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Pass: fourfullviews sixdistinctHPfragrances withsixmatchingboxes:9XGold/9XSilver/Shadha/Musk/BlueWater/Jasmine; originalbottle/capshapes/colours retained. TightGoldclearcap/neckmacro;accurategenericheading, clean512crops. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-14edf8fb-0558-4d9b-8e19-812b33896b5a.png",
+      "prompt": "Native faithful reference edit into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. ENTIRE original six-variety perfume assortment is ONEproduct. Each fullview cell show exactly SIX DIFFERENT perfume bottles and SIX matching retailboxes together in2rows3pairs; preserve original bottle shapes/caps/colours/brand labels/boxart, noextra/missingitems or stocksubstitutes. Remove floating NEW/Fragrance/catalogue overlays and collageborders only. Toprowwhite studio fullassortment,lavendercreamstyled fullassortment,naturalvanity lifestyle fullassortment. Bottomrow standalone tightrealpart cap/glass/labelmacro only,promotional all6bottles6boxes heading 'Fragrance Assortment',blankcreamunused. Exactsplitx512,x1024,y512,no gutters/borders. Sixactualpairs: 9XChoiceGold frostedpalecream roundedrectangle goldneck/clearcap withgoldbox;9XChoiceSilver frostedcream roundedrectangle silverneck/clearcap withsilverbox;SHADHA palegreen curvedshield bottle tallcurvedsilvercap withdarkgreenrosebox;MUSK frostedcream squarebottle blackrectcap withstripedgreenbox;BLUEWATER frostedpaleblue tallcurvedwaistbottle bluecap withbluewaterbox;VIPYELLOWJASMINE transparentYELLOWcylindricalbottle orangeflaredcap/silverridgedneck withyellowflowerbox. Preserve6distinctbottleshapes and matchingboxes exactly. Macro goldclearcap/neck oforiginal9XGold.\n",
+      "sha256": "87a6000644518df31de15f8855189622c63e1976aee69f013ecd3d1debfe7eb3",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-14edf8fb-0558-4d9b-8e19-812b33896b5a.png",
+      "grid_sha256": "ad8b5baa97cea590ff2d524fadce2423ed3c0a4ad13ccb6c43d2cf5f084fb818",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Pass: fourfullviews sixdistinctHPfragrances withsixmatchingboxes:9XGold/9XSilver/Shadha/Musk/BlueWater/Jasmine; originalbottle/capshapes/colours retained. TightGoldclearcap/neckmacro;accurategenericheading, clean512crops. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-14edf8fb-0558-4d9b-8e19-812b33896b5a.png",
+      "prompt": "Native faithful reference edit into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. ENTIRE original six-variety perfume assortment is ONEproduct. Each fullview cell show exactly SIX DIFFERENT perfume bottles and SIX matching retailboxes together in2rows3pairs; preserve original bottle shapes/caps/colours/brand labels/boxart, noextra/missingitems or stocksubstitutes. Remove floating NEW/Fragrance/catalogue overlays and collageborders only. Toprowwhite studio fullassortment,lavendercreamstyled fullassortment,naturalvanity lifestyle fullassortment. Bottomrow standalone tightrealpart cap/glass/labelmacro only,promotional all6bottles6boxes heading 'Fragrance Assortment',blankcreamunused. Exactsplitx512,x1024,y512,no gutters/borders. Sixactualpairs: 9XChoiceGold frostedpalecream roundedrectangle goldneck/clearcap withgoldbox;9XChoiceSilver frostedcream roundedrectangle silverneck/clearcap withsilverbox;SHADHA palegreen curvedshield bottle tallcurvedsilvercap withdarkgreenrosebox;MUSK frostedcream squarebottle blackrectcap withstripedgreenbox;BLUEWATER frostedpaleblue tallcurvedwaistbottle bluecap withbluewaterbox;VIPYELLOWJASMINE transparentYELLOWcylindricalbottle orangeflaredcap/silverridgedneck withyellowflowerbox. Preserve6distinctbottleshapes and matchingboxes exactly. Macro goldclearcap/neck oforiginal9XGold.\n",
+      "sha256": "44da371c78e4e1d507eca7e43ff5825d8ee6f5e545f092b96ab0bba08bad0bc7",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-14edf8fb-0558-4d9b-8e19-812b33896b5a.png",
+      "grid_sha256": "ad8b5baa97cea590ff2d524fadce2423ed3c0a4ad13ccb6c43d2cf5f084fb818",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Pass: fourfullviews sixdistinctHPfragrances withsixmatchingboxes:9XGold/9XSilver/Shadha/Musk/BlueWater/Jasmine; originalbottle/capshapes/colours retained. TightGoldclearcap/neckmacro;accurategenericheading, clean512crops. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-14edf8fb-0558-4d9b-8e19-812b33896b5a.png",
+      "prompt": "Native faithful reference edit into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. ENTIRE original six-variety perfume assortment is ONEproduct. Each fullview cell show exactly SIX DIFFERENT perfume bottles and SIX matching retailboxes together in2rows3pairs; preserve original bottle shapes/caps/colours/brand labels/boxart, noextra/missingitems or stocksubstitutes. Remove floating NEW/Fragrance/catalogue overlays and collageborders only. Toprowwhite studio fullassortment,lavendercreamstyled fullassortment,naturalvanity lifestyle fullassortment. Bottomrow standalone tightrealpart cap/glass/labelmacro only,promotional all6bottles6boxes heading 'Fragrance Assortment',blankcreamunused. Exactsplitx512,x1024,y512,no gutters/borders. Sixactualpairs: 9XChoiceGold frostedpalecream roundedrectangle goldneck/clearcap withgoldbox;9XChoiceSilver frostedcream roundedrectangle silverneck/clearcap withsilverbox;SHADHA palegreen curvedshield bottle tallcurvedsilvercap withdarkgreenrosebox;MUSK frostedcream squarebottle blackrectcap withstripedgreenbox;BLUEWATER frostedpaleblue tallcurvedwaistbottle bluecap withbluewaterbox;VIPYELLOWJASMINE transparentYELLOWcylindricalbottle orangeflaredcap/silverridgedneck withyellowflowerbox. Preserve6distinctbottleshapes and matchingboxes exactly. Macro goldclearcap/neck oforiginal9XGold.\n",
+      "sha256": "4e210163f47d658c27e0537537503008cb54f8769812c90d516741f28bcd8aaa",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-14edf8fb-0558-4d9b-8e19-812b33896b5a.png",
+      "grid_sha256": "ad8b5baa97cea590ff2d524fadce2423ed3c0a4ad13ccb6c43d2cf5f084fb818",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Pass: fourfullviews sixdistinctHPfragrances withsixmatchingboxes:9XGold/9XSilver/Shadha/Musk/BlueWater/Jasmine; originalbottle/capshapes/colours retained. TightGoldclearcap/neckmacro;accurategenericheading, clean512crops. Frozenoriginal/outputSHAverified."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

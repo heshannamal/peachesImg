@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260923-WA0271.jpg": "44c34d35da78dce4d489879d275beeba9a8e43c905ff365b39dc34a78b517b8c"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-51a5b10f-175d-4a6e-9b7a-28e5746d5071.png",
+      "source_output": "/workspace/generated_images/exec-51a5b10f-175d-4a6e-9b7a-28e5746d5071.png",
+      "sha256": "360ec173e2245e6dd30b88a2bf2124f0c8860e55e156baa6ea2e10f67e1353c1",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Floral Print Hair Clips\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage shows THREE DISTINCT six-clipSARASwhitecards (repeatedanglesnotextracards), printedlargewhite/paleoutlinedflowersondarkcolouredtexturedsurface. Threebarretteshapes: BOWTIE/HOURGLASSwideendsnarrowmiddle, elongatedOVALroundedends, straightelongatedRECTANGLEsquareends. EACHcardSIXclips ordertop-to-bottom:CORALRED,OLIVEGREEN,DARKPURPLE,HOTPINK,ROYALBLUE,BLACK. Total18clips3cards. Preservelargeflowerprint/sourcetexture/colours andall3forms. Fullviews1/2/3/5 show ALLTHREEcompletecards sidebyside, sixcountableclipspercard, notsinglecardonly. Removehand/collageborder/priceoverlay. Detail standalone tightmacro ofactualroyalbluewhiteflowerprintandbarretteedge, notfullclip. AccurateheadingFloral Print Hair Clips.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-51a5b10f-175d-4a6e-9b7a-28e5746d5071.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Floral Print Hair Clips\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage shows THREE DISTINCT six-clipSARASwhitecards (repeatedanglesnotextracards), printedlargewhite/paleoutlinedflowersondarkcolouredtexturedsurface. Threebarretteshapes: BOWTIE/HOURGLASSwideendsnarrowmiddle, elongatedOVALroundedends, straightelongatedRECTANGLEsquareends. EACHcardSIXclips ordertop-to-bottom:CORALRED,OLIVEGREEN,DARKPURPLE,HOTPINK,ROYALBLUE,BLACK. Total18clips3cards. Preservelargeflowerprint/sourcetexture/colours andall3forms. Fullviews1/2/3/5 show ALLTHREEcompletecards sidebyside, sixcountableclipspercard, notsinglecardonly. Removehand/collageborder/priceoverlay. Detail standalone tightmacro ofactualroyalbluewhiteflowerprintandbarretteedge, notfullclip. AccurateheadingFloral Print Hair Clips.",
+      "sha256": "7448668098e5fb2786a927d59ce3cd701eed81244ad4f37fccc0be6d02200896",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-51a5b10f-175d-4a6e-9b7a-28e5746d5071.png",
+      "grid_sha256": "360ec173e2245e6dd30b88a2bf2124f0c8860e55e156baa6ea2e10f67e1353c1",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared to sourcecollage: Three distinctsixclipcards of floralprint bowtie/oval/rectangle barrettes,18clips. Allthreecards andsixclipseach retained infullviews, source shapes/patterns/colourorder retained. Correct white/styled/lifestyle/promo accurateheading; detail tightrealpartmacro passed. Website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-51a5b10f-175d-4a6e-9b7a-28e5746d5071.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Floral Print Hair Clips\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage shows THREE DISTINCT six-clipSARASwhitecards (repeatedanglesnotextracards), printedlargewhite/paleoutlinedflowersondarkcolouredtexturedsurface. Threebarretteshapes: BOWTIE/HOURGLASSwideendsnarrowmiddle, elongatedOVALroundedends, straightelongatedRECTANGLEsquareends. EACHcardSIXclips ordertop-to-bottom:CORALRED,OLIVEGREEN,DARKPURPLE,HOTPINK,ROYALBLUE,BLACK. Total18clips3cards. Preservelargeflowerprint/sourcetexture/colours andall3forms. Fullviews1/2/3/5 show ALLTHREEcompletecards sidebyside, sixcountableclipspercard, notsinglecardonly. Removehand/collageborder/priceoverlay. Detail standalone tightmacro ofactualroyalbluewhiteflowerprintandbarretteedge, notfullclip. AccurateheadingFloral Print Hair Clips.",
+      "sha256": "1ce8be1aef8ab84a5c074453541a5497f9b9cdcd79b6d600bbf89279244ab66e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-51a5b10f-175d-4a6e-9b7a-28e5746d5071.png",
+      "grid_sha256": "360ec173e2245e6dd30b88a2bf2124f0c8860e55e156baa6ea2e10f67e1353c1",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared to sourcecollage: Three distinctsixclipcards of floralprint bowtie/oval/rectangle barrettes,18clips. Allthreecards andsixclipseach retained infullviews, source shapes/patterns/colourorder retained. Correct white/styled/lifestyle/promo accurateheading; detail tightrealpartmacro passed. Website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-51a5b10f-175d-4a6e-9b7a-28e5746d5071.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Floral Print Hair Clips\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage shows THREE DISTINCT six-clipSARASwhitecards (repeatedanglesnotextracards), printedlargewhite/paleoutlinedflowersondarkcolouredtexturedsurface. Threebarretteshapes: BOWTIE/HOURGLASSwideendsnarrowmiddle, elongatedOVALroundedends, straightelongatedRECTANGLEsquareends. EACHcardSIXclips ordertop-to-bottom:CORALRED,OLIVEGREEN,DARKPURPLE,HOTPINK,ROYALBLUE,BLACK. Total18clips3cards. Preservelargeflowerprint/sourcetexture/colours andall3forms. Fullviews1/2/3/5 show ALLTHREEcompletecards sidebyside, sixcountableclipspercard, notsinglecardonly. Removehand/collageborder/priceoverlay. Detail standalone tightmacro ofactualroyalbluewhiteflowerprintandbarretteedge, notfullclip. AccurateheadingFloral Print Hair Clips.",
+      "sha256": "56247918be1e9a97a00a9b0a422d59f1f87846a6e4a17ac4aac44310f03dbdb0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-51a5b10f-175d-4a6e-9b7a-28e5746d5071.png",
+      "grid_sha256": "360ec173e2245e6dd30b88a2bf2124f0c8860e55e156baa6ea2e10f67e1353c1",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared to sourcecollage: Three distinctsixclipcards of floralprint bowtie/oval/rectangle barrettes,18clips. Allthreecards andsixclipseach retained infullviews, source shapes/patterns/colourorder retained. Correct white/styled/lifestyle/promo accurateheading; detail tightrealpartmacro passed. Website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-51a5b10f-175d-4a6e-9b7a-28e5746d5071.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Floral Print Hair Clips\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage shows THREE DISTINCT six-clipSARASwhitecards (repeatedanglesnotextracards), printedlargewhite/paleoutlinedflowersondarkcolouredtexturedsurface. Threebarretteshapes: BOWTIE/HOURGLASSwideendsnarrowmiddle, elongatedOVALroundedends, straightelongatedRECTANGLEsquareends. EACHcardSIXclips ordertop-to-bottom:CORALRED,OLIVEGREEN,DARKPURPLE,HOTPINK,ROYALBLUE,BLACK. Total18clips3cards. Preservelargeflowerprint/sourcetexture/colours andall3forms. Fullviews1/2/3/5 show ALLTHREEcompletecards sidebyside, sixcountableclipspercard, notsinglecardonly. Removehand/collageborder/priceoverlay. Detail standalone tightmacro ofactualroyalbluewhiteflowerprintandbarretteedge, notfullclip. AccurateheadingFloral Print Hair Clips.",
+      "sha256": "26092460561c22e622a66d076a96df91fafd202405a2d65f38c1b1707b94f7ca",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-51a5b10f-175d-4a6e-9b7a-28e5746d5071.png",
+      "grid_sha256": "360ec173e2245e6dd30b88a2bf2124f0c8860e55e156baa6ea2e10f67e1353c1",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual grid/crops compared to sourcecollage: Three distinctsixclipcards of floralprint bowtie/oval/rectangle barrettes,18clips. Allthreecards andsixclipseach retained infullviews, source shapes/patterns/colourorder retained. Correct white/styled/lifestyle/promo accurateheading; detail tightrealpartmacro passed. Website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-51a5b10f-175d-4a6e-9b7a-28e5746d5071.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Floral Print Hair Clips\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage shows THREE DISTINCT six-clipSARASwhitecards (repeatedanglesnotextracards), printedlargewhite/paleoutlinedflowersondarkcolouredtexturedsurface. Threebarretteshapes: BOWTIE/HOURGLASSwideendsnarrowmiddle, elongatedOVALroundedends, straightelongatedRECTANGLEsquareends. EACHcardSIXclips ordertop-to-bottom:CORALRED,OLIVEGREEN,DARKPURPLE,HOTPINK,ROYALBLUE,BLACK. Total18clips3cards. Preservelargeflowerprint/sourcetexture/colours andall3forms. Fullviews1/2/3/5 show ALLTHREEcompletecards sidebyside, sixcountableclipspercard, notsinglecardonly. Removehand/collageborder/priceoverlay. Detail standalone tightmacro ofactualroyalbluewhiteflowerprintandbarretteedge, notfullclip. AccurateheadingFloral Print Hair Clips.",
+      "sha256": "43de6fe0ef7483be5ec973929b7358dd572917d61b1c2405990f448cddb0cf3f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-51a5b10f-175d-4a6e-9b7a-28e5746d5071.png",
+      "grid_sha256": "360ec173e2245e6dd30b88a2bf2124f0c8860e55e156baa6ea2e10f67e1353c1",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual grid/crops compared to sourcecollage: Three distinctsixclipcards of floralprint bowtie/oval/rectangle barrettes,18clips. Allthreecards andsixclipseach retained infullviews, source shapes/patterns/colourorder retained. Correct white/styled/lifestyle/promo accurateheading; detail tightrealpartmacro passed. Website-ready."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Three distinctsixclipcards of floralprint bowtie/oval/rectangle barrettes,18clips",
+  "originals_verified_against_frozen_plan": true
+}

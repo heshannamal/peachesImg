@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-13T00:59:32.212679+00:00",
+  "updated_at": "2026-11-13T01:01:37.935069+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 18,
-  "partial_products": 3,
-  "pending_products": 73,
+  "completed_products": 22,
+  "partial_products": 4,
+  "pending_products": 68,
   "blocked_products": 6,
-  "saved_images": 105,
-  "checked_images": 92,
+  "saved_images": 126,
+  "checked_images": 114,
   "products": [
     {
       "product_id": "2517",
@@ -362,7 +362,7 @@
         "New/03_Lifestyle.png",
         "New/05_Promotional.png"
       ],
-      "notes_status": "in_progress",
+      "notes_status": "partial_corrective_spent_review_needed",
       "errors": [
         "unreviewed or unrecorded: 01_White-Background.png",
         "unreviewed or unrecorded: 02_Styled-Background.png",
@@ -528,7 +528,7 @@
       "folder": "2491_Bright-Hair-Clip-Cards-0",
       "status": "partial",
       "saved_images": 5,
-      "checked_images": 0,
+      "checked_images": 1,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
@@ -541,7 +541,6 @@
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "notes_status": "in_progress",
@@ -549,7 +548,6 @@
         "unreviewed or unrecorded: 01_White-Background.png",
         "unreviewed or unrecorded: 02_Styled-Background.png",
         "unreviewed or unrecorded: 03_Lifestyle.png",
-        "unreviewed or unrecorded: 04_Detail.png",
         "unreviewed or unrecorded: 05_Promotional.png"
       ],
       "originals_unchanged": true
@@ -557,95 +555,96 @@
     {
       "product_id": "2490",
       "folder": "2490_Colourful-Printed-Hair-Clips-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 1,
+      "files": [
+        "New/04_Detail.png"
+      ],
       "missing_images": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "2489",
-      "folder": "2489_Pastel-Hair-Clip-Cards-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "folder": "2489_Pastel-Hair-Clip-Cards-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "five_images_saved_and_visually_checked",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "2488",
-      "folder": "2488_Dark-Printed-Hair-Clips-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "folder": "2488_Dark-Printed-Hair-Clips-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "five_images_saved_and_visually_checked",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "2487",
-      "folder": "2487_Printed-Hair-Clip-Cards-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "folder": "2487_Printed-Hair-Clip-Cards-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "five_images_saved_and_visually_checked",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "2486",
-      "folder": "2486_Small-Fragrance-Assortment-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "folder": "2486_Small-Fragrance-Assortment-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "five_images_saved_and_visually_checked",
       "errors": [],
       "originals_unchanged": true
     },

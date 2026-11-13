@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260918-WA0117.jpg": "b58f25e63a675562dfc1ab13172218915c16c5ff5960bc67b6c33b252102fea1"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-2112a77a-f826-4154-a556-23052470a30c.png",
+      "source_output": "/workspace/generated_images/exec-2112a77a-f826-4154-a556-23052470a30c.png",
+      "sha256": "a0865d65a838ac215516abfaeef9176c8db3e3a1976049b4b4177bee9d37bc11",
+      "prompt": "Native original-referenced photo edit. Landscape1536x1024precise3columns x2rows512squarecells,boundariesx512/x1024/y512,no gutters,borders,panellabels. Top-left entire assortment white;top-middle fullassortment lavender/cream styled;top-right fullassortment realisticrelevantlifestyle;bottom-left standalone tightactualpartmacro,notwholeassortment;bottom-middle fullassortment promotionalaccurateheading specified;bottom-right blankcream. Entire photographed assortmentONEproduct. Removehands,shop,priceoverlay; preserveactualcount,identity,shapes,colours,prints,textures,construction. Fullviews allitemscompleteinsidecellmargin,noextrasimilarprops,noinventedclaims. Photorealwebsite-ready. Actualsource SIX velvet/velour SCRUNCHIE fabricelasticrings, oneeachROYALBLUE,GOLDENYELLOW,BRIGHTRED,EMERALDGREEN,PURPLE,HOTPINK/MAGENTA. These are gatheredruffledsoftfabricringswithsmallcentralholes,notflowers,bowsorhairclaws. Preserveplushvelvetnap,largefolds,exact6ringcolours(countonepercolour), noextrabands. Fullviewsarrangesixringstogetherclearlycountable3\u00d72, sourcecolourpaletteunchanged. Lifestyleonvanitytray,nootherhairaccessories. Detailtightactualpurplevelvetfold/seam/elasticgatherpart. Heading Bright Velvet Scrunchies.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-2112a77a-f826-4154-a556-23052470a30c.png",
+      "prompt": "Native original-referenced photo edit. Landscape1536x1024precise3columns x2rows512squarecells,boundariesx512/x1024/y512,no gutters,borders,panellabels. Top-left entire assortment white;top-middle fullassortment lavender/cream styled;top-right fullassortment realisticrelevantlifestyle;bottom-left standalone tightactualpartmacro,notwholeassortment;bottom-middle fullassortment promotionalaccurateheading specified;bottom-right blankcream. Entire photographed assortmentONEproduct. Removehands,shop,priceoverlay; preserveactualcount,identity,shapes,colours,prints,textures,construction. Fullviews allitemscompleteinsidecellmargin,noextrasimilarprops,noinventedclaims. Photorealwebsite-ready. Actualsource SIX velvet/velour SCRUNCHIE fabricelasticrings, oneeachROYALBLUE,GOLDENYELLOW,BRIGHTRED,EMERALDGREEN,PURPLE,HOTPINK/MAGENTA. These are gatheredruffledsoftfabricringswithsmallcentralholes,notflowers,bowsorhairclaws. Preserveplushvelvetnap,largefolds,exact6ringcolours(countonepercolour), noextrabands. Fullviewsarrangesixringstogetherclearlycountable3\u00d72, sourcecolourpaletteunchanged. Lifestyleonvanitytray,nootherhairaccessories. Detailtightactualpurplevelvetfold/seam/elasticgatherpart. Heading Bright Velvet Scrunchies.",
+      "sha256": "c914c1cd75e5dfc739d6c60a570cd10dd0f80bfcae66a82205b8d2e5931d5d20",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2112a77a-f826-4154-a556-23052470a30c.png",
+      "grid_sha256": "a0865d65a838ac215516abfaeef9176c8db3e3a1976049b4b4177bee9d37bc11",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-2112a77a-f826-4154-a556-23052470a30c.png",
+      "prompt": "Native original-referenced photo edit. Landscape1536x1024precise3columns x2rows512squarecells,boundariesx512/x1024/y512,no gutters,borders,panellabels. Top-left entire assortment white;top-middle fullassortment lavender/cream styled;top-right fullassortment realisticrelevantlifestyle;bottom-left standalone tightactualpartmacro,notwholeassortment;bottom-middle fullassortment promotionalaccurateheading specified;bottom-right blankcream. Entire photographed assortmentONEproduct. Removehands,shop,priceoverlay; preserveactualcount,identity,shapes,colours,prints,textures,construction. Fullviews allitemscompleteinsidecellmargin,noextrasimilarprops,noinventedclaims. Photorealwebsite-ready. Actualsource SIX velvet/velour SCRUNCHIE fabricelasticrings, oneeachROYALBLUE,GOLDENYELLOW,BRIGHTRED,EMERALDGREEN,PURPLE,HOTPINK/MAGENTA. These are gatheredruffledsoftfabricringswithsmallcentralholes,notflowers,bowsorhairclaws. Preserveplushvelvetnap,largefolds,exact6ringcolours(countonepercolour), noextrabands. Fullviewsarrangesixringstogetherclearlycountable3\u00d72, sourcecolourpaletteunchanged. Lifestyleonvanitytray,nootherhairaccessories. Detailtightactualpurplevelvetfold/seam/elasticgatherpart. Heading Bright Velvet Scrunchies.",
+      "sha256": "5ada29c36d69e2ff0ae63cc792a51b3198aaead9058051b33dec5482f1490f82",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2112a77a-f826-4154-a556-23052470a30c.png",
+      "grid_sha256": "a0865d65a838ac215516abfaeef9176c8db3e3a1976049b4b4177bee9d37bc11",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-2112a77a-f826-4154-a556-23052470a30c.png",
+      "prompt": "Native original-referenced photo edit. Landscape1536x1024precise3columns x2rows512squarecells,boundariesx512/x1024/y512,no gutters,borders,panellabels. Top-left entire assortment white;top-middle fullassortment lavender/cream styled;top-right fullassortment realisticrelevantlifestyle;bottom-left standalone tightactualpartmacro,notwholeassortment;bottom-middle fullassortment promotionalaccurateheading specified;bottom-right blankcream. Entire photographed assortmentONEproduct. Removehands,shop,priceoverlay; preserveactualcount,identity,shapes,colours,prints,textures,construction. Fullviews allitemscompleteinsidecellmargin,noextrasimilarprops,noinventedclaims. Photorealwebsite-ready. Actualsource SIX velvet/velour SCRUNCHIE fabricelasticrings, oneeachROYALBLUE,GOLDENYELLOW,BRIGHTRED,EMERALDGREEN,PURPLE,HOTPINK/MAGENTA. These are gatheredruffledsoftfabricringswithsmallcentralholes,notflowers,bowsorhairclaws. Preserveplushvelvetnap,largefolds,exact6ringcolours(countonepercolour), noextrabands. Fullviewsarrangesixringstogetherclearlycountable3\u00d72, sourcecolourpaletteunchanged. Lifestyleonvanitytray,nootherhairaccessories. Detailtightactualpurplevelvetfold/seam/elasticgatherpart. Heading Bright Velvet Scrunchies.",
+      "sha256": "c9167af385f7ee462d703c948e6077b13e84760f391dbdc66b0b0568d56f9338",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2112a77a-f826-4154-a556-23052470a30c.png",
+      "grid_sha256": "a0865d65a838ac215516abfaeef9176c8db3e3a1976049b4b4177bee9d37bc11",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-2112a77a-f826-4154-a556-23052470a30c.png",
+      "prompt": "Native original-referenced photo edit. Landscape1536x1024precise3columns x2rows512squarecells,boundariesx512/x1024/y512,no gutters,borders,panellabels. Top-left entire assortment white;top-middle fullassortment lavender/cream styled;top-right fullassortment realisticrelevantlifestyle;bottom-left standalone tightactualpartmacro,notwholeassortment;bottom-middle fullassortment promotionalaccurateheading specified;bottom-right blankcream. Entire photographed assortmentONEproduct. Removehands,shop,priceoverlay; preserveactualcount,identity,shapes,colours,prints,textures,construction. Fullviews allitemscompleteinsidecellmargin,noextrasimilarprops,noinventedclaims. Photorealwebsite-ready. Actualsource SIX velvet/velour SCRUNCHIE fabricelasticrings, oneeachROYALBLUE,GOLDENYELLOW,BRIGHTRED,EMERALDGREEN,PURPLE,HOTPINK/MAGENTA. These are gatheredruffledsoftfabricringswithsmallcentralholes,notflowers,bowsorhairclaws. Preserveplushvelvetnap,largefolds,exact6ringcolours(countonepercolour), noextrabands. Fullviewsarrangesixringstogetherclearlycountable3\u00d72, sourcecolourpaletteunchanged. Lifestyleonvanitytray,nootherhairaccessories. Detailtightactualpurplevelvetfold/seam/elasticgatherpart. Heading Bright Velvet Scrunchies.",
+      "sha256": "16af802843598b8176b9aba901244d717899780cf1a650af90e012c19f53ace4",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2112a77a-f826-4154-a556-23052470a30c.png",
+      "grid_sha256": "a0865d65a838ac215516abfaeef9176c8db3e3a1976049b4b4177bee9d37bc11",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-2112a77a-f826-4154-a556-23052470a30c.png",
+      "prompt": "Native original-referenced photo edit. Landscape1536x1024precise3columns x2rows512squarecells,boundariesx512/x1024/y512,no gutters,borders,panellabels. Top-left entire assortment white;top-middle fullassortment lavender/cream styled;top-right fullassortment realisticrelevantlifestyle;bottom-left standalone tightactualpartmacro,notwholeassortment;bottom-middle fullassortment promotionalaccurateheading specified;bottom-right blankcream. Entire photographed assortmentONEproduct. Removehands,shop,priceoverlay; preserveactualcount,identity,shapes,colours,prints,textures,construction. Fullviews allitemscompleteinsidecellmargin,noextrasimilarprops,noinventedclaims. Photorealwebsite-ready. Actualsource SIX velvet/velour SCRUNCHIE fabricelasticrings, oneeachROYALBLUE,GOLDENYELLOW,BRIGHTRED,EMERALDGREEN,PURPLE,HOTPINK/MAGENTA. These are gatheredruffledsoftfabricringswithsmallcentralholes,notflowers,bowsorhairclaws. Preserveplushvelvetnap,largefolds,exact6ringcolours(countonepercolour), noextrabands. Fullviewsarrangesixringstogetherclearlycountable3\u00d72, sourcecolourpaletteunchanged. Lifestyleonvanitytray,nootherhairaccessories. Detailtightactualpurplevelvetfold/seam/elasticgatherpart. Heading Bright Velvet Scrunchies.",
+      "sha256": "33aecd6abd84f264de50eadbd9fa73b608ce8987de5e83a51d38965c63b562f8",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2112a77a-f826-4154-a556-23052470a30c.png",
+      "grid_sha256": "a0865d65a838ac215516abfaeef9176c8db3e3a1976049b4b4177bee9d37bc11",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

@@ -1,0 +1,125 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260919-WA0251.jpg": "ab1333b841d8c8b46213b8939869d50d3e576790ab234548626d08b9f0e38e08",
+    "Originals/IMG-20260919-WA0237.jpg": "b584c8c72bc536fa370e63b240afb4ced1a84dee1db27c889110e5abe5d30a2e",
+    "Originals/IMG-20260919-WA0232.jpg": "cbcbd0f4da958dcc1175c0017d341460482ccf6007dd33637596154accfc6ba8",
+    "Originals/IMG-20260919-WA0246.jpg": "4c0bd8acd0da48d4fc25ab2ce0095b58f82ed0c5242d56e1db6c6e74238b425b",
+    "Originals/IMG-20260919-WA0241.jpg": "d12de293243947beefe6d58e4050f07a480a2bf22bc6cc779d9afeae05d5d4b5"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-c65ad1f8-8e07-4294-81d3-ff16490e3eff.png",
+      "source_output": "/workspace/generated_images/exec-c65ad1f8-8e07-4294-81d3-ff16490e3eff.png",
+      "sha256": "4dc8852c308885391ee4579d02cb402a2e2c51b58b6fac12ad8005d94d21b502",
+      "prompt": "Native original-referenced photo edit. Landscape1536x1024 precise3columns x2rows512squarecells,boundariesx512/x1024/y512,no gutters,borders,panellabels. Top-left entire assortment white;top-middle wholeassortment lavender/cream styled;top-right fullassortment tidyvanitylifestyle;bottom-left standalone tightactualbarrettepartmacro,notwholeassortment;bottom-middle fullassortment promotionalaccurateheading specified;bottom-right blankcream. Whole photographed assortmentONEproduct. Removehand/shop/priceoverlay/outerplasticglare; preserveactualcount,identity,barretteshape,colours,pattern andwhiteSARASdisplaycard. Fullviewsallproductscompleteinsidecellmargin,noextrasimilarprops. Photorealwebsite-ready. SourceFIVEphotos represent TWO DISTINCTsixclipSARAScards(two photosonevariant,threephotosothervariant), not5cards. FullviewsincludeBOTHdistinctcards sidebyside,total12barrettes. CardA sixslightlycurvedroundedrectangles withcoloursBURGUNDY,MUSTARDGOLD,TAN,LIGHTGOLD/CREAM,PALEGREY,DARKOLIVE, sourcewavymarbled/woodgraintexture. CardB sixslenderroundedovalrectangularwoodgrainbarrettes inBURGUNDY,OLIVEGREEN,ORANGEBROWN,MIDWOODTAN,LIGHTWOOD/DARKGRAIN,DARKBROWN. Preservebothvariantshapes,patterntextures,metalclasp andcolours. Exactly2whitecards\u00d76barrettes=12,notonecard/not5cards. Detailtightactualwarmwoodgrainbarretteface+metalclaspedge. Heading Warm Tone Hair Clips.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-c65ad1f8-8e07-4294-81d3-ff16490e3eff.png",
+      "prompt": "Native original-referenced photo edit. Landscape1536x1024 precise3columns x2rows512squarecells,boundariesx512/x1024/y512,no gutters,borders,panellabels. Top-left entire assortment white;top-middle wholeassortment lavender/cream styled;top-right fullassortment tidyvanitylifestyle;bottom-left standalone tightactualbarrettepartmacro,notwholeassortment;bottom-middle fullassortment promotionalaccurateheading specified;bottom-right blankcream. Whole photographed assortmentONEproduct. Removehand/shop/priceoverlay/outerplasticglare; preserveactualcount,identity,barretteshape,colours,pattern andwhiteSARASdisplaycard. Fullviewsallproductscompleteinsidecellmargin,noextrasimilarprops. Photorealwebsite-ready. SourceFIVEphotos represent TWO DISTINCTsixclipSARAScards(two photosonevariant,threephotosothervariant), not5cards. FullviewsincludeBOTHdistinctcards sidebyside,total12barrettes. CardA sixslightlycurvedroundedrectangles withcoloursBURGUNDY,MUSTARDGOLD,TAN,LIGHTGOLD/CREAM,PALEGREY,DARKOLIVE, sourcewavymarbled/woodgraintexture. CardB sixslenderroundedovalrectangularwoodgrainbarrettes inBURGUNDY,OLIVEGREEN,ORANGEBROWN,MIDWOODTAN,LIGHTWOOD/DARKGRAIN,DARKBROWN. Preservebothvariantshapes,patterntextures,metalclasp andcolours. Exactly2whitecards\u00d76barrettes=12,notonecard/not5cards. Detailtightactualwarmwoodgrainbarretteface+metalclaspedge. Heading Warm Tone Hair Clips.",
+      "sha256": "ad910e935b2671f99b0609c8c81a226e602c7e7b9a918c204259447df9dbab67",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c65ad1f8-8e07-4294-81d3-ff16490e3eff.png",
+      "grid_sha256": "4dc8852c308885391ee4579d02cb402a2e2c51b58b6fac12ad8005d94d21b502",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-c65ad1f8-8e07-4294-81d3-ff16490e3eff.png",
+      "prompt": "Native original-referenced photo edit. Landscape1536x1024 precise3columns x2rows512squarecells,boundariesx512/x1024/y512,no gutters,borders,panellabels. Top-left entire assortment white;top-middle wholeassortment lavender/cream styled;top-right fullassortment tidyvanitylifestyle;bottom-left standalone tightactualbarrettepartmacro,notwholeassortment;bottom-middle fullassortment promotionalaccurateheading specified;bottom-right blankcream. Whole photographed assortmentONEproduct. Removehand/shop/priceoverlay/outerplasticglare; preserveactualcount,identity,barretteshape,colours,pattern andwhiteSARASdisplaycard. Fullviewsallproductscompleteinsidecellmargin,noextrasimilarprops. Photorealwebsite-ready. SourceFIVEphotos represent TWO DISTINCTsixclipSARAScards(two photosonevariant,threephotosothervariant), not5cards. FullviewsincludeBOTHdistinctcards sidebyside,total12barrettes. CardA sixslightlycurvedroundedrectangles withcoloursBURGUNDY,MUSTARDGOLD,TAN,LIGHTGOLD/CREAM,PALEGREY,DARKOLIVE, sourcewavymarbled/woodgraintexture. CardB sixslenderroundedovalrectangularwoodgrainbarrettes inBURGUNDY,OLIVEGREEN,ORANGEBROWN,MIDWOODTAN,LIGHTWOOD/DARKGRAIN,DARKBROWN. Preservebothvariantshapes,patterntextures,metalclasp andcolours. Exactly2whitecards\u00d76barrettes=12,notonecard/not5cards. Detailtightactualwarmwoodgrainbarretteface+metalclaspedge. Heading Warm Tone Hair Clips.",
+      "sha256": "887a67bf34a3dec44988b14deccecdd5c3110b1be720954fbac0da25deb3407e",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c65ad1f8-8e07-4294-81d3-ff16490e3eff.png",
+      "grid_sha256": "4dc8852c308885391ee4579d02cb402a2e2c51b58b6fac12ad8005d94d21b502",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-c65ad1f8-8e07-4294-81d3-ff16490e3eff.png",
+      "prompt": "Native original-referenced photo edit. Landscape1536x1024 precise3columns x2rows512squarecells,boundariesx512/x1024/y512,no gutters,borders,panellabels. Top-left entire assortment white;top-middle wholeassortment lavender/cream styled;top-right fullassortment tidyvanitylifestyle;bottom-left standalone tightactualbarrettepartmacro,notwholeassortment;bottom-middle fullassortment promotionalaccurateheading specified;bottom-right blankcream. Whole photographed assortmentONEproduct. Removehand/shop/priceoverlay/outerplasticglare; preserveactualcount,identity,barretteshape,colours,pattern andwhiteSARASdisplaycard. Fullviewsallproductscompleteinsidecellmargin,noextrasimilarprops. Photorealwebsite-ready. SourceFIVEphotos represent TWO DISTINCTsixclipSARAScards(two photosonevariant,threephotosothervariant), not5cards. FullviewsincludeBOTHdistinctcards sidebyside,total12barrettes. CardA sixslightlycurvedroundedrectangles withcoloursBURGUNDY,MUSTARDGOLD,TAN,LIGHTGOLD/CREAM,PALEGREY,DARKOLIVE, sourcewavymarbled/woodgraintexture. CardB sixslenderroundedovalrectangularwoodgrainbarrettes inBURGUNDY,OLIVEGREEN,ORANGEBROWN,MIDWOODTAN,LIGHTWOOD/DARKGRAIN,DARKBROWN. Preservebothvariantshapes,patterntextures,metalclasp andcolours. Exactly2whitecards\u00d76barrettes=12,notonecard/not5cards. Detailtightactualwarmwoodgrainbarretteface+metalclaspedge. Heading Warm Tone Hair Clips.",
+      "sha256": "7b48791de43e7513236292d90e1bf302298b7f6acf5ac4e2e8761e659378ad76",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c65ad1f8-8e07-4294-81d3-ff16490e3eff.png",
+      "grid_sha256": "4dc8852c308885391ee4579d02cb402a2e2c51b58b6fac12ad8005d94d21b502",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-c65ad1f8-8e07-4294-81d3-ff16490e3eff.png",
+      "prompt": "Native original-referenced photo edit. Landscape1536x1024 precise3columns x2rows512squarecells,boundariesx512/x1024/y512,no gutters,borders,panellabels. Top-left entire assortment white;top-middle wholeassortment lavender/cream styled;top-right fullassortment tidyvanitylifestyle;bottom-left standalone tightactualbarrettepartmacro,notwholeassortment;bottom-middle fullassortment promotionalaccurateheading specified;bottom-right blankcream. Whole photographed assortmentONEproduct. Removehand/shop/priceoverlay/outerplasticglare; preserveactualcount,identity,barretteshape,colours,pattern andwhiteSARASdisplaycard. Fullviewsallproductscompleteinsidecellmargin,noextrasimilarprops. Photorealwebsite-ready. SourceFIVEphotos represent TWO DISTINCTsixclipSARAScards(two photosonevariant,threephotosothervariant), not5cards. FullviewsincludeBOTHdistinctcards sidebyside,total12barrettes. CardA sixslightlycurvedroundedrectangles withcoloursBURGUNDY,MUSTARDGOLD,TAN,LIGHTGOLD/CREAM,PALEGREY,DARKOLIVE, sourcewavymarbled/woodgraintexture. CardB sixslenderroundedovalrectangularwoodgrainbarrettes inBURGUNDY,OLIVEGREEN,ORANGEBROWN,MIDWOODTAN,LIGHTWOOD/DARKGRAIN,DARKBROWN. Preservebothvariantshapes,patterntextures,metalclasp andcolours. Exactly2whitecards\u00d76barrettes=12,notonecard/not5cards. Detailtightactualwarmwoodgrainbarretteface+metalclaspedge. Heading Warm Tone Hair Clips.",
+      "sha256": "4c87e984c673101c8ed50b013fad2016dc9ded84e2a75f29579a118842b20bf2",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c65ad1f8-8e07-4294-81d3-ff16490e3eff.png",
+      "grid_sha256": "4dc8852c308885391ee4579d02cb402a2e2c51b58b6fac12ad8005d94d21b502",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-c65ad1f8-8e07-4294-81d3-ff16490e3eff.png",
+      "prompt": "Native original-referenced photo edit. Landscape1536x1024 precise3columns x2rows512squarecells,boundariesx512/x1024/y512,no gutters,borders,panellabels. Top-left entire assortment white;top-middle wholeassortment lavender/cream styled;top-right fullassortment tidyvanitylifestyle;bottom-left standalone tightactualbarrettepartmacro,notwholeassortment;bottom-middle fullassortment promotionalaccurateheading specified;bottom-right blankcream. Whole photographed assortmentONEproduct. Removehand/shop/priceoverlay/outerplasticglare; preserveactualcount,identity,barretteshape,colours,pattern andwhiteSARASdisplaycard. Fullviewsallproductscompleteinsidecellmargin,noextrasimilarprops. Photorealwebsite-ready. SourceFIVEphotos represent TWO DISTINCTsixclipSARAScards(two photosonevariant,threephotosothervariant), not5cards. FullviewsincludeBOTHdistinctcards sidebyside,total12barrettes. CardA sixslightlycurvedroundedrectangles withcoloursBURGUNDY,MUSTARDGOLD,TAN,LIGHTGOLD/CREAM,PALEGREY,DARKOLIVE, sourcewavymarbled/woodgraintexture. CardB sixslenderroundedovalrectangularwoodgrainbarrettes inBURGUNDY,OLIVEGREEN,ORANGEBROWN,MIDWOODTAN,LIGHTWOOD/DARKGRAIN,DARKBROWN. Preservebothvariantshapes,patterntextures,metalclasp andcolours. Exactly2whitecards\u00d76barrettes=12,notonecard/not5cards. Detailtightactualwarmwoodgrainbarretteface+metalclaspedge. Heading Warm Tone Hair Clips.",
+      "sha256": "fd1f0fd3a7f4f12f0d178b7f5d568313803efa0bdca49d3974aa4690f505881a",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c65ad1f8-8e07-4294-81d3-ff16490e3eff.png",
+      "grid_sha256": "4dc8852c308885391ee4579d02cb402a2e2c51b58b6fac12ad8005d94d21b502",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

@@ -29923,37 +29923,41 @@
       2750,
       2754
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2451",
-    "folder": "2451_Black-Hair-Clips-0",
+    "folder": "2451_Black-Hair-Clips-1",
     "source_image_ids": [
       2744,
       2747
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2452",
-    "folder": "2452_Flower-Hair-Clips-0",
+    "folder": "2452_Flower-Hair-Clips-1",
     "source_image_ids": [
       2746,
       2749
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2453",
@@ -29972,27 +29976,31 @@
   },
   {
     "product_id": "2455",
-    "folder": "2455_Character-Scrunchies-0",
+    "folder": "2455_Character-Scrunchies-1",
     "source_image_ids": [
       2756
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2456",
-    "folder": "2456_Pastel-Lace-Scrunchies-0",
+    "folder": "2456_Pastel-Lace-Scrunchies-1",
     "source_image_ids": [
       2757
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2457",

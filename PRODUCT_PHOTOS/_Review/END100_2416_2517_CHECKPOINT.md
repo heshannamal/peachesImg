@@ -10,4 +10,6 @@ Moderationblocked2516,2515,2514,2508,2507,2498: exacterrors/prompts/requestIDsre
 
 Resume2436review/correctionplus19pending, currentpairassignments inDISPATCH.json;14unassigned2429down2416. Preserve70completeandallapprovedpartials. Noearlierqueuesmodified.
 
-CSVbatches31–34 willcontain70newcompletedproducts20/20/20/10rows,price1LKR,noSKUduplicateswithearlierbatches. Sourcefoldernamesmaybewrong; namesuseactualcheckedprompts/subjectnotes.
+CSVbatches31–34 contain70newcompletedproducts20/20/20/10rows,price1LKR,noSKUduplicateswithearlierbatches. Sourcefoldernamesmaybewrong; namesuseactualcheckedprompts/subjectnotes.
+
+Liveverification:350/350imageURLs for70completeproducts returnedHTTP200withimagecontenttypes. CSVvalidated70uniqueSKUs,20/20/20/10rows,price1LKR,UTF8BOMCRLF.

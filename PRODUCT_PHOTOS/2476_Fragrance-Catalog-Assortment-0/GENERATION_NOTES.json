@@ -122,12 +122,13 @@
       "visual_review": "Pass: actualdetailtightrealglass/cap/label;promofullsixbottleswithalloriginalboxes preserved andaccurateheading. Mechanicaltruecellrecrop where recorded."
     }
   ],
-  "status": "in_progress",
+  "status": "partial_corrective_spent_result_lost",
   "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
   "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
   "corrective_attempts": {
     "01_White-Background": 1,
     "02_Styled-Background": 1,
     "03_Lifestyle": 1
-  }
+  },
+  "recovery_note": "Workspace restarted after worker usage limit. Corrective attempts for01/02/03 were already spent, but no corrective output was saved toGitHub and localcache isgone. Result outcome unknown; do not retry. Two approved04/05 retained and initialrejected01/02/03 remain inRejected."
 }

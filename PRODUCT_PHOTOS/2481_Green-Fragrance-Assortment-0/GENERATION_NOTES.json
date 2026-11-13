@@ -1,0 +1,131 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260923-WA0204.jpg": "290cec50391ef53fe045547f1c7ef7696edf5488a0f909be75cbaf7ae7878ee1"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-9512d820-9c6a-42d9-a27a-152750214eb2.png",
+      "source_output": "/workspace/generated_images/exec-9512d820-9c6a-42d9-a27a-152750214eb2.png",
+      "sha256": "e79fe45edaaaae087b5cbf7ae109a0d8284899c0aeba096f969675acda293ab0",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Fragrance Assortment\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage SIX distinctfragrancevariantgroups, show ALLSIX together ineachfullview1/2/3/5: (1)MASTANGGREEN greenouterdisplaybox+greenindividualcarton+paleyellowbottleGREENcap; (2)VIPMENBIGBLACK darkouterbox+darkindividualcarton+paleyellowbottleBLACKcap; (3)FRENCHKISS whiteheart/kissprintedcarton+brightPINKbottlePINKcap; (4)EMRAAN burgundygoldcarton+creambottleREDcap; (5)SUPERDOLLER whitegreenfloralcarton+paleyellowbottleGREENcap; (6)VIPMENBIGBLUE darkblueouterbox+slimdarkbluecarton+palebluebottleCYANcap. PreserveSIXdistinctbottles+SIXindividualcartons+THREEouterdisplayboxes=15actualpieces, samepackagingtexts/colours/shapes/logos. No extrafragrances, no singlevariantonly. Stagecompact3groupsacross2rowswithinsquarecell. Removeoriginalcollageborders/backgroundinteriors; lifestyle allsixgroupsonvanity. Detail tightrealpartmacroofactualMASTANGGREENgreenbottlecapandlabeljunction. HeadingFragrance Assortment.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-9512d820-9c6a-42d9-a27a-152750214eb2.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Fragrance Assortment\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage SIX distinctfragrancevariantgroups, show ALLSIX together ineachfullview1/2/3/5: (1)MASTANGGREEN greenouterdisplaybox+greenindividualcarton+paleyellowbottleGREENcap; (2)VIPMENBIGBLACK darkouterbox+darkindividualcarton+paleyellowbottleBLACKcap; (3)FRENCHKISS whiteheart/kissprintedcarton+brightPINKbottlePINKcap; (4)EMRAAN burgundygoldcarton+creambottleREDcap; (5)SUPERDOLLER whitegreenfloralcarton+paleyellowbottleGREENcap; (6)VIPMENBIGBLUE darkblueouterbox+slimdarkbluecarton+palebluebottleCYANcap. PreserveSIXdistinctbottles+SIXindividualcartons+THREEouterdisplayboxes=15actualpieces, samepackagingtexts/colours/shapes/logos. No extrafragrances, no singlevariantonly. Stagecompact3groupsacross2rowswithinsquarecell. Removeoriginalcollageborders/backgroundinteriors; lifestyle allsixgroupsonvanity. Detail tightrealpartmacroofactualMASTANGGREENgreenbottlecapandlabeljunction. HeadingFragrance Assortment.",
+      "sha256": "884ffec501b80efae1dcf873282ac72e0fa163da8de69f47743754303fdc1cf3",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9512d820-9c6a-42d9-a27a-152750214eb2.png",
+      "grid_sha256": "e79fe45edaaaae087b5cbf7ae109a0d8284899c0aeba096f969675acda293ab0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Initial fullview omits VIPMENBIGBLUE largeouterdisplaybox; onecorrective requested, sixvariantbottles otherwisepresent."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-9512d820-9c6a-42d9-a27a-152750214eb2.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Fragrance Assortment\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage SIX distinctfragrancevariantgroups, show ALLSIX together ineachfullview1/2/3/5: (1)MASTANGGREEN greenouterdisplaybox+greenindividualcarton+paleyellowbottleGREENcap; (2)VIPMENBIGBLACK darkouterbox+darkindividualcarton+paleyellowbottleBLACKcap; (3)FRENCHKISS whiteheart/kissprintedcarton+brightPINKbottlePINKcap; (4)EMRAAN burgundygoldcarton+creambottleREDcap; (5)SUPERDOLLER whitegreenfloralcarton+paleyellowbottleGREENcap; (6)VIPMENBIGBLUE darkblueouterbox+slimdarkbluecarton+palebluebottleCYANcap. PreserveSIXdistinctbottles+SIXindividualcartons+THREEouterdisplayboxes=15actualpieces, samepackagingtexts/colours/shapes/logos. No extrafragrances, no singlevariantonly. Stagecompact3groupsacross2rowswithinsquarecell. Removeoriginalcollageborders/backgroundinteriors; lifestyle allsixgroupsonvanity. Detail tightrealpartmacroofactualMASTANGGREENgreenbottlecapandlabeljunction. HeadingFragrance Assortment.",
+      "sha256": "466bcbf39a239600908bd4164cc7ccc1681f31101bd217cd75377fc870b0e40c",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9512d820-9c6a-42d9-a27a-152750214eb2.png",
+      "grid_sha256": "e79fe45edaaaae087b5cbf7ae109a0d8284899c0aeba096f969675acda293ab0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Initial fullview omits VIPMENBIGBLUE largeouterdisplaybox; onecorrective requested, sixvariantbottles otherwisepresent."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-9512d820-9c6a-42d9-a27a-152750214eb2.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Fragrance Assortment\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage SIX distinctfragrancevariantgroups, show ALLSIX together ineachfullview1/2/3/5: (1)MASTANGGREEN greenouterdisplaybox+greenindividualcarton+paleyellowbottleGREENcap; (2)VIPMENBIGBLACK darkouterbox+darkindividualcarton+paleyellowbottleBLACKcap; (3)FRENCHKISS whiteheart/kissprintedcarton+brightPINKbottlePINKcap; (4)EMRAAN burgundygoldcarton+creambottleREDcap; (5)SUPERDOLLER whitegreenfloralcarton+paleyellowbottleGREENcap; (6)VIPMENBIGBLUE darkblueouterbox+slimdarkbluecarton+palebluebottleCYANcap. PreserveSIXdistinctbottles+SIXindividualcartons+THREEouterdisplayboxes=15actualpieces, samepackagingtexts/colours/shapes/logos. No extrafragrances, no singlevariantonly. Stagecompact3groupsacross2rowswithinsquarecell. Removeoriginalcollageborders/backgroundinteriors; lifestyle allsixgroupsonvanity. Detail tightrealpartmacroofactualMASTANGGREENgreenbottlecapandlabeljunction. HeadingFragrance Assortment.",
+      "sha256": "13577cdc117fd6fee60663c04057ad6c1526753692d279e4196f6b9b2f2dde53",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9512d820-9c6a-42d9-a27a-152750214eb2.png",
+      "grid_sha256": "e79fe45edaaaae087b5cbf7ae109a0d8284899c0aeba096f969675acda293ab0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Initial fullview omits VIPMENBIGBLUE largeouterdisplaybox; onecorrective requested, sixvariantbottles otherwisepresent."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-9512d820-9c6a-42d9-a27a-152750214eb2.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Fragrance Assortment\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage SIX distinctfragrancevariantgroups, show ALLSIX together ineachfullview1/2/3/5: (1)MASTANGGREEN greenouterdisplaybox+greenindividualcarton+paleyellowbottleGREENcap; (2)VIPMENBIGBLACK darkouterbox+darkindividualcarton+paleyellowbottleBLACKcap; (3)FRENCHKISS whiteheart/kissprintedcarton+brightPINKbottlePINKcap; (4)EMRAAN burgundygoldcarton+creambottleREDcap; (5)SUPERDOLLER whitegreenfloralcarton+paleyellowbottleGREENcap; (6)VIPMENBIGBLUE darkblueouterbox+slimdarkbluecarton+palebluebottleCYANcap. PreserveSIXdistinctbottles+SIXindividualcartons+THREEouterdisplayboxes=15actualpieces, samepackagingtexts/colours/shapes/logos. No extrafragrances, no singlevariantonly. Stagecompact3groupsacross2rowswithinsquarecell. Removeoriginalcollageborders/backgroundinteriors; lifestyle allsixgroupsonvanity. Detail tightrealpartmacroofactualMASTANGGREENgreenbottlecapandlabeljunction. HeadingFragrance Assortment.",
+      "sha256": "db7ec0480d5b52bf9dfd8834f4d610f3fabb15bcf32153c27a1668b6737c7b1e",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9512d820-9c6a-42d9-a27a-152750214eb2.png",
+      "grid_sha256": "e79fe45edaaaae087b5cbf7ae109a0d8284899c0aeba096f969675acda293ab0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-9512d820-9c6a-42d9-a27a-152750214eb2.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Fragrance Assortment\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage SIX distinctfragrancevariantgroups, show ALLSIX together ineachfullview1/2/3/5: (1)MASTANGGREEN greenouterdisplaybox+greenindividualcarton+paleyellowbottleGREENcap; (2)VIPMENBIGBLACK darkouterbox+darkindividualcarton+paleyellowbottleBLACKcap; (3)FRENCHKISS whiteheart/kissprintedcarton+brightPINKbottlePINKcap; (4)EMRAAN burgundygoldcarton+creambottleREDcap; (5)SUPERDOLLER whitegreenfloralcarton+paleyellowbottleGREENcap; (6)VIPMENBIGBLUE darkblueouterbox+slimdarkbluecarton+palebluebottleCYANcap. PreserveSIXdistinctbottles+SIXindividualcartons+THREEouterdisplayboxes=15actualpieces, samepackagingtexts/colours/shapes/logos. No extrafragrances, no singlevariantonly. Stagecompact3groupsacross2rowswithinsquarecell. Removeoriginalcollageborders/backgroundinteriors; lifestyle allsixgroupsonvanity. Detail tightrealpartmacroofactualMASTANGGREENgreenbottlecapandlabeljunction. HeadingFragrance Assortment.",
+      "sha256": "2433d2f163a70195e75623fac7a205883666243e7a05fb6fea3c00fac168fd84",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9512d820-9c6a-42d9-a27a-152750214eb2.png",
+      "grid_sha256": "e79fe45edaaaae087b5cbf7ae109a0d8284899c0aeba096f969675acda293ab0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Initial fullview omits VIPMENBIGBLUE largeouterdisplaybox; onecorrective requested, sixvariantbottles otherwisepresent."
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "01_White-Background": 1,
+    "02_Styled-Background": 1,
+    "03_Lifestyle": 1,
+    "05_Promotional": 1
+  }
+}

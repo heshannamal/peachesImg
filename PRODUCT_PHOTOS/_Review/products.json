@@ -29889,33 +29889,37 @@
   },
   {
     "product_id": "2448",
-    "folder": "2448_Cream-Black-Hair-Clips-0",
+    "folder": "2448_Cream-Black-Hair-Clips-1",
     "source_image_ids": [
       2736,
       2752
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2449",
-    "folder": "2449_Printed-Hair-Clips-0",
+    "folder": "2449_Printed-Hair-Clips-1",
     "source_image_ids": [
       2738,
       2741
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2450",
-    "folder": "2450_Warm-Tone-Hair-Clips-0",
+    "folder": "2450_Warm-Tone-Hair-Clips-1",
     "source_image_ids": [
       2742,
       2745,
@@ -29924,10 +29928,12 @@
       2754
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2451",

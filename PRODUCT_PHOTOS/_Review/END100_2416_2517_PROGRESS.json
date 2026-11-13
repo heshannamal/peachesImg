@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-13T08:10:47.471851+00:00",
+  "updated_at": "2026-11-13T08:11:53.508225+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 55,
-  "partial_products": 5,
-  "pending_products": 34,
+  "completed_products": 58,
+  "partial_products": 4,
+  "pending_products": 32,
   "blocked_products": 6,
-  "saved_images": 294,
-  "checked_images": 281,
+  "saved_images": 304,
+  "checked_images": 296,
   "products": [
     {
       "product_id": "2517",
@@ -1268,10 +1268,10 @@
     },
     {
       "product_id": "2450",
-      "folder": "2450_Warm-Tone-Hair-Clips-0",
-      "status": "partial",
+      "folder": "2450_Warm-Tone-Hair-Clips-1",
+      "status": "complete",
       "saved_images": 5,
-      "checked_images": 0,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
@@ -1280,58 +1280,46 @@
         "New/05_Promotional.png"
       ],
       "missing_images": [],
-      "review_needed_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 01_White-Background.png",
-        "unreviewed or unrecorded: 02_Styled-Background.png",
-        "unreviewed or unrecorded: 03_Lifestyle.png",
-        "unreviewed or unrecorded: 04_Detail.png",
-        "unreviewed or unrecorded: 05_Promotional.png"
-      ],
+      "review_needed_images": [],
+      "notes_status": "five_images_saved_and_visually_checked",
+      "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "2449",
-      "folder": "2449_Printed-Hair-Clips-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "folder": "2449_Printed-Hair-Clips-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "five_images_saved_and_visually_checked",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "2448",
-      "folder": "2448_Cream-Black-Hair-Clips-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "folder": "2448_Cream-Black-Hair-Clips-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "five_images_saved_and_visually_checked",
       "errors": [],
       "originals_unchanged": true
     },

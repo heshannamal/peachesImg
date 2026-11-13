@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260922-WA0121.jpg": "3ae7ba0f127407959981fdc8b4d84cf1b14d444c9939714128e518f0930ef907"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-e670a59e-4d60-479a-aa88-ff336445c14b.png",
+      "source_output": "/workspace/generated_images/exec-e670a59e-4d60-479a-aa88-ff336445c14b.png",
+      "sha256": "fd631864f01bba8772325351a23b327173a62aad8bdb6ff5d0aa05fd52b83b8f",
+      "prompt": "Native faithful edit of supplied actual product photo into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells,exactsplitx512,x1024,y512. Whole assortment ONEproduct,preserve count/identity/shapes/colours andmaterialtextures. Removehand,shop,outerplastic/floatingpriceoverlay only. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightrealpart macroonly,promofullassortmentaccurateheading,blankcreamunused. No missing/extraunits orunrelatedstock. Subject original24ruffled chiffon/organza scrunchie hairties withtinyclearcrystal dots andattached small elasticloops/iridescentroundbeads aroundoutside. Preserve6colourvariants LIMEGREEN,SKYBLUE,PALEPINK,BURGUNDY,LAVENDER,BLACK. Showwhole24assortment countably6colourcolumns4tieseach, preserve originalruffledfabricvolume,blackhasblackelastic/iridescentbeads,othersmatchingpastels. Notplushorplainroundhairties. Detailtightactualblackruffle/crystal/bead/elasticpart. Heading 'Beaded Ruffle Scrunchies'.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-e670a59e-4d60-479a-aa88-ff336445c14b.png",
+      "prompt": "Native faithful edit of supplied actual product photo into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells,exactsplitx512,x1024,y512. Whole assortment ONEproduct,preserve count/identity/shapes/colours andmaterialtextures. Removehand,shop,outerplastic/floatingpriceoverlay only. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightrealpart macroonly,promofullassortmentaccurateheading,blankcreamunused. No missing/extraunits orunrelatedstock. Subject original24ruffled chiffon/organza scrunchie hairties withtinyclearcrystal dots andattached small elasticloops/iridescentroundbeads aroundoutside. Preserve6colourvariants LIMEGREEN,SKYBLUE,PALEPINK,BURGUNDY,LAVENDER,BLACK. Showwhole24assortment countably6colourcolumns4tieseach, preserve originalruffledfabricvolume,blackhasblackelastic/iridescentbeads,othersmatchingpastels. Notplushorplainroundhairties. Detailtightactualblackruffle/crystal/bead/elasticpart. Heading 'Beaded Ruffle Scrunchies'.\n",
+      "sha256": "61c2c8812b7054d6a959ae7dac19e6b7dbf21b66c527723eca13d5ee988e191b",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e670a59e-4d60-479a-aa88-ff336445c14b.png",
+      "grid_sha256": "fd631864f01bba8772325351a23b327173a62aad8bdb6ff5d0aa05fd52b83b8f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-e670a59e-4d60-479a-aa88-ff336445c14b.png",
+      "prompt": "Native faithful edit of supplied actual product photo into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells,exactsplitx512,x1024,y512. Whole assortment ONEproduct,preserve count/identity/shapes/colours andmaterialtextures. Removehand,shop,outerplastic/floatingpriceoverlay only. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightrealpart macroonly,promofullassortmentaccurateheading,blankcreamunused. No missing/extraunits orunrelatedstock. Subject original24ruffled chiffon/organza scrunchie hairties withtinyclearcrystal dots andattached small elasticloops/iridescentroundbeads aroundoutside. Preserve6colourvariants LIMEGREEN,SKYBLUE,PALEPINK,BURGUNDY,LAVENDER,BLACK. Showwhole24assortment countably6colourcolumns4tieseach, preserve originalruffledfabricvolume,blackhasblackelastic/iridescentbeads,othersmatchingpastels. Notplushorplainroundhairties. Detailtightactualblackruffle/crystal/bead/elasticpart. Heading 'Beaded Ruffle Scrunchies'.\n",
+      "sha256": "7307521167b09358c19a11612ed1c3690b62b876b45748a80ee9800364512156",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e670a59e-4d60-479a-aa88-ff336445c14b.png",
+      "grid_sha256": "fd631864f01bba8772325351a23b327173a62aad8bdb6ff5d0aa05fd52b83b8f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-e670a59e-4d60-479a-aa88-ff336445c14b.png",
+      "prompt": "Native faithful edit of supplied actual product photo into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells,exactsplitx512,x1024,y512. Whole assortment ONEproduct,preserve count/identity/shapes/colours andmaterialtextures. Removehand,shop,outerplastic/floatingpriceoverlay only. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightrealpart macroonly,promofullassortmentaccurateheading,blankcreamunused. No missing/extraunits orunrelatedstock. Subject original24ruffled chiffon/organza scrunchie hairties withtinyclearcrystal dots andattached small elasticloops/iridescentroundbeads aroundoutside. Preserve6colourvariants LIMEGREEN,SKYBLUE,PALEPINK,BURGUNDY,LAVENDER,BLACK. Showwhole24assortment countably6colourcolumns4tieseach, preserve originalruffledfabricvolume,blackhasblackelastic/iridescentbeads,othersmatchingpastels. Notplushorplainroundhairties. Detailtightactualblackruffle/crystal/bead/elasticpart. Heading 'Beaded Ruffle Scrunchies'.\n",
+      "sha256": "52fa982c5c4c7358b6ef3315be7663c2c0b330818ea00dc8322d5d04ff242241",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e670a59e-4d60-479a-aa88-ff336445c14b.png",
+      "grid_sha256": "fd631864f01bba8772325351a23b327173a62aad8bdb6ff5d0aa05fd52b83b8f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-e670a59e-4d60-479a-aa88-ff336445c14b.png",
+      "prompt": "Native faithful edit of supplied actual product photo into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells,exactsplitx512,x1024,y512. Whole assortment ONEproduct,preserve count/identity/shapes/colours andmaterialtextures. Removehand,shop,outerplastic/floatingpriceoverlay only. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightrealpart macroonly,promofullassortmentaccurateheading,blankcreamunused. No missing/extraunits orunrelatedstock. Subject original24ruffled chiffon/organza scrunchie hairties withtinyclearcrystal dots andattached small elasticloops/iridescentroundbeads aroundoutside. Preserve6colourvariants LIMEGREEN,SKYBLUE,PALEPINK,BURGUNDY,LAVENDER,BLACK. Showwhole24assortment countably6colourcolumns4tieseach, preserve originalruffledfabricvolume,blackhasblackelastic/iridescentbeads,othersmatchingpastels. Notplushorplainroundhairties. Detailtightactualblackruffle/crystal/bead/elasticpart. Heading 'Beaded Ruffle Scrunchies'.\n",
+      "sha256": "8570c2f09aafe47d3f6cd7e65acbb0e4c8b1f686c3f7abb8132988f4d4eeb83b",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e670a59e-4d60-479a-aa88-ff336445c14b.png",
+      "grid_sha256": "fd631864f01bba8772325351a23b327173a62aad8bdb6ff5d0aa05fd52b83b8f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-e670a59e-4d60-479a-aa88-ff336445c14b.png",
+      "prompt": "Native faithful edit of supplied actual product photo into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells,exactsplitx512,x1024,y512. Whole assortment ONEproduct,preserve count/identity/shapes/colours andmaterialtextures. Removehand,shop,outerplastic/floatingpriceoverlay only. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightrealpart macroonly,promofullassortmentaccurateheading,blankcreamunused. No missing/extraunits orunrelatedstock. Subject original24ruffled chiffon/organza scrunchie hairties withtinyclearcrystal dots andattached small elasticloops/iridescentroundbeads aroundoutside. Preserve6colourvariants LIMEGREEN,SKYBLUE,PALEPINK,BURGUNDY,LAVENDER,BLACK. Showwhole24assortment countably6colourcolumns4tieseach, preserve originalruffledfabricvolume,blackhasblackelastic/iridescentbeads,othersmatchingpastels. Notplushorplainroundhairties. Detailtightactualblackruffle/crystal/bead/elasticpart. Heading 'Beaded Ruffle Scrunchies'.\n",
+      "sha256": "7aaaea7c513da2659b11bfe38b6aaafde20ae39d67cb6a79c6de40587d3980f3",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e670a59e-4d60-479a-aa88-ff336445c14b.png",
+      "grid_sha256": "fd631864f01bba8772325351a23b327173a62aad8bdb6ff5d0aa05fd52b83b8f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

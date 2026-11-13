@@ -1,0 +1,132 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260918-WA0109.jpg": "89916d5b34cf6c3c3d17405e5ac04bf9f5d51570ba031ff8f134f202a969903c",
+    "Originals/IMG-20260918-WA0108.jpg": "bade3e9ef966d6d9558255ae5364c729fee28f5bb279c58d5f59f799ea8afe0c"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-0383dd00-269d-46b8-a43b-758e8a2d370a.png",
+      "source_output": "/workspace/generated_images/exec-0383dd00-269d-46b8-a43b-758e8a2d370a.png",
+      "sha256": "04d3230913fce9e41a2230fb1667da25c8d6a8890317966a2734370b8ff5b231",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Black Dot Bindi Cards\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. TWO originals repeatangles SAME hangingassortment of TWELVE white/green SUPERCHOICE BINDIcards arrangedTWOcolumnsSIXrows. NOTstudearrings despitefoldername. Eachsmallcardhasdenseuniformgrid tinyBLACK roundadhesivebindidots oncreamfoil (sourcegrid12columns9rows=108tiny dots/card). Preserveall12cards anddenseblackdotgrids, sourcewhitecardgreenfloralborder/SuperChoicetext, clearhangingstripwhiteheader. Do notturn into largeearrings/orgemstones. Allfullviews1/2/3/5 mustshowWHOLE12cardstrip,2cols6rows,count12cards, no 10cards/noonecardonly. Tiny dots remainuniform sourcegrid. Removepricebanner/hand/storehangingcordstockbackground. Detail tightrealpartmacroofactualblackdotbindis oncreamfoil, notentirecard. AccurateheadingBlack Dot Bindi Cards.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-0383dd00-269d-46b8-a43b-758e8a2d370a.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Black Dot Bindi Cards\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. TWO originals repeatangles SAME hangingassortment of TWELVE white/green SUPERCHOICE BINDIcards arrangedTWOcolumnsSIXrows. NOTstudearrings despitefoldername. Eachsmallcardhasdenseuniformgrid tinyBLACK roundadhesivebindidots oncreamfoil (sourcegrid12columns9rows=108tiny dots/card). Preserveall12cards anddenseblackdotgrids, sourcewhitecardgreenfloralborder/SuperChoicetext, clearhangingstripwhiteheader. Do notturn into largeearrings/orgemstones. Allfullviews1/2/3/5 mustshowWHOLE12cardstrip,2cols6rows,count12cards, no 10cards/noonecardonly. Tiny dots remainuniform sourcegrid. Removepricebanner/hand/storehangingcordstockbackground. Detail tightrealpartmacroofactualblackdotbindis oncreamfoil, notentirecard. AccurateheadingBlack Dot Bindi Cards.",
+      "sha256": "28b283d60726000aa13904fd7625b997509f33094523b80e32611e30c50a93d3",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0383dd00-269d-46b8-a43b-758e8a2d370a.png",
+      "grid_sha256": "04d3230913fce9e41a2230fb1667da25c8d6a8890317966a2734370b8ff5b231",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Whole12card strip2columns6rows retained; sample enlarged foil grid shows12columns9rows blackdots matching actual source; white background.",
+      "reviewed_by": "parent recovery review of original photos and actual saved crops"
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-0383dd00-269d-46b8-a43b-758e8a2d370a.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Black Dot Bindi Cards\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. TWO originals repeatangles SAME hangingassortment of TWELVE white/green SUPERCHOICE BINDIcards arrangedTWOcolumnsSIXrows. NOTstudearrings despitefoldername. Eachsmallcardhasdenseuniformgrid tinyBLACK roundadhesivebindidots oncreamfoil (sourcegrid12columns9rows=108tiny dots/card). Preserveall12cards anddenseblackdotgrids, sourcewhitecardgreenfloralborder/SuperChoicetext, clearhangingstripwhiteheader. Do notturn into largeearrings/orgemstones. Allfullviews1/2/3/5 mustshowWHOLE12cardstrip,2cols6rows,count12cards, no 10cards/noonecardonly. Tiny dots remainuniform sourcegrid. Removepricebanner/hand/storehangingcordstockbackground. Detail tightrealpartmacroofactualblackdotbindis oncreamfoil, notentirecard. AccurateheadingBlack Dot Bindi Cards.",
+      "sha256": "275554ecc52852b6c710bfc0eb220b3cab79c86822bcde2cdca9769ac8cd6ac5",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0383dd00-269d-46b8-a43b-758e8a2d370a.png",
+      "grid_sha256": "04d3230913fce9e41a2230fb1667da25c8d6a8890317966a2734370b8ff5b231",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "All12SuperChoice cards and dense blackdot patterns retained on lavender/cream.",
+      "reviewed_by": "parent recovery review of original photos and actual saved crops"
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-0383dd00-269d-46b8-a43b-758e8a2d370a.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Black Dot Bindi Cards\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. TWO originals repeatangles SAME hangingassortment of TWELVE white/green SUPERCHOICE BINDIcards arrangedTWOcolumnsSIXrows. NOTstudearrings despitefoldername. Eachsmallcardhasdenseuniformgrid tinyBLACK roundadhesivebindidots oncreamfoil (sourcegrid12columns9rows=108tiny dots/card). Preserveall12cards anddenseblackdotgrids, sourcewhitecardgreenfloralborder/SuperChoicetext, clearhangingstripwhiteheader. Do notturn into largeearrings/orgemstones. Allfullviews1/2/3/5 mustshowWHOLE12cardstrip,2cols6rows,count12cards, no 10cards/noonecardonly. Tiny dots remainuniform sourcegrid. Removepricebanner/hand/storehangingcordstockbackground. Detail tightrealpartmacroofactualblackdotbindis oncreamfoil, notentirecard. AccurateheadingBlack Dot Bindi Cards.",
+      "sha256": "abb895681476f37eeb2f58d7e0fbc9049dab804a1a3eebffcfc691b23fbf56b1",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0383dd00-269d-46b8-a43b-758e8a2d370a.png",
+      "grid_sha256": "04d3230913fce9e41a2230fb1667da25c8d6a8890317966a2734370b8ff5b231",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Whole12card strip retained on shelf lifestyle.",
+      "reviewed_by": "parent recovery review of original photos and actual saved crops"
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-0383dd00-269d-46b8-a43b-758e8a2d370a.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Black Dot Bindi Cards\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. TWO originals repeatangles SAME hangingassortment of TWELVE white/green SUPERCHOICE BINDIcards arrangedTWOcolumnsSIXrows. NOTstudearrings despitefoldername. Eachsmallcardhasdenseuniformgrid tinyBLACK roundadhesivebindidots oncreamfoil (sourcegrid12columns9rows=108tiny dots/card). Preserveall12cards anddenseblackdotgrids, sourcewhitecardgreenfloralborder/SuperChoicetext, clearhangingstripwhiteheader. Do notturn into largeearrings/orgemstones. Allfullviews1/2/3/5 mustshowWHOLE12cardstrip,2cols6rows,count12cards, no 10cards/noonecardonly. Tiny dots remainuniform sourcegrid. Removepricebanner/hand/storehangingcordstockbackground. Detail tightrealpartmacroofactualblackdotbindis oncreamfoil, notentirecard. AccurateheadingBlack Dot Bindi Cards.",
+      "sha256": "d61fd6f2d412407cfe67813e4f0ef1bd072c4b75a6afecc3e63eb6286ed1f484",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0383dd00-269d-46b8-a43b-758e8a2d370a.png",
+      "grid_sha256": "04d3230913fce9e41a2230fb1667da25c8d6a8890317966a2734370b8ff5b231",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Standalone tight real blackdot bindi texture on creamfoil, matches source.",
+      "reviewed_by": "parent recovery review of original photos and actual saved crops"
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-0383dd00-269d-46b8-a43b-758e8a2d370a.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Black Dot Bindi Cards\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. TWO originals repeatangles SAME hangingassortment of TWELVE white/green SUPERCHOICE BINDIcards arrangedTWOcolumnsSIXrows. NOTstudearrings despitefoldername. Eachsmallcardhasdenseuniformgrid tinyBLACK roundadhesivebindidots oncreamfoil (sourcegrid12columns9rows=108tiny dots/card). Preserveall12cards anddenseblackdotgrids, sourcewhitecardgreenfloralborder/SuperChoicetext, clearhangingstripwhiteheader. Do notturn into largeearrings/orgemstones. Allfullviews1/2/3/5 mustshowWHOLE12cardstrip,2cols6rows,count12cards, no 10cards/noonecardonly. Tiny dots remainuniform sourcegrid. Removepricebanner/hand/storehangingcordstockbackground. Detail tightrealpartmacroofactualblackdotbindis oncreamfoil, notentirecard. AccurateheadingBlack Dot Bindi Cards.",
+      "sha256": "2f5dfdd39ac886e090ffc88abb69fd1f277e3e95d24098d617997ec82c8a1e31",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0383dd00-269d-46b8-a43b-758e8a2d370a.png",
+      "grid_sha256": "04d3230913fce9e41a2230fb1667da25c8d6a8890317966a2734370b8ff5b231",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Black Dot Bindi Cards heading accurately labels whole12card strip.",
+      "reviewed_by": "parent recovery review of original photos and actual saved crops"
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

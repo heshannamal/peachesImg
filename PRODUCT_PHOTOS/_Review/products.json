@@ -29701,15 +29701,17 @@
   },
   {
     "product_id": "2433",
-    "folder": "2433_Black-Snap-Hair-Clips-0",
+    "folder": "2433_Black-Snap-Hair-Clips-1",
     "source_image_ids": [
       2718
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2434",
@@ -29742,24 +29744,26 @@
     "source_image_ids": [
       2721
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2437",
-    "folder": "2437_Small-Stud-Earring-Cards-0",
+    "folder": "2437_Small-Stud-Earring-Cards-1",
     "source_image_ids": [
       2723,
       2724
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2438",
@@ -29791,15 +29795,17 @@
   },
   {
     "product_id": "2440",
-    "folder": "2440_Bright-Scrunchies-0",
+    "folder": "2440_Bright-Scrunchies-1",
     "source_image_ids": [
       2727
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2441",

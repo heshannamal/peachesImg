@@ -1,5 +1,5 @@
 {
-  "status": "ready",
+  "status": "paused_worker_model_usage_limit",
   "next_unassigned": [
     "2429",
     "2428",
@@ -305,5 +305,7 @@
         "2438"
       ]
     }
-  ]
+  ],
+  "active_products": 0,
+  "in_flight_calls": 0
 }

@@ -1,0 +1,13 @@
+# Resumable queue2416–2517 checkpoint
+
+70complete,5partial,19pending,6moderationblocked.369websitefiles saved,357checked. All123frozenoriginalSHA256baselines verifiedunchanged. No activegenerationcalls/workers/watcher. Paused afterallfiveworkersmodelusagelimits; no nativeimageHTTP429observed.
+
+Recoveredthreecachednativegrids2433,2436,2437 beforeCSVexport.2433/2437 passedall5;2436macroapproved,4fullviewsneedcount/layoutreview/correction(onecorrectiveavailable).2440existing5uncheckedviewsreviewedpassedwithoutregeneration.
+
+Partial2501/2500:5saved1checked each,onecorrectivefailed9vs10count; no more retries.2477/2476:2approvedviews each, initialtop3rejected inRejected; correctiveattemptsalreadyspent butresultsnotpersistedbeforeworkspace restart; outcomeunknown, do not retry.2436:5saved1checked; initialfullviewflowerbindi/cardcountmismatch andunverifiedcardlayouts, correctionnotspent.
+
+Moderationblocked2516,2515,2514,2508,2507,2498: exacterrors/prompts/requestIDsretained,skipwithoutretry.
+
+Resume2436review/correctionplus19pending, currentpairassignments inDISPATCH.json;14unassigned2429down2416. Preserve70completeandallapprovedpartials. Noearlierqueuesmodified.
+
+CSVbatches31–34 willcontain70newcompletedproducts20/20/20/10rows,price1LKR,noSKUduplicateswithearlierbatches. Sourcefoldernamesmaybewrong; namesuseactualcheckedprompts/subjectnotes.

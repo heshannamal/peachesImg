@@ -1,0 +1,25 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "status": "blocked_moderation",
+  "records": [],
+  "original_hashes": {
+    "Originals/IMG-20260929-WA0137.jpg": "499806ac53ba983a72025cefff703b5366136e1c3befcb9680f2e9cf39a66bf9"
+  },
+  "generation_attempts": [
+    {
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Grey Character Plush Toy\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualproduct focus is ONE foregroundgrey-blue seatedcharacterPLUSHTOY in darkNAVYpinstriped overall/bib embroideredSTITCH, palemintmuzzle/chest,pinkinnerlongears,blackovalnose,largeblackeyeswhiteglints,fuzzygreybluefabric,roundedfeet. Remainingpilebehind isrepeatwarehouseSTOCK ofsameitem, removebackgroundstock and preserveONEmainforegroundtoyentirely in eachfullview1/2/3/5. Notblueunclothedtoy. Matchactualsourcecharacteridentity,greyslatecolour,navystripedclothing,alllimbs/ears/shapes. Removehangtagplasticloop ifneededbutpreservetoy. Detail standalone tightcrop ofactualnavypinstripedbib fabric andSTITCHembroiderystitches, notfulltoy. AccurateheadingGrey Character Plush Toy.",
+      "referenced_originals": [
+        "Originals/IMG-20260929-WA0137.jpg"
+      ],
+      "result": "HTTP400 moderation_blocked",
+      "moderation_stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "09fa9524-75ca-4d53-87b5-932318e9c2f4",
+      "error_message": "Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 09fa9524-75ca-4d53-87b5-932318e9c2f4.",
+      "retried": false
+    }
+  ]
+}

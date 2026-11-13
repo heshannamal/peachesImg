@@ -1,22 +1,6 @@
 {
   "status": "ready",
   "next_unassigned": [
-    "2517",
-    "2516",
-    "2515",
-    "2514",
-    "2513",
-    "2512",
-    "2511",
-    "2510",
-    "2509",
-    "2508",
-    "2507",
-    "2506",
-    "2505",
-    "2504",
-    "2503",
-    "2502",
     "2501",
     "2500",
     "2499",
@@ -102,6 +86,49 @@
     "2417",
     "2416"
   ],
-  "assigned": {},
-  "assignment_history": []
+  "assigned": {
+    "batch4_worker1": [
+      "2507",
+      "2506"
+    ],
+    "batch4_worker2": [
+      "2505",
+      "2504"
+    ],
+    "batch4_worker3": [
+      "2513",
+      "2512"
+    ],
+    "batch4_worker4": [
+      "2511",
+      "2510"
+    ],
+    "batch4_worker5": [
+      "2503",
+      "2502"
+    ]
+  },
+  "assignment_history": [
+    {
+      "worker": "batch4_worker1",
+      "product_ids": [
+        "2517",
+        "2516"
+      ]
+    },
+    {
+      "worker": "batch4_worker2",
+      "product_ids": [
+        "2515",
+        "2514"
+      ]
+    },
+    {
+      "worker": "batch4_worker5",
+      "product_ids": [
+        "2509",
+        "2508"
+      ]
+    }
+  ]
 }

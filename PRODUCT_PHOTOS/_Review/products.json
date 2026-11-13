@@ -30601,21 +30601,23 @@
     ],
     "new_images": 0,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "blocked_moderation",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2509",
-    "folder": "2509_Pastel-Rechargeable-Fans-0",
+    "folder": "2509_Pastel-Rechargeable-Fans-1",
     "source_image_ids": [
       2811
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2510",
@@ -30631,15 +30633,17 @@
   },
   {
     "product_id": "2511",
-    "folder": "2511_Bright-Rechargeable-Fans-0",
+    "folder": "2511_Bright-Rechargeable-Fans-1",
     "source_image_ids": [
       2813
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2512",
@@ -30647,23 +30651,25 @@
     "source_image_ids": [
       2814
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2513",
-    "folder": "2513_Contact-Lens-Cases-0",
+    "folder": "2513_Contact-Lens-Cases-1",
     "source_image_ids": [
       2815
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2514",
@@ -30673,7 +30679,7 @@
     ],
     "new_images": 0,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "blocked_moderation",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -30685,7 +30691,7 @@
     ],
     "new_images": 0,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "blocked_moderation",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -30697,21 +30703,23 @@
     ],
     "new_images": 0,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "blocked_moderation",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2517",
-    "folder": "2517_Clear-Hair-Claws-0",
+    "folder": "2517_Clear-Hair-Claws-1",
     "source_image_ids": [
       2819
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2518",

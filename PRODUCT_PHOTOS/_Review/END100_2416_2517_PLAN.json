@@ -1,0 +1,537 @@
+{
+  "status": "ready",
+  "created_at": "2026-11-13T00:50:32.168194+00:00",
+  "target_products": 100,
+  "target_images": 500,
+  "product_ids": [
+    "2517",
+    "2516",
+    "2515",
+    "2514",
+    "2513",
+    "2512",
+    "2511",
+    "2510",
+    "2509",
+    "2508",
+    "2507",
+    "2506",
+    "2505",
+    "2504",
+    "2503",
+    "2502",
+    "2501",
+    "2500",
+    "2499",
+    "2498",
+    "2497",
+    "2496",
+    "2495",
+    "2494",
+    "2493",
+    "2492",
+    "2491",
+    "2490",
+    "2489",
+    "2488",
+    "2487",
+    "2486",
+    "2485",
+    "2484",
+    "2483",
+    "2482",
+    "2481",
+    "2480",
+    "2479",
+    "2478",
+    "2477",
+    "2476",
+    "2475",
+    "2474",
+    "2473",
+    "2472",
+    "2471",
+    "2470",
+    "2469",
+    "2468",
+    "2467",
+    "2466",
+    "2465",
+    "2463",
+    "2462",
+    "2461",
+    "2460",
+    "2459",
+    "2458",
+    "2457",
+    "2456",
+    "2455",
+    "2453",
+    "2452",
+    "2451",
+    "2450",
+    "2449",
+    "2448",
+    "2447",
+    "2446",
+    "2445",
+    "2444",
+    "2443",
+    "2442",
+    "2441",
+    "2440",
+    "2439",
+    "2438",
+    "2437",
+    "2436",
+    "2435",
+    "2434",
+    "2433",
+    "2432",
+    "2431",
+    "2430",
+    "2429",
+    "2428",
+    "2427",
+    "2426",
+    "2425",
+    "2424",
+    "2423",
+    "2422",
+    "2421",
+    "2420",
+    "2419",
+    "2418",
+    "2417",
+    "2416"
+  ],
+  "folders": {
+    "2517": "2517_Clear-Hair-Claws-0",
+    "2516": "2516_Printed-Character-Caps-0",
+    "2515": "2515_Blue-Character-Plush-Toys-0",
+    "2514": "2514_Grey-Character-Plush-Toys-0",
+    "2513": "2513_Contact-Lens-Cases-0",
+    "2512": "2512_Contact-Lens-Travel-Kits-0",
+    "2511": "2511_Bright-Rechargeable-Fans-0",
+    "2510": "2510_Colourful-Rechargeable-Fans-0",
+    "2509": "2509_Pastel-Rechargeable-Fans-0",
+    "2508": "2508_Character-Handheld-Fans-0",
+    "2507": "2507_Character-Keyring-Fans-0",
+    "2506": "2506_Coloured-Contact-Lenses-0",
+    "2505": "2505_Coloured-Contact-Lens-Boxes-0",
+    "2504": "2504_Blue-Pink-Plush-Toys-0",
+    "2503": "2503_Character-Tote-Bags-0",
+    "2502": "2502_Animal-Plush-Toys-0",
+    "2501": "2501_Pastel-Character-Hair-Clips-0",
+    "2500": "2500_Pink-Character-Hair-Clips-0",
+    "2499": "2499_Party-Snow-Spray-0",
+    "2498": "2498_Princess-Notebooks-0",
+    "2497": "2497_Colourful-Notebooks-0",
+    "2496": "2496_Neutral-Black-Hair-Clips-0",
+    "2495": "2495_Brown-Hair-Clip-Cards-0",
+    "2494": "2494_Neutral-Printed-Hair-Clips-0",
+    "2493": "2493_Black-Hair-Clip-Cards-0",
+    "2492": "2492_Warm-Tone-Hair-Clips-0",
+    "2491": "2491_Bright-Hair-Clip-Cards-0",
+    "2490": "2490_Colourful-Printed-Hair-Clips-0",
+    "2489": "2489_Pastel-Hair-Clip-Cards-0",
+    "2488": "2488_Dark-Printed-Hair-Clips-0",
+    "2487": "2487_Printed-Hair-Clip-Cards-0",
+    "2486": "2486_Small-Fragrance-Assortment-0",
+    "2485": "2485_Pastel-Fragrance-Bottles-0",
+    "2484": "2484_Colourful-Fragrance-Bottles-0",
+    "2483": "2483_Gold-Tone-Fragrance-Assortment-0",
+    "2482": "2482_Luxury-Fragrance-Assortment-0",
+    "2481": "2481_Green-Fragrance-Assortment-0",
+    "2480": "2480_Boxed-Fragrance-Assortment-0",
+    "2479": "2479_Mixed-Fragrance-Assortment-0",
+    "2478": "2478_Dark-Fragrance-Assortment-0",
+    "2477": "2477_Pink-Fragrance-Assortment-0",
+    "2476": "2476_Fragrance-Catalog-Assortment-0",
+    "2475": "2475_Fantasy-Character-Plush-Toys-0",
+    "2474": "2474_Pink-Red-Plush-Bears-0",
+    "2473": "2473_Red-Bow-Cat-Plush-Toy-0",
+    "2472": "2472_Small-Character-Plush-Toys-0",
+    "2471": "2471_White-Cat-Plush-Toys-0",
+    "2470": "2470_Colourful-Character-Plush-Toys-0",
+    "2469": "2469_Fragrance-Catalog-Assortment-0",
+    "2468": "2468_Gold-Tone-Jewellery-Sets-0",
+    "2467": "2467_Red-Pendant-Jewellery-Sets-0",
+    "2466": "2466_Clear-Pendant-Jewellery-Sets-0",
+    "2465": "2465_Dark-Pendant-Jewellery-Sets-0",
+    "2463": "2463_Pastel-Drinking-Bottles-0",
+    "2462": "2462_Brown-Wood-Bracelets-0",
+    "2461": "2461_Mixed-Nose-Studs-0",
+    "2460": "2460_Colourful-Nose-Studs-0",
+    "2459": "2459_Tiny-Nose-Studs-0",
+    "2458": "2458_Small-Nose-Studs-0",
+    "2457": "2457_Eye-Charm-Bangles-0",
+    "2456": "2456_Pastel-Lace-Scrunchies-0",
+    "2455": "2455_Character-Scrunchies-0",
+    "2453": "2453_Neutral-Black-Hair-Clips-0",
+    "2452": "2452_Flower-Hair-Clips-0",
+    "2451": "2451_Black-Hair-Clips-0",
+    "2450": "2450_Warm-Tone-Hair-Clips-0",
+    "2449": "2449_Printed-Hair-Clips-0",
+    "2448": "2448_Cream-Black-Hair-Clips-0",
+    "2447": "2447_Neutral-Hair-Clips-0",
+    "2446": "2446_Bright-Hair-Clips-0",
+    "2445": "2445_Eye-Charm-Bracelets-0",
+    "2444": "2444_Lace-Scrunchies-0",
+    "2443": "2443_Phone-Holder-Drinking-Bottles-0",
+    "2442": "2442_Printed-Drinking-Bottles-0",
+    "2441": "2441_Character-Pencil-Cases-0",
+    "2440": "2440_Bright-Scrunchies-0",
+    "2439": "2439_Neutral-Scrunchies-0",
+    "2438": "2438_Pastel-Scrunchies-0",
+    "2437": "2437_Small-Stud-Earring-Cards-0",
+    "2436": "2436_Mixed-Stud-Earring-Cards-0",
+    "2435": "2435_White-Stud-Earring-Cards-0",
+    "2434": "2434_Pink-Stud-Earring-Cards-0",
+    "2433": "2433_Black-Snap-Hair-Clips-0",
+    "2432": "2432_Silver-Tone-Bangles-0",
+    "2431": "2431_Wide-Gold-Tone-Bangles-0",
+    "2430": "2430_Thin-Gold-Tone-Bangles-0",
+    "2429": "2429_Character-Transparent-Gun-Toy-0",
+    "2428": "2428_Small-Character-Keyrings-0",
+    "2427": "2427_Blue-Pink-Character-Keyrings-0",
+    "2426": "2426_Character-Photo-Keyring-Box-0",
+    "2425": "2425_Floral-Stud-Earring-Cards-0",
+    "2424": "2424_Gold-Tone-Stud-Earring-Cards-0",
+    "2423": "2423_Bright-Stud-Earring-Cards-0",
+    "2422": "2422_Clear-Stud-Earring-Cards-0",
+    "2421": "2421_Metallic-Stud-Earring-Cards-0",
+    "2420": "2420_Neutral-Stud-Earring-Cards-0",
+    "2419": "2419_Mixed-Stud-Earring-Cards-0",
+    "2418": "2418_Round-Stud-Earring-Cards-0",
+    "2417": "2417_Decorative-Stud-Earring-Cards-0",
+    "2416": "2416_Blue-Stud-Earring-Cards-0"
+  },
+  "original_sha256": {
+    "2517": {
+      "IMG-20260929-WA0170.jpg": "9da037cb29e5980ecf1681caba1b5fbf33ffd769f89c49df49c53bb4d65cbfcd"
+    },
+    "2516": {
+      "IMG-20260929-WA0168.jpg": "75f520f4285891e058ad361b8a87e9a45740ce13d745f50ba7721f9f77441c8b"
+    },
+    "2515": {
+      "IMG-20260929-WA0138.jpg": "fd94a55b02f99b7ddd34f44746c71a44048eb9f7be52fe3c55fc504bf984c552"
+    },
+    "2514": {
+      "IMG-20260929-WA0137.jpg": "499806ac53ba983a72025cefff703b5366136e1c3befcb9680f2e9cf39a66bf9"
+    },
+    "2513": {
+      "IMG-20260929-WA0135.jpg": "db9799ae9cb77bcb89000d378a4b1cc9db33391270609701c1504515957acc06"
+    },
+    "2512": {
+      "IMG-20260929-WA0133.jpg": "62ba2fc22945dc7af9949bbe34a233de3f99b1e7c3d25859cedfcba0a6edd232"
+    },
+    "2511": {
+      "IMG-20260929-WA0132.jpg": "97dc680521cc2871eb2fae17e3dc44e4e955a4e18d9d53e13247a0dbbf74e0a1"
+    },
+    "2510": {
+      "IMG-20260929-WA0131.jpg": "3c8c71cbe473c7b7d76c65b73bbd5cfb1fc2b46857af5f8273aa65c0b12293a7"
+    },
+    "2509": {
+      "IMG-20260929-WA0130.jpg": "965d45c82481ff7ac9b4a804fab0e258c4368c7d4f982104342b27e75a41d546"
+    },
+    "2508": {
+      "IMG-20260929-WA0129.jpg": "55b7735ce03fb9fdf0a3507d1a146e4abf419ffac510cfd88eccd4bdd635832d"
+    },
+    "2507": {
+      "IMG-20260929-WA0128.jpg": "4eba1c55bb2f14ab11d58c79a9b24b5b2e2f8a066c4c238a13b0efe86ad90d6c"
+    },
+    "2506": {
+      "IMG-20260929-WA0126.jpg": "60a1cad1468c30d424df36af9e45c4a282f44a7c49c994c310d313338fa8e39d"
+    },
+    "2505": {
+      "IMG-20260929-WA0118.jpg": "9c9189c91fe652bab5a84ca8a7cf300643a69d47db9843dab081d27550887eb7"
+    },
+    "2504": {
+      "IMG-20260929-WA0114.jpg": "53d22200c4c2a2555b638568ddf41b86a2b6639b71013cbb2fa9911345a86836"
+    },
+    "2503": {
+      "IMG-20260929-WA0113.jpg": "790456090e11442b9b90ca1882762e404919a2611c5017c177d56ac11f50931b"
+    },
+    "2502": {
+      "IMG-20260929-WA0112.jpg": "aabba4a3727ae24b6e8a2baabada09cc16daa664fa4ff0c41d79bf9e6d900d3c"
+    },
+    "2501": {
+      "IMG-20260925-WA0128.jpg": "bf6cdec6ef35098a7099ee70807b4a26ab3a1c0c77e4988ddf3b504b0cb8508f"
+    },
+    "2500": {
+      "IMG-20260925-WA0127.jpg": "d6d8aa93ae811357dd11e010762c270543e6fdbb1f2241ba9d3cdfbf80f2127f"
+    },
+    "2499": {
+      "IMG-20260924-WA0201.jpg": "b4f8875c6958a67421213203d48b245f7845d54ed683744449ba913df7ae3eea"
+    },
+    "2498": {
+      "IMG-20260924-WA0032.jpg": "c71598659fa574c664cceed464cf73e832392097dd53b7c10d737f5df29e5ac8"
+    },
+    "2497": {
+      "IMG-20260924-WA0026.jpg": "34dc3fba1aed0ebf819bd6cf09ba358b7384be8dec1e4e2c7473499a8313bb04"
+    },
+    "2496": {
+      "IMG-20260923-WA0287.jpg": "daaa8e503339b002550b4e6e887a5680c2f7574c24f999498d1b85b92e8bd2b9"
+    },
+    "2495": {
+      "IMG-20260923-WA0285.jpg": "7278d5719a0f817af43613370a40aff1edb1f18f4e18b7022bb5d7f2e6e71b8d"
+    },
+    "2494": {
+      "IMG-20260923-WA0283.jpg": "ab986f8ba7ddff20297af47e52e0703f4317184a4cc46bf36d3f165b7293e6b4"
+    },
+    "2493": {
+      "IMG-20260923-WA0281.jpg": "0eab03ce90c552a394f8a2810dd26be31fdf3dc0f7725c499094a5673ef6574e"
+    },
+    "2492": {
+      "IMG-20260923-WA0280.jpg": "94486828aed2366c3734d86771bee12ba8d0a4e15ca337a721936a39831c4d94"
+    },
+    "2491": {
+      "IMG-20260923-WA0277.jpg": "f05c042b6c4e2da39944fa22a163f84aa1603eb3bf3184829d933435f9de4ec6"
+    },
+    "2490": {
+      "IMG-20260923-WA0275.jpg": "03f5d82e3badcca10a4a1fbc0a02b8ee88adaa9055e6cbe5491387dec071645d"
+    },
+    "2489": {
+      "IMG-20260923-WA0273.jpg": "ed28e0244ebd19b5798f4493c76f1eb75787c2234e2c58cf5a247577e84fadaa"
+    },
+    "2488": {
+      "IMG-20260923-WA0271.jpg": "44c34d35da78dce4d489879d275beeba9a8e43c905ff365b39dc34a78b517b8c"
+    },
+    "2487": {
+      "IMG-20260923-WA0269.jpg": "f6fc6ab9c72f922e8e99422aab28bfc39af9784eaca332f8a4a5f99fb298527c"
+    },
+    "2486": {
+      "IMG-20260923-WA0225.jpg": "bee82f01d5647d28d6d2a5ff2e5d7c056b6bac5f0da7bb20c91994f4856d817d"
+    },
+    "2485": {
+      "IMG-20260923-WA0218.jpg": "0ebe80b50186347479b9027cf47464436e7c5af52e5fc43226b4e278903098c1"
+    },
+    "2484": {
+      "IMG-20260923-WA0217.jpg": "ce582e17b42702c2f6b914e6bdeb565f26739589896e975a4c159a041b1c85ea"
+    },
+    "2483": {
+      "IMG-20260923-WA0206.jpg": "51fe534d182e9fa77f3b74c98dfe511639df8f684443cee309b9077327abe0ab"
+    },
+    "2482": {
+      "IMG-20260923-WA0205.jpg": "942b68d56f4169f404b3b7737b21aa84a1c0998c20eacbe3ad7f8570f0a457bc"
+    },
+    "2481": {
+      "IMG-20260923-WA0204.jpg": "290cec50391ef53fe045547f1c7ef7696edf5488a0f909be75cbaf7ae7878ee1"
+    },
+    "2480": {
+      "IMG-20260923-WA0203.jpg": "2de34c32ab1c7ad6ee4465e0046cf34f1fa1ad6f3da0e591610f377c2b290eb9"
+    },
+    "2479": {
+      "IMG-20260923-WA0202.jpg": "7e4919322cf7fdf85f9d94d23feed11abdc356c5765a31642310be5de027bfc6"
+    },
+    "2478": {
+      "IMG-20260923-WA0201.jpg": "876f20e3afdd2f4ac484960833072f8c48cfdf49e65ede77b33e0c9b21a56cf8"
+    },
+    "2477": {
+      "IMG-20260923-WA0200.jpg": "c10447e3c4c612f7d17423d49227b89a920aa44fd3f6cc8f2030b0f36d58bd99"
+    },
+    "2476": {
+      "IMG-20260923-WA0199.jpg": "ace73546ab6423cba5cb8ede1a2b1cbfd52e3be2b345291d0e2cbe91db4d6983"
+    },
+    "2475": {
+      "IMG-20260923-WA0181.jpg": "19f1a581aef029a2144f3480538024dfa9c6749c7983194443d96637d8854ab0"
+    },
+    "2474": {
+      "IMG-20260923-WA0180.jpg": "be7f0be42fa4127399fcc166ae62f1a8a915ac79558d0fb44de4c65932be317f"
+    },
+    "2473": {
+      "IMG-20260923-WA0175.jpg": "9403d8d65214337f59a1ff30d48a8ab2303a083e41d86645796521fdba3e34f2"
+    },
+    "2472": {
+      "IMG-20260923-WA0174.jpg": "79a94c2160ff7215546cf55956ec5c85a1ef7daa7bb01c86bc5d05ee0fb30648"
+    },
+    "2471": {
+      "IMG-20260923-WA0173.jpg": "404e94a21205a598d95c2ce69ee7d64ae3e20bbde1c0405264163aa2ff6cd93f"
+    },
+    "2470": {
+      "IMG-20260923-WA0172.jpg": "70fa2001687316808677c740465ba5b65a3915be30dba7d302fb6d26a562dcd2"
+    },
+    "2469": {
+      "IMG-20260923-WA0171.jpg": "2743854514c2b8aaa71429e98837aa63969dc7b3c1ecf8fb42354686f4c2a2c5"
+    },
+    "2468": {
+      "IMG-20260922-WA0251.jpg": "05fede045eb549cdc58c4158157ebcc0f61ea256bbfc983bf949068e141fac81",
+      "IMG-20260922-WA0252.jpg": "86ac49db867afd27c6fb37ec2f6de8ce4b86f7f46eace729899202257732767e"
+    },
+    "2467": {
+      "IMG-20260922-WA0247.jpg": "92b0fbd8c74ede17e20a7626e339a0f30a546e8e192518851d5312a8bbd7dc20"
+    },
+    "2466": {
+      "IMG-20260922-WA0245.jpg": "9211768bacb3256a42ea3cac834c19c309f8eee2e2fc15d632eaea3c3fab91ee"
+    },
+    "2465": {
+      "IMG-20260922-WA0243.jpg": "d45b16d8ca940f5210f9507253d4da417a61d1f969ffeceec2bce3f8da9c00d1"
+    },
+    "2463": {
+      "IMG-20260922-WA0211.jpg": "f4f8f00005e20b3207e6a0e31402226e21821237deded2c4f0d7d5c775ea5ed6"
+    },
+    "2462": {
+      "IMG-20260922-WA0177.jpg": "c811daa157035a4de84951c7193d09621ff3f7a9cedf096f72f7f98b871d7a85"
+    },
+    "2461": {
+      "IMG-20260922-WA0142.jpg": "732d0bddfe5d2ddd088de5eece0cb8b4e50e6b66c440c2051176fc645aa3fa60"
+    },
+    "2460": {
+      "IMG-20260922-WA0140.jpg": "e5e5460c059daff211b36ad378171e37621c44746d164e4113a8cf04db901c45"
+    },
+    "2459": {
+      "IMG-20260922-WA0138.jpg": "a684d320ef667a91faafe60e60028e19563bcb655d459723b606e11a756a713b"
+    },
+    "2458": {
+      "IMG-20260922-WA0137.jpg": "8265712c5154cc5285b63d3708e1f82ba3cf592214f426cf423790fc0e15e090"
+    },
+    "2457": {
+      "IMG-20260922-WA0124.jpg": "5887b5136c1cb6b55846cd922254cccb86f93417b938015fc4cca081b1ba7215"
+    },
+    "2456": {
+      "IMG-20260922-WA0121.jpg": "3ae7ba0f127407959981fdc8b4d84cf1b14d444c9939714128e518f0930ef907"
+    },
+    "2455": {
+      "IMG-20260922-WA0092.jpg": "712b5d2b01b3ffa9230b4a32f113f1ec2350b181c9d573354f80320b7b635a67"
+    },
+    "2453": {
+      "IMG-20260919-WA0248.jpg": "0fd79e00c4feecf3773dacce9dfc193deda156257c49ad1cd5e65daa40dfd8bd",
+      "IMG-20260919-WA0252.jpg": "66c7254037606b6d923ae03ebfc77228cacea96dd653416319d2b5e6a18434f4"
+    },
+    "2452": {
+      "IMG-20260919-WA0238.jpg": "c28bab22dfae1eb8e3fdcda3815c49f85ccd4b45066ab52f0187a57cefba6175",
+      "IMG-20260919-WA0243.jpg": "7652f1b6a02700a1fe2022f589d4f5dfcbff8be15bfb33c00b8b1b94be9b16c8"
+    },
+    "2451": {
+      "IMG-20260919-WA0235.jpg": "03d32345f8f55b9d9fffead484f04ef3538cfe1698b8c2c7942ef1c711930f66",
+      "IMG-20260919-WA0240.jpg": "6193e12eada05b74ac287763d92bfd418b5bfbbe455bf6914c9e8e5031d393d4"
+    },
+    "2450": {
+      "IMG-20260919-WA0232.jpg": "cbcbd0f4da958dcc1175c0017d341460482ccf6007dd33637596154accfc6ba8",
+      "IMG-20260919-WA0237.jpg": "b584c8c72bc536fa370e63b240afb4ced1a84dee1db27c889110e5abe5d30a2e",
+      "IMG-20260919-WA0241.jpg": "d12de293243947beefe6d58e4050f07a480a2bf22bc6cc779d9afeae05d5d4b5",
+      "IMG-20260919-WA0246.jpg": "4c0bd8acd0da48d4fc25ab2ce0095b58f82ed0c5242d56e1db6c6e74238b425b",
+      "IMG-20260919-WA0251.jpg": "ab1333b841d8c8b46213b8939869d50d3e576790ab234548626d08b9f0e38e08"
+    },
+    "2449": {
+      "IMG-20260919-WA0226.jpg": "a0955c0086dbc815296bb1cbfa85d33bbb8f94fd28c2b353266f3fa72d80fea2",
+      "IMG-20260919-WA0231.jpg": "02568be165349a806827acc06a284998adb4f0db011547b904c4f2317de02271"
+    },
+    "2448": {
+      "IMG-20260919-WA0223.jpg": "2615bd1fb75a68572ded7420210c755ea8c3c016998a3b410753ba122cd66652",
+      "IMG-20260919-WA0249.jpg": "bc7f98690e7c334c9dd4ae591bfd2935b3c6f744f0f1f328ef434dc840ef8b9b"
+    },
+    "2447": {
+      "IMG-20260919-WA0221.jpg": "a4699bdcee0d41e8a5d6368ea284ecb9895ff428f28abb0bc2568daf57653894",
+      "IMG-20260919-WA0228.jpg": "4834a9daf092ca0b975ad91a223c92e549b705748fa6fe1a06e3547203698680",
+      "IMG-20260919-WA0250.jpg": "3b483c4975fe1f205ab0ebb1ce5636685751e8cf5e38908087fa4a68c5ff98e4"
+    },
+    "2446": {
+      "IMG-20260919-WA0220.jpg": "6bd96ef232f01a166d36483b4eaea1b5b9330d840ecb5c2cc3151ba4de15c31d",
+      "IMG-20260919-WA0225.jpg": "43c9c2503910a2240591be2dafd07d012c5258099fa815e7cef163d0426d7e64",
+      "IMG-20260919-WA0229.jpg": "f478831adccdac7f07d6bc7e33a77325cbdc30a52094e9900349edfe2acf3b85",
+      "IMG-20260919-WA0234.jpg": "1d54742f4d1f9be2371e535073e940849eda19b6e13cd81bb86f4e3203dfe198"
+    },
+    "2445": {
+      "IMG-20260919-WA0184.jpg": "46a9900ad52f342c1bacb26a082e71384d2a65838ddff4b48456adf4204e4594"
+    },
+    "2444": {
+      "IMG-20260919-WA0168.jpg": "1931a5ff43999234d01cca98c1c9a52fe2ff0ee96a3801e095ee26c29e455241"
+    },
+    "2443": {
+      "IMG-20260919-WA0164.jpg": "6113e29b9dd98de699fa95532dc2163f9d28f4555e4f0b44e7609ca64c43160b"
+    },
+    "2442": {
+      "IMG-20260919-WA0160.jpg": "1f325039fa03c06ca36f51d93a3dacc7a657b8c43a668a13eaf41a0c3ae88db6",
+      "IMG-20260919-WA0161.jpg": "1444402736f9334ac8a96e78b9903e79d7b429417d00a36c7ff8d9102d7a1a97"
+    },
+    "2441": {
+      "IMG-20260918-WA0121.jpg": "bfc8d678304e589c1f9e41ff2dba5adbcaa3a489b07dac89ee6477d2a9e50fbd"
+    },
+    "2440": {
+      "IMG-20260918-WA0117.jpg": "b58f25e63a675562dfc1ab13172218915c16c5ff5960bc67b6c33b252102fea1"
+    },
+    "2439": {
+      "IMG-20260918-WA0115.jpg": "d8f9093a834505476c7adc443f23e13aa2e5a39e25b4d37f4e07acb8f4da6f5d"
+    },
+    "2438": {
+      "IMG-20260918-WA0114.jpg": "6a5d578f0a77c180c1a5d2d8aafa07b430a604335b6d85a476f445de7f9752c1"
+    },
+    "2437": {
+      "IMG-20260918-WA0108.jpg": "bade3e9ef966d6d9558255ae5364c729fee28f5bb279c58d5f59f799ea8afe0c",
+      "IMG-20260918-WA0109.jpg": "89916d5b34cf6c3c3d17405e5ac04bf9f5d51570ba031ff8f134f202a969903c"
+    },
+    "2436": {
+      "IMG-20260918-WA0095.jpg": "42c74756c81efca97665a3691e9ac73c599c6046df7fea3b585a1eb25673f893"
+    },
+    "2435": {
+      "IMG-20260918-WA0092.jpg": "4b264c7004e8180108e2f06474862d6a204bde6ab72ffed23e33dff9a2e1dc5e",
+      "IMG-20260918-WA0096.jpg": "9c182cf5f999ad3b9b119478dc92a88e7965461bfacb3d619add74317fe45efd"
+    },
+    "2434": {
+      "IMG-20260918-WA0087.jpg": "f34423b3a8463837f28e6dbee80f77812893de1191553cf8547fff46ce8b9ea4"
+    },
+    "2433": {
+      "IMG-20260918-WA0085.jpg": "347cb190f1d7cbbf33fd67f11dcbca6f60057d966e1cec808de0c7d0bdc51c2a"
+    },
+    "2432": {
+      "IMG-20260918-WA0083.jpg": "ace7c942b7d7afcde2d8c93ad23c6f81ea06878c6f557258160bc91f96794f06"
+    },
+    "2431": {
+      "IMG-20260918-WA0082.jpg": "1d7a1a8019a75df68457dfb3561c31bd85b1db28e1ae8acbb0b14db1aef13d00"
+    },
+    "2430": {
+      "IMG-20260918-WA0081.jpg": "225976a8f46e80b3db25d64c3db37f5478729af825e35f3ad75c2c1c51a4b44c"
+    },
+    "2429": {
+      "IMG-20260917-WA0076.jpg": "79f0432c492bb4e527d9c370d685b8788f4fc886fd91defe2d90426836881f3f",
+      "IMG-20260917-WA0077.jpg": "ffd035195f3c8e74f58fd0e4361b1ca25afe90bbdd3c0b1aafa8505a0ab1120a"
+    },
+    "2428": {
+      "IMG-20260917-WA0064.jpg": "f2f79c3313e07493d300d7f2b35f33ecf35cce63e415effa0525f3d7899e453e"
+    },
+    "2427": {
+      "IMG-20260917-WA0062.jpg": "6723c34570ba87f7d02ff35a892b40993218ebd1f36b63a07e1404142ea20cd7",
+      "IMG-20260917-WA0082.jpg": "a04153f9ba4a7ccdd6f02a72242e837eecb0d3a35337b72573299f5ed0a70175"
+    },
+    "2426": {
+      "IMG-20260917-WA0058.jpg": "9d15fc254e9967510b8f6cd2f41a35d20402ef0ab258d4076b6fbdb3dd7027fb"
+    },
+    "2425": {
+      "IMG-20260916-WA0326.jpg": "dfdd3940ffce2cd06ea7af3de2eff3cb9600d60b91c5d735fa948158bdd14118"
+    },
+    "2424": {
+      "IMG-20260916-WA0323.jpg": "7e8abca1c16f094401c9c0affe33e13aeda91f9bfe8613d1dd38759ca67fabca",
+      "IMG-20260916-WA0325.jpg": "f8c8314508a4a64854c134253d508839a1d8db5a3063fc3385b00bd1e9a04bd3"
+    },
+    "2423": {
+      "IMG-20260916-WA0317.jpg": "d0609b5625fa00913b3a34c758c38da645d88fb9b53dfc07c88ea57318028768"
+    },
+    "2422": {
+      "IMG-20260916-WA0313.jpg": "587f1610994bb131fae9bbcc1882d0656802e159b0406fc7ec2bddbe147ea5aa",
+      "IMG-20260916-WA0314.jpg": "437feb00233e2b4469ac4e5b6e51610750a14b33d5f3ecb4fc037f9ec243c009"
+    },
+    "2421": {
+      "IMG-20260916-WA0311.jpg": "286a2ba9bcb1a829aebcb67187abb11b86b109544ef78502ff5344dc88a4c0f5"
+    },
+    "2420": {
+      "IMG-20260916-WA0306.jpg": "104f4139b143de14739488c35791bd7de311f9b305066fc9d3a7241d48a10a46"
+    },
+    "2419": {
+      "IMG-20260916-WA0305.jpg": "110c36fa33fbd97377f79f753b4c559818dab6ddf25266869bef3fd491fc6a5b"
+    },
+    "2418": {
+      "IMG-20260916-WA0302.jpg": "0df30622d276da32d09e00106d2a476038134016168b38fa136dc2e8344e77df"
+    },
+    "2417": {
+      "IMG-20260916-WA0295.jpg": "5d545792bf4796d6cc632aa3532b52172ee59a2a5b9c4f8c4e69427aefe97cee",
+      "IMG-20260916-WA0301.jpg": "ae8608688405470a968379e63775e65aebada4cb154541d901607cbf2c56f917"
+    },
+    "2416": {
+      "IMG-20260916-WA0292.jpg": "c69f62696e76b3d888cb58ecf82765f6da6f4dd50be47972d53ef5f2ecd29f67"
+    }
+  },
+  "authorization": "Nov13user Continuegenerate after previousqueueexhausted; next100existingproductsdescending",
+  "generation_workflow": "one_native3x2grid_then_five_crops"
+}

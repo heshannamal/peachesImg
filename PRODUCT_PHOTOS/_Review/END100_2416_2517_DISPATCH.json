@@ -1,8 +1,6 @@
 {
   "status": "ready",
   "next_unassigned": [
-    "2431",
-    "2430",
     "2429",
     "2428",
     "2427",
@@ -20,8 +18,8 @@
   ],
   "assigned": {
     "batch4_worker1": [
-      "2439",
-      "2438"
+      "2431",
+      "2430"
     ],
     "batch4_worker2": [
       "2437",
@@ -298,6 +296,13 @@
       "product_ids": [
         "2443",
         "2442"
+      ]
+    },
+    {
+      "worker": "batch4_worker1",
+      "product_ids": [
+        "2439",
+        "2438"
       ]
     }
   ]

@@ -146,7 +146,8 @@
         0,
         512,
         512
-      ]
+      ],
+      "visual_review": "Corrective spent: actualfullviewlarge-dotcardshave28dots(5staggeredrows6+5+6+5+6)insteadsource36(6rows6);density/countmaterialerror persists. All12cardsretainedbut4fullviewsunchecked,nofurtherretry."
     },
     {
       "saved_file": "New/02_Styled-Background.png",
@@ -166,7 +167,8 @@
         0,
         1024,
         512
-      ]
+      ],
+      "visual_review": "Corrective spent: actualfullviewlarge-dotcardshave28dots(5staggeredrows6+5+6+5+6)insteadsource36(6rows6);density/countmaterialerror persists. All12cardsretainedbut4fullviewsunchecked,nofurtherretry."
     },
     {
       "saved_file": "New/03_Lifestyle.png",
@@ -186,7 +188,8 @@
         0,
         1536,
         512
-      ]
+      ],
+      "visual_review": "Corrective spent: actualfullviewlarge-dotcardshave28dots(5staggeredrows6+5+6+5+6)insteadsource36(6rows6);density/countmaterialerror persists. All12cardsretainedbut4fullviewsunchecked,nofurtherretry."
     },
     {
       "saved_file": "New/05_Promotional.png",
@@ -206,10 +209,11 @@
         512,
         1024,
         1024
-      ]
+      ],
+      "visual_review": "Corrective spent: actualfullviewlarge-dotcardshave28dots(5staggeredrows6+5+6+5+6)insteadsource36(6rows6);density/countmaterialerror persists. All12cardsretainedbut4fullviewsunchecked,nofurtherretry."
     }
   ],
-  "status": "in_progress",
+  "status": "partial_review_needed_corrective_spent",
   "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
   "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
   "corrective_attempts": {
@@ -217,5 +221,12 @@
     "02_Styled-Background": 1,
     "03_Lifestyle": 1,
     "05_Promotional": 1
-  }
+  },
+  "review_needed_views": [
+    "01_White-Background.png",
+    "02_Styled-Background.png",
+    "03_Lifestyle.png",
+    "05_Promotional.png"
+  ],
+  "originals_verified_unchanged": true
 }

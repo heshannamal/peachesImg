@@ -1,10 +1,6 @@
 {
   "status": "paused_worker_model_usage_limit",
   "next_unassigned": [
-    "2421",
-    "2420",
-    "2419",
-    "2418",
     "2417",
     "2416"
   ],
@@ -14,8 +10,8 @@
       "2422"
     ],
     "batch4_worker2": [
-      "2429",
-      "2428"
+      "2421",
+      "2420"
     ],
     "batch4_worker3": [
       "2427",
@@ -26,8 +22,8 @@
       "2424"
     ],
     "batch4_worker5": [
-      "2435",
-      "2434"
+      "2419",
+      "2418"
     ]
   },
   "assignment_history": [
@@ -323,6 +319,20 @@
       "product_ids": [
         "2431",
         "2430"
+      ]
+    },
+    {
+      "worker": "batch4_worker2",
+      "product_ids": [
+        "2429",
+        "2428"
+      ]
+    },
+    {
+      "worker": "batch4_worker5",
+      "product_ids": [
+        "2435",
+        "2434"
       ]
     }
   ],

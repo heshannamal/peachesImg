@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-14T05:24:13.025282+00:00",
+  "updated_at": "2026-11-14T05:25:19.301796+00:00",
   "target_products": 100,
   "target_images": 500,
   "completed_products": 75,
-  "partial_products": 7,
-  "pending_products": 11,
-  "blocked_products": 7,
-  "saved_images": 404,
+  "partial_products": 9,
+  "pending_products": 8,
+  "blocked_products": 8,
+  "saved_images": 414,
   "checked_images": 383,
   "products": [
     {
@@ -1600,7 +1600,7 @@
         "New/03_Lifestyle.png",
         "New/05_Promotional.png"
       ],
-      "notes_status": "in_progress",
+      "notes_status": "partial_review_needed_corrective_spent",
       "errors": [
         "unreviewed or unrecorded: 01_White-Background.png",
         "unreviewed or unrecorded: 02_Styled-Background.png",
@@ -1707,7 +1707,7 @@
     {
       "product_id": "2428",
       "folder": "2428_Small-Character-Keyrings-0",
-      "status": "pending",
+      "status": "blocked",
       "saved_images": 0,
       "checked_images": 0,
       "files": [],
@@ -1719,7 +1719,7 @@
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": "pending_native_result_unavailable",
+      "notes_status": "blocked_moderation",
       "errors": [],
       "originals_unchanged": true
     },
@@ -1745,20 +1745,32 @@
     {
       "product_id": "2426",
       "folder": "2426_Character-Photo-Keyring-Box-0",
-      "status": "pending",
-      "saved_images": 0,
+      "status": "partial",
+      "saved_images": 5,
       "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png",
+        "unreviewed or unrecorded: 02_Styled-Background.png",
+        "unreviewed or unrecorded: 03_Lifestyle.png",
+        "unreviewed or unrecorded: 04_Detail.png",
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
       "originals_unchanged": true
     },
     {
@@ -1795,20 +1807,32 @@
     {
       "product_id": "2424",
       "folder": "2424_Gold-Tone-Stud-Earring-Cards-0",
-      "status": "pending",
-      "saved_images": 0,
+      "status": "partial",
+      "saved_images": 5,
       "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png",
+        "unreviewed or unrecorded: 02_Styled-Background.png",
+        "unreviewed or unrecorded: 03_Lifestyle.png",
+        "unreviewed or unrecorded: 04_Detail.png",
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
       "originals_unchanged": true
     },
     {

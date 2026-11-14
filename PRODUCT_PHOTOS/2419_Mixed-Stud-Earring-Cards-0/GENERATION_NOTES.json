@@ -15,7 +15,7 @@
       "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
     },
     {
-      "saved_file": "New/01_White-Background.png",
+      "saved_file": "Rejected/initial_01_White-Background.png",
       "source_output": "/workspace/generated_images/exec-180bc25f-cff0-48e4-ab4d-614a6217482e.png",
       "prompt": "Native faithful reference edit of suppliedactualoriginal into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells exactsplitx512,x1024,y512. Wholeoriginalassortment ONEproduct: EXACT12retail earringcards, EACH12PAIRS=24individualearrings; total144pairs. Preserve originalcardshape/printedlabel, everyactualstud/hoopshape,gold/silvermetal,pearl/crystalcolours. Removehand,shop,outerplasticglare/floatingpriceoverlay only. EACHfullcell showsall12cards,countable3rows4cards,eachcardshowmatching24earrings. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightREALPARTmacroonly,promoall12cardswithaccurateheading,blankcreamunused. No unrelatedstock,no missing/addedcards or inventeddesigns. ActualcardsWHITE RECTANGULAR 'Fashion Earrings' withovalhanghole,allmatchingreferenceassortedsets: smallsilverballstuds,whitepearls,clearrhinestones,goldopenflowers/threepetalwithclearcentre,goldflowerwithpearlcentre,goldrimwhitepearls,golddiamond/openrhomboidshapes,smallgoldhoops. Preserve actual12pairedtypes/cardsandproperpairedpositions exactly, donotreplacewithgenericroundstuds. Detailtightrealgoldflowerpearlsettingfromreference. Heading 'Mixed Earring Card Assortment'.\n",
       "sha256": "1c624e7a29b7835a72e8fe471f45ff1fb6b3249c4b0226da4363751e7a05c061",
@@ -32,10 +32,11 @@
         0,
         512,
         512
-      ]
+      ],
+      "visual_review": "Rejected: cards present but earrings per card are fewer than source 24 individuals / 12 pairs; paired type identity not preserved."
     },
     {
-      "saved_file": "New/02_Styled-Background.png",
+      "saved_file": "Rejected/initial_02_Styled-Background.png",
       "source_output": "/workspace/generated_images/exec-180bc25f-cff0-48e4-ab4d-614a6217482e.png",
       "prompt": "Native faithful reference edit of suppliedactualoriginal into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells exactsplitx512,x1024,y512. Wholeoriginalassortment ONEproduct: EXACT12retail earringcards, EACH12PAIRS=24individualearrings; total144pairs. Preserve originalcardshape/printedlabel, everyactualstud/hoopshape,gold/silvermetal,pearl/crystalcolours. Removehand,shop,outerplasticglare/floatingpriceoverlay only. EACHfullcell showsall12cards,countable3rows4cards,eachcardshowmatching24earrings. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightREALPARTmacroonly,promoall12cardswithaccurateheading,blankcreamunused. No unrelatedstock,no missing/addedcards or inventeddesigns. ActualcardsWHITE RECTANGULAR 'Fashion Earrings' withovalhanghole,allmatchingreferenceassortedsets: smallsilverballstuds,whitepearls,clearrhinestones,goldopenflowers/threepetalwithclearcentre,goldflowerwithpearlcentre,goldrimwhitepearls,golddiamond/openrhomboidshapes,smallgoldhoops. Preserve actual12pairedtypes/cardsandproperpairedpositions exactly, donotreplacewithgenericroundstuds. Detailtightrealgoldflowerpearlsettingfromreference. Heading 'Mixed Earring Card Assortment'.\n",
       "sha256": "5614ae1ab336a82b1bd94edad5492c4d27e5e46aeb5ad234278dccad4c720120",
@@ -52,10 +53,11 @@
         0,
         1024,
         512
-      ]
+      ],
+      "visual_review": "Rejected: cards present but earrings per card are fewer than source 24 individuals / 12 pairs; paired type identity not preserved."
     },
     {
-      "saved_file": "New/03_Lifestyle.png",
+      "saved_file": "Rejected/initial_03_Lifestyle.png",
       "source_output": "/workspace/generated_images/exec-180bc25f-cff0-48e4-ab4d-614a6217482e.png",
       "prompt": "Native faithful reference edit of suppliedactualoriginal into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells exactsplitx512,x1024,y512. Wholeoriginalassortment ONEproduct: EXACT12retail earringcards, EACH12PAIRS=24individualearrings; total144pairs. Preserve originalcardshape/printedlabel, everyactualstud/hoopshape,gold/silvermetal,pearl/crystalcolours. Removehand,shop,outerplasticglare/floatingpriceoverlay only. EACHfullcell showsall12cards,countable3rows4cards,eachcardshowmatching24earrings. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightREALPARTmacroonly,promoall12cardswithaccurateheading,blankcreamunused. No unrelatedstock,no missing/addedcards or inventeddesigns. ActualcardsWHITE RECTANGULAR 'Fashion Earrings' withovalhanghole,allmatchingreferenceassortedsets: smallsilverballstuds,whitepearls,clearrhinestones,goldopenflowers/threepetalwithclearcentre,goldflowerwithpearlcentre,goldrimwhitepearls,golddiamond/openrhomboidshapes,smallgoldhoops. Preserve actual12pairedtypes/cardsandproperpairedpositions exactly, donotreplacewithgenericroundstuds. Detailtightrealgoldflowerpearlsettingfromreference. Heading 'Mixed Earring Card Assortment'.\n",
       "sha256": "9b5881c863364eed9ff561db4758ba353cff70c52a94a8d02f6ab4feaf808303",
@@ -72,14 +74,15 @@
         0,
         1536,
         512
-      ]
+      ],
+      "visual_review": "Rejected: cards present but earrings per card are fewer than source 24 individuals / 12 pairs; paired type identity not preserved."
     },
     {
       "saved_file": "New/04_Detail.png",
       "source_output": "/workspace/generated_images/exec-180bc25f-cff0-48e4-ab4d-614a6217482e.png",
       "prompt": "Native faithful reference edit of suppliedactualoriginal into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells exactsplitx512,x1024,y512. Wholeoriginalassortment ONEproduct: EXACT12retail earringcards, EACH12PAIRS=24individualearrings; total144pairs. Preserve originalcardshape/printedlabel, everyactualstud/hoopshape,gold/silvermetal,pearl/crystalcolours. Removehand,shop,outerplasticglare/floatingpriceoverlay only. EACHfullcell showsall12cards,countable3rows4cards,eachcardshowmatching24earrings. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightREALPARTmacroonly,promoall12cardswithaccurateheading,blankcreamunused. No unrelatedstock,no missing/addedcards or inventeddesigns. ActualcardsWHITE RECTANGULAR 'Fashion Earrings' withovalhanghole,allmatchingreferenceassortedsets: smallsilverballstuds,whitepearls,clearrhinestones,goldopenflowers/threepetalwithclearcentre,goldflowerwithpearlcentre,goldrimwhitepearls,golddiamond/openrhomboidshapes,smallgoldhoops. Preserve actual12pairedtypes/cardsandproperpairedpositions exactly, donotreplacewithgenericroundstuds. Detailtightrealgoldflowerpearlsettingfromreference. Heading 'Mixed Earring Card Assortment'.\n",
-      "sha256": "0c69b4f7ce637f3778256ab5dbb0655383ddd78f0baf0ef036b1a0168526494c",
-      "checked": false,
+      "sha256": "70f53198d6870e1a7d244003df7295bb50d10c5b521113a4bd0e965ffea66e9f",
+      "checked": true,
       "generation_method": "native_five_style_grid_cropped",
       "grid_source_file": "Generation_Grids/exec-180bc25f-cff0-48e4-ab4d-614a6217482e.png",
       "grid_sha256": "3fac65a3d5446bd1a3d0e17ee2bf7f2f96668a8a50d3a9a2065b3b0ec618aa01",
@@ -88,14 +91,15 @@
         1024
       ],
       "crop_box": [
-        0,
-        512,
-        512,
-        1024
-      ]
+        180,
+        580,
+        390,
+        790
+      ],
+      "visual_review": "Actual original-referenced part macro: gold flower pearl setting. Tight mechanical crop excludes full assortment."
     },
     {
-      "saved_file": "New/05_Promotional.png",
+      "saved_file": "Rejected/initial_05_Promotional.png",
       "source_output": "/workspace/generated_images/exec-180bc25f-cff0-48e4-ab4d-614a6217482e.png",
       "prompt": "Native faithful reference edit of suppliedactualoriginal into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells exactsplitx512,x1024,y512. Wholeoriginalassortment ONEproduct: EXACT12retail earringcards, EACH12PAIRS=24individualearrings; total144pairs. Preserve originalcardshape/printedlabel, everyactualstud/hoopshape,gold/silvermetal,pearl/crystalcolours. Removehand,shop,outerplasticglare/floatingpriceoverlay only. EACHfullcell showsall12cards,countable3rows4cards,eachcardshowmatching24earrings. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightREALPARTmacroonly,promoall12cardswithaccurateheading,blankcreamunused. No unrelatedstock,no missing/addedcards or inventeddesigns. ActualcardsWHITE RECTANGULAR 'Fashion Earrings' withovalhanghole,allmatchingreferenceassortedsets: smallsilverballstuds,whitepearls,clearrhinestones,goldopenflowers/threepetalwithclearcentre,goldflowerwithpearlcentre,goldrimwhitepearls,golddiamond/openrhomboidshapes,smallgoldhoops. Preserve actual12pairedtypes/cardsandproperpairedpositions exactly, donotreplacewithgenericroundstuds. Detailtightrealgoldflowerpearlsettingfromreference. Heading 'Mixed Earring Card Assortment'.\n",
       "sha256": "e0b8ca099ac5c93c54bb78b9ea36095eb5f8c7171ed4fdb47ca81e8f3788260e",
@@ -112,10 +116,17 @@
         512,
         1024,
         1024
-      ]
+      ],
+      "visual_review": "Rejected: cards present but earrings per card are fewer than source 24 individuals / 12 pairs; paired type identity not preserved."
     }
   ],
-  "status": "in_progress",
+  "status": "corrective_in_progress",
   "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
-  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "01_White-Background.png": 1,
+    "02_Styled-Background.png": 1,
+    "03_Lifestyle.png": 1,
+    "05_Promotional.png": 1
+  }
 }

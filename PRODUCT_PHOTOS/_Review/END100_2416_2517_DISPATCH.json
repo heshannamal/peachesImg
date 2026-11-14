@@ -4,10 +4,7 @@
   "assigned": {
     "batch4_worker1": [],
     "batch4_worker2": [],
-    "batch4_worker3": [
-      "2417",
-      "2416"
-    ],
+    "batch4_worker3": [],
     "batch4_worker4": [],
     "batch4_worker5": [
       "2419",
@@ -349,6 +346,13 @@
       "product_ids": [
         "2421",
         "2420"
+      ]
+    },
+    {
+      "worker": "batch4_worker3",
+      "product_ids": [
+        "2417",
+        "2416"
       ]
     }
   ],

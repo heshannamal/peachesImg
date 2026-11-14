@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-14T05:29:45.789189+00:00",
+  "updated_at": "2026-11-14T05:30:51.010382+00:00",
   "target_products": 100,
   "target_images": 500,
   "completed_products": 79,
   "partial_products": 13,
   "pending_products": 0,
   "blocked_products": 8,
-  "saved_images": 450,
-  "checked_images": 414,
+  "saved_images": 446,
+  "checked_images": 416,
   "products": [
     {
       "product_id": "2517",
@@ -1907,67 +1907,25 @@
       "product_id": "2419",
       "folder": "2419_Mixed-Stud-Earring-Cards-0",
       "status": "partial",
-      "saved_images": 5,
-      "checked_images": 0,
+      "saved_images": 1,
+      "checked_images": 1,
       "files": [
+        "New/04_Detail.png"
+      ],
+      "missing_images": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "missing_images": [],
-      "review_needed_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 01_White-Background.png",
-        "unreviewed or unrecorded: 02_Styled-Background.png",
-        "unreviewed or unrecorded: 03_Lifestyle.png",
-        "unreviewed or unrecorded: 04_Detail.png",
-        "unreviewed or unrecorded: 05_Promotional.png"
-      ],
+      "review_needed_images": [],
+      "notes_status": "corrective_in_progress",
+      "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "2418",
       "folder": "2418_Round-Stud-Earring-Cards-0",
-      "status": "partial",
-      "saved_images": 5,
-      "checked_images": 0,
-      "files": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "missing_images": [],
-      "review_needed_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 01_White-Background.png",
-        "unreviewed or unrecorded: 02_Styled-Background.png",
-        "unreviewed or unrecorded: 03_Lifestyle.png",
-        "unreviewed or unrecorded: 04_Detail.png",
-        "unreviewed or unrecorded: 05_Promotional.png"
-      ],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "2417",
-      "folder": "2417_Decorative-Stud-Earring-Cards-0",
       "status": "partial",
       "saved_images": 1,
       "checked_images": 1,
@@ -1981,8 +1939,37 @@
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": "in_progress",
+      "notes_status": "corrective_in_progress",
       "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "2417",
+      "folder": "2417_Decorative-Stud-Earring-Cards-0",
+      "status": "partial",
+      "saved_images": 5,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/05_Promotional.png"
+      ],
+      "notes_status": "partial_review_needed_corrective_spent",
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png",
+        "unreviewed or unrecorded: 02_Styled-Background.png",
+        "unreviewed or unrecorded: 03_Lifestyle.png",
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
       "originals_unchanged": true
     },
     {

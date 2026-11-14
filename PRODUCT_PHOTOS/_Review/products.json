@@ -29689,15 +29689,17 @@
   },
   {
     "product_id": "2432",
-    "folder": "2432_Silver-Tone-Bangles-0",
+    "folder": "2432_Silver-Tone-Bangles-1",
     "source_image_ids": [
       2717
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2433",
@@ -29719,9 +29721,9 @@
     "source_image_ids": [
       2719
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -29732,9 +29734,9 @@
       2720,
       2722
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },

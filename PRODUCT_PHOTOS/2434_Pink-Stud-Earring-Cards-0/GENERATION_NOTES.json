@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260918-WA0087.jpg": "f34423b3a8463837f28e6dbee80f77812893de1191553cf8547fff46ce8b9ea4"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-e8b2c404-54d0-432b-b57b-8c3151569033.png",
+      "source_output": "/workspace/generated_images/exec-e8b2c404-54d0-432b-b57b-8c3151569033.png",
+      "sha256": "d975c0c1cbb114c848c2796373bc9d4ce18e65b2212bf1845aaaf7aa6169f601",
+      "prompt": "Native faithful reference edit into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells,exactsplitx512,x1024,y512. Actualsubject BINDI retailcards NOTearrings despitefoldername. Treat WHOLEassortment ONEproduct,preserve everycard/design/count/colour. Remove shopbackgroundcordbracelets/rack/hangingprops andfloatingpriceoverlay only. Toprowwhite FULLassortment,lavendercreamstyled FULLassortment,naturalvanityFULLassortment. Bottomrow standalone tightactualbindi/card-partmacro only,promoFULLassortmentaccurateheading,blankcreamunused. No missing/additionalcards orstocksubstitutes. ONEstrip12SAJANIwhitepinkpaisleyprintedKumkumBindicards2columns6rows. Bindis arePLAINROUNDdarkMAROONdots,NOgoldsettings/nostudposts. Preserve3differentdotsizes repeated: rows1and4twoLARGEdotcards~36dots6x6;rows2and5twoMEDIUMdotcards~48dots6x8;rows3and6twoSMALLdotcards~64dots8x8. Exactvisible12cards,matchingdotdensity/sizegradedsource. Detailtightactualmaroondottexture/whitecardedge. Heading 'Round Kumkum Bindi Cards'.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-e8b2c404-54d0-432b-b57b-8c3151569033.png",
+      "prompt": "Native faithful reference edit into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells,exactsplitx512,x1024,y512. Actualsubject BINDI retailcards NOTearrings despitefoldername. Treat WHOLEassortment ONEproduct,preserve everycard/design/count/colour. Remove shopbackgroundcordbracelets/rack/hangingprops andfloatingpriceoverlay only. Toprowwhite FULLassortment,lavendercreamstyled FULLassortment,naturalvanityFULLassortment. Bottomrow standalone tightactualbindi/card-partmacro only,promoFULLassortmentaccurateheading,blankcreamunused. No missing/additionalcards orstocksubstitutes. ONEstrip12SAJANIwhitepinkpaisleyprintedKumkumBindicards2columns6rows. Bindis arePLAINROUNDdarkMAROONdots,NOgoldsettings/nostudposts. Preserve3differentdotsizes repeated: rows1and4twoLARGEdotcards~36dots6x6;rows2and5twoMEDIUMdotcards~48dots6x8;rows3and6twoSMALLdotcards~64dots8x8. Exactvisible12cards,matchingdotdensity/sizegradedsource. Detailtightactualmaroondottexture/whitecardedge. Heading 'Round Kumkum Bindi Cards'.\n",
+      "sha256": "b63d24988fa7865226bf0666539fe25c227bfbbe0c1b3af3b107a2f05b014fcf",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e8b2c404-54d0-432b-b57b-8c3151569033.png",
+      "grid_sha256": "d975c0c1cbb114c848c2796373bc9d4ce18e65b2212bf1845aaaf7aa6169f601",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-e8b2c404-54d0-432b-b57b-8c3151569033.png",
+      "prompt": "Native faithful reference edit into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells,exactsplitx512,x1024,y512. Actualsubject BINDI retailcards NOTearrings despitefoldername. Treat WHOLEassortment ONEproduct,preserve everycard/design/count/colour. Remove shopbackgroundcordbracelets/rack/hangingprops andfloatingpriceoverlay only. Toprowwhite FULLassortment,lavendercreamstyled FULLassortment,naturalvanityFULLassortment. Bottomrow standalone tightactualbindi/card-partmacro only,promoFULLassortmentaccurateheading,blankcreamunused. No missing/additionalcards orstocksubstitutes. ONEstrip12SAJANIwhitepinkpaisleyprintedKumkumBindicards2columns6rows. Bindis arePLAINROUNDdarkMAROONdots,NOgoldsettings/nostudposts. Preserve3differentdotsizes repeated: rows1and4twoLARGEdotcards~36dots6x6;rows2and5twoMEDIUMdotcards~48dots6x8;rows3and6twoSMALLdotcards~64dots8x8. Exactvisible12cards,matchingdotdensity/sizegradedsource. Detailtightactualmaroondottexture/whitecardedge. Heading 'Round Kumkum Bindi Cards'.\n",
+      "sha256": "2185979af4142334965ac9c6f1cd3bd32864acf35143efca72533841f66bf17a",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e8b2c404-54d0-432b-b57b-8c3151569033.png",
+      "grid_sha256": "d975c0c1cbb114c848c2796373bc9d4ce18e65b2212bf1845aaaf7aa6169f601",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-e8b2c404-54d0-432b-b57b-8c3151569033.png",
+      "prompt": "Native faithful reference edit into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells,exactsplitx512,x1024,y512. Actualsubject BINDI retailcards NOTearrings despitefoldername. Treat WHOLEassortment ONEproduct,preserve everycard/design/count/colour. Remove shopbackgroundcordbracelets/rack/hangingprops andfloatingpriceoverlay only. Toprowwhite FULLassortment,lavendercreamstyled FULLassortment,naturalvanityFULLassortment. Bottomrow standalone tightactualbindi/card-partmacro only,promoFULLassortmentaccurateheading,blankcreamunused. No missing/additionalcards orstocksubstitutes. ONEstrip12SAJANIwhitepinkpaisleyprintedKumkumBindicards2columns6rows. Bindis arePLAINROUNDdarkMAROONdots,NOgoldsettings/nostudposts. Preserve3differentdotsizes repeated: rows1and4twoLARGEdotcards~36dots6x6;rows2and5twoMEDIUMdotcards~48dots6x8;rows3and6twoSMALLdotcards~64dots8x8. Exactvisible12cards,matchingdotdensity/sizegradedsource. Detailtightactualmaroondottexture/whitecardedge. Heading 'Round Kumkum Bindi Cards'.\n",
+      "sha256": "32b1364b48507f38154af5e09cb15db24dfc7f3c070447f7687ad5a45092f847",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e8b2c404-54d0-432b-b57b-8c3151569033.png",
+      "grid_sha256": "d975c0c1cbb114c848c2796373bc9d4ce18e65b2212bf1845aaaf7aa6169f601",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-e8b2c404-54d0-432b-b57b-8c3151569033.png",
+      "prompt": "Native faithful reference edit into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells,exactsplitx512,x1024,y512. Actualsubject BINDI retailcards NOTearrings despitefoldername. Treat WHOLEassortment ONEproduct,preserve everycard/design/count/colour. Remove shopbackgroundcordbracelets/rack/hangingprops andfloatingpriceoverlay only. Toprowwhite FULLassortment,lavendercreamstyled FULLassortment,naturalvanityFULLassortment. Bottomrow standalone tightactualbindi/card-partmacro only,promoFULLassortmentaccurateheading,blankcreamunused. No missing/additionalcards orstocksubstitutes. ONEstrip12SAJANIwhitepinkpaisleyprintedKumkumBindicards2columns6rows. Bindis arePLAINROUNDdarkMAROONdots,NOgoldsettings/nostudposts. Preserve3differentdotsizes repeated: rows1and4twoLARGEdotcards~36dots6x6;rows2and5twoMEDIUMdotcards~48dots6x8;rows3and6twoSMALLdotcards~64dots8x8. Exactvisible12cards,matchingdotdensity/sizegradedsource. Detailtightactualmaroondottexture/whitecardedge. Heading 'Round Kumkum Bindi Cards'.\n",
+      "sha256": "b7ec96711390cddfa506d4ffef6729e6b46b0b0c90b2f755d574b726dac6a254",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e8b2c404-54d0-432b-b57b-8c3151569033.png",
+      "grid_sha256": "d975c0c1cbb114c848c2796373bc9d4ce18e65b2212bf1845aaaf7aa6169f601",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-e8b2c404-54d0-432b-b57b-8c3151569033.png",
+      "prompt": "Native faithful reference edit into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells,exactsplitx512,x1024,y512. Actualsubject BINDI retailcards NOTearrings despitefoldername. Treat WHOLEassortment ONEproduct,preserve everycard/design/count/colour. Remove shopbackgroundcordbracelets/rack/hangingprops andfloatingpriceoverlay only. Toprowwhite FULLassortment,lavendercreamstyled FULLassortment,naturalvanityFULLassortment. Bottomrow standalone tightactualbindi/card-partmacro only,promoFULLassortmentaccurateheading,blankcreamunused. No missing/additionalcards orstocksubstitutes. ONEstrip12SAJANIwhitepinkpaisleyprintedKumkumBindicards2columns6rows. Bindis arePLAINROUNDdarkMAROONdots,NOgoldsettings/nostudposts. Preserve3differentdotsizes repeated: rows1and4twoLARGEdotcards~36dots6x6;rows2and5twoMEDIUMdotcards~48dots6x8;rows3and6twoSMALLdotcards~64dots8x8. Exactvisible12cards,matchingdotdensity/sizegradedsource. Detailtightactualmaroondottexture/whitecardedge. Heading 'Round Kumkum Bindi Cards'.\n",
+      "sha256": "d09d4f664b7aef4381b6e3329f019e8dfc8cd47a4ea8d6901f02d7b8c04bb04f",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e8b2c404-54d0-432b-b57b-8c3151569033.png",
+      "grid_sha256": "d975c0c1cbb114c848c2796373bc9d4ce18e65b2212bf1845aaaf7aa6169f601",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

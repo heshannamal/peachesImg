@@ -22,7 +22,7 @@
   "resume_note": "UserContinue. Review2436availablecorrective then19pending; preserve70complete/4spentpartial/6moderationblocks.",
   "native_availability_probe": "2436corrective nativecall succeeded;fiveworkersresumed",
   "paused_at": "2026-11-13T13:59:28.586004+00:00",
-  "resume_rule": "Queue exhausted. Preserve79completeproducts/allapprovedviews. All13partialproductshavespentcorrectives;8moderationblocks skipwithoutretry. Nextqueue requiresnewauthorization.",
+  "resume_rule": "Queue exhausted. Preserve all 79 completed products and approved views. All 13 partial products have spent their corrective attempts. Skip the eight moderation-blocked products without retry. Start another queue only after a new user request.",
   "spent_corrective_product_ids": [
     "2501",
     "2500",
@@ -60,5 +60,19 @@
     "2498",
     "2428",
     "2427"
-  ]
+  ],
+  "last_resume_completed_product_ids": [
+    "2435",
+    "2432",
+    "2431",
+    "2430",
+    "2429",
+    "2426",
+    "2423",
+    "2420",
+    "2416"
+  ],
+  "last_resume_newly_completed_products": 9,
+  "last_resume_additional_saved_website_files": 85,
+  "last_resume_additional_approved_views": 59
 }

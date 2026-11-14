@@ -118,9 +118,102 @@
         1024
       ],
       "visual_review": "Rejected: cards present but earrings per card are fewer than source 24 individuals / 12 pairs; paired type identity not preserved."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-de3f4df4-3516-4234-960c-f4e718e7b410.png",
+      "source_output": "/workspace/generated_images/exec-de3f4df4-3516-4234-960c-f4e718e7b410.png",
+      "sha256": "1f3a568d05b63adab3d19dd0a4bdb9907a1fefb1cc4cadfa5067d36bc3e34c4b",
+      "prompt": "Native faithful reference edit of suppliedactualoriginal into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells exactsplitx512,x1024,y512. Wholeoriginalassortment ONEproduct: EXACT12retail earringcards, EACH12PAIRS=24individualearrings; total144pairs. Preserve originalcardshape/printedlabel, everyactualstud/hoopshape,gold/silvermetal,pearl/crystalcolours. Removehand,shop,outerplasticglare/floatingpriceoverlay only. EACHfullcell showsall12cards,countable3rows4cards,eachcardshowmatching24earrings. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightREALPARTmacroonly,promoall12cardswithaccurateheading,blankcreamunused. No unrelatedstock,no missing/addedcards or inventeddesigns. ActualcardsWHITE SIX-LOBED FLOWER/SCALLOPEDshape 'Fashion Jewelry',notplainroundcards. Preserve all12matchingflowercards withreference12pairedtypes aroundcard: silverballstuds/coinmirrorstuds,whitepearls,clearcrystals,pinkgem,bluegem,goldstar,blackbutterfly,goldopenflower,goldthreepetalclearcentre plusoriginaltinystuds. Actualgold/silver/blue/pink/blackdistribution/pairedlayoutfromreference,notgenericnewdesign. Detailtightactualblackbutterflygoldrimmotifpart. Heading 'Flower Card Earring Assortment'.\n\nONE MATERIAL CORRECTION: Previous result wrongly simplified cards to fewer unpaired earrings. Each of twelve cards must carry precisely TWENTY FOUR individual earrings as TWELVE MATCHING PAIRS, preferably arranged six rows of four individual earrings (two matching pairs per row). Copy the actual paired source shapes, do not invent singly scattered unmatched studs. Retain 12 cards per full cell. No count text, no 144-pair claim unless all visible earrings truly match. Detail cell already passed, will not replace it.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-de3f4df4-3516-4234-960c-f4e718e7b410.png",
+      "prompt": "Native faithful reference edit of suppliedactualoriginal into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells exactsplitx512,x1024,y512. Wholeoriginalassortment ONEproduct: EXACT12retail earringcards, EACH12PAIRS=24individualearrings; total144pairs. Preserve originalcardshape/printedlabel, everyactualstud/hoopshape,gold/silvermetal,pearl/crystalcolours. Removehand,shop,outerplasticglare/floatingpriceoverlay only. EACHfullcell showsall12cards,countable3rows4cards,eachcardshowmatching24earrings. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightREALPARTmacroonly,promoall12cardswithaccurateheading,blankcreamunused. No unrelatedstock,no missing/addedcards or inventeddesigns. ActualcardsWHITE SIX-LOBED FLOWER/SCALLOPEDshape 'Fashion Jewelry',notplainroundcards. Preserve all12matchingflowercards withreference12pairedtypes aroundcard: silverballstuds/coinmirrorstuds,whitepearls,clearcrystals,pinkgem,bluegem,goldstar,blackbutterfly,goldopenflower,goldthreepetalclearcentre plusoriginaltinystuds. Actualgold/silver/blue/pink/blackdistribution/pairedlayoutfromreference,notgenericnewdesign. Detailtightactualblackbutterflygoldrimmotifpart. Heading 'Flower Card Earring Assortment'.\n\nONE MATERIAL CORRECTION: Previous result wrongly simplified cards to fewer unpaired earrings. Each of twelve cards must carry precisely TWENTY FOUR individual earrings as TWELVE MATCHING PAIRS, preferably arranged six rows of four individual earrings (two matching pairs per row). Copy the actual paired source shapes, do not invent singly scattered unmatched studs. Retain 12 cards per full cell. No count text, no 144-pair claim unless all visible earrings truly match. Detail cell already passed, will not replace it.\n",
+      "sha256": "5fd373a27ca1bb741f7af73305233066cd1af5dcbb62c65c2d4c44942dd5684b",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-de3f4df4-3516-4234-960c-f4e718e7b410.png",
+      "grid_sha256": "1f3a568d05b63adab3d19dd0a4bdb9907a1fefb1cc4cadfa5067d36bc3e34c4b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Single corrective inspected: twelve cards retained, but earrings per card remain fewer than actual 24 individuals/12 matching pairs, with altered paired layout. Material count/identity error remains. Corrective allowance spent; preserved unchecked, no further retry."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-de3f4df4-3516-4234-960c-f4e718e7b410.png",
+      "prompt": "Native faithful reference edit of suppliedactualoriginal into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells exactsplitx512,x1024,y512. Wholeoriginalassortment ONEproduct: EXACT12retail earringcards, EACH12PAIRS=24individualearrings; total144pairs. Preserve originalcardshape/printedlabel, everyactualstud/hoopshape,gold/silvermetal,pearl/crystalcolours. Removehand,shop,outerplasticglare/floatingpriceoverlay only. EACHfullcell showsall12cards,countable3rows4cards,eachcardshowmatching24earrings. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightREALPARTmacroonly,promoall12cardswithaccurateheading,blankcreamunused. No unrelatedstock,no missing/addedcards or inventeddesigns. ActualcardsWHITE SIX-LOBED FLOWER/SCALLOPEDshape 'Fashion Jewelry',notplainroundcards. Preserve all12matchingflowercards withreference12pairedtypes aroundcard: silverballstuds/coinmirrorstuds,whitepearls,clearcrystals,pinkgem,bluegem,goldstar,blackbutterfly,goldopenflower,goldthreepetalclearcentre plusoriginaltinystuds. Actualgold/silver/blue/pink/blackdistribution/pairedlayoutfromreference,notgenericnewdesign. Detailtightactualblackbutterflygoldrimmotifpart. Heading 'Flower Card Earring Assortment'.\n\nONE MATERIAL CORRECTION: Previous result wrongly simplified cards to fewer unpaired earrings. Each of twelve cards must carry precisely TWENTY FOUR individual earrings as TWELVE MATCHING PAIRS, preferably arranged six rows of four individual earrings (two matching pairs per row). Copy the actual paired source shapes, do not invent singly scattered unmatched studs. Retain 12 cards per full cell. No count text, no 144-pair claim unless all visible earrings truly match. Detail cell already passed, will not replace it.\n",
+      "sha256": "6820daa0baa4df33906e389c9fadd7828f2b132f88a8b2a663e810f6513a2341",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-de3f4df4-3516-4234-960c-f4e718e7b410.png",
+      "grid_sha256": "1f3a568d05b63adab3d19dd0a4bdb9907a1fefb1cc4cadfa5067d36bc3e34c4b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Single corrective inspected: twelve cards retained, but earrings per card remain fewer than actual 24 individuals/12 matching pairs, with altered paired layout. Material count/identity error remains. Corrective allowance spent; preserved unchecked, no further retry."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-de3f4df4-3516-4234-960c-f4e718e7b410.png",
+      "prompt": "Native faithful reference edit of suppliedactualoriginal into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells exactsplitx512,x1024,y512. Wholeoriginalassortment ONEproduct: EXACT12retail earringcards, EACH12PAIRS=24individualearrings; total144pairs. Preserve originalcardshape/printedlabel, everyactualstud/hoopshape,gold/silvermetal,pearl/crystalcolours. Removehand,shop,outerplasticglare/floatingpriceoverlay only. EACHfullcell showsall12cards,countable3rows4cards,eachcardshowmatching24earrings. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightREALPARTmacroonly,promoall12cardswithaccurateheading,blankcreamunused. No unrelatedstock,no missing/addedcards or inventeddesigns. ActualcardsWHITE SIX-LOBED FLOWER/SCALLOPEDshape 'Fashion Jewelry',notplainroundcards. Preserve all12matchingflowercards withreference12pairedtypes aroundcard: silverballstuds/coinmirrorstuds,whitepearls,clearcrystals,pinkgem,bluegem,goldstar,blackbutterfly,goldopenflower,goldthreepetalclearcentre plusoriginaltinystuds. Actualgold/silver/blue/pink/blackdistribution/pairedlayoutfromreference,notgenericnewdesign. Detailtightactualblackbutterflygoldrimmotifpart. Heading 'Flower Card Earring Assortment'.\n\nONE MATERIAL CORRECTION: Previous result wrongly simplified cards to fewer unpaired earrings. Each of twelve cards must carry precisely TWENTY FOUR individual earrings as TWELVE MATCHING PAIRS, preferably arranged six rows of four individual earrings (two matching pairs per row). Copy the actual paired source shapes, do not invent singly scattered unmatched studs. Retain 12 cards per full cell. No count text, no 144-pair claim unless all visible earrings truly match. Detail cell already passed, will not replace it.\n",
+      "sha256": "8adbea6620fb2b4d8ef79015531fcc1f21a81433665571bd787d8dfe044195b0",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-de3f4df4-3516-4234-960c-f4e718e7b410.png",
+      "grid_sha256": "1f3a568d05b63adab3d19dd0a4bdb9907a1fefb1cc4cadfa5067d36bc3e34c4b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Single corrective inspected: twelve cards retained, but earrings per card remain fewer than actual 24 individuals/12 matching pairs, with altered paired layout. Material count/identity error remains. Corrective allowance spent; preserved unchecked, no further retry."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-de3f4df4-3516-4234-960c-f4e718e7b410.png",
+      "prompt": "Native faithful reference edit of suppliedactualoriginal into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells exactsplitx512,x1024,y512. Wholeoriginalassortment ONEproduct: EXACT12retail earringcards, EACH12PAIRS=24individualearrings; total144pairs. Preserve originalcardshape/printedlabel, everyactualstud/hoopshape,gold/silvermetal,pearl/crystalcolours. Removehand,shop,outerplasticglare/floatingpriceoverlay only. EACHfullcell showsall12cards,countable3rows4cards,eachcardshowmatching24earrings. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightREALPARTmacroonly,promoall12cardswithaccurateheading,blankcreamunused. No unrelatedstock,no missing/addedcards or inventeddesigns. ActualcardsWHITE SIX-LOBED FLOWER/SCALLOPEDshape 'Fashion Jewelry',notplainroundcards. Preserve all12matchingflowercards withreference12pairedtypes aroundcard: silverballstuds/coinmirrorstuds,whitepearls,clearcrystals,pinkgem,bluegem,goldstar,blackbutterfly,goldopenflower,goldthreepetalclearcentre plusoriginaltinystuds. Actualgold/silver/blue/pink/blackdistribution/pairedlayoutfromreference,notgenericnewdesign. Detailtightactualblackbutterflygoldrimmotifpart. Heading 'Flower Card Earring Assortment'.\n\nONE MATERIAL CORRECTION: Previous result wrongly simplified cards to fewer unpaired earrings. Each of twelve cards must carry precisely TWENTY FOUR individual earrings as TWELVE MATCHING PAIRS, preferably arranged six rows of four individual earrings (two matching pairs per row). Copy the actual paired source shapes, do not invent singly scattered unmatched studs. Retain 12 cards per full cell. No count text, no 144-pair claim unless all visible earrings truly match. Detail cell already passed, will not replace it.\n",
+      "sha256": "0e6e230d60745da4a59659aca39053bc7bd1841c9c46693aec324d27c63010cc",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-de3f4df4-3516-4234-960c-f4e718e7b410.png",
+      "grid_sha256": "1f3a568d05b63adab3d19dd0a4bdb9907a1fefb1cc4cadfa5067d36bc3e34c4b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Single corrective inspected: twelve cards retained, but earrings per card remain fewer than actual 24 individuals/12 matching pairs, with altered paired layout. Material count/identity error remains. Corrective allowance spent; preserved unchecked, no further retry."
     }
   ],
-  "status": "corrective_in_progress",
+  "status": "partial_review_needed_corrective_spent",
   "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
   "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
   "corrective_attempts": {
@@ -128,5 +221,12 @@
     "02_Styled-Background.png": 1,
     "03_Lifestyle.png": 1,
     "05_Promotional.png": 1
-  }
+  },
+  "original_baseline_verified": true,
+  "review_needed_views": [
+    "01_White-Background.png",
+    "02_Styled-Background.png",
+    "03_Lifestyle.png",
+    "05_Promotional.png"
+  ]
 }

@@ -1,0 +1,126 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260916-WA0317.jpg": "d0609b5625fa00913b3a34c758c38da645d88fb9b53dfc07c88ea57318028768"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-1c9d6bde-03ee-4ff6-913b-b2f2e6edb1e6.png",
+      "source_output": "/workspace/generated_images/exec-1c9d6bde-03ee-4ff6-913b-b2f2e6edb1e6.png",
+      "sha256": "132ad0d95f4b194c5da751584f39595ed799e27f1233fc71822e55b68527ac58",
+      "prompt": "Edit the referenced actual product photographs into one website image sheet, exactly 1536x1024 pixels, perfectly even 3 columns x 2 rows with boundaries x=512,1024 and y=512. Five independent photorealistic panels, no separators, no cross-panel objects: top-left full product on white; top-middle full product on lavender and cream studio background; top-right full product in tasteful dressing-table lifestyle; bottom-left standalone tight macro crop of ONE actual earring part only, not whole assortment; bottom-middle full product promotional composition with heading specified below; bottom-right plain blank cream. Preserve actual jewellery identity, exact visible card and earring counts, designs, materials and colours. Remove hands, shop clutter and source price banners. Do not invent extra stock or omit cards. Keep all full assortments within each panel with clear margins. Product is ONE assortment of SIX white jewellery cards, arranged two rows of three, each holding twelve pairs of small mixed stud earrings as shown. Preserve gold-tone floral, lightning and crescent shapes, black clover studs, red circular studs, pearl studs and tiny dark/clear studs on each source card. SIX cards total, not twelve cards: source price banner is wholesale text, not the photographed count. Promotional heading 'Mixed Stud Earring Cards'.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-1c9d6bde-03ee-4ff6-913b-b2f2e6edb1e6.png",
+      "prompt": "Edit the referenced actual product photographs into one website image sheet, exactly 1536x1024 pixels, perfectly even 3 columns x 2 rows with boundaries x=512,1024 and y=512. Five independent photorealistic panels, no separators, no cross-panel objects: top-left full product on white; top-middle full product on lavender and cream studio background; top-right full product in tasteful dressing-table lifestyle; bottom-left standalone tight macro crop of ONE actual earring part only, not whole assortment; bottom-middle full product promotional composition with heading specified below; bottom-right plain blank cream. Preserve actual jewellery identity, exact visible card and earring counts, designs, materials and colours. Remove hands, shop clutter and source price banners. Do not invent extra stock or omit cards. Keep all full assortments within each panel with clear margins. Product is ONE assortment of SIX white jewellery cards, arranged two rows of three, each holding twelve pairs of small mixed stud earrings as shown. Preserve gold-tone floral, lightning and crescent shapes, black clover studs, red circular studs, pearl studs and tiny dark/clear studs on each source card. SIX cards total, not twelve cards: source price banner is wholesale text, not the photographed count. Promotional heading 'Mixed Stud Earring Cards'.",
+      "sha256": "dd9c3765140721321dc39aabad522cef9bbdfd2bebbc11a0517aa7f929048ba9",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1c9d6bde-03ee-4ff6-913b-b2f2e6edb1e6.png",
+      "grid_sha256": "132ad0d95f4b194c5da751584f39595ed799e27f1233fc71822e55b68527ac58",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-1c9d6bde-03ee-4ff6-913b-b2f2e6edb1e6.png",
+      "prompt": "Edit the referenced actual product photographs into one website image sheet, exactly 1536x1024 pixels, perfectly even 3 columns x 2 rows with boundaries x=512,1024 and y=512. Five independent photorealistic panels, no separators, no cross-panel objects: top-left full product on white; top-middle full product on lavender and cream studio background; top-right full product in tasteful dressing-table lifestyle; bottom-left standalone tight macro crop of ONE actual earring part only, not whole assortment; bottom-middle full product promotional composition with heading specified below; bottom-right plain blank cream. Preserve actual jewellery identity, exact visible card and earring counts, designs, materials and colours. Remove hands, shop clutter and source price banners. Do not invent extra stock or omit cards. Keep all full assortments within each panel with clear margins. Product is ONE assortment of SIX white jewellery cards, arranged two rows of three, each holding twelve pairs of small mixed stud earrings as shown. Preserve gold-tone floral, lightning and crescent shapes, black clover studs, red circular studs, pearl studs and tiny dark/clear studs on each source card. SIX cards total, not twelve cards: source price banner is wholesale text, not the photographed count. Promotional heading 'Mixed Stud Earring Cards'.",
+      "sha256": "59343c3f12d439f8a63086bfa37c3d3c3378296fa197ce787f51f25140254942",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1c9d6bde-03ee-4ff6-913b-b2f2e6edb1e6.png",
+      "grid_sha256": "132ad0d95f4b194c5da751584f39595ed799e27f1233fc71822e55b68527ac58",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-1c9d6bde-03ee-4ff6-913b-b2f2e6edb1e6.png",
+      "prompt": "Edit the referenced actual product photographs into one website image sheet, exactly 1536x1024 pixels, perfectly even 3 columns x 2 rows with boundaries x=512,1024 and y=512. Five independent photorealistic panels, no separators, no cross-panel objects: top-left full product on white; top-middle full product on lavender and cream studio background; top-right full product in tasteful dressing-table lifestyle; bottom-left standalone tight macro crop of ONE actual earring part only, not whole assortment; bottom-middle full product promotional composition with heading specified below; bottom-right plain blank cream. Preserve actual jewellery identity, exact visible card and earring counts, designs, materials and colours. Remove hands, shop clutter and source price banners. Do not invent extra stock or omit cards. Keep all full assortments within each panel with clear margins. Product is ONE assortment of SIX white jewellery cards, arranged two rows of three, each holding twelve pairs of small mixed stud earrings as shown. Preserve gold-tone floral, lightning and crescent shapes, black clover studs, red circular studs, pearl studs and tiny dark/clear studs on each source card. SIX cards total, not twelve cards: source price banner is wholesale text, not the photographed count. Promotional heading 'Mixed Stud Earring Cards'.",
+      "sha256": "1b3451603074fbc557edbd8a2bbdaf49d17ec1c3f89dd98dafd3b16d4b1b4ff0",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1c9d6bde-03ee-4ff6-913b-b2f2e6edb1e6.png",
+      "grid_sha256": "132ad0d95f4b194c5da751584f39595ed799e27f1233fc71822e55b68527ac58",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "Rejected/initial_04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-1c9d6bde-03ee-4ff6-913b-b2f2e6edb1e6.png",
+      "prompt": "Edit the referenced actual product photographs into one website image sheet, exactly 1536x1024 pixels, perfectly even 3 columns x 2 rows with boundaries x=512,1024 and y=512. Five independent photorealistic panels, no separators, no cross-panel objects: top-left full product on white; top-middle full product on lavender and cream studio background; top-right full product in tasteful dressing-table lifestyle; bottom-left standalone tight macro crop of ONE actual earring part only, not whole assortment; bottom-middle full product promotional composition with heading specified below; bottom-right plain blank cream. Preserve actual jewellery identity, exact visible card and earring counts, designs, materials and colours. Remove hands, shop clutter and source price banners. Do not invent extra stock or omit cards. Keep all full assortments within each panel with clear margins. Product is ONE assortment of SIX white jewellery cards, arranged two rows of three, each holding twelve pairs of small mixed stud earrings as shown. Preserve gold-tone floral, lightning and crescent shapes, black clover studs, red circular studs, pearl studs and tiny dark/clear studs on each source card. SIX cards total, not twelve cards: source price banner is wholesale text, not the photographed count. Promotional heading 'Mixed Stud Earring Cards'.",
+      "sha256": "c07d8082200f12ba4da1cdd6602ca48fd53f8bc8488e07b2e2939e4779289df1",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1c9d6bde-03ee-4ff6-913b-b2f2e6edb1e6.png",
+      "grid_sha256": "132ad0d95f4b194c5da751584f39595ed799e27f1233fc71822e55b68527ac58",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Macro invented solid five-petal flower; source floral shapes differ. Correct once using red round stud.",
+      "corrective_attempts": 1
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-1c9d6bde-03ee-4ff6-913b-b2f2e6edb1e6.png",
+      "prompt": "Edit the referenced actual product photographs into one website image sheet, exactly 1536x1024 pixels, perfectly even 3 columns x 2 rows with boundaries x=512,1024 and y=512. Five independent photorealistic panels, no separators, no cross-panel objects: top-left full product on white; top-middle full product on lavender and cream studio background; top-right full product in tasteful dressing-table lifestyle; bottom-left standalone tight macro crop of ONE actual earring part only, not whole assortment; bottom-middle full product promotional composition with heading specified below; bottom-right plain blank cream. Preserve actual jewellery identity, exact visible card and earring counts, designs, materials and colours. Remove hands, shop clutter and source price banners. Do not invent extra stock or omit cards. Keep all full assortments within each panel with clear margins. Product is ONE assortment of SIX white jewellery cards, arranged two rows of three, each holding twelve pairs of small mixed stud earrings as shown. Preserve gold-tone floral, lightning and crescent shapes, black clover studs, red circular studs, pearl studs and tiny dark/clear studs on each source card. SIX cards total, not twelve cards: source price banner is wholesale text, not the photographed count. Promotional heading 'Mixed Stud Earring Cards'.",
+      "sha256": "b73b6540539a0a8231d79039d85f7d8c0db046f3b028df847ef9816322590c4b",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1c9d6bde-03ee-4ff6-913b-b2f2e6edb1e6.png",
+      "grid_sha256": "132ad0d95f4b194c5da751584f39595ed799e27f1233fc71822e55b68527ac58",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts_spent": {
+    "04_Detail.png": 1
+  }
+}

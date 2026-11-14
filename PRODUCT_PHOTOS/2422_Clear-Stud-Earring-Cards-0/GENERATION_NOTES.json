@@ -1,0 +1,136 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260916-WA0314.jpg": "437feb00233e2b4469ac4e5b6e51610750a14b33d5f3ecb4fc037f9ec243c009",
+    "Originals/IMG-20260916-WA0313.jpg": "587f1610994bb131fae9bbcc1882d0656802e159b0406fc7ec2bddbe147ea5aa"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-7696db7c-6ac0-4c98-8003-711676aec2c4.png",
+      "source_output": "/workspace/generated_images/exec-7696db7c-6ac0-4c98-8003-711676aec2c4.png",
+      "sha256": "164e460cce2350840ddd453ff94039158060ff4e5dade6534c51d96e712d9bf5",
+      "prompt": "Edit the referenced actual product photographs into one website image sheet, exactly 1536x1024 pixels, perfectly even 3 columns x 2 rows with boundaries x=512,1024 and y=512. Five independent photorealistic panels, no separators, no cross-panel objects: top-left full product on white; top-middle full product on lavender and cream studio background; top-right full product in tasteful dressing-table lifestyle; bottom-left standalone tight macro crop of ONE actual earring part only, not whole assortment; bottom-middle full product promotional composition with heading specified below; bottom-right plain blank cream. Preserve actual jewellery identity, exact visible card and earring counts, designs, materials and colours. Remove hands, shop clutter and source price banners. Do not invent extra stock or omit cards. Keep all full assortments within each panel with clear margins. Product is ONE assortment of TWELVE white jewellery cards from BOTH reference images together, six cards from each photograph, arranged three rows of four. Each card carries twelve earring pairs. First photo has gold-tone bows, hollow hearts, flowers, square clear stones, tiny clear studs. Second has gold-tone hollow hearts, bows, daisies, pink stones, pearls and clear rhinestones. Preserve these two six-card styles, do not replace with generic jewellery. Both photographs are different six-card styles of this same assortment, so show all twelve cards in each full-product panel. Promotional heading 'Assorted Stud Earring Cards'.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "Rejected/initial_01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-7696db7c-6ac0-4c98-8003-711676aec2c4.png",
+      "prompt": "Edit the referenced actual product photographs into one website image sheet, exactly 1536x1024 pixels, perfectly even 3 columns x 2 rows with boundaries x=512,1024 and y=512. Five independent photorealistic panels, no separators, no cross-panel objects: top-left full product on white; top-middle full product on lavender and cream studio background; top-right full product in tasteful dressing-table lifestyle; bottom-left standalone tight macro crop of ONE actual earring part only, not whole assortment; bottom-middle full product promotional composition with heading specified below; bottom-right plain blank cream. Preserve actual jewellery identity, exact visible card and earring counts, designs, materials and colours. Remove hands, shop clutter and source price banners. Do not invent extra stock or omit cards. Keep all full assortments within each panel with clear margins. Product is ONE assortment of TWELVE white jewellery cards from BOTH reference images together, six cards from each photograph, arranged three rows of four. Each card carries twelve earring pairs. First photo has gold-tone bows, hollow hearts, flowers, square clear stones, tiny clear studs. Second has gold-tone hollow hearts, bows, daisies, pink stones, pearls and clear rhinestones. Preserve these two six-card styles, do not replace with generic jewellery. Both photographs are different six-card styles of this same assortment, so show all twelve cards in each full-product panel. Promotional heading 'Assorted Stud Earring Cards'.",
+      "sha256": "7747374985ed218f409d09abaa535e2362bfd75686cf74cdb9e84066ec4a5002",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7696db7c-6ac0-4c98-8003-711676aec2c4.png",
+      "grid_sha256": "164e460cce2350840ddd453ff94039158060ff4e5dade6534c51d96e712d9bf5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Incorrect card-style distribution eight/four rather than six/six and insufficient earring pairs per card.",
+      "corrective_attempts": 1
+    },
+    {
+      "saved_file": "Rejected/initial_02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-7696db7c-6ac0-4c98-8003-711676aec2c4.png",
+      "prompt": "Edit the referenced actual product photographs into one website image sheet, exactly 1536x1024 pixels, perfectly even 3 columns x 2 rows with boundaries x=512,1024 and y=512. Five independent photorealistic panels, no separators, no cross-panel objects: top-left full product on white; top-middle full product on lavender and cream studio background; top-right full product in tasteful dressing-table lifestyle; bottom-left standalone tight macro crop of ONE actual earring part only, not whole assortment; bottom-middle full product promotional composition with heading specified below; bottom-right plain blank cream. Preserve actual jewellery identity, exact visible card and earring counts, designs, materials and colours. Remove hands, shop clutter and source price banners. Do not invent extra stock or omit cards. Keep all full assortments within each panel with clear margins. Product is ONE assortment of TWELVE white jewellery cards from BOTH reference images together, six cards from each photograph, arranged three rows of four. Each card carries twelve earring pairs. First photo has gold-tone bows, hollow hearts, flowers, square clear stones, tiny clear studs. Second has gold-tone hollow hearts, bows, daisies, pink stones, pearls and clear rhinestones. Preserve these two six-card styles, do not replace with generic jewellery. Both photographs are different six-card styles of this same assortment, so show all twelve cards in each full-product panel. Promotional heading 'Assorted Stud Earring Cards'.",
+      "sha256": "1b5419c5a346a7aafc6f2de2682e83ed91afb21d320b18caaddca36047b428e5",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7696db7c-6ac0-4c98-8003-711676aec2c4.png",
+      "grid_sha256": "164e460cce2350840ddd453ff94039158060ff4e5dade6534c51d96e712d9bf5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Incorrect card-style distribution eight/four rather than six/six and insufficient earring pairs per card.",
+      "corrective_attempts": 1
+    },
+    {
+      "saved_file": "Rejected/initial_03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-7696db7c-6ac0-4c98-8003-711676aec2c4.png",
+      "prompt": "Edit the referenced actual product photographs into one website image sheet, exactly 1536x1024 pixels, perfectly even 3 columns x 2 rows with boundaries x=512,1024 and y=512. Five independent photorealistic panels, no separators, no cross-panel objects: top-left full product on white; top-middle full product on lavender and cream studio background; top-right full product in tasteful dressing-table lifestyle; bottom-left standalone tight macro crop of ONE actual earring part only, not whole assortment; bottom-middle full product promotional composition with heading specified below; bottom-right plain blank cream. Preserve actual jewellery identity, exact visible card and earring counts, designs, materials and colours. Remove hands, shop clutter and source price banners. Do not invent extra stock or omit cards. Keep all full assortments within each panel with clear margins. Product is ONE assortment of TWELVE white jewellery cards from BOTH reference images together, six cards from each photograph, arranged three rows of four. Each card carries twelve earring pairs. First photo has gold-tone bows, hollow hearts, flowers, square clear stones, tiny clear studs. Second has gold-tone hollow hearts, bows, daisies, pink stones, pearls and clear rhinestones. Preserve these two six-card styles, do not replace with generic jewellery. Both photographs are different six-card styles of this same assortment, so show all twelve cards in each full-product panel. Promotional heading 'Assorted Stud Earring Cards'.",
+      "sha256": "6f73e678e04cffde60171308791f9f68bdccbad4cb43231a0a35ce25eb0305cb",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7696db7c-6ac0-4c98-8003-711676aec2c4.png",
+      "grid_sha256": "164e460cce2350840ddd453ff94039158060ff4e5dade6534c51d96e712d9bf5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Incorrect card-style distribution eight/four rather than six/six and insufficient earring pairs per card.",
+      "corrective_attempts": 1
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-7696db7c-6ac0-4c98-8003-711676aec2c4.png",
+      "prompt": "Edit the referenced actual product photographs into one website image sheet, exactly 1536x1024 pixels, perfectly even 3 columns x 2 rows with boundaries x=512,1024 and y=512. Five independent photorealistic panels, no separators, no cross-panel objects: top-left full product on white; top-middle full product on lavender and cream studio background; top-right full product in tasteful dressing-table lifestyle; bottom-left standalone tight macro crop of ONE actual earring part only, not whole assortment; bottom-middle full product promotional composition with heading specified below; bottom-right plain blank cream. Preserve actual jewellery identity, exact visible card and earring counts, designs, materials and colours. Remove hands, shop clutter and source price banners. Do not invent extra stock or omit cards. Keep all full assortments within each panel with clear margins. Product is ONE assortment of TWELVE white jewellery cards from BOTH reference images together, six cards from each photograph, arranged three rows of four. Each card carries twelve earring pairs. First photo has gold-tone bows, hollow hearts, flowers, square clear stones, tiny clear studs. Second has gold-tone hollow hearts, bows, daisies, pink stones, pearls and clear rhinestones. Preserve these two six-card styles, do not replace with generic jewellery. Both photographs are different six-card styles of this same assortment, so show all twelve cards in each full-product panel. Promotional heading 'Assorted Stud Earring Cards'.",
+      "sha256": "a518e9289a9c6ceb83a8bf03f8495bfb197c0c1f3cf53bd00a092360ea168d1c",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7696db7c-6ac0-4c98-8003-711676aec2c4.png",
+      "grid_sha256": "164e460cce2350840ddd453ff94039158060ff4e5dade6534c51d96e712d9bf5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "Rejected/initial_05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-7696db7c-6ac0-4c98-8003-711676aec2c4.png",
+      "prompt": "Edit the referenced actual product photographs into one website image sheet, exactly 1536x1024 pixels, perfectly even 3 columns x 2 rows with boundaries x=512,1024 and y=512. Five independent photorealistic panels, no separators, no cross-panel objects: top-left full product on white; top-middle full product on lavender and cream studio background; top-right full product in tasteful dressing-table lifestyle; bottom-left standalone tight macro crop of ONE actual earring part only, not whole assortment; bottom-middle full product promotional composition with heading specified below; bottom-right plain blank cream. Preserve actual jewellery identity, exact visible card and earring counts, designs, materials and colours. Remove hands, shop clutter and source price banners. Do not invent extra stock or omit cards. Keep all full assortments within each panel with clear margins. Product is ONE assortment of TWELVE white jewellery cards from BOTH reference images together, six cards from each photograph, arranged three rows of four. Each card carries twelve earring pairs. First photo has gold-tone bows, hollow hearts, flowers, square clear stones, tiny clear studs. Second has gold-tone hollow hearts, bows, daisies, pink stones, pearls and clear rhinestones. Preserve these two six-card styles, do not replace with generic jewellery. Both photographs are different six-card styles of this same assortment, so show all twelve cards in each full-product panel. Promotional heading 'Assorted Stud Earring Cards'.",
+      "sha256": "6c1a92dbef57febadd27638b137b5819419b70eb1025b324175bff85f052b50e",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7696db7c-6ac0-4c98-8003-711676aec2c4.png",
+      "grid_sha256": "164e460cce2350840ddd453ff94039158060ff4e5dade6534c51d96e712d9bf5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Incorrect card-style distribution eight/four rather than six/six and insufficient earring pairs per card.",
+      "corrective_attempts": 1
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts_spent": {
+    "01_White-Background.png": 1,
+    "02_Styled-Background.png": 1,
+    "03_Lifestyle.png": 1,
+    "05_Promotional.png": 1
+  }
+}

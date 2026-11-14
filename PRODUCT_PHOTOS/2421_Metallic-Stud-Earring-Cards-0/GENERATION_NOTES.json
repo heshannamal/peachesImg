@@ -32,7 +32,8 @@
         0,
         512,
         512
-      ]
+      ],
+      "visual_review": "Material count error: each generated card has 32 studs versus actual24 (4rows6); correction required."
     },
     {
       "saved_file": "New/02_Styled-Background.png",
@@ -52,7 +53,8 @@
         0,
         1024,
         512
-      ]
+      ],
+      "visual_review": "Material count error: each generated card has 32 studs versus actual24 (4rows6); correction required."
     },
     {
       "saved_file": "New/03_Lifestyle.png",
@@ -72,14 +74,15 @@
         0,
         1536,
         512
-      ]
+      ],
+      "visual_review": "Material count error: each generated card has 32 studs versus actual24 (4rows6); correction required."
     },
     {
       "saved_file": "New/04_Detail.png",
       "source_output": "/workspace/generated_images/exec-18a359e4-83ec-4390-b679-79738c3613c3.png",
       "prompt": "Edit actual referenced original into one1536x1024 3columns2rows grid, exact equal512x512cells no gutters. Top white background, lavender/cream styled, lifestyle jewellery vanity. Bottom standalone TIGHTREALPARTMACRO of source stud detail, promotional full assortment with heading \"Pink and Gold Stud Earring Cards\", blankcream. Actualproduct six identical white Fashion Earrings cards, each holding 12 PAIRS/24 STUDS. Stud designs gold-rim pink round cabochons, gold roses, pyramid studs, crescent moons, gold floral clusters, pink faceted gems, clear crystals and gold ball studs. Preserve actual source 12 distinct paired designs each card, pink/gold/clear colours. SOURCE SHOWS SIX CARDS ONLY, two columns three rows. Priceoverlay says12cards but do not invent12. Everyfullview white/styled/lifestyle/promo must show ALL SIX WHOLE CARDS arranged2columns3rows with all24studs on each card (144individual studs overall). Do not reduce cardcount or omit pairedstuds; macro exempt. Removehand/plastic glare/store/pricebanner. Preserve actual shapes/identity/colours and white card styling. Macro tight standalone actual pink cabochon/gold rose , no wholecard. Website-ready no extra claims.",
       "sha256": "ef04ace1cc9855094e44a7cf73ac6f1f33dea424907989c7f2f6000d727641ba",
-      "checked": false,
+      "checked": true,
       "generation_method": "native_five_style_grid_cropped",
       "grid_source_file": "Generation_Grids/exec-18a359e4-83ec-4390-b679-79738c3613c3.png",
       "grid_sha256": "c7a8a5c95a472629120993c4b6cdd37db03adddc35d86fdae71ce2879a491b28",
@@ -92,7 +95,8 @@
         512,
         512,
         1024
-      ]
+      ],
+      "visual_review": "Macro preserves real pink cabochon and gold rose detail."
     },
     {
       "saved_file": "New/05_Promotional.png",
@@ -112,10 +116,107 @@
         512,
         1024,
         1024
+      ],
+      "visual_review": "Material count error: each generated card has 32 studs versus actual24 (4rows6); correction required."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-3a93bde6-e49e-4597-ad01-f0f10373d0da.png",
+      "source_output": "/workspace/generated_images/exec-3a93bde6-e49e-4597-ad01-f0f10373d0da.png",
+      "sha256": "bc29218f6af78fc3f7b20226b9704579db9923a427e9884c216623d8def1172e",
+      "prompt": "Edit actual referenced original into one1536x1024 3columns2rows grid, exact equal512x512cells no gutters. Top white background, lavender/cream styled, lifestyle jewellery vanity. Bottom standalone TIGHTREALPARTMACRO of source stud detail, promotional full assortment with heading \"Pink and Gold Stud Earring Cards\", blankcream. Actualproduct six identical white Fashion Earrings cards, each holding 12 PAIRS/24 STUDS. Stud designs gold-rim pink round cabochons, gold roses, pyramid studs, crescent moons, gold floral clusters, pink faceted gems, clear crystals and gold ball studs. Preserve actual source 12 distinct paired designs each card, pink/gold/clear colours. SOURCE SHOWS SIX CARDS ONLY, two columns three rows. Priceoverlay says12cards but do not invent12. Everyfullview white/styled/lifestyle/promo must show ALL SIX WHOLE CARDS arranged2columns3rows with all24studs on each card (144individual studs overall). Do not reduce cardcount or omit pairedstuds; macro exempt. Removehand/plastic glare/store/pricebanner. Preserve actual shapes/identity/colours and white card styling. Macro tight standalone actual pink cabochon/gold rose , no wholecard. Website-ready no extra claims. CORRECT COUNT: Every card has EXACTLY FOUR ROWS OF SIX individual studs, THREE PAIRS PER ROW, 24studs12pairs. NOT EIGHT PER ROW. Preserve original designs: row1 pearl pair,clear gem pair,small gold flower pair; row2 clear crystal pair,gold heart pair,grey crystal pair; row3 gold pyramid pair,pink gem pair,gold spiral rose pair; row4 gold textured circle pair,pink oval cabochon pair,gold crescent pair. Sixcards each24,144studs total. Existing macro valid; focus fullview count.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-3a93bde6-e49e-4597-ad01-f0f10373d0da.png",
+      "prompt": "Edit actual referenced original into one1536x1024 3columns2rows grid, exact equal512x512cells no gutters. Top white background, lavender/cream styled, lifestyle jewellery vanity. Bottom standalone TIGHTREALPARTMACRO of source stud detail, promotional full assortment with heading \"Pink and Gold Stud Earring Cards\", blankcream. Actualproduct six identical white Fashion Earrings cards, each holding 12 PAIRS/24 STUDS. Stud designs gold-rim pink round cabochons, gold roses, pyramid studs, crescent moons, gold floral clusters, pink faceted gems, clear crystals and gold ball studs. Preserve actual source 12 distinct paired designs each card, pink/gold/clear colours. SOURCE SHOWS SIX CARDS ONLY, two columns three rows. Priceoverlay says12cards but do not invent12. Everyfullview white/styled/lifestyle/promo must show ALL SIX WHOLE CARDS arranged2columns3rows with all24studs on each card (144individual studs overall). Do not reduce cardcount or omit pairedstuds; macro exempt. Removehand/plastic glare/store/pricebanner. Preserve actual shapes/identity/colours and white card styling. Macro tight standalone actual pink cabochon/gold rose , no wholecard. Website-ready no extra claims. CORRECT COUNT: Every card has EXACTLY FOUR ROWS OF SIX individual studs, THREE PAIRS PER ROW, 24studs12pairs. NOT EIGHT PER ROW. Preserve original designs: row1 pearl pair,clear gem pair,small gold flower pair; row2 clear crystal pair,gold heart pair,grey crystal pair; row3 gold pyramid pair,pink gem pair,gold spiral rose pair; row4 gold textured circle pair,pink oval cabochon pair,gold crescent pair. Sixcards each24,144studs total. Existing macro valid; focus fullview count.",
+      "sha256": "abb8f402dcfb08b5c5d5d655cf5635fd0a32e0d3d500ba94904ec5351b2f0add",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3a93bde6-e49e-4597-ad01-f0f10373d0da.png",
+      "grid_sha256": "bc29218f6af78fc3f7b20226b9704579db9923a427e9884c216623d8def1172e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-3a93bde6-e49e-4597-ad01-f0f10373d0da.png",
+      "prompt": "Edit actual referenced original into one1536x1024 3columns2rows grid, exact equal512x512cells no gutters. Top white background, lavender/cream styled, lifestyle jewellery vanity. Bottom standalone TIGHTREALPARTMACRO of source stud detail, promotional full assortment with heading \"Pink and Gold Stud Earring Cards\", blankcream. Actualproduct six identical white Fashion Earrings cards, each holding 12 PAIRS/24 STUDS. Stud designs gold-rim pink round cabochons, gold roses, pyramid studs, crescent moons, gold floral clusters, pink faceted gems, clear crystals and gold ball studs. Preserve actual source 12 distinct paired designs each card, pink/gold/clear colours. SOURCE SHOWS SIX CARDS ONLY, two columns three rows. Priceoverlay says12cards but do not invent12. Everyfullview white/styled/lifestyle/promo must show ALL SIX WHOLE CARDS arranged2columns3rows with all24studs on each card (144individual studs overall). Do not reduce cardcount or omit pairedstuds; macro exempt. Removehand/plastic glare/store/pricebanner. Preserve actual shapes/identity/colours and white card styling. Macro tight standalone actual pink cabochon/gold rose , no wholecard. Website-ready no extra claims. CORRECT COUNT: Every card has EXACTLY FOUR ROWS OF SIX individual studs, THREE PAIRS PER ROW, 24studs12pairs. NOT EIGHT PER ROW. Preserve original designs: row1 pearl pair,clear gem pair,small gold flower pair; row2 clear crystal pair,gold heart pair,grey crystal pair; row3 gold pyramid pair,pink gem pair,gold spiral rose pair; row4 gold textured circle pair,pink oval cabochon pair,gold crescent pair. Sixcards each24,144studs total. Existing macro valid; focus fullview count.",
+      "sha256": "e3a589109bff04b810fa028c768eb240b511f2bf683bd9e1c581ddd0c079ffcd",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3a93bde6-e49e-4597-ad01-f0f10373d0da.png",
+      "grid_sha256": "bc29218f6af78fc3f7b20226b9704579db9923a427e9884c216623d8def1172e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-3a93bde6-e49e-4597-ad01-f0f10373d0da.png",
+      "prompt": "Edit actual referenced original into one1536x1024 3columns2rows grid, exact equal512x512cells no gutters. Top white background, lavender/cream styled, lifestyle jewellery vanity. Bottom standalone TIGHTREALPARTMACRO of source stud detail, promotional full assortment with heading \"Pink and Gold Stud Earring Cards\", blankcream. Actualproduct six identical white Fashion Earrings cards, each holding 12 PAIRS/24 STUDS. Stud designs gold-rim pink round cabochons, gold roses, pyramid studs, crescent moons, gold floral clusters, pink faceted gems, clear crystals and gold ball studs. Preserve actual source 12 distinct paired designs each card, pink/gold/clear colours. SOURCE SHOWS SIX CARDS ONLY, two columns three rows. Priceoverlay says12cards but do not invent12. Everyfullview white/styled/lifestyle/promo must show ALL SIX WHOLE CARDS arranged2columns3rows with all24studs on each card (144individual studs overall). Do not reduce cardcount or omit pairedstuds; macro exempt. Removehand/plastic glare/store/pricebanner. Preserve actual shapes/identity/colours and white card styling. Macro tight standalone actual pink cabochon/gold rose , no wholecard. Website-ready no extra claims. CORRECT COUNT: Every card has EXACTLY FOUR ROWS OF SIX individual studs, THREE PAIRS PER ROW, 24studs12pairs. NOT EIGHT PER ROW. Preserve original designs: row1 pearl pair,clear gem pair,small gold flower pair; row2 clear crystal pair,gold heart pair,grey crystal pair; row3 gold pyramid pair,pink gem pair,gold spiral rose pair; row4 gold textured circle pair,pink oval cabochon pair,gold crescent pair. Sixcards each24,144studs total. Existing macro valid; focus fullview count.",
+      "sha256": "9dbfdb689d4bd788d06a31c8a551b6762330d2397c6511e7d8de3c70b4bdaf79",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3a93bde6-e49e-4597-ad01-f0f10373d0da.png",
+      "grid_sha256": "bc29218f6af78fc3f7b20226b9704579db9923a427e9884c216623d8def1172e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-3a93bde6-e49e-4597-ad01-f0f10373d0da.png",
+      "prompt": "Edit actual referenced original into one1536x1024 3columns2rows grid, exact equal512x512cells no gutters. Top white background, lavender/cream styled, lifestyle jewellery vanity. Bottom standalone TIGHTREALPARTMACRO of source stud detail, promotional full assortment with heading \"Pink and Gold Stud Earring Cards\", blankcream. Actualproduct six identical white Fashion Earrings cards, each holding 12 PAIRS/24 STUDS. Stud designs gold-rim pink round cabochons, gold roses, pyramid studs, crescent moons, gold floral clusters, pink faceted gems, clear crystals and gold ball studs. Preserve actual source 12 distinct paired designs each card, pink/gold/clear colours. SOURCE SHOWS SIX CARDS ONLY, two columns three rows. Priceoverlay says12cards but do not invent12. Everyfullview white/styled/lifestyle/promo must show ALL SIX WHOLE CARDS arranged2columns3rows with all24studs on each card (144individual studs overall). Do not reduce cardcount or omit pairedstuds; macro exempt. Removehand/plastic glare/store/pricebanner. Preserve actual shapes/identity/colours and white card styling. Macro tight standalone actual pink cabochon/gold rose , no wholecard. Website-ready no extra claims. CORRECT COUNT: Every card has EXACTLY FOUR ROWS OF SIX individual studs, THREE PAIRS PER ROW, 24studs12pairs. NOT EIGHT PER ROW. Preserve original designs: row1 pearl pair,clear gem pair,small gold flower pair; row2 clear crystal pair,gold heart pair,grey crystal pair; row3 gold pyramid pair,pink gem pair,gold spiral rose pair; row4 gold textured circle pair,pink oval cabochon pair,gold crescent pair. Sixcards each24,144studs total. Existing macro valid; focus fullview count.",
+      "sha256": "6725cfb79bbaf41593048665a74e043ac02813616fc3e91dafa3c94ce432aa49",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3a93bde6-e49e-4597-ad01-f0f10373d0da.png",
+      "grid_sha256": "bc29218f6af78fc3f7b20226b9704579db9923a427e9884c216623d8def1172e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
       ]
     }
   ],
   "status": "in_progress",
   "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
-  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "originals_verified_against_frozen_plan": true,
+  "corrective_attempts": {
+    "02_Styled-Background.png": 1,
+    "03_Lifestyle.png": 1,
+    "01_White-Background.png": 1,
+    "05_Promotional.png": 1
+  }
 }

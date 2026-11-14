@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-14T05:27:31.641371+00:00",
+  "updated_at": "2026-11-14T05:28:37.573928+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 76,
-  "partial_products": 12,
-  "pending_products": 4,
+  "completed_products": 78,
+  "partial_products": 13,
+  "pending_products": 1,
   "blocked_products": 8,
-  "saved_images": 429,
-  "checked_images": 393,
+  "saved_images": 449,
+  "checked_images": 405,
   "products": [
     {
       "product_id": "2517",
@@ -1815,55 +1815,49 @@
     },
     {
       "product_id": "2423",
-      "folder": "2423_Bright-Stud-Earring-Cards-0",
-      "status": "partial",
-      "saved_images": 4,
-      "checked_images": 0,
+      "folder": "2423_Bright-Stud-Earring-Cards-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
+        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "missing_images": [
-        "New/04_Detail.png"
-      ],
-      "review_needed_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/05_Promotional.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 01_White-Background.png",
-        "unreviewed or unrecorded: 02_Styled-Background.png",
-        "unreviewed or unrecorded: 03_Lifestyle.png",
-        "unreviewed or unrecorded: 05_Promotional.png"
-      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five_images_saved_and_visually_checked",
+      "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "2422",
       "folder": "2422_Clear-Stud-Earring-Cards-0",
       "status": "partial",
-      "saved_images": 1,
-      "checked_images": 0,
+      "saved_images": 5,
+      "checked_images": 1,
       "files": [
-        "New/04_Detail.png"
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
       ],
-      "missing_images": [
+      "missing_images": [],
+      "review_needed_images": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [
-        "New/04_Detail.png"
-      ],
-      "notes_status": "in_progress",
+      "notes_status": "partial_material_review_failure_corrective_spent",
       "errors": [
-        "unreviewed or unrecorded: 04_Detail.png"
+        "unreviewed or unrecorded: 01_White-Background.png",
+        "unreviewed or unrecorded: 02_Styled-Background.png",
+        "unreviewed or unrecorded: 03_Lifestyle.png",
+        "unreviewed or unrecorded: 05_Promotional.png"
       ],
       "originals_unchanged": true
     },
@@ -1872,7 +1866,7 @@
       "folder": "2421_Metallic-Stud-Earring-Cards-0",
       "status": "partial",
       "saved_images": 5,
-      "checked_images": 0,
+      "checked_images": 1,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
@@ -1885,7 +1879,6 @@
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
       "notes_status": "in_progress",
@@ -1893,14 +1886,32 @@
         "unreviewed or unrecorded: 01_White-Background.png",
         "unreviewed or unrecorded: 02_Styled-Background.png",
         "unreviewed or unrecorded: 03_Lifestyle.png",
-        "unreviewed or unrecorded: 04_Detail.png",
         "unreviewed or unrecorded: 05_Promotional.png"
       ],
       "originals_unchanged": true
     },
     {
       "product_id": "2420",
-      "folder": "2420_Neutral-Stud-Earring-Cards-0",
+      "folder": "2420_Neutral-Stud-Earring-Cards-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five_images_saved_and_visually_checked",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "2419",
+      "folder": "2419_Mixed-Stud-Earring-Cards-0",
       "status": "partial",
       "saved_images": 5,
       "checked_images": 0,
@@ -1930,60 +1941,65 @@
       "originals_unchanged": true
     },
     {
-      "product_id": "2419",
-      "folder": "2419_Mixed-Stud-Earring-Cards-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
       "product_id": "2418",
       "folder": "2418_Round-Stud-Earring-Cards-0",
-      "status": "pending",
-      "saved_images": 0,
+      "status": "partial",
+      "saved_images": 5,
       "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png",
+        "unreviewed or unrecorded: 02_Styled-Background.png",
+        "unreviewed or unrecorded: 03_Lifestyle.png",
+        "unreviewed or unrecorded: 04_Detail.png",
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
       "originals_unchanged": true
     },
     {
       "product_id": "2417",
       "folder": "2417_Decorative-Stud-Earring-Cards-0",
-      "status": "pending",
-      "saved_images": 0,
+      "status": "partial",
+      "saved_images": 5,
       "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png",
+        "unreviewed or unrecorded: 02_Styled-Background.png",
+        "unreviewed or unrecorded: 03_Lifestyle.png",
+        "unreviewed or unrecorded: 04_Detail.png",
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
       "originals_unchanged": true
     },
     {

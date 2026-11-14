@@ -118,9 +118,98 @@
         1024
       ],
       "visual_review": "Rejected: cards present but earrings per card are fewer than source 24 individuals / 12 pairs; paired type identity not preserved."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-2fb3dec5-8270-492a-8689-f8c2983b9f0f.png",
+      "source_output": "/workspace/generated_images/exec-2fb3dec5-8270-492a-8689-f8c2983b9f0f.png",
+      "sha256": "878d99827b08dc40440d0dab12e1c3b07d0a7aeb8a159cac1890239fdbda70ca",
+      "prompt": "Native faithful reference edit of suppliedactualoriginal into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells exactsplitx512,x1024,y512. Wholeoriginalassortment ONEproduct: EXACT12retail earringcards, EACH12PAIRS=24individualearrings; total144pairs. Preserve originalcardshape/printedlabel, everyactualstud/hoopshape,gold/silvermetal,pearl/crystalcolours. Removehand,shop,outerplasticglare/floatingpriceoverlay only. EACHfullcell showsall12cards,countable3rows4cards,eachcardshowmatching24earrings. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightREALPARTmacroonly,promoall12cardswithaccurateheading,blankcreamunused. No unrelatedstock,no missing/addedcards or inventeddesigns. ActualcardsWHITE RECTANGULAR 'Fashion Earrings' withovalhanghole,allmatchingreferenceassortedsets: smallsilverballstuds,whitepearls,clearrhinestones,goldopenflowers/threepetalwithclearcentre,goldflowerwithpearlcentre,goldrimwhitepearls,golddiamond/openrhomboidshapes,smallgoldhoops. Preserve actual12pairedtypes/cardsandproperpairedpositions exactly, donotreplacewithgenericroundstuds. Detailtightrealgoldflowerpearlsettingfromreference. Heading 'Mixed Earring Card Assortment'.\n\nONE MATERIAL CORRECTION: Previous result wrongly simplified cards to fewer unpaired earrings. Each of twelve cards must carry precisely TWENTY FOUR individual earrings as TWELVE MATCHING PAIRS, preferably arranged six rows of four individual earrings (two matching pairs per row). Copy the actual paired source shapes, do not invent singly scattered unmatched studs. Retain 12 cards per full cell. No count text, no 144-pair claim unless all visible earrings truly match. Detail cell already passed, will not replace it.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-2fb3dec5-8270-492a-8689-f8c2983b9f0f.png",
+      "prompt": "Native faithful reference edit of suppliedactualoriginal into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells exactsplitx512,x1024,y512. Wholeoriginalassortment ONEproduct: EXACT12retail earringcards, EACH12PAIRS=24individualearrings; total144pairs. Preserve originalcardshape/printedlabel, everyactualstud/hoopshape,gold/silvermetal,pearl/crystalcolours. Removehand,shop,outerplasticglare/floatingpriceoverlay only. EACHfullcell showsall12cards,countable3rows4cards,eachcardshowmatching24earrings. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightREALPARTmacroonly,promoall12cardswithaccurateheading,blankcreamunused. No unrelatedstock,no missing/addedcards or inventeddesigns. ActualcardsWHITE RECTANGULAR 'Fashion Earrings' withovalhanghole,allmatchingreferenceassortedsets: smallsilverballstuds,whitepearls,clearrhinestones,goldopenflowers/threepetalwithclearcentre,goldflowerwithpearlcentre,goldrimwhitepearls,golddiamond/openrhomboidshapes,smallgoldhoops. Preserve actual12pairedtypes/cardsandproperpairedpositions exactly, donotreplacewithgenericroundstuds. Detailtightrealgoldflowerpearlsettingfromreference. Heading 'Mixed Earring Card Assortment'.\n\nONE MATERIAL CORRECTION: Previous result wrongly simplified cards to fewer unpaired earrings. Each of twelve cards must carry precisely TWENTY FOUR individual earrings as TWELVE MATCHING PAIRS, preferably arranged six rows of four individual earrings (two matching pairs per row). Copy the actual paired source shapes, do not invent singly scattered unmatched studs. Retain 12 cards per full cell. No count text, no 144-pair claim unless all visible earrings truly match. Detail cell already passed, will not replace it.\n",
+      "sha256": "c8d5b3685d8659e33fb3dcfbb665eafbf7381ff97ae875b3e43528b7a55d5ec6",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2fb3dec5-8270-492a-8689-f8c2983b9f0f.png",
+      "grid_sha256": "878d99827b08dc40440d0dab12e1c3b07d0a7aeb8a159cac1890239fdbda70ca",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-2fb3dec5-8270-492a-8689-f8c2983b9f0f.png",
+      "prompt": "Native faithful reference edit of suppliedactualoriginal into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells exactsplitx512,x1024,y512. Wholeoriginalassortment ONEproduct: EXACT12retail earringcards, EACH12PAIRS=24individualearrings; total144pairs. Preserve originalcardshape/printedlabel, everyactualstud/hoopshape,gold/silvermetal,pearl/crystalcolours. Removehand,shop,outerplasticglare/floatingpriceoverlay only. EACHfullcell showsall12cards,countable3rows4cards,eachcardshowmatching24earrings. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightREALPARTmacroonly,promoall12cardswithaccurateheading,blankcreamunused. No unrelatedstock,no missing/addedcards or inventeddesigns. ActualcardsWHITE RECTANGULAR 'Fashion Earrings' withovalhanghole,allmatchingreferenceassortedsets: smallsilverballstuds,whitepearls,clearrhinestones,goldopenflowers/threepetalwithclearcentre,goldflowerwithpearlcentre,goldrimwhitepearls,golddiamond/openrhomboidshapes,smallgoldhoops. Preserve actual12pairedtypes/cardsandproperpairedpositions exactly, donotreplacewithgenericroundstuds. Detailtightrealgoldflowerpearlsettingfromreference. Heading 'Mixed Earring Card Assortment'.\n\nONE MATERIAL CORRECTION: Previous result wrongly simplified cards to fewer unpaired earrings. Each of twelve cards must carry precisely TWENTY FOUR individual earrings as TWELVE MATCHING PAIRS, preferably arranged six rows of four individual earrings (two matching pairs per row). Copy the actual paired source shapes, do not invent singly scattered unmatched studs. Retain 12 cards per full cell. No count text, no 144-pair claim unless all visible earrings truly match. Detail cell already passed, will not replace it.\n",
+      "sha256": "f2104a8ccfab82f63c5d22fa50635c444314c85bc5490d3c587d054a737b6a73",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2fb3dec5-8270-492a-8689-f8c2983b9f0f.png",
+      "grid_sha256": "878d99827b08dc40440d0dab12e1c3b07d0a7aeb8a159cac1890239fdbda70ca",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-2fb3dec5-8270-492a-8689-f8c2983b9f0f.png",
+      "prompt": "Native faithful reference edit of suppliedactualoriginal into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells exactsplitx512,x1024,y512. Wholeoriginalassortment ONEproduct: EXACT12retail earringcards, EACH12PAIRS=24individualearrings; total144pairs. Preserve originalcardshape/printedlabel, everyactualstud/hoopshape,gold/silvermetal,pearl/crystalcolours. Removehand,shop,outerplasticglare/floatingpriceoverlay only. EACHfullcell showsall12cards,countable3rows4cards,eachcardshowmatching24earrings. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightREALPARTmacroonly,promoall12cardswithaccurateheading,blankcreamunused. No unrelatedstock,no missing/addedcards or inventeddesigns. ActualcardsWHITE RECTANGULAR 'Fashion Earrings' withovalhanghole,allmatchingreferenceassortedsets: smallsilverballstuds,whitepearls,clearrhinestones,goldopenflowers/threepetalwithclearcentre,goldflowerwithpearlcentre,goldrimwhitepearls,golddiamond/openrhomboidshapes,smallgoldhoops. Preserve actual12pairedtypes/cardsandproperpairedpositions exactly, donotreplacewithgenericroundstuds. Detailtightrealgoldflowerpearlsettingfromreference. Heading 'Mixed Earring Card Assortment'.\n\nONE MATERIAL CORRECTION: Previous result wrongly simplified cards to fewer unpaired earrings. Each of twelve cards must carry precisely TWENTY FOUR individual earrings as TWELVE MATCHING PAIRS, preferably arranged six rows of four individual earrings (two matching pairs per row). Copy the actual paired source shapes, do not invent singly scattered unmatched studs. Retain 12 cards per full cell. No count text, no 144-pair claim unless all visible earrings truly match. Detail cell already passed, will not replace it.\n",
+      "sha256": "1a65e58ceed0fc1d4e1b6c43b35105f4124f705c08f4b856cc280a809e2d2402",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2fb3dec5-8270-492a-8689-f8c2983b9f0f.png",
+      "grid_sha256": "878d99827b08dc40440d0dab12e1c3b07d0a7aeb8a159cac1890239fdbda70ca",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-2fb3dec5-8270-492a-8689-f8c2983b9f0f.png",
+      "prompt": "Native faithful reference edit of suppliedactualoriginal into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells exactsplitx512,x1024,y512. Wholeoriginalassortment ONEproduct: EXACT12retail earringcards, EACH12PAIRS=24individualearrings; total144pairs. Preserve originalcardshape/printedlabel, everyactualstud/hoopshape,gold/silvermetal,pearl/crystalcolours. Removehand,shop,outerplasticglare/floatingpriceoverlay only. EACHfullcell showsall12cards,countable3rows4cards,eachcardshowmatching24earrings. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightREALPARTmacroonly,promoall12cardswithaccurateheading,blankcreamunused. No unrelatedstock,no missing/addedcards or inventeddesigns. ActualcardsWHITE RECTANGULAR 'Fashion Earrings' withovalhanghole,allmatchingreferenceassortedsets: smallsilverballstuds,whitepearls,clearrhinestones,goldopenflowers/threepetalwithclearcentre,goldflowerwithpearlcentre,goldrimwhitepearls,golddiamond/openrhomboidshapes,smallgoldhoops. Preserve actual12pairedtypes/cardsandproperpairedpositions exactly, donotreplacewithgenericroundstuds. Detailtightrealgoldflowerpearlsettingfromreference. Heading 'Mixed Earring Card Assortment'.\n\nONE MATERIAL CORRECTION: Previous result wrongly simplified cards to fewer unpaired earrings. Each of twelve cards must carry precisely TWENTY FOUR individual earrings as TWELVE MATCHING PAIRS, preferably arranged six rows of four individual earrings (two matching pairs per row). Copy the actual paired source shapes, do not invent singly scattered unmatched studs. Retain 12 cards per full cell. No count text, no 144-pair claim unless all visible earrings truly match. Detail cell already passed, will not replace it.\n",
+      "sha256": "3cb0e6d9b5bb5e0f577cc4cc365631d020bbe7cb1b7954c034b97a40d58ea0ed",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2fb3dec5-8270-492a-8689-f8c2983b9f0f.png",
+      "grid_sha256": "878d99827b08dc40440d0dab12e1c3b07d0a7aeb8a159cac1890239fdbda70ca",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
     }
   ],
-  "status": "corrective_in_progress",
+  "status": "in_progress",
   "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
   "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
   "corrective_attempts": {

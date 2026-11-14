@@ -1,0 +1,122 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260917-WA0077.jpg": "ffd035195f3c8e74f58fd0e4361b1ca25afe90bbdd3c0b1aafa8505a0ab1120a",
+    "Originals/IMG-20260917-WA0076.jpg": "79f0432c492bb4e527d9c370d685b8788f4fc886fd91defe2d90426836881f3f"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-6451803e-98ca-4cb7-b929-35828f999c99.png",
+      "source_output": "/workspace/generated_images/exec-6451803e-98ca-4cb7-b929-35828f999c99.png",
+      "sha256": "a6681204f95601cdeb8c03d280799e61fb1024d355cf1b9e1747e2d28b728257",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle productonhome table; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Window Gift Box\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual originals show SAMEONE plainKRAFTBROWN rectangularfoldingGIFTBOX with transparentrectangularwindow inlid, notgunorcharacter toy despitewrongfoldername. Productforsale isBOX nottheplush/bottle displaycontents, so photographONEemptyassembledkraftbox matchingactualsourcewindow/shape/foldconstruction/colour. Reference1lidopen/ref2lidclosed aretwoanglesONEbox, donotduplicateboxes. Preservewideclearrectangularwindow,plainkraftcardboard,tuck-inlid/frontslot/hingedflaps. Fullviews1/2/3/5 ONEwholeemptyboxwithlidclosed/windowvisible orlidraisedpartlyshowingconstruction; no extra giftbox/noplush/keyring/bottlecontents. Removehand/store/yellowbins/pricebanner entirely. Lifestyle oneemptywindowbox ongiftwrappingtable, minimalribbonnearbynotcoverbox. Detail standalone tightrealpartmacroofactualkraftfoldededge/clearwindowseam, notwholebox. AccurateheadingWindow Gift Box.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-6451803e-98ca-4cb7-b929-35828f999c99.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle productonhome table; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Window Gift Box\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual originals show SAMEONE plainKRAFTBROWN rectangularfoldingGIFTBOX with transparentrectangularwindow inlid, notgunorcharacter toy despitewrongfoldername. Productforsale isBOX nottheplush/bottle displaycontents, so photographONEemptyassembledkraftbox matchingactualsourcewindow/shape/foldconstruction/colour. Reference1lidopen/ref2lidclosed aretwoanglesONEbox, donotduplicateboxes. Preservewideclearrectangularwindow,plainkraftcardboard,tuck-inlid/frontslot/hingedflaps. Fullviews1/2/3/5 ONEwholeemptyboxwithlidclosed/windowvisible orlidraisedpartlyshowingconstruction; no extra giftbox/noplush/keyring/bottlecontents. Removehand/store/yellowbins/pricebanner entirely. Lifestyle oneemptywindowbox ongiftwrappingtable, minimalribbonnearbynotcoverbox. Detail standalone tightrealpartmacroofactualkraftfoldededge/clearwindowseam, notwholebox. AccurateheadingWindow Gift Box.",
+      "sha256": "e6569d8a84a89725f75228141f55a5a4966f92172bdd768722ea75a1e8164560",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6451803e-98ca-4cb7-b929-35828f999c99.png",
+      "grid_sha256": "a6681204f95601cdeb8c03d280799e61fb1024d355cf1b9e1747e2d28b728257",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-6451803e-98ca-4cb7-b929-35828f999c99.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle productonhome table; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Window Gift Box\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual originals show SAMEONE plainKRAFTBROWN rectangularfoldingGIFTBOX with transparentrectangularwindow inlid, notgunorcharacter toy despitewrongfoldername. Productforsale isBOX nottheplush/bottle displaycontents, so photographONEemptyassembledkraftbox matchingactualsourcewindow/shape/foldconstruction/colour. Reference1lidopen/ref2lidclosed aretwoanglesONEbox, donotduplicateboxes. Preservewideclearrectangularwindow,plainkraftcardboard,tuck-inlid/frontslot/hingedflaps. Fullviews1/2/3/5 ONEwholeemptyboxwithlidclosed/windowvisible orlidraisedpartlyshowingconstruction; no extra giftbox/noplush/keyring/bottlecontents. Removehand/store/yellowbins/pricebanner entirely. Lifestyle oneemptywindowbox ongiftwrappingtable, minimalribbonnearbynotcoverbox. Detail standalone tightrealpartmacroofactualkraftfoldededge/clearwindowseam, notwholebox. AccurateheadingWindow Gift Box.",
+      "sha256": "9abc88029adc1808d0ddd1d4951d2f28e60d577a2e9d64d31fd5a2b466b850da",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6451803e-98ca-4cb7-b929-35828f999c99.png",
+      "grid_sha256": "a6681204f95601cdeb8c03d280799e61fb1024d355cf1b9e1747e2d28b728257",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-6451803e-98ca-4cb7-b929-35828f999c99.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle productonhome table; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Window Gift Box\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual originals show SAMEONE plainKRAFTBROWN rectangularfoldingGIFTBOX with transparentrectangularwindow inlid, notgunorcharacter toy despitewrongfoldername. Productforsale isBOX nottheplush/bottle displaycontents, so photographONEemptyassembledkraftbox matchingactualsourcewindow/shape/foldconstruction/colour. Reference1lidopen/ref2lidclosed aretwoanglesONEbox, donotduplicateboxes. Preservewideclearrectangularwindow,plainkraftcardboard,tuck-inlid/frontslot/hingedflaps. Fullviews1/2/3/5 ONEwholeemptyboxwithlidclosed/windowvisible orlidraisedpartlyshowingconstruction; no extra giftbox/noplush/keyring/bottlecontents. Removehand/store/yellowbins/pricebanner entirely. Lifestyle oneemptywindowbox ongiftwrappingtable, minimalribbonnearbynotcoverbox. Detail standalone tightrealpartmacroofactualkraftfoldededge/clearwindowseam, notwholebox. AccurateheadingWindow Gift Box.",
+      "sha256": "79598536480ce1736de0b84fb9151e1244d6a0cf961d66a3a06b87d409b92ec9",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6451803e-98ca-4cb7-b929-35828f999c99.png",
+      "grid_sha256": "a6681204f95601cdeb8c03d280799e61fb1024d355cf1b9e1747e2d28b728257",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-6451803e-98ca-4cb7-b929-35828f999c99.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle productonhome table; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Window Gift Box\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual originals show SAMEONE plainKRAFTBROWN rectangularfoldingGIFTBOX with transparentrectangularwindow inlid, notgunorcharacter toy despitewrongfoldername. Productforsale isBOX nottheplush/bottle displaycontents, so photographONEemptyassembledkraftbox matchingactualsourcewindow/shape/foldconstruction/colour. Reference1lidopen/ref2lidclosed aretwoanglesONEbox, donotduplicateboxes. Preservewideclearrectangularwindow,plainkraftcardboard,tuck-inlid/frontslot/hingedflaps. Fullviews1/2/3/5 ONEwholeemptyboxwithlidclosed/windowvisible orlidraisedpartlyshowingconstruction; no extra giftbox/noplush/keyring/bottlecontents. Removehand/store/yellowbins/pricebanner entirely. Lifestyle oneemptywindowbox ongiftwrappingtable, minimalribbonnearbynotcoverbox. Detail standalone tightrealpartmacroofactualkraftfoldededge/clearwindowseam, notwholebox. AccurateheadingWindow Gift Box.",
+      "sha256": "f13c19da88fb1557f2ff0f6089e2a3e8cc731d56da69fe50cc715220cd713217",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6451803e-98ca-4cb7-b929-35828f999c99.png",
+      "grid_sha256": "a6681204f95601cdeb8c03d280799e61fb1024d355cf1b9e1747e2d28b728257",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-6451803e-98ca-4cb7-b929-35828f999c99.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle productonhome table; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Window Gift Box\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual originals show SAMEONE plainKRAFTBROWN rectangularfoldingGIFTBOX with transparentrectangularwindow inlid, notgunorcharacter toy despitewrongfoldername. Productforsale isBOX nottheplush/bottle displaycontents, so photographONEemptyassembledkraftbox matchingactualsourcewindow/shape/foldconstruction/colour. Reference1lidopen/ref2lidclosed aretwoanglesONEbox, donotduplicateboxes. Preservewideclearrectangularwindow,plainkraftcardboard,tuck-inlid/frontslot/hingedflaps. Fullviews1/2/3/5 ONEwholeemptyboxwithlidclosed/windowvisible orlidraisedpartlyshowingconstruction; no extra giftbox/noplush/keyring/bottlecontents. Removehand/store/yellowbins/pricebanner entirely. Lifestyle oneemptywindowbox ongiftwrappingtable, minimalribbonnearbynotcoverbox. Detail standalone tightrealpartmacroofactualkraftfoldededge/clearwindowseam, notwholebox. AccurateheadingWindow Gift Box.",
+      "sha256": "2ebe72ad8b952a534105c372d0afbfcad055dd6f98ef54605cd429ac1462952e",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6451803e-98ca-4cb7-b929-35828f999c99.png",
+      "grid_sha256": "a6681204f95601cdeb8c03d280799e61fb1024d355cf1b9e1747e2d28b728257",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

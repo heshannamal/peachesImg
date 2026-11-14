@@ -1,10 +1,10 @@
 {
-  "status": "running",
+  "status": "paused_worker_model_usage_limit",
   "started_at": "2026-11-14T06:56:55.424061+00:00",
   "max_active_products": 10,
   "processing_order": "descending_numeric_product_id",
   "generation_workflow": "one_native3x2grid_then_five_crops",
-  "updated_at": "2026-11-14T06:56:55.565294+00:00",
+  "updated_at": "2026-11-14T11:10:54.803499+00:00",
   "target_products": 100,
   "target_images": 500,
   "completed_products": 0,
@@ -12,5 +12,14 @@
   "pending_products": 100,
   "blocked_products": 0,
   "saved_images": 0,
-  "checked_images": 0
+  "checked_images": 0,
+  "paused_at": "2026-11-14T11:10:54.549433+00:00",
+  "active_products": 0,
+  "in_flight_calls": 0,
+  "blocker": {
+    "type": "worker_model_usage_limit",
+    "reported_reset": "10:11AM; timezone unspecified",
+    "native_image429_observed": false
+  },
+  "resume_rule": "Preserve the frozen104original baselines and current100product scope. Finish assigned2415/2414 and2413/2412, then claim nextunassigned2411down2316. No successful nativeoutputs recorded yet. Resume only after limitavailability returns."
 }

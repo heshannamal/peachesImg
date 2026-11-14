@@ -1,10 +1,6 @@
 {
-  "status": "ready",
+  "status": "paused_worker_model_usage_limit",
   "next_unassigned": [
-    "2415",
-    "2414",
-    "2413",
-    "2412",
     "2411",
     "2410",
     "2409",
@@ -102,6 +98,17 @@
     "2317",
     "2316"
   ],
-  "assigned": {},
-  "assignment_history": []
+  "assigned": {
+    "batch5_worker1": [
+      "2415",
+      "2414"
+    ],
+    "batch5_worker2": [
+      "2413",
+      "2412"
+    ]
+  },
+  "assignment_history": [],
+  "active_products": 0,
+  "in_flight_calls": 0
 }

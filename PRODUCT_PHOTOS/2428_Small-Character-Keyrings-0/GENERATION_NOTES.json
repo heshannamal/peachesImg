@@ -1,0 +1,18 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "status": "pending_native_result_unavailable",
+  "records": [],
+  "original_hashes": {
+    "Originals/IMG-20260917-WA0064.jpg": "f2f79c3313e07493d300d7f2b35f33ecf35cce63e415effa0525f3d7899e453e"
+  },
+  "generation_attempts": [
+    {
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle productonhome table; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Character Coin Purse Keyrings\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage SIX distinctsiliconecoinpursekeyringvariants: THREEroundHEAD-onlysmilingfacepurses inPINK,LIGHTBLUE,ROYALBLUE; plus THREEFULLBODYangryfaceflame-eyepurses inLIGHTBLUE,PINK,ROYALBLUE. Eachpursehas matchingGOOD LUCKwriststrap withREDHEART, GOLDsplitring/lobsterclasp, zipperedge. PreserveALLSIXdifferentpurses andtheir6matchingstraps/goldhardware, exactsourcecharacterfaces/ears/bodyforms/colours. In eachfullview1/2/3/5 showALLSIXwholepurses together, compact3columns2rows, top3headpurses andbottom3bodypurses. Not12fromoverlay/noduplicates/notonlyonepurse. Removehand/collageborders/pricebanner; keepaccuratesourceprintedfaces notplainstockpouches. Detail standalone tightmacroofactualBLUEzipperededge/goldclasp/GOODLUCKstrap rivet, notwholepurse. AccurateheadingCharacter Coin Purse Keyrings.",
+      "prompt_file": ".batch4_prompts/2428_grid.txt",
+      "result": "Parallel tool response exceeded available model context and was truncated. No matching generated cache found among recent files. Exact error/success unknown; not classified moderation or retried.",
+      "checked": false
+    }
+  ],
+  "resumable_checkpoint": "Review native call outcome if recoverable; no output saved. No corrective retry spent."
+}

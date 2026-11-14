@@ -1,0 +1,31 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "status": "blocked_moderation",
+  "actual_subject": "Eight distinct blue/pink character zip coin-purse keyring variants, four forms in two colours; originals include repeated angles",
+  "original_hashes": {
+    "Originals/IMG-20260917-WA0062.jpg": "6723c34570ba87f7d02ff35a892b40993218ebd1f36b63a07e1404142ea20cd7",
+    "Originals/IMG-20260917-WA0082.jpg": "a04153f9ba4a7ccdd6f02a72242e837eecb0d3a35337b72573299f5ed0a70175"
+  },
+  "records": [],
+  "blocked_attempt": {
+    "prompt": "Native photo edit faithfullyreferencedtooriginal. Landscape1536x1024 precise3columns x2rows512squarecells,boundariesx512/x1024/y512,no gutters,borders,panellabels. Top-left entireassortmentwhitebackground;top-middle wholeassortmentlavender/creamstyled;top-right wholeassortmenttidyrelevantlifestyle;bottom-left standalonetightactualpartmacro,notwholeassortment;bottom-middle fullassortmentpromotionalaccurateheading specified;bottom-right blankcream. Whole photographedassortmentONEproduct. Removehands,shop,oldpriceoverlay. Preserveactualcount,identity,shapes,colours,printed/characterdesigns,metalhardware/materials. Fullviewsallproductscompleteinsidecellmargin,noextrasimilarprops/noinventedclaims. Photorealwebsite-ready. Thetwooriginalcollages show FOURDISTINCTCHARACTER-SHAPED ZIPCOINPURSE KEYRINGDESIGNS, eachinBLUEandPINK, totalEIGHTuniquevariantpieces (repeatedblueanglesarenotextraobjects). Preserveall8together arranged2rows\u00d74. DesignAfullbodystandingwithuprightearsandHOT-PINKBOWontop, BLUEandPINK versions. DesignBlargeROUNDHEADwithUPRIGHTEARS,nobow,mintangularbelly,longerbody,pawfeet, BLUEandPINK. DesignCroundedheadwithLONGDOWNWARDHANGINGpinkinnerears,roundbelly,seatedpawfeet,nobow,BLUEandPINK. DesignDsplayedsideears,seatedbody,mintovalbellywithsmalltuftmark,slightlytoothygrin,nobow,BLUEandPINK. Allhaveoriginalbigmintoutlinedblackeyes,bluenose,mintmouth/belly,colourmatchingziparoundhead,andmatchingGOODLUCKredheartwriststrapwithgoldrivet/keyring/lobsterclasp. Exact8coinpurses,4blue+4pink,allfourformsnotgenericduplicates. Detailtightactualgoldclasp/zipedge/straprivet. Lifestyleonvanitybesideneutralclosedbook,nootherkeyrings. Heading Character Coin Purse Keyrings.",
+    "request_id": "98747e9a-69df-4dfb-b7ee-a5fae1b02ce3",
+    "retried": false,
+    "raw_error": {
+      "http_status": 400,
+      "error": {
+        "message": "Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 98747e9a-69df-4dfb-b7ee-a5fae1b02ce3.",
+        "type": "image_generation_user_error",
+        "param": null,
+        "code": "moderation_blocked",
+        "moderation_details": {
+          "moderation_stage": "output",
+          "categories": [
+            "other"
+          ]
+        }
+      }
+    }
+  }
+}

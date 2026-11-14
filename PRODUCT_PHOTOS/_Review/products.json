@@ -29492,15 +29492,17 @@
   },
   {
     "product_id": "2416",
-    "folder": "2416_Blue-Stud-Earring-Cards-0",
+    "folder": "2416_Blue-Stud-Earring-Cards-1",
     "source_image_ids": [
       2696
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2417",
@@ -29509,7 +29511,7 @@
       2697,
       2698
     ],
-    "new_images": 5,
+    "new_images": 1,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",

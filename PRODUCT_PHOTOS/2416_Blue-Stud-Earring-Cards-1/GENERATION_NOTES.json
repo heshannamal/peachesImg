@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260916-WA0292.jpg": "c69f62696e76b3d888cb58ecf82765f6da6f4dd50be47972d53ef5f2ecd29f67"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-fd3292d2-9f1d-417c-987a-ec1082dffa21.png",
+      "source_output": "/workspace/generated_images/exec-fd3292d2-9f1d-417c-987a-ec1082dffa21.png",
+      "sha256": "98c793e685d8043325b4996cc01137d780f5ab55501c461cebd2ceea074a006c",
+      "prompt": "Create a NEW website product photography image as one landscape 1536x1024 canvas, exact seamless 3 columns x 2 rows of equal 512x512 cells, no gutters or panel labels. Native edit referenced ACTUAL original photographs, preserve the product identity, quantities, shapes, materials, colours, card outlines and stud layouts. Whole assortment is one product. Remove hand/shop background and source price banner; do not use price or claim 144 pairs. Top-left: full assortment isolated white. Top-middle: same complete assortment on lavender and cream fabric. Top-right: same complete assortment in tasteful dressing-table lifestyle, no extra jewellery. Bottom-left: standalone tight macro of actual earring/card detail; NOT whole assortment. Bottom-middle: same complete assortment promotional photograph with only accurate heading 'Monthly Stud Earring Cards'. Bottom-right blank cream unused. Keep every full-assortment cell self-contained with all cards fully in frame. No invented extra items, missing cards or changed jewellery. Website-ready realism, no panel borders.\nExactly FOUR long narrow rectangular white Fashion earrings JAN through DEC display cards as shown together in the ONE original, each with twelve pairs /24 studs, 48 pairs total visible. Keep all four cards together and replicate source sequence: clear stone, gold flower, rose-gold heart, clear stone, cobalt blue round stone, pearl, silver rose, clear stone, gold open flower, black stone, clear stone, large pearl. Preserve the real original cards and stud arrangements.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-fd3292d2-9f1d-417c-987a-ec1082dffa21.png",
+      "prompt": "Create a NEW website product photography image as one landscape 1536x1024 canvas, exact seamless 3 columns x 2 rows of equal 512x512 cells, no gutters or panel labels. Native edit referenced ACTUAL original photographs, preserve the product identity, quantities, shapes, materials, colours, card outlines and stud layouts. Whole assortment is one product. Remove hand/shop background and source price banner; do not use price or claim 144 pairs. Top-left: full assortment isolated white. Top-middle: same complete assortment on lavender and cream fabric. Top-right: same complete assortment in tasteful dressing-table lifestyle, no extra jewellery. Bottom-left: standalone tight macro of actual earring/card detail; NOT whole assortment. Bottom-middle: same complete assortment promotional photograph with only accurate heading 'Monthly Stud Earring Cards'. Bottom-right blank cream unused. Keep every full-assortment cell self-contained with all cards fully in frame. No invented extra items, missing cards or changed jewellery. Website-ready realism, no panel borders.\nExactly FOUR long narrow rectangular white Fashion earrings JAN through DEC display cards as shown together in the ONE original, each with twelve pairs /24 studs, 48 pairs total visible. Keep all four cards together and replicate source sequence: clear stone, gold flower, rose-gold heart, clear stone, cobalt blue round stone, pearl, silver rose, clear stone, gold open flower, black stone, clear stone, large pearl. Preserve the real original cards and stud arrangements.",
+      "sha256": "e3fca9485360530d67201d8df104f5b89e7012cadab27005fe9bb486b1e14542",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-fd3292d2-9f1d-417c-987a-ec1082dffa21.png",
+      "grid_sha256": "98c793e685d8043325b4996cc01137d780f5ab55501c461cebd2ceea074a006c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Inspected actual five saved website crops: four original long JAN-DEC cards fully retained in white, lavender/cream, dressing-table and promotional views, matching monthly hearts/flowers/blue stones/pearls/rose studs. Detail is tight standalone actual card/heart/blue-stone/pearl area. Heading accurate; no price or false quantity claim."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-fd3292d2-9f1d-417c-987a-ec1082dffa21.png",
+      "prompt": "Create a NEW website product photography image as one landscape 1536x1024 canvas, exact seamless 3 columns x 2 rows of equal 512x512 cells, no gutters or panel labels. Native edit referenced ACTUAL original photographs, preserve the product identity, quantities, shapes, materials, colours, card outlines and stud layouts. Whole assortment is one product. Remove hand/shop background and source price banner; do not use price or claim 144 pairs. Top-left: full assortment isolated white. Top-middle: same complete assortment on lavender and cream fabric. Top-right: same complete assortment in tasteful dressing-table lifestyle, no extra jewellery. Bottom-left: standalone tight macro of actual earring/card detail; NOT whole assortment. Bottom-middle: same complete assortment promotional photograph with only accurate heading 'Monthly Stud Earring Cards'. Bottom-right blank cream unused. Keep every full-assortment cell self-contained with all cards fully in frame. No invented extra items, missing cards or changed jewellery. Website-ready realism, no panel borders.\nExactly FOUR long narrow rectangular white Fashion earrings JAN through DEC display cards as shown together in the ONE original, each with twelve pairs /24 studs, 48 pairs total visible. Keep all four cards together and replicate source sequence: clear stone, gold flower, rose-gold heart, clear stone, cobalt blue round stone, pearl, silver rose, clear stone, gold open flower, black stone, clear stone, large pearl. Preserve the real original cards and stud arrangements.",
+      "sha256": "37653a7ad17a1d8b26ef04fb354467d2d46f8f8bd059e22b1a2368bb651b11a3",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-fd3292d2-9f1d-417c-987a-ec1082dffa21.png",
+      "grid_sha256": "98c793e685d8043325b4996cc01137d780f5ab55501c461cebd2ceea074a006c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Inspected actual five saved website crops: four original long JAN-DEC cards fully retained in white, lavender/cream, dressing-table and promotional views, matching monthly hearts/flowers/blue stones/pearls/rose studs. Detail is tight standalone actual card/heart/blue-stone/pearl area. Heading accurate; no price or false quantity claim."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-fd3292d2-9f1d-417c-987a-ec1082dffa21.png",
+      "prompt": "Create a NEW website product photography image as one landscape 1536x1024 canvas, exact seamless 3 columns x 2 rows of equal 512x512 cells, no gutters or panel labels. Native edit referenced ACTUAL original photographs, preserve the product identity, quantities, shapes, materials, colours, card outlines and stud layouts. Whole assortment is one product. Remove hand/shop background and source price banner; do not use price or claim 144 pairs. Top-left: full assortment isolated white. Top-middle: same complete assortment on lavender and cream fabric. Top-right: same complete assortment in tasteful dressing-table lifestyle, no extra jewellery. Bottom-left: standalone tight macro of actual earring/card detail; NOT whole assortment. Bottom-middle: same complete assortment promotional photograph with only accurate heading 'Monthly Stud Earring Cards'. Bottom-right blank cream unused. Keep every full-assortment cell self-contained with all cards fully in frame. No invented extra items, missing cards or changed jewellery. Website-ready realism, no panel borders.\nExactly FOUR long narrow rectangular white Fashion earrings JAN through DEC display cards as shown together in the ONE original, each with twelve pairs /24 studs, 48 pairs total visible. Keep all four cards together and replicate source sequence: clear stone, gold flower, rose-gold heart, clear stone, cobalt blue round stone, pearl, silver rose, clear stone, gold open flower, black stone, clear stone, large pearl. Preserve the real original cards and stud arrangements.",
+      "sha256": "f0004cf9deb1b85da18ab3b4e4ea5db052d607a6665a28e8c54f2421fdc9234e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-fd3292d2-9f1d-417c-987a-ec1082dffa21.png",
+      "grid_sha256": "98c793e685d8043325b4996cc01137d780f5ab55501c461cebd2ceea074a006c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Inspected actual five saved website crops: four original long JAN-DEC cards fully retained in white, lavender/cream, dressing-table and promotional views, matching monthly hearts/flowers/blue stones/pearls/rose studs. Detail is tight standalone actual card/heart/blue-stone/pearl area. Heading accurate; no price or false quantity claim."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-fd3292d2-9f1d-417c-987a-ec1082dffa21.png",
+      "prompt": "Create a NEW website product photography image as one landscape 1536x1024 canvas, exact seamless 3 columns x 2 rows of equal 512x512 cells, no gutters or panel labels. Native edit referenced ACTUAL original photographs, preserve the product identity, quantities, shapes, materials, colours, card outlines and stud layouts. Whole assortment is one product. Remove hand/shop background and source price banner; do not use price or claim 144 pairs. Top-left: full assortment isolated white. Top-middle: same complete assortment on lavender and cream fabric. Top-right: same complete assortment in tasteful dressing-table lifestyle, no extra jewellery. Bottom-left: standalone tight macro of actual earring/card detail; NOT whole assortment. Bottom-middle: same complete assortment promotional photograph with only accurate heading 'Monthly Stud Earring Cards'. Bottom-right blank cream unused. Keep every full-assortment cell self-contained with all cards fully in frame. No invented extra items, missing cards or changed jewellery. Website-ready realism, no panel borders.\nExactly FOUR long narrow rectangular white Fashion earrings JAN through DEC display cards as shown together in the ONE original, each with twelve pairs /24 studs, 48 pairs total visible. Keep all four cards together and replicate source sequence: clear stone, gold flower, rose-gold heart, clear stone, cobalt blue round stone, pearl, silver rose, clear stone, gold open flower, black stone, clear stone, large pearl. Preserve the real original cards and stud arrangements.",
+      "sha256": "9dbcc9f082e5846ebc3ddceedf113e829877c3572a6dafc3c0c64b7d7f5faf4d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-fd3292d2-9f1d-417c-987a-ec1082dffa21.png",
+      "grid_sha256": "98c793e685d8043325b4996cc01137d780f5ab55501c461cebd2ceea074a006c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Inspected actual five saved website crops: four original long JAN-DEC cards fully retained in white, lavender/cream, dressing-table and promotional views, matching monthly hearts/flowers/blue stones/pearls/rose studs. Detail is tight standalone actual card/heart/blue-stone/pearl area. Heading accurate; no price or false quantity claim."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-fd3292d2-9f1d-417c-987a-ec1082dffa21.png",
+      "prompt": "Create a NEW website product photography image as one landscape 1536x1024 canvas, exact seamless 3 columns x 2 rows of equal 512x512 cells, no gutters or panel labels. Native edit referenced ACTUAL original photographs, preserve the product identity, quantities, shapes, materials, colours, card outlines and stud layouts. Whole assortment is one product. Remove hand/shop background and source price banner; do not use price or claim 144 pairs. Top-left: full assortment isolated white. Top-middle: same complete assortment on lavender and cream fabric. Top-right: same complete assortment in tasteful dressing-table lifestyle, no extra jewellery. Bottom-left: standalone tight macro of actual earring/card detail; NOT whole assortment. Bottom-middle: same complete assortment promotional photograph with only accurate heading 'Monthly Stud Earring Cards'. Bottom-right blank cream unused. Keep every full-assortment cell self-contained with all cards fully in frame. No invented extra items, missing cards or changed jewellery. Website-ready realism, no panel borders.\nExactly FOUR long narrow rectangular white Fashion earrings JAN through DEC display cards as shown together in the ONE original, each with twelve pairs /24 studs, 48 pairs total visible. Keep all four cards together and replicate source sequence: clear stone, gold flower, rose-gold heart, clear stone, cobalt blue round stone, pearl, silver rose, clear stone, gold open flower, black stone, clear stone, large pearl. Preserve the real original cards and stud arrangements.",
+      "sha256": "503008713b3e39fc9f5b708f586745bfc4efdd906afe947f3b21fc2b286da194",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-fd3292d2-9f1d-417c-987a-ec1082dffa21.png",
+      "grid_sha256": "98c793e685d8043325b4996cc01137d780f5ab55501c461cebd2ceea074a006c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Inspected actual five saved website crops: four original long JAN-DEC cards fully retained in white, lavender/cream, dressing-table and promotional views, matching monthly hearts/flowers/blue stones/pearls/rose studs. Detail is tight standalone actual card/heart/blue-stone/pearl area. Heading accurate; no price or false quantity claim."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Four long white JAN-DEC monthly stud-earring display cards, twelve pairs each",
+  "original_baseline_verified": true
+}

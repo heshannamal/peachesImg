@@ -16,7 +16,7 @@
       "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
     },
     {
-      "saved_file": "New/01_White-Background.png",
+      "saved_file": "Rejected/initial_01_White-Background.png",
       "source_output": "/workspace/generated_images/exec-445919ca-29b3-4c18-ab99-cafac54958a0.png",
       "prompt": "Create a NEW website product photography image as one landscape 1536x1024 canvas, exact seamless 3 columns x 2 rows of equal 512x512 cells, no gutters or panel labels. Native edit referenced ACTUAL original photographs, preserve the product identity, quantities, shapes, materials, colours, card outlines and stud layouts. Whole assortment is one product. Remove hand/shop background and source price banner; do not use price or claim 144 pairs. Top-left: full assortment isolated white. Top-middle: same complete assortment on lavender and cream fabric. Top-right: same complete assortment in tasteful dressing-table lifestyle, no extra jewellery. Bottom-left: standalone tight macro of actual earring/card detail; NOT whole assortment. Bottom-middle: same complete assortment promotional photograph with only accurate heading 'Decorative Stud Earring Assortment'. Bottom-right blank cream unused. Keep every full-assortment cell self-contained with all cards fully in frame. No invented extra items, missing cards or changed jewellery. Website-ready realism, no panel borders.\nUse BOTH originals as distinct component groups of ONE combined assortment: exactly TWELVE white butterfly-shaped Fashion Jewelry earring display cards total, six cards from first original and six from second original. First group has black/gold hearts, turquoise and red rhinestones, pearl circles, gold flowers/crowns; second group black/gold butterflies, cobaltblue and pink rhinestones, gold stars/roses, silver bows and pearls. Retain each six-card group as in its source, arrange the two groups side by side, do not collapse into sixcards or multiply the sixcardphotos. Each butterfly card retains its original 12 pairs/24 studs.",
       "sha256": "67e135c6529139c9c368c670e084f79088c6f6731a2c6728ceb3e0d2a955fc7b",
@@ -33,10 +33,12 @@
         0,
         512,
         512
-      ]
+      ],
+      "visual_review": "Material count failure: eight cards instead of twelve in full assortment view; one corrective attempt authorized.",
+      "rejected": true
     },
     {
-      "saved_file": "New/02_Styled-Background.png",
+      "saved_file": "Rejected/initial_02_Styled-Background.png",
       "source_output": "/workspace/generated_images/exec-445919ca-29b3-4c18-ab99-cafac54958a0.png",
       "prompt": "Create a NEW website product photography image as one landscape 1536x1024 canvas, exact seamless 3 columns x 2 rows of equal 512x512 cells, no gutters or panel labels. Native edit referenced ACTUAL original photographs, preserve the product identity, quantities, shapes, materials, colours, card outlines and stud layouts. Whole assortment is one product. Remove hand/shop background and source price banner; do not use price or claim 144 pairs. Top-left: full assortment isolated white. Top-middle: same complete assortment on lavender and cream fabric. Top-right: same complete assortment in tasteful dressing-table lifestyle, no extra jewellery. Bottom-left: standalone tight macro of actual earring/card detail; NOT whole assortment. Bottom-middle: same complete assortment promotional photograph with only accurate heading 'Decorative Stud Earring Assortment'. Bottom-right blank cream unused. Keep every full-assortment cell self-contained with all cards fully in frame. No invented extra items, missing cards or changed jewellery. Website-ready realism, no panel borders.\nUse BOTH originals as distinct component groups of ONE combined assortment: exactly TWELVE white butterfly-shaped Fashion Jewelry earring display cards total, six cards from first original and six from second original. First group has black/gold hearts, turquoise and red rhinestones, pearl circles, gold flowers/crowns; second group black/gold butterflies, cobaltblue and pink rhinestones, gold stars/roses, silver bows and pearls. Retain each six-card group as in its source, arrange the two groups side by side, do not collapse into sixcards or multiply the sixcardphotos. Each butterfly card retains its original 12 pairs/24 studs.",
       "sha256": "87071850b323b362632e05ec5d12e73d7e346c38b515c946fd63e3732db0a2c3",
@@ -53,10 +55,12 @@
         0,
         1024,
         512
-      ]
+      ],
+      "visual_review": "Material count failure: eight cards instead of twelve in full assortment view; one corrective attempt authorized.",
+      "rejected": true
     },
     {
-      "saved_file": "New/03_Lifestyle.png",
+      "saved_file": "Rejected/initial_03_Lifestyle.png",
       "source_output": "/workspace/generated_images/exec-445919ca-29b3-4c18-ab99-cafac54958a0.png",
       "prompt": "Create a NEW website product photography image as one landscape 1536x1024 canvas, exact seamless 3 columns x 2 rows of equal 512x512 cells, no gutters or panel labels. Native edit referenced ACTUAL original photographs, preserve the product identity, quantities, shapes, materials, colours, card outlines and stud layouts. Whole assortment is one product. Remove hand/shop background and source price banner; do not use price or claim 144 pairs. Top-left: full assortment isolated white. Top-middle: same complete assortment on lavender and cream fabric. Top-right: same complete assortment in tasteful dressing-table lifestyle, no extra jewellery. Bottom-left: standalone tight macro of actual earring/card detail; NOT whole assortment. Bottom-middle: same complete assortment promotional photograph with only accurate heading 'Decorative Stud Earring Assortment'. Bottom-right blank cream unused. Keep every full-assortment cell self-contained with all cards fully in frame. No invented extra items, missing cards or changed jewellery. Website-ready realism, no panel borders.\nUse BOTH originals as distinct component groups of ONE combined assortment: exactly TWELVE white butterfly-shaped Fashion Jewelry earring display cards total, six cards from first original and six from second original. First group has black/gold hearts, turquoise and red rhinestones, pearl circles, gold flowers/crowns; second group black/gold butterflies, cobaltblue and pink rhinestones, gold stars/roses, silver bows and pearls. Retain each six-card group as in its source, arrange the two groups side by side, do not collapse into sixcards or multiply the sixcardphotos. Each butterfly card retains its original 12 pairs/24 studs.",
       "sha256": "cf32a7b026b8c160f8629c97ae81f47c2a22b5e88b9b0b485995bd3c43d71563",
@@ -73,14 +77,16 @@
         0,
         1536,
         512
-      ]
+      ],
+      "visual_review": "Material count failure: eight cards instead of twelve in full assortment view; one corrective attempt authorized.",
+      "rejected": true
     },
     {
       "saved_file": "New/04_Detail.png",
       "source_output": "/workspace/generated_images/exec-445919ca-29b3-4c18-ab99-cafac54958a0.png",
       "prompt": "Create a NEW website product photography image as one landscape 1536x1024 canvas, exact seamless 3 columns x 2 rows of equal 512x512 cells, no gutters or panel labels. Native edit referenced ACTUAL original photographs, preserve the product identity, quantities, shapes, materials, colours, card outlines and stud layouts. Whole assortment is one product. Remove hand/shop background and source price banner; do not use price or claim 144 pairs. Top-left: full assortment isolated white. Top-middle: same complete assortment on lavender and cream fabric. Top-right: same complete assortment in tasteful dressing-table lifestyle, no extra jewellery. Bottom-left: standalone tight macro of actual earring/card detail; NOT whole assortment. Bottom-middle: same complete assortment promotional photograph with only accurate heading 'Decorative Stud Earring Assortment'. Bottom-right blank cream unused. Keep every full-assortment cell self-contained with all cards fully in frame. No invented extra items, missing cards or changed jewellery. Website-ready realism, no panel borders.\nUse BOTH originals as distinct component groups of ONE combined assortment: exactly TWELVE white butterfly-shaped Fashion Jewelry earring display cards total, six cards from first original and six from second original. First group has black/gold hearts, turquoise and red rhinestones, pearl circles, gold flowers/crowns; second group black/gold butterflies, cobaltblue and pink rhinestones, gold stars/roses, silver bows and pearls. Retain each six-card group as in its source, arrange the two groups side by side, do not collapse into sixcards or multiply the sixcardphotos. Each butterfly card retains its original 12 pairs/24 studs.",
       "sha256": "55cef862389bb8f89e66721a5514d7efdcf5cc2d71b323c239c941b5d0b81a1f",
-      "checked": false,
+      "checked": true,
       "generation_method": "native_five_style_grid_cropped",
       "grid_source_file": "Generation_Grids/exec-445919ca-29b3-4c18-ab99-cafac54958a0.png",
       "grid_sha256": "48a2e4627ba492b250f7fc98aec098f22960771053018ac946c57e7c2b4d7fb3",
@@ -93,10 +99,11 @@
         512,
         512,
         1024
-      ]
+      ],
+      "visual_review": "Actual saved macro inspected against original: tight standalone real butterfly card area with black/gold hearts, red and turquoise stones, pearl circles and gold crown/flowers; no full-assortment requirement for detail."
     },
     {
-      "saved_file": "New/05_Promotional.png",
+      "saved_file": "Rejected/initial_05_Promotional.png",
       "source_output": "/workspace/generated_images/exec-445919ca-29b3-4c18-ab99-cafac54958a0.png",
       "prompt": "Create a NEW website product photography image as one landscape 1536x1024 canvas, exact seamless 3 columns x 2 rows of equal 512x512 cells, no gutters or panel labels. Native edit referenced ACTUAL original photographs, preserve the product identity, quantities, shapes, materials, colours, card outlines and stud layouts. Whole assortment is one product. Remove hand/shop background and source price banner; do not use price or claim 144 pairs. Top-left: full assortment isolated white. Top-middle: same complete assortment on lavender and cream fabric. Top-right: same complete assortment in tasteful dressing-table lifestyle, no extra jewellery. Bottom-left: standalone tight macro of actual earring/card detail; NOT whole assortment. Bottom-middle: same complete assortment promotional photograph with only accurate heading 'Decorative Stud Earring Assortment'. Bottom-right blank cream unused. Keep every full-assortment cell self-contained with all cards fully in frame. No invented extra items, missing cards or changed jewellery. Website-ready realism, no panel borders.\nUse BOTH originals as distinct component groups of ONE combined assortment: exactly TWELVE white butterfly-shaped Fashion Jewelry earring display cards total, six cards from first original and six from second original. First group has black/gold hearts, turquoise and red rhinestones, pearl circles, gold flowers/crowns; second group black/gold butterflies, cobaltblue and pink rhinestones, gold stars/roses, silver bows and pearls. Retain each six-card group as in its source, arrange the two groups side by side, do not collapse into sixcards or multiply the sixcardphotos. Each butterfly card retains its original 12 pairs/24 studs.",
       "sha256": "4fbffdf50d0c835353664d0cfc2e3e0adaf6dc671b154a6499aad37c8d9a8271",
@@ -113,10 +120,18 @@
         512,
         1024,
         1024
-      ]
+      ],
+      "visual_review": "Material count failure: eight cards instead of twelve in full assortment view; one corrective attempt authorized.",
+      "rejected": true
     }
   ],
   "status": "in_progress",
   "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
-  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "01_White-Background": 1,
+    "02_Styled-Background": 1,
+    "03_Lifestyle": 1,
+    "05_Promotional": 1
+  }
 }

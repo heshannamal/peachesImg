@@ -3,10 +3,7 @@
   "next_unassigned": [],
   "assigned": {
     "batch4_worker1": [],
-    "batch4_worker2": [
-      "2421",
-      "2420"
-    ],
+    "batch4_worker2": [],
     "batch4_worker3": [
       "2417",
       "2416"
@@ -345,6 +342,13 @@
       "product_ids": [
         "2423",
         "2422"
+      ]
+    },
+    {
+      "worker": "batch4_worker2",
+      "product_ids": [
+        "2421",
+        "2420"
       ]
     }
   ],

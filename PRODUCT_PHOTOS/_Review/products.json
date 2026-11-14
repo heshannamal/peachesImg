@@ -29545,9 +29545,9 @@
     "source_image_ids": [
       2701
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -29557,9 +29557,9 @@
     "source_image_ids": [
       2702
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -29615,15 +29615,17 @@
   },
   {
     "product_id": "2426",
-    "folder": "2426_Character-Photo-Keyring-Box-0",
+    "folder": "2426_Character-Photo-Keyring-Box-1",
     "source_image_ids": [
       2709
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2416-2517",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2427",

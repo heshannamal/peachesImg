@@ -1,8 +1,6 @@
 {
   "status": "paused_worker_model_usage_limit",
   "next_unassigned": [
-    "2423",
-    "2422",
     "2421",
     "2420",
     "2419",
@@ -12,8 +10,8 @@
   ],
   "assigned": {
     "batch4_worker1": [
-      "2431",
-      "2430"
+      "2423",
+      "2422"
     ],
     "batch4_worker2": [
       "2429",
@@ -318,6 +316,13 @@
       "product_ids": [
         "2433",
         "2432"
+      ]
+    },
+    {
+      "worker": "batch4_worker1",
+      "product_ids": [
+        "2431",
+        "2430"
       ]
     }
   ],

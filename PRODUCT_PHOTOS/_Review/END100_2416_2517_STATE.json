@@ -1,10 +1,10 @@
 {
-  "status": "running",
+  "status": "finished_with_review_and_moderation_blockers",
   "started_at": "2026-11-13T00:50:32.168194+00:00",
   "max_active_products": 10,
   "processing_order": "descending_numeric_product_id",
   "generation_workflow": "one_native3x2grid_then_five_crops",
-  "updated_at": "2026-11-14T05:33:01.644150+00:00",
+  "updated_at": "2026-11-14T05:33:58.807374+00:00",
   "target_products": 100,
   "target_images": 500,
   "completed_products": 79,
@@ -22,13 +22,21 @@
   "resume_note": "UserContinue. Review2436availablecorrective then19pending; preserve70complete/4spentpartial/6moderationblocks.",
   "native_availability_probe": "2436corrective nativecall succeeded;fiveworkersresumed",
   "paused_at": "2026-11-13T13:59:28.586004+00:00",
-  "resume_rule": "Resumeassignedpendingviews thenremainingatomicdescendingqueue;preserveallcomplete/validoutputs,skip5spentpartialproductsand6moderationblocks.",
+  "resume_rule": "Queue exhausted. Preserve79completeproducts/allapprovedviews. All13partialproductshavespentcorrectives;8moderationblocks skipwithoutretry. Nextqueue requiresnewauthorization.",
   "spent_corrective_product_ids": [
     "2501",
     "2500",
     "2477",
     "2476",
-    "2436"
+    "2436",
+    "2434",
+    "2425",
+    "2424",
+    "2422",
+    "2421",
+    "2419",
+    "2418",
+    "2417"
   ],
   "recovered_native_cache_products": [
     "2433",
@@ -39,5 +47,18 @@
     "type": "worker_model_usage_limit",
     "observed_error": "All five workers reported usage limit; try again12:50PM (timezone unspecified).",
     "native_image429_observed": false
-  }
+  },
+  "finished_at": "2026-11-14T05:37:14.862658+00:00",
+  "active_products": 0,
+  "in_flight_calls": 0,
+  "blocked_product_ids": [
+    "2516",
+    "2515",
+    "2514",
+    "2508",
+    "2507",
+    "2498",
+    "2428",
+    "2427"
+  ]
 }

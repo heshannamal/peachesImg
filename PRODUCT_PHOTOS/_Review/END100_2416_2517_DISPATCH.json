@@ -1,5 +1,5 @@
 {
-  "status": "paused_worker_model_usage_limit",
+  "status": "exhausted",
   "next_unassigned": [],
   "assigned": {
     "batch4_worker1": [],
@@ -361,5 +361,6 @@
     }
   ],
   "active_products": 0,
-  "in_flight_calls": 0
+  "in_flight_calls": 0,
+  "remaining_unassigned": 0
 }

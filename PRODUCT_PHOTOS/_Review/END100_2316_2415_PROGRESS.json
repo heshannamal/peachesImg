@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-15T02:42:54.514241+00:00",
+  "updated_at": "2026-11-15T02:44:00.604821+00:00",
   "target_products": 100,
   "target_images": 500,
   "completed_products": 63,
-  "partial_products": 4,
-  "pending_products": 19,
+  "partial_products": 6,
+  "pending_products": 17,
   "blocked_products": 14,
-  "saved_images": 335,
+  "saved_images": 345,
   "checked_images": 321,
   "products": [
     {
@@ -1644,39 +1644,63 @@
     {
       "product_id": "2331",
       "folder": "2331_Character-Plush-Toy-Assortment-0",
-      "status": "pending",
-      "saved_images": 0,
+      "status": "partial",
+      "saved_images": 5,
       "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png",
+        "unreviewed or unrecorded: 02_Styled-Background.png",
+        "unreviewed or unrecorded: 03_Lifestyle.png",
+        "unreviewed or unrecorded: 04_Detail.png",
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
       "originals_unchanged": true
     },
     {
       "product_id": "2330",
       "folder": "2330_Beaded-Bracelet-Cards-0",
-      "status": "pending",
-      "saved_images": 0,
+      "status": "partial",
+      "saved_images": 5,
       "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png",
+        "unreviewed or unrecorded: 02_Styled-Background.png",
+        "unreviewed or unrecorded: 03_Lifestyle.png",
+        "unreviewed or unrecorded: 04_Detail.png",
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
       "originals_unchanged": true
     },
     {

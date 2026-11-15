@@ -1,14 +1,6 @@
 {
   "status": "paused_worker_model_usage_limit",
   "next_unassigned": [
-    "2411",
-    "2410",
-    "2409",
-    "2408",
-    "2407",
-    "2406",
-    "2405",
-    "2404",
     "2403",
     "2402",
     "2401",
@@ -100,15 +92,35 @@
   ],
   "assigned": {
     "batch5_worker1": [
-      "2415",
-      "2414"
+      "2409",
+      "2408"
     ],
     "batch5_worker2": [
       "2413",
       "2412"
+    ],
+    "batch5_worker3": [
+      "2411",
+      "2410"
+    ],
+    "batch5_worker5": [
+      "2407",
+      "2406"
+    ],
+    "batch5_worker4": [
+      "2405",
+      "2404"
     ]
   },
-  "assignment_history": [],
+  "assignment_history": [
+    {
+      "worker": "batch5_worker1",
+      "product_ids": [
+        "2415",
+        "2414"
+      ]
+    }
+  ],
   "active_products": 0,
   "in_flight_calls": 0
 }

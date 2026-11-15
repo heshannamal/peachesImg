@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260916-WA0288.jpg": "0da5ec223e037bd2889646d7597bb6017947ee4e9678f917d67105e67eed4b1e"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-0cf34889-353d-4b72-aa50-22f7ae0e810f.png",
+      "source_output": "/workspace/generated_images/exec-0cf34889-353d-4b72-aa50-22f7ae0e810f.png",
+      "sha256": "93d1cac6ee4f128e1d3343df4deaadcbbf5c01a9e5044b47d01635a752c20c76",
+      "prompt": "Create a photorealistic website product sheet by EDITING the referenced actual original. Output exactly1536x1024, even 3columns x2rows boundaries512/1024 and512. Top cells: full assortment isolated white; full assortment lavender/cream studio; full assortment dressing-table lifestyle. Bottom: standalone tight macro ONE REAL part specified below; full assortment with accurate heading; blank cream unused. Five panels independently composed, no cross-boundary objects or borders. Whole product is FOUR long narrow white JAN\u2013DEC earring cards side by side, NOT twelve cards despite wholesale source banner. Each card has TWELVE PAIRS, two matching earrings per month-row,24 individual earrings per card. Preserve all four cards, original twelve-row arrangement, exact real designs/colours/materials and packaging. Remove hand, shop clutter and wholesale price overlay. Do not simplify cards or lose pairs. Full cards fit inside full-product cells with margins. Source designs in twelve month rows: clear stones JAN, gold open rose flowers FEB, pearls MAR, pale stones APR, silver fan shapes MAY, pearls JUNE, gold swirls JULY, large turquoise round cabochons AUG, pearls SEPT, small gold/clear flowers OCT, clear studs NOV, black bow studs DEC. Macro ONE round turquoise cabochon with gold rim from AUG. Promo heading 'Monthly Stud Earring Cards'.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-0cf34889-353d-4b72-aa50-22f7ae0e810f.png",
+      "prompt": "Create a photorealistic website product sheet by EDITING the referenced actual original. Output exactly1536x1024, even 3columns x2rows boundaries512/1024 and512. Top cells: full assortment isolated white; full assortment lavender/cream studio; full assortment dressing-table lifestyle. Bottom: standalone tight macro ONE REAL part specified below; full assortment with accurate heading; blank cream unused. Five panels independently composed, no cross-boundary objects or borders. Whole product is FOUR long narrow white JAN\u2013DEC earring cards side by side, NOT twelve cards despite wholesale source banner. Each card has TWELVE PAIRS, two matching earrings per month-row,24 individual earrings per card. Preserve all four cards, original twelve-row arrangement, exact real designs/colours/materials and packaging. Remove hand, shop clutter and wholesale price overlay. Do not simplify cards or lose pairs. Full cards fit inside full-product cells with margins. Source designs in twelve month rows: clear stones JAN, gold open rose flowers FEB, pearls MAR, pale stones APR, silver fan shapes MAY, pearls JUNE, gold swirls JULY, large turquoise round cabochons AUG, pearls SEPT, small gold/clear flowers OCT, clear studs NOV, black bow studs DEC. Macro ONE round turquoise cabochon with gold rim from AUG. Promo heading 'Monthly Stud Earring Cards'.",
+      "sha256": "73fe883325d9125a8153098cbbd46830e002c5bc7ad4a31b074677f5bc27143d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0cf34889-353d-4b72-aa50-22f7ae0e810f.png",
+      "grid_sha256": "93d1cac6ee4f128e1d3343df4deaadcbbf5c01a9e5044b47d01635a752c20c76",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected: four long monthly cards each twelve matching pairs retained, gold roses/pearls/silver fans/turquoise rounds/black bows match source identity and colours. Full cards fit correct white/styled/lifestyle/promo views. Standalone turquoise round gold-rim stud macro matches actual August part. Heading accurate."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-0cf34889-353d-4b72-aa50-22f7ae0e810f.png",
+      "prompt": "Create a photorealistic website product sheet by EDITING the referenced actual original. Output exactly1536x1024, even 3columns x2rows boundaries512/1024 and512. Top cells: full assortment isolated white; full assortment lavender/cream studio; full assortment dressing-table lifestyle. Bottom: standalone tight macro ONE REAL part specified below; full assortment with accurate heading; blank cream unused. Five panels independently composed, no cross-boundary objects or borders. Whole product is FOUR long narrow white JAN\u2013DEC earring cards side by side, NOT twelve cards despite wholesale source banner. Each card has TWELVE PAIRS, two matching earrings per month-row,24 individual earrings per card. Preserve all four cards, original twelve-row arrangement, exact real designs/colours/materials and packaging. Remove hand, shop clutter and wholesale price overlay. Do not simplify cards or lose pairs. Full cards fit inside full-product cells with margins. Source designs in twelve month rows: clear stones JAN, gold open rose flowers FEB, pearls MAR, pale stones APR, silver fan shapes MAY, pearls JUNE, gold swirls JULY, large turquoise round cabochons AUG, pearls SEPT, small gold/clear flowers OCT, clear studs NOV, black bow studs DEC. Macro ONE round turquoise cabochon with gold rim from AUG. Promo heading 'Monthly Stud Earring Cards'.",
+      "sha256": "1879634c420d2f6dd58b6d761a2e73e6c9a2ac65a6498f05ecd57c90f9b03747",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0cf34889-353d-4b72-aa50-22f7ae0e810f.png",
+      "grid_sha256": "93d1cac6ee4f128e1d3343df4deaadcbbf5c01a9e5044b47d01635a752c20c76",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected: four long monthly cards each twelve matching pairs retained, gold roses/pearls/silver fans/turquoise rounds/black bows match source identity and colours. Full cards fit correct white/styled/lifestyle/promo views. Standalone turquoise round gold-rim stud macro matches actual August part. Heading accurate."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-0cf34889-353d-4b72-aa50-22f7ae0e810f.png",
+      "prompt": "Create a photorealistic website product sheet by EDITING the referenced actual original. Output exactly1536x1024, even 3columns x2rows boundaries512/1024 and512. Top cells: full assortment isolated white; full assortment lavender/cream studio; full assortment dressing-table lifestyle. Bottom: standalone tight macro ONE REAL part specified below; full assortment with accurate heading; blank cream unused. Five panels independently composed, no cross-boundary objects or borders. Whole product is FOUR long narrow white JAN\u2013DEC earring cards side by side, NOT twelve cards despite wholesale source banner. Each card has TWELVE PAIRS, two matching earrings per month-row,24 individual earrings per card. Preserve all four cards, original twelve-row arrangement, exact real designs/colours/materials and packaging. Remove hand, shop clutter and wholesale price overlay. Do not simplify cards or lose pairs. Full cards fit inside full-product cells with margins. Source designs in twelve month rows: clear stones JAN, gold open rose flowers FEB, pearls MAR, pale stones APR, silver fan shapes MAY, pearls JUNE, gold swirls JULY, large turquoise round cabochons AUG, pearls SEPT, small gold/clear flowers OCT, clear studs NOV, black bow studs DEC. Macro ONE round turquoise cabochon with gold rim from AUG. Promo heading 'Monthly Stud Earring Cards'.",
+      "sha256": "9f891acca9e90b01cc54a0a4c8b49b65330ed37e95589e7fbeeb1a3b7ec74c03",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0cf34889-353d-4b72-aa50-22f7ae0e810f.png",
+      "grid_sha256": "93d1cac6ee4f128e1d3343df4deaadcbbf5c01a9e5044b47d01635a752c20c76",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected: four long monthly cards each twelve matching pairs retained, gold roses/pearls/silver fans/turquoise rounds/black bows match source identity and colours. Full cards fit correct white/styled/lifestyle/promo views. Standalone turquoise round gold-rim stud macro matches actual August part. Heading accurate."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-0cf34889-353d-4b72-aa50-22f7ae0e810f.png",
+      "prompt": "Create a photorealistic website product sheet by EDITING the referenced actual original. Output exactly1536x1024, even 3columns x2rows boundaries512/1024 and512. Top cells: full assortment isolated white; full assortment lavender/cream studio; full assortment dressing-table lifestyle. Bottom: standalone tight macro ONE REAL part specified below; full assortment with accurate heading; blank cream unused. Five panels independently composed, no cross-boundary objects or borders. Whole product is FOUR long narrow white JAN\u2013DEC earring cards side by side, NOT twelve cards despite wholesale source banner. Each card has TWELVE PAIRS, two matching earrings per month-row,24 individual earrings per card. Preserve all four cards, original twelve-row arrangement, exact real designs/colours/materials and packaging. Remove hand, shop clutter and wholesale price overlay. Do not simplify cards or lose pairs. Full cards fit inside full-product cells with margins. Source designs in twelve month rows: clear stones JAN, gold open rose flowers FEB, pearls MAR, pale stones APR, silver fan shapes MAY, pearls JUNE, gold swirls JULY, large turquoise round cabochons AUG, pearls SEPT, small gold/clear flowers OCT, clear studs NOV, black bow studs DEC. Macro ONE round turquoise cabochon with gold rim from AUG. Promo heading 'Monthly Stud Earring Cards'.",
+      "sha256": "f1aecbb2f48a2c0aedfe5dc93687b34bd640264bd7cd0a54b66ec297ead98ad4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0cf34889-353d-4b72-aa50-22f7ae0e810f.png",
+      "grid_sha256": "93d1cac6ee4f128e1d3343df4deaadcbbf5c01a9e5044b47d01635a752c20c76",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crop inspected: four long monthly cards each twelve matching pairs retained, gold roses/pearls/silver fans/turquoise rounds/black bows match source identity and colours. Full cards fit correct white/styled/lifestyle/promo views. Standalone turquoise round gold-rim stud macro matches actual August part. Heading accurate."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-0cf34889-353d-4b72-aa50-22f7ae0e810f.png",
+      "prompt": "Create a photorealistic website product sheet by EDITING the referenced actual original. Output exactly1536x1024, even 3columns x2rows boundaries512/1024 and512. Top cells: full assortment isolated white; full assortment lavender/cream studio; full assortment dressing-table lifestyle. Bottom: standalone tight macro ONE REAL part specified below; full assortment with accurate heading; blank cream unused. Five panels independently composed, no cross-boundary objects or borders. Whole product is FOUR long narrow white JAN\u2013DEC earring cards side by side, NOT twelve cards despite wholesale source banner. Each card has TWELVE PAIRS, two matching earrings per month-row,24 individual earrings per card. Preserve all four cards, original twelve-row arrangement, exact real designs/colours/materials and packaging. Remove hand, shop clutter and wholesale price overlay. Do not simplify cards or lose pairs. Full cards fit inside full-product cells with margins. Source designs in twelve month rows: clear stones JAN, gold open rose flowers FEB, pearls MAR, pale stones APR, silver fan shapes MAY, pearls JUNE, gold swirls JULY, large turquoise round cabochons AUG, pearls SEPT, small gold/clear flowers OCT, clear studs NOV, black bow studs DEC. Macro ONE round turquoise cabochon with gold rim from AUG. Promo heading 'Monthly Stud Earring Cards'.",
+      "sha256": "0575b7a985f0e6ada29802dfe44aa720db3bc52563da65a7ba2859a95a88efe1",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0cf34889-353d-4b72-aa50-22f7ae0e810f.png",
+      "grid_sha256": "93d1cac6ee4f128e1d3343df4deaadcbbf5c01a9e5044b47d01635a752c20c76",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crop inspected: four long monthly cards each twelve matching pairs retained, gold roses/pearls/silver fans/turquoise rounds/black bows match source identity and colours. Full cards fit correct white/styled/lifestyle/promo views. Standalone turquoise round gold-rim stud macro matches actual August part. Heading accurate."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baselines_verified": true
+}

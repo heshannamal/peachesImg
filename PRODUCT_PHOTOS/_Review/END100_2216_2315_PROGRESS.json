@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-15T12:17:42.748831+00:00",
+  "updated_at": "2026-11-15T12:19:47.432481+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 1,
-  "partial_products": 0,
-  "pending_products": 99,
+  "completed_products": 2,
+  "partial_products": 1,
+  "pending_products": 97,
   "blocked_products": 0,
-  "saved_images": 5,
-  "checked_images": 5,
+  "saved_images": 11,
+  "checked_images": 10,
   "products": [
     {
       "product_id": "2315",
@@ -30,20 +30,20 @@
     },
     {
       "product_id": "2314",
-      "folder": "2314_Miss-Rose-Compact-Powder-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "folder": "2314_Miss-Rose-Compact-Powder-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "five_images_saved_and_visually_checked",
       "errors": [],
       "originals_unchanged": true
     },
@@ -126,20 +126,25 @@
     {
       "product_id": "2309",
       "folder": "2309_Bright-Hair-Ties-0",
-      "status": "pending",
-      "saved_images": 0,
+      "status": "partial",
+      "saved_images": 1,
       "checked_images": 0,
-      "files": [],
+      "files": [
+        "New/01_White-Background.png"
+      ],
       "missing_images": [
-        "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
+      "review_needed_images": [
+        "New/01_White-Background.png"
+      ],
       "notes_status": null,
-      "errors": [],
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png"
+      ],
       "originals_unchanged": true
     },
     {

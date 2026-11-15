@@ -1,0 +1,135 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260810-WA0023.jpg": "13a1de6d11b9db8a077e4fecc4ad105567f8c3f9fc2bfc16231e228eeddfa6af"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-5d2789ee-a7d1-4440-a83c-e8dae78161a4.png",
+      "source_output": "/workspace/generated_images/exec-5d2789ee-a7d1-4440-a83c-e8dae78161a4.png",
+      "sha256": "ed697fe7245f77066ed8f42b7594ca57023867d45472063b6ff275732315d3a0",
+      "prompt": "Faithfully EDIT actual referenced hair elastic assortment into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Topfullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentdressingtablelifestyle. Bottomstandalone tight actualpartmacro/fullassortmentpromotional accurateheading/blankcream. No spanningpanels. Preserve actual whole24piece assortment, countidentityshapescolours, no unrelatedsubstitutes. Remove hand/sourceprice/backgroundclutter/tag. Keep all24 in eachfullpanel with margins; arrange fourrows sixpieces for countvisibility while preserving eachactual design. Exactly24 thin neutral hairties, source groups BLACK/DARKBROWN/IVORYcream, eight each. Eachloop has tiny goldmetal bead accents regularlyspaced along thin cord and short neat wrappedjoin, no largependant or bow. Preserve source thin elastic loop proportions, neutralpalette and goldbead placement. Macro actual darkbrown cord with tinygoldbeads and wrappedjoin. Heading 'Gold Bead Hair Elastics'.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "Rejected/initial_01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-5d2789ee-a7d1-4440-a83c-e8dae78161a4.png",
+      "prompt": "Faithfully EDIT actual referenced hair elastic assortment into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Topfullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentdressingtablelifestyle. Bottomstandalone tight actualpartmacro/fullassortmentpromotional accurateheading/blankcream. No spanningpanels. Preserve actual whole24piece assortment, countidentityshapescolours, no unrelatedsubstitutes. Remove hand/sourceprice/backgroundclutter/tag. Keep all24 in eachfullpanel with margins; arrange fourrows sixpieces for countvisibility while preserving eachactual design. Exactly24 thin neutral hairties, source groups BLACK/DARKBROWN/IVORYcream, eight each. Eachloop has tiny goldmetal bead accents regularlyspaced along thin cord and short neat wrappedjoin, no largependant or bow. Preserve source thin elastic loop proportions, neutralpalette and goldbead placement. Macro actual darkbrown cord with tinygoldbeads and wrappedjoin. Heading 'Gold Bead Hair Elastics'.",
+      "sha256": "916e125de82fb4dfb946c8fc5d612af964c5b1dffdd4bf29b9a9e37074fd903d",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5d2789ee-a7d1-4440-a83c-e8dae78161a4.png",
+      "grid_sha256": "ed697fe7245f77066ed8f42b7594ca57023867d45472063b6ff275732315d3a0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "24 total but colour grouping6black6brown12ivory instead of8each. Correct once.",
+      "corrective_attempts": 1
+    },
+    {
+      "saved_file": "Rejected/initial_02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-5d2789ee-a7d1-4440-a83c-e8dae78161a4.png",
+      "prompt": "Faithfully EDIT actual referenced hair elastic assortment into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Topfullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentdressingtablelifestyle. Bottomstandalone tight actualpartmacro/fullassortmentpromotional accurateheading/blankcream. No spanningpanels. Preserve actual whole24piece assortment, countidentityshapescolours, no unrelatedsubstitutes. Remove hand/sourceprice/backgroundclutter/tag. Keep all24 in eachfullpanel with margins; arrange fourrows sixpieces for countvisibility while preserving eachactual design. Exactly24 thin neutral hairties, source groups BLACK/DARKBROWN/IVORYcream, eight each. Eachloop has tiny goldmetal bead accents regularlyspaced along thin cord and short neat wrappedjoin, no largependant or bow. Preserve source thin elastic loop proportions, neutralpalette and goldbead placement. Macro actual darkbrown cord with tinygoldbeads and wrappedjoin. Heading 'Gold Bead Hair Elastics'.",
+      "sha256": "0e1382d7f4e32a9460830aa11cc1b620b037bf28a4ab5f1ba97df2039e8b4a1c",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5d2789ee-a7d1-4440-a83c-e8dae78161a4.png",
+      "grid_sha256": "ed697fe7245f77066ed8f42b7594ca57023867d45472063b6ff275732315d3a0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "24 total but colour grouping6black6brown12ivory instead of8each. Correct once.",
+      "corrective_attempts": 1
+    },
+    {
+      "saved_file": "Rejected/initial_03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-5d2789ee-a7d1-4440-a83c-e8dae78161a4.png",
+      "prompt": "Faithfully EDIT actual referenced hair elastic assortment into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Topfullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentdressingtablelifestyle. Bottomstandalone tight actualpartmacro/fullassortmentpromotional accurateheading/blankcream. No spanningpanels. Preserve actual whole24piece assortment, countidentityshapescolours, no unrelatedsubstitutes. Remove hand/sourceprice/backgroundclutter/tag. Keep all24 in eachfullpanel with margins; arrange fourrows sixpieces for countvisibility while preserving eachactual design. Exactly24 thin neutral hairties, source groups BLACK/DARKBROWN/IVORYcream, eight each. Eachloop has tiny goldmetal bead accents regularlyspaced along thin cord and short neat wrappedjoin, no largependant or bow. Preserve source thin elastic loop proportions, neutralpalette and goldbead placement. Macro actual darkbrown cord with tinygoldbeads and wrappedjoin. Heading 'Gold Bead Hair Elastics'.",
+      "sha256": "e6a4cb840c83f2c76862025c7ab5f3a3c3d9f68cfa711fd3ac8f51daa37366e5",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5d2789ee-a7d1-4440-a83c-e8dae78161a4.png",
+      "grid_sha256": "ed697fe7245f77066ed8f42b7594ca57023867d45472063b6ff275732315d3a0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "24 total but colour grouping6black6brown12ivory instead of8each. Correct once.",
+      "corrective_attempts": 1
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-5d2789ee-a7d1-4440-a83c-e8dae78161a4.png",
+      "prompt": "Faithfully EDIT actual referenced hair elastic assortment into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Topfullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentdressingtablelifestyle. Bottomstandalone tight actualpartmacro/fullassortmentpromotional accurateheading/blankcream. No spanningpanels. Preserve actual whole24piece assortment, countidentityshapescolours, no unrelatedsubstitutes. Remove hand/sourceprice/backgroundclutter/tag. Keep all24 in eachfullpanel with margins; arrange fourrows sixpieces for countvisibility while preserving eachactual design. Exactly24 thin neutral hairties, source groups BLACK/DARKBROWN/IVORYcream, eight each. Eachloop has tiny goldmetal bead accents regularlyspaced along thin cord and short neat wrappedjoin, no largependant or bow. Preserve source thin elastic loop proportions, neutralpalette and goldbead placement. Macro actual darkbrown cord with tinygoldbeads and wrappedjoin. Heading 'Gold Bead Hair Elastics'.",
+      "sha256": "00eefa5742deeadc415231aa1e39bb7c0dbec5877c5dcd719c8f543240c4b044",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5d2789ee-a7d1-4440-a83c-e8dae78161a4.png",
+      "grid_sha256": "ed697fe7245f77066ed8f42b7594ca57023867d45472063b6ff275732315d3a0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "Rejected/initial_05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-5d2789ee-a7d1-4440-a83c-e8dae78161a4.png",
+      "prompt": "Faithfully EDIT actual referenced hair elastic assortment into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Topfullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentdressingtablelifestyle. Bottomstandalone tight actualpartmacro/fullassortmentpromotional accurateheading/blankcream. No spanningpanels. Preserve actual whole24piece assortment, countidentityshapescolours, no unrelatedsubstitutes. Remove hand/sourceprice/backgroundclutter/tag. Keep all24 in eachfullpanel with margins; arrange fourrows sixpieces for countvisibility while preserving eachactual design. Exactly24 thin neutral hairties, source groups BLACK/DARKBROWN/IVORYcream, eight each. Eachloop has tiny goldmetal bead accents regularlyspaced along thin cord and short neat wrappedjoin, no largependant or bow. Preserve source thin elastic loop proportions, neutralpalette and goldbead placement. Macro actual darkbrown cord with tinygoldbeads and wrappedjoin. Heading 'Gold Bead Hair Elastics'.",
+      "sha256": "d7853a31cbd26e000c7881f057acb76853ef20370a273db554aab420f39a2de5",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5d2789ee-a7d1-4440-a83c-e8dae78161a4.png",
+      "grid_sha256": "ed697fe7245f77066ed8f42b7594ca57023867d45472063b6ff275732315d3a0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "24 total but colour grouping6black6brown12ivory instead of8each. Correct once.",
+      "corrective_attempts": 1
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts_spent": {
+    "01_White-Background.png": 1,
+    "02_Styled-Background.png": 1,
+    "03_Lifestyle.png": 1,
+    "05_Promotional.png": 1
+  }
+}

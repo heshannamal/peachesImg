@@ -28147,9 +28147,9 @@
     "source_image_ids": [
       2579
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -28159,35 +28159,39 @@
     "source_image_ids": [
       2580
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
-    "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
-  },
-  {
-    "product_id": "2306",
-    "folder": "2306_Pastel-Thin-Hair-Elastics-0",
-    "source_image_ids": [
-      2581
-    ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
-    "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
-  },
-  {
-    "product_id": "2307",
-    "folder": "2307_Neutral-Thin-Hair-Elastics-0",
-    "source_image_ids": [
-      2582
-    ],
     "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
+  },
+  {
+    "product_id": "2306",
+    "folder": "2306_Pastel-Thin-Hair-Elastics-1",
+    "source_image_ids": [
+      2581
+    ],
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
+    "grouping_status": "initial-visual-grouping",
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
+  },
+  {
+    "product_id": "2307",
+    "folder": "2307_Neutral-Thin-Hair-Elastics-1",
+    "source_image_ids": [
+      2582
+    ],
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
+    "grouping_status": "initial-visual-grouping",
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2308",
@@ -28247,27 +28251,31 @@
   },
   {
     "product_id": "2312",
-    "folder": "2312_Metallic-Flower-Hair-Claws-0",
+    "folder": "2312_Metallic-Flower-Hair-Claws-1",
     "source_image_ids": [
       2587
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2313",
-    "folder": "2313_Pastel-Daisy-Hair-Claws-0",
+    "folder": "2313_Pastel-Daisy-Hair-Claws-1",
     "source_image_ids": [
       2588
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2314",

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-15T12:20:52.200691+00:00",
+  "updated_at": "2026-11-15T12:21:59.483361+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 6,
-  "partial_products": 3,
-  "pending_products": 91,
+  "completed_products": 10,
+  "partial_products": 2,
+  "pending_products": 88,
   "blocked_products": 0,
-  "saved_images": 44,
-  "checked_images": 34,
+  "saved_images": 56,
+  "checked_images": 50,
   "products": [
     {
       "product_id": "2315",
@@ -49,30 +49,10 @@
     },
     {
       "product_id": "2313",
-      "folder": "2313_Pastel-Daisy-Hair-Claws-0",
-      "status": "partial",
-      "saved_images": 4,
-      "checked_images": 4,
-      "files": [
-        "New/01_White-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "missing_images": [
-        "New/02_Styled-Background.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": "corrective_in_progress",
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "2312",
-      "folder": "2312_Metallic-Flower-Hair-Claws-0",
-      "status": "partial",
+      "folder": "2313_Pastel-Daisy-Hair-Claws-1",
+      "status": "complete",
       "saved_images": 5,
-      "checked_images": 0,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
@@ -81,21 +61,28 @@
         "New/05_Promotional.png"
       ],
       "missing_images": [],
-      "review_needed_images": [
+      "review_needed_images": [],
+      "notes_status": "five_images_saved_and_visually_checked",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "2312",
+      "folder": "2312_Metallic-Flower-Hair-Claws-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 01_White-Background.png",
-        "unreviewed or unrecorded: 02_Styled-Background.png",
-        "unreviewed or unrecorded: 03_Lifestyle.png",
-        "unreviewed or unrecorded: 04_Detail.png",
-        "unreviewed or unrecorded: 05_Promotional.png"
-      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five_images_saved_and_visually_checked",
+      "errors": [],
       "originals_unchanged": true
     },
     {
@@ -176,7 +163,45 @@
     },
     {
       "product_id": "2307",
-      "folder": "2307_Neutral-Thin-Hair-Elastics-0",
+      "folder": "2307_Neutral-Thin-Hair-Elastics-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five_images_saved_and_visually_checked",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "2306",
+      "folder": "2306_Pastel-Thin-Hair-Elastics-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five_images_saved_and_visually_checked",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "2305",
+      "folder": "2305_Floral-Hair-Ties-0",
       "status": "partial",
       "saved_images": 5,
       "checked_images": 0,
@@ -206,60 +231,27 @@
       "originals_unchanged": true
     },
     {
-      "product_id": "2306",
-      "folder": "2306_Pastel-Thin-Hair-Elastics-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "2305",
-      "folder": "2305_Floral-Hair-Ties-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
       "product_id": "2304",
       "folder": "2304_Neutral-Charm-Hair-Elastics-0",
-      "status": "pending",
-      "saved_images": 0,
+      "status": "partial",
+      "saved_images": 1,
       "checked_images": 0,
-      "files": [],
+      "files": [
+        "New/04_Detail.png"
+      ],
       "missing_images": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "review_needed_images": [
+        "New/04_Detail.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 04_Detail.png"
+      ],
       "originals_unchanged": true
     },
     {

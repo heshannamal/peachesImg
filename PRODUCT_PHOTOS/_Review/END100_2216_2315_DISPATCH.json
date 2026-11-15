@@ -1,8 +1,6 @@
 {
   "status": "ready",
   "next_unassigned": [
-    "2315",
-    "2314",
     "2313",
     "2312",
     "2311",
@@ -102,6 +100,11 @@
     "2217",
     "2216"
   ],
-  "assigned": {},
+  "assigned": {
+    "batch6_worker1": [
+      "2315",
+      "2314"
+    ]
+  },
   "assignment_history": []
 }

@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-11-15T12:16:37.426548+00:00",
+  "updated_at": "2026-11-15T12:17:42.748831+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 0,
-  "partial_products": 1,
+  "completed_products": 1,
+  "partial_products": 0,
   "pending_products": 99,
   "blocked_products": 0,
   "saved_images": 5,
-  "checked_images": 0,
+  "checked_images": 5,
   "products": [
     {
       "product_id": "2315",
-      "folder": "2315_Character-Steel-Tumblers-0",
-      "status": "partial",
+      "folder": "2315_Character-Steel-Tumblers-1",
+      "status": "complete",
       "saved_images": 5,
-      "checked_images": 0,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
@@ -23,21 +23,9 @@
         "New/05_Promotional.png"
       ],
       "missing_images": [],
-      "review_needed_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 01_White-Background.png",
-        "unreviewed or unrecorded: 02_Styled-Background.png",
-        "unreviewed or unrecorded: 03_Lifestyle.png",
-        "unreviewed or unrecorded: 04_Detail.png",
-        "unreviewed or unrecorded: 05_Promotional.png"
-      ],
+      "review_needed_images": [],
+      "notes_status": "five_images_saved_and_visually_checked",
+      "errors": [],
       "originals_unchanged": true
     },
     {

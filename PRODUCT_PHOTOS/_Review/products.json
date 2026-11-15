@@ -28275,16 +28275,18 @@
   },
   {
     "product_id": "2315",
-    "folder": "2315_Character-Steel-Tumblers-0",
+    "folder": "2315_Character-Steel-Tumblers-1",
     "source_image_ids": [
       2590,
       2591
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2316",

@@ -29050,9 +29050,9 @@
     "source_image_ids": [
       2657
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -29074,35 +29074,39 @@
     "source_image_ids": [
       2659
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2382",
-    "folder": "2382_Patterned-Decorative-Hair-Clips-0",
+    "folder": "2382_Patterned-Decorative-Hair-Clips-1",
     "source_image_ids": [
       2660
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2383",
-    "folder": "2383_Mixed-Decorative-Hair-Clips-0",
+    "folder": "2383_Mixed-Decorative-Hair-Clips-1",
     "source_image_ids": [
       2661
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2384",
@@ -29118,16 +29122,18 @@
   },
   {
     "product_id": "2385",
-    "folder": "2385_Small-Hair-Elastic-Boxes-0",
+    "folder": "2385_Small-Hair-Elastic-Boxes-1",
     "source_image_ids": [
       2663,
       2664
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2386",

@@ -1,5 +1,5 @@
 {
-  "status": "running",
+  "status": "exhausted",
   "next_unassigned": [],
   "assigned": {
     "batch5_worker1": [],
@@ -359,5 +359,8 @@
         "2316"
       ]
     }
-  ]
+  ],
+  "active_products": 0,
+  "in_flight_calls": 0,
+  "remaining_unassigned": 0
 }

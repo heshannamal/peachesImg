@@ -1,0 +1,132 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260912-WA0009.jpg": "cd17dd7c4626381da325a6cf3acdeb11ade5e69bdc8c95c6f94e7c26d027ad43"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-1c29feed-82e9-48a2-8831-55b339971f7d.png",
+      "source_output": "/workspace/generated_images/exec-1c29feed-82e9-48a2-8831-55b339971f7d.png",
+      "sha256": "1b8279bf523d07b38015346054c2da381ced0c1ba2df35b46cf8edb20e942253",
+      "prompt": "Edit original referenced actual nailpolish product into ONE1536x1024 3x2equal512cellsgrid: topwhitebackground, lavendercreamstyled, lifestyle manicuredesk; bottomstandalone TIGHTREALPARTMACROofoneactualbottle glass/label/cap edge ONLY notfullbottle, promotional heading \"Nude Nail Polish Collection\", blankcream. Actual24distinct squareglass nailpolishbottles withlongcylindricalcolourmatchedcaps, palegold squarelabels reading GEL EFFECT; preserveexactsourcebottleshape labelidentity colours. FULLVIEWS must show ALL24WHOLEBOTTLES inFOURROWSofSIX, no missing/extra, no sourcecollagerepetition. Use sourcebottom four rows as exact24colour inventory. Nude mauve/dustypink/brown/beige/burgundy palette exactly source24bottom thumbnails, keep subtle differences. Removeadvertisingwoman/extra bottle illustrations/price/claims; product24bottles only, no invented25thdisplaybottle. Matching24caps and24bottles. WholeassortmentONEproduct, websitequality. Accurateheadingpromo only.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-1c29feed-82e9-48a2-8831-55b339971f7d.png",
+      "prompt": "Edit original referenced actual nailpolish product into ONE1536x1024 3x2equal512cellsgrid: topwhitebackground, lavendercreamstyled, lifestyle manicuredesk; bottomstandalone TIGHTREALPARTMACROofoneactualbottle glass/label/cap edge ONLY notfullbottle, promotional heading \"Nude Nail Polish Collection\", blankcream. Actual24distinct squareglass nailpolishbottles withlongcylindricalcolourmatchedcaps, palegold squarelabels reading GEL EFFECT; preserveexactsourcebottleshape labelidentity colours. FULLVIEWS must show ALL24WHOLEBOTTLES inFOURROWSofSIX, no missing/extra, no sourcecollagerepetition. Use sourcebottom four rows as exact24colour inventory. Nude mauve/dustypink/brown/beige/burgundy palette exactly source24bottom thumbnails, keep subtle differences. Removeadvertisingwoman/extra bottle illustrations/price/claims; product24bottles only, no invented25thdisplaybottle. Matching24caps and24bottles. WholeassortmentONEproduct, websitequality. Accurateheadingpromo only.",
+      "sha256": "c2ebb6a943711724e6033a251895523173cd069f62725eeab51553f0a3d1eed8",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1c29feed-82e9-48a2-8831-55b339971f7d.png",
+      "grid_sha256": "1b8279bf523d07b38015346054c2da381ced0c1ba2df35b46cf8edb20e942253",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        532,
+        600
+      ],
+      "visual_review": "Material failure: incomplete assortment or no product present."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-1c29feed-82e9-48a2-8831-55b339971f7d.png",
+      "prompt": "Edit original referenced actual nailpolish product into ONE1536x1024 3x2equal512cellsgrid: topwhitebackground, lavendercreamstyled, lifestyle manicuredesk; bottomstandalone TIGHTREALPARTMACROofoneactualbottle glass/label/cap edge ONLY notfullbottle, promotional heading \"Nude Nail Polish Collection\", blankcream. Actual24distinct squareglass nailpolishbottles withlongcylindricalcolourmatchedcaps, palegold squarelabels reading GEL EFFECT; preserveexactsourcebottleshape labelidentity colours. FULLVIEWS must show ALL24WHOLEBOTTLES inFOURROWSofSIX, no missing/extra, no sourcecollagerepetition. Use sourcebottom four rows as exact24colour inventory. Nude mauve/dustypink/brown/beige/burgundy palette exactly source24bottom thumbnails, keep subtle differences. Removeadvertisingwoman/extra bottle illustrations/price/claims; product24bottles only, no invented25thdisplaybottle. Matching24caps and24bottles. WholeassortmentONEproduct, websitequality. Accurateheadingpromo only.",
+      "sha256": "e8a45829b3b64066fd26910d5cd0450e86eae30b98332128b8e367953cdd9981",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1c29feed-82e9-48a2-8831-55b339971f7d.png",
+      "grid_sha256": "1b8279bf523d07b38015346054c2da381ced0c1ba2df35b46cf8edb20e942253",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        532,
+        0,
+        1056,
+        600
+      ],
+      "visual_review": "Material failure: incomplete assortment or no product present."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-1c29feed-82e9-48a2-8831-55b339971f7d.png",
+      "prompt": "Edit original referenced actual nailpolish product into ONE1536x1024 3x2equal512cellsgrid: topwhitebackground, lavendercreamstyled, lifestyle manicuredesk; bottomstandalone TIGHTREALPARTMACROofoneactualbottle glass/label/cap edge ONLY notfullbottle, promotional heading \"Nude Nail Polish Collection\", blankcream. Actual24distinct squareglass nailpolishbottles withlongcylindricalcolourmatchedcaps, palegold squarelabels reading GEL EFFECT; preserveexactsourcebottleshape labelidentity colours. FULLVIEWS must show ALL24WHOLEBOTTLES inFOURROWSofSIX, no missing/extra, no sourcecollagerepetition. Use sourcebottom four rows as exact24colour inventory. Nude mauve/dustypink/brown/beige/burgundy palette exactly source24bottom thumbnails, keep subtle differences. Removeadvertisingwoman/extra bottle illustrations/price/claims; product24bottles only, no invented25thdisplaybottle. Matching24caps and24bottles. WholeassortmentONEproduct, websitequality. Accurateheadingpromo only.",
+      "sha256": "99ef016cf1f2b284c967a3394325591ff020517dccd603323502441452b0fced",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1c29feed-82e9-48a2-8831-55b339971f7d.png",
+      "grid_sha256": "1b8279bf523d07b38015346054c2da381ced0c1ba2df35b46cf8edb20e942253",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1056,
+        0,
+        1536,
+        600
+      ],
+      "visual_review": "Material failure: incomplete assortment or no product present."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-1c29feed-82e9-48a2-8831-55b339971f7d.png",
+      "prompt": "Edit original referenced actual nailpolish product into ONE1536x1024 3x2equal512cellsgrid: topwhitebackground, lavendercreamstyled, lifestyle manicuredesk; bottomstandalone TIGHTREALPARTMACROofoneactualbottle glass/label/cap edge ONLY notfullbottle, promotional heading \"Nude Nail Polish Collection\", blankcream. Actual24distinct squareglass nailpolishbottles withlongcylindricalcolourmatchedcaps, palegold squarelabels reading GEL EFFECT; preserveexactsourcebottleshape labelidentity colours. FULLVIEWS must show ALL24WHOLEBOTTLES inFOURROWSofSIX, no missing/extra, no sourcecollagerepetition. Use sourcebottom four rows as exact24colour inventory. Nude mauve/dustypink/brown/beige/burgundy palette exactly source24bottom thumbnails, keep subtle differences. Removeadvertisingwoman/extra bottle illustrations/price/claims; product24bottles only, no invented25thdisplaybottle. Matching24caps and24bottles. WholeassortmentONEproduct, websitequality. Accurateheadingpromo only.",
+      "sha256": "07ea215093b15ec4d7e238c512bed1fc3c57a9f8bdde390e7142650a0e0c08e3",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1c29feed-82e9-48a2-8831-55b339971f7d.png",
+      "grid_sha256": "1b8279bf523d07b38015346054c2da381ced0c1ba2df35b46cf8edb20e942253",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        600,
+        478,
+        1024
+      ],
+      "visual_review": "Actual macro tight glass/cap/label, or complete24 sourcecolours retained in white/styled views."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-1c29feed-82e9-48a2-8831-55b339971f7d.png",
+      "prompt": "Edit original referenced actual nailpolish product into ONE1536x1024 3x2equal512cellsgrid: topwhitebackground, lavendercreamstyled, lifestyle manicuredesk; bottomstandalone TIGHTREALPARTMACROofoneactualbottle glass/label/cap edge ONLY notfullbottle, promotional heading \"Nude Nail Polish Collection\", blankcream. Actual24distinct squareglass nailpolishbottles withlongcylindricalcolourmatchedcaps, palegold squarelabels reading GEL EFFECT; preserveexactsourcebottleshape labelidentity colours. FULLVIEWS must show ALL24WHOLEBOTTLES inFOURROWSofSIX, no missing/extra, no sourcecollagerepetition. Use sourcebottom four rows as exact24colour inventory. Nude mauve/dustypink/brown/beige/burgundy palette exactly source24bottom thumbnails, keep subtle differences. Removeadvertisingwoman/extra bottle illustrations/price/claims; product24bottles only, no invented25thdisplaybottle. Matching24caps and24bottles. WholeassortmentONEproduct, websitequality. Accurateheadingpromo only.",
+      "sha256": "250785e4d975d0e59d5f1a1220feb32e4dd2381436bd09b20697d363b947215f",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1c29feed-82e9-48a2-8831-55b339971f7d.png",
+      "grid_sha256": "1b8279bf523d07b38015346054c2da381ced0c1ba2df35b46cf8edb20e942253",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        478,
+        600,
+        1056,
+        1024
+      ],
+      "visual_review": "Material failure: incomplete assortment or no product present."
+    }
+  ],
+  "status": "corrective_in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "02_Styled-Background.png": 1,
+    "03_Lifestyle.png": 1,
+    "01_White-Background.png": 1,
+    "05_Promotional.png": 1
+  }
+}

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-15T02:26:15.101564+00:00",
+  "updated_at": "2026-11-15T02:28:22.067648+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 15,
-  "partial_products": 1,
-  "pending_products": 81,
-  "blocked_products": 3,
-  "saved_images": 80,
-  "checked_images": 75,
+  "completed_products": 19,
+  "partial_products": 4,
+  "pending_products": 71,
+  "blocked_products": 6,
+  "saved_images": 109,
+  "checked_images": 99,
   "products": [
     {
       "product_id": "2415",
@@ -353,7 +353,123 @@
     },
     {
       "product_id": "2397",
-      "folder": "2397_Pastel-Bottle-Keyrings-0",
+      "folder": "2397_Pastel-Bottle-Keyrings-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five_images_saved_and_visually_checked",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "2396",
+      "folder": "2396_Colourful-Bottle-Keyrings-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five_images_saved_and_visually_checked",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "2395",
+      "folder": "2395_Neutral-Nail-Polish-Set-0",
+      "status": "partial",
+      "saved_images": 1,
+      "checked_images": 1,
+      "files": [
+        "New/04_Detail.png"
+      ],
+      "missing_images": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/05_Promotional.png"
+      ],
+      "review_needed_images": [],
+      "notes_status": "corrective_in_progress",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "2394",
+      "folder": "2394_Bright-Nail-Polish-Set-0",
+      "status": "partial",
+      "saved_images": 3,
+      "checked_images": 3,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/04_Detail.png"
+      ],
+      "missing_images": [
+        "New/03_Lifestyle.png",
+        "New/05_Promotional.png"
+      ],
+      "review_needed_images": [],
+      "notes_status": "corrective_in_progress",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "2393",
+      "folder": "2393_Dark-Nail-Polish-Set-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five_images_saved_and_visually_checked",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "2392",
+      "folder": "2392_Colourful-Hair-Clips-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [],
+      "notes_status": "five_images_saved_and_visually_checked",
+      "errors": [],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "2391",
+      "folder": "2391_Black-Hair-Clips-0",
       "status": "partial",
       "saved_images": 5,
       "checked_images": 0,
@@ -383,123 +499,9 @@
       "originals_unchanged": true
     },
     {
-      "product_id": "2396",
-      "folder": "2396_Colourful-Bottle-Keyrings-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "2395",
-      "folder": "2395_Neutral-Nail-Polish-Set-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "2394",
-      "folder": "2394_Bright-Nail-Polish-Set-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "2393",
-      "folder": "2393_Dark-Nail-Polish-Set-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "2392",
-      "folder": "2392_Colourful-Hair-Clips-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "2391",
-      "folder": "2391_Black-Hair-Clips-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
-      "originals_unchanged": true
-    },
-    {
       "product_id": "2390",
       "folder": "2390_Blue-Character-Pouches-0",
-      "status": "pending",
+      "status": "blocked",
       "saved_images": 0,
       "checked_images": 0,
       "files": [],
@@ -511,14 +513,14 @@
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "blocked_moderation",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "2389",
       "folder": "2389_Character-Fluffy-Purses-0",
-      "status": "pending",
+      "status": "blocked",
       "saved_images": 0,
       "checked_images": 0,
       "files": [],
@@ -530,14 +532,14 @@
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "blocked_moderation",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "2388",
       "folder": "2388_Blue-Breathing-Plush-Toy-0",
-      "status": "pending",
+      "status": "blocked",
       "saved_images": 0,
       "checked_images": 0,
       "files": [],
@@ -549,27 +551,39 @@
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "blocked_moderation",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "2387",
       "folder": "2387_Pink-Breathing-Plush-Toy-0",
-      "status": "pending",
-      "saved_images": 0,
+      "status": "partial",
+      "saved_images": 5,
       "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png",
+        "unreviewed or unrecorded: 02_Styled-Background.png",
+        "unreviewed or unrecorded: 03_Lifestyle.png",
+        "unreviewed or unrecorded: 04_Detail.png",
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
       "originals_unchanged": true
     },
     {

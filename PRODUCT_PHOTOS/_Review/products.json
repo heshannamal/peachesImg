@@ -29147,9 +29147,9 @@
     "source_image_ids": [
       2666
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -29161,7 +29161,7 @@
     ],
     "new_images": 0,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "blocked_moderation",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -29173,7 +29173,7 @@
     ],
     "new_images": 0,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "blocked_moderation",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -29185,7 +29185,7 @@
     ],
     "new_images": 0,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "blocked_moderation",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -29195,35 +29195,39 @@
     "source_image_ids": [
       2670
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2392",
-    "folder": "2392_Colourful-Hair-Clips-0",
+    "folder": "2392_Colourful-Hair-Clips-1",
     "source_image_ids": [
       2671
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2393",
-    "folder": "2393_Dark-Nail-Polish-Set-0",
+    "folder": "2393_Dark-Nail-Polish-Set-1",
     "source_image_ids": [
       2672
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2394",
@@ -29231,9 +29235,9 @@
     "source_image_ids": [
       2673
     ],
-    "new_images": 0,
+    "new_images": 3,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -29243,35 +29247,39 @@
     "source_image_ids": [
       2674
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2396",
-    "folder": "2396_Colourful-Bottle-Keyrings-0",
+    "folder": "2396_Colourful-Bottle-Keyrings-1",
     "source_image_ids": [
       2675
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2397",
-    "folder": "2397_Pastel-Bottle-Keyrings-0",
+    "folder": "2397_Pastel-Bottle-Keyrings-1",
     "source_image_ids": [
       2676
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2398",

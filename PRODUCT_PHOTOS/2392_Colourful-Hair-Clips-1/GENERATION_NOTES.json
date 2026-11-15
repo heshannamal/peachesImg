@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260911-WA0110.jpg": "67c467e4bc4d45cc9168e0e467ac889bacb419614569bc67b9dca6f9de60bd4a"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-300d35fc-4851-4de8-9a0b-855bc0dd942e.png",
+      "source_output": "/workspace/generated_images/exec-300d35fc-4851-4de8-9a0b-855bc0dd942e.png",
+      "sha256": "0153515403f84326a84dc1a751c2aa78189c7517f01555adf84138773e8e87a8",
+      "prompt": "Native original-referenced edit of the actual supplied product photo only. NEW realistic website photograph grid1536x1024 landscape exact3columns x2rows equal512square cells, no gutters or labels. Top-left entire assortment white. Top-middle same entire assortment lavender/cream styled. Top-right same entire assortment relevant lifestyle no extra products. Bottom-left standalone TIGHT REAL PART detail macro, not full assortment. Bottom-middle entire assortment with accurate heading 'Colourful Hair Comb Set'. Bottom-right blank cream. Preserve identity/count/shapes/colours and packagegraphics. No supplierprice/banner/warranty or unsupportedclaims. Do not multiply objects based on wholesalecount. All objects in fullviewcells fullyinframe. Website-ready quality.\nFolderwrong: EXACTLY SIX LONG PLASTIC HAIR COMBS in ONE connected clear retailstrip, NOT clips. Preserve toporange/navy VINEX COMBS header and SIX separately wrapped horizontalcombs stackedvertically: topPERIWINKLE, nextMINTGREEN,nextPINK,nextLIGHTBLUE,nextPEACHORANGE,bottomDEEPPURPLE. Everycomb same longroundedrectangle with fineandcoarseteeth and orange/navy VINEX sticker rightend. Remove hand/shop. Do not generate12combs from price. Lifestyle dressingtable with wholepack6. Detail tightrealteeth clearplasticpackage or VINEXsticker.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-300d35fc-4851-4de8-9a0b-855bc0dd942e.png",
+      "prompt": "Native original-referenced edit of the actual supplied product photo only. NEW realistic website photograph grid1536x1024 landscape exact3columns x2rows equal512square cells, no gutters or labels. Top-left entire assortment white. Top-middle same entire assortment lavender/cream styled. Top-right same entire assortment relevant lifestyle no extra products. Bottom-left standalone TIGHT REAL PART detail macro, not full assortment. Bottom-middle entire assortment with accurate heading 'Colourful Hair Comb Set'. Bottom-right blank cream. Preserve identity/count/shapes/colours and packagegraphics. No supplierprice/banner/warranty or unsupportedclaims. Do not multiply objects based on wholesalecount. All objects in fullviewcells fullyinframe. Website-ready quality.\nFolderwrong: EXACTLY SIX LONG PLASTIC HAIR COMBS in ONE connected clear retailstrip, NOT clips. Preserve toporange/navy VINEX COMBS header and SIX separately wrapped horizontalcombs stackedvertically: topPERIWINKLE, nextMINTGREEN,nextPINK,nextLIGHTBLUE,nextPEACHORANGE,bottomDEEPPURPLE. Everycomb same longroundedrectangle with fineandcoarseteeth and orange/navy VINEX sticker rightend. Remove hand/shop. Do not generate12combs from price. Lifestyle dressingtable with wholepack6. Detail tightrealteeth clearplasticpackage or VINEXsticker.",
+      "sha256": "56cac2f3166f257156bf0a8565827fe284bbe49155292866cf31003ef66d80bb",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-300d35fc-4851-4de8-9a0b-855bc0dd942e.png",
+      "grid_sha256": "0153515403f84326a84dc1a751c2aa78189c7517f01555adf84138773e8e87a8",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crops reviewed: exactly six periwinkle/mint/pink/lightblue/peach/purple wrapped VINEX combs, source header/stickers/teeth shapes retained. Complete strip entirely in each full view. Tight actual packagedcomb teeth detail, accurate comb heading."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-300d35fc-4851-4de8-9a0b-855bc0dd942e.png",
+      "prompt": "Native original-referenced edit of the actual supplied product photo only. NEW realistic website photograph grid1536x1024 landscape exact3columns x2rows equal512square cells, no gutters or labels. Top-left entire assortment white. Top-middle same entire assortment lavender/cream styled. Top-right same entire assortment relevant lifestyle no extra products. Bottom-left standalone TIGHT REAL PART detail macro, not full assortment. Bottom-middle entire assortment with accurate heading 'Colourful Hair Comb Set'. Bottom-right blank cream. Preserve identity/count/shapes/colours and packagegraphics. No supplierprice/banner/warranty or unsupportedclaims. Do not multiply objects based on wholesalecount. All objects in fullviewcells fullyinframe. Website-ready quality.\nFolderwrong: EXACTLY SIX LONG PLASTIC HAIR COMBS in ONE connected clear retailstrip, NOT clips. Preserve toporange/navy VINEX COMBS header and SIX separately wrapped horizontalcombs stackedvertically: topPERIWINKLE, nextMINTGREEN,nextPINK,nextLIGHTBLUE,nextPEACHORANGE,bottomDEEPPURPLE. Everycomb same longroundedrectangle with fineandcoarseteeth and orange/navy VINEX sticker rightend. Remove hand/shop. Do not generate12combs from price. Lifestyle dressingtable with wholepack6. Detail tightrealteeth clearplasticpackage or VINEXsticker.",
+      "sha256": "8a9deae62daab521d49cc2d83ad582c9b0ca41836dd245aadde594d30780dc2b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-300d35fc-4851-4de8-9a0b-855bc0dd942e.png",
+      "grid_sha256": "0153515403f84326a84dc1a751c2aa78189c7517f01555adf84138773e8e87a8",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crops reviewed: exactly six periwinkle/mint/pink/lightblue/peach/purple wrapped VINEX combs, source header/stickers/teeth shapes retained. Complete strip entirely in each full view. Tight actual packagedcomb teeth detail, accurate comb heading."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-300d35fc-4851-4de8-9a0b-855bc0dd942e.png",
+      "prompt": "Native original-referenced edit of the actual supplied product photo only. NEW realistic website photograph grid1536x1024 landscape exact3columns x2rows equal512square cells, no gutters or labels. Top-left entire assortment white. Top-middle same entire assortment lavender/cream styled. Top-right same entire assortment relevant lifestyle no extra products. Bottom-left standalone TIGHT REAL PART detail macro, not full assortment. Bottom-middle entire assortment with accurate heading 'Colourful Hair Comb Set'. Bottom-right blank cream. Preserve identity/count/shapes/colours and packagegraphics. No supplierprice/banner/warranty or unsupportedclaims. Do not multiply objects based on wholesalecount. All objects in fullviewcells fullyinframe. Website-ready quality.\nFolderwrong: EXACTLY SIX LONG PLASTIC HAIR COMBS in ONE connected clear retailstrip, NOT clips. Preserve toporange/navy VINEX COMBS header and SIX separately wrapped horizontalcombs stackedvertically: topPERIWINKLE, nextMINTGREEN,nextPINK,nextLIGHTBLUE,nextPEACHORANGE,bottomDEEPPURPLE. Everycomb same longroundedrectangle with fineandcoarseteeth and orange/navy VINEX sticker rightend. Remove hand/shop. Do not generate12combs from price. Lifestyle dressingtable with wholepack6. Detail tightrealteeth clearplasticpackage or VINEXsticker.",
+      "sha256": "bd51c196e31526269a6eff47645614298efcd366a6f45d2a87a97a89f3b2f790",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-300d35fc-4851-4de8-9a0b-855bc0dd942e.png",
+      "grid_sha256": "0153515403f84326a84dc1a751c2aa78189c7517f01555adf84138773e8e87a8",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crops reviewed: exactly six periwinkle/mint/pink/lightblue/peach/purple wrapped VINEX combs, source header/stickers/teeth shapes retained. Complete strip entirely in each full view. Tight actual packagedcomb teeth detail, accurate comb heading."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-300d35fc-4851-4de8-9a0b-855bc0dd942e.png",
+      "prompt": "Native original-referenced edit of the actual supplied product photo only. NEW realistic website photograph grid1536x1024 landscape exact3columns x2rows equal512square cells, no gutters or labels. Top-left entire assortment white. Top-middle same entire assortment lavender/cream styled. Top-right same entire assortment relevant lifestyle no extra products. Bottom-left standalone TIGHT REAL PART detail macro, not full assortment. Bottom-middle entire assortment with accurate heading 'Colourful Hair Comb Set'. Bottom-right blank cream. Preserve identity/count/shapes/colours and packagegraphics. No supplierprice/banner/warranty or unsupportedclaims. Do not multiply objects based on wholesalecount. All objects in fullviewcells fullyinframe. Website-ready quality.\nFolderwrong: EXACTLY SIX LONG PLASTIC HAIR COMBS in ONE connected clear retailstrip, NOT clips. Preserve toporange/navy VINEX COMBS header and SIX separately wrapped horizontalcombs stackedvertically: topPERIWINKLE, nextMINTGREEN,nextPINK,nextLIGHTBLUE,nextPEACHORANGE,bottomDEEPPURPLE. Everycomb same longroundedrectangle with fineandcoarseteeth and orange/navy VINEX sticker rightend. Remove hand/shop. Do not generate12combs from price. Lifestyle dressingtable with wholepack6. Detail tightrealteeth clearplasticpackage or VINEXsticker.",
+      "sha256": "f10edcf8832304657f8d4ba29a4ffb2c00315f3a3041b800029f60ea85e96564",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-300d35fc-4851-4de8-9a0b-855bc0dd942e.png",
+      "grid_sha256": "0153515403f84326a84dc1a751c2aa78189c7517f01555adf84138773e8e87a8",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crops reviewed: exactly six periwinkle/mint/pink/lightblue/peach/purple wrapped VINEX combs, source header/stickers/teeth shapes retained. Complete strip entirely in each full view. Tight actual packagedcomb teeth detail, accurate comb heading."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-300d35fc-4851-4de8-9a0b-855bc0dd942e.png",
+      "prompt": "Native original-referenced edit of the actual supplied product photo only. NEW realistic website photograph grid1536x1024 landscape exact3columns x2rows equal512square cells, no gutters or labels. Top-left entire assortment white. Top-middle same entire assortment lavender/cream styled. Top-right same entire assortment relevant lifestyle no extra products. Bottom-left standalone TIGHT REAL PART detail macro, not full assortment. Bottom-middle entire assortment with accurate heading 'Colourful Hair Comb Set'. Bottom-right blank cream. Preserve identity/count/shapes/colours and packagegraphics. No supplierprice/banner/warranty or unsupportedclaims. Do not multiply objects based on wholesalecount. All objects in fullviewcells fullyinframe. Website-ready quality.\nFolderwrong: EXACTLY SIX LONG PLASTIC HAIR COMBS in ONE connected clear retailstrip, NOT clips. Preserve toporange/navy VINEX COMBS header and SIX separately wrapped horizontalcombs stackedvertically: topPERIWINKLE, nextMINTGREEN,nextPINK,nextLIGHTBLUE,nextPEACHORANGE,bottomDEEPPURPLE. Everycomb same longroundedrectangle with fineandcoarseteeth and orange/navy VINEX sticker rightend. Remove hand/shop. Do not generate12combs from price. Lifestyle dressingtable with wholepack6. Detail tightrealteeth clearplasticpackage or VINEXsticker.",
+      "sha256": "edfde6f80900a0bd00373e817ff7cf647b54ed811bc93880fc19efddbd8c61d5",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-300d35fc-4851-4de8-9a0b-855bc0dd942e.png",
+      "grid_sha256": "0153515403f84326a84dc1a751c2aa78189c7517f01555adf84138773e8e87a8",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crops reviewed: exactly six periwinkle/mint/pink/lightblue/peach/purple wrapped VINEX combs, source header/stickers/teeth shapes retained. Complete strip entirely in each full view. Tight actual packagedcomb teeth detail, accurate comb heading."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Six VINEX wrapped long plastic hair combs in connected retailstrip; folder incorrectly says clips",
+  "original_baseline_verified": true
+}

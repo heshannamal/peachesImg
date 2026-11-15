@@ -14,7 +14,7 @@
   "saved_images": 429,
   "checked_images": 420,
   "paused_at": "2026-11-14T11:10:54.549433+00:00",
-  "resume_rule": "Queue exhausted. Preserve all82completedproducts and approvedviews. Threepartialproducts have spentcorrectives;15moderationblocks skipwithoutretry. Anotherqueue requiresnewuserauthorization.",
+  "resume_rule": "Queue exhausted. Preserve all 82 completed products and approved views. Three partial products have spent their corrective attempts; skip all 15 moderation-blocked products without retry. Start another queue only after a new user request.",
   "resumed_at": "2026-11-15T07:51:49.902654+00:00",
   "resume_note": "UserfreshContinue; modelworker1availableagain. Recover3nativecaches2332/2334/2335,review3saveduncheckedproducts2331/2330/2333beforemissingviews. Probeone2331promo correctivebeforeparallelnewcalls.",
   "native_availability_probe": "2331 corrective reached native service but was moderation-blocked; worker access available. Skip2331 without retry and resume14pending.",

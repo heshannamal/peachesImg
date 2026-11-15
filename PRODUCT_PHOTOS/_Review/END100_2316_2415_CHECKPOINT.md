@@ -17,3 +17,5 @@ All workers and generation calls are stopped. No products remain unassigned. The
 Moderation-blocked products: 2412, 2411, 2410, 2390, 2389, 2388, 2371, 2370, 2369, 2367, 2366, 2361, 2360, 2359, 2331. Exact prompts, errors and request IDs are retained. No further attempts were made after observed moderation blocks. Product 2331 retains four approved views; its promotional corrective was moderation-blocked and its initial rejected view is preserved.
 
 The final recovery archive is `/workspace/product-photo-backups/next100-2316-2415-latest-recovery-checkpoint.zip`. Final URL verification is recorded in END100_2316_2415_WEB_VERIFICATION.json.
+
+Live verification passed: all 410 image URLs for the 82 completed products returned HTTP 200 with image content types.

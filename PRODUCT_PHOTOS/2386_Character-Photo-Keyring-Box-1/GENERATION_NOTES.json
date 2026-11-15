@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260908-WA0174.jpg": "8ab7ae4e37b1639a72c496c93bdbb7e0f256365fc4217304af2f507d9da6e585"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-88a0a7a7-95d1-4dcd-a650-c912050191bc.png",
+      "source_output": "/workspace/generated_images/exec-88a0a7a7-95d1-4dcd-a650-c912050191bc.png",
+      "sha256": "d4e0a55539972fbaac107343960fe72d3ac332185bc947288290a32f4271838e",
+      "prompt": "Native actual-original faithful image edit ONE1536x1024 borderless3x2 equal512square grid. Top white fullproduct / lavendercream styled fullproduct / lifestyle cream shelf fullproduct. Bottom standalone TIGHT actualpart macro / promo fullproduct accurateheading / blankunused. Preserve identity/count/shapes/colours, no unrelated substitutes; remove source advertising/price text and shop only. ONE original opened brown kraft windowbox containing pink furry character face visible in rectangularwindow, preserve actual partially concealed contents without inventing/exposing hidden keyrings or accessories. Keep large openflaps/windowouterlid and inner windowbox, whitepackingstraps. Visible embroidered face: palepink spikyoutline tuft/face, closedraisedbrows, large blackandblue ovaleyes, tinyred nose. Actual carton shape/proportions from source. Do not generate24 items from overlay; one actual photographed carton assembly only. Detail tight actual embroidered eye and pink fur through window. Heading Boxed Character Accessory.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-88a0a7a7-95d1-4dcd-a650-c912050191bc.png",
+      "prompt": "Native actual-original faithful image edit ONE1536x1024 borderless3x2 equal512square grid. Top white fullproduct / lavendercream styled fullproduct / lifestyle cream shelf fullproduct. Bottom standalone TIGHT actualpart macro / promo fullproduct accurateheading / blankunused. Preserve identity/count/shapes/colours, no unrelated substitutes; remove source advertising/price text and shop only. ONE original opened brown kraft windowbox containing pink furry character face visible in rectangularwindow, preserve actual partially concealed contents without inventing/exposing hidden keyrings or accessories. Keep large openflaps/windowouterlid and inner windowbox, whitepackingstraps. Visible embroidered face: palepink spikyoutline tuft/face, closedraisedbrows, large blackandblue ovaleyes, tinyred nose. Actual carton shape/proportions from source. Do not generate24 items from overlay; one actual photographed carton assembly only. Detail tight actual embroidered eye and pink fur through window. Heading Boxed Character Accessory.",
+      "sha256": "c548418beea76bf726271effbb66ecc6d638febb36d7892c140495637c0a8f63",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-88a0a7a7-95d1-4dcd-a650-c912050191bc.png",
+      "grid_sha256": "d4e0a55539972fbaac107343960fe72d3ac332185bc947288290a32f4271838e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual original compared with all five crops: photographed single product identity, pink/white colours, face/eye shapes and proportions retained; no invented hidden contents. Full white/styled/shelf/promo views and standalone tight real fur/embroidery macro pass. Accurate heading, no unsupported added feature claims."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-88a0a7a7-95d1-4dcd-a650-c912050191bc.png",
+      "prompt": "Native actual-original faithful image edit ONE1536x1024 borderless3x2 equal512square grid. Top white fullproduct / lavendercream styled fullproduct / lifestyle cream shelf fullproduct. Bottom standalone TIGHT actualpart macro / promo fullproduct accurateheading / blankunused. Preserve identity/count/shapes/colours, no unrelated substitutes; remove source advertising/price text and shop only. ONE original opened brown kraft windowbox containing pink furry character face visible in rectangularwindow, preserve actual partially concealed contents without inventing/exposing hidden keyrings or accessories. Keep large openflaps/windowouterlid and inner windowbox, whitepackingstraps. Visible embroidered face: palepink spikyoutline tuft/face, closedraisedbrows, large blackandblue ovaleyes, tinyred nose. Actual carton shape/proportions from source. Do not generate24 items from overlay; one actual photographed carton assembly only. Detail tight actual embroidered eye and pink fur through window. Heading Boxed Character Accessory.",
+      "sha256": "fcb78cb8a0274c0d0842561e4fa361cbe3a0dd3634be440f67e8104493cab90e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-88a0a7a7-95d1-4dcd-a650-c912050191bc.png",
+      "grid_sha256": "d4e0a55539972fbaac107343960fe72d3ac332185bc947288290a32f4271838e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual original compared with all five crops: photographed single product identity, pink/white colours, face/eye shapes and proportions retained; no invented hidden contents. Full white/styled/shelf/promo views and standalone tight real fur/embroidery macro pass. Accurate heading, no unsupported added feature claims."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-88a0a7a7-95d1-4dcd-a650-c912050191bc.png",
+      "prompt": "Native actual-original faithful image edit ONE1536x1024 borderless3x2 equal512square grid. Top white fullproduct / lavendercream styled fullproduct / lifestyle cream shelf fullproduct. Bottom standalone TIGHT actualpart macro / promo fullproduct accurateheading / blankunused. Preserve identity/count/shapes/colours, no unrelated substitutes; remove source advertising/price text and shop only. ONE original opened brown kraft windowbox containing pink furry character face visible in rectangularwindow, preserve actual partially concealed contents without inventing/exposing hidden keyrings or accessories. Keep large openflaps/windowouterlid and inner windowbox, whitepackingstraps. Visible embroidered face: palepink spikyoutline tuft/face, closedraisedbrows, large blackandblue ovaleyes, tinyred nose. Actual carton shape/proportions from source. Do not generate24 items from overlay; one actual photographed carton assembly only. Detail tight actual embroidered eye and pink fur through window. Heading Boxed Character Accessory.",
+      "sha256": "81b3e235d75b34b16ea9f9e7b833c2a94450a2a754f7efe81899bb37d8a0811d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-88a0a7a7-95d1-4dcd-a650-c912050191bc.png",
+      "grid_sha256": "d4e0a55539972fbaac107343960fe72d3ac332185bc947288290a32f4271838e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual original compared with all five crops: photographed single product identity, pink/white colours, face/eye shapes and proportions retained; no invented hidden contents. Full white/styled/shelf/promo views and standalone tight real fur/embroidery macro pass. Accurate heading, no unsupported added feature claims."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-88a0a7a7-95d1-4dcd-a650-c912050191bc.png",
+      "prompt": "Native actual-original faithful image edit ONE1536x1024 borderless3x2 equal512square grid. Top white fullproduct / lavendercream styled fullproduct / lifestyle cream shelf fullproduct. Bottom standalone TIGHT actualpart macro / promo fullproduct accurateheading / blankunused. Preserve identity/count/shapes/colours, no unrelated substitutes; remove source advertising/price text and shop only. ONE original opened brown kraft windowbox containing pink furry character face visible in rectangularwindow, preserve actual partially concealed contents without inventing/exposing hidden keyrings or accessories. Keep large openflaps/windowouterlid and inner windowbox, whitepackingstraps. Visible embroidered face: palepink spikyoutline tuft/face, closedraisedbrows, large blackandblue ovaleyes, tinyred nose. Actual carton shape/proportions from source. Do not generate24 items from overlay; one actual photographed carton assembly only. Detail tight actual embroidered eye and pink fur through window. Heading Boxed Character Accessory.",
+      "sha256": "ab05fceade4b166ca331c4f636870e8c97b7980f32b592332fcf1a8ef304a8fa",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-88a0a7a7-95d1-4dcd-a650-c912050191bc.png",
+      "grid_sha256": "d4e0a55539972fbaac107343960fe72d3ac332185bc947288290a32f4271838e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual original compared with all five crops: photographed single product identity, pink/white colours, face/eye shapes and proportions retained; no invented hidden contents. Full white/styled/shelf/promo views and standalone tight real fur/embroidery macro pass. Accurate heading, no unsupported added feature claims."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-88a0a7a7-95d1-4dcd-a650-c912050191bc.png",
+      "prompt": "Native actual-original faithful image edit ONE1536x1024 borderless3x2 equal512square grid. Top white fullproduct / lavendercream styled fullproduct / lifestyle cream shelf fullproduct. Bottom standalone TIGHT actualpart macro / promo fullproduct accurateheading / blankunused. Preserve identity/count/shapes/colours, no unrelated substitutes; remove source advertising/price text and shop only. ONE original opened brown kraft windowbox containing pink furry character face visible in rectangularwindow, preserve actual partially concealed contents without inventing/exposing hidden keyrings or accessories. Keep large openflaps/windowouterlid and inner windowbox, whitepackingstraps. Visible embroidered face: palepink spikyoutline tuft/face, closedraisedbrows, large blackandblue ovaleyes, tinyred nose. Actual carton shape/proportions from source. Do not generate24 items from overlay; one actual photographed carton assembly only. Detail tight actual embroidered eye and pink fur through window. Heading Boxed Character Accessory.",
+      "sha256": "a097e9f25bb51be4aac870b67cd4bd927edcaab9767e03f28aa91680cad0a6c5",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-88a0a7a7-95d1-4dcd-a650-c912050191bc.png",
+      "grid_sha256": "d4e0a55539972fbaac107343960fe72d3ac332185bc947288290a32f4271838e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual original compared with all five crops: photographed single product identity, pink/white colours, face/eye shapes and proportions retained; no invented hidden contents. Full white/styled/shelf/promo views and standalone tight real fur/embroidery macro pass. Accurate heading, no unsupported added feature claims."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

@@ -1,0 +1,11 @@
+{
+  "status": "blocked_moderation",
+  "records": [
+    {
+      "prompt": "Faithfully EDIT referenced actual product into1536x1024 website3x2sheet boundariesx512/1024y512. Topfull product white, lavendercreamstyled, lifestyle. Bottom standalone tight actual-part macro, full product promo accurateheading, blankcream. Preserve exact source count/identity/shapes/colours. Remove hand/shop/sourcepriceoverlay/collage divider, no unrelated substitutes. All product fits each independentcell,no cross-panel objects. TWO rectangular soft plush zip pouches, one light coralpink and one brightfuchsia, each pink fabric loop, top zipper and same embroidered blue/pink big-eared character face with Stitch lettering. Source collage shows these TWO distinct colour variants, NOT6frompricecaption. Show two side by side in all fullviews. Macro real coralpink fleece texture, zipper and embroidered ear edge. Lifestyle dressingtable. Heading 'Pink Character Zip Pouches'.",
+      "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 9067702b-915c-43ea-812d-bba5615bdf92.\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"other\\\"\\n      ]\\n    }\\n  }\\n}\")",
+      "checked": false,
+      "visual_review": "Native moderation block, no output, skipped without retry."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260916-WA0136.jpg": "d8fd16d1d03d1ff6f4f1133075885244780cfb1bce1d38245870fc19d56e6315"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-50af3e63-803b-43e3-a9ba-b1d59b29e489.png",
+      "source_output": "/workspace/generated_images/exec-50af3e63-803b-43e3-a9ba-b1d59b29e489.png",
+      "sha256": "404e24ef1d589809238817b74b1ea4e7b0c93a35e2f7486167defe982b4dbe13",
+      "prompt": "Native edit referenced actual original photograph only. Make NEW website product photography one1536x1024 landscape image exact3columns x2rows equal512squarecells no gutters/borders/labels. Top-left whole ONE bangle isolated white. Top-middle whole same bangle lavender/cream fabric. Top-right same ONE bangle worn on a wrist in natural lifestyle, no extra bracelets. Bottom-left standalone TIGHT macro of actual dangling charm and attachment/beads, NOT whole bangle. Bottom-middle whole same bangle promotional with accurate heading 'Butterfly Charm Bangle'. Bottom-right blankcream unused. Preserve exact original product count1, goldtone, polished thin roundwire opencuff shape, gap atTOP with TWO largeball terminalends, pairedsmallbeads onbothsides and smallbeads aroundbottomcharm attachment. Preserve charm identity/shape/engraving. Remove supplier price/warrantyoverlay and background, do not add claims. Fullviews bangle entirelywithin cell; detail tight actual part. Realistic website-readyquality.\nPendant is a BUTTERFLY, NOT flower despite foldername: four roundedwings, narrowerbody, engraved curling scroll motifs insidewings, polishedsolidgoldtone silhouette. Exactlyone butterflycharm hangingatbottom.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-50af3e63-803b-43e3-a9ba-b1d59b29e489.png",
+      "prompt": "Native edit referenced actual original photograph only. Make NEW website product photography one1536x1024 landscape image exact3columns x2rows equal512squarecells no gutters/borders/labels. Top-left whole ONE bangle isolated white. Top-middle whole same bangle lavender/cream fabric. Top-right same ONE bangle worn on a wrist in natural lifestyle, no extra bracelets. Bottom-left standalone TIGHT macro of actual dangling charm and attachment/beads, NOT whole bangle. Bottom-middle whole same bangle promotional with accurate heading 'Butterfly Charm Bangle'. Bottom-right blankcream unused. Preserve exact original product count1, goldtone, polished thin roundwire opencuff shape, gap atTOP with TWO largeball terminalends, pairedsmallbeads onbothsides and smallbeads aroundbottomcharm attachment. Preserve charm identity/shape/engraving. Remove supplier price/warrantyoverlay and background, do not add claims. Fullviews bangle entirelywithin cell; detail tight actual part. Realistic website-readyquality.\nPendant is a BUTTERFLY, NOT flower despite foldername: four roundedwings, narrowerbody, engraved curling scroll motifs insidewings, polishedsolidgoldtone silhouette. Exactlyone butterflycharm hangingatbottom.",
+      "sha256": "a2642dda381edb2cf1e36a9dc7d2ee75e37c92b17fc1db15a290b1980ff76ff7",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-50af3e63-803b-43e3-a9ba-b1d59b29e489.png",
+      "grid_sha256": "404e24ef1d589809238817b74b1ea4e7b0c93a35e2f7486167defe982b4dbe13",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Inspected actual saved five crops against original. Single original open ball-end gold-tone cuff, paired spacer beads and correct charm retained. White/styled/promotional show entire cuff; lifestyle shows same single cuff worn; standalone tight macro shows actual charm/attachment. Accurate heading. Equal512 cell boundaries correct."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-50af3e63-803b-43e3-a9ba-b1d59b29e489.png",
+      "prompt": "Native edit referenced actual original photograph only. Make NEW website product photography one1536x1024 landscape image exact3columns x2rows equal512squarecells no gutters/borders/labels. Top-left whole ONE bangle isolated white. Top-middle whole same bangle lavender/cream fabric. Top-right same ONE bangle worn on a wrist in natural lifestyle, no extra bracelets. Bottom-left standalone TIGHT macro of actual dangling charm and attachment/beads, NOT whole bangle. Bottom-middle whole same bangle promotional with accurate heading 'Butterfly Charm Bangle'. Bottom-right blankcream unused. Preserve exact original product count1, goldtone, polished thin roundwire opencuff shape, gap atTOP with TWO largeball terminalends, pairedsmallbeads onbothsides and smallbeads aroundbottomcharm attachment. Preserve charm identity/shape/engraving. Remove supplier price/warrantyoverlay and background, do not add claims. Fullviews bangle entirelywithin cell; detail tight actual part. Realistic website-readyquality.\nPendant is a BUTTERFLY, NOT flower despite foldername: four roundedwings, narrowerbody, engraved curling scroll motifs insidewings, polishedsolidgoldtone silhouette. Exactlyone butterflycharm hangingatbottom.",
+      "sha256": "0d50011a03c9b05a6e0ca3076844fc05f82f99df8bbc1fe1da758c2d276551a3",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-50af3e63-803b-43e3-a9ba-b1d59b29e489.png",
+      "grid_sha256": "404e24ef1d589809238817b74b1ea4e7b0c93a35e2f7486167defe982b4dbe13",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Inspected actual saved five crops against original. Single original open ball-end gold-tone cuff, paired spacer beads and correct charm retained. White/styled/promotional show entire cuff; lifestyle shows same single cuff worn; standalone tight macro shows actual charm/attachment. Accurate heading. Equal512 cell boundaries correct."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-50af3e63-803b-43e3-a9ba-b1d59b29e489.png",
+      "prompt": "Native edit referenced actual original photograph only. Make NEW website product photography one1536x1024 landscape image exact3columns x2rows equal512squarecells no gutters/borders/labels. Top-left whole ONE bangle isolated white. Top-middle whole same bangle lavender/cream fabric. Top-right same ONE bangle worn on a wrist in natural lifestyle, no extra bracelets. Bottom-left standalone TIGHT macro of actual dangling charm and attachment/beads, NOT whole bangle. Bottom-middle whole same bangle promotional with accurate heading 'Butterfly Charm Bangle'. Bottom-right blankcream unused. Preserve exact original product count1, goldtone, polished thin roundwire opencuff shape, gap atTOP with TWO largeball terminalends, pairedsmallbeads onbothsides and smallbeads aroundbottomcharm attachment. Preserve charm identity/shape/engraving. Remove supplier price/warrantyoverlay and background, do not add claims. Fullviews bangle entirelywithin cell; detail tight actual part. Realistic website-readyquality.\nPendant is a BUTTERFLY, NOT flower despite foldername: four roundedwings, narrowerbody, engraved curling scroll motifs insidewings, polishedsolidgoldtone silhouette. Exactlyone butterflycharm hangingatbottom.",
+      "sha256": "d9f7892da0968821bace433e67329f264d21758ec05193fdfc395e9b53a7a0e0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-50af3e63-803b-43e3-a9ba-b1d59b29e489.png",
+      "grid_sha256": "404e24ef1d589809238817b74b1ea4e7b0c93a35e2f7486167defe982b4dbe13",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Inspected actual saved five crops against original. Single original open ball-end gold-tone cuff, paired spacer beads and correct charm retained. White/styled/promotional show entire cuff; lifestyle shows same single cuff worn; standalone tight macro shows actual charm/attachment. Accurate heading. Equal512 cell boundaries correct."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-50af3e63-803b-43e3-a9ba-b1d59b29e489.png",
+      "prompt": "Native edit referenced actual original photograph only. Make NEW website product photography one1536x1024 landscape image exact3columns x2rows equal512squarecells no gutters/borders/labels. Top-left whole ONE bangle isolated white. Top-middle whole same bangle lavender/cream fabric. Top-right same ONE bangle worn on a wrist in natural lifestyle, no extra bracelets. Bottom-left standalone TIGHT macro of actual dangling charm and attachment/beads, NOT whole bangle. Bottom-middle whole same bangle promotional with accurate heading 'Butterfly Charm Bangle'. Bottom-right blankcream unused. Preserve exact original product count1, goldtone, polished thin roundwire opencuff shape, gap atTOP with TWO largeball terminalends, pairedsmallbeads onbothsides and smallbeads aroundbottomcharm attachment. Preserve charm identity/shape/engraving. Remove supplier price/warrantyoverlay and background, do not add claims. Fullviews bangle entirelywithin cell; detail tight actual part. Realistic website-readyquality.\nPendant is a BUTTERFLY, NOT flower despite foldername: four roundedwings, narrowerbody, engraved curling scroll motifs insidewings, polishedsolidgoldtone silhouette. Exactlyone butterflycharm hangingatbottom.",
+      "sha256": "c02cdb04b131d0a496ea6b54d9668cb9c41dfbaccc8dc5c10ea0484b332b615b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-50af3e63-803b-43e3-a9ba-b1d59b29e489.png",
+      "grid_sha256": "404e24ef1d589809238817b74b1ea4e7b0c93a35e2f7486167defe982b4dbe13",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Inspected actual saved five crops against original. Single original open ball-end gold-tone cuff, paired spacer beads and correct charm retained. White/styled/promotional show entire cuff; lifestyle shows same single cuff worn; standalone tight macro shows actual charm/attachment. Accurate heading. Equal512 cell boundaries correct."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-50af3e63-803b-43e3-a9ba-b1d59b29e489.png",
+      "prompt": "Native edit referenced actual original photograph only. Make NEW website product photography one1536x1024 landscape image exact3columns x2rows equal512squarecells no gutters/borders/labels. Top-left whole ONE bangle isolated white. Top-middle whole same bangle lavender/cream fabric. Top-right same ONE bangle worn on a wrist in natural lifestyle, no extra bracelets. Bottom-left standalone TIGHT macro of actual dangling charm and attachment/beads, NOT whole bangle. Bottom-middle whole same bangle promotional with accurate heading 'Butterfly Charm Bangle'. Bottom-right blankcream unused. Preserve exact original product count1, goldtone, polished thin roundwire opencuff shape, gap atTOP with TWO largeball terminalends, pairedsmallbeads onbothsides and smallbeads aroundbottomcharm attachment. Preserve charm identity/shape/engraving. Remove supplier price/warrantyoverlay and background, do not add claims. Fullviews bangle entirelywithin cell; detail tight actual part. Realistic website-readyquality.\nPendant is a BUTTERFLY, NOT flower despite foldername: four roundedwings, narrowerbody, engraved curling scroll motifs insidewings, polishedsolidgoldtone silhouette. Exactlyone butterflycharm hangingatbottom.",
+      "sha256": "312309ab2115f4a53d77ca5bbae18f2be0e5f3e9ee530cd8ba348e59696e001e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-50af3e63-803b-43e3-a9ba-b1d59b29e489.png",
+      "grid_sha256": "404e24ef1d589809238817b74b1ea4e7b0c93a35e2f7486167defe982b4dbe13",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Inspected actual saved five crops against original. Single original open ball-end gold-tone cuff, paired spacer beads and correct charm retained. White/styled/promotional show entire cuff; lifestyle shows same single cuff worn; standalone tight macro shows actual charm/attachment. Accurate heading. Equal512 cell boundaries correct."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "One gold-tone open ball-end cuff bangle with engraved butterfly charm (folder calls flower incorrectly)",
+  "original_baseline_verified": true
+}

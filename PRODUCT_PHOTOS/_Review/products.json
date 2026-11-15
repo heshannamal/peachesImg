@@ -28183,59 +28183,67 @@
     "source_image_ids": [
       2582
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
-    "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
-  },
-  {
-    "product_id": "2308",
-    "folder": "2308_Black-Thin-Hair-Elastics-0",
-    "source_image_ids": [
-      2583
-    ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
-    "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
-  },
-  {
-    "product_id": "2309",
-    "folder": "2309_Bright-Hair-Ties-0",
-    "source_image_ids": [
-      2584
-    ],
-    "new_images": 1,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
+    "product_id": "2308",
+    "folder": "2308_Black-Thin-Hair-Elastics-1",
+    "source_image_ids": [
+      2583
+    ],
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
+    "grouping_status": "initial-visual-grouping",
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
+  },
+  {
+    "product_id": "2309",
+    "folder": "2309_Bright-Hair-Ties-1",
+    "source_image_ids": [
+      2584
+    ],
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
+    "grouping_status": "initial-visual-grouping",
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
+  },
+  {
     "product_id": "2310",
-    "folder": "2310_Colourful-Character-Hair-Ties-0",
+    "folder": "2310_Colourful-Character-Hair-Ties-1",
     "source_image_ids": [
       2585
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2311",
-    "folder": "2311_White-Daisy-Hair-Claws-0",
+    "folder": "2311_White-Daisy-Hair-Claws-1",
     "source_image_ids": [
       2586
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2312",
@@ -28243,9 +28251,9 @@
     "source_image_ids": [
       2587
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -28255,9 +28263,9 @@
     "source_image_ids": [
       2588
     ],
-    "new_images": 0,
+    "new_images": 4,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },

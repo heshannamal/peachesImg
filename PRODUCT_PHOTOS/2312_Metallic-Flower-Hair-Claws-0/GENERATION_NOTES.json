@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260810-WA0240.jpg": "91030701da9026e6de3f9cc09c0b4565ee4de41c8643f57c3b9984d681b0140c"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-aaf512d0-1368-4429-bad4-41ae3aa311d7.png",
+      "source_output": "/workspace/generated_images/exec-aaf512d0-1368-4429-bad4-41ae3aa311d7.png",
+      "sha256": "b3bb195cd06661675329a2f8af1b39827092a3263938ac48a21f3d6ac0361ca9",
+      "prompt": "Native actualoriginalreferencededit intoONE1536x1024 exact3x2equal512grid:topWHITEbackground/lavendercreamstyled/lifestylevanity;bottomTIGHTrealpartmacro/promoheading\"Colour Flower Hair Claws\"/blankcream. ActualTWELVE glossy translucentFIVEPETALFLOWERhairclawclips arranged2columns6rows, eachrowmatchingpair. Paircolours top-to-bottom yellow,deepviolet,amberorange,limegreen,magenta,aquablue. Preservesaturatedtransparentresin notmetallic despitefoldername. ALLfourfullviewsWHITE/STYLED/LIFESTYLE/PROMO showALL12whole5petalflowers, sourcecountidentity/shapes/colours, generousmargins. Removehand/wrapperglare/store/pricebanner. LifestyleWHOLE12onvanity notoneclipwearer. MacrostandaloneTIGHTpetaledge/centretranslucency/hingepart only notentireflower. PromoSMALLheading+ALL12 nottextonly. Websitequality.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-aaf512d0-1368-4429-bad4-41ae3aa311d7.png",
+      "prompt": "Native actualoriginalreferencededit intoONE1536x1024 exact3x2equal512grid:topWHITEbackground/lavendercreamstyled/lifestylevanity;bottomTIGHTrealpartmacro/promoheading\"Colour Flower Hair Claws\"/blankcream. ActualTWELVE glossy translucentFIVEPETALFLOWERhairclawclips arranged2columns6rows, eachrowmatchingpair. Paircolours top-to-bottom yellow,deepviolet,amberorange,limegreen,magenta,aquablue. Preservesaturatedtransparentresin notmetallic despitefoldername. ALLfourfullviewsWHITE/STYLED/LIFESTYLE/PROMO showALL12whole5petalflowers, sourcecountidentity/shapes/colours, generousmargins. Removehand/wrapperglare/store/pricebanner. LifestyleWHOLE12onvanity notoneclipwearer. MacrostandaloneTIGHTpetaledge/centretranslucency/hingepart only notentireflower. PromoSMALLheading+ALL12 nottextonly. Websitequality.",
+      "sha256": "2fe55555de8d1f987e61535e1de22f19b6df58f52988ad6a7ffc7b35ac81bdcf",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-aaf512d0-1368-4429-bad4-41ae3aa311d7.png",
+      "grid_sha256": "b3bb195cd06661675329a2f8af1b39827092a3263938ac48a21f3d6ac0361ca9",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-aaf512d0-1368-4429-bad4-41ae3aa311d7.png",
+      "prompt": "Native actualoriginalreferencededit intoONE1536x1024 exact3x2equal512grid:topWHITEbackground/lavendercreamstyled/lifestylevanity;bottomTIGHTrealpartmacro/promoheading\"Colour Flower Hair Claws\"/blankcream. ActualTWELVE glossy translucentFIVEPETALFLOWERhairclawclips arranged2columns6rows, eachrowmatchingpair. Paircolours top-to-bottom yellow,deepviolet,amberorange,limegreen,magenta,aquablue. Preservesaturatedtransparentresin notmetallic despitefoldername. ALLfourfullviewsWHITE/STYLED/LIFESTYLE/PROMO showALL12whole5petalflowers, sourcecountidentity/shapes/colours, generousmargins. Removehand/wrapperglare/store/pricebanner. LifestyleWHOLE12onvanity notoneclipwearer. MacrostandaloneTIGHTpetaledge/centretranslucency/hingepart only notentireflower. PromoSMALLheading+ALL12 nottextonly. Websitequality.",
+      "sha256": "0f5a4dc46464a07793e79f32f3d5d789ffe2390cfc5b7aceb156b3183c438de0",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-aaf512d0-1368-4429-bad4-41ae3aa311d7.png",
+      "grid_sha256": "b3bb195cd06661675329a2f8af1b39827092a3263938ac48a21f3d6ac0361ca9",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-aaf512d0-1368-4429-bad4-41ae3aa311d7.png",
+      "prompt": "Native actualoriginalreferencededit intoONE1536x1024 exact3x2equal512grid:topWHITEbackground/lavendercreamstyled/lifestylevanity;bottomTIGHTrealpartmacro/promoheading\"Colour Flower Hair Claws\"/blankcream. ActualTWELVE glossy translucentFIVEPETALFLOWERhairclawclips arranged2columns6rows, eachrowmatchingpair. Paircolours top-to-bottom yellow,deepviolet,amberorange,limegreen,magenta,aquablue. Preservesaturatedtransparentresin notmetallic despitefoldername. ALLfourfullviewsWHITE/STYLED/LIFESTYLE/PROMO showALL12whole5petalflowers, sourcecountidentity/shapes/colours, generousmargins. Removehand/wrapperglare/store/pricebanner. LifestyleWHOLE12onvanity notoneclipwearer. MacrostandaloneTIGHTpetaledge/centretranslucency/hingepart only notentireflower. PromoSMALLheading+ALL12 nottextonly. Websitequality.",
+      "sha256": "4ccd907909652f610bedfb46304d669a104d647d4bf4ad7c0d4462b56cb0922a",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-aaf512d0-1368-4429-bad4-41ae3aa311d7.png",
+      "grid_sha256": "b3bb195cd06661675329a2f8af1b39827092a3263938ac48a21f3d6ac0361ca9",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-aaf512d0-1368-4429-bad4-41ae3aa311d7.png",
+      "prompt": "Native actualoriginalreferencededit intoONE1536x1024 exact3x2equal512grid:topWHITEbackground/lavendercreamstyled/lifestylevanity;bottomTIGHTrealpartmacro/promoheading\"Colour Flower Hair Claws\"/blankcream. ActualTWELVE glossy translucentFIVEPETALFLOWERhairclawclips arranged2columns6rows, eachrowmatchingpair. Paircolours top-to-bottom yellow,deepviolet,amberorange,limegreen,magenta,aquablue. Preservesaturatedtransparentresin notmetallic despitefoldername. ALLfourfullviewsWHITE/STYLED/LIFESTYLE/PROMO showALL12whole5petalflowers, sourcecountidentity/shapes/colours, generousmargins. Removehand/wrapperglare/store/pricebanner. LifestyleWHOLE12onvanity notoneclipwearer. MacrostandaloneTIGHTpetaledge/centretranslucency/hingepart only notentireflower. PromoSMALLheading+ALL12 nottextonly. Websitequality.",
+      "sha256": "7901f477aa0fa7e743f5b436aad5ec77b24dd4c822d98b9f40bfaa04823884ed",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-aaf512d0-1368-4429-bad4-41ae3aa311d7.png",
+      "grid_sha256": "b3bb195cd06661675329a2f8af1b39827092a3263938ac48a21f3d6ac0361ca9",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-aaf512d0-1368-4429-bad4-41ae3aa311d7.png",
+      "prompt": "Native actualoriginalreferencededit intoONE1536x1024 exact3x2equal512grid:topWHITEbackground/lavendercreamstyled/lifestylevanity;bottomTIGHTrealpartmacro/promoheading\"Colour Flower Hair Claws\"/blankcream. ActualTWELVE glossy translucentFIVEPETALFLOWERhairclawclips arranged2columns6rows, eachrowmatchingpair. Paircolours top-to-bottom yellow,deepviolet,amberorange,limegreen,magenta,aquablue. Preservesaturatedtransparentresin notmetallic despitefoldername. ALLfourfullviewsWHITE/STYLED/LIFESTYLE/PROMO showALL12whole5petalflowers, sourcecountidentity/shapes/colours, generousmargins. Removehand/wrapperglare/store/pricebanner. LifestyleWHOLE12onvanity notoneclipwearer. MacrostandaloneTIGHTpetaledge/centretranslucency/hingepart only notentireflower. PromoSMALLheading+ALL12 nottextonly. Websitequality.",
+      "sha256": "591bca9000166631f6d4f5318f7f852eaed7df70b072142eee21714d2c47748e",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-aaf512d0-1368-4429-bad4-41ae3aa311d7.png",
+      "grid_sha256": "b3bb195cd06661675329a2f8af1b39827092a3263938ac48a21f3d6ac0361ca9",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

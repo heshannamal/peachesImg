@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260820-WA0336.jpg": "97ae08195d00b25c0fb90b7c20d760550f17dbf22b837a3c273332d7f6920d0b"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-707f734b-d9d8-4eb9-b16e-f17401a4d89f.png",
+      "source_output": "/workspace/generated_images/exec-707f734b-d9d8-4eb9-b16e-f17401a4d89f.png",
+      "sha256": "4f767f15e7e7cb462ceabacc9e5807ec56b27905c486c069a0348891639f4bdd",
+      "prompt": "Edit actual original reference into ONE1536x1024 image EXACT3columns by2rows of512square cells, no gutter. Exactly FIVE VISIBLE physical plush cat-face earmuff sets from original: back row pale pink, tan and grey with visible plush headbands; front row cream and dusty pink with folded/hidden bands. Original poster claims six but only five physical sets are visible; do NOT invent a sixth. Preserve these five, their soft plush ears, embroidered whiskers/eyes/nose and oval cup shapes and exact pink/tan/grey/cream colours. Heading: Plush Cat Earmuffs. Remove all original poster text and icons; do not repeat six pack claim. Entire assortment ONE product. Preserve product count identity colours shapes. Top left whole assortment pure white; top middle same whole assortment lavender/cream styled; top right whole assortment relevant tabletop lifestyle without additional products; bottom left standalone TIGHT real-part macro showing actual texture/attachment/embroidery, need not full assortment; bottom middle whole assortment accurate heading given above only, no prices/claims; bottom right blank cream. No hands/shop/background overlay, nothing crossing cell edges. Website-ready photorealistic.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-707f734b-d9d8-4eb9-b16e-f17401a4d89f.png",
+      "prompt": "Edit actual original reference into ONE1536x1024 image EXACT3columns by2rows of512square cells, no gutter. Exactly FIVE VISIBLE physical plush cat-face earmuff sets from original: back row pale pink, tan and grey with visible plush headbands; front row cream and dusty pink with folded/hidden bands. Original poster claims six but only five physical sets are visible; do NOT invent a sixth. Preserve these five, their soft plush ears, embroidered whiskers/eyes/nose and oval cup shapes and exact pink/tan/grey/cream colours. Heading: Plush Cat Earmuffs. Remove all original poster text and icons; do not repeat six pack claim. Entire assortment ONE product. Preserve product count identity colours shapes. Top left whole assortment pure white; top middle same whole assortment lavender/cream styled; top right whole assortment relevant tabletop lifestyle without additional products; bottom left standalone TIGHT real-part macro showing actual texture/attachment/embroidery, need not full assortment; bottom middle whole assortment accurate heading given above only, no prices/claims; bottom right blank cream. No hands/shop/background overlay, nothing crossing cell edges. Website-ready photorealistic.",
+      "sha256": "36fad4231e0545f968d117ee37b67ec2f95a39d66137f51c4c55336f1e1a7af8",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-707f734b-d9d8-4eb9-b16e-f17401a4d89f.png",
+      "grid_sha256": "4f767f15e7e7cb462ceabacc9e5807ec56b27905c486c069a0348891639f4bdd",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-707f734b-d9d8-4eb9-b16e-f17401a4d89f.png",
+      "prompt": "Edit actual original reference into ONE1536x1024 image EXACT3columns by2rows of512square cells, no gutter. Exactly FIVE VISIBLE physical plush cat-face earmuff sets from original: back row pale pink, tan and grey with visible plush headbands; front row cream and dusty pink with folded/hidden bands. Original poster claims six but only five physical sets are visible; do NOT invent a sixth. Preserve these five, their soft plush ears, embroidered whiskers/eyes/nose and oval cup shapes and exact pink/tan/grey/cream colours. Heading: Plush Cat Earmuffs. Remove all original poster text and icons; do not repeat six pack claim. Entire assortment ONE product. Preserve product count identity colours shapes. Top left whole assortment pure white; top middle same whole assortment lavender/cream styled; top right whole assortment relevant tabletop lifestyle without additional products; bottom left standalone TIGHT real-part macro showing actual texture/attachment/embroidery, need not full assortment; bottom middle whole assortment accurate heading given above only, no prices/claims; bottom right blank cream. No hands/shop/background overlay, nothing crossing cell edges. Website-ready photorealistic.",
+      "sha256": "7a9221ae411e0109860623752e051695fbfa3a04ac0015db182d5a5f06c87ca9",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-707f734b-d9d8-4eb9-b16e-f17401a4d89f.png",
+      "grid_sha256": "4f767f15e7e7cb462ceabacc9e5807ec56b27905c486c069a0348891639f4bdd",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-707f734b-d9d8-4eb9-b16e-f17401a4d89f.png",
+      "prompt": "Edit actual original reference into ONE1536x1024 image EXACT3columns by2rows of512square cells, no gutter. Exactly FIVE VISIBLE physical plush cat-face earmuff sets from original: back row pale pink, tan and grey with visible plush headbands; front row cream and dusty pink with folded/hidden bands. Original poster claims six but only five physical sets are visible; do NOT invent a sixth. Preserve these five, their soft plush ears, embroidered whiskers/eyes/nose and oval cup shapes and exact pink/tan/grey/cream colours. Heading: Plush Cat Earmuffs. Remove all original poster text and icons; do not repeat six pack claim. Entire assortment ONE product. Preserve product count identity colours shapes. Top left whole assortment pure white; top middle same whole assortment lavender/cream styled; top right whole assortment relevant tabletop lifestyle without additional products; bottom left standalone TIGHT real-part macro showing actual texture/attachment/embroidery, need not full assortment; bottom middle whole assortment accurate heading given above only, no prices/claims; bottom right blank cream. No hands/shop/background overlay, nothing crossing cell edges. Website-ready photorealistic.",
+      "sha256": "c276f9872e9293863546ee71881973bd11a678911dd5e2f2d86831966c5c9cea",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-707f734b-d9d8-4eb9-b16e-f17401a4d89f.png",
+      "grid_sha256": "4f767f15e7e7cb462ceabacc9e5807ec56b27905c486c069a0348891639f4bdd",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-707f734b-d9d8-4eb9-b16e-f17401a4d89f.png",
+      "prompt": "Edit actual original reference into ONE1536x1024 image EXACT3columns by2rows of512square cells, no gutter. Exactly FIVE VISIBLE physical plush cat-face earmuff sets from original: back row pale pink, tan and grey with visible plush headbands; front row cream and dusty pink with folded/hidden bands. Original poster claims six but only five physical sets are visible; do NOT invent a sixth. Preserve these five, their soft plush ears, embroidered whiskers/eyes/nose and oval cup shapes and exact pink/tan/grey/cream colours. Heading: Plush Cat Earmuffs. Remove all original poster text and icons; do not repeat six pack claim. Entire assortment ONE product. Preserve product count identity colours shapes. Top left whole assortment pure white; top middle same whole assortment lavender/cream styled; top right whole assortment relevant tabletop lifestyle without additional products; bottom left standalone TIGHT real-part macro showing actual texture/attachment/embroidery, need not full assortment; bottom middle whole assortment accurate heading given above only, no prices/claims; bottom right blank cream. No hands/shop/background overlay, nothing crossing cell edges. Website-ready photorealistic.",
+      "sha256": "a20f9c37e3edf3dc8c8d6deee5231eb4af220ae3d525d5f7054d329b285a77e3",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-707f734b-d9d8-4eb9-b16e-f17401a4d89f.png",
+      "grid_sha256": "4f767f15e7e7cb462ceabacc9e5807ec56b27905c486c069a0348891639f4bdd",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-707f734b-d9d8-4eb9-b16e-f17401a4d89f.png",
+      "prompt": "Edit actual original reference into ONE1536x1024 image EXACT3columns by2rows of512square cells, no gutter. Exactly FIVE VISIBLE physical plush cat-face earmuff sets from original: back row pale pink, tan and grey with visible plush headbands; front row cream and dusty pink with folded/hidden bands. Original poster claims six but only five physical sets are visible; do NOT invent a sixth. Preserve these five, their soft plush ears, embroidered whiskers/eyes/nose and oval cup shapes and exact pink/tan/grey/cream colours. Heading: Plush Cat Earmuffs. Remove all original poster text and icons; do not repeat six pack claim. Entire assortment ONE product. Preserve product count identity colours shapes. Top left whole assortment pure white; top middle same whole assortment lavender/cream styled; top right whole assortment relevant tabletop lifestyle without additional products; bottom left standalone TIGHT real-part macro showing actual texture/attachment/embroidery, need not full assortment; bottom middle whole assortment accurate heading given above only, no prices/claims; bottom right blank cream. No hands/shop/background overlay, nothing crossing cell edges. Website-ready photorealistic.",
+      "sha256": "b3f6ea353f220b0061f31384a87b292f8cb53c25a9d3bff9d2e26cbfa27d2459",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-707f734b-d9d8-4eb9-b16e-f17401a4d89f.png",
+      "grid_sha256": "4f767f15e7e7cb462ceabacc9e5807ec56b27905c486c069a0348891639f4bdd",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

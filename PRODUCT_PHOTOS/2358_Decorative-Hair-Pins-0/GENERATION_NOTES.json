@@ -95,7 +95,7 @@
       ]
     },
     {
-      "saved_file": "New/05_Promotional.png",
+      "saved_file": "Rejected/initial_05_Promotional.png",
       "source_output": "/workspace/generated_images/exec-707cf50a-ad45-49e4-bc9d-e6813e7d0aa6.png",
       "prompt": "Faithfully EDIT referenced actual product into1536x1024 website3x2sheet boundariesx512/1024y512. Topfull product white, lavendercreamstyled, lifestyle. Bottom standalone tight actual-part macro, full product promo accurateheading, blankcream. Preserve exact source count/identity/shapes/colours. Remove hand/shop/sourcepriceoverlay/collage divider, no unrelated substitutes. All product fits each independentcell,no cross-panel objects. Product is ONE packaged stack of white die-cut handle plastic gift bags, NOT hair pins despite incorrect folder name. Preserve same clear outer plastic sleeve, flat white rectangular stack and oblong rounded handle cutout, repeating pink LOVE letters/small pink hearts and three large overlapping magenta hearts central, middle largeheart contains LOVE lettering. Keep actual bag/stack shape no extra loose bags or invented count; source100pcs wholesaleoverlay remove. Macro actual pink heart/LOVE print and white plastic texture. Lifestyle gift wrapping table. Heading 'Love Print Gift Bags'.",
       "sha256": "18e113bcdaad003a4fcdcc4487a9a62210c02557b65fb773c30023c05940d88a",
@@ -112,10 +112,44 @@
         512,
         1024,
         1024
+      ],
+      "visual_review": "Wrong view: tight macro without heading instead of full-package promotional.",
+      "corrective_attempts": 1
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-321f4924-d161-4acf-a9b7-ecb68bade477.png",
+      "source_output": "/workspace/generated_images/exec-321f4924-d161-4acf-a9b7-ecb68bade477.png",
+      "sha256": "153412c81b461299f85d6a0412871f34eca8a58af7d749baf61b4efe7cfd2f56",
+      "prompt": "Faithfully EDIT referenced actual product into1536x1024 website3x2sheet boundariesx512/1024y512. Topfull product white, lavendercreamstyled, lifestyle. Bottom standalone tight actual-part macro, full product promo accurateheading, blankcream. Preserve exact source count/identity/shapes/colours. Remove hand/shop/sourcepriceoverlay/collage divider, no unrelated substitutes. All product fits each independentcell,no cross-panel objects. Product is ONE packaged stack of white die-cut handle plastic gift bags, NOT hair pins despite incorrect folder name. Preserve same clear outer plastic sleeve, flat white rectangular stack and oblong rounded handle cutout, repeating pink LOVE letters/small pink hearts and three large overlapping magenta hearts central, middle largeheart contains LOVE lettering. Keep actual bag/stack shape no extra loose bags or invented count; source100pcs wholesaleoverlay remove. Macro actual pink heart/LOVE print and white plastic texture. Lifestyle gift wrapping table. Heading 'Love Print Gift Bags'. CORRECTION: bottom-middle panel MUST show the COMPLETE WHOLE BAG PACKAGE from top to bottom plus clear heading 'Love Print Gift Bags'. It must NOT be another macro crop. Bottom-left remains macro only. All four other valid saved views will be retained.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-321f4924-d161-4acf-a9b7-ecb68bade477.png",
+      "prompt": "Faithfully EDIT referenced actual product into1536x1024 website3x2sheet boundariesx512/1024y512. Topfull product white, lavendercreamstyled, lifestyle. Bottom standalone tight actual-part macro, full product promo accurateheading, blankcream. Preserve exact source count/identity/shapes/colours. Remove hand/shop/sourcepriceoverlay/collage divider, no unrelated substitutes. All product fits each independentcell,no cross-panel objects. Product is ONE packaged stack of white die-cut handle plastic gift bags, NOT hair pins despite incorrect folder name. Preserve same clear outer plastic sleeve, flat white rectangular stack and oblong rounded handle cutout, repeating pink LOVE letters/small pink hearts and three large overlapping magenta hearts central, middle largeheart contains LOVE lettering. Keep actual bag/stack shape no extra loose bags or invented count; source100pcs wholesaleoverlay remove. Macro actual pink heart/LOVE print and white plastic texture. Lifestyle gift wrapping table. Heading 'Love Print Gift Bags'. CORRECTION: bottom-middle panel MUST show the COMPLETE WHOLE BAG PACKAGE from top to bottom plus clear heading 'Love Print Gift Bags'. It must NOT be another macro crop. Bottom-left remains macro only. All four other valid saved views will be retained.",
+      "sha256": "1118a0fbc5ee235d2bfa4ba2d641aec5f197335aac05e6c93db803ba68674125",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-321f4924-d161-4acf-a9b7-ecb68bade477.png",
+      "grid_sha256": "153412c81b461299f85d6a0412871f34eca8a58af7d749baf61b4efe7cfd2f56",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
       ]
     }
   ],
   "status": "in_progress",
   "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
-  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts_spent": {
+    "05_Promotional.png": 1
+  }
 }

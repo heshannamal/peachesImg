@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260821-WA0033.jpg": "a8f53784e96fb6d81549f6665addbc0c0f344eaf123222ffdfd0228552f1e4f3"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-18e6963b-0c0d-49d5-b31b-730a1aec77b5.png",
+      "source_output": "/workspace/generated_images/exec-18e6963b-0c0d-49d5-b31b-730a1aec77b5.png",
+      "sha256": "0ed11160b344f24b5aca1c1b3dcea0efcdf5d883addd94dacb4077704c8350dc",
+      "prompt": "Original-referenced nativeedit intoONE1536x1024grid exact3x2equal512cells. TopWHITEbackground/lavendercreamstyled/lifestylevanity;bottom standaloneTIGHTactualflowerpartmacro/promotionalheading\"Layered Flower Hair Clips\"/blankcream. ActualTWELVEfabricFLOWERhairclawclips arrangedSIXpairs ona longwhitecardstrip. FullviewsALL12wholeflowers6pairs, compact2columns6rows, accurate sourcecount/identity/fabricpetalshapes/colours. Eachflower hasfive largevelvetlikepetals plusSMALLcontrastingfivepetalFLOWERlayer andyellowstamencentre, NOpearlbeads. Paircolours top-to-bottom whitegreen,palepink,purple,orange,blue,deepmagenta. Preservelayeredflowercentres andpetalcolours. Onewholeassortmentnotjustonepair inwhite/styled/lifestyle/promo. Removehand/store/pricebanner. Macro tightpetaltexture/actualcentre only notwholeclip. Promoall12flowersplusaccurateheading, nottextonly. Websitequality.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-18e6963b-0c0d-49d5-b31b-730a1aec77b5.png",
+      "prompt": "Original-referenced nativeedit intoONE1536x1024grid exact3x2equal512cells. TopWHITEbackground/lavendercreamstyled/lifestylevanity;bottom standaloneTIGHTactualflowerpartmacro/promotionalheading\"Layered Flower Hair Clips\"/blankcream. ActualTWELVEfabricFLOWERhairclawclips arrangedSIXpairs ona longwhitecardstrip. FullviewsALL12wholeflowers6pairs, compact2columns6rows, accurate sourcecount/identity/fabricpetalshapes/colours. Eachflower hasfive largevelvetlikepetals plusSMALLcontrastingfivepetalFLOWERlayer andyellowstamencentre, NOpearlbeads. Paircolours top-to-bottom whitegreen,palepink,purple,orange,blue,deepmagenta. Preservelayeredflowercentres andpetalcolours. Onewholeassortmentnotjustonepair inwhite/styled/lifestyle/promo. Removehand/store/pricebanner. Macro tightpetaltexture/actualcentre only notwholeclip. Promoall12flowersplusaccurateheading, nottextonly. Websitequality.",
+      "sha256": "afa84f31e225c61a22fbe332701451e506c2e4f6446e3933b517f961c6b03a50",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-18e6963b-0c0d-49d5-b31b-730a1aec77b5.png",
+      "grid_sha256": "0ed11160b344f24b5aca1c1b3dcea0efcdf5d883addd94dacb4077704c8350dc",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-18e6963b-0c0d-49d5-b31b-730a1aec77b5.png",
+      "prompt": "Original-referenced nativeedit intoONE1536x1024grid exact3x2equal512cells. TopWHITEbackground/lavendercreamstyled/lifestylevanity;bottom standaloneTIGHTactualflowerpartmacro/promotionalheading\"Layered Flower Hair Clips\"/blankcream. ActualTWELVEfabricFLOWERhairclawclips arrangedSIXpairs ona longwhitecardstrip. FullviewsALL12wholeflowers6pairs, compact2columns6rows, accurate sourcecount/identity/fabricpetalshapes/colours. Eachflower hasfive largevelvetlikepetals plusSMALLcontrastingfivepetalFLOWERlayer andyellowstamencentre, NOpearlbeads. Paircolours top-to-bottom whitegreen,palepink,purple,orange,blue,deepmagenta. Preservelayeredflowercentres andpetalcolours. Onewholeassortmentnotjustonepair inwhite/styled/lifestyle/promo. Removehand/store/pricebanner. Macro tightpetaltexture/actualcentre only notwholeclip. Promoall12flowersplusaccurateheading, nottextonly. Websitequality.",
+      "sha256": "76bfa190f1c827cd41fb3bf2fe4d8e10ee31d8570314977e8aa3de13281c7b44",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-18e6963b-0c0d-49d5-b31b-730a1aec77b5.png",
+      "grid_sha256": "0ed11160b344f24b5aca1c1b3dcea0efcdf5d883addd94dacb4077704c8350dc",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-18e6963b-0c0d-49d5-b31b-730a1aec77b5.png",
+      "prompt": "Original-referenced nativeedit intoONE1536x1024grid exact3x2equal512cells. TopWHITEbackground/lavendercreamstyled/lifestylevanity;bottom standaloneTIGHTactualflowerpartmacro/promotionalheading\"Layered Flower Hair Clips\"/blankcream. ActualTWELVEfabricFLOWERhairclawclips arrangedSIXpairs ona longwhitecardstrip. FullviewsALL12wholeflowers6pairs, compact2columns6rows, accurate sourcecount/identity/fabricpetalshapes/colours. Eachflower hasfive largevelvetlikepetals plusSMALLcontrastingfivepetalFLOWERlayer andyellowstamencentre, NOpearlbeads. Paircolours top-to-bottom whitegreen,palepink,purple,orange,blue,deepmagenta. Preservelayeredflowercentres andpetalcolours. Onewholeassortmentnotjustonepair inwhite/styled/lifestyle/promo. Removehand/store/pricebanner. Macro tightpetaltexture/actualcentre only notwholeclip. Promoall12flowersplusaccurateheading, nottextonly. Websitequality.",
+      "sha256": "5a3905808b8cd84c09f94bd215d3aeb818c50c372aa4117897fa74675bb10ee0",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-18e6963b-0c0d-49d5-b31b-730a1aec77b5.png",
+      "grid_sha256": "0ed11160b344f24b5aca1c1b3dcea0efcdf5d883addd94dacb4077704c8350dc",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-18e6963b-0c0d-49d5-b31b-730a1aec77b5.png",
+      "prompt": "Original-referenced nativeedit intoONE1536x1024grid exact3x2equal512cells. TopWHITEbackground/lavendercreamstyled/lifestylevanity;bottom standaloneTIGHTactualflowerpartmacro/promotionalheading\"Layered Flower Hair Clips\"/blankcream. ActualTWELVEfabricFLOWERhairclawclips arrangedSIXpairs ona longwhitecardstrip. FullviewsALL12wholeflowers6pairs, compact2columns6rows, accurate sourcecount/identity/fabricpetalshapes/colours. Eachflower hasfive largevelvetlikepetals plusSMALLcontrastingfivepetalFLOWERlayer andyellowstamencentre, NOpearlbeads. Paircolours top-to-bottom whitegreen,palepink,purple,orange,blue,deepmagenta. Preservelayeredflowercentres andpetalcolours. Onewholeassortmentnotjustonepair inwhite/styled/lifestyle/promo. Removehand/store/pricebanner. Macro tightpetaltexture/actualcentre only notwholeclip. Promoall12flowersplusaccurateheading, nottextonly. Websitequality.",
+      "sha256": "88cf4b1fee7ecc447a56e07629177c90d111d1fee0d5f07d0356f5f7dcb70fbd",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-18e6963b-0c0d-49d5-b31b-730a1aec77b5.png",
+      "grid_sha256": "0ed11160b344f24b5aca1c1b3dcea0efcdf5d883addd94dacb4077704c8350dc",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-18e6963b-0c0d-49d5-b31b-730a1aec77b5.png",
+      "prompt": "Original-referenced nativeedit intoONE1536x1024grid exact3x2equal512cells. TopWHITEbackground/lavendercreamstyled/lifestylevanity;bottom standaloneTIGHTactualflowerpartmacro/promotionalheading\"Layered Flower Hair Clips\"/blankcream. ActualTWELVEfabricFLOWERhairclawclips arrangedSIXpairs ona longwhitecardstrip. FullviewsALL12wholeflowers6pairs, compact2columns6rows, accurate sourcecount/identity/fabricpetalshapes/colours. Eachflower hasfive largevelvetlikepetals plusSMALLcontrastingfivepetalFLOWERlayer andyellowstamencentre, NOpearlbeads. Paircolours top-to-bottom whitegreen,palepink,purple,orange,blue,deepmagenta. Preservelayeredflowercentres andpetalcolours. Onewholeassortmentnotjustonepair inwhite/styled/lifestyle/promo. Removehand/store/pricebanner. Macro tightpetaltexture/actualcentre only notwholeclip. Promoall12flowersplusaccurateheading, nottextonly. Websitequality.",
+      "sha256": "5c3d118be2f64902aeeafb31a8e19add4ce1f0b4f04bb11f5d254ef27c8119c9",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-18e6963b-0c0d-49d5-b31b-730a1aec77b5.png",
+      "grid_sha256": "0ed11160b344f24b5aca1c1b3dcea0efcdf5d883addd94dacb4077704c8350dc",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

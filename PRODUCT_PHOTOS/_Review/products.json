@@ -28725,9 +28725,9 @@
     "source_image_ids": [
       2629
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -28737,9 +28737,9 @@
     "source_image_ids": [
       2630
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -28749,9 +28749,9 @@
     "source_image_ids": [
       2631
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -28761,35 +28761,39 @@
     "source_image_ids": [
       2632
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
-    "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
-  },
-  {
-    "product_id": "2356",
-    "folder": "2356_Mini-Flower-Claws-0",
-    "source_image_ids": [
-      2633
-    ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
-    "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
-  },
-  {
-    "product_id": "2357",
-    "folder": "2357_Pastel-Mini-Flower-Claws-0",
-    "source_image_ids": [
-      2634
-    ],
     "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
+  },
+  {
+    "product_id": "2356",
+    "folder": "2356_Mini-Flower-Claws-1",
+    "source_image_ids": [
+      2633
+    ],
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
+    "grouping_status": "initial-visual-grouping",
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
+  },
+  {
+    "product_id": "2357",
+    "folder": "2357_Pastel-Mini-Flower-Claws-1",
+    "source_image_ids": [
+      2634
+    ],
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
+    "grouping_status": "initial-visual-grouping",
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2358",
@@ -28869,27 +28873,31 @@
   },
   {
     "product_id": "2364",
-    "folder": "2364_Heart-Jewellery-Set-0",
+    "folder": "2364_Heart-Jewellery-Set-1",
     "source_image_ids": [
       2641
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2365",
-    "folder": "2365_Flower-Jewellery-Set-0",
+    "folder": "2365_Flower-Jewellery-Set-1",
     "source_image_ids": [
       2642
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2366",

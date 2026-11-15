@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260822-WA0065.jpg": "c985ce3c80e71439ad84577610932be4975c16c5e446a9b7c9be004f828af736"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-3ba2d11c-5ddf-4a3e-920d-e5e27a61070a.png",
+      "source_output": "/workspace/generated_images/exec-3ba2d11c-5ddf-4a3e-920d-e5e27a61070a.png",
+      "sha256": "f2ef589fa9b80a61edfa669dd103dca4429cb6c8382b33526c93222f24e3a311",
+      "prompt": "Edit ACTUAL referenced source into ONE1536x1024 3x2equal512cells:topWHITEbackground,lavendercreamstyled,lifestylevanity;bottomTIGHTstandaloneactualpendantmacro,promotionalheading \"Black and Gold Jewellery Set\",blankcream. ActualONEwhitejewellerycard completeassortment: SIXstudearrings/THREEpairs (clearcrystalpair,whitepearlpair,goldballpair), TWOseparategoldchainnecklaces eachonependant, TWOgoldhoopearrings andONEtriplerowgoldringatbottom. Preserveall11jewellerypieces exactcount shapes gold/white/clearcolours onONEcard inALLfourfullviews, not12setsadvertised. Necklace1black tulipbudpendant goldoutline+goldleaves, necklace2heartoutlineblackupperhalf andclearcrystal lowerhalf. Showentirecard withallsixstuds,2necklaces+pendants,2hoops+1ring. Removehand/plasticglare/price/warranty, maintainidentitynotgenericstock. Lifestylewholecardonvanity, no singlepiece substitute. Macro TIGHToneactualpendant detail only, notentirecard. Promoaccurateheading+wholecard, nottextonly. Websitequality.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-3ba2d11c-5ddf-4a3e-920d-e5e27a61070a.png",
+      "prompt": "Edit ACTUAL referenced source into ONE1536x1024 3x2equal512cells:topWHITEbackground,lavendercreamstyled,lifestylevanity;bottomTIGHTstandaloneactualpendantmacro,promotionalheading \"Black and Gold Jewellery Set\",blankcream. ActualONEwhitejewellerycard completeassortment: SIXstudearrings/THREEpairs (clearcrystalpair,whitepearlpair,goldballpair), TWOseparategoldchainnecklaces eachonependant, TWOgoldhoopearrings andONEtriplerowgoldringatbottom. Preserveall11jewellerypieces exactcount shapes gold/white/clearcolours onONEcard inALLfourfullviews, not12setsadvertised. Necklace1black tulipbudpendant goldoutline+goldleaves, necklace2heartoutlineblackupperhalf andclearcrystal lowerhalf. Showentirecard withallsixstuds,2necklaces+pendants,2hoops+1ring. Removehand/plasticglare/price/warranty, maintainidentitynotgenericstock. Lifestylewholecardonvanity, no singlepiece substitute. Macro TIGHToneactualpendant detail only, notentirecard. Promoaccurateheading+wholecard, nottextonly. Websitequality.",
+      "sha256": "59129840ed30fe3b61403c1ae3db6c8878d170b082900bc7b5abeeb9e9e9437d",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3ba2d11c-5ddf-4a3e-920d-e5e27a61070a.png",
+      "grid_sha256": "f2ef589fa9b80a61edfa669dd103dca4429cb6c8382b33526c93222f24e3a311",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-3ba2d11c-5ddf-4a3e-920d-e5e27a61070a.png",
+      "prompt": "Edit ACTUAL referenced source into ONE1536x1024 3x2equal512cells:topWHITEbackground,lavendercreamstyled,lifestylevanity;bottomTIGHTstandaloneactualpendantmacro,promotionalheading \"Black and Gold Jewellery Set\",blankcream. ActualONEwhitejewellerycard completeassortment: SIXstudearrings/THREEpairs (clearcrystalpair,whitepearlpair,goldballpair), TWOseparategoldchainnecklaces eachonependant, TWOgoldhoopearrings andONEtriplerowgoldringatbottom. Preserveall11jewellerypieces exactcount shapes gold/white/clearcolours onONEcard inALLfourfullviews, not12setsadvertised. Necklace1black tulipbudpendant goldoutline+goldleaves, necklace2heartoutlineblackupperhalf andclearcrystal lowerhalf. Showentirecard withallsixstuds,2necklaces+pendants,2hoops+1ring. Removehand/plasticglare/price/warranty, maintainidentitynotgenericstock. Lifestylewholecardonvanity, no singlepiece substitute. Macro TIGHToneactualpendant detail only, notentirecard. Promoaccurateheading+wholecard, nottextonly. Websitequality.",
+      "sha256": "26de0bcef21d64cfe28830f285c428e44c675a45ead25847bc044c090c83df22",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3ba2d11c-5ddf-4a3e-920d-e5e27a61070a.png",
+      "grid_sha256": "f2ef589fa9b80a61edfa669dd103dca4429cb6c8382b33526c93222f24e3a311",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-3ba2d11c-5ddf-4a3e-920d-e5e27a61070a.png",
+      "prompt": "Edit ACTUAL referenced source into ONE1536x1024 3x2equal512cells:topWHITEbackground,lavendercreamstyled,lifestylevanity;bottomTIGHTstandaloneactualpendantmacro,promotionalheading \"Black and Gold Jewellery Set\",blankcream. ActualONEwhitejewellerycard completeassortment: SIXstudearrings/THREEpairs (clearcrystalpair,whitepearlpair,goldballpair), TWOseparategoldchainnecklaces eachonependant, TWOgoldhoopearrings andONEtriplerowgoldringatbottom. Preserveall11jewellerypieces exactcount shapes gold/white/clearcolours onONEcard inALLfourfullviews, not12setsadvertised. Necklace1black tulipbudpendant goldoutline+goldleaves, necklace2heartoutlineblackupperhalf andclearcrystal lowerhalf. Showentirecard withallsixstuds,2necklaces+pendants,2hoops+1ring. Removehand/plasticglare/price/warranty, maintainidentitynotgenericstock. Lifestylewholecardonvanity, no singlepiece substitute. Macro TIGHToneactualpendant detail only, notentirecard. Promoaccurateheading+wholecard, nottextonly. Websitequality.",
+      "sha256": "26697723a49cc1ad9947af633c34d16a22a9e25649acfea7e00f4e66ab5faed4",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3ba2d11c-5ddf-4a3e-920d-e5e27a61070a.png",
+      "grid_sha256": "f2ef589fa9b80a61edfa669dd103dca4429cb6c8382b33526c93222f24e3a311",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-3ba2d11c-5ddf-4a3e-920d-e5e27a61070a.png",
+      "prompt": "Edit ACTUAL referenced source into ONE1536x1024 3x2equal512cells:topWHITEbackground,lavendercreamstyled,lifestylevanity;bottomTIGHTstandaloneactualpendantmacro,promotionalheading \"Black and Gold Jewellery Set\",blankcream. ActualONEwhitejewellerycard completeassortment: SIXstudearrings/THREEpairs (clearcrystalpair,whitepearlpair,goldballpair), TWOseparategoldchainnecklaces eachonependant, TWOgoldhoopearrings andONEtriplerowgoldringatbottom. Preserveall11jewellerypieces exactcount shapes gold/white/clearcolours onONEcard inALLfourfullviews, not12setsadvertised. Necklace1black tulipbudpendant goldoutline+goldleaves, necklace2heartoutlineblackupperhalf andclearcrystal lowerhalf. Showentirecard withallsixstuds,2necklaces+pendants,2hoops+1ring. Removehand/plasticglare/price/warranty, maintainidentitynotgenericstock. Lifestylewholecardonvanity, no singlepiece substitute. Macro TIGHToneactualpendant detail only, notentirecard. Promoaccurateheading+wholecard, nottextonly. Websitequality.",
+      "sha256": "fab067092320a0ce9f2716422304eb63c2faa5b08fcdaf7fa902ad5d05074496",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3ba2d11c-5ddf-4a3e-920d-e5e27a61070a.png",
+      "grid_sha256": "f2ef589fa9b80a61edfa669dd103dca4429cb6c8382b33526c93222f24e3a311",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-3ba2d11c-5ddf-4a3e-920d-e5e27a61070a.png",
+      "prompt": "Edit ACTUAL referenced source into ONE1536x1024 3x2equal512cells:topWHITEbackground,lavendercreamstyled,lifestylevanity;bottomTIGHTstandaloneactualpendantmacro,promotionalheading \"Black and Gold Jewellery Set\",blankcream. ActualONEwhitejewellerycard completeassortment: SIXstudearrings/THREEpairs (clearcrystalpair,whitepearlpair,goldballpair), TWOseparategoldchainnecklaces eachonependant, TWOgoldhoopearrings andONEtriplerowgoldringatbottom. Preserveall11jewellerypieces exactcount shapes gold/white/clearcolours onONEcard inALLfourfullviews, not12setsadvertised. Necklace1black tulipbudpendant goldoutline+goldleaves, necklace2heartoutlineblackupperhalf andclearcrystal lowerhalf. Showentirecard withallsixstuds,2necklaces+pendants,2hoops+1ring. Removehand/plasticglare/price/warranty, maintainidentitynotgenericstock. Lifestylewholecardonvanity, no singlepiece substitute. Macro TIGHToneactualpendant detail only, notentirecard. Promoaccurateheading+wholecard, nottextonly. Websitequality.",
+      "sha256": "c8a4c4346b6868c5b293591ca4a2b929310c82a1cbed887035dd3512816d049f",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3ba2d11c-5ddf-4a3e-920d-e5e27a61070a.png",
+      "grid_sha256": "f2ef589fa9b80a61edfa669dd103dca4429cb6c8382b33526c93222f24e3a311",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

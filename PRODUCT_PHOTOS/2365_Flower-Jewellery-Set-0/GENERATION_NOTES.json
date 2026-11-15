@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260822-WA0067.jpg": "2887f0fdc88841464253d5f0e2ccd7573882dc5a25b380da207fdbcfb000482a"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-8a435485-b2a1-43d8-89cc-080218d9f677.png",
+      "source_output": "/workspace/generated_images/exec-8a435485-b2a1-43d8-89cc-080218d9f677.png",
+      "sha256": "051a8e43b4a8bd958072a38dd4f321ccbd8bf4522184b5453e6350983d1810cd",
+      "prompt": "Native actual original-referenced edit only. NEW realistic websitephotography1536x1024landscape exact3columns x2rows512squarecells no gutters/borders/labels. Top-left ONE COMPLETE original jewellerycard white. Top-middle samewholecard lavender/cream. Top-right samewholecard dressingtablelifestyle noextra jewellery. Bottom-left standalone TIGHT realpendant/rhinestone/chainpart macro NOT wholecard. Bottom-middle samewholecard promo accurateheading 'Black Accent Jewellery Set'. Bottom-right blankcream unused. Preserve EXACT original visibleitems/cardlayout count shapes colours materials:6studs atcardtop(threepairs:clearrhinestonesleft,whitepearlsmiddle,goldballsright),TWO thinGOLD chains/pendants below, and THREEgoldtone rings atcardbottom. White Fashion Jewelry card with original clearwrap. Do not turnstuds intonecklaces or addcopies from12sets supplierprice. Remove hand/price/store/background. Entirecard fullyinframe infullviews. No invented claims.\nFolderwrong noflower: TOPpendant is smallHEXAGON goldedge blackborder with centreclear-rhinestonecluster. LOWER pendant is a HEART, upperhalfclear pave crystals lowerhalfsolidBLACK. Bottomrings leftandcentre are goldlinkedOPENHEART design, rightis multi-bandgoldring. Preserve twoNECKLACES and3rings sourceexactplacement.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-8a435485-b2a1-43d8-89cc-080218d9f677.png",
+      "prompt": "Native actual original-referenced edit only. NEW realistic websitephotography1536x1024landscape exact3columns x2rows512squarecells no gutters/borders/labels. Top-left ONE COMPLETE original jewellerycard white. Top-middle samewholecard lavender/cream. Top-right samewholecard dressingtablelifestyle noextra jewellery. Bottom-left standalone TIGHT realpendant/rhinestone/chainpart macro NOT wholecard. Bottom-middle samewholecard promo accurateheading 'Black Accent Jewellery Set'. Bottom-right blankcream unused. Preserve EXACT original visibleitems/cardlayout count shapes colours materials:6studs atcardtop(threepairs:clearrhinestonesleft,whitepearlsmiddle,goldballsright),TWO thinGOLD chains/pendants below, and THREEgoldtone rings atcardbottom. White Fashion Jewelry card with original clearwrap. Do not turnstuds intonecklaces or addcopies from12sets supplierprice. Remove hand/price/store/background. Entirecard fullyinframe infullviews. No invented claims.\nFolderwrong noflower: TOPpendant is smallHEXAGON goldedge blackborder with centreclear-rhinestonecluster. LOWER pendant is a HEART, upperhalfclear pave crystals lowerhalfsolidBLACK. Bottomrings leftandcentre are goldlinkedOPENHEART design, rightis multi-bandgoldring. Preserve twoNECKLACES and3rings sourceexactplacement.",
+      "sha256": "b3ccf580c3da5039845b45f208fa60df7473aa453be1ca19b88a1661e21d6716",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-8a435485-b2a1-43d8-89cc-080218d9f677.png",
+      "grid_sha256": "051a8e43b4a8bd958072a38dd4f321ccbd8bf4522184b5453e6350983d1810cd",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-8a435485-b2a1-43d8-89cc-080218d9f677.png",
+      "prompt": "Native actual original-referenced edit only. NEW realistic websitephotography1536x1024landscape exact3columns x2rows512squarecells no gutters/borders/labels. Top-left ONE COMPLETE original jewellerycard white. Top-middle samewholecard lavender/cream. Top-right samewholecard dressingtablelifestyle noextra jewellery. Bottom-left standalone TIGHT realpendant/rhinestone/chainpart macro NOT wholecard. Bottom-middle samewholecard promo accurateheading 'Black Accent Jewellery Set'. Bottom-right blankcream unused. Preserve EXACT original visibleitems/cardlayout count shapes colours materials:6studs atcardtop(threepairs:clearrhinestonesleft,whitepearlsmiddle,goldballsright),TWO thinGOLD chains/pendants below, and THREEgoldtone rings atcardbottom. White Fashion Jewelry card with original clearwrap. Do not turnstuds intonecklaces or addcopies from12sets supplierprice. Remove hand/price/store/background. Entirecard fullyinframe infullviews. No invented claims.\nFolderwrong noflower: TOPpendant is smallHEXAGON goldedge blackborder with centreclear-rhinestonecluster. LOWER pendant is a HEART, upperhalfclear pave crystals lowerhalfsolidBLACK. Bottomrings leftandcentre are goldlinkedOPENHEART design, rightis multi-bandgoldring. Preserve twoNECKLACES and3rings sourceexactplacement.",
+      "sha256": "c218492048cb949de80994bdcb076444c1f6bec8f13f84b11898d76fdea5fdb4",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-8a435485-b2a1-43d8-89cc-080218d9f677.png",
+      "grid_sha256": "051a8e43b4a8bd958072a38dd4f321ccbd8bf4522184b5453e6350983d1810cd",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-8a435485-b2a1-43d8-89cc-080218d9f677.png",
+      "prompt": "Native actual original-referenced edit only. NEW realistic websitephotography1536x1024landscape exact3columns x2rows512squarecells no gutters/borders/labels. Top-left ONE COMPLETE original jewellerycard white. Top-middle samewholecard lavender/cream. Top-right samewholecard dressingtablelifestyle noextra jewellery. Bottom-left standalone TIGHT realpendant/rhinestone/chainpart macro NOT wholecard. Bottom-middle samewholecard promo accurateheading 'Black Accent Jewellery Set'. Bottom-right blankcream unused. Preserve EXACT original visibleitems/cardlayout count shapes colours materials:6studs atcardtop(threepairs:clearrhinestonesleft,whitepearlsmiddle,goldballsright),TWO thinGOLD chains/pendants below, and THREEgoldtone rings atcardbottom. White Fashion Jewelry card with original clearwrap. Do not turnstuds intonecklaces or addcopies from12sets supplierprice. Remove hand/price/store/background. Entirecard fullyinframe infullviews. No invented claims.\nFolderwrong noflower: TOPpendant is smallHEXAGON goldedge blackborder with centreclear-rhinestonecluster. LOWER pendant is a HEART, upperhalfclear pave crystals lowerhalfsolidBLACK. Bottomrings leftandcentre are goldlinkedOPENHEART design, rightis multi-bandgoldring. Preserve twoNECKLACES and3rings sourceexactplacement.",
+      "sha256": "52f873a08756d43377b8af2395b762f8889215211b62183d8ac790348210365d",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-8a435485-b2a1-43d8-89cc-080218d9f677.png",
+      "grid_sha256": "051a8e43b4a8bd958072a38dd4f321ccbd8bf4522184b5453e6350983d1810cd",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-8a435485-b2a1-43d8-89cc-080218d9f677.png",
+      "prompt": "Native actual original-referenced edit only. NEW realistic websitephotography1536x1024landscape exact3columns x2rows512squarecells no gutters/borders/labels. Top-left ONE COMPLETE original jewellerycard white. Top-middle samewholecard lavender/cream. Top-right samewholecard dressingtablelifestyle noextra jewellery. Bottom-left standalone TIGHT realpendant/rhinestone/chainpart macro NOT wholecard. Bottom-middle samewholecard promo accurateheading 'Black Accent Jewellery Set'. Bottom-right blankcream unused. Preserve EXACT original visibleitems/cardlayout count shapes colours materials:6studs atcardtop(threepairs:clearrhinestonesleft,whitepearlsmiddle,goldballsright),TWO thinGOLD chains/pendants below, and THREEgoldtone rings atcardbottom. White Fashion Jewelry card with original clearwrap. Do not turnstuds intonecklaces or addcopies from12sets supplierprice. Remove hand/price/store/background. Entirecard fullyinframe infullviews. No invented claims.\nFolderwrong noflower: TOPpendant is smallHEXAGON goldedge blackborder with centreclear-rhinestonecluster. LOWER pendant is a HEART, upperhalfclear pave crystals lowerhalfsolidBLACK. Bottomrings leftandcentre are goldlinkedOPENHEART design, rightis multi-bandgoldring. Preserve twoNECKLACES and3rings sourceexactplacement.",
+      "sha256": "55144ebc358935fd242e0efbf281ad7fb6fb299f11021d145b59658b5a256678",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-8a435485-b2a1-43d8-89cc-080218d9f677.png",
+      "grid_sha256": "051a8e43b4a8bd958072a38dd4f321ccbd8bf4522184b5453e6350983d1810cd",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-8a435485-b2a1-43d8-89cc-080218d9f677.png",
+      "prompt": "Native actual original-referenced edit only. NEW realistic websitephotography1536x1024landscape exact3columns x2rows512squarecells no gutters/borders/labels. Top-left ONE COMPLETE original jewellerycard white. Top-middle samewholecard lavender/cream. Top-right samewholecard dressingtablelifestyle noextra jewellery. Bottom-left standalone TIGHT realpendant/rhinestone/chainpart macro NOT wholecard. Bottom-middle samewholecard promo accurateheading 'Black Accent Jewellery Set'. Bottom-right blankcream unused. Preserve EXACT original visibleitems/cardlayout count shapes colours materials:6studs atcardtop(threepairs:clearrhinestonesleft,whitepearlsmiddle,goldballsright),TWO thinGOLD chains/pendants below, and THREEgoldtone rings atcardbottom. White Fashion Jewelry card with original clearwrap. Do not turnstuds intonecklaces or addcopies from12sets supplierprice. Remove hand/price/store/background. Entirecard fullyinframe infullviews. No invented claims.\nFolderwrong noflower: TOPpendant is smallHEXAGON goldedge blackborder with centreclear-rhinestonecluster. LOWER pendant is a HEART, upperhalfclear pave crystals lowerhalfsolidBLACK. Bottomrings leftandcentre are goldlinkedOPENHEART design, rightis multi-bandgoldring. Preserve twoNECKLACES and3rings sourceexactplacement.",
+      "sha256": "c15070ccf9eaa810b8ee0e2ebde47eaf462513ec300e29b177069f1e2373ba79",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-8a435485-b2a1-43d8-89cc-080218d9f677.png",
+      "grid_sha256": "051a8e43b4a8bd958072a38dd4f321ccbd8bf4522184b5453e6350983d1810cd",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

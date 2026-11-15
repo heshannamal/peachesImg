@@ -1,0 +1,23 @@
+{
+  "status": "blocked_moderation",
+  "error": {
+    "http_status": 400,
+    "code": "moderation_blocked",
+    "type": "image_generation_user_error",
+    "moderation_stage": "output",
+    "categories": [
+      "other"
+    ],
+    "request_id": "19e34746-7392-4857-9b11-7261266e55d0",
+    "message": "Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 19e34746-7392-4857-9b11-7261266e55d0."
+  },
+  "prompt": "Edit attached actual product reference into ONE1536x1024 website image EXACT3columns x2rows of512square cells without gutter/border. Whole assortment is EXACTLY TWO rectangular plush zip pouches, ONE medium royal blue and ONE pale sky blue. Both have actual embroidered Stitch face with big black eyes/nose and two long pink ears, small turquoise Stitch word, matching zipper and hanging tab, silver zipper pull. Preserve TWO pouches and original embroidery identity, colours, rectangular proportions and plush texture. The original diptych shows two colour variants; put BOTH actual pouches together in each full view. Top left both on pure white; top middle both lavender/cream styled; top right both simple desk lifestyle with no extra pouch; bottom left standalone TIGHT real-part macro of actual embroidered stitches/plush/zipper, no need full assortment; bottom middle both with accurate heading Plush Character Pouches; bottom right blank cream. Remove hand/store/price overlay. No invented accessories, extra products or unsupported claims. Crisp photorealistic. Nothing crosses cell boundaries.",
+  "records": [
+    {
+      "kind": "exact_prompt_file",
+      "saved_file": "Generation_Prompts/initial.txt",
+      "sha256": "c1fd48f39494dbca6a682a4762b9cb50f96e7bdd7d253c453e97ce32043576a8",
+      "checked": false
+    }
+  ]
+}

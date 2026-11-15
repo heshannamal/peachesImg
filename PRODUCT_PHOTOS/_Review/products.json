@@ -28292,9 +28292,9 @@
     "source_image_ids": [
       2592
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -28304,35 +28304,39 @@
     "source_image_ids": [
       2593
     ],
-    "new_images": 0,
+    "new_images": 4,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2318",
-    "folder": "2318_Pearl-Style-Scrunchies-0",
+    "folder": "2318_Pearl-Style-Scrunchies-1",
     "source_image_ids": [
       2594
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2319",
-    "folder": "2319_Pearl-Style-Hair-Ties-0",
+    "folder": "2319_Pearl-Style-Hair-Ties-1",
     "source_image_ids": [
       2595
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2320",

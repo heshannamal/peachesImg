@@ -8,10 +8,7 @@
     ],
     "batch5_worker2": [],
     "batch5_worker3": [],
-    "batch5_worker5": [
-      "2319",
-      "2318"
-    ],
+    "batch5_worker5": [],
     "batch5_worker4": []
   },
   "assignment_history": [
@@ -349,6 +346,13 @@
       "product_ids": [
         "2321",
         "2320"
+      ]
+    },
+    {
+      "worker": "batch5_worker5",
+      "product_ids": [
+        "2319",
+        "2318"
       ]
     }
   ]

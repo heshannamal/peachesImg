@@ -28568,9 +28568,9 @@
     "source_image_ids": [
       2615
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -28616,9 +28616,9 @@
     "source_image_ids": [
       2619
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -28629,9 +28629,9 @@
       2620,
       2621
     ],
-    "new_images": 0,
+    "new_images": 2,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -28641,9 +28641,9 @@
     "source_image_ids": [
       2622
     ],
-    "new_images": 0,
+    "new_images": 2,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -28677,27 +28677,31 @@
   },
   {
     "product_id": "2348",
-    "folder": "2348_Pastel-Animal-Earmuffs-0",
+    "folder": "2348_Pastel-Animal-Earmuffs-1",
     "source_image_ids": [
       2625
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2349",
-    "folder": "2349_Cream-Animal-Earmuffs-0",
+    "folder": "2349_Cream-Animal-Earmuffs-1",
     "source_image_ids": [
       2626
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2350",

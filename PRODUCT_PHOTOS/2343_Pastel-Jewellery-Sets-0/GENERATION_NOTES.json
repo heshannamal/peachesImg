@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260819-WA0399.jpg": "665f1e38b94d87db5727e8dd66844ce598a3f9e3d926ce251955c05b1e679d1d"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-edd6a056-a89b-4372-87ea-e4da3e11962a.png",
+      "source_output": "/workspace/generated_images/exec-edd6a056-a89b-4372-87ea-e4da3e11962a.png",
+      "sha256": "7097ee36a7001712055cd478ae6d2689a3b9e2d5ab54de83f2291dbea823342f",
+      "prompt": "Native edit referenced actualoriginal only. Create NEW realisticwebsitephotography1536x1024landscape exact3columns x2rows512squarecells no gutters/borders/labels. Top-left entireTHREE-CARDassortment pureWHITEbackground #FFFFFF (NOT sourcegrey). Top-middle same3cards lavender/cream. Top-right same3cards vanitylifestyle noextra jewellery. Bottom-left standalone TIGHT actualpendant/stones/chainpart macro, notwholeassortment. Bottom-middle same3cards promo accurateheading 'Pastel Sunburst Jewellery Sets'. Bottom-right blankcream. Sourcecollage is THREEdistinctvariantcards notthreeangles ofsamecard. Exactly3separate smallwhite FashionJewelry cards inclearwrap eachSIXstuds(threepairs),ONEgoldnecklacependant,ONEgoldring. Total18studs3necklaces3rings. Preserve eachcard variant and sourcearrangements, goldmetal/stonecolours/shapes. Do notgenerate12sets fromsuppliertext. Remove hands/collagegrid/price/greybackground. Full3cards entirelywithin eachfullview.\nPendanteachSUNFLOWER/SUNBURSTshaped with goldpetalborder+roundcentrestone. Threevariants: PINKcentre, PALEBLUEiridescentcentre, LIGHTGREENiridescentcentre. Eachcard6studs originallyrose/heartgoldpair+whitepearlpair+iridescentroundpair (positionsvary), onecrownshapegoldring. Preserve actualdifferentstudlayouts/card source.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-edd6a056-a89b-4372-87ea-e4da3e11962a.png",
+      "prompt": "Native edit referenced actualoriginal only. Create NEW realisticwebsitephotography1536x1024landscape exact3columns x2rows512squarecells no gutters/borders/labels. Top-left entireTHREE-CARDassortment pureWHITEbackground #FFFFFF (NOT sourcegrey). Top-middle same3cards lavender/cream. Top-right same3cards vanitylifestyle noextra jewellery. Bottom-left standalone TIGHT actualpendant/stones/chainpart macro, notwholeassortment. Bottom-middle same3cards promo accurateheading 'Pastel Sunburst Jewellery Sets'. Bottom-right blankcream. Sourcecollage is THREEdistinctvariantcards notthreeangles ofsamecard. Exactly3separate smallwhite FashionJewelry cards inclearwrap eachSIXstuds(threepairs),ONEgoldnecklacependant,ONEgoldring. Total18studs3necklaces3rings. Preserve eachcard variant and sourcearrangements, goldmetal/stonecolours/shapes. Do notgenerate12sets fromsuppliertext. Remove hands/collagegrid/price/greybackground. Full3cards entirelywithin eachfullview.\nPendanteachSUNFLOWER/SUNBURSTshaped with goldpetalborder+roundcentrestone. Threevariants: PINKcentre, PALEBLUEiridescentcentre, LIGHTGREENiridescentcentre. Eachcard6studs originallyrose/heartgoldpair+whitepearlpair+iridescentroundpair (positionsvary), onecrownshapegoldring. Preserve actualdifferentstudlayouts/card source.",
+      "sha256": "89bb56b629d4e524a8dfc139e94ba718b49f5e4ba2822f71a7e49d511af14e40",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-edd6a056-a89b-4372-87ea-e4da3e11962a.png",
+      "grid_sha256": "7097ee36a7001712055cd478ae6d2689a3b9e2d5ab54de83f2291dbea823342f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-edd6a056-a89b-4372-87ea-e4da3e11962a.png",
+      "prompt": "Native edit referenced actualoriginal only. Create NEW realisticwebsitephotography1536x1024landscape exact3columns x2rows512squarecells no gutters/borders/labels. Top-left entireTHREE-CARDassortment pureWHITEbackground #FFFFFF (NOT sourcegrey). Top-middle same3cards lavender/cream. Top-right same3cards vanitylifestyle noextra jewellery. Bottom-left standalone TIGHT actualpendant/stones/chainpart macro, notwholeassortment. Bottom-middle same3cards promo accurateheading 'Pastel Sunburst Jewellery Sets'. Bottom-right blankcream. Sourcecollage is THREEdistinctvariantcards notthreeangles ofsamecard. Exactly3separate smallwhite FashionJewelry cards inclearwrap eachSIXstuds(threepairs),ONEgoldnecklacependant,ONEgoldring. Total18studs3necklaces3rings. Preserve eachcard variant and sourcearrangements, goldmetal/stonecolours/shapes. Do notgenerate12sets fromsuppliertext. Remove hands/collagegrid/price/greybackground. Full3cards entirelywithin eachfullview.\nPendanteachSUNFLOWER/SUNBURSTshaped with goldpetalborder+roundcentrestone. Threevariants: PINKcentre, PALEBLUEiridescentcentre, LIGHTGREENiridescentcentre. Eachcard6studs originallyrose/heartgoldpair+whitepearlpair+iridescentroundpair (positionsvary), onecrownshapegoldring. Preserve actualdifferentstudlayouts/card source.",
+      "sha256": "04c9651658a12e19c3aced9b3cf63a5ff985fb5cdb69f34311896ecfad481c79",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-edd6a056-a89b-4372-87ea-e4da3e11962a.png",
+      "grid_sha256": "7097ee36a7001712055cd478ae6d2689a3b9e2d5ab54de83f2291dbea823342f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-edd6a056-a89b-4372-87ea-e4da3e11962a.png",
+      "prompt": "Native edit referenced actualoriginal only. Create NEW realisticwebsitephotography1536x1024landscape exact3columns x2rows512squarecells no gutters/borders/labels. Top-left entireTHREE-CARDassortment pureWHITEbackground #FFFFFF (NOT sourcegrey). Top-middle same3cards lavender/cream. Top-right same3cards vanitylifestyle noextra jewellery. Bottom-left standalone TIGHT actualpendant/stones/chainpart macro, notwholeassortment. Bottom-middle same3cards promo accurateheading 'Pastel Sunburst Jewellery Sets'. Bottom-right blankcream. Sourcecollage is THREEdistinctvariantcards notthreeangles ofsamecard. Exactly3separate smallwhite FashionJewelry cards inclearwrap eachSIXstuds(threepairs),ONEgoldnecklacependant,ONEgoldring. Total18studs3necklaces3rings. Preserve eachcard variant and sourcearrangements, goldmetal/stonecolours/shapes. Do notgenerate12sets fromsuppliertext. Remove hands/collagegrid/price/greybackground. Full3cards entirelywithin eachfullview.\nPendanteachSUNFLOWER/SUNBURSTshaped with goldpetalborder+roundcentrestone. Threevariants: PINKcentre, PALEBLUEiridescentcentre, LIGHTGREENiridescentcentre. Eachcard6studs originallyrose/heartgoldpair+whitepearlpair+iridescentroundpair (positionsvary), onecrownshapegoldring. Preserve actualdifferentstudlayouts/card source.",
+      "sha256": "5f3829b3874c4f80e8151d7ecc31a12bd5e4ea87b44df72c6679e69b9f2395d5",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-edd6a056-a89b-4372-87ea-e4da3e11962a.png",
+      "grid_sha256": "7097ee36a7001712055cd478ae6d2689a3b9e2d5ab54de83f2291dbea823342f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-edd6a056-a89b-4372-87ea-e4da3e11962a.png",
+      "prompt": "Native edit referenced actualoriginal only. Create NEW realisticwebsitephotography1536x1024landscape exact3columns x2rows512squarecells no gutters/borders/labels. Top-left entireTHREE-CARDassortment pureWHITEbackground #FFFFFF (NOT sourcegrey). Top-middle same3cards lavender/cream. Top-right same3cards vanitylifestyle noextra jewellery. Bottom-left standalone TIGHT actualpendant/stones/chainpart macro, notwholeassortment. Bottom-middle same3cards promo accurateheading 'Pastel Sunburst Jewellery Sets'. Bottom-right blankcream. Sourcecollage is THREEdistinctvariantcards notthreeangles ofsamecard. Exactly3separate smallwhite FashionJewelry cards inclearwrap eachSIXstuds(threepairs),ONEgoldnecklacependant,ONEgoldring. Total18studs3necklaces3rings. Preserve eachcard variant and sourcearrangements, goldmetal/stonecolours/shapes. Do notgenerate12sets fromsuppliertext. Remove hands/collagegrid/price/greybackground. Full3cards entirelywithin eachfullview.\nPendanteachSUNFLOWER/SUNBURSTshaped with goldpetalborder+roundcentrestone. Threevariants: PINKcentre, PALEBLUEiridescentcentre, LIGHTGREENiridescentcentre. Eachcard6studs originallyrose/heartgoldpair+whitepearlpair+iridescentroundpair (positionsvary), onecrownshapegoldring. Preserve actualdifferentstudlayouts/card source.",
+      "sha256": "fa6bab06c8a0dd927bbb452e4359446e6b25ae0b5979a37b34c752b2f1899c9d",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-edd6a056-a89b-4372-87ea-e4da3e11962a.png",
+      "grid_sha256": "7097ee36a7001712055cd478ae6d2689a3b9e2d5ab54de83f2291dbea823342f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-edd6a056-a89b-4372-87ea-e4da3e11962a.png",
+      "prompt": "Native edit referenced actualoriginal only. Create NEW realisticwebsitephotography1536x1024landscape exact3columns x2rows512squarecells no gutters/borders/labels. Top-left entireTHREE-CARDassortment pureWHITEbackground #FFFFFF (NOT sourcegrey). Top-middle same3cards lavender/cream. Top-right same3cards vanitylifestyle noextra jewellery. Bottom-left standalone TIGHT actualpendant/stones/chainpart macro, notwholeassortment. Bottom-middle same3cards promo accurateheading 'Pastel Sunburst Jewellery Sets'. Bottom-right blankcream. Sourcecollage is THREEdistinctvariantcards notthreeangles ofsamecard. Exactly3separate smallwhite FashionJewelry cards inclearwrap eachSIXstuds(threepairs),ONEgoldnecklacependant,ONEgoldring. Total18studs3necklaces3rings. Preserve eachcard variant and sourcearrangements, goldmetal/stonecolours/shapes. Do notgenerate12sets fromsuppliertext. Remove hands/collagegrid/price/greybackground. Full3cards entirelywithin eachfullview.\nPendanteachSUNFLOWER/SUNBURSTshaped with goldpetalborder+roundcentrestone. Threevariants: PINKcentre, PALEBLUEiridescentcentre, LIGHTGREENiridescentcentre. Eachcard6studs originallyrose/heartgoldpair+whitepearlpair+iridescentroundpair (positionsvary), onecrownshapegoldring. Preserve actualdifferentstudlayouts/card source.",
+      "sha256": "5879cdba0edbfde1af7bc85a7165f16ba4a8089b2b4cadfd08bac25bb6b6a315",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-edd6a056-a89b-4372-87ea-e4da3e11962a.png",
+      "grid_sha256": "7097ee36a7001712055cd478ae6d2689a3b9e2d5ab54de83f2291dbea823342f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

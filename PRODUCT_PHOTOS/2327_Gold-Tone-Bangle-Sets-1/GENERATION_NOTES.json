@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260815-WA0130.jpg": "aa84e9ac9616adbc365c656e80b46b08ad90de6696d8381c9fa1bb7f224341c3"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-e7232525-e025-4912-9b6f-4d65f0604852.png",
+      "source_output": "/workspace/generated_images/exec-e7232525-e025-4912-9b6f-4d65f0604852.png",
+      "sha256": "fac8c3e07f24a738ed672a8bf99a8459d35b62aaae2834c97553bf23d63c173c",
+      "prompt": "Native ORIGINALreferenced edit ONE1536x1024 exact3x2grid512cells:TOPwhitebackground,lavendercreamstyled,lifestyletable;BOTTOMtightstandaloneREALPARTmacro,promotionalheading\"Gold Tone Bangle Box\",blankcream. ONEopenwhitecardboardbox containingSIXTEENwrappedgoldbangleSTACKS arrangedFOURcolumnsFOURrows. Ad says24sets butactualphotoBOXhas4x4bundles16, useactualvisiblebox. Eachstack manythintexturedgoldwirebangles, preserveclearwrappers/goldcolour/ribbedetchedpattern. No looseaddedbangles. FullviewsWHITE/STYLED/LIFESTYLE/PROMO mustshowWHOLEASSORTMENT actualcountandallproductparts, generousmargins. Notoneitemsubstitute. Removehands/store/price/adclaims/collageborders. MacroTIGHTgoldbangletexture orplushneckseamactualpartonly notwholeproduct. PromoSMALLaccurateheading+wholeassortment nottextonly. Lifestylewholeassortmentonvanity/bedside, no people. Websitequalitypreservecountshapescolours.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-e7232525-e025-4912-9b6f-4d65f0604852.png",
+      "prompt": "Native ORIGINALreferenced edit ONE1536x1024 exact3x2grid512cells:TOPwhitebackground,lavendercreamstyled,lifestyletable;BOTTOMtightstandaloneREALPARTmacro,promotionalheading\"Gold Tone Bangle Box\",blankcream. ONEopenwhitecardboardbox containingSIXTEENwrappedgoldbangleSTACKS arrangedFOURcolumnsFOURrows. Ad says24sets butactualphotoBOXhas4x4bundles16, useactualvisiblebox. Eachstack manythintexturedgoldwirebangles, preserveclearwrappers/goldcolour/ribbedetchedpattern. No looseaddedbangles. FullviewsWHITE/STYLED/LIFESTYLE/PROMO mustshowWHOLEASSORTMENT actualcountandallproductparts, generousmargins. Notoneitemsubstitute. Removehands/store/price/adclaims/collageborders. MacroTIGHTgoldbangletexture orplushneckseamactualpartonly notwholeproduct. PromoSMALLaccurateheading+wholeassortment nottextonly. Lifestylewholeassortmentonvanity/bedside, no people. Websitequalitypreservecountshapescolours.",
+      "sha256": "1eae864675d6415eb3ee7596ef25ff4ab3cafb7d5a544dcab6cc8f8bd4230248",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e7232525-e025-4912-9b6f-4d65f0604852.png",
+      "grid_sha256": "fac8c3e07f24a738ed672a8bf99a8459d35b62aaae2834c97553bf23d63c173c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actualbox16wrappedgoldbanglestacks4x4 preserved, notadvertised24; white/styled/lifestylewholebox, realtexturedgoldmacro,accurateheading."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-e7232525-e025-4912-9b6f-4d65f0604852.png",
+      "prompt": "Native ORIGINALreferenced edit ONE1536x1024 exact3x2grid512cells:TOPwhitebackground,lavendercreamstyled,lifestyletable;BOTTOMtightstandaloneREALPARTmacro,promotionalheading\"Gold Tone Bangle Box\",blankcream. ONEopenwhitecardboardbox containingSIXTEENwrappedgoldbangleSTACKS arrangedFOURcolumnsFOURrows. Ad says24sets butactualphotoBOXhas4x4bundles16, useactualvisiblebox. Eachstack manythintexturedgoldwirebangles, preserveclearwrappers/goldcolour/ribbedetchedpattern. No looseaddedbangles. FullviewsWHITE/STYLED/LIFESTYLE/PROMO mustshowWHOLEASSORTMENT actualcountandallproductparts, generousmargins. Notoneitemsubstitute. Removehands/store/price/adclaims/collageborders. MacroTIGHTgoldbangletexture orplushneckseamactualpartonly notwholeproduct. PromoSMALLaccurateheading+wholeassortment nottextonly. Lifestylewholeassortmentonvanity/bedside, no people. Websitequalitypreservecountshapescolours.",
+      "sha256": "35a2d9b34bb105a0c7e083477e2f9e62d64ec8454c6aa41a33efa7aa322bfa97",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e7232525-e025-4912-9b6f-4d65f0604852.png",
+      "grid_sha256": "fac8c3e07f24a738ed672a8bf99a8459d35b62aaae2834c97553bf23d63c173c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actualbox16wrappedgoldbanglestacks4x4 preserved, notadvertised24; white/styled/lifestylewholebox, realtexturedgoldmacro,accurateheading."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-e7232525-e025-4912-9b6f-4d65f0604852.png",
+      "prompt": "Native ORIGINALreferenced edit ONE1536x1024 exact3x2grid512cells:TOPwhitebackground,lavendercreamstyled,lifestyletable;BOTTOMtightstandaloneREALPARTmacro,promotionalheading\"Gold Tone Bangle Box\",blankcream. ONEopenwhitecardboardbox containingSIXTEENwrappedgoldbangleSTACKS arrangedFOURcolumnsFOURrows. Ad says24sets butactualphotoBOXhas4x4bundles16, useactualvisiblebox. Eachstack manythintexturedgoldwirebangles, preserveclearwrappers/goldcolour/ribbedetchedpattern. No looseaddedbangles. FullviewsWHITE/STYLED/LIFESTYLE/PROMO mustshowWHOLEASSORTMENT actualcountandallproductparts, generousmargins. Notoneitemsubstitute. Removehands/store/price/adclaims/collageborders. MacroTIGHTgoldbangletexture orplushneckseamactualpartonly notwholeproduct. PromoSMALLaccurateheading+wholeassortment nottextonly. Lifestylewholeassortmentonvanity/bedside, no people. Websitequalitypreservecountshapescolours.",
+      "sha256": "a3e55c287d87ec5dbe84e0be54c53bab9b7c66b8dd87bced793f742eb627f7ee",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e7232525-e025-4912-9b6f-4d65f0604852.png",
+      "grid_sha256": "fac8c3e07f24a738ed672a8bf99a8459d35b62aaae2834c97553bf23d63c173c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actualbox16wrappedgoldbanglestacks4x4 preserved, notadvertised24; white/styled/lifestylewholebox, realtexturedgoldmacro,accurateheading."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-e7232525-e025-4912-9b6f-4d65f0604852.png",
+      "prompt": "Native ORIGINALreferenced edit ONE1536x1024 exact3x2grid512cells:TOPwhitebackground,lavendercreamstyled,lifestyletable;BOTTOMtightstandaloneREALPARTmacro,promotionalheading\"Gold Tone Bangle Box\",blankcream. ONEopenwhitecardboardbox containingSIXTEENwrappedgoldbangleSTACKS arrangedFOURcolumnsFOURrows. Ad says24sets butactualphotoBOXhas4x4bundles16, useactualvisiblebox. Eachstack manythintexturedgoldwirebangles, preserveclearwrappers/goldcolour/ribbedetchedpattern. No looseaddedbangles. FullviewsWHITE/STYLED/LIFESTYLE/PROMO mustshowWHOLEASSORTMENT actualcountandallproductparts, generousmargins. Notoneitemsubstitute. Removehands/store/price/adclaims/collageborders. MacroTIGHTgoldbangletexture orplushneckseamactualpartonly notwholeproduct. PromoSMALLaccurateheading+wholeassortment nottextonly. Lifestylewholeassortmentonvanity/bedside, no people. Websitequalitypreservecountshapescolours.",
+      "sha256": "4d67b52034c0b0497e0c5363091a719422e810a999d9037055e0a9d4812bb1ec",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e7232525-e025-4912-9b6f-4d65f0604852.png",
+      "grid_sha256": "fac8c3e07f24a738ed672a8bf99a8459d35b62aaae2834c97553bf23d63c173c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actualbox16wrappedgoldbanglestacks4x4 preserved, notadvertised24; white/styled/lifestylewholebox, realtexturedgoldmacro,accurateheading."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-e7232525-e025-4912-9b6f-4d65f0604852.png",
+      "prompt": "Native ORIGINALreferenced edit ONE1536x1024 exact3x2grid512cells:TOPwhitebackground,lavendercreamstyled,lifestyletable;BOTTOMtightstandaloneREALPARTmacro,promotionalheading\"Gold Tone Bangle Box\",blankcream. ONEopenwhitecardboardbox containingSIXTEENwrappedgoldbangleSTACKS arrangedFOURcolumnsFOURrows. Ad says24sets butactualphotoBOXhas4x4bundles16, useactualvisiblebox. Eachstack manythintexturedgoldwirebangles, preserveclearwrappers/goldcolour/ribbedetchedpattern. No looseaddedbangles. FullviewsWHITE/STYLED/LIFESTYLE/PROMO mustshowWHOLEASSORTMENT actualcountandallproductparts, generousmargins. Notoneitemsubstitute. Removehands/store/price/adclaims/collageborders. MacroTIGHTgoldbangletexture orplushneckseamactualpartonly notwholeproduct. PromoSMALLaccurateheading+wholeassortment nottextonly. Lifestylewholeassortmentonvanity/bedside, no people. Websitequalitypreservecountshapescolours.",
+      "sha256": "420571cb0ce005e0bd2cecc2a364b18a03b2f273679a72da23f457e4cac54dec",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e7232525-e025-4912-9b6f-4d65f0604852.png",
+      "grid_sha256": "fac8c3e07f24a738ed672a8bf99a8459d35b62aaae2834c97553bf23d63c173c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actualbox16wrappedgoldbanglestacks4x4 preserved, notadvertised24; white/styled/lifestylewholebox, realtexturedgoldmacro,accurateheading."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "originals_verified_against_frozen_plan": true
+}

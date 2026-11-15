@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260815-WA0131.jpg": "5d5f1566c4bf1ef9f4afe8f7d7bc4e3d38aa336dd50f1e34581d5bb078433501"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-d4562650-c7f1-420d-aa91-4de54002bf7b.png",
+      "source_output": "/workspace/generated_images/exec-d4562650-c7f1-420d-aa91-4de54002bf7b.png",
+      "sha256": "c1a5f7015b8e9e8c2dd164354aa5565883bea08daa15909efe61df92aabd535a",
+      "prompt": "Native actual original photo reference edit ONE1536x1024 exactborderless3x2equal512squaregrid. Top white fullboxedassortment / lavendercream styled fullboxedassortment / vanitylifestyle fullboxedassortment. Bottom standalone TIGHT macro actualglitterbanglebandtexture only / promo fullboxedassortment accurateheading / blankunused. WholeoriginalassortmentONEproduct: ONEopen shallow silverwhite rectangular box holding thin glittertextured/translucent colouredbanglestacks, arranged EXACTFOURcolumnsFOURvisiblepackedrows=16visiblebundles. Preserve visible packing/count/proportions and thin parallel banglelines; do not claim24sets or fabricate extra stacks from sourceadvertisingtext. Individual bangleswithinbundles partlyoccluded; preserve density/source. Remove sourceposter/text/price/podiumgraphic only, keep actual boxandcontents. Exactlefttorightcolours: clearwhite/silver,skyblue,brightyellow,hotpink, fourrowssamecolours. Heading Colourful Bangle Box. Macro actualblueglitterparallelbanglebands.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-d4562650-c7f1-420d-aa91-4de54002bf7b.png",
+      "prompt": "Native actual original photo reference edit ONE1536x1024 exactborderless3x2equal512squaregrid. Top white fullboxedassortment / lavendercream styled fullboxedassortment / vanitylifestyle fullboxedassortment. Bottom standalone TIGHT macro actualglitterbanglebandtexture only / promo fullboxedassortment accurateheading / blankunused. WholeoriginalassortmentONEproduct: ONEopen shallow silverwhite rectangular box holding thin glittertextured/translucent colouredbanglestacks, arranged EXACTFOURcolumnsFOURvisiblepackedrows=16visiblebundles. Preserve visible packing/count/proportions and thin parallel banglelines; do not claim24sets or fabricate extra stacks from sourceadvertisingtext. Individual bangleswithinbundles partlyoccluded; preserve density/source. Remove sourceposter/text/price/podiumgraphic only, keep actual boxandcontents. Exactlefttorightcolours: clearwhite/silver,skyblue,brightyellow,hotpink, fourrowssamecolours. Heading Colourful Bangle Box. Macro actualblueglitterparallelbanglebands.",
+      "sha256": "80c88e91a0ced816ec5b633ffc8c575f4f0040a38f1caf358c6d199324172f64",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-d4562650-c7f1-420d-aa91-4de54002bf7b.png",
+      "grid_sha256": "c1a5f7015b8e9e8c2dd164354aa5565883bea08daa15909efe61df92aabd535a",
+      "grid_dimensions": [
+        1254,
+        1254
+      ],
+      "crop_box": [
+        0,
+        0,
+        418,
+        627
+      ],
+      "visual_review": "Actual source compared with all five crops: one open box with four colour columns and four visible packed stack rows retained, matching thin glitter bangle texture and original colours. Individual bangle counts within packed stacks are occluded and not independently verified; source 24-set overlay claim deliberately not repeated. Full background/style/lifestyle/promo views and tight real band texture detail pass. True crop boxes follow actual grid dimensions."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-d4562650-c7f1-420d-aa91-4de54002bf7b.png",
+      "prompt": "Native actual original photo reference edit ONE1536x1024 exactborderless3x2equal512squaregrid. Top white fullboxedassortment / lavendercream styled fullboxedassortment / vanitylifestyle fullboxedassortment. Bottom standalone TIGHT macro actualglitterbanglebandtexture only / promo fullboxedassortment accurateheading / blankunused. WholeoriginalassortmentONEproduct: ONEopen shallow silverwhite rectangular box holding thin glittertextured/translucent colouredbanglestacks, arranged EXACTFOURcolumnsFOURvisiblepackedrows=16visiblebundles. Preserve visible packing/count/proportions and thin parallel banglelines; do not claim24sets or fabricate extra stacks from sourceadvertisingtext. Individual bangleswithinbundles partlyoccluded; preserve density/source. Remove sourceposter/text/price/podiumgraphic only, keep actual boxandcontents. Exactlefttorightcolours: clearwhite/silver,skyblue,brightyellow,hotpink, fourrowssamecolours. Heading Colourful Bangle Box. Macro actualblueglitterparallelbanglebands.",
+      "sha256": "2ccb52122d77a7fb4eb3a33804eb95cd7d47124f0c052a538a617cdb6ab7b51b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-d4562650-c7f1-420d-aa91-4de54002bf7b.png",
+      "grid_sha256": "c1a5f7015b8e9e8c2dd164354aa5565883bea08daa15909efe61df92aabd535a",
+      "grid_dimensions": [
+        1254,
+        1254
+      ],
+      "crop_box": [
+        418,
+        0,
+        836,
+        627
+      ],
+      "visual_review": "Actual source compared with all five crops: one open box with four colour columns and four visible packed stack rows retained, matching thin glitter bangle texture and original colours. Individual bangle counts within packed stacks are occluded and not independently verified; source 24-set overlay claim deliberately not repeated. Full background/style/lifestyle/promo views and tight real band texture detail pass. True crop boxes follow actual grid dimensions."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-d4562650-c7f1-420d-aa91-4de54002bf7b.png",
+      "prompt": "Native actual original photo reference edit ONE1536x1024 exactborderless3x2equal512squaregrid. Top white fullboxedassortment / lavendercream styled fullboxedassortment / vanitylifestyle fullboxedassortment. Bottom standalone TIGHT macro actualglitterbanglebandtexture only / promo fullboxedassortment accurateheading / blankunused. WholeoriginalassortmentONEproduct: ONEopen shallow silverwhite rectangular box holding thin glittertextured/translucent colouredbanglestacks, arranged EXACTFOURcolumnsFOURvisiblepackedrows=16visiblebundles. Preserve visible packing/count/proportions and thin parallel banglelines; do not claim24sets or fabricate extra stacks from sourceadvertisingtext. Individual bangleswithinbundles partlyoccluded; preserve density/source. Remove sourceposter/text/price/podiumgraphic only, keep actual boxandcontents. Exactlefttorightcolours: clearwhite/silver,skyblue,brightyellow,hotpink, fourrowssamecolours. Heading Colourful Bangle Box. Macro actualblueglitterparallelbanglebands.",
+      "sha256": "cf798e5dbfb9f3e7efe2760531ee4b4f48bbc8c65239b7098849922f5333d947",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-d4562650-c7f1-420d-aa91-4de54002bf7b.png",
+      "grid_sha256": "c1a5f7015b8e9e8c2dd164354aa5565883bea08daa15909efe61df92aabd535a",
+      "grid_dimensions": [
+        1254,
+        1254
+      ],
+      "crop_box": [
+        836,
+        0,
+        1254,
+        627
+      ],
+      "visual_review": "Actual source compared with all five crops: one open box with four colour columns and four visible packed stack rows retained, matching thin glitter bangle texture and original colours. Individual bangle counts within packed stacks are occluded and not independently verified; source 24-set overlay claim deliberately not repeated. Full background/style/lifestyle/promo views and tight real band texture detail pass. True crop boxes follow actual grid dimensions."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-d4562650-c7f1-420d-aa91-4de54002bf7b.png",
+      "prompt": "Native actual original photo reference edit ONE1536x1024 exactborderless3x2equal512squaregrid. Top white fullboxedassortment / lavendercream styled fullboxedassortment / vanitylifestyle fullboxedassortment. Bottom standalone TIGHT macro actualglitterbanglebandtexture only / promo fullboxedassortment accurateheading / blankunused. WholeoriginalassortmentONEproduct: ONEopen shallow silverwhite rectangular box holding thin glittertextured/translucent colouredbanglestacks, arranged EXACTFOURcolumnsFOURvisiblepackedrows=16visiblebundles. Preserve visible packing/count/proportions and thin parallel banglelines; do not claim24sets or fabricate extra stacks from sourceadvertisingtext. Individual bangleswithinbundles partlyoccluded; preserve density/source. Remove sourceposter/text/price/podiumgraphic only, keep actual boxandcontents. Exactlefttorightcolours: clearwhite/silver,skyblue,brightyellow,hotpink, fourrowssamecolours. Heading Colourful Bangle Box. Macro actualblueglitterparallelbanglebands.",
+      "sha256": "9cd6dc96a5f78865488c8f9668e96edb663ec20ceccc4051032b5ac9b188d09c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-d4562650-c7f1-420d-aa91-4de54002bf7b.png",
+      "grid_sha256": "c1a5f7015b8e9e8c2dd164354aa5565883bea08daa15909efe61df92aabd535a",
+      "grid_dimensions": [
+        1254,
+        1254
+      ],
+      "crop_box": [
+        0,
+        627,
+        418,
+        1254
+      ],
+      "visual_review": "Actual source compared with all five crops: one open box with four colour columns and four visible packed stack rows retained, matching thin glitter bangle texture and original colours. Individual bangle counts within packed stacks are occluded and not independently verified; source 24-set overlay claim deliberately not repeated. Full background/style/lifestyle/promo views and tight real band texture detail pass. True crop boxes follow actual grid dimensions."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-d4562650-c7f1-420d-aa91-4de54002bf7b.png",
+      "prompt": "Native actual original photo reference edit ONE1536x1024 exactborderless3x2equal512squaregrid. Top white fullboxedassortment / lavendercream styled fullboxedassortment / vanitylifestyle fullboxedassortment. Bottom standalone TIGHT macro actualglitterbanglebandtexture only / promo fullboxedassortment accurateheading / blankunused. WholeoriginalassortmentONEproduct: ONEopen shallow silverwhite rectangular box holding thin glittertextured/translucent colouredbanglestacks, arranged EXACTFOURcolumnsFOURvisiblepackedrows=16visiblebundles. Preserve visible packing/count/proportions and thin parallel banglelines; do not claim24sets or fabricate extra stacks from sourceadvertisingtext. Individual bangleswithinbundles partlyoccluded; preserve density/source. Remove sourceposter/text/price/podiumgraphic only, keep actual boxandcontents. Exactlefttorightcolours: clearwhite/silver,skyblue,brightyellow,hotpink, fourrowssamecolours. Heading Colourful Bangle Box. Macro actualblueglitterparallelbanglebands.",
+      "sha256": "20d40efde0984ff3142c3a447ced83a3cab91c8268a8ff14270b00262b7c660c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-d4562650-c7f1-420d-aa91-4de54002bf7b.png",
+      "grid_sha256": "c1a5f7015b8e9e8c2dd164354aa5565883bea08daa15909efe61df92aabd535a",
+      "grid_dimensions": [
+        1254,
+        1254
+      ],
+      "crop_box": [
+        418,
+        627,
+        836,
+        1254
+      ],
+      "visual_review": "Actual source compared with all five crops: one open box with four colour columns and four visible packed stack rows retained, matching thin glitter bangle texture and original colours. Individual bangle counts within packed stacks are occluded and not independently verified; source 24-set overlay claim deliberately not repeated. Full background/style/lifestyle/promo views and tight real band texture detail pass. True crop boxes follow actual grid dimensions."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

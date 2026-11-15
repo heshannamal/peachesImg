@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-15T02:32:49.275243+00:00",
+  "updated_at": "2026-11-15T02:33:58.437010+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 32,
-  "partial_products": 6,
-  "pending_products": 56,
-  "blocked_products": 6,
+  "completed_products": 35,
+  "partial_products": 3,
+  "pending_products": 54,
+  "blocked_products": 8,
   "saved_images": 190,
-  "checked_images": 170,
+  "checked_images": 181,
   "products": [
     {
       "product_id": "2415",
@@ -768,7 +768,7 @@
       "review_needed_images": [
         "New/05_Promotional.png"
       ],
-      "notes_status": "in_progress",
+      "notes_status": "partial_corrective_spent_count_error",
       "errors": [
         "unreviewed or unrecorded: 05_Promotional.png"
       ],
@@ -776,10 +776,10 @@
     },
     {
       "product_id": "2376",
-      "folder": "2376_Red-Decorative-Hair-Clips-0",
-      "status": "partial",
+      "folder": "2376_Red-Decorative-Hair-Clips-1",
+      "status": "complete",
       "saved_images": 5,
-      "checked_images": 4,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
@@ -788,13 +788,9 @@
         "New/05_Promotional.png"
       ],
       "missing_images": [],
-      "review_needed_images": [
-        "New/05_Promotional.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 05_Promotional.png"
-      ],
+      "review_needed_images": [],
+      "notes_status": "five_images_saved_and_visually_checked",
+      "errors": [],
       "originals_unchanged": true
     },
     {
@@ -837,10 +833,10 @@
     },
     {
       "product_id": "2373",
-      "folder": "2373_Fogg-Body-Sprays-0",
-      "status": "partial",
+      "folder": "2373_Fogg-Body-Sprays-1",
+      "status": "complete",
       "saved_images": 5,
-      "checked_images": 0,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
@@ -849,29 +845,17 @@
         "New/05_Promotional.png"
       ],
       "missing_images": [],
-      "review_needed_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 01_White-Background.png",
-        "unreviewed or unrecorded: 02_Styled-Background.png",
-        "unreviewed or unrecorded: 03_Lifestyle.png",
-        "unreviewed or unrecorded: 04_Detail.png",
-        "unreviewed or unrecorded: 05_Promotional.png"
-      ],
+      "review_needed_images": [],
+      "notes_status": "five_images_saved_and_visually_checked",
+      "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "2372",
-      "folder": "2372_Fogg-Large-Body-Sprays-0",
-      "status": "partial",
+      "folder": "2372_Fogg-Large-Body-Sprays-1",
+      "status": "complete",
       "saved_images": 5,
-      "checked_images": 0,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
@@ -880,27 +864,15 @@
         "New/05_Promotional.png"
       ],
       "missing_images": [],
-      "review_needed_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 01_White-Background.png",
-        "unreviewed or unrecorded: 02_Styled-Background.png",
-        "unreviewed or unrecorded: 03_Lifestyle.png",
-        "unreviewed or unrecorded: 04_Detail.png",
-        "unreviewed or unrecorded: 05_Promotional.png"
-      ],
+      "review_needed_images": [],
+      "notes_status": "five_images_saved_and_visually_checked",
+      "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "2371",
       "folder": "2371_Colourful-Character-Caps-0",
-      "status": "pending",
+      "status": "blocked",
       "saved_images": 0,
       "checked_images": 0,
       "files": [],
@@ -912,7 +884,7 @@
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "blocked_moderation",
       "errors": [],
       "originals_unchanged": true
     },
@@ -938,7 +910,7 @@
     {
       "product_id": "2369",
       "folder": "2369_Cartoon-Mugs-0",
-      "status": "pending",
+      "status": "blocked",
       "saved_images": 0,
       "checked_images": 0,
       "files": [],
@@ -950,7 +922,7 @@
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "blocked_moderation",
       "errors": [],
       "originals_unchanged": true
     },

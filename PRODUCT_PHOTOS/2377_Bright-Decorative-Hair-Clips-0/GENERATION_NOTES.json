@@ -146,13 +146,15 @@
         512,
         1024,
         1024
-      ]
+      ],
+      "visual_review": "Corrective shows SIXcards12bars but THREEbutterflies/bar insteadactualFOUR; unchecked, corrective spent."
     }
   ],
-  "status": "in_progress",
+  "status": "partial_corrective_spent_count_error",
   "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
   "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
   "corrective_attempts": {
     "05_Promotional.png": 1
-  }
+  },
+  "originals_verified_against_frozen_plan": true
 }

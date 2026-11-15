@@ -1,0 +1,13 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "status": "blocked_moderation",
+  "original_hashes": {
+    "Originals/IMG-20260822-WA0186.jpg": "6029c6ac599c1b7cbfb58ba6719b09de3f64047ac24ec7ea51803ebed53386cf"
+  },
+  "records": [],
+  "error": "image generation failed: http 400 Bad Request: Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 3a8defd5-ebf6-4d1b-b388-739a239816e2. type=image_generation_user_error code=moderation_blocked moderation_stage=output categories=[other]",
+  "request_id": "3a8defd5-ebf6-4d1b-b388-739a239816e2",
+  "prompt": "Native actual original referenced faithful edit ONE1536x1024 exactborderless3x2grid512squarecells. Top white fullassortment / lavendercream styled fullassortment / creamkitchen lifestyle fullassortment. Bottom TIGHT standalone macro of actual printed ceramic part (not full mug) / promo fullassortment accurateheading / blankunused. Wholephotographed assortmentONEproduct EXACTTHREE distinct white ceramic mugs, broadwhiteinteriors, slightlytapered roundedbodies, curvedwhitehandles. Preserve originalthreeprinteddesigns precisely, countthreeonly; do not create12fromsourceoverlay. Keep characters/colours/text sourcefaithful, no unrelated stock. Remove sourceprice/shop only. Left blueStitch bigsmileeyesclosed oneearup, flowerdoodles; centre blueStitch facewithrainbow/clouds smallflowers/hearts; right blueStitchholdingyellowduck, Stitch/Nohana lettering andbluebubbles. Exactly source threevariants. Heading Cartoon Mug Trio. Detail tightblueprintedface/ceramictexture.",
+  "retry_policy": "Moderation block, skip without retries."
+}

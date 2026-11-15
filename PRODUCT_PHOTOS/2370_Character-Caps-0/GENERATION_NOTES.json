@@ -1,0 +1,23 @@
+{
+  "status": "blocked_moderation",
+  "error": {
+    "http_status": 400,
+    "code": "moderation_blocked",
+    "type": "image_generation_user_error",
+    "moderation_stage": "output",
+    "categories": [
+      "other"
+    ],
+    "request_id": "e4cfdcf5-f9c6-4aa2-81aa-83ace98331fc",
+    "message": "Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID e4cfdcf5-f9c6-4aa2-81aa-83ace98331fc."
+  },
+  "prompt": "Use attached actual original as product reference to create ONE1536x1024 website image in EXACT3x2 grid of512x512cells, no gutters. The actual assortment is 9 small rounded-arch top, flat-bottom zip coin pouches, NOT caps. Preserve ALL 9 distinct original designs in same 3 rows of 3 order. They are shiny textured printed blue/pink/pastel Stitch and Angel character pouches with small gold zipper pulls. Each original collage panel is ONE distinct physical pouch. Extract/recreate only those same physical pouches, preserve original graphics, colours, shapes and count without merging or inventing designs. Full views show entire assortment arranged 3 rows of 3, no hands or original grey collage panels. Top left full assortment pure white. Top middle full assortment lavender/cream styled background. Top right full assortment on relevant tabletop lifestyle background. Bottom left standalone TIGHT real-part macro of zipper seam and printed texture on ONE actual pouch; do not show whole assortment. Bottom middle full assortment with accurate heading Character Coin Pouch Assortment. Bottom right blank cream. No price, no original overlay, no unsupported claims or extra pouches. Website-ready photorealistic, objects entirely within own cell, all designs visible.",
+  "records": [
+    {
+      "kind": "exact_prompt_file",
+      "saved_file": "Generation_Prompts/initial.txt",
+      "sha256": "296dce3c1e28122d5e3d7f6780b6b513e6710c0e75c4953e8738a0e9c43dab36",
+      "checked": false
+    }
+  ]
+}

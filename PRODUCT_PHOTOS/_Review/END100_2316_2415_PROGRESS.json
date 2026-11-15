@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-15T02:30:35.562322+00:00",
+  "updated_at": "2026-11-15T02:31:42.665186+00:00",
   "target_products": 100,
   "target_images": 500,
   "completed_products": 26,
-  "partial_products": 4,
-  "pending_products": 64,
+  "partial_products": 8,
+  "pending_products": 60,
   "blocked_products": 6,
-  "saved_images": 150,
-  "checked_images": 132,
+  "saved_images": 168,
+  "checked_images": 141,
   "products": [
     {
       "product_id": "2415",
@@ -628,7 +628,7 @@
         "New/03_Lifestyle.png",
         "New/05_Promotional.png"
       ],
-      "notes_status": "in_progress",
+      "notes_status": "partial_review_needed_corrective_spent",
       "errors": [
         "unreviewed or unrecorded: 01_White-Background.png",
         "unreviewed or unrecorded: 02_Styled-Background.png",
@@ -680,6 +680,35 @@
       "folder": "2381_Pink-Decorative-Hair-Clips-0",
       "status": "partial",
       "saved_images": 5,
+      "checked_images": 1,
+      "files": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/05_Promotional.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png",
+        "unreviewed or unrecorded: 02_Styled-Background.png",
+        "unreviewed or unrecorded: 03_Lifestyle.png",
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
+      "originals_unchanged": true
+    },
+    {
+      "product_id": "2380",
+      "folder": "2380_Multicolour-Decorative-Hair-Clips-0",
+      "status": "partial",
+      "saved_images": 5,
       "checked_images": 0,
       "files": [
         "New/01_White-Background.png",
@@ -704,25 +733,6 @@
         "unreviewed or unrecorded: 04_Detail.png",
         "unreviewed or unrecorded: 05_Promotional.png"
       ],
-      "originals_unchanged": true
-    },
-    {
-      "product_id": "2380",
-      "folder": "2380_Multicolour-Decorative-Hair-Clips-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
       "originals_unchanged": true
     },
     {
@@ -759,57 +769,71 @@
     {
       "product_id": "2378",
       "folder": "2378_Pastel-Decorative-Hair-Clips-0",
-      "status": "pending",
-      "saved_images": 0,
+      "status": "partial",
+      "saved_images": 5,
       "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png",
+        "unreviewed or unrecorded: 02_Styled-Background.png",
+        "unreviewed or unrecorded: 03_Lifestyle.png",
+        "unreviewed or unrecorded: 04_Detail.png",
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
       "originals_unchanged": true
     },
     {
       "product_id": "2377",
       "folder": "2377_Bright-Decorative-Hair-Clips-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "status": "partial",
+      "saved_images": 4,
+      "checked_images": 4,
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png",
+        "New/04_Detail.png"
+      ],
+      "missing_images": [
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "corrective_in_progress",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "2376",
       "folder": "2376_Red-Decorative-Hair-Clips-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "status": "partial",
+      "saved_images": 4,
+      "checked_images": 4,
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
-        "New/04_Detail.png",
+        "New/04_Detail.png"
+      ],
+      "missing_images": [
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "corrective_in_progress",
       "errors": [],
       "originals_unchanged": true
     },

@@ -2,10 +2,7 @@
   "status": "running",
   "next_unassigned": [],
   "assigned": {
-    "batch5_worker1": [
-      "2317",
-      "2316"
-    ],
+    "batch5_worker1": [],
     "batch5_worker2": [],
     "batch5_worker3": [],
     "batch5_worker5": [],
@@ -353,6 +350,13 @@
       "product_ids": [
         "2319",
         "2318"
+      ]
+    },
+    {
+      "worker": "batch5_worker1",
+      "product_ids": [
+        "2317",
+        "2316"
       ]
     }
   ]

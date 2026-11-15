@@ -28288,27 +28288,31 @@
   },
   {
     "product_id": "2316",
-    "folder": "2316_Character-Plush-Toys-0",
+    "folder": "2316_Character-Plush-Toys-1",
     "source_image_ids": [
       2592
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2317",
-    "folder": "2317_Small-Rectangle-Hair-Claws-0",
+    "folder": "2317_Small-Rectangle-Hair-Claws-1",
     "source_image_ids": [
       2593
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2318",

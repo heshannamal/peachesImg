@@ -1,0 +1,21 @@
+{
+  "status": "blocked_moderation",
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260916-WA0219.jpg": "9ec217261fb93e54b7f20bf0fad4676baf834ed1f6c766f6571ee34ba86ed2ed"
+  },
+  "records": [],
+  "blocked_attempt": {
+    "prompt": "Native image edit using only the actual referenced original product photo. Create one NEW website-ready landscape 1536x1024 image, exact 3columns x2rows equal512square cells, no gutters/borders/panel labels. Top-left fullproduct white background. Top-middle same product styled lavender/cream fabric. Top-right same product tasteful relevant lifestyle, no extra product copies. Bottom-left standalone TIGHT actual realpart macro, not wholeproduct. Bottom-middle same product with accurate heading 'Character Pencil Sharpener Jar'. Bottom-right unused blankcream. Preserve exact identity, count, shapes, colours, graphics, visiblepart arrangement. Remove source hand/shop/background and overlaid price banner. Do not invent or infer extra copies from supplier quantities. Full product completely within each fullview cell. Website-ready realistic productphotography.\nExactly ONE clear rounded square-sided displayJAR packed with original blue and pink small character-shaped pencil sharpeners, bright BLUE round screwcap and BLUE frontlabel NO.832 45PCS/PENCIL SHARPENER with two blue/pink characterillustrations. Preserve filledjar contents visually as source without inventing visible looseitems. Exactly THREE loose sharpeners in front: uprightBLUEleft, PINKmiddle lyingbackwards exposing roundpencilhole, uprightPINKright. Jar plus3looseitems count unchanged. Do not unpackjar or addextras. Detail tightactual pinksharpeners roundpencilhole/plasticpart. Lifestyle schooldesk no extra sharpeners.",
+    "http_status": 400,
+    "code": "moderation_blocked",
+    "request_id": "aca13049-0e98-4dab-80e3-b8f09d508db7",
+    "moderation_stage": "output",
+    "categories": [
+      "other"
+    ],
+    "raw_error": "Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID aca13049-0e98-4dab-80e3-b8f09d508db7.",
+    "retried": false
+  }
+}

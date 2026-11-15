@@ -1,10 +1,6 @@
 {
-  "status": "paused_worker_model_usage_limit",
+  "status": "running",
   "next_unassigned": [
-    "2403",
-    "2402",
-    "2401",
-    "2400",
     "2399",
     "2398",
     "2397",
@@ -96,12 +92,12 @@
       "2408"
     ],
     "batch5_worker2": [
-      "2413",
-      "2412"
+      "2401",
+      "2400"
     ],
     "batch5_worker3": [
-      "2411",
-      "2410"
+      "2403",
+      "2402"
     ],
     "batch5_worker5": [
       "2407",
@@ -119,8 +115,20 @@
         "2415",
         "2414"
       ]
+    },
+    {
+      "worker": "batch5_worker3",
+      "product_ids": [
+        "2411",
+        "2410"
+      ]
+    },
+    {
+      "worker": "batch5_worker2",
+      "product_ids": [
+        "2413",
+        "2412"
+      ]
     }
-  ],
-  "active_products": 0,
-  "in_flight_calls": 0
+  ]
 }

@@ -32,14 +32,15 @@
         0,
         512,
         512
-      ]
+      ],
+      "visual_review": "Materialviewtype/countfailure: fullassortmentabsent; onecorrective."
     },
     {
       "saved_file": "New/02_Styled-Background.png",
       "source_output": "/workspace/generated_images/exec-18e6963b-0c0d-49d5-b31b-730a1aec77b5.png",
       "prompt": "Original-referenced nativeedit intoONE1536x1024grid exact3x2equal512cells. TopWHITEbackground/lavendercreamstyled/lifestylevanity;bottom standaloneTIGHTactualflowerpartmacro/promotionalheading\"Layered Flower Hair Clips\"/blankcream. ActualTWELVEfabricFLOWERhairclawclips arrangedSIXpairs ona longwhitecardstrip. FullviewsALL12wholeflowers6pairs, compact2columns6rows, accurate sourcecount/identity/fabricpetalshapes/colours. Eachflower hasfive largevelvetlikepetals plusSMALLcontrastingfivepetalFLOWERlayer andyellowstamencentre, NOpearlbeads. Paircolours top-to-bottom whitegreen,palepink,purple,orange,blue,deepmagenta. Preservelayeredflowercentres andpetalcolours. Onewholeassortmentnotjustonepair inwhite/styled/lifestyle/promo. Removehand/store/pricebanner. Macro tightpetaltexture/actualcentre only notwholeclip. Promoall12flowersplusaccurateheading, nottextonly. Websitequality.",
-      "sha256": "76bfa190f1c827cd41fb3bf2fe4d8e10ee31d8570314977e8aa3de13281c7b44",
-      "checked": false,
+      "sha256": "dfe89ffc53f896c776ca922f3d63ef6ad15e838a43c5f72756279396cea0e1c5",
+      "checked": true,
       "generation_method": "native_five_style_grid_cropped",
       "grid_source_file": "Generation_Grids/exec-18e6963b-0c0d-49d5-b31b-730a1aec77b5.png",
       "grid_sha256": "0ed11160b344f24b5aca1c1b3dcea0efcdf5d883addd94dacb4077704c8350dc",
@@ -51,8 +52,9 @@
         512,
         0,
         1024,
-        512
-      ]
+        558
+      ],
+      "visual_review": "Actualpetal/centretexture tightmacro orall12sourceflowers styledview."
     },
     {
       "saved_file": "New/03_Lifestyle.png",
@@ -72,14 +74,15 @@
         0,
         1536,
         512
-      ]
+      ],
+      "visual_review": "Materialviewtype/countfailure: fullassortmentabsent; onecorrective."
     },
     {
       "saved_file": "New/04_Detail.png",
       "source_output": "/workspace/generated_images/exec-18e6963b-0c0d-49d5-b31b-730a1aec77b5.png",
       "prompt": "Original-referenced nativeedit intoONE1536x1024grid exact3x2equal512cells. TopWHITEbackground/lavendercreamstyled/lifestylevanity;bottom standaloneTIGHTactualflowerpartmacro/promotionalheading\"Layered Flower Hair Clips\"/blankcream. ActualTWELVEfabricFLOWERhairclawclips arrangedSIXpairs ona longwhitecardstrip. FullviewsALL12wholeflowers6pairs, compact2columns6rows, accurate sourcecount/identity/fabricpetalshapes/colours. Eachflower hasfive largevelvetlikepetals plusSMALLcontrastingfivepetalFLOWERlayer andyellowstamencentre, NOpearlbeads. Paircolours top-to-bottom whitegreen,palepink,purple,orange,blue,deepmagenta. Preservelayeredflowercentres andpetalcolours. Onewholeassortmentnotjustonepair inwhite/styled/lifestyle/promo. Removehand/store/pricebanner. Macro tightpetaltexture/actualcentre only notwholeclip. Promoall12flowersplusaccurateheading, nottextonly. Websitequality.",
-      "sha256": "88cf4b1fee7ecc447a56e07629177c90d111d1fee0d5f07d0356f5f7dcb70fbd",
-      "checked": false,
+      "sha256": "978fda729f8eb6f95709385cceab95ce9ed0ce12690ee81030423cb3c1bca148",
+      "checked": true,
       "generation_method": "native_five_style_grid_cropped",
       "grid_source_file": "Generation_Grids/exec-18e6963b-0c0d-49d5-b31b-730a1aec77b5.png",
       "grid_sha256": "0ed11160b344f24b5aca1c1b3dcea0efcdf5d883addd94dacb4077704c8350dc",
@@ -89,10 +92,11 @@
       ],
       "crop_box": [
         0,
-        512,
+        560,
         512,
         1024
-      ]
+      ],
+      "visual_review": "Actualpetal/centretexture tightmacro orall12sourceflowers styledview."
     },
     {
       "saved_file": "New/05_Promotional.png",
@@ -112,10 +116,16 @@
         512,
         1024,
         1024
-      ]
+      ],
+      "visual_review": "Materialviewtype/countfailure: fullassortmentabsent; onecorrective."
     }
   ],
-  "status": "in_progress",
+  "status": "corrective_in_progress",
   "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
-  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "03_Lifestyle.png": 1,
+    "01_White-Background.png": 1,
+    "05_Promotional.png": 1
+  }
 }

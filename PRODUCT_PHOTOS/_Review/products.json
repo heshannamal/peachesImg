@@ -28665,9 +28665,9 @@
     "source_image_ids": [
       2624
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -28689,9 +28689,9 @@
     "source_image_ids": [
       2626
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -28701,9 +28701,9 @@
     "source_image_ids": [
       2627
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -28713,35 +28713,39 @@
     "source_image_ids": [
       2628
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2352",
-    "folder": "2352_Pink-Grey-Earmuffs-0",
+    "folder": "2352_Pink-Grey-Earmuffs-1",
     "source_image_ids": [
       2629
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2353",
-    "folder": "2353_Bright-Flower-Claws-0",
+    "folder": "2353_Bright-Flower-Claws-1",
     "source_image_ids": [
       2630
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2354",
@@ -28749,7 +28753,7 @@
     "source_image_ids": [
       2631
     ],
-    "new_images": 5,
+    "new_images": 2,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -28761,7 +28765,7 @@
     "source_image_ids": [
       2632
     ],
-    "new_images": 5,
+    "new_images": 1,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -28797,15 +28801,17 @@
   },
   {
     "product_id": "2358",
-    "folder": "2358_Decorative-Hair-Pins-0",
+    "folder": "2358_Decorative-Hair-Pins-1",
     "source_image_ids": [
       2635
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2359",

@@ -32,7 +32,8 @@
         0,
         512,
         512
-      ]
+      ],
+      "visual_review": "Materialviewtype/countfailure: fullassortmentabsent; onecorrective."
     },
     {
       "saved_file": "New/02_Styled-Background.png",
@@ -52,7 +53,8 @@
         0,
         1024,
         512
-      ]
+      ],
+      "visual_review": "Materialviewtype/countfailure: fullassortmentabsent; onecorrective."
     },
     {
       "saved_file": "New/03_Lifestyle.png",
@@ -72,14 +74,15 @@
         0,
         1536,
         512
-      ]
+      ],
+      "visual_review": "Materialviewtype/countfailure: fullassortmentabsent; onecorrective."
     },
     {
       "saved_file": "New/04_Detail.png",
       "source_output": "/workspace/generated_images/exec-27f8d86b-21f9-483e-ad45-30d703815ee7.png",
       "prompt": "Original-referenced nativeedit intoONE1536x1024grid exact3x2equal512cells. TopWHITEbackground/lavendercreamstyled/lifestylevanity;bottom standaloneTIGHTactualflowerpartmacro/promotionalheading\"Beaded Flower Hair Clips\"/blankcream. ActualTWELVEfabricFLOWERhairclawclips arrangedSIXpairs ona longwhitecardstrip. FullviewsALL12wholeflowers6pairs, compact2columns6rows, accurate sourcecount/identity/fabricpetalshapes/colours. Fivevelvetlikepetalsperflower, centresTHREEroundmatchingpearlbeads+smallgoldclearcrystalstar details. Paircolours top-to-bottom purple,pink,blue,white/lightgreen,orange,rosepink. Preserve3beadcentres, donotsubstituteflowersmallpetalcentre. Onewholeassortmentnotjustonepair inwhite/styled/lifestyle/promo. Removehand/store/pricebanner. Macro tightpetaltexture/actualcentre only notwholeclip. Promoall12flowersplusaccurateheading, nottextonly. Websitequality.",
-      "sha256": "34a1130a553cb3d4d5876d14d557979967789ba96468a7188adaaf3b3ad55346",
-      "checked": false,
+      "sha256": "e579749ff9ea762e5412de539d77eb7d7b37a4993f38e177b49c49a1d4932c97",
+      "checked": true,
       "generation_method": "native_five_style_grid_cropped",
       "grid_source_file": "Generation_Grids/exec-27f8d86b-21f9-483e-ad45-30d703815ee7.png",
       "grid_sha256": "a3bca6b1ee99fcacffb4a4b63be34b3b3cb3bf42803412a8159d7e6f922d8c48",
@@ -89,10 +92,11 @@
       ],
       "crop_box": [
         0,
-        512,
+        496,
         512,
         1024
-      ]
+      ],
+      "visual_review": "Actualpetal/centretexture tightmacro orall12sourceflowers styledview."
     },
     {
       "saved_file": "New/05_Promotional.png",
@@ -112,10 +116,17 @@
         512,
         1024,
         1024
-      ]
+      ],
+      "visual_review": "Materialviewtype/countfailure: fullassortmentabsent; onecorrective."
     }
   ],
-  "status": "in_progress",
+  "status": "corrective_in_progress",
   "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
-  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "02_Styled-Background.png": 1,
+    "03_Lifestyle.png": 1,
+    "01_White-Background.png": 1,
+    "05_Promotional.png": 1
+  }
 }

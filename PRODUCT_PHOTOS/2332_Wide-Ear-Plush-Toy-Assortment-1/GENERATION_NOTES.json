@@ -1,0 +1,133 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260817-WA0206.jpg": "6793f7c12e2882c66142e81be66f51c15936bedff6af61aeaf6ed8b450d274d6"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-4784e564-3b02-41af-b7ac-f34d88f748be.png",
+      "source_output": "/workspace/generated_images/exec-4784e564-3b02-41af-b7ac-f34d88f748be.png",
+      "sha256": "ccf7adf5a7a7fadaf73aa152611083674c3baa66fc33c5e6b02e08ac75232edf",
+      "prompt": "Edit attached actual product original into ONE1536x1024 image, EXACT3columns x2rows of512squarecells no gutters or borders. Exactly THREE seated wide-ear plush toys from the three original photo panels: ONE blue, ONE light pink, ONE purple. Preserve round bodies, long sideways ears, oval protruding colour-matched nose, embroidered purple eyes with yellow outlines/highlights, three small felt tufts, white belly and muzzle, small upturned forepaws and two feet. Arrange all three actual toys together in each full view, no fourth toy. Heading: Wide Ear Plush Toy Assortment. Whole assortment ONE product. Preserve actual count identity shapes colours. Top left whole assortment pure white; top middle whole assortment lavender/cream styled; top right whole assortment relevant lifestyle tabletop/display setting; bottom left standalone TIGHT real-part macro of actual object material/detail, not full assortment; bottom middle whole assortment accurate heading given above only; bottom right blank cream. Remove original backdrop/collage lines/prices/text overlay; no invented variants or extra objects. Website-ready photorealistic, nothing crosses cell boundaries.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-4784e564-3b02-41af-b7ac-f34d88f748be.png",
+      "prompt": "Edit attached actual product original into ONE1536x1024 image, EXACT3columns x2rows of512squarecells no gutters or borders. Exactly THREE seated wide-ear plush toys from the three original photo panels: ONE blue, ONE light pink, ONE purple. Preserve round bodies, long sideways ears, oval protruding colour-matched nose, embroidered purple eyes with yellow outlines/highlights, three small felt tufts, white belly and muzzle, small upturned forepaws and two feet. Arrange all three actual toys together in each full view, no fourth toy. Heading: Wide Ear Plush Toy Assortment. Whole assortment ONE product. Preserve actual count identity shapes colours. Top left whole assortment pure white; top middle whole assortment lavender/cream styled; top right whole assortment relevant lifestyle tabletop/display setting; bottom left standalone TIGHT real-part macro of actual object material/detail, not full assortment; bottom middle whole assortment accurate heading given above only; bottom right blank cream. Remove original backdrop/collage lines/prices/text overlay; no invented variants or extra objects. Website-ready photorealistic, nothing crosses cell boundaries.",
+      "sha256": "db27e3ddde6e1a0fc82e526e1d652e0e1aed60dba63da98eee395ceef6e2f053",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4784e564-3b02-41af-b7ac-f34d88f748be.png",
+      "grid_sha256": "ccf7adf5a7a7fadaf73aa152611083674c3baa66fc33c5e6b02e08ac75232edf",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Recovery review of actual original and all five actual saved crops: exactly three seated wide-ear plush toys blue/pink/purple with white belly/muzzle, matching nose, yellow-outlined purple embroidered eyes, felt tufts, paws and feet. Identity/count/shapes/colours preserved. Pure white/lavendercream/tabletop lifestyle, tight real embroidered eye/plush macro and accurate promotional heading passed. Exact 512-cell crop boxes retained. Frozen original and output SHA verified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-4784e564-3b02-41af-b7ac-f34d88f748be.png",
+      "prompt": "Edit attached actual product original into ONE1536x1024 image, EXACT3columns x2rows of512squarecells no gutters or borders. Exactly THREE seated wide-ear plush toys from the three original photo panels: ONE blue, ONE light pink, ONE purple. Preserve round bodies, long sideways ears, oval protruding colour-matched nose, embroidered purple eyes with yellow outlines/highlights, three small felt tufts, white belly and muzzle, small upturned forepaws and two feet. Arrange all three actual toys together in each full view, no fourth toy. Heading: Wide Ear Plush Toy Assortment. Whole assortment ONE product. Preserve actual count identity shapes colours. Top left whole assortment pure white; top middle whole assortment lavender/cream styled; top right whole assortment relevant lifestyle tabletop/display setting; bottom left standalone TIGHT real-part macro of actual object material/detail, not full assortment; bottom middle whole assortment accurate heading given above only; bottom right blank cream. Remove original backdrop/collage lines/prices/text overlay; no invented variants or extra objects. Website-ready photorealistic, nothing crosses cell boundaries.",
+      "sha256": "5d317fca585216ecea75864c1dfb3df502b971529c0ce061cd2c2793eb49d9d0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4784e564-3b02-41af-b7ac-f34d88f748be.png",
+      "grid_sha256": "ccf7adf5a7a7fadaf73aa152611083674c3baa66fc33c5e6b02e08ac75232edf",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Recovery review of actual original and all five actual saved crops: exactly three seated wide-ear plush toys blue/pink/purple with white belly/muzzle, matching nose, yellow-outlined purple embroidered eyes, felt tufts, paws and feet. Identity/count/shapes/colours preserved. Pure white/lavendercream/tabletop lifestyle, tight real embroidered eye/plush macro and accurate promotional heading passed. Exact 512-cell crop boxes retained. Frozen original and output SHA verified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-4784e564-3b02-41af-b7ac-f34d88f748be.png",
+      "prompt": "Edit attached actual product original into ONE1536x1024 image, EXACT3columns x2rows of512squarecells no gutters or borders. Exactly THREE seated wide-ear plush toys from the three original photo panels: ONE blue, ONE light pink, ONE purple. Preserve round bodies, long sideways ears, oval protruding colour-matched nose, embroidered purple eyes with yellow outlines/highlights, three small felt tufts, white belly and muzzle, small upturned forepaws and two feet. Arrange all three actual toys together in each full view, no fourth toy. Heading: Wide Ear Plush Toy Assortment. Whole assortment ONE product. Preserve actual count identity shapes colours. Top left whole assortment pure white; top middle whole assortment lavender/cream styled; top right whole assortment relevant lifestyle tabletop/display setting; bottom left standalone TIGHT real-part macro of actual object material/detail, not full assortment; bottom middle whole assortment accurate heading given above only; bottom right blank cream. Remove original backdrop/collage lines/prices/text overlay; no invented variants or extra objects. Website-ready photorealistic, nothing crosses cell boundaries.",
+      "sha256": "000fc02ae05fbacfff5e75214d0336bb205c815be2623952611447d3c5c7bd0c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4784e564-3b02-41af-b7ac-f34d88f748be.png",
+      "grid_sha256": "ccf7adf5a7a7fadaf73aa152611083674c3baa66fc33c5e6b02e08ac75232edf",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Recovery review of actual original and all five actual saved crops: exactly three seated wide-ear plush toys blue/pink/purple with white belly/muzzle, matching nose, yellow-outlined purple embroidered eyes, felt tufts, paws and feet. Identity/count/shapes/colours preserved. Pure white/lavendercream/tabletop lifestyle, tight real embroidered eye/plush macro and accurate promotional heading passed. Exact 512-cell crop boxes retained. Frozen original and output SHA verified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-4784e564-3b02-41af-b7ac-f34d88f748be.png",
+      "prompt": "Edit attached actual product original into ONE1536x1024 image, EXACT3columns x2rows of512squarecells no gutters or borders. Exactly THREE seated wide-ear plush toys from the three original photo panels: ONE blue, ONE light pink, ONE purple. Preserve round bodies, long sideways ears, oval protruding colour-matched nose, embroidered purple eyes with yellow outlines/highlights, three small felt tufts, white belly and muzzle, small upturned forepaws and two feet. Arrange all three actual toys together in each full view, no fourth toy. Heading: Wide Ear Plush Toy Assortment. Whole assortment ONE product. Preserve actual count identity shapes colours. Top left whole assortment pure white; top middle whole assortment lavender/cream styled; top right whole assortment relevant lifestyle tabletop/display setting; bottom left standalone TIGHT real-part macro of actual object material/detail, not full assortment; bottom middle whole assortment accurate heading given above only; bottom right blank cream. Remove original backdrop/collage lines/prices/text overlay; no invented variants or extra objects. Website-ready photorealistic, nothing crosses cell boundaries.",
+      "sha256": "7f7caf7429523721b9210bc421a7fc4e070b7aecb2a42ad56674eb43afbc8833",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4784e564-3b02-41af-b7ac-f34d88f748be.png",
+      "grid_sha256": "ccf7adf5a7a7fadaf73aa152611083674c3baa66fc33c5e6b02e08ac75232edf",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Recovery review of actual original and all five actual saved crops: exactly three seated wide-ear plush toys blue/pink/purple with white belly/muzzle, matching nose, yellow-outlined purple embroidered eyes, felt tufts, paws and feet. Identity/count/shapes/colours preserved. Pure white/lavendercream/tabletop lifestyle, tight real embroidered eye/plush macro and accurate promotional heading passed. Exact 512-cell crop boxes retained. Frozen original and output SHA verified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-4784e564-3b02-41af-b7ac-f34d88f748be.png",
+      "prompt": "Edit attached actual product original into ONE1536x1024 image, EXACT3columns x2rows of512squarecells no gutters or borders. Exactly THREE seated wide-ear plush toys from the three original photo panels: ONE blue, ONE light pink, ONE purple. Preserve round bodies, long sideways ears, oval protruding colour-matched nose, embroidered purple eyes with yellow outlines/highlights, three small felt tufts, white belly and muzzle, small upturned forepaws and two feet. Arrange all three actual toys together in each full view, no fourth toy. Heading: Wide Ear Plush Toy Assortment. Whole assortment ONE product. Preserve actual count identity shapes colours. Top left whole assortment pure white; top middle whole assortment lavender/cream styled; top right whole assortment relevant lifestyle tabletop/display setting; bottom left standalone TIGHT real-part macro of actual object material/detail, not full assortment; bottom middle whole assortment accurate heading given above only; bottom right blank cream. Remove original backdrop/collage lines/prices/text overlay; no invented variants or extra objects. Website-ready photorealistic, nothing crosses cell boundaries.",
+      "sha256": "1d1c3223eee74d50da24bf3cdf7c50d9addfddb5cc3860fe98dd5e997cad2b4c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4784e564-3b02-41af-b7ac-f34d88f748be.png",
+      "grid_sha256": "ccf7adf5a7a7fadaf73aa152611083674c3baa66fc33c5e6b02e08ac75232edf",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Recovery review of actual original and all five actual saved crops: exactly three seated wide-ear plush toys blue/pink/purple with white belly/muzzle, matching nose, yellow-outlined purple embroidered eyes, felt tufts, paws and feet. Identity/count/shapes/colours preserved. Pure white/lavendercream/tabletop lifestyle, tight real embroidered eye/plush macro and accurate promotional heading passed. Exact 512-cell crop boxes retained. Frozen original and output SHA verified."
+    },
+    {
+      "kind": "exact_prompt_file",
+      "saved_file": "Generation_Prompts/initial.txt",
+      "sha256": "422f06a33a28eb02ad36324a57a9c38bd89ee69b54aa79cbd35084b28b392701",
+      "checked": false
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

@@ -4,23 +4,35 @@
   "max_active_products": 10,
   "processing_order": "descending_numeric_product_id",
   "generation_workflow": "one_native3x2grid_then_five_crops",
-  "updated_at": "2026-11-15T02:44:00.604821+00:00",
+  "updated_at": "2026-11-15T07:54:11.035478+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 63,
+  "completed_products": 68,
   "partial_products": 6,
-  "pending_products": 17,
-  "blocked_products": 14,
-  "saved_images": 345,
-  "checked_images": 321,
+  "pending_products": 11,
+  "blocked_products": 15,
+  "saved_images": 374,
+  "checked_images": 350,
   "paused_at": "2026-11-14T11:10:54.549433+00:00",
-  "resume_rule": "Generate assigned pending products before claiming the next descending pair. Preserve all successful views and spent retries. Scope is frozen to2415\u20132316 only.",
-  "resumed_at": "2026-11-15T02:19:41.007768+00:00",
-  "resume_note": "UserContinuegenerate; probe2415before parallelgeneration, preserve104frozenoriginals and all previous queues.",
-  "native_availability_probe": "2415 completed: five images saved, reviewed and original/output hashes verified.",
+  "resume_rule": "Resume assigned pending pairs before atomicdescendingclaims. Preserve allcomplete/validviews; skip spent2395/2384/2377 and allmoderationblocks, including2331 with4approvedviews. Scope2415\u20132316only.",
+  "resumed_at": "2026-11-15T07:51:49.902654+00:00",
+  "resume_note": "UserfreshContinue; modelworker1availableagain. Recover3nativecaches2332/2334/2335,review3saveduncheckedproducts2331/2330/2333beforemissingviews. Probeone2331promo correctivebeforeparallelnewcalls.",
+  "native_availability_probe": "2331 corrective reached native service but was moderation-blocked; worker access available. Skip2331 without retry and resume14pending.",
   "previous_blocker": {
     "type": "worker_model_usage_limit",
     "reported_reset": "10:11AM; timezone unspecified",
     "native_image429_observed": false
-  }
+  },
+  "recovered_cache_product_ids": [
+    "2332",
+    "2334",
+    "2335"
+  ],
+  "recovery_review_completed_ids": [
+    "2335",
+    "2334",
+    "2333",
+    "2332",
+    "2330"
+  ]
 }

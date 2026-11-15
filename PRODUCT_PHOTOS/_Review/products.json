@@ -28388,9 +28388,9 @@
     "source_image_ids": [
       2600
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -28400,9 +28400,9 @@
     "source_image_ids": [
       2601
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -28448,23 +28448,25 @@
     "source_image_ids": [
       2605
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
-    "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
-  },
-  {
-    "product_id": "2330",
-    "folder": "2330_Beaded-Bracelet-Cards-0",
-    "source_image_ids": [
-      2606
-    ],
     "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
+  },
+  {
+    "product_id": "2330",
+    "folder": "2330_Beaded-Bracelet-Cards-1",
+    "source_image_ids": [
+      2606
+    ],
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
+    "grouping_status": "initial-visual-grouping",
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2331",
@@ -28472,59 +28474,67 @@
     "source_image_ids": [
       2607
     ],
-    "new_images": 5,
+    "new_images": 4,
     "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_status": "blocked_moderation",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2332",
-    "folder": "2332_Wide-Ear-Plush-Toy-Assortment-0",
+    "folder": "2332_Wide-Ear-Plush-Toy-Assortment-1",
     "source_image_ids": [
       2608
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2333",
-    "folder": "2333_Beaded-Bracelet-Display-0",
+    "folder": "2333_Beaded-Bracelet-Display-1",
     "source_image_ids": [
       2609
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2334",
-    "folder": "2334_Small-Gold-Tone-Studs-0",
+    "folder": "2334_Small-Gold-Tone-Studs-1",
     "source_image_ids": [
       2610
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2335",
-    "folder": "2335_Small-Silver-Tone-Studs-0",
+    "folder": "2335_Small-Silver-Tone-Studs-1",
     "source_image_ids": [
       2611
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2336",

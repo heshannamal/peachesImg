@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260818-WA0178.jpg": "852c88eb94f4e1f7a19145fa701cde4c8ca5ab9ae11a1cfb8c8d9a3481254187"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-98ab361d-ff2d-4764-aa4c-26e497d04fa2.png",
+      "source_output": "/workspace/generated_images/exec-98ab361d-ff2d-4764-aa4c-26e497d04fa2.png",
+      "sha256": "724f8236a799d79987fd8e020b185cc2a565dc414cbd88a13cb663f33e6d8240",
+      "prompt": "Native actual original edit ONE1536x1024 borderless3x2equal512squaregrid. Topwhite fullassortment / lavendercream styled fullassortment / creamvanity lifestyle fullassortment. Bottom standalone TIGHT macro ONE actual studpart/settingtexture / promo wholeassortment accurateheading / blankunused. Wholephotographed assortmentONEproduct ONElargewhite rectangular displayboard containing12smallwhitepaircards, arranged6rows2paircards, eachpaircardexactlyTWOstuds=24individualstuds. Eachfullview all24studs countable6rows4individuals. Preserve count, shape, colour, settings and exact arrangement. Removehand/plasticglare/shop/priceoverlay. OriginalTULSIburgundyheader. Allstuds tinySPHERICALtexturedcolouredbeads heldinsilverclaw/prongsettings. Exactpaircardrowcolours:row1redleft mintgreenright;row2purpleleft pinkright;row3peachleft darknavyright;row4mintleft redright;row5pinkleft purpleright;row6darknavyleft peachright. Eachcolour2pairs4studs. Heading Colourful Round Stud Assortment. Detail actualcolouredbeadsilverprongsettingmacro.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-98ab361d-ff2d-4764-aa4c-26e497d04fa2.png",
+      "prompt": "Native actual original edit ONE1536x1024 borderless3x2equal512squaregrid. Topwhite fullassortment / lavendercream styled fullassortment / creamvanity lifestyle fullassortment. Bottom standalone TIGHT macro ONE actual studpart/settingtexture / promo wholeassortment accurateheading / blankunused. Wholephotographed assortmentONEproduct ONElargewhite rectangular displayboard containing12smallwhitepaircards, arranged6rows2paircards, eachpaircardexactlyTWOstuds=24individualstuds. Eachfullview all24studs countable6rows4individuals. Preserve count, shape, colour, settings and exact arrangement. Removehand/plasticglare/shop/priceoverlay. OriginalTULSIburgundyheader. Allstuds tinySPHERICALtexturedcolouredbeads heldinsilverclaw/prongsettings. Exactpaircardrowcolours:row1redleft mintgreenright;row2purpleleft pinkright;row3peachleft darknavyright;row4mintleft redright;row5pinkleft purpleright;row6darknavyleft peachright. Eachcolour2pairs4studs. Heading Colourful Round Stud Assortment. Detail actualcolouredbeadsilverprongsettingmacro.",
+      "sha256": "1ea3c50ddd0b1577e44c447784ba09c9db1aa2e0a908f408e6daa86e6e435d35",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-98ab361d-ff2d-4764-aa4c-26e497d04fa2.png",
+      "grid_sha256": "724f8236a799d79987fd8e020b185cc2a565dc414cbd88a13cb663f33e6d8240",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual source compared with five crops: 12 paircards/24 studs in six rows, correct gold-rim white domes or silver-prong coloured bead shapes and exact six-colour row placement. Four full assortment views and accurate heading/count descriptions pass. Detail mechanically tightened to actual textured dome/setting part, website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-98ab361d-ff2d-4764-aa4c-26e497d04fa2.png",
+      "prompt": "Native actual original edit ONE1536x1024 borderless3x2equal512squaregrid. Topwhite fullassortment / lavendercream styled fullassortment / creamvanity lifestyle fullassortment. Bottom standalone TIGHT macro ONE actual studpart/settingtexture / promo wholeassortment accurateheading / blankunused. Wholephotographed assortmentONEproduct ONElargewhite rectangular displayboard containing12smallwhitepaircards, arranged6rows2paircards, eachpaircardexactlyTWOstuds=24individualstuds. Eachfullview all24studs countable6rows4individuals. Preserve count, shape, colour, settings and exact arrangement. Removehand/plasticglare/shop/priceoverlay. OriginalTULSIburgundyheader. Allstuds tinySPHERICALtexturedcolouredbeads heldinsilverclaw/prongsettings. Exactpaircardrowcolours:row1redleft mintgreenright;row2purpleleft pinkright;row3peachleft darknavyright;row4mintleft redright;row5pinkleft purpleright;row6darknavyleft peachright. Eachcolour2pairs4studs. Heading Colourful Round Stud Assortment. Detail actualcolouredbeadsilverprongsettingmacro.",
+      "sha256": "3015671882d111f5c5faec4e575bbce9db8412870d3c2d2672437c2fa1e9c76d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-98ab361d-ff2d-4764-aa4c-26e497d04fa2.png",
+      "grid_sha256": "724f8236a799d79987fd8e020b185cc2a565dc414cbd88a13cb663f33e6d8240",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual source compared with five crops: 12 paircards/24 studs in six rows, correct gold-rim white domes or silver-prong coloured bead shapes and exact six-colour row placement. Four full assortment views and accurate heading/count descriptions pass. Detail mechanically tightened to actual textured dome/setting part, website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-98ab361d-ff2d-4764-aa4c-26e497d04fa2.png",
+      "prompt": "Native actual original edit ONE1536x1024 borderless3x2equal512squaregrid. Topwhite fullassortment / lavendercream styled fullassortment / creamvanity lifestyle fullassortment. Bottom standalone TIGHT macro ONE actual studpart/settingtexture / promo wholeassortment accurateheading / blankunused. Wholephotographed assortmentONEproduct ONElargewhite rectangular displayboard containing12smallwhitepaircards, arranged6rows2paircards, eachpaircardexactlyTWOstuds=24individualstuds. Eachfullview all24studs countable6rows4individuals. Preserve count, shape, colour, settings and exact arrangement. Removehand/plasticglare/shop/priceoverlay. OriginalTULSIburgundyheader. Allstuds tinySPHERICALtexturedcolouredbeads heldinsilverclaw/prongsettings. Exactpaircardrowcolours:row1redleft mintgreenright;row2purpleleft pinkright;row3peachleft darknavyright;row4mintleft redright;row5pinkleft purpleright;row6darknavyleft peachright. Eachcolour2pairs4studs. Heading Colourful Round Stud Assortment. Detail actualcolouredbeadsilverprongsettingmacro.",
+      "sha256": "b4a889b0c319818fed18f03e91aee05362308a8161a190a5ef936aaaa9259f55",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-98ab361d-ff2d-4764-aa4c-26e497d04fa2.png",
+      "grid_sha256": "724f8236a799d79987fd8e020b185cc2a565dc414cbd88a13cb663f33e6d8240",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual source compared with five crops: 12 paircards/24 studs in six rows, correct gold-rim white domes or silver-prong coloured bead shapes and exact six-colour row placement. Four full assortment views and accurate heading/count descriptions pass. Detail mechanically tightened to actual textured dome/setting part, website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-98ab361d-ff2d-4764-aa4c-26e497d04fa2.png",
+      "prompt": "Native actual original edit ONE1536x1024 borderless3x2equal512squaregrid. Topwhite fullassortment / lavendercream styled fullassortment / creamvanity lifestyle fullassortment. Bottom standalone TIGHT macro ONE actual studpart/settingtexture / promo wholeassortment accurateheading / blankunused. Wholephotographed assortmentONEproduct ONElargewhite rectangular displayboard containing12smallwhitepaircards, arranged6rows2paircards, eachpaircardexactlyTWOstuds=24individualstuds. Eachfullview all24studs countable6rows4individuals. Preserve count, shape, colour, settings and exact arrangement. Removehand/plasticglare/shop/priceoverlay. OriginalTULSIburgundyheader. Allstuds tinySPHERICALtexturedcolouredbeads heldinsilverclaw/prongsettings. Exactpaircardrowcolours:row1redleft mintgreenright;row2purpleleft pinkright;row3peachleft darknavyright;row4mintleft redright;row5pinkleft purpleright;row6darknavyleft peachright. Eachcolour2pairs4studs. Heading Colourful Round Stud Assortment. Detail actualcolouredbeadsilverprongsettingmacro.",
+      "sha256": "e744b33dcf4a331c08f9007adbdd316161438922e1f7f70f748f9b94aeab0143",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-98ab361d-ff2d-4764-aa4c-26e497d04fa2.png",
+      "grid_sha256": "724f8236a799d79987fd8e020b185cc2a565dc414cbd88a13cb663f33e6d8240",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        90,
+        620,
+        380,
+        920
+      ],
+      "visual_review": "Actual source compared with five crops: 12 paircards/24 studs in six rows, correct gold-rim white domes or silver-prong coloured bead shapes and exact six-colour row placement. Four full assortment views and accurate heading/count descriptions pass. Detail mechanically tightened to actual textured dome/setting part, website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-98ab361d-ff2d-4764-aa4c-26e497d04fa2.png",
+      "prompt": "Native actual original edit ONE1536x1024 borderless3x2equal512squaregrid. Topwhite fullassortment / lavendercream styled fullassortment / creamvanity lifestyle fullassortment. Bottom standalone TIGHT macro ONE actual studpart/settingtexture / promo wholeassortment accurateheading / blankunused. Wholephotographed assortmentONEproduct ONElargewhite rectangular displayboard containing12smallwhitepaircards, arranged6rows2paircards, eachpaircardexactlyTWOstuds=24individualstuds. Eachfullview all24studs countable6rows4individuals. Preserve count, shape, colour, settings and exact arrangement. Removehand/plasticglare/shop/priceoverlay. OriginalTULSIburgundyheader. Allstuds tinySPHERICALtexturedcolouredbeads heldinsilverclaw/prongsettings. Exactpaircardrowcolours:row1redleft mintgreenright;row2purpleleft pinkright;row3peachleft darknavyright;row4mintleft redright;row5pinkleft purpleright;row6darknavyleft peachright. Eachcolour2pairs4studs. Heading Colourful Round Stud Assortment. Detail actualcolouredbeadsilverprongsettingmacro.",
+      "sha256": "0769e69373cbec5b6a8f213bd0c11c7d2558cee69b181746c29f90a76e4f1ba6",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-98ab361d-ff2d-4764-aa4c-26e497d04fa2.png",
+      "grid_sha256": "724f8236a799d79987fd8e020b185cc2a565dc414cbd88a13cb663f33e6d8240",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual source compared with five crops: 12 paircards/24 studs in six rows, correct gold-rim white domes or silver-prong coloured bead shapes and exact six-colour row placement. Four full assortment views and accurate heading/count descriptions pass. Detail mechanically tightened to actual textured dome/setting part, website-ready."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

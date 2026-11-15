@@ -28496,9 +28496,9 @@
     "source_image_ids": [
       2609
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -28528,27 +28528,31 @@
   },
   {
     "product_id": "2336",
-    "folder": "2336_Colourful-Stud-Earrings-0",
+    "folder": "2336_Colourful-Stud-Earrings-1",
     "source_image_ids": [
       2612
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2337",
-    "folder": "2337_Clear-Stud-Earrings-0",
+    "folder": "2337_Clear-Stud-Earrings-1",
     "source_image_ids": [
       2613
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2338",
@@ -28580,27 +28584,31 @@
   },
   {
     "product_id": "2340",
-    "folder": "2340_Colourful-Ribbon-Rolls-0",
+    "folder": "2340_Colourful-Ribbon-Rolls-1",
     "source_image_ids": [
       2616
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2341",
-    "folder": "2341_Dark-Jewellery-Sets-0",
+    "folder": "2341_Dark-Jewellery-Sets-1",
     "source_image_ids": [
       2617
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2342",

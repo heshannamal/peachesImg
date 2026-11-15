@@ -29267,36 +29267,40 @@
     "source_image_ids": [
       2676
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2398",
-    "folder": "2398_Clear-Bottle-Keyrings-0",
+    "folder": "2398_Clear-Bottle-Keyrings-1",
     "source_image_ids": [
       2677,
       2678
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2399",
-    "folder": "2399_Double-Heart-Bangle-0",
+    "folder": "2399_Double-Heart-Bangle-1",
     "source_image_ids": [
       2679
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2400",
@@ -29356,27 +29360,31 @@
   },
   {
     "product_id": "2404",
-    "folder": "2404_Heart-Charm-Bangle-0",
+    "folder": "2404_Heart-Charm-Bangle-1",
     "source_image_ids": [
       2684
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2405",
-    "folder": "2405_Star-Charm-Bangle-0",
+    "folder": "2405_Star-Charm-Bangle-1",
     "source_image_ids": [
       2685
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2406",

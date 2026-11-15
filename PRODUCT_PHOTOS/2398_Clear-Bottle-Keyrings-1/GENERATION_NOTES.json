@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260916-WA0061.jpg": "ce4933467ad771ac6ba8b996e82404d396ef8fcf229821be71217176f112c43a",
+    "Originals/IMG-20260916-WA0063.jpg": "74d7ab10a0e759478c50cd0fd072a49281b6c55506dedf9e9e7c88d7740e03a1"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-67afacd1-991c-44a6-8a6f-99f934f6b0c7.png",
+      "source_output": "/workspace/generated_images/exec-67afacd1-991c-44a6-8a6f-99f934f6b0c7.png",
+      "sha256": "97869fb5bc070be4913ff57e588af7a062129cefe8897aa311ed375d3e58756f",
+      "prompt": "EDIT referenced actual product photograph(s), preserve exact source product identity/count/shapes/colours. Website1536x1024sheet exact3columns2rows x512/1024 y512. Top cells full product isolatedwhite; full product lavendercreamstyled; full product tasteful lifestyle. Bottom standalone tight REALPART macro specified; full product promo with accurate heading; blank cream. Independent panels,no cross-boundary objects. Remove hand/source price banner/material and warranty claims. All whole-assortment views show same complete count with margins. ONE assortment of EXACTLY TWELVE clear miniature bottle keyrings on ONE royal-blue triangular 12-hole hanger. Both photos are different angles of SAME twelve keyrings, not24. Every keyring has silver split ring, short chain, white/translucent stopper lid, clear cylindrical bottle with real small assorted seashells and bright pink/green/purple confetti. Arrange twelve bottles as two visible rows six each beneath same hanger, silver chains faithfully attached. Do not omit obscured back bottles. Macro one actual clear bottle with shells/confetti and stopper. Lifestyle coastal tabletop. Heading 'Seashell Bottle Keyrings'.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-67afacd1-991c-44a6-8a6f-99f934f6b0c7.png",
+      "prompt": "EDIT referenced actual product photograph(s), preserve exact source product identity/count/shapes/colours. Website1536x1024sheet exact3columns2rows x512/1024 y512. Top cells full product isolatedwhite; full product lavendercreamstyled; full product tasteful lifestyle. Bottom standalone tight REALPART macro specified; full product promo with accurate heading; blank cream. Independent panels,no cross-boundary objects. Remove hand/source price banner/material and warranty claims. All whole-assortment views show same complete count with margins. ONE assortment of EXACTLY TWELVE clear miniature bottle keyrings on ONE royal-blue triangular 12-hole hanger. Both photos are different angles of SAME twelve keyrings, not24. Every keyring has silver split ring, short chain, white/translucent stopper lid, clear cylindrical bottle with real small assorted seashells and bright pink/green/purple confetti. Arrange twelve bottles as two visible rows six each beneath same hanger, silver chains faithfully attached. Do not omit obscured back bottles. Macro one actual clear bottle with shells/confetti and stopper. Lifestyle coastal tabletop. Heading 'Seashell Bottle Keyrings'.",
+      "sha256": "72a063f3add16ebc949bdd7f2fc1ec279d9b9fb5012e041be09ba4aa9cecaf46",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-67afacd1-991c-44a6-8a6f-99f934f6b0c7.png",
+      "grid_sha256": "97869fb5bc070be4913ff57e588af7a062129cefe8897aa311ed375d3e58756f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected against both angles of same assortment: one blue twelve-hole hanger with twelve ring-chain bottle keyrings, shells and bright confetti, translucent stoppers retained. Back-row bottles partly overlap as in source; no doubled assortment. Standalone shell-bottle macro valid and heading accurate."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-67afacd1-991c-44a6-8a6f-99f934f6b0c7.png",
+      "prompt": "EDIT referenced actual product photograph(s), preserve exact source product identity/count/shapes/colours. Website1536x1024sheet exact3columns2rows x512/1024 y512. Top cells full product isolatedwhite; full product lavendercreamstyled; full product tasteful lifestyle. Bottom standalone tight REALPART macro specified; full product promo with accurate heading; blank cream. Independent panels,no cross-boundary objects. Remove hand/source price banner/material and warranty claims. All whole-assortment views show same complete count with margins. ONE assortment of EXACTLY TWELVE clear miniature bottle keyrings on ONE royal-blue triangular 12-hole hanger. Both photos are different angles of SAME twelve keyrings, not24. Every keyring has silver split ring, short chain, white/translucent stopper lid, clear cylindrical bottle with real small assorted seashells and bright pink/green/purple confetti. Arrange twelve bottles as two visible rows six each beneath same hanger, silver chains faithfully attached. Do not omit obscured back bottles. Macro one actual clear bottle with shells/confetti and stopper. Lifestyle coastal tabletop. Heading 'Seashell Bottle Keyrings'.",
+      "sha256": "8ed2a96477b00e14a5c25b14daa8996a8981a30b2fd540ab13bed956f0452f1e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-67afacd1-991c-44a6-8a6f-99f934f6b0c7.png",
+      "grid_sha256": "97869fb5bc070be4913ff57e588af7a062129cefe8897aa311ed375d3e58756f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected against both angles of same assortment: one blue twelve-hole hanger with twelve ring-chain bottle keyrings, shells and bright confetti, translucent stoppers retained. Back-row bottles partly overlap as in source; no doubled assortment. Standalone shell-bottle macro valid and heading accurate."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-67afacd1-991c-44a6-8a6f-99f934f6b0c7.png",
+      "prompt": "EDIT referenced actual product photograph(s), preserve exact source product identity/count/shapes/colours. Website1536x1024sheet exact3columns2rows x512/1024 y512. Top cells full product isolatedwhite; full product lavendercreamstyled; full product tasteful lifestyle. Bottom standalone tight REALPART macro specified; full product promo with accurate heading; blank cream. Independent panels,no cross-boundary objects. Remove hand/source price banner/material and warranty claims. All whole-assortment views show same complete count with margins. ONE assortment of EXACTLY TWELVE clear miniature bottle keyrings on ONE royal-blue triangular 12-hole hanger. Both photos are different angles of SAME twelve keyrings, not24. Every keyring has silver split ring, short chain, white/translucent stopper lid, clear cylindrical bottle with real small assorted seashells and bright pink/green/purple confetti. Arrange twelve bottles as two visible rows six each beneath same hanger, silver chains faithfully attached. Do not omit obscured back bottles. Macro one actual clear bottle with shells/confetti and stopper. Lifestyle coastal tabletop. Heading 'Seashell Bottle Keyrings'.",
+      "sha256": "97bb7811857008cf0bcd64b4fbc850304037b67b37a14b7ea52f66ce32d0edf0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-67afacd1-991c-44a6-8a6f-99f934f6b0c7.png",
+      "grid_sha256": "97869fb5bc070be4913ff57e588af7a062129cefe8897aa311ed375d3e58756f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected against both angles of same assortment: one blue twelve-hole hanger with twelve ring-chain bottle keyrings, shells and bright confetti, translucent stoppers retained. Back-row bottles partly overlap as in source; no doubled assortment. Standalone shell-bottle macro valid and heading accurate."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-67afacd1-991c-44a6-8a6f-99f934f6b0c7.png",
+      "prompt": "EDIT referenced actual product photograph(s), preserve exact source product identity/count/shapes/colours. Website1536x1024sheet exact3columns2rows x512/1024 y512. Top cells full product isolatedwhite; full product lavendercreamstyled; full product tasteful lifestyle. Bottom standalone tight REALPART macro specified; full product promo with accurate heading; blank cream. Independent panels,no cross-boundary objects. Remove hand/source price banner/material and warranty claims. All whole-assortment views show same complete count with margins. ONE assortment of EXACTLY TWELVE clear miniature bottle keyrings on ONE royal-blue triangular 12-hole hanger. Both photos are different angles of SAME twelve keyrings, not24. Every keyring has silver split ring, short chain, white/translucent stopper lid, clear cylindrical bottle with real small assorted seashells and bright pink/green/purple confetti. Arrange twelve bottles as two visible rows six each beneath same hanger, silver chains faithfully attached. Do not omit obscured back bottles. Macro one actual clear bottle with shells/confetti and stopper. Lifestyle coastal tabletop. Heading 'Seashell Bottle Keyrings'.",
+      "sha256": "a32ad2fad2814651d82fd0b3a284b8446cddc7bf153d51de2fcbc7f604b30316",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-67afacd1-991c-44a6-8a6f-99f934f6b0c7.png",
+      "grid_sha256": "97869fb5bc070be4913ff57e588af7a062129cefe8897aa311ed375d3e58756f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crop inspected against both angles of same assortment: one blue twelve-hole hanger with twelve ring-chain bottle keyrings, shells and bright confetti, translucent stoppers retained. Back-row bottles partly overlap as in source; no doubled assortment. Standalone shell-bottle macro valid and heading accurate."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-67afacd1-991c-44a6-8a6f-99f934f6b0c7.png",
+      "prompt": "EDIT referenced actual product photograph(s), preserve exact source product identity/count/shapes/colours. Website1536x1024sheet exact3columns2rows x512/1024 y512. Top cells full product isolatedwhite; full product lavendercreamstyled; full product tasteful lifestyle. Bottom standalone tight REALPART macro specified; full product promo with accurate heading; blank cream. Independent panels,no cross-boundary objects. Remove hand/source price banner/material and warranty claims. All whole-assortment views show same complete count with margins. ONE assortment of EXACTLY TWELVE clear miniature bottle keyrings on ONE royal-blue triangular 12-hole hanger. Both photos are different angles of SAME twelve keyrings, not24. Every keyring has silver split ring, short chain, white/translucent stopper lid, clear cylindrical bottle with real small assorted seashells and bright pink/green/purple confetti. Arrange twelve bottles as two visible rows six each beneath same hanger, silver chains faithfully attached. Do not omit obscured back bottles. Macro one actual clear bottle with shells/confetti and stopper. Lifestyle coastal tabletop. Heading 'Seashell Bottle Keyrings'.",
+      "sha256": "4f941f2a0dacac2f45e01c9e35aa19b0e7e9f381f3562e29352e949f21369e3a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-67afacd1-991c-44a6-8a6f-99f934f6b0c7.png",
+      "grid_sha256": "97869fb5bc070be4913ff57e588af7a062129cefe8897aa311ed375d3e58756f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crop inspected against both angles of same assortment: one blue twelve-hole hanger with twelve ring-chain bottle keyrings, shells and bright confetti, translucent stoppers retained. Back-row bottles partly overlap as in source; no doubled assortment. Standalone shell-bottle macro valid and heading accurate."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baselines_verified": true
+}

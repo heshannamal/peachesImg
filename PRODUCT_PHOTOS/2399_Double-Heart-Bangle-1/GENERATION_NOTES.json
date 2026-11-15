@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260916-WA0100.jpg": "3cccb2aa2b8740e2645f59537dfcc4b6d428255d364a59ffd7bc3615f341bd70"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-11835136-1bfb-470f-9af3-afbc1f87b0db.png",
+      "source_output": "/workspace/generated_images/exec-11835136-1bfb-470f-9af3-afbc1f87b0db.png",
+      "sha256": "e71fd7d031d45d2ef2d2fc11e949a60f48cc240dba622a05ab8887f035d519c9",
+      "prompt": "EDIT referenced actual product photograph(s), preserve exact source product identity/count/shapes/colours. Website1536x1024sheet exact3columns2rows x512/1024 y512. Top cells full product isolatedwhite; full product lavendercreamstyled; full product tasteful lifestyle. Bottom standalone tight REALPART macro specified; full product promo with accurate heading; blank cream. Independent panels,no cross-boundary objects. Remove hand/source price banner/material and warranty claims. All whole-assortment views show same complete count with margins. ONE thin round gold open cuff, two terminal ball ends at back opening, two small beads at each side, two front beads and central ring suspending TWO overlapping hollow heart-outline charms. Preserve two dangling interlinked hearts, not solid plate. Macro actual two heart charms and attachment ring. Lifestyle on dressing table. Heading 'Double Heart Cuff Bangle'.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-11835136-1bfb-470f-9af3-afbc1f87b0db.png",
+      "prompt": "EDIT referenced actual product photograph(s), preserve exact source product identity/count/shapes/colours. Website1536x1024sheet exact3columns2rows x512/1024 y512. Top cells full product isolatedwhite; full product lavendercreamstyled; full product tasteful lifestyle. Bottom standalone tight REALPART macro specified; full product promo with accurate heading; blank cream. Independent panels,no cross-boundary objects. Remove hand/source price banner/material and warranty claims. All whole-assortment views show same complete count with margins. ONE thin round gold open cuff, two terminal ball ends at back opening, two small beads at each side, two front beads and central ring suspending TWO overlapping hollow heart-outline charms. Preserve two dangling interlinked hearts, not solid plate. Macro actual two heart charms and attachment ring. Lifestyle on dressing table. Heading 'Double Heart Cuff Bangle'.",
+      "sha256": "99d62b4aa5b95540b3c0300797075f3cd78674f8f0bf92d5cfc956f352ce904e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-11835136-1bfb-470f-9af3-afbc1f87b0db.png",
+      "grid_sha256": "e71fd7d031d45d2ef2d2fc11e949a60f48cc240dba622a05ab8887f035d519c9",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected against source: one gold cuff, two terminal balls, paired side beads, front two beads and two overlapping hollow dangling hearts retained; actual-part tight detail and accurate heading."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-11835136-1bfb-470f-9af3-afbc1f87b0db.png",
+      "prompt": "EDIT referenced actual product photograph(s), preserve exact source product identity/count/shapes/colours. Website1536x1024sheet exact3columns2rows x512/1024 y512. Top cells full product isolatedwhite; full product lavendercreamstyled; full product tasteful lifestyle. Bottom standalone tight REALPART macro specified; full product promo with accurate heading; blank cream. Independent panels,no cross-boundary objects. Remove hand/source price banner/material and warranty claims. All whole-assortment views show same complete count with margins. ONE thin round gold open cuff, two terminal ball ends at back opening, two small beads at each side, two front beads and central ring suspending TWO overlapping hollow heart-outline charms. Preserve two dangling interlinked hearts, not solid plate. Macro actual two heart charms and attachment ring. Lifestyle on dressing table. Heading 'Double Heart Cuff Bangle'.",
+      "sha256": "9c52af90bec37a58afb8cd55eba82b8846d0946a0b93d8b0e548437fa63ac8c4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-11835136-1bfb-470f-9af3-afbc1f87b0db.png",
+      "grid_sha256": "e71fd7d031d45d2ef2d2fc11e949a60f48cc240dba622a05ab8887f035d519c9",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected against source: one gold cuff, two terminal balls, paired side beads, front two beads and two overlapping hollow dangling hearts retained; actual-part tight detail and accurate heading."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-11835136-1bfb-470f-9af3-afbc1f87b0db.png",
+      "prompt": "EDIT referenced actual product photograph(s), preserve exact source product identity/count/shapes/colours. Website1536x1024sheet exact3columns2rows x512/1024 y512. Top cells full product isolatedwhite; full product lavendercreamstyled; full product tasteful lifestyle. Bottom standalone tight REALPART macro specified; full product promo with accurate heading; blank cream. Independent panels,no cross-boundary objects. Remove hand/source price banner/material and warranty claims. All whole-assortment views show same complete count with margins. ONE thin round gold open cuff, two terminal ball ends at back opening, two small beads at each side, two front beads and central ring suspending TWO overlapping hollow heart-outline charms. Preserve two dangling interlinked hearts, not solid plate. Macro actual two heart charms and attachment ring. Lifestyle on dressing table. Heading 'Double Heart Cuff Bangle'.",
+      "sha256": "ee49bd997bc210e9c7581b6980aa63f06fafdd8fa3b3a20de723a2cd64d5cf54",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-11835136-1bfb-470f-9af3-afbc1f87b0db.png",
+      "grid_sha256": "e71fd7d031d45d2ef2d2fc11e949a60f48cc240dba622a05ab8887f035d519c9",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected against source: one gold cuff, two terminal balls, paired side beads, front two beads and two overlapping hollow dangling hearts retained; actual-part tight detail and accurate heading."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-11835136-1bfb-470f-9af3-afbc1f87b0db.png",
+      "prompt": "EDIT referenced actual product photograph(s), preserve exact source product identity/count/shapes/colours. Website1536x1024sheet exact3columns2rows x512/1024 y512. Top cells full product isolatedwhite; full product lavendercreamstyled; full product tasteful lifestyle. Bottom standalone tight REALPART macro specified; full product promo with accurate heading; blank cream. Independent panels,no cross-boundary objects. Remove hand/source price banner/material and warranty claims. All whole-assortment views show same complete count with margins. ONE thin round gold open cuff, two terminal ball ends at back opening, two small beads at each side, two front beads and central ring suspending TWO overlapping hollow heart-outline charms. Preserve two dangling interlinked hearts, not solid plate. Macro actual two heart charms and attachment ring. Lifestyle on dressing table. Heading 'Double Heart Cuff Bangle'.",
+      "sha256": "73239b3d5b85d409aebec69658ffdebea65f0cf6e2adcbf31d903ca490ce3b25",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-11835136-1bfb-470f-9af3-afbc1f87b0db.png",
+      "grid_sha256": "e71fd7d031d45d2ef2d2fc11e949a60f48cc240dba622a05ab8887f035d519c9",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crop inspected against source: one gold cuff, two terminal balls, paired side beads, front two beads and two overlapping hollow dangling hearts retained; actual-part tight detail and accurate heading."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-11835136-1bfb-470f-9af3-afbc1f87b0db.png",
+      "prompt": "EDIT referenced actual product photograph(s), preserve exact source product identity/count/shapes/colours. Website1536x1024sheet exact3columns2rows x512/1024 y512. Top cells full product isolatedwhite; full product lavendercreamstyled; full product tasteful lifestyle. Bottom standalone tight REALPART macro specified; full product promo with accurate heading; blank cream. Independent panels,no cross-boundary objects. Remove hand/source price banner/material and warranty claims. All whole-assortment views show same complete count with margins. ONE thin round gold open cuff, two terminal ball ends at back opening, two small beads at each side, two front beads and central ring suspending TWO overlapping hollow heart-outline charms. Preserve two dangling interlinked hearts, not solid plate. Macro actual two heart charms and attachment ring. Lifestyle on dressing table. Heading 'Double Heart Cuff Bangle'.",
+      "sha256": "2136955c101be1c5aa5580c18796534e59452f94f5be597c931b6191311b836d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-11835136-1bfb-470f-9af3-afbc1f87b0db.png",
+      "grid_sha256": "e71fd7d031d45d2ef2d2fc11e949a60f48cc240dba622a05ab8887f035d519c9",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crop inspected against source: one gold cuff, two terminal balls, paired side beads, front two beads and two overlapping hollow dangling hearts retained; actual-part tight detail and accurate heading."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baselines_verified": true
+}

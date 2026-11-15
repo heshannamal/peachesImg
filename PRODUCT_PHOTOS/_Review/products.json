@@ -29480,15 +29480,17 @@
   },
   {
     "product_id": "2415",
-    "folder": "2415_Pastel-Stud-Earring-Cards-0",
+    "folder": "2415_Pastel-Stud-Earring-Cards-1",
     "source_image_ids": [
       2695
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2416",

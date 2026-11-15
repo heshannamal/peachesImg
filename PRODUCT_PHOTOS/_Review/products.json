@@ -28965,9 +28965,9 @@
     "source_image_ids": [
       2649
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -28977,36 +28977,40 @@
     "source_image_ids": [
       2650
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2374",
-    "folder": "2374_Fogg-Pocket-Body-Sprays-0",
+    "folder": "2374_Fogg-Pocket-Body-Sprays-1",
     "source_image_ids": [
       2651
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2375",
-    "folder": "2375_Glass-Bangle-Box-0",
+    "folder": "2375_Glass-Bangle-Box-1",
     "source_image_ids": [
       2652,
       2653
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2376",
@@ -29014,7 +29018,7 @@
     "source_image_ids": [
       2654
     ],
-    "new_images": 4,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -29026,7 +29030,7 @@
     "source_image_ids": [
       2655
     ],
-    "new_images": 4,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -29034,51 +29038,59 @@
   },
   {
     "product_id": "2378",
-    "folder": "2378_Pastel-Decorative-Hair-Clips-0",
+    "folder": "2378_Pastel-Decorative-Hair-Clips-1",
     "source_image_ids": [
       2656
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2379",
-    "folder": "2379_Colourful-Decorative-Hair-Clips-0",
+    "folder": "2379_Colourful-Decorative-Hair-Clips-1",
     "source_image_ids": [
       2657
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2380",
-    "folder": "2380_Multicolour-Decorative-Hair-Clips-0",
+    "folder": "2380_Multicolour-Decorative-Hair-Clips-1",
     "source_image_ids": [
       2658
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2381",
-    "folder": "2381_Pink-Decorative-Hair-Clips-0",
+    "folder": "2381_Pink-Decorative-Hair-Clips-1",
     "source_image_ids": [
       2659
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2382",

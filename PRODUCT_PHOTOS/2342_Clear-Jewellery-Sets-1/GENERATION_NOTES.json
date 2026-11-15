@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260819-WA0397.jpg": "dc62a226678087bc0fc3695d5036acba5d2beb5d9bf96119db46fc51e7c937a0"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-f3e68987-ef3f-47e5-8084-1e03da2aa159.png",
+      "source_output": "/workspace/generated_images/exec-f3e68987-ef3f-47e5-8084-1e03da2aa159.png",
+      "sha256": "0355bf318cd8743b98c5e513cd03925acbdf3d3a4701908f2a04186fb24f3ad9",
+      "prompt": "Native edit referenced actualoriginal only. Create NEW realisticwebsitephotography1536x1024landscape exact3columns x2rows512squarecells no gutters/borders/labels. Top-left entireTHREE-CARDassortment pureWHITEbackground #FFFFFF (NOT sourcegrey). Top-middle same3cards lavender/cream. Top-right same3cards vanitylifestyle noextra jewellery. Bottom-left standalone TIGHT actualpendant/stones/chainpart macro, notwholeassortment. Bottom-middle same3cards promo accurateheading 'Floral Pendant Jewellery Sets'. Bottom-right blankcream. Sourcecollage is THREEdistinctvariantcards notthreeangles ofsamecard. Exactly3separate smallwhite FashionJewelry cards inclearwrap eachSIXstuds(threepairs),ONEgoldnecklacependant,ONEgoldring. Total18studs3necklaces3rings. Preserve eachcard variant and sourcearrangements, goldmetal/stonecolours/shapes. Do notgenerate12sets fromsuppliertext. Remove hands/collagegrid/price/greybackground. Full3cards entirelywithin eachfullview.\nPendanteachgoldFLOWER+LEAFstem with roundcentreiridescentstone and smallWHITEPEARLaccent, threevariantsCLEAR/PALEBLUE,PINK,LIGHTGREEN. Preserve sourceflowerpendantshape with smallgoldleavesbelow and pearlbeside. Top2cards studs pearlpair+iridescentroundpair+goldroseorheartpair. Bottomgreenvariant studs iridescentroundpair+goldHEARTpair+goldROSEpair (NOpearlstuds onbottomcard). Eachcardonegoldsimplecrown/sculptedbandring. Exactsourcevariants and placement.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-f3e68987-ef3f-47e5-8084-1e03da2aa159.png",
+      "prompt": "Native edit referenced actualoriginal only. Create NEW realisticwebsitephotography1536x1024landscape exact3columns x2rows512squarecells no gutters/borders/labels. Top-left entireTHREE-CARDassortment pureWHITEbackground #FFFFFF (NOT sourcegrey). Top-middle same3cards lavender/cream. Top-right same3cards vanitylifestyle noextra jewellery. Bottom-left standalone TIGHT actualpendant/stones/chainpart macro, notwholeassortment. Bottom-middle same3cards promo accurateheading 'Floral Pendant Jewellery Sets'. Bottom-right blankcream. Sourcecollage is THREEdistinctvariantcards notthreeangles ofsamecard. Exactly3separate smallwhite FashionJewelry cards inclearwrap eachSIXstuds(threepairs),ONEgoldnecklacependant,ONEgoldring. Total18studs3necklaces3rings. Preserve eachcard variant and sourcearrangements, goldmetal/stonecolours/shapes. Do notgenerate12sets fromsuppliertext. Remove hands/collagegrid/price/greybackground. Full3cards entirelywithin eachfullview.\nPendanteachgoldFLOWER+LEAFstem with roundcentreiridescentstone and smallWHITEPEARLaccent, threevariantsCLEAR/PALEBLUE,PINK,LIGHTGREEN. Preserve sourceflowerpendantshape with smallgoldleavesbelow and pearlbeside. Top2cards studs pearlpair+iridescentroundpair+goldroseorheartpair. Bottomgreenvariant studs iridescentroundpair+goldHEARTpair+goldROSEpair (NOpearlstuds onbottomcard). Eachcardonegoldsimplecrown/sculptedbandring. Exactsourcevariants and placement.",
+      "sha256": "22c49042c8fefe9aae3797428e685275f1433abf534f6baa794210899d0429cf",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f3e68987-ef3f-47e5-8084-1e03da2aa159.png",
+      "grid_sha256": "0355bf318cd8743b98c5e513cd03925acbdf3d3a4701908f2a04186fb24f3ad9",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Inspected actual five websitecrops againstsourcecollage: all3distinctvariantcards retained each6studs+1necklace+1ring, correctpendantshapes/colours and variantstudlayouts. Fullassortment inwhite/lavendercream/vanity/promo; tightstandaloneactualpendantpart macro. Accurateheading, true512boundaries."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-f3e68987-ef3f-47e5-8084-1e03da2aa159.png",
+      "prompt": "Native edit referenced actualoriginal only. Create NEW realisticwebsitephotography1536x1024landscape exact3columns x2rows512squarecells no gutters/borders/labels. Top-left entireTHREE-CARDassortment pureWHITEbackground #FFFFFF (NOT sourcegrey). Top-middle same3cards lavender/cream. Top-right same3cards vanitylifestyle noextra jewellery. Bottom-left standalone TIGHT actualpendant/stones/chainpart macro, notwholeassortment. Bottom-middle same3cards promo accurateheading 'Floral Pendant Jewellery Sets'. Bottom-right blankcream. Sourcecollage is THREEdistinctvariantcards notthreeangles ofsamecard. Exactly3separate smallwhite FashionJewelry cards inclearwrap eachSIXstuds(threepairs),ONEgoldnecklacependant,ONEgoldring. Total18studs3necklaces3rings. Preserve eachcard variant and sourcearrangements, goldmetal/stonecolours/shapes. Do notgenerate12sets fromsuppliertext. Remove hands/collagegrid/price/greybackground. Full3cards entirelywithin eachfullview.\nPendanteachgoldFLOWER+LEAFstem with roundcentreiridescentstone and smallWHITEPEARLaccent, threevariantsCLEAR/PALEBLUE,PINK,LIGHTGREEN. Preserve sourceflowerpendantshape with smallgoldleavesbelow and pearlbeside. Top2cards studs pearlpair+iridescentroundpair+goldroseorheartpair. Bottomgreenvariant studs iridescentroundpair+goldHEARTpair+goldROSEpair (NOpearlstuds onbottomcard). Eachcardonegoldsimplecrown/sculptedbandring. Exactsourcevariants and placement.",
+      "sha256": "a63208243fff7c273cefc50b0e91ede9a5b8f51be7a42326d81b1c8114b83435",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f3e68987-ef3f-47e5-8084-1e03da2aa159.png",
+      "grid_sha256": "0355bf318cd8743b98c5e513cd03925acbdf3d3a4701908f2a04186fb24f3ad9",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Inspected actual five websitecrops againstsourcecollage: all3distinctvariantcards retained each6studs+1necklace+1ring, correctpendantshapes/colours and variantstudlayouts. Fullassortment inwhite/lavendercream/vanity/promo; tightstandaloneactualpendantpart macro. Accurateheading, true512boundaries."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-f3e68987-ef3f-47e5-8084-1e03da2aa159.png",
+      "prompt": "Native edit referenced actualoriginal only. Create NEW realisticwebsitephotography1536x1024landscape exact3columns x2rows512squarecells no gutters/borders/labels. Top-left entireTHREE-CARDassortment pureWHITEbackground #FFFFFF (NOT sourcegrey). Top-middle same3cards lavender/cream. Top-right same3cards vanitylifestyle noextra jewellery. Bottom-left standalone TIGHT actualpendant/stones/chainpart macro, notwholeassortment. Bottom-middle same3cards promo accurateheading 'Floral Pendant Jewellery Sets'. Bottom-right blankcream. Sourcecollage is THREEdistinctvariantcards notthreeangles ofsamecard. Exactly3separate smallwhite FashionJewelry cards inclearwrap eachSIXstuds(threepairs),ONEgoldnecklacependant,ONEgoldring. Total18studs3necklaces3rings. Preserve eachcard variant and sourcearrangements, goldmetal/stonecolours/shapes. Do notgenerate12sets fromsuppliertext. Remove hands/collagegrid/price/greybackground. Full3cards entirelywithin eachfullview.\nPendanteachgoldFLOWER+LEAFstem with roundcentreiridescentstone and smallWHITEPEARLaccent, threevariantsCLEAR/PALEBLUE,PINK,LIGHTGREEN. Preserve sourceflowerpendantshape with smallgoldleavesbelow and pearlbeside. Top2cards studs pearlpair+iridescentroundpair+goldroseorheartpair. Bottomgreenvariant studs iridescentroundpair+goldHEARTpair+goldROSEpair (NOpearlstuds onbottomcard). Eachcardonegoldsimplecrown/sculptedbandring. Exactsourcevariants and placement.",
+      "sha256": "c5c4fe4623c46aaf8254ba4b087f99894110f10bcee34e20c8960889bfebceab",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f3e68987-ef3f-47e5-8084-1e03da2aa159.png",
+      "grid_sha256": "0355bf318cd8743b98c5e513cd03925acbdf3d3a4701908f2a04186fb24f3ad9",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Inspected actual five websitecrops againstsourcecollage: all3distinctvariantcards retained each6studs+1necklace+1ring, correctpendantshapes/colours and variantstudlayouts. Fullassortment inwhite/lavendercream/vanity/promo; tightstandaloneactualpendantpart macro. Accurateheading, true512boundaries."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-f3e68987-ef3f-47e5-8084-1e03da2aa159.png",
+      "prompt": "Native edit referenced actualoriginal only. Create NEW realisticwebsitephotography1536x1024landscape exact3columns x2rows512squarecells no gutters/borders/labels. Top-left entireTHREE-CARDassortment pureWHITEbackground #FFFFFF (NOT sourcegrey). Top-middle same3cards lavender/cream. Top-right same3cards vanitylifestyle noextra jewellery. Bottom-left standalone TIGHT actualpendant/stones/chainpart macro, notwholeassortment. Bottom-middle same3cards promo accurateheading 'Floral Pendant Jewellery Sets'. Bottom-right blankcream. Sourcecollage is THREEdistinctvariantcards notthreeangles ofsamecard. Exactly3separate smallwhite FashionJewelry cards inclearwrap eachSIXstuds(threepairs),ONEgoldnecklacependant,ONEgoldring. Total18studs3necklaces3rings. Preserve eachcard variant and sourcearrangements, goldmetal/stonecolours/shapes. Do notgenerate12sets fromsuppliertext. Remove hands/collagegrid/price/greybackground. Full3cards entirelywithin eachfullview.\nPendanteachgoldFLOWER+LEAFstem with roundcentreiridescentstone and smallWHITEPEARLaccent, threevariantsCLEAR/PALEBLUE,PINK,LIGHTGREEN. Preserve sourceflowerpendantshape with smallgoldleavesbelow and pearlbeside. Top2cards studs pearlpair+iridescentroundpair+goldroseorheartpair. Bottomgreenvariant studs iridescentroundpair+goldHEARTpair+goldROSEpair (NOpearlstuds onbottomcard). Eachcardonegoldsimplecrown/sculptedbandring. Exactsourcevariants and placement.",
+      "sha256": "366785552916b3703104185d4b2fc7a39fe366a7faba58ee8d839c7a63425e32",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f3e68987-ef3f-47e5-8084-1e03da2aa159.png",
+      "grid_sha256": "0355bf318cd8743b98c5e513cd03925acbdf3d3a4701908f2a04186fb24f3ad9",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Inspected actual five websitecrops againstsourcecollage: all3distinctvariantcards retained each6studs+1necklace+1ring, correctpendantshapes/colours and variantstudlayouts. Fullassortment inwhite/lavendercream/vanity/promo; tightstandaloneactualpendantpart macro. Accurateheading, true512boundaries."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-f3e68987-ef3f-47e5-8084-1e03da2aa159.png",
+      "prompt": "Native edit referenced actualoriginal only. Create NEW realisticwebsitephotography1536x1024landscape exact3columns x2rows512squarecells no gutters/borders/labels. Top-left entireTHREE-CARDassortment pureWHITEbackground #FFFFFF (NOT sourcegrey). Top-middle same3cards lavender/cream. Top-right same3cards vanitylifestyle noextra jewellery. Bottom-left standalone TIGHT actualpendant/stones/chainpart macro, notwholeassortment. Bottom-middle same3cards promo accurateheading 'Floral Pendant Jewellery Sets'. Bottom-right blankcream. Sourcecollage is THREEdistinctvariantcards notthreeangles ofsamecard. Exactly3separate smallwhite FashionJewelry cards inclearwrap eachSIXstuds(threepairs),ONEgoldnecklacependant,ONEgoldring. Total18studs3necklaces3rings. Preserve eachcard variant and sourcearrangements, goldmetal/stonecolours/shapes. Do notgenerate12sets fromsuppliertext. Remove hands/collagegrid/price/greybackground. Full3cards entirelywithin eachfullview.\nPendanteachgoldFLOWER+LEAFstem with roundcentreiridescentstone and smallWHITEPEARLaccent, threevariantsCLEAR/PALEBLUE,PINK,LIGHTGREEN. Preserve sourceflowerpendantshape with smallgoldleavesbelow and pearlbeside. Top2cards studs pearlpair+iridescentroundpair+goldroseorheartpair. Bottomgreenvariant studs iridescentroundpair+goldHEARTpair+goldROSEpair (NOpearlstuds onbottomcard). Eachcardonegoldsimplecrown/sculptedbandring. Exactsourcevariants and placement.",
+      "sha256": "d885ed31483430acbff4be0ef8103955bbfc2e083b5f537edd3c601227bd80bb",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f3e68987-ef3f-47e5-8084-1e03da2aa159.png",
+      "grid_sha256": "0355bf318cd8743b98c5e513cd03925acbdf3d3a4701908f2a04186fb24f3ad9",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Inspected actual five websitecrops againstsourcecollage: all3distinctvariantcards retained each6studs+1necklace+1ring, correctpendantshapes/colours and variantstudlayouts. Fullassortment inwhite/lavendercream/vanity/promo; tightstandaloneactualpendantpart macro. Accurateheading, true512boundaries."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Three distinct clear/pink/green floral-leaf pearl pendant jewellerycards each6studs1necklace1ring",
+  "original_baseline_verified": true
+}

@@ -28544,30 +28544,6 @@
     "source_image_ids": [
       2613
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
-    "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
-  },
-  {
-    "product_id": "2338",
-    "folder": "2338_Round-Colourful-Studs-0",
-    "source_image_ids": [
-      2614
-    ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
-    "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
-  },
-  {
-    "product_id": "2339",
-    "folder": "2339_Leaf-Stud-Earrings-0",
-    "source_image_ids": [
-      2615
-    ],
     "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
@@ -28575,14 +28551,42 @@
     "required_new_images": 5
   },
   {
+    "product_id": "2338",
+    "folder": "2338_Round-Colourful-Studs-1",
+    "source_image_ids": [
+      2614
+    ],
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
+    "grouping_status": "initial-visual-grouping",
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
+  },
+  {
+    "product_id": "2339",
+    "folder": "2339_Leaf-Stud-Earrings-1",
+    "source_image_ids": [
+      2615
+    ],
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
+    "grouping_status": "initial-visual-grouping",
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
+  },
+  {
     "product_id": "2340",
     "folder": "2340_Colourful-Ribbon-Rolls-0",
     "source_image_ids": [
       2616
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -28592,60 +28596,68 @@
     "source_image_ids": [
       2617
     ],
-    "new_images": 0,
+    "new_images": 4,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2342",
-    "folder": "2342_Clear-Jewellery-Sets-0",
+    "folder": "2342_Clear-Jewellery-Sets-1",
     "source_image_ids": [
       2618
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2343",
-    "folder": "2343_Pastel-Jewellery-Sets-0",
+    "folder": "2343_Pastel-Jewellery-Sets-1",
     "source_image_ids": [
       2619
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2344",
-    "folder": "2344_Colourful-Beaded-Bracelets-0",
+    "folder": "2344_Colourful-Beaded-Bracelets-1",
     "source_image_ids": [
       2620,
       2621
     ],
-    "new_images": 2,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2345",
-    "folder": "2345_Red-Beaded-Bracelets-0",
+    "folder": "2345_Red-Beaded-Bracelets-1",
     "source_image_ids": [
       2622
     ],
-    "new_images": 2,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2316-2415",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2346",

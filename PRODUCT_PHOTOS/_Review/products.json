@@ -27741,21 +27741,23 @@
     ],
     "new_images": 0,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "blocked_moderation",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2271",
-    "folder": "2271_Planet-Globe-Lamp-0",
+    "folder": "2271_Planet-Globe-Lamp-1",
     "source_image_ids": [
       2546
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2272",
@@ -27765,21 +27767,23 @@
     ],
     "new_images": 0,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "blocked_moderation",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2273",
-    "folder": "2273_Bunny-Globe-Lamp-0",
+    "folder": "2273_Bunny-Globe-Lamp-1",
     "source_image_ids": [
       2548
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2274",
@@ -27787,9 +27791,9 @@
     "source_image_ids": [
       2549
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -27799,9 +27803,9 @@
     "source_image_ids": [
       2550
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -27819,15 +27823,17 @@
   },
   {
     "product_id": "2277",
-    "folder": "2277_Landscape-Globe-Lamp-0",
+    "folder": "2277_Landscape-Globe-Lamp-1",
     "source_image_ids": [
       2552
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2278",

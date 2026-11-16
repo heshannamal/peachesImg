@@ -1,0 +1,27 @@
+{
+  "status": "blocked_moderation",
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260807-WA0263.jpg": "a36beeeffcdc51b7c065a998af33d01e8c001f496b9936785035709f81b25244"
+  },
+  "records": [],
+  "blocked_attempt": {
+    "prompt": "Native ORIGINAL REFERENCED edit actualproductphoto only. NEW realisticwebsitephoto1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left entireONE lamp PUREWHITE#FFFFFF. Top-middle sameONE lamp lavender/creamstyled. Top-right sameONE lamp warmbedsidetablelifestyle. Bottom-left standalone TIGHT actualetchedglass/basejunctionpart macro NOTwholelamp. Bottom-middle sameONE lamp promo accurateheading 'Character Crystal Globe Lamp'. Bottom-right blankcream unused. Preserve EXACTONE transparentGLASS SPHERE onroundcylindrical LEDBASE with lightWOOD topdisc and BLACK/DARK cylindricalsidewall asoriginal, warmwhiteillumination, palePOWERcordwherevisible. ExactoriginalwhiteLASERETCHING insideglass notopaqueprintedfigure. Remove sourceprice/codeoverlay/blackbackground. Entirelampinframeeveryfullview. Do notadd lamps/changebasecolour/characterpose.\nActualetching ONE STITCH largealienearsupandsplayed seatedthreequarterprofile lookingRIGHT,smallbody and visiblefeet, smallheldobject/curvedmarks atRIGHT. Preserveexactpose/headshape/ears/eyes/sourceengraving,notfrontfacingcartoon. Noextracharacters.",
+    "http_status": 400,
+    "request_id": "72ac15a0-7566-4c13-80c8-b7d6bac24a87",
+    "raw_error": {
+      "message": "Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 72ac15a0-7566-4c13-80c8-b7d6bac24a87.",
+      "type": "image_generation_user_error",
+      "param": null,
+      "code": "moderation_blocked",
+      "moderation_details": {
+        "moderation_stage": "output",
+        "categories": [
+          "other"
+        ]
+      }
+    },
+    "retried": false
+  }
+}

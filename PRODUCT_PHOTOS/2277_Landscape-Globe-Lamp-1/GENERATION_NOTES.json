@@ -33,7 +33,7 @@
         768,
         512
       ],
-      "visual_review": "Actualsolarsystemetchedorb+woodbase, true2x2cellsremapped; correctwhite/bedside/tightetchmacro/accuratepromo."
+      "visual_review": "Actualsolarsystemetchedglasssphere+woodbase preserved, correctwhite/lavenderstyled/bedsideviews, tightetchedmacro, accuratepromo; existing4viewsretained andmissingstyledcorrectedonce."
     },
     {
       "saved_file": "New/02_Styled-Background.png",
@@ -75,7 +75,7 @@
         1536,
         512
       ],
-      "visual_review": "Actualsolarsystemetchedorb+woodbase, true2x2cellsremapped; correctwhite/bedside/tightetchmacro/accuratepromo."
+      "visual_review": "Actualsolarsystemetchedglasssphere+woodbase preserved, correctwhite/lavenderstyled/bedsideviews, tightetchedmacro, accuratepromo; existing4viewsretained andmissingstyledcorrectedonce."
     },
     {
       "saved_file": "New/04_Detail.png",
@@ -96,7 +96,7 @@
         768,
         1024
       ],
-      "visual_review": "Actualsolarsystemetchedorb+woodbase, true2x2cellsremapped; correctwhite/bedside/tightetchmacro/accuratepromo."
+      "visual_review": "Actualsolarsystemetchedglasssphere+woodbase preserved, correctwhite/lavenderstyled/bedsideviews, tightetchedmacro, accuratepromo; existing4viewsretained andmissingstyledcorrectedonce."
     },
     {
       "saved_file": "New/05_Promotional.png",
@@ -117,13 +117,44 @@
         1536,
         1024
       ],
-      "visual_review": "Actualsolarsystemetchedorb+woodbase, true2x2cellsremapped; correctwhite/bedside/tightetchmacro/accuratepromo."
+      "visual_review": "Actualsolarsystemetchedglasssphere+woodbase preserved, correctwhite/lavenderstyled/bedsideviews, tightetchedmacro, accuratepromo; existing4viewsretained andmissingstyledcorrectedonce."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-8808d05b-950c-48df-ba47-64699dc08e4d.png",
+      "source_output": "/workspace/generated_images/exec-8808d05b-950c-48df-ba47-64699dc08e4d.png",
+      "sha256": "ca54e881eacf4ef51b94fd0877d685fdaaaff38ee20c6c2016877419a9be3218",
+      "prompt": "Original-referencednativeedit ONE1536x1024exact3x2equal512grid topWHITEbackground/lavendercreamstyled/lifestylebedside;bottomTIGHTrealetchedpartmacro/promoheading\"Solar System Crystal Globe Lamp\"/blankcream. ActualONEclearroundglasssphere onONEshortlightwoodroundLEDbase withwarmwhiteillumination. InternalWHITEetchingSOLARSYSTEM withSunandplanets alongellipticalorbits, smallplanetlabels andmanywhitestars. Preserveactualplanet/orbitdiagramnotlandscape. ALLfourfullviewsONEwholeglasssphere+wholewoodbase sourceidentitycountshapescolours unchanged. Whitebackgroundclearorboutlinevisible,styledlavendercream, lifestyleoneglowinglamponbedside, nootherlamps. MacrostandaloneTIGHTactualetchedplanet/characterpartnotwholeorb. PromoSMALLaccurateheading+wholelamp nottextonly. Removepricebanner/store/cordoutofframeifneeded. Websitequality. CRITICAL3columns2rows512cells not2x2. TopMIDDLE distinctlavendercreamstyledphoto wholeactualsolarsystemorbwoodbase. Existing4viewsvalidpreserve.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-8808d05b-950c-48df-ba47-64699dc08e4d.png",
+      "prompt": "Original-referencednativeedit ONE1536x1024exact3x2equal512grid topWHITEbackground/lavendercreamstyled/lifestylebedside;bottomTIGHTrealetchedpartmacro/promoheading\"Solar System Crystal Globe Lamp\"/blankcream. ActualONEclearroundglasssphere onONEshortlightwoodroundLEDbase withwarmwhiteillumination. InternalWHITEetchingSOLARSYSTEM withSunandplanets alongellipticalorbits, smallplanetlabels andmanywhitestars. Preserveactualplanet/orbitdiagramnotlandscape. ALLfourfullviewsONEwholeglasssphere+wholewoodbase sourceidentitycountshapescolours unchanged. Whitebackgroundclearorboutlinevisible,styledlavendercream, lifestyleoneglowinglamponbedside, nootherlamps. MacrostandaloneTIGHTactualetchedplanet/characterpartnotwholeorb. PromoSMALLaccurateheading+wholelamp nottextonly. Removepricebanner/store/cordoutofframeifneeded. Websitequality. CRITICAL3columns2rows512cells not2x2. TopMIDDLE distinctlavendercreamstyledphoto wholeactualsolarsystemorbwoodbase. Existing4viewsvalidpreserve.",
+      "sha256": "ab5ab9a0b44c4bbd3b1a584fdacd1571dbe3cf40cbb09e303c55684a7c831c6f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-8808d05b-950c-48df-ba47-64699dc08e4d.png",
+      "grid_sha256": "ca54e881eacf4ef51b94fd0877d685fdaaaff38ee20c6c2016877419a9be3218",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actualsolarsystemetchedglasssphere+woodbase preserved, correctwhite/lavenderstyled/bedsideviews, tightetchedmacro, accuratepromo; existing4viewsretained andmissingstyledcorrectedonce."
     }
   ],
-  "status": "corrective_in_progress",
+  "status": "five_images_saved_and_visually_checked",
   "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
   "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
   "corrective_attempts": {
     "02_Styled-Background.png": 1
-  }
+  },
+  "originals_verified_against_frozen_plan": true
 }

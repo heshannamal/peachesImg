@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260807-WA0264.jpg": "272b954213c466603bbc6d27bcb9d220c945aaa290063165a67360924360e63a"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-51d132c3-57d2-46dc-b54a-3a07855b4fd4.png",
+      "source_output": "/workspace/generated_images/exec-51d132c3-57d2-46dc-b54a-3a07855b4fd4.png",
+      "sha256": "8239ad8ab47bdbfd878d18a43734eb4419104b8272017b91858265405c219794",
+      "prompt": "Native ORIGINAL REFERENCED edit actualproductphoto only. NEW realisticwebsitephoto1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left entireONE lamp PUREWHITE#FFFFFF. Top-middle sameONE lamp lavender/creamstyled. Top-right sameONE lamp warmbedsidetablelifestyle. Bottom-left standalone TIGHT actualetchedglass/basejunctionpart macro NOTwholelamp. Bottom-middle sameONE lamp promo accurateheading 'Bunny Character Crystal Globe Lamp'. Bottom-right blankcream unused. Preserve EXACTONE transparentGLASS SPHERE onroundcylindrical LEDBASE with lightWOOD topdisc and BLACK/DARK cylindricalsidewall asoriginal, warmwhiteillumination, palePOWERcordwherevisible. ExactoriginalwhiteLASERETCHING insideglass notopaqueprintedfigure. Remove sourceprice/codeoverlay/blackbackground. Entirelampinframeeveryfullview. Do notadd lamps/changebasecolour/characterpose.\nActualetching ONE smallfrontfacingLABUBUlike fuzzyrabbit-earedMONSTER, twoveryLONGUPRIGHTbunnyears, bigdarkeyes/arched brows, WIDE toothygrin withtriangularteeth, smallroundfuzzybody armsdownandout and shortfeet. Preserveactualcharacteridentity/headoutline/teeth/pose; notgenericcuteplainbunny. Noextracharacters.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-51d132c3-57d2-46dc-b54a-3a07855b4fd4.png",
+      "prompt": "Native ORIGINAL REFERENCED edit actualproductphoto only. NEW realisticwebsitephoto1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left entireONE lamp PUREWHITE#FFFFFF. Top-middle sameONE lamp lavender/creamstyled. Top-right sameONE lamp warmbedsidetablelifestyle. Bottom-left standalone TIGHT actualetchedglass/basejunctionpart macro NOTwholelamp. Bottom-middle sameONE lamp promo accurateheading 'Bunny Character Crystal Globe Lamp'. Bottom-right blankcream unused. Preserve EXACTONE transparentGLASS SPHERE onroundcylindrical LEDBASE with lightWOOD topdisc and BLACK/DARK cylindricalsidewall asoriginal, warmwhiteillumination, palePOWERcordwherevisible. ExactoriginalwhiteLASERETCHING insideglass notopaqueprintedfigure. Remove sourceprice/codeoverlay/blackbackground. Entirelampinframeeveryfullview. Do notadd lamps/changebasecolour/characterpose.\nActualetching ONE smallfrontfacingLABUBUlike fuzzyrabbit-earedMONSTER, twoveryLONGUPRIGHTbunnyears, bigdarkeyes/arched brows, WIDE toothygrin withtriangularteeth, smallroundfuzzybody armsdownandout and shortfeet. Preserveactualcharacteridentity/headoutline/teeth/pose; notgenericcuteplainbunny. Noextracharacters.",
+      "sha256": "420997df2997db3c4299dcbe7b8ecdd21942e583d1cc568c36e8080c8aac905e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-51d132c3-57d2-46dc-b54a-3a07855b4fd4.png",
+      "grid_sha256": "8239ad8ab47bdbfd878d18a43734eb4419104b8272017b91858265405c219794",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual savedfivecrops inspectedagainstoriginal:ONE clearglobe, fuzzyrabbit-earedtoothymonster laseretchpose/identity retained,lightwoodTOP andBLACKcylindricalbaseside correct. White/lavendercream/bedside/promo fullviews, tightactualetchedbody/glass/basejunctionmacro. Accurateheading and512boundaries."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-51d132c3-57d2-46dc-b54a-3a07855b4fd4.png",
+      "prompt": "Native ORIGINAL REFERENCED edit actualproductphoto only. NEW realisticwebsitephoto1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left entireONE lamp PUREWHITE#FFFFFF. Top-middle sameONE lamp lavender/creamstyled. Top-right sameONE lamp warmbedsidetablelifestyle. Bottom-left standalone TIGHT actualetchedglass/basejunctionpart macro NOTwholelamp. Bottom-middle sameONE lamp promo accurateheading 'Bunny Character Crystal Globe Lamp'. Bottom-right blankcream unused. Preserve EXACTONE transparentGLASS SPHERE onroundcylindrical LEDBASE with lightWOOD topdisc and BLACK/DARK cylindricalsidewall asoriginal, warmwhiteillumination, palePOWERcordwherevisible. ExactoriginalwhiteLASERETCHING insideglass notopaqueprintedfigure. Remove sourceprice/codeoverlay/blackbackground. Entirelampinframeeveryfullview. Do notadd lamps/changebasecolour/characterpose.\nActualetching ONE smallfrontfacingLABUBUlike fuzzyrabbit-earedMONSTER, twoveryLONGUPRIGHTbunnyears, bigdarkeyes/arched brows, WIDE toothygrin withtriangularteeth, smallroundfuzzybody armsdownandout and shortfeet. Preserveactualcharacteridentity/headoutline/teeth/pose; notgenericcuteplainbunny. Noextracharacters.",
+      "sha256": "475c1a0dfe17713092e304bddc7e9e1b670b9c5253c45fe2a559eaec745b0b3d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-51d132c3-57d2-46dc-b54a-3a07855b4fd4.png",
+      "grid_sha256": "8239ad8ab47bdbfd878d18a43734eb4419104b8272017b91858265405c219794",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual savedfivecrops inspectedagainstoriginal:ONE clearglobe, fuzzyrabbit-earedtoothymonster laseretchpose/identity retained,lightwoodTOP andBLACKcylindricalbaseside correct. White/lavendercream/bedside/promo fullviews, tightactualetchedbody/glass/basejunctionmacro. Accurateheading and512boundaries."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-51d132c3-57d2-46dc-b54a-3a07855b4fd4.png",
+      "prompt": "Native ORIGINAL REFERENCED edit actualproductphoto only. NEW realisticwebsitephoto1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left entireONE lamp PUREWHITE#FFFFFF. Top-middle sameONE lamp lavender/creamstyled. Top-right sameONE lamp warmbedsidetablelifestyle. Bottom-left standalone TIGHT actualetchedglass/basejunctionpart macro NOTwholelamp. Bottom-middle sameONE lamp promo accurateheading 'Bunny Character Crystal Globe Lamp'. Bottom-right blankcream unused. Preserve EXACTONE transparentGLASS SPHERE onroundcylindrical LEDBASE with lightWOOD topdisc and BLACK/DARK cylindricalsidewall asoriginal, warmwhiteillumination, palePOWERcordwherevisible. ExactoriginalwhiteLASERETCHING insideglass notopaqueprintedfigure. Remove sourceprice/codeoverlay/blackbackground. Entirelampinframeeveryfullview. Do notadd lamps/changebasecolour/characterpose.\nActualetching ONE smallfrontfacingLABUBUlike fuzzyrabbit-earedMONSTER, twoveryLONGUPRIGHTbunnyears, bigdarkeyes/arched brows, WIDE toothygrin withtriangularteeth, smallroundfuzzybody armsdownandout and shortfeet. Preserveactualcharacteridentity/headoutline/teeth/pose; notgenericcuteplainbunny. Noextracharacters.",
+      "sha256": "aaaaaa4c3c463403f874067e8918b5b7c4ea3a8102174efe2755567e90b6d720",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-51d132c3-57d2-46dc-b54a-3a07855b4fd4.png",
+      "grid_sha256": "8239ad8ab47bdbfd878d18a43734eb4419104b8272017b91858265405c219794",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual savedfivecrops inspectedagainstoriginal:ONE clearglobe, fuzzyrabbit-earedtoothymonster laseretchpose/identity retained,lightwoodTOP andBLACKcylindricalbaseside correct. White/lavendercream/bedside/promo fullviews, tightactualetchedbody/glass/basejunctionmacro. Accurateheading and512boundaries."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-51d132c3-57d2-46dc-b54a-3a07855b4fd4.png",
+      "prompt": "Native ORIGINAL REFERENCED edit actualproductphoto only. NEW realisticwebsitephoto1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left entireONE lamp PUREWHITE#FFFFFF. Top-middle sameONE lamp lavender/creamstyled. Top-right sameONE lamp warmbedsidetablelifestyle. Bottom-left standalone TIGHT actualetchedglass/basejunctionpart macro NOTwholelamp. Bottom-middle sameONE lamp promo accurateheading 'Bunny Character Crystal Globe Lamp'. Bottom-right blankcream unused. Preserve EXACTONE transparentGLASS SPHERE onroundcylindrical LEDBASE with lightWOOD topdisc and BLACK/DARK cylindricalsidewall asoriginal, warmwhiteillumination, palePOWERcordwherevisible. ExactoriginalwhiteLASERETCHING insideglass notopaqueprintedfigure. Remove sourceprice/codeoverlay/blackbackground. Entirelampinframeeveryfullview. Do notadd lamps/changebasecolour/characterpose.\nActualetching ONE smallfrontfacingLABUBUlike fuzzyrabbit-earedMONSTER, twoveryLONGUPRIGHTbunnyears, bigdarkeyes/arched brows, WIDE toothygrin withtriangularteeth, smallroundfuzzybody armsdownandout and shortfeet. Preserveactualcharacteridentity/headoutline/teeth/pose; notgenericcuteplainbunny. Noextracharacters.",
+      "sha256": "7677a3208032c22240d475333d72ecbf108b5b347855ea5f54929cfd71e08438",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-51d132c3-57d2-46dc-b54a-3a07855b4fd4.png",
+      "grid_sha256": "8239ad8ab47bdbfd878d18a43734eb4419104b8272017b91858265405c219794",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual savedfivecrops inspectedagainstoriginal:ONE clearglobe, fuzzyrabbit-earedtoothymonster laseretchpose/identity retained,lightwoodTOP andBLACKcylindricalbaseside correct. White/lavendercream/bedside/promo fullviews, tightactualetchedbody/glass/basejunctionmacro. Accurateheading and512boundaries."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-51d132c3-57d2-46dc-b54a-3a07855b4fd4.png",
+      "prompt": "Native ORIGINAL REFERENCED edit actualproductphoto only. NEW realisticwebsitephoto1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left entireONE lamp PUREWHITE#FFFFFF. Top-middle sameONE lamp lavender/creamstyled. Top-right sameONE lamp warmbedsidetablelifestyle. Bottom-left standalone TIGHT actualetchedglass/basejunctionpart macro NOTwholelamp. Bottom-middle sameONE lamp promo accurateheading 'Bunny Character Crystal Globe Lamp'. Bottom-right blankcream unused. Preserve EXACTONE transparentGLASS SPHERE onroundcylindrical LEDBASE with lightWOOD topdisc and BLACK/DARK cylindricalsidewall asoriginal, warmwhiteillumination, palePOWERcordwherevisible. ExactoriginalwhiteLASERETCHING insideglass notopaqueprintedfigure. Remove sourceprice/codeoverlay/blackbackground. Entirelampinframeeveryfullview. Do notadd lamps/changebasecolour/characterpose.\nActualetching ONE smallfrontfacingLABUBUlike fuzzyrabbit-earedMONSTER, twoveryLONGUPRIGHTbunnyears, bigdarkeyes/arched brows, WIDE toothygrin withtriangularteeth, smallroundfuzzybody armsdownandout and shortfeet. Preserveactualcharacteridentity/headoutline/teeth/pose; notgenericcuteplainbunny. Noextracharacters.",
+      "sha256": "bee7cd898bf0d415fa70291743f426dd078a2aa81158da449484fe82a7bbec64",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-51d132c3-57d2-46dc-b54a-3a07855b4fd4.png",
+      "grid_sha256": "8239ad8ab47bdbfd878d18a43734eb4419104b8272017b91858265405c219794",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual savedfivecrops inspectedagainstoriginal:ONE clearglobe, fuzzyrabbit-earedtoothymonster laseretchpose/identity retained,lightwoodTOP andBLACKcylindricalbaseside correct. White/lavendercream/bedside/promo fullviews, tightactualetchedbody/glass/basejunctionmacro. Accurateheading and512boundaries."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "One clearcrystalglobe LEDlamp fuzzyrabbit-earedtoothymonster etching blackcylindricalbase/lightwoodtop",
+  "original_baseline_verified": true
+}

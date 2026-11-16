@@ -1,0 +1,133 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260803-WA0118.jpg": "4dbd22742d25071519dd5c2e0e595ddd9066f6f2f1083bd64ae4623d9e931641"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-7159edb2-c29c-457d-a20a-d509a56e9082.png",
+      "source_output": "/workspace/generated_images/exec-7159edb2-c29c-457d-a20a-d509a56e9082.png",
+      "sha256": "f319b4fc9e7d19807a51433e4db76e9891e1e7b56d121252d75cab6e72033b35",
+      "prompt": "Native edit attached actual original into ONE1536x1024 website image EXACT3columns by2rows512squarecells no gutters/borders. Exactly TWO small seated dragon plush toys side by side: LEFT creamwhite dragon with large BLUE oval eye patches and black pupils/white highlights, RIGHT black dragon with large yellowgreen eye patches and black pupils/white highlights. Both have very large rounded head, two raised ear/horn lobes, subtle smile, short front legs/feet, wings at sides, soft fuzzy texture. Preserve exact faces, body proportions, white/black colour identities, count and shapes; not cats or generic animals. Heading: Dragon Plush Toy Duo. Whole assortment ONE product preserve count/identity/shapes/colours. Top left all actual products pure white; top middle all actual products lavendercream styled; top right all actual products relevant tabletop lifestyle no extra products; bottom left standalone TIGHT real-part macro of actual embroidery/plush, not full assortment; bottom middle all actual products clearly visible LARGE under accurate heading given (not text-only card); bottom right blank cream. Remove original background/price overlays no unsupported claims. Photorealistic website-ready nothingcrossescellboundaries.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-7159edb2-c29c-457d-a20a-d509a56e9082.png",
+      "prompt": "Native edit attached actual original into ONE1536x1024 website image EXACT3columns by2rows512squarecells no gutters/borders. Exactly TWO small seated dragon plush toys side by side: LEFT creamwhite dragon with large BLUE oval eye patches and black pupils/white highlights, RIGHT black dragon with large yellowgreen eye patches and black pupils/white highlights. Both have very large rounded head, two raised ear/horn lobes, subtle smile, short front legs/feet, wings at sides, soft fuzzy texture. Preserve exact faces, body proportions, white/black colour identities, count and shapes; not cats or generic animals. Heading: Dragon Plush Toy Duo. Whole assortment ONE product preserve count/identity/shapes/colours. Top left all actual products pure white; top middle all actual products lavendercream styled; top right all actual products relevant tabletop lifestyle no extra products; bottom left standalone TIGHT real-part macro of actual embroidery/plush, not full assortment; bottom middle all actual products clearly visible LARGE under accurate heading given (not text-only card); bottom right blank cream. Remove original background/price overlays no unsupported claims. Photorealistic website-ready nothingcrossescellboundaries.",
+      "sha256": "bf06f45ef630735f8ac2305df0dd1e186bbfa7b047dc70899573bbfd963a5659",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7159edb2-c29c-457d-a20a-d509a56e9082.png",
+      "grid_sha256": "f319b4fc9e7d19807a51433e4db76e9891e1e7b56d121252d75cab6e72033b35",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual original and five saved crops inspected: exactly two dragon plush white with blue eyes and black with yellowgreen eyes, original faces, large heads/earlobes, small bodies/paws/wings retained. White/lavendercream/tabletop lifestyle, tight real embroidered blue eye/fur macro and accurate heading passed. Count identity shapes colours retained, exact512cell boxes frozen original/output SHA verified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-7159edb2-c29c-457d-a20a-d509a56e9082.png",
+      "prompt": "Native edit attached actual original into ONE1536x1024 website image EXACT3columns by2rows512squarecells no gutters/borders. Exactly TWO small seated dragon plush toys side by side: LEFT creamwhite dragon with large BLUE oval eye patches and black pupils/white highlights, RIGHT black dragon with large yellowgreen eye patches and black pupils/white highlights. Both have very large rounded head, two raised ear/horn lobes, subtle smile, short front legs/feet, wings at sides, soft fuzzy texture. Preserve exact faces, body proportions, white/black colour identities, count and shapes; not cats or generic animals. Heading: Dragon Plush Toy Duo. Whole assortment ONE product preserve count/identity/shapes/colours. Top left all actual products pure white; top middle all actual products lavendercream styled; top right all actual products relevant tabletop lifestyle no extra products; bottom left standalone TIGHT real-part macro of actual embroidery/plush, not full assortment; bottom middle all actual products clearly visible LARGE under accurate heading given (not text-only card); bottom right blank cream. Remove original background/price overlays no unsupported claims. Photorealistic website-ready nothingcrossescellboundaries.",
+      "sha256": "0461671327b82603cef04efe4144577c6bbf4b1dcd616aff8080d48e8a82e67f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7159edb2-c29c-457d-a20a-d509a56e9082.png",
+      "grid_sha256": "f319b4fc9e7d19807a51433e4db76e9891e1e7b56d121252d75cab6e72033b35",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual original and five saved crops inspected: exactly two dragon plush white with blue eyes and black with yellowgreen eyes, original faces, large heads/earlobes, small bodies/paws/wings retained. White/lavendercream/tabletop lifestyle, tight real embroidered blue eye/fur macro and accurate heading passed. Count identity shapes colours retained, exact512cell boxes frozen original/output SHA verified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-7159edb2-c29c-457d-a20a-d509a56e9082.png",
+      "prompt": "Native edit attached actual original into ONE1536x1024 website image EXACT3columns by2rows512squarecells no gutters/borders. Exactly TWO small seated dragon plush toys side by side: LEFT creamwhite dragon with large BLUE oval eye patches and black pupils/white highlights, RIGHT black dragon with large yellowgreen eye patches and black pupils/white highlights. Both have very large rounded head, two raised ear/horn lobes, subtle smile, short front legs/feet, wings at sides, soft fuzzy texture. Preserve exact faces, body proportions, white/black colour identities, count and shapes; not cats or generic animals. Heading: Dragon Plush Toy Duo. Whole assortment ONE product preserve count/identity/shapes/colours. Top left all actual products pure white; top middle all actual products lavendercream styled; top right all actual products relevant tabletop lifestyle no extra products; bottom left standalone TIGHT real-part macro of actual embroidery/plush, not full assortment; bottom middle all actual products clearly visible LARGE under accurate heading given (not text-only card); bottom right blank cream. Remove original background/price overlays no unsupported claims. Photorealistic website-ready nothingcrossescellboundaries.",
+      "sha256": "0eb5fdc63ae22b02ce52895a23362b46579c2bf21e30df2c99a4cf7edfa717a8",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7159edb2-c29c-457d-a20a-d509a56e9082.png",
+      "grid_sha256": "f319b4fc9e7d19807a51433e4db76e9891e1e7b56d121252d75cab6e72033b35",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual original and five saved crops inspected: exactly two dragon plush white with blue eyes and black with yellowgreen eyes, original faces, large heads/earlobes, small bodies/paws/wings retained. White/lavendercream/tabletop lifestyle, tight real embroidered blue eye/fur macro and accurate heading passed. Count identity shapes colours retained, exact512cell boxes frozen original/output SHA verified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-7159edb2-c29c-457d-a20a-d509a56e9082.png",
+      "prompt": "Native edit attached actual original into ONE1536x1024 website image EXACT3columns by2rows512squarecells no gutters/borders. Exactly TWO small seated dragon plush toys side by side: LEFT creamwhite dragon with large BLUE oval eye patches and black pupils/white highlights, RIGHT black dragon with large yellowgreen eye patches and black pupils/white highlights. Both have very large rounded head, two raised ear/horn lobes, subtle smile, short front legs/feet, wings at sides, soft fuzzy texture. Preserve exact faces, body proportions, white/black colour identities, count and shapes; not cats or generic animals. Heading: Dragon Plush Toy Duo. Whole assortment ONE product preserve count/identity/shapes/colours. Top left all actual products pure white; top middle all actual products lavendercream styled; top right all actual products relevant tabletop lifestyle no extra products; bottom left standalone TIGHT real-part macro of actual embroidery/plush, not full assortment; bottom middle all actual products clearly visible LARGE under accurate heading given (not text-only card); bottom right blank cream. Remove original background/price overlays no unsupported claims. Photorealistic website-ready nothingcrossescellboundaries.",
+      "sha256": "5c148b1ac4472608f65e6790a00fc9b1af5d0c966b50f842f9c97339dd0e9a72",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7159edb2-c29c-457d-a20a-d509a56e9082.png",
+      "grid_sha256": "f319b4fc9e7d19807a51433e4db76e9891e1e7b56d121252d75cab6e72033b35",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual original and five saved crops inspected: exactly two dragon plush white with blue eyes and black with yellowgreen eyes, original faces, large heads/earlobes, small bodies/paws/wings retained. White/lavendercream/tabletop lifestyle, tight real embroidered blue eye/fur macro and accurate heading passed. Count identity shapes colours retained, exact512cell boxes frozen original/output SHA verified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-7159edb2-c29c-457d-a20a-d509a56e9082.png",
+      "prompt": "Native edit attached actual original into ONE1536x1024 website image EXACT3columns by2rows512squarecells no gutters/borders. Exactly TWO small seated dragon plush toys side by side: LEFT creamwhite dragon with large BLUE oval eye patches and black pupils/white highlights, RIGHT black dragon with large yellowgreen eye patches and black pupils/white highlights. Both have very large rounded head, two raised ear/horn lobes, subtle smile, short front legs/feet, wings at sides, soft fuzzy texture. Preserve exact faces, body proportions, white/black colour identities, count and shapes; not cats or generic animals. Heading: Dragon Plush Toy Duo. Whole assortment ONE product preserve count/identity/shapes/colours. Top left all actual products pure white; top middle all actual products lavendercream styled; top right all actual products relevant tabletop lifestyle no extra products; bottom left standalone TIGHT real-part macro of actual embroidery/plush, not full assortment; bottom middle all actual products clearly visible LARGE under accurate heading given (not text-only card); bottom right blank cream. Remove original background/price overlays no unsupported claims. Photorealistic website-ready nothingcrossescellboundaries.",
+      "sha256": "941d5d4c91a2b1409f0b1ba17d68de2ae52ffc82f716a189e87590d28c015663",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7159edb2-c29c-457d-a20a-d509a56e9082.png",
+      "grid_sha256": "f319b4fc9e7d19807a51433e4db76e9891e1e7b56d121252d75cab6e72033b35",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual original and five saved crops inspected: exactly two dragon plush white with blue eyes and black with yellowgreen eyes, original faces, large heads/earlobes, small bodies/paws/wings retained. White/lavendercream/tabletop lifestyle, tight real embroidered blue eye/fur macro and accurate heading passed. Count identity shapes colours retained, exact512cell boxes frozen original/output SHA verified."
+    },
+    {
+      "kind": "exact_prompt_file",
+      "saved_file": "Generation_Prompts/initial.txt",
+      "sha256": "e5954f87d0aa541533530a54dc179da8c66c27204b44364ec4a777227633f7bf",
+      "checked": false
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

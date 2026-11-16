@@ -27516,15 +27516,17 @@
   },
   {
     "product_id": "2252",
-    "folder": "2252_Small-Dragon-Plush-Toys-0",
+    "folder": "2252_Small-Dragon-Plush-Toys-1",
     "source_image_ids": [
       2522
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2253",
@@ -27540,27 +27542,31 @@
   },
   {
     "product_id": "2254",
-    "folder": "2254_Medium-Gift-Boxes-0",
+    "folder": "2254_Medium-Gift-Boxes-1",
     "source_image_ids": [
       2524
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2255",
-    "folder": "2255_Small-Gift-Boxes-0",
+    "folder": "2255_Small-Gift-Boxes-1",
     "source_image_ids": [
       2525
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2256",

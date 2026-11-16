@@ -27955,9 +27955,9 @@
     "source_image_ids": [
       2563
     ],
-    "new_images": 0,
+    "new_images": 4,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -27969,33 +27969,37 @@
     ],
     "new_images": 0,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "blocked_moderation",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2290",
-    "folder": "2290_Space-Globe-Lamp-0",
+    "folder": "2290_Space-Globe-Lamp-1",
     "source_image_ids": [
       2565
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2291",
-    "folder": "2291_Saturn-Globe-Lamp-0",
+    "folder": "2291_Saturn-Globe-Lamp-1",
     "source_image_ids": [
       2566
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2292",

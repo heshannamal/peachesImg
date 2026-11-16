@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-16T20:55:56.192288+00:00",
+  "updated_at": "2026-11-16T20:58:03.883640+00:00",
   "target_products": 100,
   "target_images": 500,
-  "completed_products": 22,
+  "completed_products": 24,
   "partial_products": 2,
-  "pending_products": 75,
-  "blocked_products": 1,
-  "saved_images": 120,
-  "checked_images": 114,
+  "pending_products": 72,
+  "blocked_products": 2,
+  "saved_images": 129,
+  "checked_images": 128,
   "products": [
     {
       "product_id": "2315",
@@ -471,10 +471,10 @@
     },
     {
       "product_id": "2291",
-      "folder": "2291_Saturn-Globe-Lamp-0",
-      "status": "partial",
+      "folder": "2291_Saturn-Globe-Lamp-1",
+      "status": "complete",
       "saved_images": 5,
-      "checked_images": 0,
+      "checked_images": 5,
       "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
@@ -483,46 +483,34 @@
         "New/05_Promotional.png"
       ],
       "missing_images": [],
-      "review_needed_images": [
-        "New/01_White-Background.png",
-        "New/02_Styled-Background.png",
-        "New/03_Lifestyle.png",
-        "New/04_Detail.png",
-        "New/05_Promotional.png"
-      ],
-      "notes_status": "in_progress",
-      "errors": [
-        "unreviewed or unrecorded: 01_White-Background.png",
-        "unreviewed or unrecorded: 02_Styled-Background.png",
-        "unreviewed or unrecorded: 03_Lifestyle.png",
-        "unreviewed or unrecorded: 04_Detail.png",
-        "unreviewed or unrecorded: 05_Promotional.png"
-      ],
+      "review_needed_images": [],
+      "notes_status": "five_images_saved_and_visually_checked",
+      "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "2290",
-      "folder": "2290_Space-Globe-Lamp-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "folder": "2290_Space-Globe-Lamp-1",
+      "status": "complete",
+      "saved_images": 5,
+      "checked_images": 5,
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "five_images_saved_and_visually_checked",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "2289",
       "folder": "2289_Blue-Character-Globe-Lamp-0",
-      "status": "pending",
+      "status": "blocked",
       "saved_images": 0,
       "checked_images": 0,
       "files": [],
@@ -534,26 +522,27 @@
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "blocked_moderation",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "2288",
       "folder": "2288_Bunny-Character-Globe-Lamp-0",
-      "status": "pending",
-      "saved_images": 0,
-      "checked_images": 0,
-      "files": [],
-      "missing_images": [
-        "New/01_White-Background.png",
+      "status": "partial",
+      "saved_images": 4,
+      "checked_images": 4,
+      "files": [
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
+      "missing_images": [
+        "New/01_White-Background.png"
+      ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "partial_stopped_before_corrective",
       "errors": [],
       "originals_unchanged": true
     },

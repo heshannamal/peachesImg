@@ -1,0 +1,11 @@
+{
+  "status": "blocked_moderation",
+  "records": [
+    {
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Top ONEfullproduct white/ONEfullproductlavendercreamstyled/ONEfullproductbedsidelifestyle. Bottom TIGHTstandalone REALPART engravedglassmacro/ONEfullproductpromotion accurateheading/blankcream. No spanningpanels. Exactly ONE clear spherical crystal globe on ONE short round wooden LEDbase, warmwhite illumination underneath, thinblackpowercord. Preserve actual engraving identity/proportions, sphere/base shapes/materials/colours. Do not colour the whiteengraving or replacewith generic character. Remove sourceprice/code/banner/background clutter. All fullproduct fits owncell with margins. Headingonly,no unsupportedclaims. Engraving exactly actual seated big-eared character with BOTH arms stretched sideways/up, longleft/right raised ears, large darknose, two ovaleyes, seated feet and pale ovalbelly. Preserve this pose, no standingtoy or differentcharacter. Actualbase darkbrown wood. Macro actual engraved ear/face and glasscurvature. Heading 'Character Crystal Globe Lamp'.",
+      "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 07a19a15-bbca-4c2c-97c3-e087c12a0bd8.\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"other\\\"\\n      ]\\n    }\\n  }\\n}\")",
+      "checked": false,
+      "visual_review": "Native moderation block, no output, skipped without retry."
+    }
+  ]
+}

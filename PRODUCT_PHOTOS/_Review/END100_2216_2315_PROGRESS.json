@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-16T21:02:29.413185+00:00",
+  "updated_at": "2026-11-16T21:03:35.731745+00:00",
   "target_products": 100,
   "target_images": 500,
   "completed_products": 36,
-  "partial_products": 3,
-  "pending_products": 54,
+  "partial_products": 5,
+  "pending_products": 52,
   "blocked_products": 7,
-  "saved_images": 195,
+  "saved_images": 205,
   "checked_images": 184,
   "products": [
     {
@@ -914,20 +914,32 @@
     {
       "product_id": "2269",
       "folder": "2269_Colourful-Stud-Earring-Box-0",
-      "status": "pending",
-      "saved_images": 0,
+      "status": "partial",
+      "saved_images": 5,
       "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png",
+        "unreviewed or unrecorded: 02_Styled-Background.png",
+        "unreviewed or unrecorded: 03_Lifestyle.png",
+        "unreviewed or unrecorded: 04_Detail.png",
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
       "originals_unchanged": true
     },
     {
@@ -945,27 +957,39 @@
         "New/05_Promotional.png"
       ],
       "review_needed_images": [],
-      "notes_status": null,
+      "notes_status": "in_progress",
       "errors": [],
       "originals_unchanged": true
     },
     {
       "product_id": "2267",
       "folder": "2267_Glass-Lotus-Ornaments-0",
-      "status": "pending",
-      "saved_images": 0,
+      "status": "partial",
+      "saved_images": 5,
       "checked_images": 0,
-      "files": [],
-      "missing_images": [
+      "files": [
         "New/01_White-Background.png",
         "New/02_Styled-Background.png",
         "New/03_Lifestyle.png",
         "New/04_Detail.png",
         "New/05_Promotional.png"
       ],
-      "review_needed_images": [],
-      "notes_status": null,
-      "errors": [],
+      "missing_images": [],
+      "review_needed_images": [
+        "New/01_White-Background.png",
+        "New/02_Styled-Background.png",
+        "New/03_Lifestyle.png",
+        "New/04_Detail.png",
+        "New/05_Promotional.png"
+      ],
+      "notes_status": "in_progress",
+      "errors": [
+        "unreviewed or unrecorded: 01_White-Background.png",
+        "unreviewed or unrecorded: 02_Styled-Background.png",
+        "unreviewed or unrecorded: 03_Lifestyle.png",
+        "unreviewed or unrecorded: 04_Detail.png",
+        "unreviewed or unrecorded: 05_Promotional.png"
+      ],
       "originals_unchanged": true
     },
     {

@@ -15,7 +15,7 @@
       "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
     },
     {
-      "saved_file": "New/01_White-Background.png",
+      "saved_file": "Rejected/initial_01_White-Background.png",
       "source_output": "/workspace/generated_images/exec-d8ea6134-6e53-47e9-9d3d-8a317f221016.png",
       "prompt": "Native original referenced faithful edit ONE1536x1024 borderless3x2equal512squaregrid: topwhite fullproduct / lavendercreamstyled fullproduct / bedside lifestyle fullproduct; bottom standalone TIGHTmacro actualinternalengravedpartonly / promo fullproduct accurateheading / blankunused. EXACTONEcrystalglasssphere on ONELOWBLACKcylindricalbasewithpale woodgrain topdisk, warmgold illuminationthroughglobe. Preserve sourceactualsphere/baseproportions and internalwhite laserengraving precisely. Removeprice/modeloverlay only, no invented characters/claims. FolderanimalWRONG actualscene CHIBICARTOONweddingcouple: boyleftsidepartedhair, girlrighttiara/updoskirt, handsreachingtogether, smallbubblesaround andlarge Love above. Matchactualchibifaces/hair/clothes countTWOcharacters, noanimals. Heading Love Crystal Globe Light. Detail tightactualengravedgirltiara/hairandeye, nofullsphere.",
       "sha256": "a2aa07c4ea76ed67dee581e9e43838ebae6bbe986e4d88615b4a0d2990b6140a",
@@ -32,7 +32,8 @@
         0,
         418,
         627
-      ]
+      ],
+      "visual_review": "Rejected: black background instead of requested white."
     },
     {
       "saved_file": "New/02_Styled-Background.png",
@@ -113,9 +114,41 @@
         836,
         1254
       ]
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-425bc746-5f99-4730-ba88-bfa560857bb5.png",
+      "source_output": "/workspace/generated_images/exec-425bc746-5f99-4730-ba88-bfa560857bb5.png",
+      "sha256": "d147b7e1fe9137e28dffc15bd8fc9113834d5cfc5b4819fc6a9df9a2f87716f3",
+      "prompt": "Native original referenced faithful edit ONE1536x1024 borderless3x2equal512squaregrid: topwhite fullproduct / lavendercreamstyled fullproduct / bedside lifestyle fullproduct; bottom standalone TIGHTmacro actualinternalengravedpartonly / promo fullproduct accurateheading / blankunused. EXACTONEcrystalglasssphere on ONELOWBLACKcylindricalbasewithpale woodgrain topdisk, warmgold illuminationthroughglobe. Preserve sourceactualsphere/baseproportions and internalwhite laserengraving precisely. Removeprice/modeloverlay only, no invented characters/claims. FolderanimalWRONG actualscene CHIBICARTOONweddingcouple: boyleftsidepartedhair, girlrighttiara/updoskirt, handsreachingtogether, smallbubblesaround andlarge Love above. Matchactualchibifaces/hair/clothes countTWOcharacters, noanimals. Heading Love Crystal Globe Light. Detail tightactualengravedgirltiara/hairandeye, nofullsphere. SINGLEMATERIALCORRECTION: top-left01 PUREWHITE seamless backdrop and surface, no black backdrop/no darkwood surface. Keep original chibicouple etchedsphere blackbase unchanged. Allother4viewsalreadyvalidpreserved.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-425bc746-5f99-4730-ba88-bfa560857bb5.png",
+      "prompt": "Native original referenced faithful edit ONE1536x1024 borderless3x2equal512squaregrid: topwhite fullproduct / lavendercreamstyled fullproduct / bedside lifestyle fullproduct; bottom standalone TIGHTmacro actualinternalengravedpartonly / promo fullproduct accurateheading / blankunused. EXACTONEcrystalglasssphere on ONELOWBLACKcylindricalbasewithpale woodgrain topdisk, warmgold illuminationthroughglobe. Preserve sourceactualsphere/baseproportions and internalwhite laserengraving precisely. Removeprice/modeloverlay only, no invented characters/claims. FolderanimalWRONG actualscene CHIBICARTOONweddingcouple: boyleftsidepartedhair, girlrighttiara/updoskirt, handsreachingtogether, smallbubblesaround andlarge Love above. Matchactualchibifaces/hair/clothes countTWOcharacters, noanimals. Heading Love Crystal Globe Light. Detail tightactualengravedgirltiara/hairandeye, nofullsphere. SINGLEMATERIALCORRECTION: top-left01 PUREWHITE seamless backdrop and surface, no black backdrop/no darkwood surface. Keep original chibicouple etchedsphere blackbase unchanged. Allother4viewsalreadyvalidpreserved.",
+      "sha256": "5ba6a96128022f76ca70d8cc65e3734779f333a49a5f3c88b3a1dd450c5634ad",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-425bc746-5f99-4730-ba88-bfa560857bb5.png",
+      "grid_sha256": "d147b7e1fe9137e28dffc15bd8fc9113834d5cfc5b4819fc6a9df9a2f87716f3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
     }
   ],
   "status": "in_progress",
   "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
-  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "01_White-Background.png": 1
+  }
 }

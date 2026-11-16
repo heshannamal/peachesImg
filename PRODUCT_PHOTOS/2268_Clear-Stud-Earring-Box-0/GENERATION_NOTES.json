@@ -1,0 +1,138 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260806-WA0324.jpg": "ef61f7a1e664bd19f64917e0f220003cc911058a096c041abb2d976fd7d43cdb"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-a4b326e4-2f79-4c33-8bb2-7ad56971327b.png",
+      "source_output": "/workspace/generated_images/exec-a4b326e4-2f79-4c33-8bb2-7ad56971327b.png",
+      "sha256": "a1a57dd5dd2e11ce3105d5c950eff0e8f633adf9738c468699d37873168deceb",
+      "prompt": "Faithfully EDIT actual referenced earring box into1536x1024website SIXequal512squarepanels3columns2rows x512/1024y512. Top fullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentdressingtablelifestyle. Bottom tightstandalone REALPARTmacro/fullassortmentpromo accurateheading/blankcream. No spanningpanels. ONE square shallow metalrim displaybox, pale lavenderfoam, EXACTLY36 smallwhite earringcards in SIXrows SIXcolumns. Eachcard THREEPAIRS: one main decorativepair plus two tiny silver/clearstudpairs,108pairs total. Preserve all36cards/source6x6order/exact count/design/materials/colours; no extra boxes or reduce to25cards. Remove hand/sourceprice/shopbackground; entirebox fits eachfullcell with margins. Macro actual part only, no requirementshow wholebox. Headingonly,no unsupportedclaims. Actual main designs entirely gold/silver-tone CLEAR rhinestone jewellery: goldflowerclusters, circles, teardrops, daisies, roundfourpetalflowers, squares/diamonds and bowshapes. No coloured enamel. Preserve exact source positions/count and pairedmatchingdesigns. Macro tight actual clear-rhinestone goldflower earring and silverstud. Heading 'Rhinestone Earring Display Box'.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "Rejected/initial_01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-a4b326e4-2f79-4c33-8bb2-7ad56971327b.png",
+      "prompt": "Faithfully EDIT actual referenced earring box into1536x1024website SIXequal512squarepanels3columns2rows x512/1024y512. Top fullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentdressingtablelifestyle. Bottom tightstandalone REALPARTmacro/fullassortmentpromo accurateheading/blankcream. No spanningpanels. ONE square shallow metalrim displaybox, pale lavenderfoam, EXACTLY36 smallwhite earringcards in SIXrows SIXcolumns. Eachcard THREEPAIRS: one main decorativepair plus two tiny silver/clearstudpairs,108pairs total. Preserve all36cards/source6x6order/exact count/design/materials/colours; no extra boxes or reduce to25cards. Remove hand/sourceprice/shopbackground; entirebox fits eachfullcell with margins. Macro actual part only, no requirementshow wholebox. Headingonly,no unsupportedclaims. Actual main designs entirely gold/silver-tone CLEAR rhinestone jewellery: goldflowerclusters, circles, teardrops, daisies, roundfourpetalflowers, squares/diamonds and bowshapes. No coloured enamel. Preserve exact source positions/count and pairedmatchingdesigns. Macro tight actual clear-rhinestone goldflower earring and silverstud. Heading 'Rhinestone Earring Display Box'.",
+      "sha256": "a483fd67565fba146a20bf66a692dd80ac88ecafbdd90b81f1aa2b3f06aba824",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a4b326e4-2f79-4c33-8bb2-7ad56971327b.png",
+      "grid_sha256": "a1a57dd5dd2e11ce3105d5c950eff0e8f633adf9738c468699d37873168deceb",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Each card omits second tinyclear studpair,2pairs vs3required; correct once.",
+      "corrective_attempts": 1
+    },
+    {
+      "saved_file": "Rejected/initial_02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-a4b326e4-2f79-4c33-8bb2-7ad56971327b.png",
+      "prompt": "Faithfully EDIT actual referenced earring box into1536x1024website SIXequal512squarepanels3columns2rows x512/1024y512. Top fullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentdressingtablelifestyle. Bottom tightstandalone REALPARTmacro/fullassortmentpromo accurateheading/blankcream. No spanningpanels. ONE square shallow metalrim displaybox, pale lavenderfoam, EXACTLY36 smallwhite earringcards in SIXrows SIXcolumns. Eachcard THREEPAIRS: one main decorativepair plus two tiny silver/clearstudpairs,108pairs total. Preserve all36cards/source6x6order/exact count/design/materials/colours; no extra boxes or reduce to25cards. Remove hand/sourceprice/shopbackground; entirebox fits eachfullcell with margins. Macro actual part only, no requirementshow wholebox. Headingonly,no unsupportedclaims. Actual main designs entirely gold/silver-tone CLEAR rhinestone jewellery: goldflowerclusters, circles, teardrops, daisies, roundfourpetalflowers, squares/diamonds and bowshapes. No coloured enamel. Preserve exact source positions/count and pairedmatchingdesigns. Macro tight actual clear-rhinestone goldflower earring and silverstud. Heading 'Rhinestone Earring Display Box'.",
+      "sha256": "70ba30202b1c6ef61e44dc70eb04bc92d9d3d6cdbea516a7151c33fc6521231b",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a4b326e4-2f79-4c33-8bb2-7ad56971327b.png",
+      "grid_sha256": "a1a57dd5dd2e11ce3105d5c950eff0e8f633adf9738c468699d37873168deceb",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Each card omits second tinyclear studpair,2pairs vs3required; correct once.",
+      "corrective_attempts": 1
+    },
+    {
+      "saved_file": "Rejected/initial_03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-a4b326e4-2f79-4c33-8bb2-7ad56971327b.png",
+      "prompt": "Faithfully EDIT actual referenced earring box into1536x1024website SIXequal512squarepanels3columns2rows x512/1024y512. Top fullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentdressingtablelifestyle. Bottom tightstandalone REALPARTmacro/fullassortmentpromo accurateheading/blankcream. No spanningpanels. ONE square shallow metalrim displaybox, pale lavenderfoam, EXACTLY36 smallwhite earringcards in SIXrows SIXcolumns. Eachcard THREEPAIRS: one main decorativepair plus two tiny silver/clearstudpairs,108pairs total. Preserve all36cards/source6x6order/exact count/design/materials/colours; no extra boxes or reduce to25cards. Remove hand/sourceprice/shopbackground; entirebox fits eachfullcell with margins. Macro actual part only, no requirementshow wholebox. Headingonly,no unsupportedclaims. Actual main designs entirely gold/silver-tone CLEAR rhinestone jewellery: goldflowerclusters, circles, teardrops, daisies, roundfourpetalflowers, squares/diamonds and bowshapes. No coloured enamel. Preserve exact source positions/count and pairedmatchingdesigns. Macro tight actual clear-rhinestone goldflower earring and silverstud. Heading 'Rhinestone Earring Display Box'.",
+      "sha256": "83fb36c8711c96d8a92cea27f947ffe35dd8cce3853da63a5e35e36862da6dad",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a4b326e4-2f79-4c33-8bb2-7ad56971327b.png",
+      "grid_sha256": "a1a57dd5dd2e11ce3105d5c950eff0e8f633adf9738c468699d37873168deceb",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Each card omits second tinyclear studpair,2pairs vs3required; correct once.",
+      "corrective_attempts": 1
+    },
+    {
+      "saved_file": "Rejected/initial_04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-a4b326e4-2f79-4c33-8bb2-7ad56971327b.png",
+      "prompt": "Faithfully EDIT actual referenced earring box into1536x1024website SIXequal512squarepanels3columns2rows x512/1024y512. Top fullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentdressingtablelifestyle. Bottom tightstandalone REALPARTmacro/fullassortmentpromo accurateheading/blankcream. No spanningpanels. ONE square shallow metalrim displaybox, pale lavenderfoam, EXACTLY36 smallwhite earringcards in SIXrows SIXcolumns. Eachcard THREEPAIRS: one main decorativepair plus two tiny silver/clearstudpairs,108pairs total. Preserve all36cards/source6x6order/exact count/design/materials/colours; no extra boxes or reduce to25cards. Remove hand/sourceprice/shopbackground; entirebox fits eachfullcell with margins. Macro actual part only, no requirementshow wholebox. Headingonly,no unsupportedclaims. Actual main designs entirely gold/silver-tone CLEAR rhinestone jewellery: goldflowerclusters, circles, teardrops, daisies, roundfourpetalflowers, squares/diamonds and bowshapes. No coloured enamel. Preserve exact source positions/count and pairedmatchingdesigns. Macro tight actual clear-rhinestone goldflower earring and silverstud. Heading 'Rhinestone Earring Display Box'.",
+      "sha256": "07bc1e304576aa80e361c738e08ff74020ae9d7e83e58f3612865b6d61893962",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a4b326e4-2f79-4c33-8bb2-7ad56971327b.png",
+      "grid_sha256": "a1a57dd5dd2e11ce3105d5c950eff0e8f633adf9738c468699d37873168deceb",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Each card omits second tinyclear studpair,2pairs vs3required; correct once.",
+      "corrective_attempts": 1
+    },
+    {
+      "saved_file": "Rejected/initial_05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-a4b326e4-2f79-4c33-8bb2-7ad56971327b.png",
+      "prompt": "Faithfully EDIT actual referenced earring box into1536x1024website SIXequal512squarepanels3columns2rows x512/1024y512. Top fullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentdressingtablelifestyle. Bottom tightstandalone REALPARTmacro/fullassortmentpromo accurateheading/blankcream. No spanningpanels. ONE square shallow metalrim displaybox, pale lavenderfoam, EXACTLY36 smallwhite earringcards in SIXrows SIXcolumns. Eachcard THREEPAIRS: one main decorativepair plus two tiny silver/clearstudpairs,108pairs total. Preserve all36cards/source6x6order/exact count/design/materials/colours; no extra boxes or reduce to25cards. Remove hand/sourceprice/shopbackground; entirebox fits eachfullcell with margins. Macro actual part only, no requirementshow wholebox. Headingonly,no unsupportedclaims. Actual main designs entirely gold/silver-tone CLEAR rhinestone jewellery: goldflowerclusters, circles, teardrops, daisies, roundfourpetalflowers, squares/diamonds and bowshapes. No coloured enamel. Preserve exact source positions/count and pairedmatchingdesigns. Macro tight actual clear-rhinestone goldflower earring and silverstud. Heading 'Rhinestone Earring Display Box'.",
+      "sha256": "fa3c17ccb4a8695fe9cd8e871caf5f767e103d1cfc431c5a022b7eb7ea6c52c7",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a4b326e4-2f79-4c33-8bb2-7ad56971327b.png",
+      "grid_sha256": "a1a57dd5dd2e11ce3105d5c950eff0e8f633adf9738c468699d37873168deceb",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Each card omits second tinyclear studpair,2pairs vs3required; correct once.",
+      "corrective_attempts": 1
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts_spent": {
+    "01_White-Background.png": 1,
+    "02_Styled-Background.png": 1,
+    "03_Lifestyle.png": 1,
+    "04_Detail.png": 1,
+    "05_Promotional.png": 1
+  }
+}

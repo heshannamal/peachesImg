@@ -4,14 +4,14 @@
   "max_active_products": 10,
   "processing_order": "descending_numeric_product_id",
   "generation_workflow": "one_native3x2grid_then_five_crops",
-  "updated_at": "2026-11-16T21:02:29.413185+00:00",
+  "updated_at": "2026-11-16T21:03:35.731745+00:00",
   "target_products": 100,
   "target_images": 500,
   "completed_products": 36,
-  "partial_products": 3,
-  "pending_products": 54,
+  "partial_products": 5,
+  "pending_products": 52,
   "blocked_products": 7,
-  "saved_images": 195,
+  "saved_images": 205,
   "checked_images": 184,
   "native_availability_probe": "2315 complete: five actual crops checked, original/output hashes verified. Five-worker parallel generation resumed."
 }

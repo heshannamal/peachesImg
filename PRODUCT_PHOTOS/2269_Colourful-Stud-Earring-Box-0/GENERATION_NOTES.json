@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260806-WA0325.jpg": "8b56e47a05004d19493b9a32345be46155a8d696224e17980f07b96ab6c5707b"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-6b9741d1-28cf-4705-90fc-eb8e35824d8d.png",
+      "source_output": "/workspace/generated_images/exec-6b9741d1-28cf-4705-90fc-eb8e35824d8d.png",
+      "sha256": "2cff5e18b53a5f8b34275608b93e139010b19d43b2ba36419e2c31bfdb8d5633",
+      "prompt": "Faithfully EDIT actual referenced earring box into1536x1024website SIXequal512squarepanels3columns2rows x512/1024y512. Top fullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentdressingtablelifestyle. Bottom tightstandalone REALPARTmacro/fullassortmentpromo accurateheading/blankcream. No spanningpanels. ONE square shallow metalrim displaybox, pale lavenderfoam, EXACTLY36 smallwhite earringcards in SIXrows SIXcolumns. Eachcard THREEPAIRS: one main decorativepair plus two tiny silver/clearstudpairs,108pairs total. Preserve all36cards/source6x6order/exact count/design/materials/colours; no extra boxes or reduce to25cards. Remove hand/sourceprice/shopbackground; entirebox fits eachfullcell with margins. Macro actual part only, no requirementshow wholebox. Headingonly,no unsupportedclaims. Actual main designs colourful silver-tone drop/studs: pinkdiscs, redearrings, greenflowers, blackrounds, redstars, rose-gold hearts, crescentmoons, orange/yellowcherries, pinkovals, tealhearts, clovers. Preserve exact source positions and repeated colours/shapes. Macro tight actual one pinkrounddisc earring with silverhook/clearstud above. Heading 'Colourful Earring Display Box'.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-6b9741d1-28cf-4705-90fc-eb8e35824d8d.png",
+      "prompt": "Faithfully EDIT actual referenced earring box into1536x1024website SIXequal512squarepanels3columns2rows x512/1024y512. Top fullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentdressingtablelifestyle. Bottom tightstandalone REALPARTmacro/fullassortmentpromo accurateheading/blankcream. No spanningpanels. ONE square shallow metalrim displaybox, pale lavenderfoam, EXACTLY36 smallwhite earringcards in SIXrows SIXcolumns. Eachcard THREEPAIRS: one main decorativepair plus two tiny silver/clearstudpairs,108pairs total. Preserve all36cards/source6x6order/exact count/design/materials/colours; no extra boxes or reduce to25cards. Remove hand/sourceprice/shopbackground; entirebox fits eachfullcell with margins. Macro actual part only, no requirementshow wholebox. Headingonly,no unsupportedclaims. Actual main designs colourful silver-tone drop/studs: pinkdiscs, redearrings, greenflowers, blackrounds, redstars, rose-gold hearts, crescentmoons, orange/yellowcherries, pinkovals, tealhearts, clovers. Preserve exact source positions and repeated colours/shapes. Macro tight actual one pinkrounddisc earring with silverhook/clearstud above. Heading 'Colourful Earring Display Box'.",
+      "sha256": "66d5c8c4d3972ecc293eae9fa27f842fdc9b8ac46d0034587c7d1dd4f08d79b6",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6b9741d1-28cf-4705-90fc-eb8e35824d8d.png",
+      "grid_sha256": "2cff5e18b53a5f8b34275608b93e139010b19d43b2ba36419e2c31bfdb8d5633",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-6b9741d1-28cf-4705-90fc-eb8e35824d8d.png",
+      "prompt": "Faithfully EDIT actual referenced earring box into1536x1024website SIXequal512squarepanels3columns2rows x512/1024y512. Top fullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentdressingtablelifestyle. Bottom tightstandalone REALPARTmacro/fullassortmentpromo accurateheading/blankcream. No spanningpanels. ONE square shallow metalrim displaybox, pale lavenderfoam, EXACTLY36 smallwhite earringcards in SIXrows SIXcolumns. Eachcard THREEPAIRS: one main decorativepair plus two tiny silver/clearstudpairs,108pairs total. Preserve all36cards/source6x6order/exact count/design/materials/colours; no extra boxes or reduce to25cards. Remove hand/sourceprice/shopbackground; entirebox fits eachfullcell with margins. Macro actual part only, no requirementshow wholebox. Headingonly,no unsupportedclaims. Actual main designs colourful silver-tone drop/studs: pinkdiscs, redearrings, greenflowers, blackrounds, redstars, rose-gold hearts, crescentmoons, orange/yellowcherries, pinkovals, tealhearts, clovers. Preserve exact source positions and repeated colours/shapes. Macro tight actual one pinkrounddisc earring with silverhook/clearstud above. Heading 'Colourful Earring Display Box'.",
+      "sha256": "5158d3de25996cc8cd57a411450086c5711ea62bea304eac3de4bcecd6446555",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6b9741d1-28cf-4705-90fc-eb8e35824d8d.png",
+      "grid_sha256": "2cff5e18b53a5f8b34275608b93e139010b19d43b2ba36419e2c31bfdb8d5633",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-6b9741d1-28cf-4705-90fc-eb8e35824d8d.png",
+      "prompt": "Faithfully EDIT actual referenced earring box into1536x1024website SIXequal512squarepanels3columns2rows x512/1024y512. Top fullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentdressingtablelifestyle. Bottom tightstandalone REALPARTmacro/fullassortmentpromo accurateheading/blankcream. No spanningpanels. ONE square shallow metalrim displaybox, pale lavenderfoam, EXACTLY36 smallwhite earringcards in SIXrows SIXcolumns. Eachcard THREEPAIRS: one main decorativepair plus two tiny silver/clearstudpairs,108pairs total. Preserve all36cards/source6x6order/exact count/design/materials/colours; no extra boxes or reduce to25cards. Remove hand/sourceprice/shopbackground; entirebox fits eachfullcell with margins. Macro actual part only, no requirementshow wholebox. Headingonly,no unsupportedclaims. Actual main designs colourful silver-tone drop/studs: pinkdiscs, redearrings, greenflowers, blackrounds, redstars, rose-gold hearts, crescentmoons, orange/yellowcherries, pinkovals, tealhearts, clovers. Preserve exact source positions and repeated colours/shapes. Macro tight actual one pinkrounddisc earring with silverhook/clearstud above. Heading 'Colourful Earring Display Box'.",
+      "sha256": "d2b4de50a24ca2b191891a9d851b4735da305431d652f825d0d214a288231099",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6b9741d1-28cf-4705-90fc-eb8e35824d8d.png",
+      "grid_sha256": "2cff5e18b53a5f8b34275608b93e139010b19d43b2ba36419e2c31bfdb8d5633",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-6b9741d1-28cf-4705-90fc-eb8e35824d8d.png",
+      "prompt": "Faithfully EDIT actual referenced earring box into1536x1024website SIXequal512squarepanels3columns2rows x512/1024y512. Top fullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentdressingtablelifestyle. Bottom tightstandalone REALPARTmacro/fullassortmentpromo accurateheading/blankcream. No spanningpanels. ONE square shallow metalrim displaybox, pale lavenderfoam, EXACTLY36 smallwhite earringcards in SIXrows SIXcolumns. Eachcard THREEPAIRS: one main decorativepair plus two tiny silver/clearstudpairs,108pairs total. Preserve all36cards/source6x6order/exact count/design/materials/colours; no extra boxes or reduce to25cards. Remove hand/sourceprice/shopbackground; entirebox fits eachfullcell with margins. Macro actual part only, no requirementshow wholebox. Headingonly,no unsupportedclaims. Actual main designs colourful silver-tone drop/studs: pinkdiscs, redearrings, greenflowers, blackrounds, redstars, rose-gold hearts, crescentmoons, orange/yellowcherries, pinkovals, tealhearts, clovers. Preserve exact source positions and repeated colours/shapes. Macro tight actual one pinkrounddisc earring with silverhook/clearstud above. Heading 'Colourful Earring Display Box'.",
+      "sha256": "633100c70751062ccb690d39c515e4f19a98605889efcd174eb0e509eebfc71d",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6b9741d1-28cf-4705-90fc-eb8e35824d8d.png",
+      "grid_sha256": "2cff5e18b53a5f8b34275608b93e139010b19d43b2ba36419e2c31bfdb8d5633",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-6b9741d1-28cf-4705-90fc-eb8e35824d8d.png",
+      "prompt": "Faithfully EDIT actual referenced earring box into1536x1024website SIXequal512squarepanels3columns2rows x512/1024y512. Top fullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentdressingtablelifestyle. Bottom tightstandalone REALPARTmacro/fullassortmentpromo accurateheading/blankcream. No spanningpanels. ONE square shallow metalrim displaybox, pale lavenderfoam, EXACTLY36 smallwhite earringcards in SIXrows SIXcolumns. Eachcard THREEPAIRS: one main decorativepair plus two tiny silver/clearstudpairs,108pairs total. Preserve all36cards/source6x6order/exact count/design/materials/colours; no extra boxes or reduce to25cards. Remove hand/sourceprice/shopbackground; entirebox fits eachfullcell with margins. Macro actual part only, no requirementshow wholebox. Headingonly,no unsupportedclaims. Actual main designs colourful silver-tone drop/studs: pinkdiscs, redearrings, greenflowers, blackrounds, redstars, rose-gold hearts, crescentmoons, orange/yellowcherries, pinkovals, tealhearts, clovers. Preserve exact source positions and repeated colours/shapes. Macro tight actual one pinkrounddisc earring with silverhook/clearstud above. Heading 'Colourful Earring Display Box'.",
+      "sha256": "0d9bb62b529db1d121d9543264e4519bcd6ca05d4268408153cb5598cf0c5ea0",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6b9741d1-28cf-4705-90fc-eb8e35824d8d.png",
+      "grid_sha256": "2cff5e18b53a5f8b34275608b93e139010b19d43b2ba36419e2c31bfdb8d5633",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

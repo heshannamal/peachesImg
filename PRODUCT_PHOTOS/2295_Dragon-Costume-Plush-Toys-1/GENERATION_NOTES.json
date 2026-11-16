@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260807-WA0379.jpg": "31db1f8c9cc730ae0bc9712dbc44067c8af3f488686da76b4cd4a0ddfb920af3"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-c4fe6ebc-c307-41da-96b6-91f7b99dd65d.png",
+      "source_output": "/workspace/generated_images/exec-c4fe6ebc-c307-41da-96b6-91f7b99dd65d.png",
+      "sha256": "b2644e8a0b5bd1d6e46bc38dd089acbcb42206e2d105cdfb1dfd81b47cbc8810",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIX EQUAL512squarepanels3columns2rows x512/1024y512. Topfullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentlifestyle. Bottomstandalone tightREALPARTmacro/fullassortmentpromo accurateheading/blankcream. No spanningpanels. Preserve exact productcountidentityshapescolours, no unrelatedsubstitutes. Remove sourceprice/collagedividers/backgroundclutter. All fullproducts fit independentcells with margins, no unsupportedclaims. Exactly THREE seated big-eared plush toys from source collage, NOT dragon costumes despitewrongfoldername: blue with turquoise muzzle/belly and purpleinnerears; lavender with mintnose/beigebelly and beigeinnerears; pink with REDnose/REDinnerears/redfingertips. Preserve source exact eyes/nose/tuft/paws/proportions and distinctive colour identities. Arrange three sidebyside, lifestyle on bedroom shelf. Macro tight actual pinktoy rednose seam/pinkfur. Heading 'Three Colour Plush Toys'.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-c4fe6ebc-c307-41da-96b6-91f7b99dd65d.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIX EQUAL512squarepanels3columns2rows x512/1024y512. Topfullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentlifestyle. Bottomstandalone tightREALPARTmacro/fullassortmentpromo accurateheading/blankcream. No spanningpanels. Preserve exact productcountidentityshapescolours, no unrelatedsubstitutes. Remove sourceprice/collagedividers/backgroundclutter. All fullproducts fit independentcells with margins, no unsupportedclaims. Exactly THREE seated big-eared plush toys from source collage, NOT dragon costumes despitewrongfoldername: blue with turquoise muzzle/belly and purpleinnerears; lavender with mintnose/beigebelly and beigeinnerears; pink with REDnose/REDinnerears/redfingertips. Preserve source exact eyes/nose/tuft/paws/proportions and distinctive colour identities. Arrange three sidebyside, lifestyle on bedroom shelf. Macro tight actual pinktoy rednose seam/pinkfur. Heading 'Three Colour Plush Toys'.",
+      "sha256": "e3eb24a519340a89a171a9f12078b97a1890041afc8c5bdf0ec9b9690b4695b6",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c4fe6ebc-c307-41da-96b6-91f7b99dd65d.png",
+      "grid_sha256": "b2644e8a0b5bd1d6e46bc38dd089acbcb42206e2d105cdfb1dfd81b47cbc8810",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crops inspected: exactly three actual plush colour variants, not dragon costumes. Blue/turquoise/purple-ear, lavender/mint-nose/beige-ear, pink/red-nose/red-ear source identities preserved, full views fit. Tight actual red-nose seam macro and accurate full-assortment promo heading."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-c4fe6ebc-c307-41da-96b6-91f7b99dd65d.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIX EQUAL512squarepanels3columns2rows x512/1024y512. Topfullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentlifestyle. Bottomstandalone tightREALPARTmacro/fullassortmentpromo accurateheading/blankcream. No spanningpanels. Preserve exact productcountidentityshapescolours, no unrelatedsubstitutes. Remove sourceprice/collagedividers/backgroundclutter. All fullproducts fit independentcells with margins, no unsupportedclaims. Exactly THREE seated big-eared plush toys from source collage, NOT dragon costumes despitewrongfoldername: blue with turquoise muzzle/belly and purpleinnerears; lavender with mintnose/beigebelly and beigeinnerears; pink with REDnose/REDinnerears/redfingertips. Preserve source exact eyes/nose/tuft/paws/proportions and distinctive colour identities. Arrange three sidebyside, lifestyle on bedroom shelf. Macro tight actual pinktoy rednose seam/pinkfur. Heading 'Three Colour Plush Toys'.",
+      "sha256": "fc76f844936801ed4853dd0f62346b8fb5ac3a7d6a86bfe6c1ae7bc050b5f674",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c4fe6ebc-c307-41da-96b6-91f7b99dd65d.png",
+      "grid_sha256": "b2644e8a0b5bd1d6e46bc38dd089acbcb42206e2d105cdfb1dfd81b47cbc8810",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crops inspected: exactly three actual plush colour variants, not dragon costumes. Blue/turquoise/purple-ear, lavender/mint-nose/beige-ear, pink/red-nose/red-ear source identities preserved, full views fit. Tight actual red-nose seam macro and accurate full-assortment promo heading."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-c4fe6ebc-c307-41da-96b6-91f7b99dd65d.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIX EQUAL512squarepanels3columns2rows x512/1024y512. Topfullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentlifestyle. Bottomstandalone tightREALPARTmacro/fullassortmentpromo accurateheading/blankcream. No spanningpanels. Preserve exact productcountidentityshapescolours, no unrelatedsubstitutes. Remove sourceprice/collagedividers/backgroundclutter. All fullproducts fit independentcells with margins, no unsupportedclaims. Exactly THREE seated big-eared plush toys from source collage, NOT dragon costumes despitewrongfoldername: blue with turquoise muzzle/belly and purpleinnerears; lavender with mintnose/beigebelly and beigeinnerears; pink with REDnose/REDinnerears/redfingertips. Preserve source exact eyes/nose/tuft/paws/proportions and distinctive colour identities. Arrange three sidebyside, lifestyle on bedroom shelf. Macro tight actual pinktoy rednose seam/pinkfur. Heading 'Three Colour Plush Toys'.",
+      "sha256": "0abf62ebb10a2b15b466722d25e6bf46ae0ba8d6c1dbd58f36996e1b1d8cd3bd",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c4fe6ebc-c307-41da-96b6-91f7b99dd65d.png",
+      "grid_sha256": "b2644e8a0b5bd1d6e46bc38dd089acbcb42206e2d105cdfb1dfd81b47cbc8810",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crops inspected: exactly three actual plush colour variants, not dragon costumes. Blue/turquoise/purple-ear, lavender/mint-nose/beige-ear, pink/red-nose/red-ear source identities preserved, full views fit. Tight actual red-nose seam macro and accurate full-assortment promo heading."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-c4fe6ebc-c307-41da-96b6-91f7b99dd65d.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIX EQUAL512squarepanels3columns2rows x512/1024y512. Topfullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentlifestyle. Bottomstandalone tightREALPARTmacro/fullassortmentpromo accurateheading/blankcream. No spanningpanels. Preserve exact productcountidentityshapescolours, no unrelatedsubstitutes. Remove sourceprice/collagedividers/backgroundclutter. All fullproducts fit independentcells with margins, no unsupportedclaims. Exactly THREE seated big-eared plush toys from source collage, NOT dragon costumes despitewrongfoldername: blue with turquoise muzzle/belly and purpleinnerears; lavender with mintnose/beigebelly and beigeinnerears; pink with REDnose/REDinnerears/redfingertips. Preserve source exact eyes/nose/tuft/paws/proportions and distinctive colour identities. Arrange three sidebyside, lifestyle on bedroom shelf. Macro tight actual pinktoy rednose seam/pinkfur. Heading 'Three Colour Plush Toys'.",
+      "sha256": "a6f3c193f56c1cf2a79c642f01f4408b67e5b1e66f53f75b081b87dfab21dfff",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c4fe6ebc-c307-41da-96b6-91f7b99dd65d.png",
+      "grid_sha256": "b2644e8a0b5bd1d6e46bc38dd089acbcb42206e2d105cdfb1dfd81b47cbc8810",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crops inspected: exactly three actual plush colour variants, not dragon costumes. Blue/turquoise/purple-ear, lavender/mint-nose/beige-ear, pink/red-nose/red-ear source identities preserved, full views fit. Tight actual red-nose seam macro and accurate full-assortment promo heading."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-c4fe6ebc-c307-41da-96b6-91f7b99dd65d.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIX EQUAL512squarepanels3columns2rows x512/1024y512. Topfullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentlifestyle. Bottomstandalone tightREALPARTmacro/fullassortmentpromo accurateheading/blankcream. No spanningpanels. Preserve exact productcountidentityshapescolours, no unrelatedsubstitutes. Remove sourceprice/collagedividers/backgroundclutter. All fullproducts fit independentcells with margins, no unsupportedclaims. Exactly THREE seated big-eared plush toys from source collage, NOT dragon costumes despitewrongfoldername: blue with turquoise muzzle/belly and purpleinnerears; lavender with mintnose/beigebelly and beigeinnerears; pink with REDnose/REDinnerears/redfingertips. Preserve source exact eyes/nose/tuft/paws/proportions and distinctive colour identities. Arrange three sidebyside, lifestyle on bedroom shelf. Macro tight actual pinktoy rednose seam/pinkfur. Heading 'Three Colour Plush Toys'.",
+      "sha256": "e02e920339ff10c2721236c740ab3628f27ee603b836a61c3e354556cf2fea67",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c4fe6ebc-c307-41da-96b6-91f7b99dd65d.png",
+      "grid_sha256": "b2644e8a0b5bd1d6e46bc38dd089acbcb42206e2d105cdfb1dfd81b47cbc8810",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crops inspected: exactly three actual plush colour variants, not dragon costumes. Blue/turquoise/purple-ear, lavender/mint-nose/beige-ear, pink/red-nose/red-ear source identities preserved, full views fit. Tight actual red-nose seam macro and accurate full-assortment promo heading."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baselines_verified": true
+}

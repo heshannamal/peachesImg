@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260810-WA0007.jpg": "2fc08eddbdaf1bf83b6a8b9def3b3b586a5afcf5d02f4da1a06f79c9dc871f3b"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-b0800249-5bc0-429e-bba5-b3726c44475b.png",
+      "source_output": "/workspace/generated_images/exec-b0800249-5bc0-429e-bba5-b3726c44475b.png",
+      "sha256": "7e7f06b0a3618d88863276d6905797f12c814458f229ef88e589910bd0154e6a",
+      "prompt": "Originalreferencednativeedit ONE1536x1024exact3x2equal512cells:topWHITEbackground/lavendercreamstyled/lifestylevanity;bottomTIGHTactualpartmacro/promoheading\"Pastel Bow Hair Elastic Assortment\"/blankcream. ActualONEbundle24hairties. Thin pastelcordelasticloops inpalebluegrey,mint,paleyellow,palepink,lightgrey. Eachtiehasloopandknottedbow twohangingcordends eachwithcleariridescentfacetedbeadandgoldteardropend. Preserveactualconstruction twoendbeadsperhairtie, notpearls/notthickwaveelastics. All4fullviews showALL24tiesinbundleor4rows6 arrangedcompactly, count24 preserveidentitycountshapescolours. Removehand/store/pricebanner. Lifestylewholeassortmentonvanity noonewornsingleitem. MacroTIGHTactualfabrictexture/whitepearl orpastelcordknot/goldteardropbead only. PromoSMALLheading+WHOLE24 nottextonly. Websitequality.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-b0800249-5bc0-429e-bba5-b3726c44475b.png",
+      "prompt": "Originalreferencednativeedit ONE1536x1024exact3x2equal512cells:topWHITEbackground/lavendercreamstyled/lifestylevanity;bottomTIGHTactualpartmacro/promoheading\"Pastel Bow Hair Elastic Assortment\"/blankcream. ActualONEbundle24hairties. Thin pastelcordelasticloops inpalebluegrey,mint,paleyellow,palepink,lightgrey. Eachtiehasloopandknottedbow twohangingcordends eachwithcleariridescentfacetedbeadandgoldteardropend. Preserveactualconstruction twoendbeadsperhairtie, notpearls/notthickwaveelastics. All4fullviews showALL24tiesinbundleor4rows6 arrangedcompactly, count24 preserveidentitycountshapescolours. Removehand/store/pricebanner. Lifestylewholeassortmentonvanity noonewornsingleitem. MacroTIGHTactualfabrictexture/whitepearl orpastelcordknot/goldteardropbead only. PromoSMALLheading+WHOLE24 nottextonly. Websitequality.",
+      "sha256": "e46e476afd27bc9f122ca0f8ae91112f38d21f8a39300aed1ba0286ef0c04779",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-b0800249-5bc0-429e-bba5-b3726c44475b.png",
+      "grid_sha256": "7e7f06b0a3618d88863276d6905797f12c814458f229ef88e589910bd0154e6a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actualsourcebundle24 retained, sourceconstruction/colours/forms preserved; truecells remapped towhite/styled/lifestyle/tightmacro/promowithaccurateheading. Individualcountoccluded inbundle, visiblearrangedview24checked."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-b0800249-5bc0-429e-bba5-b3726c44475b.png",
+      "prompt": "Originalreferencednativeedit ONE1536x1024exact3x2equal512cells:topWHITEbackground/lavendercreamstyled/lifestylevanity;bottomTIGHTactualpartmacro/promoheading\"Pastel Bow Hair Elastic Assortment\"/blankcream. ActualONEbundle24hairties. Thin pastelcordelasticloops inpalebluegrey,mint,paleyellow,palepink,lightgrey. Eachtiehasloopandknottedbow twohangingcordends eachwithcleariridescentfacetedbeadandgoldteardropend. Preserveactualconstruction twoendbeadsperhairtie, notpearls/notthickwaveelastics. All4fullviews showALL24tiesinbundleor4rows6 arrangedcompactly, count24 preserveidentitycountshapescolours. Removehand/store/pricebanner. Lifestylewholeassortmentonvanity noonewornsingleitem. MacroTIGHTactualfabrictexture/whitepearl orpastelcordknot/goldteardropbead only. PromoSMALLheading+WHOLE24 nottextonly. Websitequality.",
+      "sha256": "73fe01a7ae550486a69f11e4cb7057fdf310c07a31dc109f818e273acf0f6c5a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-b0800249-5bc0-429e-bba5-b3726c44475b.png",
+      "grid_sha256": "7e7f06b0a3618d88863276d6905797f12c814458f229ef88e589910bd0154e6a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actualsourcebundle24 retained, sourceconstruction/colours/forms preserved; truecells remapped towhite/styled/lifestyle/tightmacro/promowithaccurateheading. Individualcountoccluded inbundle, visiblearrangedview24checked."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-b0800249-5bc0-429e-bba5-b3726c44475b.png",
+      "prompt": "Originalreferencednativeedit ONE1536x1024exact3x2equal512cells:topWHITEbackground/lavendercreamstyled/lifestylevanity;bottomTIGHTactualpartmacro/promoheading\"Pastel Bow Hair Elastic Assortment\"/blankcream. ActualONEbundle24hairties. Thin pastelcordelasticloops inpalebluegrey,mint,paleyellow,palepink,lightgrey. Eachtiehasloopandknottedbow twohangingcordends eachwithcleariridescentfacetedbeadandgoldteardropend. Preserveactualconstruction twoendbeadsperhairtie, notpearls/notthickwaveelastics. All4fullviews showALL24tiesinbundleor4rows6 arrangedcompactly, count24 preserveidentitycountshapescolours. Removehand/store/pricebanner. Lifestylewholeassortmentonvanity noonewornsingleitem. MacroTIGHTactualfabrictexture/whitepearl orpastelcordknot/goldteardropbead only. PromoSMALLheading+WHOLE24 nottextonly. Websitequality.",
+      "sha256": "8a73bcba84eda68e4c3216e141e113fd93cd66f4e269557ab23be1a056bc31eb",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-b0800249-5bc0-429e-bba5-b3726c44475b.png",
+      "grid_sha256": "7e7f06b0a3618d88863276d6905797f12c814458f229ef88e589910bd0154e6a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actualsourcebundle24 retained, sourceconstruction/colours/forms preserved; truecells remapped towhite/styled/lifestyle/tightmacro/promowithaccurateheading. Individualcountoccluded inbundle, visiblearrangedview24checked."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-b0800249-5bc0-429e-bba5-b3726c44475b.png",
+      "prompt": "Originalreferencednativeedit ONE1536x1024exact3x2equal512cells:topWHITEbackground/lavendercreamstyled/lifestylevanity;bottomTIGHTactualpartmacro/promoheading\"Pastel Bow Hair Elastic Assortment\"/blankcream. ActualONEbundle24hairties. Thin pastelcordelasticloops inpalebluegrey,mint,paleyellow,palepink,lightgrey. Eachtiehasloopandknottedbow twohangingcordends eachwithcleariridescentfacetedbeadandgoldteardropend. Preserveactualconstruction twoendbeadsperhairtie, notpearls/notthickwaveelastics. All4fullviews showALL24tiesinbundleor4rows6 arrangedcompactly, count24 preserveidentitycountshapescolours. Removehand/store/pricebanner. Lifestylewholeassortmentonvanity noonewornsingleitem. MacroTIGHTactualfabrictexture/whitepearl orpastelcordknot/goldteardropbead only. PromoSMALLheading+WHOLE24 nottextonly. Websitequality.",
+      "sha256": "dea4632a5af16ef76b587de3e7f0ef588d21203374699c3e956eb0a03070e31e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-b0800249-5bc0-429e-bba5-b3726c44475b.png",
+      "grid_sha256": "7e7f06b0a3618d88863276d6905797f12c814458f229ef88e589910bd0154e6a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actualsourcebundle24 retained, sourceconstruction/colours/forms preserved; truecells remapped towhite/styled/lifestyle/tightmacro/promowithaccurateheading. Individualcountoccluded inbundle, visiblearrangedview24checked."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-b0800249-5bc0-429e-bba5-b3726c44475b.png",
+      "prompt": "Originalreferencednativeedit ONE1536x1024exact3x2equal512cells:topWHITEbackground/lavendercreamstyled/lifestylevanity;bottomTIGHTactualpartmacro/promoheading\"Pastel Bow Hair Elastic Assortment\"/blankcream. ActualONEbundle24hairties. Thin pastelcordelasticloops inpalebluegrey,mint,paleyellow,palepink,lightgrey. Eachtiehasloopandknottedbow twohangingcordends eachwithcleariridescentfacetedbeadandgoldteardropend. Preserveactualconstruction twoendbeadsperhairtie, notpearls/notthickwaveelastics. All4fullviews showALL24tiesinbundleor4rows6 arrangedcompactly, count24 preserveidentitycountshapescolours. Removehand/store/pricebanner. Lifestylewholeassortmentonvanity noonewornsingleitem. MacroTIGHTactualfabrictexture/whitepearl orpastelcordknot/goldteardropbead only. PromoSMALLheading+WHOLE24 nottextonly. Websitequality.",
+      "sha256": "a74ddfb48f7c60f9c848c5eb8a72d1e954c1abc84d83902a2be8ab31479652cd",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-b0800249-5bc0-429e-bba5-b3726c44475b.png",
+      "grid_sha256": "7e7f06b0a3618d88863276d6905797f12c814458f229ef88e589910bd0154e6a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        512,
+        1536,
+        1024
+      ],
+      "visual_review": "Actualsourcebundle24 retained, sourceconstruction/colours/forms preserved; truecells remapped towhite/styled/lifestyle/tightmacro/promowithaccurateheading. Individualcountoccluded inbundle, visiblearrangedview24checked."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "originals_verified_against_frozen_plan": true
+}

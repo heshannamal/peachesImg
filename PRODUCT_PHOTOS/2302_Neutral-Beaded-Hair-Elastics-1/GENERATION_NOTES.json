@@ -1,0 +1,144 @@
+{
+  "records": [
+    {
+      "kind": "rejected_runtime_error_prompt_result",
+      "saved_file": "Rejected/runtime_error_prompt_result.png",
+      "sha256": "3f6b27c97f349abf04d75118d41f63aae92156042357044c9f886a0c08f25c64",
+      "checked": false,
+      "prompt": "bwrap: Can't create file /workspace/.git: No space left on device\n",
+      "visual_review": "Invalid result: failed shell output was accidentally passed as native prompt instead of the actual persisted prompt. Output resembles original with hand/price and runtime error banner, not requested grid. Retained only in Rejected; no approved New views. One valid recovery/corrective grid remains, budget not reset."
+    },
+    {
+      "kind": "exact_prompt_file",
+      "saved_file": "Generation_Prompts/initial.txt",
+      "sha256": "9c820dc826d1608093eae87710c2c624d8d26388390e5b58a88745049fedb4c4",
+      "checked": false
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-0c9f224d-8b1f-43b9-81a0-80d604bfb1df.png",
+      "source_output": "/workspace/generated_images/exec-0c9f224d-8b1f-43b9-81a0-80d604bfb1df.png",
+      "sha256": "8c8c7ec7a46e6966b5c5113adfa17c408c310405c2c2cfde2aaac597ba8be331",
+      "prompt": "Edit attached actual product original into ONE1536x1024 website image EXACT3columns by2rows512squarecells no gutters. Whole actual dense bundle of24 twisted rope elastic hair ties in black, darkbrown, taupe, cream and mustard/tan. Attached chunky round cylindrical beads with contrasting small inset five-point STAR faces (cream/peach/black), preserve original star beads and knotted loops, no round plain bead substitutions. Keep original bundle/visible strand count and colour arrangement. Heading: Star Bead Hair Ties. Whole assortment ONE product preserve actual count identity shapes colours. Top left full bundle pure white; top middle full bundle lavendercream styled; top right full bundle relevant vanity/tabletop lifestyle with no added products; bottom left standalone TIGHT actual real-part macro showing rope texture and actual attached tag/bead, not entire bundle; bottom middle full bundle accurate heading given only, no prices/claims; bottom right blank cream. Remove hand/shop/grey background/price overlay. Photorealistic website-ready nothing crosses cell boundaries.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-0c9f224d-8b1f-43b9-81a0-80d604bfb1df.png",
+      "prompt": "Edit attached actual product original into ONE1536x1024 website image EXACT3columns by2rows512squarecells no gutters. Whole actual dense bundle of24 twisted rope elastic hair ties in black, darkbrown, taupe, cream and mustard/tan. Attached chunky round cylindrical beads with contrasting small inset five-point STAR faces (cream/peach/black), preserve original star beads and knotted loops, no round plain bead substitutions. Keep original bundle/visible strand count and colour arrangement. Heading: Star Bead Hair Ties. Whole assortment ONE product preserve actual count identity shapes colours. Top left full bundle pure white; top middle full bundle lavendercream styled; top right full bundle relevant vanity/tabletop lifestyle with no added products; bottom left standalone TIGHT actual real-part macro showing rope texture and actual attached tag/bead, not entire bundle; bottom middle full bundle accurate heading given only, no prices/claims; bottom right blank cream. Remove hand/shop/grey background/price overlay. Photorealistic website-ready nothing crosses cell boundaries.",
+      "sha256": "cc5659938438bff79ea1ae4feefc2224a24420893acb26585029e9bfcbfe93ca",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0c9f224d-8b1f-43b9-81a0-80d604bfb1df.png",
+      "grid_sha256": "8c8c7ec7a46e6966b5c5113adfa17c408c310405c2c2cfde2aaac597ba8be331",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Single authorized recovery: actual original and five saved crops inspected. Original neutral twisted rope bundle, visible brown/black/cream/mustard cords, knotted loops and round star-inset beads retained. Hidden24item count cannot be fully enumerated; no material visible strand/identity change observed. White/lavendercream/tabletop lifestyle, tight real star-bead/rope macro and accurate heading passed. Exact512cell boxes and frozen original/output SHA verified. Invalid runtime-error-prompt image retained only Rejected, recovery budget spent."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-0c9f224d-8b1f-43b9-81a0-80d604bfb1df.png",
+      "prompt": "Edit attached actual product original into ONE1536x1024 website image EXACT3columns by2rows512squarecells no gutters. Whole actual dense bundle of24 twisted rope elastic hair ties in black, darkbrown, taupe, cream and mustard/tan. Attached chunky round cylindrical beads with contrasting small inset five-point STAR faces (cream/peach/black), preserve original star beads and knotted loops, no round plain bead substitutions. Keep original bundle/visible strand count and colour arrangement. Heading: Star Bead Hair Ties. Whole assortment ONE product preserve actual count identity shapes colours. Top left full bundle pure white; top middle full bundle lavendercream styled; top right full bundle relevant vanity/tabletop lifestyle with no added products; bottom left standalone TIGHT actual real-part macro showing rope texture and actual attached tag/bead, not entire bundle; bottom middle full bundle accurate heading given only, no prices/claims; bottom right blank cream. Remove hand/shop/grey background/price overlay. Photorealistic website-ready nothing crosses cell boundaries.",
+      "sha256": "54bb92f56424d7c441eb33f150826289a5f3f190a82d04c3a58a101f985f9da4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0c9f224d-8b1f-43b9-81a0-80d604bfb1df.png",
+      "grid_sha256": "8c8c7ec7a46e6966b5c5113adfa17c408c310405c2c2cfde2aaac597ba8be331",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Single authorized recovery: actual original and five saved crops inspected. Original neutral twisted rope bundle, visible brown/black/cream/mustard cords, knotted loops and round star-inset beads retained. Hidden24item count cannot be fully enumerated; no material visible strand/identity change observed. White/lavendercream/tabletop lifestyle, tight real star-bead/rope macro and accurate heading passed. Exact512cell boxes and frozen original/output SHA verified. Invalid runtime-error-prompt image retained only Rejected, recovery budget spent."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-0c9f224d-8b1f-43b9-81a0-80d604bfb1df.png",
+      "prompt": "Edit attached actual product original into ONE1536x1024 website image EXACT3columns by2rows512squarecells no gutters. Whole actual dense bundle of24 twisted rope elastic hair ties in black, darkbrown, taupe, cream and mustard/tan. Attached chunky round cylindrical beads with contrasting small inset five-point STAR faces (cream/peach/black), preserve original star beads and knotted loops, no round plain bead substitutions. Keep original bundle/visible strand count and colour arrangement. Heading: Star Bead Hair Ties. Whole assortment ONE product preserve actual count identity shapes colours. Top left full bundle pure white; top middle full bundle lavendercream styled; top right full bundle relevant vanity/tabletop lifestyle with no added products; bottom left standalone TIGHT actual real-part macro showing rope texture and actual attached tag/bead, not entire bundle; bottom middle full bundle accurate heading given only, no prices/claims; bottom right blank cream. Remove hand/shop/grey background/price overlay. Photorealistic website-ready nothing crosses cell boundaries.",
+      "sha256": "f517f4189c0f853d6774d14cde1a9171cf62666304ab97325a417deb1ef82f94",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0c9f224d-8b1f-43b9-81a0-80d604bfb1df.png",
+      "grid_sha256": "8c8c7ec7a46e6966b5c5113adfa17c408c310405c2c2cfde2aaac597ba8be331",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Single authorized recovery: actual original and five saved crops inspected. Original neutral twisted rope bundle, visible brown/black/cream/mustard cords, knotted loops and round star-inset beads retained. Hidden24item count cannot be fully enumerated; no material visible strand/identity change observed. White/lavendercream/tabletop lifestyle, tight real star-bead/rope macro and accurate heading passed. Exact512cell boxes and frozen original/output SHA verified. Invalid runtime-error-prompt image retained only Rejected, recovery budget spent."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-0c9f224d-8b1f-43b9-81a0-80d604bfb1df.png",
+      "prompt": "Edit attached actual product original into ONE1536x1024 website image EXACT3columns by2rows512squarecells no gutters. Whole actual dense bundle of24 twisted rope elastic hair ties in black, darkbrown, taupe, cream and mustard/tan. Attached chunky round cylindrical beads with contrasting small inset five-point STAR faces (cream/peach/black), preserve original star beads and knotted loops, no round plain bead substitutions. Keep original bundle/visible strand count and colour arrangement. Heading: Star Bead Hair Ties. Whole assortment ONE product preserve actual count identity shapes colours. Top left full bundle pure white; top middle full bundle lavendercream styled; top right full bundle relevant vanity/tabletop lifestyle with no added products; bottom left standalone TIGHT actual real-part macro showing rope texture and actual attached tag/bead, not entire bundle; bottom middle full bundle accurate heading given only, no prices/claims; bottom right blank cream. Remove hand/shop/grey background/price overlay. Photorealistic website-ready nothing crosses cell boundaries.",
+      "sha256": "e77f41394ac7644031d33de4e2e24019d589ac4176767dd027e411d164f760f0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0c9f224d-8b1f-43b9-81a0-80d604bfb1df.png",
+      "grid_sha256": "8c8c7ec7a46e6966b5c5113adfa17c408c310405c2c2cfde2aaac597ba8be331",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Single authorized recovery: actual original and five saved crops inspected. Original neutral twisted rope bundle, visible brown/black/cream/mustard cords, knotted loops and round star-inset beads retained. Hidden24item count cannot be fully enumerated; no material visible strand/identity change observed. White/lavendercream/tabletop lifestyle, tight real star-bead/rope macro and accurate heading passed. Exact512cell boxes and frozen original/output SHA verified. Invalid runtime-error-prompt image retained only Rejected, recovery budget spent."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-0c9f224d-8b1f-43b9-81a0-80d604bfb1df.png",
+      "prompt": "Edit attached actual product original into ONE1536x1024 website image EXACT3columns by2rows512squarecells no gutters. Whole actual dense bundle of24 twisted rope elastic hair ties in black, darkbrown, taupe, cream and mustard/tan. Attached chunky round cylindrical beads with contrasting small inset five-point STAR faces (cream/peach/black), preserve original star beads and knotted loops, no round plain bead substitutions. Keep original bundle/visible strand count and colour arrangement. Heading: Star Bead Hair Ties. Whole assortment ONE product preserve actual count identity shapes colours. Top left full bundle pure white; top middle full bundle lavendercream styled; top right full bundle relevant vanity/tabletop lifestyle with no added products; bottom left standalone TIGHT actual real-part macro showing rope texture and actual attached tag/bead, not entire bundle; bottom middle full bundle accurate heading given only, no prices/claims; bottom right blank cream. Remove hand/shop/grey background/price overlay. Photorealistic website-ready nothing crosses cell boundaries.",
+      "sha256": "242bea6d0cc413b31321dbd3c04ae8cda3b12b1707e6ae5be65722438b7f1afb",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0c9f224d-8b1f-43b9-81a0-80d604bfb1df.png",
+      "grid_sha256": "8c8c7ec7a46e6966b5c5113adfa17c408c310405c2c2cfde2aaac597ba8be331",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Single authorized recovery: actual original and five saved crops inspected. Original neutral twisted rope bundle, visible brown/black/cream/mustard cords, knotted loops and round star-inset beads retained. Hidden24item count cannot be fully enumerated; no material visible strand/identity change observed. White/lavendercream/tabletop lifestyle, tight real star-bead/rope macro and accurate heading passed. Exact512cell boxes and frozen original/output SHA verified. Invalid runtime-error-prompt image retained only Rejected, recovery budget spent."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "recovery_budget": {
+    "remaining_valid_recovery_grid_attempts": 0,
+    "valid_recovery_grid_attempts_used": 1,
+    "reason": "Single authorized valid recovery/corrective grid generated and passed all five views; no retry budget remains."
+  },
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "runtime_error_history": [
+    "bwrap: Cannot create file /workspace/.git: No space left on device"
+  ],
+  "original_baseline_verified": true
+}

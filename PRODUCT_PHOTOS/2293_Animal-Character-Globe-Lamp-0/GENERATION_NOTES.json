@@ -1,0 +1,27 @@
+{
+  "status": "blocked_moderation",
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260807-WA0314.jpg": "d2138fa61268a2984fd8c85a8b0316126a2285a93fdd2df82e2c0df10315b01c"
+  },
+  "records": [],
+  "blocked_attempt": {
+    "prompt": "Native edit actualreferencedoriginal productphoto only. Create NEW website-ready realisticphotography1536x1024landscape exact3columns x2rows equal512squarecells nogutters/borders/panellabels. Top-left entireONE lamp PUREWHITEbackground #FFFFFF. Top-middle sameONE lamp lavender/creamstyled. Top-right sameONE lamp warm bedside tablelifestyle. Bottom-left standalone TIGHT actualrealpartmacro of engraving/glasssurface/woodbase junction NOTwholelamp. Bottom-middle sameONE lamp promo accurateheading 'Character Crystal Globe Lamp'. Bottom-right blankcream unused. Preserve exactone transparentGLASS SPHERE onlowroundlightnaturalWOOD LEDBASE, warmwhiteillumination/engraving identity andgeometry/sourcewoodgrain and blackpowercordwherevisible. Glassmustremaintransparent NOTopaqueprintedball. Remove sourceprice/codeoverlay/blackbackdrop. Entirelamp inside eachfullviewcell. No extra lamps/characters/flowers.\nInsideglass exactsource laseretchedwhite STITCH sitting with TWOlargeuprightears and bigdarkeyes, original smalldecorations/butterflyabovehead and flowerbesideright. Keepsourcepose/etching notcolourfigure. ONEcharacterengraving only.",
+    "http_status": 400,
+    "request_id": "bbc25169-90f9-4bc8-a323-f1c07ccf6902",
+    "raw_error": {
+      "message": "Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID bbc25169-90f9-4bc8-a323-f1c07ccf6902.",
+      "type": "image_generation_user_error",
+      "param": null,
+      "code": "moderation_blocked",
+      "moderation_details": {
+        "moderation_stage": "output",
+        "categories": [
+          "other"
+        ]
+      }
+    },
+    "retried": false
+  }
+}

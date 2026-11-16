@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260807-WA0313.jpg": "0f3d52ae6571adef1a64edaa8cbbd5595be37545b9d1337cc1e849b9fba1da83"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/2292-recovery-grid.png",
+      "source_output": "/tmp/2292-recovery-grid.png",
+      "sha256": "396fa299b87d5de34871f86c18825a6527def2d105e53e21b9937f488af9b147",
+      "prompt": "Native edit actualreferencedoriginal productphoto only. Create NEW website-ready realisticphotography1536x1024landscape exact3columns x2rows equal512squarecells nogutters/borders/panellabels. Top-left entireONE lamp PUREWHITEbackground #FFFFFF. Top-middle sameONE lamp lavender/creamstyled. Top-right sameONE lamp warm bedside tablelifestyle. Bottom-left standalone TIGHT actualrealpartmacro of engraving/glasssurface/woodbase junction NOTwholelamp. Bottom-middle sameONE lamp promo accurateheading 'I Love You Crystal Globe Lamp'. Bottom-right blankcream unused. Preserve exactone transparentGLASS SPHERE onlowroundlightnaturalWOOD LEDBASE, warmwhiteillumination/engraving identity andgeometry/sourcewoodgrain and blackpowercordwherevisible. Glassmustremaintransparent NOTopaqueprintedball. Remove sourceprice/codeoverlay/blackbackdrop. Entirelamp inside eachfullviewcell. No extra lamps/characters/flowers.\nFolderwrong NOflowers. Exactlaserengraving THREElarge overlappingHEARTS: TOPheart letterI, LOWERLEFTheart LOVE, LOWERRIGHTheart YOU, surroundedbysmalloutlinedhearts. Preserve I LOVE YOU arrangement/readablelettering. No animals/flowers.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/tmp/2292-recovery-grid.png",
+      "prompt": "Native edit actualreferencedoriginal productphoto only. Create NEW website-ready realisticphotography1536x1024landscape exact3columns x2rows equal512squarecells nogutters/borders/panellabels. Top-left entireONE lamp PUREWHITEbackground #FFFFFF. Top-middle sameONE lamp lavender/creamstyled. Top-right sameONE lamp warm bedside tablelifestyle. Bottom-left standalone TIGHT actualrealpartmacro of engraving/glasssurface/woodbase junction NOTwholelamp. Bottom-middle sameONE lamp promo accurateheading 'I Love You Crystal Globe Lamp'. Bottom-right blankcream unused. Preserve exactone transparentGLASS SPHERE onlowroundlightnaturalWOOD LEDBASE, warmwhiteillumination/engraving identity andgeometry/sourcewoodgrain and blackpowercordwherevisible. Glassmustremaintransparent NOTopaqueprintedball. Remove sourceprice/codeoverlay/blackbackdrop. Entirelamp inside eachfullviewcell. No extra lamps/characters/flowers.\nFolderwrong NOflowers. Exactlaserengraving THREElarge overlappingHEARTS: TOPheart letterI, LOWERLEFTheart LOVE, LOWERRIGHTheart YOU, surroundedbysmalloutlinedhearts. Preserve I LOVE YOU arrangement/readablelettering. No animals/flowers.",
+      "sha256": "b47811023fb576f7711fbb6fe28417174210fbb8e53f25030c6ff5473e3601a7",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/2292-recovery-grid.png",
+      "grid_sha256": "396fa299b87d5de34871f86c18825a6527def2d105e53e21b9937f488af9b147",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual mechanicallysavedcrop inspected againstoriginal:ONE transparentglobe withwarmLED lowwoodbase, THREEheartengraving I/LOVE/YOU positions andsmallhearts retained. Entirelampwhite/lavendercream/bedside/promo, tightrealetchedglass/woodjunctionmacro. Accurateheading,correct512boundaries. Full-diskinterruptedproductcopy;successfulcache backedup totmp andthenimmediatelysavedonce spaceavailable."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/tmp/2292-recovery-grid.png",
+      "prompt": "Native edit actualreferencedoriginal productphoto only. Create NEW website-ready realisticphotography1536x1024landscape exact3columns x2rows equal512squarecells nogutters/borders/panellabels. Top-left entireONE lamp PUREWHITEbackground #FFFFFF. Top-middle sameONE lamp lavender/creamstyled. Top-right sameONE lamp warm bedside tablelifestyle. Bottom-left standalone TIGHT actualrealpartmacro of engraving/glasssurface/woodbase junction NOTwholelamp. Bottom-middle sameONE lamp promo accurateheading 'I Love You Crystal Globe Lamp'. Bottom-right blankcream unused. Preserve exactone transparentGLASS SPHERE onlowroundlightnaturalWOOD LEDBASE, warmwhiteillumination/engraving identity andgeometry/sourcewoodgrain and blackpowercordwherevisible. Glassmustremaintransparent NOTopaqueprintedball. Remove sourceprice/codeoverlay/blackbackdrop. Entirelamp inside eachfullviewcell. No extra lamps/characters/flowers.\nFolderwrong NOflowers. Exactlaserengraving THREElarge overlappingHEARTS: TOPheart letterI, LOWERLEFTheart LOVE, LOWERRIGHTheart YOU, surroundedbysmalloutlinedhearts. Preserve I LOVE YOU arrangement/readablelettering. No animals/flowers.",
+      "sha256": "984490368a9672e75adea83dd970af667a8e2f8ad54edb22ec40f82dcc5b7768",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/2292-recovery-grid.png",
+      "grid_sha256": "396fa299b87d5de34871f86c18825a6527def2d105e53e21b9937f488af9b147",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual mechanicallysavedcrop inspected againstoriginal:ONE transparentglobe withwarmLED lowwoodbase, THREEheartengraving I/LOVE/YOU positions andsmallhearts retained. Entirelampwhite/lavendercream/bedside/promo, tightrealetchedglass/woodjunctionmacro. Accurateheading,correct512boundaries. Full-diskinterruptedproductcopy;successfulcache backedup totmp andthenimmediatelysavedonce spaceavailable."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/tmp/2292-recovery-grid.png",
+      "prompt": "Native edit actualreferencedoriginal productphoto only. Create NEW website-ready realisticphotography1536x1024landscape exact3columns x2rows equal512squarecells nogutters/borders/panellabels. Top-left entireONE lamp PUREWHITEbackground #FFFFFF. Top-middle sameONE lamp lavender/creamstyled. Top-right sameONE lamp warm bedside tablelifestyle. Bottom-left standalone TIGHT actualrealpartmacro of engraving/glasssurface/woodbase junction NOTwholelamp. Bottom-middle sameONE lamp promo accurateheading 'I Love You Crystal Globe Lamp'. Bottom-right blankcream unused. Preserve exactone transparentGLASS SPHERE onlowroundlightnaturalWOOD LEDBASE, warmwhiteillumination/engraving identity andgeometry/sourcewoodgrain and blackpowercordwherevisible. Glassmustremaintransparent NOTopaqueprintedball. Remove sourceprice/codeoverlay/blackbackdrop. Entirelamp inside eachfullviewcell. No extra lamps/characters/flowers.\nFolderwrong NOflowers. Exactlaserengraving THREElarge overlappingHEARTS: TOPheart letterI, LOWERLEFTheart LOVE, LOWERRIGHTheart YOU, surroundedbysmalloutlinedhearts. Preserve I LOVE YOU arrangement/readablelettering. No animals/flowers.",
+      "sha256": "d0aae2e506f7f94e611fba093feb8ef91f92bc0759b46c7ef010fb6be060fbf0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/2292-recovery-grid.png",
+      "grid_sha256": "396fa299b87d5de34871f86c18825a6527def2d105e53e21b9937f488af9b147",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual mechanicallysavedcrop inspected againstoriginal:ONE transparentglobe withwarmLED lowwoodbase, THREEheartengraving I/LOVE/YOU positions andsmallhearts retained. Entirelampwhite/lavendercream/bedside/promo, tightrealetchedglass/woodjunctionmacro. Accurateheading,correct512boundaries. Full-diskinterruptedproductcopy;successfulcache backedup totmp andthenimmediatelysavedonce spaceavailable."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/tmp/2292-recovery-grid.png",
+      "prompt": "Native edit actualreferencedoriginal productphoto only. Create NEW website-ready realisticphotography1536x1024landscape exact3columns x2rows equal512squarecells nogutters/borders/panellabels. Top-left entireONE lamp PUREWHITEbackground #FFFFFF. Top-middle sameONE lamp lavender/creamstyled. Top-right sameONE lamp warm bedside tablelifestyle. Bottom-left standalone TIGHT actualrealpartmacro of engraving/glasssurface/woodbase junction NOTwholelamp. Bottom-middle sameONE lamp promo accurateheading 'I Love You Crystal Globe Lamp'. Bottom-right blankcream unused. Preserve exactone transparentGLASS SPHERE onlowroundlightnaturalWOOD LEDBASE, warmwhiteillumination/engraving identity andgeometry/sourcewoodgrain and blackpowercordwherevisible. Glassmustremaintransparent NOTopaqueprintedball. Remove sourceprice/codeoverlay/blackbackdrop. Entirelamp inside eachfullviewcell. No extra lamps/characters/flowers.\nFolderwrong NOflowers. Exactlaserengraving THREElarge overlappingHEARTS: TOPheart letterI, LOWERLEFTheart LOVE, LOWERRIGHTheart YOU, surroundedbysmalloutlinedhearts. Preserve I LOVE YOU arrangement/readablelettering. No animals/flowers.",
+      "sha256": "b367ba14772962f9b8fe570cfb51fb2207ba403eea88e8883672205487145c17",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/2292-recovery-grid.png",
+      "grid_sha256": "396fa299b87d5de34871f86c18825a6527def2d105e53e21b9937f488af9b147",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual mechanicallysavedcrop inspected againstoriginal:ONE transparentglobe withwarmLED lowwoodbase, THREEheartengraving I/LOVE/YOU positions andsmallhearts retained. Entirelampwhite/lavendercream/bedside/promo, tightrealetchedglass/woodjunctionmacro. Accurateheading,correct512boundaries. Full-diskinterruptedproductcopy;successfulcache backedup totmp andthenimmediatelysavedonce spaceavailable."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/tmp/2292-recovery-grid.png",
+      "prompt": "Native edit actualreferencedoriginal productphoto only. Create NEW website-ready realisticphotography1536x1024landscape exact3columns x2rows equal512squarecells nogutters/borders/panellabels. Top-left entireONE lamp PUREWHITEbackground #FFFFFF. Top-middle sameONE lamp lavender/creamstyled. Top-right sameONE lamp warm bedside tablelifestyle. Bottom-left standalone TIGHT actualrealpartmacro of engraving/glasssurface/woodbase junction NOTwholelamp. Bottom-middle sameONE lamp promo accurateheading 'I Love You Crystal Globe Lamp'. Bottom-right blankcream unused. Preserve exactone transparentGLASS SPHERE onlowroundlightnaturalWOOD LEDBASE, warmwhiteillumination/engraving identity andgeometry/sourcewoodgrain and blackpowercordwherevisible. Glassmustremaintransparent NOTopaqueprintedball. Remove sourceprice/codeoverlay/blackbackdrop. Entirelamp inside eachfullviewcell. No extra lamps/characters/flowers.\nFolderwrong NOflowers. Exactlaserengraving THREElarge overlappingHEARTS: TOPheart letterI, LOWERLEFTheart LOVE, LOWERRIGHTheart YOU, surroundedbysmalloutlinedhearts. Preserve I LOVE YOU arrangement/readablelettering. No animals/flowers.",
+      "sha256": "f76df7b71c89e540172864c5489b276c16c6d2368724d5074af80b9c75235255",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/2292-recovery-grid.png",
+      "grid_sha256": "396fa299b87d5de34871f86c18825a6527def2d105e53e21b9937f488af9b147",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual mechanicallysavedcrop inspected againstoriginal:ONE transparentglobe withwarmLED lowwoodbase, THREEheartengraving I/LOVE/YOU positions andsmallhearts retained. Entirelampwhite/lavendercream/bedside/promo, tightrealetchedglass/woodjunctionmacro. Accurateheading,correct512boundaries. Full-diskinterruptedproductcopy;successfulcache backedup totmp andthenimmediatelysavedonce spaceavailable."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "One clearcrystal globe LEDlamp I LOVE YOU threeheartengraving onlowwoodbase;folderflowerwrong",
+  "original_baseline_verified": true
+}

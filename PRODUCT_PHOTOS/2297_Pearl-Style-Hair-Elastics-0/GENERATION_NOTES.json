@@ -1,0 +1,160 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260810-WA0008.jpg": "c4d2c2a2e0cd6ef13814de5e1b09f8c90c0c758b59caa26f40714f5982600a28"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-11e59084-fac2-4dee-8459-673549a48df2.png",
+      "source_output": "/workspace/generated_images/exec-11e59084-fac2-4dee-8459-673549a48df2.png",
+      "sha256": "62e7b284a8f467d29e09568d7a60518786421c8400926265fffe1a15e6bc62ee",
+      "prompt": "Originalreferencednativeedit ONE1536x1024exact3x2equal512cells:topWHITEbackground/lavendercreamstyled/lifestylevanity;bottomTIGHTactualpartmacro/promoheading\"Pearl Hair Elastic Assortment\"/blankcream. ActualONEbundle24hairties. Thickscallopedwavyfabriccoveredelasticloops black/darkbrown/tan/ivory, eachONElargewhitefauxpearlbead. Preservewavyknittedtexture andsinglewhitepearlperloop, actualneutralcolours. All4fullviews showALL24tiesinbundleor4rows6 arrangedcompactly, count24 preserveidentitycountshapescolours. Removehand/store/pricebanner. Lifestylewholeassortmentonvanity noonewornsingleitem. MacroTIGHTactualfabrictexture/whitepearl orpastelcordknot/goldteardropbead only. PromoSMALLheading+WHOLE24 nottextonly. Websitequality.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-11e59084-fac2-4dee-8459-673549a48df2.png",
+      "prompt": "Originalreferencednativeedit ONE1536x1024exact3x2equal512cells:topWHITEbackground/lavendercreamstyled/lifestylevanity;bottomTIGHTactualpartmacro/promoheading\"Pearl Hair Elastic Assortment\"/blankcream. ActualONEbundle24hairties. Thickscallopedwavyfabriccoveredelasticloops black/darkbrown/tan/ivory, eachONElargewhitefauxpearlbead. Preservewavyknittedtexture andsinglewhitepearlperloop, actualneutralcolours. All4fullviews showALL24tiesinbundleor4rows6 arrangedcompactly, count24 preserveidentitycountshapescolours. Removehand/store/pricebanner. Lifestylewholeassortmentonvanity noonewornsingleitem. MacroTIGHTactualfabrictexture/whitepearl orpastelcordknot/goldteardropbead only. PromoSMALLheading+WHOLE24 nottextonly. Websitequality.",
+      "sha256": "00202e72ca792d7e5d1526a1e496142c01a0a85b427f745792c8e554e3f5bd02",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-11e59084-fac2-4dee-8459-673549a48df2.png",
+      "grid_sha256": "62e7b284a8f467d29e09568d7a60518786421c8400926265fffe1a15e6bc62ee",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        740,
+        518
+      ],
+      "visual_review": "Actualsourcebundle24 retained, sourceconstruction/colours/forms preserved; truecells remapped towhite/styled/lifestyle/tightmacro/promowithaccurateheading. Individualcountoccluded inbundle, visiblearrangedview24checked."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-11e59084-fac2-4dee-8459-673549a48df2.png",
+      "prompt": "Originalreferencednativeedit ONE1536x1024exact3x2equal512cells:topWHITEbackground/lavendercreamstyled/lifestylevanity;bottomTIGHTactualpartmacro/promoheading\"Pearl Hair Elastic Assortment\"/blankcream. ActualONEbundle24hairties. Thickscallopedwavyfabriccoveredelasticloops black/darkbrown/tan/ivory, eachONElargewhitefauxpearlbead. Preservewavyknittedtexture andsinglewhitepearlperloop, actualneutralcolours. All4fullviews showALL24tiesinbundleor4rows6 arrangedcompactly, count24 preserveidentitycountshapescolours. Removehand/store/pricebanner. Lifestylewholeassortmentonvanity noonewornsingleitem. MacroTIGHTactualfabrictexture/whitepearl orpastelcordknot/goldteardropbead only. PromoSMALLheading+WHOLE24 nottextonly. Websitequality.",
+      "sha256": "7b37622bcc952f7ecde1953549f5ef2146a009038cb6334bd3b1971297e720a2",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-11e59084-fac2-4dee-8459-673549a48df2.png",
+      "grid_sha256": "62e7b284a8f467d29e09568d7a60518786421c8400926265fffe1a15e6bc62ee",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        740,
+        0,
+        1536,
+        518
+      ],
+      "visual_review": "Distinctstyledviewmissing from2x2grid; correctiveonce."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-11e59084-fac2-4dee-8459-673549a48df2.png",
+      "prompt": "Originalreferencednativeedit ONE1536x1024exact3x2equal512cells:topWHITEbackground/lavendercreamstyled/lifestylevanity;bottomTIGHTactualpartmacro/promoheading\"Pearl Hair Elastic Assortment\"/blankcream. ActualONEbundle24hairties. Thickscallopedwavyfabriccoveredelasticloops black/darkbrown/tan/ivory, eachONElargewhitefauxpearlbead. Preservewavyknittedtexture andsinglewhitepearlperloop, actualneutralcolours. All4fullviews showALL24tiesinbundleor4rows6 arrangedcompactly, count24 preserveidentitycountshapescolours. Removehand/store/pricebanner. Lifestylewholeassortmentonvanity noonewornsingleitem. MacroTIGHTactualfabrictexture/whitepearl orpastelcordknot/goldteardropbead only. PromoSMALLheading+WHOLE24 nottextonly. Websitequality.",
+      "sha256": "7b37622bcc952f7ecde1953549f5ef2146a009038cb6334bd3b1971297e720a2",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-11e59084-fac2-4dee-8459-673549a48df2.png",
+      "grid_sha256": "62e7b284a8f467d29e09568d7a60518786421c8400926265fffe1a15e6bc62ee",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        740,
+        0,
+        1536,
+        518
+      ],
+      "visual_review": "Actualsourcebundle24 retained, sourceconstruction/colours/forms preserved; truecells remapped towhite/styled/lifestyle/tightmacro/promowithaccurateheading. Individualcountoccluded inbundle, visiblearrangedview24checked."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-11e59084-fac2-4dee-8459-673549a48df2.png",
+      "prompt": "Originalreferencednativeedit ONE1536x1024exact3x2equal512cells:topWHITEbackground/lavendercreamstyled/lifestylevanity;bottomTIGHTactualpartmacro/promoheading\"Pearl Hair Elastic Assortment\"/blankcream. ActualONEbundle24hairties. Thickscallopedwavyfabriccoveredelasticloops black/darkbrown/tan/ivory, eachONElargewhitefauxpearlbead. Preservewavyknittedtexture andsinglewhitepearlperloop, actualneutralcolours. All4fullviews showALL24tiesinbundleor4rows6 arrangedcompactly, count24 preserveidentitycountshapescolours. Removehand/store/pricebanner. Lifestylewholeassortmentonvanity noonewornsingleitem. MacroTIGHTactualfabrictexture/whitepearl orpastelcordknot/goldteardropbead only. PromoSMALLheading+WHOLE24 nottextonly. Websitequality.",
+      "sha256": "32eb225e764efe07e67d929dcd5c1fb6ce24bc3a55b5991c7e943f36b23a7aa7",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-11e59084-fac2-4dee-8459-673549a48df2.png",
+      "grid_sha256": "62e7b284a8f467d29e09568d7a60518786421c8400926265fffe1a15e6bc62ee",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        518,
+        740,
+        1024
+      ],
+      "visual_review": "Actualsourcebundle24 retained, sourceconstruction/colours/forms preserved; truecells remapped towhite/styled/lifestyle/tightmacro/promowithaccurateheading. Individualcountoccluded inbundle, visiblearrangedview24checked."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-11e59084-fac2-4dee-8459-673549a48df2.png",
+      "prompt": "Originalreferencednativeedit ONE1536x1024exact3x2equal512cells:topWHITEbackground/lavendercreamstyled/lifestylevanity;bottomTIGHTactualpartmacro/promoheading\"Pearl Hair Elastic Assortment\"/blankcream. ActualONEbundle24hairties. Thickscallopedwavyfabriccoveredelasticloops black/darkbrown/tan/ivory, eachONElargewhitefauxpearlbead. Preservewavyknittedtexture andsinglewhitepearlperloop, actualneutralcolours. All4fullviews showALL24tiesinbundleor4rows6 arrangedcompactly, count24 preserveidentitycountshapescolours. Removehand/store/pricebanner. Lifestylewholeassortmentonvanity noonewornsingleitem. MacroTIGHTactualfabrictexture/whitepearl orpastelcordknot/goldteardropbead only. PromoSMALLheading+WHOLE24 nottextonly. Websitequality.",
+      "sha256": "afbc6ea20ce660a5a89412388a805f91ed35e177c9ba1b75e19695bfb45b2173",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-11e59084-fac2-4dee-8459-673549a48df2.png",
+      "grid_sha256": "62e7b284a8f467d29e09568d7a60518786421c8400926265fffe1a15e6bc62ee",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        740,
+        518,
+        1536,
+        1024
+      ],
+      "visual_review": "Actualsourcebundle24 retained, sourceconstruction/colours/forms preserved; truecells remapped towhite/styled/lifestyle/tightmacro/promowithaccurateheading. Individualcountoccluded inbundle, visiblearrangedview24checked."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/2297-corrective.png",
+      "source_output": "/workspace/2297-corrective.png",
+      "sha256": "a06a9af18faa88ec9bcfa8568228be007c401861d4fbe3a37d876573dce15189",
+      "prompt": "Originalreferencednativeedit ONE1536x1024exact3x2equal512cells:topWHITEbackground/lavendercreamstyled/lifestylevanity;bottomTIGHTactualpartmacro/promoheading\"Pearl Hair Elastic Assortment\"/blankcream. ActualONEbundle24hairties. Thickscallopedwavyfabriccoveredelasticloops black/darkbrown/tan/ivory, eachONElargewhitefauxpearlbead. Preservewavyknittedtexture andsinglewhitepearlperloop, actualneutralcolours. All4fullviews showALL24tiesinbundleor4rows6 arrangedcompactly, count24 preserveidentitycountshapescolours. Removehand/store/pricebanner. Lifestylewholeassortmentonvanity noonewornsingleitem. MacroTIGHTactualfabrictexture/whitepearl orpastelcordknot/goldteardropbead only. PromoSMALLheading+WHOLE24 nottextonly. Websitequality. CRITICAL exact3columns2rows not2x2. TOPMIDDLEdistinctlavendercreamstyled photo ALL24neutralpearlhairties4rows6; sourcewavyfabricloopsONEwhitepearlpertie. Otherexisting4viewsvalidpreserve.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/2297-corrective.png",
+      "prompt": "Originalreferencednativeedit ONE1536x1024exact3x2equal512cells:topWHITEbackground/lavendercreamstyled/lifestylevanity;bottomTIGHTactualpartmacro/promoheading\"Pearl Hair Elastic Assortment\"/blankcream. ActualONEbundle24hairties. Thickscallopedwavyfabriccoveredelasticloops black/darkbrown/tan/ivory, eachONElargewhitefauxpearlbead. Preservewavyknittedtexture andsinglewhitepearlperloop, actualneutralcolours. All4fullviews showALL24tiesinbundleor4rows6 arrangedcompactly, count24 preserveidentitycountshapescolours. Removehand/store/pricebanner. Lifestylewholeassortmentonvanity noonewornsingleitem. MacroTIGHTactualfabrictexture/whitepearl orpastelcordknot/goldteardropbead only. PromoSMALLheading+WHOLE24 nottextonly. Websitequality. CRITICAL exact3columns2rows not2x2. TOPMIDDLEdistinctlavendercreamstyled photo ALL24neutralpearlhairties4rows6; sourcewavyfabricloopsONEwhitepearlpertie. Otherexisting4viewsvalidpreserve.",
+      "sha256": "e2fcd69599d7646cd193a4216e174e68f0d6f4bf0d66f52af594644a172169b0",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/2297-corrective.png",
+      "grid_sha256": "a06a9af18faa88ec9bcfa8568228be007c401861d4fbe3a37d876573dce15189",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Corrective styledview has20ties4rows5 ratherthan24; materialcountfailure. Onecorrectivespent, nofurtherretry."
+    }
+  ],
+  "status": "partial_corrective_spent_count_error",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "02_Styled-Background.png": 1
+  },
+  "originals_verified_against_frozen_plan": true
+}

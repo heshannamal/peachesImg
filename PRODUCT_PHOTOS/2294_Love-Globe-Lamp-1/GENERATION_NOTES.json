@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260807-WA0315.jpg": "d1e23d431e2d64b6d92092bf96b62b06ef694029590eb4fd77f7e54a0a2a6140"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-f1a69d01-5701-47bf-9004-f15777f67979.png",
+      "source_output": "/workspace/generated_images/exec-f1a69d01-5701-47bf-9004-f15777f67979.png",
+      "sha256": "2cb39dfc3068b9d6df989198f5c6be4dbebfbb23845052c457f023d5265f6d2b",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIX EQUAL512squarepanels3columns2rows x512/1024y512. Topfullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentlifestyle. Bottomstandalone tightREALPARTmacro/fullassortmentpromo accurateheading/blankcream. No spanningpanels. Preserve exact productcountidentityshapescolours, no unrelatedsubstitutes. Remove sourceprice/collagedividers/backgroundclutter. All fullproducts fit independentcells with margins, no unsupportedclaims. Exactly ONE clear spherical crystal globe on ONE short round pale wood LEDbase, warmwhite illumination from beneath, thinblackpowercord. Globe engraved with actual bouquet of roses tiedwithbow and exact lettering 'I \u2665 YOU' underneath. Preserve bouquet stem/flower arrangement and engraving proportions; no loveheart replacement or different scene. Lifestyle bedside table lit warmly, white/styled views retain readable engraving. Macro tight actual white rose engraving and glasscurvature with woodbaseedge. Heading 'Rose Bouquet Globe Lamp'.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-f1a69d01-5701-47bf-9004-f15777f67979.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIX EQUAL512squarepanels3columns2rows x512/1024y512. Topfullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentlifestyle. Bottomstandalone tightREALPARTmacro/fullassortmentpromo accurateheading/blankcream. No spanningpanels. Preserve exact productcountidentityshapescolours, no unrelatedsubstitutes. Remove sourceprice/collagedividers/backgroundclutter. All fullproducts fit independentcells with margins, no unsupportedclaims. Exactly ONE clear spherical crystal globe on ONE short round pale wood LEDbase, warmwhite illumination from beneath, thinblackpowercord. Globe engraved with actual bouquet of roses tiedwithbow and exact lettering 'I \u2665 YOU' underneath. Preserve bouquet stem/flower arrangement and engraving proportions; no loveheart replacement or different scene. Lifestyle bedside table lit warmly, white/styled views retain readable engraving. Macro tight actual white rose engraving and glasscurvature with woodbaseedge. Heading 'Rose Bouquet Globe Lamp'.",
+      "sha256": "670ba1c6ad578ef410c56ab98f4fda21cf489b7dcbfd3806f5d62a853f8fb862",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f1a69d01-5701-47bf-9004-f15777f67979.png",
+      "grid_sha256": "2cb39dfc3068b9d6df989198f5c6be4dbebfbb23845052c457f023d5265f6d2b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crops inspected: one same crystal sphere, white engraved rose bouquet/stems/tied bow and I-heart-YOU lettering, pale wooden illuminated base and blackcord retained. Independent white/styled/lifestyle views, actual engraved bouquet/glass/base-edge tight detail, accurate heading and no unsupported claims."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-f1a69d01-5701-47bf-9004-f15777f67979.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIX EQUAL512squarepanels3columns2rows x512/1024y512. Topfullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentlifestyle. Bottomstandalone tightREALPARTmacro/fullassortmentpromo accurateheading/blankcream. No spanningpanels. Preserve exact productcountidentityshapescolours, no unrelatedsubstitutes. Remove sourceprice/collagedividers/backgroundclutter. All fullproducts fit independentcells with margins, no unsupportedclaims. Exactly ONE clear spherical crystal globe on ONE short round pale wood LEDbase, warmwhite illumination from beneath, thinblackpowercord. Globe engraved with actual bouquet of roses tiedwithbow and exact lettering 'I \u2665 YOU' underneath. Preserve bouquet stem/flower arrangement and engraving proportions; no loveheart replacement or different scene. Lifestyle bedside table lit warmly, white/styled views retain readable engraving. Macro tight actual white rose engraving and glasscurvature with woodbaseedge. Heading 'Rose Bouquet Globe Lamp'.",
+      "sha256": "e520d1aa69700a62607dacf328c84c108eb372ed39ec27a7c224ba0cad310577",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f1a69d01-5701-47bf-9004-f15777f67979.png",
+      "grid_sha256": "2cb39dfc3068b9d6df989198f5c6be4dbebfbb23845052c457f023d5265f6d2b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crops inspected: one same crystal sphere, white engraved rose bouquet/stems/tied bow and I-heart-YOU lettering, pale wooden illuminated base and blackcord retained. Independent white/styled/lifestyle views, actual engraved bouquet/glass/base-edge tight detail, accurate heading and no unsupported claims."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-f1a69d01-5701-47bf-9004-f15777f67979.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIX EQUAL512squarepanels3columns2rows x512/1024y512. Topfullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentlifestyle. Bottomstandalone tightREALPARTmacro/fullassortmentpromo accurateheading/blankcream. No spanningpanels. Preserve exact productcountidentityshapescolours, no unrelatedsubstitutes. Remove sourceprice/collagedividers/backgroundclutter. All fullproducts fit independentcells with margins, no unsupportedclaims. Exactly ONE clear spherical crystal globe on ONE short round pale wood LEDbase, warmwhite illumination from beneath, thinblackpowercord. Globe engraved with actual bouquet of roses tiedwithbow and exact lettering 'I \u2665 YOU' underneath. Preserve bouquet stem/flower arrangement and engraving proportions; no loveheart replacement or different scene. Lifestyle bedside table lit warmly, white/styled views retain readable engraving. Macro tight actual white rose engraving and glasscurvature with woodbaseedge. Heading 'Rose Bouquet Globe Lamp'.",
+      "sha256": "5e9475764e0c5843cc1697223f19017ef41fe4d9faf3a31ee8585d2f341a455d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f1a69d01-5701-47bf-9004-f15777f67979.png",
+      "grid_sha256": "2cb39dfc3068b9d6df989198f5c6be4dbebfbb23845052c457f023d5265f6d2b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crops inspected: one same crystal sphere, white engraved rose bouquet/stems/tied bow and I-heart-YOU lettering, pale wooden illuminated base and blackcord retained. Independent white/styled/lifestyle views, actual engraved bouquet/glass/base-edge tight detail, accurate heading and no unsupported claims."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-f1a69d01-5701-47bf-9004-f15777f67979.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIX EQUAL512squarepanels3columns2rows x512/1024y512. Topfullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentlifestyle. Bottomstandalone tightREALPARTmacro/fullassortmentpromo accurateheading/blankcream. No spanningpanels. Preserve exact productcountidentityshapescolours, no unrelatedsubstitutes. Remove sourceprice/collagedividers/backgroundclutter. All fullproducts fit independentcells with margins, no unsupportedclaims. Exactly ONE clear spherical crystal globe on ONE short round pale wood LEDbase, warmwhite illumination from beneath, thinblackpowercord. Globe engraved with actual bouquet of roses tiedwithbow and exact lettering 'I \u2665 YOU' underneath. Preserve bouquet stem/flower arrangement and engraving proportions; no loveheart replacement or different scene. Lifestyle bedside table lit warmly, white/styled views retain readable engraving. Macro tight actual white rose engraving and glasscurvature with woodbaseedge. Heading 'Rose Bouquet Globe Lamp'.",
+      "sha256": "77d2794dc7ed3e355158bbd5bc07bbb15f2f861d1f06a3eb03b9e2d7c14cf9db",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f1a69d01-5701-47bf-9004-f15777f67979.png",
+      "grid_sha256": "2cb39dfc3068b9d6df989198f5c6be4dbebfbb23845052c457f023d5265f6d2b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crops inspected: one same crystal sphere, white engraved rose bouquet/stems/tied bow and I-heart-YOU lettering, pale wooden illuminated base and blackcord retained. Independent white/styled/lifestyle views, actual engraved bouquet/glass/base-edge tight detail, accurate heading and no unsupported claims."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-f1a69d01-5701-47bf-9004-f15777f67979.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIX EQUAL512squarepanels3columns2rows x512/1024y512. Topfullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentlifestyle. Bottomstandalone tightREALPARTmacro/fullassortmentpromo accurateheading/blankcream. No spanningpanels. Preserve exact productcountidentityshapescolours, no unrelatedsubstitutes. Remove sourceprice/collagedividers/backgroundclutter. All fullproducts fit independentcells with margins, no unsupportedclaims. Exactly ONE clear spherical crystal globe on ONE short round pale wood LEDbase, warmwhite illumination from beneath, thinblackpowercord. Globe engraved with actual bouquet of roses tiedwithbow and exact lettering 'I \u2665 YOU' underneath. Preserve bouquet stem/flower arrangement and engraving proportions; no loveheart replacement or different scene. Lifestyle bedside table lit warmly, white/styled views retain readable engraving. Macro tight actual white rose engraving and glasscurvature with woodbaseedge. Heading 'Rose Bouquet Globe Lamp'.",
+      "sha256": "36f37107018014a31e87624b573bbfa20c3c23d5449ea3d8744820184ec1f541",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f1a69d01-5701-47bf-9004-f15777f67979.png",
+      "grid_sha256": "2cb39dfc3068b9d6df989198f5c6be4dbebfbb23845052c457f023d5265f6d2b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crops inspected: one same crystal sphere, white engraved rose bouquet/stems/tied bow and I-heart-YOU lettering, pale wooden illuminated base and blackcord retained. Independent white/styled/lifestyle views, actual engraved bouquet/glass/base-edge tight detail, accurate heading and no unsupported claims."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baselines_verified": true
+}

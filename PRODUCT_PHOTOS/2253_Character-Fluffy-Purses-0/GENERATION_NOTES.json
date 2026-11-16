@@ -1,0 +1,23 @@
+{
+  "status": "blocked_moderation",
+  "prompt": "Native edit attached actual original into ONE1536x1024 website image EXACT3columns by2rows512squarecells no gutters/borders. Whole photographed bulk assortment of rectangular plush zip pouches in clear bags, arranged same staggered stacked rows/columns as original. Colours navy, red, pink, skyblue and lavender, each with embroidered Stitch face/pink ears and small Stitch word. Preserve ALL original visible stacks and pouches, exact count/ordering/layers and embroidery; do not simplify to one of each colour, do not add or remove stacks. Remove cardboard boxes/shop around only, keep product bundle arrangement. Heading: Plush Character Pouch Assortment. Whole assortment ONE product preserve count/identity/shapes/colours. Top left all actual products pure white; top middle all actual products lavendercream styled; top right all actual products relevant tabletop lifestyle no extra products; bottom left standalone TIGHT real-part macro of actual embroidery/plush, not full assortment; bottom middle all actual products clearly visible LARGE under accurate heading given (not text-only card); bottom right blank cream. Remove original background/price overlays no unsupported claims. Photorealistic website-ready nothingcrossescellboundaries.",
+  "error": {
+    "http_status": 400,
+    "code": "moderation_blocked",
+    "type": "image_generation_user_error",
+    "moderation_stage": "output",
+    "categories": [
+      "other"
+    ],
+    "request_id": "b5bf9542-56db-468d-8b87-0f6f59bf743a",
+    "message": "Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID b5bf9542-56db-468d-8b87-0f6f59bf743a."
+  },
+  "records": [
+    {
+      "kind": "exact_prompt_file",
+      "saved_file": "Generation_Prompts/initial.txt",
+      "sha256": "70efce19dbd19869a761334de8709f10dd18a7c05a4983870a2a2d34331cd701",
+      "checked": false
+    }
+  ]
+}

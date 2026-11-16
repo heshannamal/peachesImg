@@ -1,0 +1,130 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260804-WA0094.jpg": "0de29696fa7f96dd9f782b89c11398ecf5ec85c44ae551a204347c1303187585",
+    "Originals/IMG-20260804-WA0100.jpg": "4adeadbd81f23720b8f32ddf0fa65d02d167db6fc05ef56799b91922cfaa3e99",
+    "Originals/IMG-20260804-WA0097.jpg": "a5b66c707e659a14bce191fe017c67357ec68bcc7cd9abda44d3168753f9d919"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-64a73982-ef6b-4544-9a4b-f8e6c84a6047.png",
+      "source_output": "/workspace/generated_images/exec-64a73982-ef6b-4544-9a4b-f8e6c84a6047.png",
+      "sha256": "029fb5ac81117b80fb9a04e77cf773291ccbb41249314f4c47e73d1909352f41",
+      "prompt": "Native ORIGINALREFERENCED edit actualproductphotos only. Create NEW realisticwebsitephoto1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left entireoriginalassortment PUREWHITE#FFFFFF. Top-middle sameassortment lavender/creamstyled. Top-right sameassortment packingdesklifestyle noextra boxes. Bottom-left standalone TIGHT actualkraftfold/corrugatededge/lidtab macro NOTwholeassortment. Bottom-middle sameassortment promo accurateheading 'Small and Medium Kraft Gift Boxes'. Bottom-right blankcream unused. Preserve count/identity/cardboardshapes/colours/flapnotches/actualrelativeproportions. Naturalbrownkraft notplastic, noaddedribbons/logos/windows, no inventedcopies from24pcs price. Remove sourcepriceoverlays/storebackground. Entireassortmentwithin eachfullview.\nThreeoriginals show TWOdistinctSIZEVARIANTS, wholeassortmentONEproduct: SMALL6x5x2 CLOSED box fromWA0094, and MEDIUM9x7x3 box fromWA0097(closed)/WA0100(partlyopen). ThetwoMEDIUMphotos are alternateviews ofSAMEBOX nottwocopies. Display exactlyTWO boxes sidebyside SMALLleft/MEDIUMright, bothCLOSED usingclosedreferenceviews. Preserve actualsizeproportions(6:9width5:7depth2:3height) and centredsemicircularthumbnotch/lidtab. Notthreeboxes, noflatbundle here. Detailactualmediumlidfold/tab.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-64a73982-ef6b-4544-9a4b-f8e6c84a6047.png",
+      "prompt": "Native ORIGINALREFERENCED edit actualproductphotos only. Create NEW realisticwebsitephoto1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left entireoriginalassortment PUREWHITE#FFFFFF. Top-middle sameassortment lavender/creamstyled. Top-right sameassortment packingdesklifestyle noextra boxes. Bottom-left standalone TIGHT actualkraftfold/corrugatededge/lidtab macro NOTwholeassortment. Bottom-middle sameassortment promo accurateheading 'Small and Medium Kraft Gift Boxes'. Bottom-right blankcream unused. Preserve count/identity/cardboardshapes/colours/flapnotches/actualrelativeproportions. Naturalbrownkraft notplastic, noaddedribbons/logos/windows, no inventedcopies from24pcs price. Remove sourcepriceoverlays/storebackground. Entireassortmentwithin eachfullview.\nThreeoriginals show TWOdistinctSIZEVARIANTS, wholeassortmentONEproduct: SMALL6x5x2 CLOSED box fromWA0094, and MEDIUM9x7x3 box fromWA0097(closed)/WA0100(partlyopen). ThetwoMEDIUMphotos are alternateviews ofSAMEBOX nottwocopies. Display exactlyTWO boxes sidebyside SMALLleft/MEDIUMright, bothCLOSED usingclosedreferenceviews. Preserve actualsizeproportions(6:9width5:7depth2:3height) and centredsemicircularthumbnotch/lidtab. Notthreeboxes, noflatbundle here. Detailactualmediumlidfold/tab.",
+      "sha256": "eb3d272c75baa08aaf286b871896da10dff5b1af1188c3014cbdd7a87e283624",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-64a73982-ef6b-4544-9a4b-f8e6c84a6047.png",
+      "grid_sha256": "029fb5ac81117b80fb9a04e77cf773291ccbb41249314f4c47e73d1909352f41",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actualfivecrops inspected:exactTWOdistinctsmall/mediumboxes, sourceproportions/flaps/thumbtabs retained; twomediumsourceviews treatedsameboxnotextracopy. Fullwhite/lavendercream/packingdesk/promo, tightrealfoldedthumbtabcorrugationmacro,accurateheading,512boundaries."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-64a73982-ef6b-4544-9a4b-f8e6c84a6047.png",
+      "prompt": "Native ORIGINALREFERENCED edit actualproductphotos only. Create NEW realisticwebsitephoto1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left entireoriginalassortment PUREWHITE#FFFFFF. Top-middle sameassortment lavender/creamstyled. Top-right sameassortment packingdesklifestyle noextra boxes. Bottom-left standalone TIGHT actualkraftfold/corrugatededge/lidtab macro NOTwholeassortment. Bottom-middle sameassortment promo accurateheading 'Small and Medium Kraft Gift Boxes'. Bottom-right blankcream unused. Preserve count/identity/cardboardshapes/colours/flapnotches/actualrelativeproportions. Naturalbrownkraft notplastic, noaddedribbons/logos/windows, no inventedcopies from24pcs price. Remove sourcepriceoverlays/storebackground. Entireassortmentwithin eachfullview.\nThreeoriginals show TWOdistinctSIZEVARIANTS, wholeassortmentONEproduct: SMALL6x5x2 CLOSED box fromWA0094, and MEDIUM9x7x3 box fromWA0097(closed)/WA0100(partlyopen). ThetwoMEDIUMphotos are alternateviews ofSAMEBOX nottwocopies. Display exactlyTWO boxes sidebyside SMALLleft/MEDIUMright, bothCLOSED usingclosedreferenceviews. Preserve actualsizeproportions(6:9width5:7depth2:3height) and centredsemicircularthumbnotch/lidtab. Notthreeboxes, noflatbundle here. Detailactualmediumlidfold/tab.",
+      "sha256": "80080a6b2de126bb6a8edcbb0a18bfd1f02b73684f83ae2d6e40457191cfcdc4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-64a73982-ef6b-4544-9a4b-f8e6c84a6047.png",
+      "grid_sha256": "029fb5ac81117b80fb9a04e77cf773291ccbb41249314f4c47e73d1909352f41",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actualfivecrops inspected:exactTWOdistinctsmall/mediumboxes, sourceproportions/flaps/thumbtabs retained; twomediumsourceviews treatedsameboxnotextracopy. Fullwhite/lavendercream/packingdesk/promo, tightrealfoldedthumbtabcorrugationmacro,accurateheading,512boundaries."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-64a73982-ef6b-4544-9a4b-f8e6c84a6047.png",
+      "prompt": "Native ORIGINALREFERENCED edit actualproductphotos only. Create NEW realisticwebsitephoto1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left entireoriginalassortment PUREWHITE#FFFFFF. Top-middle sameassortment lavender/creamstyled. Top-right sameassortment packingdesklifestyle noextra boxes. Bottom-left standalone TIGHT actualkraftfold/corrugatededge/lidtab macro NOTwholeassortment. Bottom-middle sameassortment promo accurateheading 'Small and Medium Kraft Gift Boxes'. Bottom-right blankcream unused. Preserve count/identity/cardboardshapes/colours/flapnotches/actualrelativeproportions. Naturalbrownkraft notplastic, noaddedribbons/logos/windows, no inventedcopies from24pcs price. Remove sourcepriceoverlays/storebackground. Entireassortmentwithin eachfullview.\nThreeoriginals show TWOdistinctSIZEVARIANTS, wholeassortmentONEproduct: SMALL6x5x2 CLOSED box fromWA0094, and MEDIUM9x7x3 box fromWA0097(closed)/WA0100(partlyopen). ThetwoMEDIUMphotos are alternateviews ofSAMEBOX nottwocopies. Display exactlyTWO boxes sidebyside SMALLleft/MEDIUMright, bothCLOSED usingclosedreferenceviews. Preserve actualsizeproportions(6:9width5:7depth2:3height) and centredsemicircularthumbnotch/lidtab. Notthreeboxes, noflatbundle here. Detailactualmediumlidfold/tab.",
+      "sha256": "81b3d94fce9012575389ab185297670184d5e39eabc8f6edd42dbee416ed42a7",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-64a73982-ef6b-4544-9a4b-f8e6c84a6047.png",
+      "grid_sha256": "029fb5ac81117b80fb9a04e77cf773291ccbb41249314f4c47e73d1909352f41",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actualfivecrops inspected:exactTWOdistinctsmall/mediumboxes, sourceproportions/flaps/thumbtabs retained; twomediumsourceviews treatedsameboxnotextracopy. Fullwhite/lavendercream/packingdesk/promo, tightrealfoldedthumbtabcorrugationmacro,accurateheading,512boundaries."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-64a73982-ef6b-4544-9a4b-f8e6c84a6047.png",
+      "prompt": "Native ORIGINALREFERENCED edit actualproductphotos only. Create NEW realisticwebsitephoto1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left entireoriginalassortment PUREWHITE#FFFFFF. Top-middle sameassortment lavender/creamstyled. Top-right sameassortment packingdesklifestyle noextra boxes. Bottom-left standalone TIGHT actualkraftfold/corrugatededge/lidtab macro NOTwholeassortment. Bottom-middle sameassortment promo accurateheading 'Small and Medium Kraft Gift Boxes'. Bottom-right blankcream unused. Preserve count/identity/cardboardshapes/colours/flapnotches/actualrelativeproportions. Naturalbrownkraft notplastic, noaddedribbons/logos/windows, no inventedcopies from24pcs price. Remove sourcepriceoverlays/storebackground. Entireassortmentwithin eachfullview.\nThreeoriginals show TWOdistinctSIZEVARIANTS, wholeassortmentONEproduct: SMALL6x5x2 CLOSED box fromWA0094, and MEDIUM9x7x3 box fromWA0097(closed)/WA0100(partlyopen). ThetwoMEDIUMphotos are alternateviews ofSAMEBOX nottwocopies. Display exactlyTWO boxes sidebyside SMALLleft/MEDIUMright, bothCLOSED usingclosedreferenceviews. Preserve actualsizeproportions(6:9width5:7depth2:3height) and centredsemicircularthumbnotch/lidtab. Notthreeboxes, noflatbundle here. Detailactualmediumlidfold/tab.",
+      "sha256": "a9c16c282254dca84d1d4d77047e5bb908ec0d29f6131ed120ee5f63ac1babf7",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-64a73982-ef6b-4544-9a4b-f8e6c84a6047.png",
+      "grid_sha256": "029fb5ac81117b80fb9a04e77cf773291ccbb41249314f4c47e73d1909352f41",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actualfivecrops inspected:exactTWOdistinctsmall/mediumboxes, sourceproportions/flaps/thumbtabs retained; twomediumsourceviews treatedsameboxnotextracopy. Fullwhite/lavendercream/packingdesk/promo, tightrealfoldedthumbtabcorrugationmacro,accurateheading,512boundaries."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-64a73982-ef6b-4544-9a4b-f8e6c84a6047.png",
+      "prompt": "Native ORIGINALREFERENCED edit actualproductphotos only. Create NEW realisticwebsitephoto1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left entireoriginalassortment PUREWHITE#FFFFFF. Top-middle sameassortment lavender/creamstyled. Top-right sameassortment packingdesklifestyle noextra boxes. Bottom-left standalone TIGHT actualkraftfold/corrugatededge/lidtab macro NOTwholeassortment. Bottom-middle sameassortment promo accurateheading 'Small and Medium Kraft Gift Boxes'. Bottom-right blankcream unused. Preserve count/identity/cardboardshapes/colours/flapnotches/actualrelativeproportions. Naturalbrownkraft notplastic, noaddedribbons/logos/windows, no inventedcopies from24pcs price. Remove sourcepriceoverlays/storebackground. Entireassortmentwithin eachfullview.\nThreeoriginals show TWOdistinctSIZEVARIANTS, wholeassortmentONEproduct: SMALL6x5x2 CLOSED box fromWA0094, and MEDIUM9x7x3 box fromWA0097(closed)/WA0100(partlyopen). ThetwoMEDIUMphotos are alternateviews ofSAMEBOX nottwocopies. Display exactlyTWO boxes sidebyside SMALLleft/MEDIUMright, bothCLOSED usingclosedreferenceviews. Preserve actualsizeproportions(6:9width5:7depth2:3height) and centredsemicircularthumbnotch/lidtab. Notthreeboxes, noflatbundle here. Detailactualmediumlidfold/tab.",
+      "sha256": "fe48c044c1e2c7fd7ed62e15a6cd25ef78604aacc9cd434b2f87cd172fc73033",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-64a73982-ef6b-4544-9a4b-f8e6c84a6047.png",
+      "grid_sha256": "029fb5ac81117b80fb9a04e77cf773291ccbb41249314f4c47e73d1909352f41",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actualfivecrops inspected:exactTWOdistinctsmall/mediumboxes, sourceproportions/flaps/thumbtabs retained; twomediumsourceviews treatedsameboxnotextracopy. Fullwhite/lavendercream/packingdesk/promo, tightrealfoldedthumbtabcorrugationmacro,accurateheading,512boundaries."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Two distinctsizekraftboxes small6x5x2 andmedium9x7x3;threeoriginals includesduplicatemediumopen/closedviews",
+  "original_baseline_verified": true
+}

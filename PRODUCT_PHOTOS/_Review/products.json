@@ -27534,7 +27534,7 @@
     ],
     "new_images": 0,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "blocked_moderation",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -27556,62 +27556,70 @@
     "source_image_ids": [
       2525
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2256",
-    "folder": "2256_Medium-Kraft-Gift-Box-0",
+    "folder": "2256_Medium-Kraft-Gift-Box-1",
     "source_image_ids": [
       2526,
       2529,
       2532
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2257",
-    "folder": "2257_Medium-Open-Gift-Box-0",
+    "folder": "2257_Medium-Open-Gift-Box-1",
     "source_image_ids": [
       2527
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2258",
-    "folder": "2258_Small-Kraft-Gift-Box-0",
+    "folder": "2258_Small-Kraft-Gift-Box-1",
     "source_image_ids": [
       2528,
       2531
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2259",
-    "folder": "2259_Small-Medium-Gift-Boxes-0",
+    "folder": "2259_Small-Medium-Gift-Boxes-1",
     "source_image_ids": [
       2530
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2260",

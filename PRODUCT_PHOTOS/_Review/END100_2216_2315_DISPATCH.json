@@ -1,8 +1,6 @@
 {
   "status": "running",
   "next_unassigned": [
-    "2295",
-    "2294",
     "2293",
     "2292",
     "2291",
@@ -84,8 +82,8 @@
   ],
   "assigned": {
     "batch6_worker1": [
-      "2305",
-      "2304"
+      "2295",
+      "2294"
     ],
     "batch6_worker2": [
       "2297",
@@ -138,6 +136,13 @@
       "product_ids": [
         "2313",
         "2312"
+      ]
+    },
+    {
+      "worker": "batch6_worker1",
+      "product_ids": [
+        "2305",
+        "2304"
       ]
     }
   ]

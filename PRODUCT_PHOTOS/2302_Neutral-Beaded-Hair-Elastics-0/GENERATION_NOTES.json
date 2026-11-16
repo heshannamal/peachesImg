@@ -1,0 +1,30 @@
+{
+  "records": [
+    {
+      "kind": "rejected_runtime_error_prompt_result",
+      "saved_file": "Rejected/runtime_error_prompt_result.png",
+      "sha256": "3f6b27c97f349abf04d75118d41f63aae92156042357044c9f886a0c08f25c64",
+      "checked": false,
+      "prompt": "bwrap: Can't create file /workspace/.git: No space left on device\n",
+      "visual_review": "Invalid result: failed shell output was accidentally passed as native prompt instead of the actual persisted prompt. Output resembles original with hand/price and runtime error banner, not requested grid. Retained only in Rejected; no approved New views. One valid recovery/corrective grid remains, budget not reset."
+    },
+    {
+      "kind": "exact_prompt_file",
+      "saved_file": "Generation_Prompts/initial.txt",
+      "sha256": "9c820dc826d1608093eae87710c2c624d8d26388390e5b58a88745049fedb4c4",
+      "checked": false
+    }
+  ],
+  "status": "runtime_blocked_recovery_needed",
+  "runtime_error": "bwrap: Cannot create file /workspace/.git: No space left on device",
+  "recovery_budget": {
+    "remaining_valid_recovery_grid_attempts": 1,
+    "views": [
+      "01_White-Background.png",
+      "02_Styled-Background.png",
+      "03_Lifestyle.png",
+      "04_Detail.png",
+      "05_Promotional.png"
+    ]
+  }
+}

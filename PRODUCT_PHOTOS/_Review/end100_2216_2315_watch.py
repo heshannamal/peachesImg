@@ -1,6 +1,6 @@
 """Keep scheduled generation backed up while worker agents produce images."""
 from pathlib import Path
-import datetime,hashlib,json,subprocess,time
+import datetime,hashlib,json,subprocess,time,shutil
 REPO=Path(__file__).resolve().parents[2];REVIEW=REPO/'PRODUCT_PHOTOS/_Review';HELPER=REVIEW/'end100_2216_2315_checkpoint.py';STOP=Path('/tmp/stop-end100-2216-2315-watch')
 def command(args):
  result=subprocess.run(args,cwd=REPO,text=True,capture_output=True)
@@ -28,6 +28,9 @@ try:old=json.loads(command(['git','show','HEAD:PRODUCT_PHOTOS/_Review/END100_221
 except Exception:old={'saved_images':0,'completed_products':0}
 old_notes=None
 while not STOP.exists():
+ if shutil.disk_usage(REPO).free < 400*1024*1024:
+  Path('/tmp/stop-end100-2216-2315-generation').write_text('Low disk: below400MiB; no new native calls. Save in-flight results.\n')
+  print('LOW_DISK_GENERATION_PAUSED',flush=True)
  try:
   command(['python',str(HELPER),'reconcile']);data=json.loads((REVIEW/'END100_2216_2315_PROGRESS.json').read_text())
   print(json.dumps({k:v for k,v in data.items() if k!='products'}),flush=True)

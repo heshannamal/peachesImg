@@ -1,0 +1,22 @@
+{
+  "status": "pending_recovery_lost_unsaved_generation",
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260810-WA0012.jpg": "3a4e6cd089c0a399c1dbd8252245fc630e2bf093f98cd069f8bae45d126700cd"
+  },
+  "original_baseline_verified": true,
+  "records": [],
+  "recovery_event": {
+    "prompt": "Native edit ORIGINAL referencedactualproductphoto only. CreateNEW realisticwebsitephotography1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/panellabels. Top-left originalwholebundle PUREWHITE #FFFFFF. Top-middle samewholebundle lavender/creamstyled. Top-right samewholebundle vanity/accessorytablelifestyle noextraproducts. Bottom-left standalone TIGHT ACTUALREALPART macro elastictexture/charmportion NOTwholebundle. Bottom-middle samewholebundle promo accurateheading 'Ribbed Heart Hair Ties'. Bottom-right blankcream unused. Preserve identity/count/shapes/colours/materials and originaldense overlappingarrangement. Hiddenparts notinvented orunpacked fromwholesale24claim. Remove hand/watch/priceoverlay/sourcegreybackground. Allvisibleoriginalitems retained, no extras. Fullbundle entirelywithin fullviewcell.\nOne densebundle of pastelTWISTEDROPE elastichairties with RIBBED HEART shaped plastictoppers, NOT plainelastics. Rope peachcoral/lavender/mint/beige/palepink/yellow. Ribbedhearts brightYELLOW/orange/pink/limegreen/blue, with somebackfacing pale backs. Preserve visibleheartshapes/ribangles and originalpositions: largeyellowright,orangecentreright,pinklowright,limegreen danglingbottom,blueheartlowleft. Sourcebundle count24mostlyoverlapped retainactualvisible density, do notaddnewhearts.",
+    "native_result": "Successful image_url dataURL only, automatic cache not written while filesystem full",
+    "data_url_characters": 2949922,
+    "disk_error": "bwrap: Can't create file /workspace/.git: No space left on device",
+    "recovery_attempt": "2301 apply_patch to /tmp/2301-recovered.b64 aborted after 44055.6s; following session functions store entries absent; neither result in all15nativecachefiles or productfolders",
+    "saved_images": 0,
+    "checked_images": 0,
+    "corrective_attempts_spent": 0,
+    "new_native_calls_paused": true,
+    "retry_performed": false
+  }
+}

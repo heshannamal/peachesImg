@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260806-WA0147.jpg": "caea86ca9860f355cab203ba56a6784a999fff6a1c6d5e6509e8a52e03467124"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-145aa1ed-ffbb-4ab3-b2a5-d75df86f83ce.png",
+      "source_output": "/workspace/generated_images/exec-145aa1ed-ffbb-4ab3-b2a5-d75df86f83ce.png",
+      "sha256": "a497b195b2a5a10f744c780436b6de99a43eeb37a6bb065f91b38cb81c04e2d0",
+      "prompt": "Native ORIGINALREFERENCED edit actualproductphoto only. NEW realisticwebsitephotography1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left WHOLEEXACTTHREEBOXSTACK pureWHITE#FFFFFF. Top-middle SAME3boxstack lavender/creamstyled. Top-right SAME3boxes onpacking/giftingdesk lifestyle noextra boxes. Bottom-left standalone TIGHT actualKRAFTCARDBOARD foldedcorner/lidseamtexture macro NOTwholeboxstack. Bottom-middle SAME3boxes promo accurateheading 'Kraft Gift Box Size Set'. Bottom-right blankcream unused. PreserveexactlyTHREE closed naturalBROWN KRAFT rectangularfoldinggiftboxes smallontop mediumcentre largebottom, actualrelativeproportions/sourceperspective/flaps/seams/thumbnotcheswherepresent. Notopaqueplastic, noaddedribbons/prints/windows/logos, noopenboxes/nesting/extraboxes. Remove sourcepriceoverlay/store/marblebackground. All3boxes entirelyinframe everyfullview.\nOriginal WA0147 threeboxes in lowfront-leftview, smallbox top horizontallyrectangular, mediumunder, largestwide/lowbottom; preserve offsetstackleftalignment and sidefoldedlidflaps/verticalcornerseams. Originalfrontpanels plain unnotched; donotinventfrontthumbcutouts, photographsameoriginalboxes.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-145aa1ed-ffbb-4ab3-b2a5-d75df86f83ce.png",
+      "prompt": "Native ORIGINALREFERENCED edit actualproductphoto only. NEW realisticwebsitephotography1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left WHOLEEXACTTHREEBOXSTACK pureWHITE#FFFFFF. Top-middle SAME3boxstack lavender/creamstyled. Top-right SAME3boxes onpacking/giftingdesk lifestyle noextra boxes. Bottom-left standalone TIGHT actualKRAFTCARDBOARD foldedcorner/lidseamtexture macro NOTwholeboxstack. Bottom-middle SAME3boxes promo accurateheading 'Kraft Gift Box Size Set'. Bottom-right blankcream unused. PreserveexactlyTHREE closed naturalBROWN KRAFT rectangularfoldinggiftboxes smallontop mediumcentre largebottom, actualrelativeproportions/sourceperspective/flaps/seams/thumbnotcheswherepresent. Notopaqueplastic, noaddedribbons/prints/windows/logos, noopenboxes/nesting/extraboxes. Remove sourcepriceoverlay/store/marblebackground. All3boxes entirelyinframe everyfullview.\nOriginal WA0147 threeboxes in lowfront-leftview, smallbox top horizontallyrectangular, mediumunder, largestwide/lowbottom; preserve offsetstackleftalignment and sidefoldedlidflaps/verticalcornerseams. Originalfrontpanels plain unnotched; donotinventfrontthumbcutouts, photographsameoriginalboxes.",
+      "sha256": "976bd56839696fb334deaa4fae1cbde7619043d01336aa633db08b081cb2fe89",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-145aa1ed-ffbb-4ab3-b2a5-d75df86f83ce.png",
+      "grid_sha256": "a497b195b2a5a10f744c780436b6de99a43eeb37a6bb065f91b38cb81c04e2d0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actualfivecrops inspectedagainstWA0147original: exactlyTHREE closedkraftboxes small/medium/large, relativeproportions/leftoffsetstack/plainfronts/sideflapseams retained. Entirestackwhite/lavendercream/packingdesk/promo, tightrealcardboardcorner/lidseamtexturemacro. Accurateheading,correct512boundaries. No correctionnecessary."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-145aa1ed-ffbb-4ab3-b2a5-d75df86f83ce.png",
+      "prompt": "Native ORIGINALREFERENCED edit actualproductphoto only. NEW realisticwebsitephotography1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left WHOLEEXACTTHREEBOXSTACK pureWHITE#FFFFFF. Top-middle SAME3boxstack lavender/creamstyled. Top-right SAME3boxes onpacking/giftingdesk lifestyle noextra boxes. Bottom-left standalone TIGHT actualKRAFTCARDBOARD foldedcorner/lidseamtexture macro NOTwholeboxstack. Bottom-middle SAME3boxes promo accurateheading 'Kraft Gift Box Size Set'. Bottom-right blankcream unused. PreserveexactlyTHREE closed naturalBROWN KRAFT rectangularfoldinggiftboxes smallontop mediumcentre largebottom, actualrelativeproportions/sourceperspective/flaps/seams/thumbnotcheswherepresent. Notopaqueplastic, noaddedribbons/prints/windows/logos, noopenboxes/nesting/extraboxes. Remove sourcepriceoverlay/store/marblebackground. All3boxes entirelyinframe everyfullview.\nOriginal WA0147 threeboxes in lowfront-leftview, smallbox top horizontallyrectangular, mediumunder, largestwide/lowbottom; preserve offsetstackleftalignment and sidefoldedlidflaps/verticalcornerseams. Originalfrontpanels plain unnotched; donotinventfrontthumbcutouts, photographsameoriginalboxes.",
+      "sha256": "27aa17e24ecaf82c25d85b10e9d405a23c47b671fe2b5c75b659dfc1277d347a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-145aa1ed-ffbb-4ab3-b2a5-d75df86f83ce.png",
+      "grid_sha256": "a497b195b2a5a10f744c780436b6de99a43eeb37a6bb065f91b38cb81c04e2d0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actualfivecrops inspectedagainstWA0147original: exactlyTHREE closedkraftboxes small/medium/large, relativeproportions/leftoffsetstack/plainfronts/sideflapseams retained. Entirestackwhite/lavendercream/packingdesk/promo, tightrealcardboardcorner/lidseamtexturemacro. Accurateheading,correct512boundaries. No correctionnecessary."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-145aa1ed-ffbb-4ab3-b2a5-d75df86f83ce.png",
+      "prompt": "Native ORIGINALREFERENCED edit actualproductphoto only. NEW realisticwebsitephotography1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left WHOLEEXACTTHREEBOXSTACK pureWHITE#FFFFFF. Top-middle SAME3boxstack lavender/creamstyled. Top-right SAME3boxes onpacking/giftingdesk lifestyle noextra boxes. Bottom-left standalone TIGHT actualKRAFTCARDBOARD foldedcorner/lidseamtexture macro NOTwholeboxstack. Bottom-middle SAME3boxes promo accurateheading 'Kraft Gift Box Size Set'. Bottom-right blankcream unused. PreserveexactlyTHREE closed naturalBROWN KRAFT rectangularfoldinggiftboxes smallontop mediumcentre largebottom, actualrelativeproportions/sourceperspective/flaps/seams/thumbnotcheswherepresent. Notopaqueplastic, noaddedribbons/prints/windows/logos, noopenboxes/nesting/extraboxes. Remove sourcepriceoverlay/store/marblebackground. All3boxes entirelyinframe everyfullview.\nOriginal WA0147 threeboxes in lowfront-leftview, smallbox top horizontallyrectangular, mediumunder, largestwide/lowbottom; preserve offsetstackleftalignment and sidefoldedlidflaps/verticalcornerseams. Originalfrontpanels plain unnotched; donotinventfrontthumbcutouts, photographsameoriginalboxes.",
+      "sha256": "eeb0983c468e18629904561e8d8ec848a1959cdbad3f2874c06574f93c454923",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-145aa1ed-ffbb-4ab3-b2a5-d75df86f83ce.png",
+      "grid_sha256": "a497b195b2a5a10f744c780436b6de99a43eeb37a6bb065f91b38cb81c04e2d0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actualfivecrops inspectedagainstWA0147original: exactlyTHREE closedkraftboxes small/medium/large, relativeproportions/leftoffsetstack/plainfronts/sideflapseams retained. Entirestackwhite/lavendercream/packingdesk/promo, tightrealcardboardcorner/lidseamtexturemacro. Accurateheading,correct512boundaries. No correctionnecessary."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-145aa1ed-ffbb-4ab3-b2a5-d75df86f83ce.png",
+      "prompt": "Native ORIGINALREFERENCED edit actualproductphoto only. NEW realisticwebsitephotography1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left WHOLEEXACTTHREEBOXSTACK pureWHITE#FFFFFF. Top-middle SAME3boxstack lavender/creamstyled. Top-right SAME3boxes onpacking/giftingdesk lifestyle noextra boxes. Bottom-left standalone TIGHT actualKRAFTCARDBOARD foldedcorner/lidseamtexture macro NOTwholeboxstack. Bottom-middle SAME3boxes promo accurateheading 'Kraft Gift Box Size Set'. Bottom-right blankcream unused. PreserveexactlyTHREE closed naturalBROWN KRAFT rectangularfoldinggiftboxes smallontop mediumcentre largebottom, actualrelativeproportions/sourceperspective/flaps/seams/thumbnotcheswherepresent. Notopaqueplastic, noaddedribbons/prints/windows/logos, noopenboxes/nesting/extraboxes. Remove sourcepriceoverlay/store/marblebackground. All3boxes entirelyinframe everyfullview.\nOriginal WA0147 threeboxes in lowfront-leftview, smallbox top horizontallyrectangular, mediumunder, largestwide/lowbottom; preserve offsetstackleftalignment and sidefoldedlidflaps/verticalcornerseams. Originalfrontpanels plain unnotched; donotinventfrontthumbcutouts, photographsameoriginalboxes.",
+      "sha256": "a18073a6e0104589dcd795acec7ce022c656c8d43dd999ba1a80531785014b1e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-145aa1ed-ffbb-4ab3-b2a5-d75df86f83ce.png",
+      "grid_sha256": "a497b195b2a5a10f744c780436b6de99a43eeb37a6bb065f91b38cb81c04e2d0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actualfivecrops inspectedagainstWA0147original: exactlyTHREE closedkraftboxes small/medium/large, relativeproportions/leftoffsetstack/plainfronts/sideflapseams retained. Entirestackwhite/lavendercream/packingdesk/promo, tightrealcardboardcorner/lidseamtexturemacro. Accurateheading,correct512boundaries. No correctionnecessary."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-145aa1ed-ffbb-4ab3-b2a5-d75df86f83ce.png",
+      "prompt": "Native ORIGINALREFERENCED edit actualproductphoto only. NEW realisticwebsitephotography1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left WHOLEEXACTTHREEBOXSTACK pureWHITE#FFFFFF. Top-middle SAME3boxstack lavender/creamstyled. Top-right SAME3boxes onpacking/giftingdesk lifestyle noextra boxes. Bottom-left standalone TIGHT actualKRAFTCARDBOARD foldedcorner/lidseamtexture macro NOTwholeboxstack. Bottom-middle SAME3boxes promo accurateheading 'Kraft Gift Box Size Set'. Bottom-right blankcream unused. PreserveexactlyTHREE closed naturalBROWN KRAFT rectangularfoldinggiftboxes smallontop mediumcentre largebottom, actualrelativeproportions/sourceperspective/flaps/seams/thumbnotcheswherepresent. Notopaqueplastic, noaddedribbons/prints/windows/logos, noopenboxes/nesting/extraboxes. Remove sourcepriceoverlay/store/marblebackground. All3boxes entirelyinframe everyfullview.\nOriginal WA0147 threeboxes in lowfront-leftview, smallbox top horizontallyrectangular, mediumunder, largestwide/lowbottom; preserve offsetstackleftalignment and sidefoldedlidflaps/verticalcornerseams. Originalfrontpanels plain unnotched; donotinventfrontthumbcutouts, photographsameoriginalboxes.",
+      "sha256": "8865662cd8efb977d746a961f4c61af7edd03ce9b1e4295447e6d8b962cd4ba0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-145aa1ed-ffbb-4ab3-b2a5-d75df86f83ce.png",
+      "grid_sha256": "a497b195b2a5a10f744c780436b6de99a43eeb37a6bb065f91b38cb81c04e2d0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actualfivecrops inspectedagainstWA0147original: exactlyTHREE closedkraftboxes small/medium/large, relativeproportions/leftoffsetstack/plainfronts/sideflapseams retained. Entirestackwhite/lavendercream/packingdesk/promo, tightrealcardboardcorner/lidseamtexturemacro. Accurateheading,correct512boundaries. No correctionnecessary."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Three closed naturalbrownkraftrectangular giftboxes small/medium/large stacked, sourceIMG-20260806-WA0147.jpg",
+  "original_baseline_verified": true
+}

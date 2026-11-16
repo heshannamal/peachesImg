@@ -1,0 +1,132 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260806-WA0150.jpg": "18d8c8ccd13f6fcf5bfb9a2bcaac105f66e9f29aff6d5b9b1f04bae16777bd3e"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-32ce1e35-e499-415c-86a2-f366eecc4bd2.png",
+      "source_output": "/workspace/generated_images/exec-32ce1e35-e499-415c-86a2-f366eecc4bd2.png",
+      "sha256": "c496eb100f3dba5a7b8f8def09b56bfe6422e54b3889193011b17aed82c92e64",
+      "prompt": "Nativeedit referencedactualoriginal ONE1536x1024exact3x2equal512grid:topWHITEbackground/lavendercreamstyled/lifestyle;bottomTIGHTrealpartmacro/promoheading\"Body Oil Assortment\"/blankcream. ActualTWELVEVaselineclearrectangularBODY OILbottles3columns4rows, eachcolumn4matchingbottles. Left4ivorycapsVitaminB3pinkpurplelabel, middle4bluecapsCocoaRadiantbrownlabel, right4hotpinkcapsVitaminB3pinklabel. Preservebottleshape/clearliquid/ovalflipcaps/Vaselinelogo/200mllabelidentity. Notlotiondespitefoldername. Allfullviews12bottles arranged4rows3, countnot3. Lifestylewhole12onbathroomvanity. Macroactualclearbottle/flipcapseam/labelpart. Allfourfullviewswholeassortment generousmargins preserveidentitycountshapescolours. Removeprice/advertisingclaims/stockinsets/clutter/hands. PromoSMALLaccurateheading+wholeassortment nottextonly. Websitequality.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-32ce1e35-e499-415c-86a2-f366eecc4bd2.png",
+      "prompt": "Nativeedit referencedactualoriginal ONE1536x1024exact3x2equal512grid:topWHITEbackground/lavendercreamstyled/lifestyle;bottomTIGHTrealpartmacro/promoheading\"Body Oil Assortment\"/blankcream. ActualTWELVEVaselineclearrectangularBODY OILbottles3columns4rows, eachcolumn4matchingbottles. Left4ivorycapsVitaminB3pinkpurplelabel, middle4bluecapsCocoaRadiantbrownlabel, right4hotpinkcapsVitaminB3pinklabel. Preservebottleshape/clearliquid/ovalflipcaps/Vaselinelogo/200mllabelidentity. Notlotiondespitefoldername. Allfullviews12bottles arranged4rows3, countnot3. Lifestylewhole12onbathroomvanity. Macroactualclearbottle/flipcapseam/labelpart. Allfourfullviewswholeassortment generousmargins preserveidentitycountshapescolours. Removeprice/advertisingclaims/stockinsets/clutter/hands. PromoSMALLaccurateheading+wholeassortment nottextonly. Websitequality.",
+      "sha256": "3b8e7a2629a397fd37481490becf5e4b04d31b1317fcca2a9da5d73d17f60294",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-32ce1e35-e499-415c-86a2-f366eecc4bd2.png",
+      "grid_sha256": "c496eb100f3dba5a7b8f8def09b56bfe6422e54b3889193011b17aed82c92e64",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Materialgrid/view/countfailure; onecorrective."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-32ce1e35-e499-415c-86a2-f366eecc4bd2.png",
+      "prompt": "Nativeedit referencedactualoriginal ONE1536x1024exact3x2equal512grid:topWHITEbackground/lavendercreamstyled/lifestyle;bottomTIGHTrealpartmacro/promoheading\"Body Oil Assortment\"/blankcream. ActualTWELVEVaselineclearrectangularBODY OILbottles3columns4rows, eachcolumn4matchingbottles. Left4ivorycapsVitaminB3pinkpurplelabel, middle4bluecapsCocoaRadiantbrownlabel, right4hotpinkcapsVitaminB3pinklabel. Preservebottleshape/clearliquid/ovalflipcaps/Vaselinelogo/200mllabelidentity. Notlotiondespitefoldername. Allfullviews12bottles arranged4rows3, countnot3. Lifestylewhole12onbathroomvanity. Macroactualclearbottle/flipcapseam/labelpart. Allfourfullviewswholeassortment generousmargins preserveidentitycountshapescolours. Removeprice/advertisingclaims/stockinsets/clutter/hands. PromoSMALLaccurateheading+wholeassortment nottextonly. Websitequality.",
+      "sha256": "07567d8fd3e391ba737545a80b9c0d4d645d13b6edefc892a0d0d464ba4daa69",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-32ce1e35-e499-415c-86a2-f366eecc4bd2.png",
+      "grid_sha256": "c496eb100f3dba5a7b8f8def09b56bfe6422e54b3889193011b17aed82c92e64",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Materialgrid/view/countfailure; onecorrective."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-32ce1e35-e499-415c-86a2-f366eecc4bd2.png",
+      "prompt": "Nativeedit referencedactualoriginal ONE1536x1024exact3x2equal512grid:topWHITEbackground/lavendercreamstyled/lifestyle;bottomTIGHTrealpartmacro/promoheading\"Body Oil Assortment\"/blankcream. ActualTWELVEVaselineclearrectangularBODY OILbottles3columns4rows, eachcolumn4matchingbottles. Left4ivorycapsVitaminB3pinkpurplelabel, middle4bluecapsCocoaRadiantbrownlabel, right4hotpinkcapsVitaminB3pinklabel. Preservebottleshape/clearliquid/ovalflipcaps/Vaselinelogo/200mllabelidentity. Notlotiondespitefoldername. Allfullviews12bottles arranged4rows3, countnot3. Lifestylewhole12onbathroomvanity. Macroactualclearbottle/flipcapseam/labelpart. Allfourfullviewswholeassortment generousmargins preserveidentitycountshapescolours. Removeprice/advertisingclaims/stockinsets/clutter/hands. PromoSMALLaccurateheading+wholeassortment nottextonly. Websitequality.",
+      "sha256": "da87563b1f021a73d0bedb2439616c91411df9f33c08f932c6ceb7cf8473e779",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-32ce1e35-e499-415c-86a2-f366eecc4bd2.png",
+      "grid_sha256": "c496eb100f3dba5a7b8f8def09b56bfe6422e54b3889193011b17aed82c92e64",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Materialgrid/view/countfailure; onecorrective."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-32ce1e35-e499-415c-86a2-f366eecc4bd2.png",
+      "prompt": "Nativeedit referencedactualoriginal ONE1536x1024exact3x2equal512grid:topWHITEbackground/lavendercreamstyled/lifestyle;bottomTIGHTrealpartmacro/promoheading\"Body Oil Assortment\"/blankcream. ActualTWELVEVaselineclearrectangularBODY OILbottles3columns4rows, eachcolumn4matchingbottles. Left4ivorycapsVitaminB3pinkpurplelabel, middle4bluecapsCocoaRadiantbrownlabel, right4hotpinkcapsVitaminB3pinklabel. Preservebottleshape/clearliquid/ovalflipcaps/Vaselinelogo/200mllabelidentity. Notlotiondespitefoldername. Allfullviews12bottles arranged4rows3, countnot3. Lifestylewhole12onbathroomvanity. Macroactualclearbottle/flipcapseam/labelpart. Allfourfullviewswholeassortment generousmargins preserveidentitycountshapescolours. Removeprice/advertisingclaims/stockinsets/clutter/hands. PromoSMALLaccurateheading+wholeassortment nottextonly. Websitequality.",
+      "sha256": "35e8f368ea2c75c1f2bf9dc912707880f0d2ef6c53f6430fd5d892e9780fede4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-32ce1e35-e499-415c-86a2-f366eecc4bd2.png",
+      "grid_sha256": "c496eb100f3dba5a7b8f8def09b56bfe6422e54b3889193011b17aed82c92e64",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        470,
+        675,
+        600,
+        890
+      ],
+      "visual_review": "Mechanicaltightactualglasslabelpart orkraftcornercrop retained; standalone realpartmacro."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-32ce1e35-e499-415c-86a2-f366eecc4bd2.png",
+      "prompt": "Nativeedit referencedactualoriginal ONE1536x1024exact3x2equal512grid:topWHITEbackground/lavendercreamstyled/lifestyle;bottomTIGHTrealpartmacro/promoheading\"Body Oil Assortment\"/blankcream. ActualTWELVEVaselineclearrectangularBODY OILbottles3columns4rows, eachcolumn4matchingbottles. Left4ivorycapsVitaminB3pinkpurplelabel, middle4bluecapsCocoaRadiantbrownlabel, right4hotpinkcapsVitaminB3pinklabel. Preservebottleshape/clearliquid/ovalflipcaps/Vaselinelogo/200mllabelidentity. Notlotiondespitefoldername. Allfullviews12bottles arranged4rows3, countnot3. Lifestylewhole12onbathroomvanity. Macroactualclearbottle/flipcapseam/labelpart. Allfourfullviewswholeassortment generousmargins preserveidentitycountshapescolours. Removeprice/advertisingclaims/stockinsets/clutter/hands. PromoSMALLaccurateheading+wholeassortment nottextonly. Websitequality.",
+      "sha256": "f9e8bb9ad7e71f6a03e875ab92a71524f8f145976a64939d0e120c80c77dd181",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-32ce1e35-e499-415c-86a2-f366eecc4bd2.png",
+      "grid_sha256": "c496eb100f3dba5a7b8f8def09b56bfe6422e54b3889193011b17aed82c92e64",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Materialgrid/view/countfailure; onecorrective."
+    }
+  ],
+  "status": "corrective_in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "01_White-Background.png": 1,
+    "02_Styled-Background.png": 1,
+    "03_Lifestyle.png": 1,
+    "05_Promotional.png": 1
+  }
+}

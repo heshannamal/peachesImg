@@ -27643,23 +27643,25 @@
     "source_image_ids": [
       2537
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2263",
-    "folder": "2263_Small-Medium-Large-Gift-Boxes-0",
+    "folder": "2263_Small-Medium-Large-Gift-Boxes-1",
     "source_image_ids": [
       2538
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2264",
@@ -27667,9 +27669,9 @@
     "source_image_ids": [
       2539
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -27679,9 +27681,9 @@
     "source_image_ids": [
       2540
     ],
-    "new_images": 0,
+    "new_images": 1,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -27691,9 +27693,9 @@
     "source_image_ids": [
       2541
     ],
-    "new_images": 0,
+    "new_images": 4,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -27703,7 +27705,7 @@
     "source_image_ids": [
       2542
     ],
-    "new_images": 5,
+    "new_images": 4,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -27711,27 +27713,31 @@
   },
   {
     "product_id": "2268",
-    "folder": "2268_Clear-Stud-Earring-Box-0",
+    "folder": "2268_Clear-Stud-Earring-Box-1",
     "source_image_ids": [
       2543
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2269",
-    "folder": "2269_Colourful-Stud-Earring-Box-0",
+    "folder": "2269_Colourful-Stud-Earring-Box-1",
     "source_image_ids": [
       2544
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2270",
@@ -27787,27 +27793,31 @@
   },
   {
     "product_id": "2274",
-    "folder": "2274_Animal-Globe-Lamp-0",
+    "folder": "2274_Animal-Globe-Lamp-1",
     "source_image_ids": [
       2549
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2275",
-    "folder": "2275_Moon-Text-Globe-Lamp-0",
+    "folder": "2275_Moon-Text-Globe-Lamp-1",
     "source_image_ids": [
       2550
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2276",

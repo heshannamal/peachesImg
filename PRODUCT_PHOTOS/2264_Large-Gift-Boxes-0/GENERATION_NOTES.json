@@ -1,0 +1,132 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260806-WA0148.jpg": "25b7c0b9318023db1ce8f5addfcdf8893cfbd7041daba6aa885dd8c79dd070d8"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-4ae5f11d-ecc8-4999-8b6a-d0148bb0da68.png",
+      "source_output": "/workspace/generated_images/exec-4ae5f11d-ecc8-4999-8b6a-d0148bb0da68.png",
+      "sha256": "eb5755760cffe4a2268f68ec11372c0d0de2adb1a13031c9eadb8d9da60d2302",
+      "prompt": "Nativeedit referencedactualoriginal ONE1536x1024exact3x2equal512grid:topWHITEbackground/lavendercreamstyled/lifestyle;bottomTIGHTrealpartmacro/promoheading\"Kraft Gift Box Pack\"/blankcream. Actualplainkraftbrownrectangularfoldinggiftboxes12x10x4inch, tuckflaplidtwosideears, no window. Productpack12BOXES peroriginalad; portrayoneassembledopenemptybox plusELEVENflatfoldedboxesneatstack, exactly12total, preservekraftcolour/material/foldshape. Allfullviewssame12pack notsinglebox. Lifestyle12packongiftwrappingtable. Macroactualkraftfoldedcorner/tuckslotonly. Allfourfullviewswholeassortment generousmargins preserveidentitycountshapescolours. Removeprice/advertisingclaims/stockinsets/clutter/hands. PromoSMALLaccurateheading+wholeassortment nottextonly. Websitequality.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-4ae5f11d-ecc8-4999-8b6a-d0148bb0da68.png",
+      "prompt": "Nativeedit referencedactualoriginal ONE1536x1024exact3x2equal512grid:topWHITEbackground/lavendercreamstyled/lifestyle;bottomTIGHTrealpartmacro/promoheading\"Kraft Gift Box Pack\"/blankcream. Actualplainkraftbrownrectangularfoldinggiftboxes12x10x4inch, tuckflaplidtwosideears, no window. Productpack12BOXES peroriginalad; portrayoneassembledopenemptybox plusELEVENflatfoldedboxesneatstack, exactly12total, preservekraftcolour/material/foldshape. Allfullviewssame12pack notsinglebox. Lifestyle12packongiftwrappingtable. Macroactualkraftfoldedcorner/tuckslotonly. Allfourfullviewswholeassortment generousmargins preserveidentitycountshapescolours. Removeprice/advertisingclaims/stockinsets/clutter/hands. PromoSMALLaccurateheading+wholeassortment nottextonly. Websitequality.",
+      "sha256": "6c7edb1cdce72b6623385f34e351617c8ad8c2a4cf6adf95cab9f191bb0c4dcb",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4ae5f11d-ecc8-4999-8b6a-d0148bb0da68.png",
+      "grid_sha256": "eb5755760cffe4a2268f68ec11372c0d0de2adb1a13031c9eadb8d9da60d2302",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Materialgrid/view/countfailure; onecorrective."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-4ae5f11d-ecc8-4999-8b6a-d0148bb0da68.png",
+      "prompt": "Nativeedit referencedactualoriginal ONE1536x1024exact3x2equal512grid:topWHITEbackground/lavendercreamstyled/lifestyle;bottomTIGHTrealpartmacro/promoheading\"Kraft Gift Box Pack\"/blankcream. Actualplainkraftbrownrectangularfoldinggiftboxes12x10x4inch, tuckflaplidtwosideears, no window. Productpack12BOXES peroriginalad; portrayoneassembledopenemptybox plusELEVENflatfoldedboxesneatstack, exactly12total, preservekraftcolour/material/foldshape. Allfullviewssame12pack notsinglebox. Lifestyle12packongiftwrappingtable. Macroactualkraftfoldedcorner/tuckslotonly. Allfourfullviewswholeassortment generousmargins preserveidentitycountshapescolours. Removeprice/advertisingclaims/stockinsets/clutter/hands. PromoSMALLaccurateheading+wholeassortment nottextonly. Websitequality.",
+      "sha256": "dce8e9636e14ee89a657bd7fa18592b05ac54016804cb1943ba0277461a9eb47",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4ae5f11d-ecc8-4999-8b6a-d0148bb0da68.png",
+      "grid_sha256": "eb5755760cffe4a2268f68ec11372c0d0de2adb1a13031c9eadb8d9da60d2302",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Materialgrid/view/countfailure; onecorrective."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-4ae5f11d-ecc8-4999-8b6a-d0148bb0da68.png",
+      "prompt": "Nativeedit referencedactualoriginal ONE1536x1024exact3x2equal512grid:topWHITEbackground/lavendercreamstyled/lifestyle;bottomTIGHTrealpartmacro/promoheading\"Kraft Gift Box Pack\"/blankcream. Actualplainkraftbrownrectangularfoldinggiftboxes12x10x4inch, tuckflaplidtwosideears, no window. Productpack12BOXES peroriginalad; portrayoneassembledopenemptybox plusELEVENflatfoldedboxesneatstack, exactly12total, preservekraftcolour/material/foldshape. Allfullviewssame12pack notsinglebox. Lifestyle12packongiftwrappingtable. Macroactualkraftfoldedcorner/tuckslotonly. Allfourfullviewswholeassortment generousmargins preserveidentitycountshapescolours. Removeprice/advertisingclaims/stockinsets/clutter/hands. PromoSMALLaccurateheading+wholeassortment nottextonly. Websitequality.",
+      "sha256": "ce263b18e6ce39b5ad318e3d2eddcf8f9bcc8bcf77b7c000478c41e83203e8a6",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4ae5f11d-ecc8-4999-8b6a-d0148bb0da68.png",
+      "grid_sha256": "eb5755760cffe4a2268f68ec11372c0d0de2adb1a13031c9eadb8d9da60d2302",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Materialgrid/view/countfailure; onecorrective."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-4ae5f11d-ecc8-4999-8b6a-d0148bb0da68.png",
+      "prompt": "Nativeedit referencedactualoriginal ONE1536x1024exact3x2equal512grid:topWHITEbackground/lavendercreamstyled/lifestyle;bottomTIGHTrealpartmacro/promoheading\"Kraft Gift Box Pack\"/blankcream. Actualplainkraftbrownrectangularfoldinggiftboxes12x10x4inch, tuckflaplidtwosideears, no window. Productpack12BOXES peroriginalad; portrayoneassembledopenemptybox plusELEVENflatfoldedboxesneatstack, exactly12total, preservekraftcolour/material/foldshape. Allfullviewssame12pack notsinglebox. Lifestyle12packongiftwrappingtable. Macroactualkraftfoldedcorner/tuckslotonly. Allfourfullviewswholeassortment generousmargins preserveidentitycountshapescolours. Removeprice/advertisingclaims/stockinsets/clutter/hands. PromoSMALLaccurateheading+wholeassortment nottextonly. Websitequality.",
+      "sha256": "7f97d46fd5792ca1d280f250688056aeb707315ad76ed4e4539e6072acd0cca3",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4ae5f11d-ecc8-4999-8b6a-d0148bb0da68.png",
+      "grid_sha256": "eb5755760cffe4a2268f68ec11372c0d0de2adb1a13031c9eadb8d9da60d2302",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1160,
+        620,
+        1480,
+        930
+      ],
+      "visual_review": "Mechanicaltightactualglasslabelpart orkraftcornercrop retained; standalone realpartmacro."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-4ae5f11d-ecc8-4999-8b6a-d0148bb0da68.png",
+      "prompt": "Nativeedit referencedactualoriginal ONE1536x1024exact3x2equal512grid:topWHITEbackground/lavendercreamstyled/lifestyle;bottomTIGHTrealpartmacro/promoheading\"Kraft Gift Box Pack\"/blankcream. Actualplainkraftbrownrectangularfoldinggiftboxes12x10x4inch, tuckflaplidtwosideears, no window. Productpack12BOXES peroriginalad; portrayoneassembledopenemptybox plusELEVENflatfoldedboxesneatstack, exactly12total, preservekraftcolour/material/foldshape. Allfullviewssame12pack notsinglebox. Lifestyle12packongiftwrappingtable. Macroactualkraftfoldedcorner/tuckslotonly. Allfourfullviewswholeassortment generousmargins preserveidentitycountshapescolours. Removeprice/advertisingclaims/stockinsets/clutter/hands. PromoSMALLaccurateheading+wholeassortment nottextonly. Websitequality.",
+      "sha256": "5ff249780fecc75e01423aecd0fae37b86b4e6465782c03b733b5577dbc1f7b0",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4ae5f11d-ecc8-4999-8b6a-d0148bb0da68.png",
+      "grid_sha256": "eb5755760cffe4a2268f68ec11372c0d0de2adb1a13031c9eadb8d9da60d2302",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Materialgrid/view/countfailure; onecorrective."
+    }
+  ],
+  "status": "corrective_in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "01_White-Background.png": 1,
+    "02_Styled-Background.png": 1,
+    "03_Lifestyle.png": 1,
+    "05_Promotional.png": 1
+  }
+}

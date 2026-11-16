@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260807-WA0280.jpg": "933cf2cdfe7f29c8c65663765bf8209ae036590f919dd824de0ecfb7fa22423e"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-f417f662-de2b-4b4b-ad98-e2ddf6195148.png",
+      "source_output": "/workspace/generated_images/exec-f417f662-de2b-4b4b-ad98-e2ddf6195148.png",
+      "sha256": "e84dd44166350bbb57618e80c4c02e789dd8f96f4b9896cc90947ae7c4df109a",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Top ONEfullproduct PUREWHITEexteriorbackground/ONEfullproductlavendercreamstyled/ONEfullproductbedsidelifestyle. Bottom TIGHTstandaloneREALPARTengravedglassmacro/ONEfullproductpromo accurateheading/blankcream. No spanningpanels. Exactly ONE clearcrystalsphere on ONE short circularwoodLEDbase warmwhiteglow, thinblackpowercord. Preserve actual engraving exactscene/pose/proportions, sphere/base/materials, no extra lamps. Whitebackgroundoutsideglobe MUSTbe white notblack, engraving remains whiteetched. Remove sourceprice/code/banner/backgroundclutter. Fullproduct fits eachcell with margins. Headingonly,no newclaims. Actual engraving is NOTdreamcatcher despitefoldername. Scene: large texturedFULLMOON at uppercentre, LONGSTRAIGHTLADDER reaching up to moon from bottom, ONEtiny human figure climbingladder nearbottom, scatteredfourpointstars around. Preserve same moon/ladder/figure/star arrangement, no hangingfeathers or dreamcatcher. Actualbase lightwood. Macro tight actual mooncrater engraving and laddertop/glasscurvature. Heading 'Moon Ladder Globe Lamp'.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-f417f662-de2b-4b4b-ad98-e2ddf6195148.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Top ONEfullproduct PUREWHITEexteriorbackground/ONEfullproductlavendercreamstyled/ONEfullproductbedsidelifestyle. Bottom TIGHTstandaloneREALPARTengravedglassmacro/ONEfullproductpromo accurateheading/blankcream. No spanningpanels. Exactly ONE clearcrystalsphere on ONE short circularwoodLEDbase warmwhiteglow, thinblackpowercord. Preserve actual engraving exactscene/pose/proportions, sphere/base/materials, no extra lamps. Whitebackgroundoutsideglobe MUSTbe white notblack, engraving remains whiteetched. Remove sourceprice/code/banner/backgroundclutter. Fullproduct fits eachcell with margins. Headingonly,no newclaims. Actual engraving is NOTdreamcatcher despitefoldername. Scene: large texturedFULLMOON at uppercentre, LONGSTRAIGHTLADDER reaching up to moon from bottom, ONEtiny human figure climbingladder nearbottom, scatteredfourpointstars around. Preserve same moon/ladder/figure/star arrangement, no hangingfeathers or dreamcatcher. Actualbase lightwood. Macro tight actual mooncrater engraving and laddertop/glasscurvature. Heading 'Moon Ladder Globe Lamp'.",
+      "sha256": "79fcad1d6e43a8d3b50b3e21e623c6d8887ecaf82fa688b347c4785a59196646",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f417f662-de2b-4b4b-ad98-e2ddf6195148.png",
+      "grid_sha256": "e84dd44166350bbb57618e80c4c02e789dd8f96f4b9896cc90947ae7c4df109a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-f417f662-de2b-4b4b-ad98-e2ddf6195148.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Top ONEfullproduct PUREWHITEexteriorbackground/ONEfullproductlavendercreamstyled/ONEfullproductbedsidelifestyle. Bottom TIGHTstandaloneREALPARTengravedglassmacro/ONEfullproductpromo accurateheading/blankcream. No spanningpanels. Exactly ONE clearcrystalsphere on ONE short circularwoodLEDbase warmwhiteglow, thinblackpowercord. Preserve actual engraving exactscene/pose/proportions, sphere/base/materials, no extra lamps. Whitebackgroundoutsideglobe MUSTbe white notblack, engraving remains whiteetched. Remove sourceprice/code/banner/backgroundclutter. Fullproduct fits eachcell with margins. Headingonly,no newclaims. Actual engraving is NOTdreamcatcher despitefoldername. Scene: large texturedFULLMOON at uppercentre, LONGSTRAIGHTLADDER reaching up to moon from bottom, ONEtiny human figure climbingladder nearbottom, scatteredfourpointstars around. Preserve same moon/ladder/figure/star arrangement, no hangingfeathers or dreamcatcher. Actualbase lightwood. Macro tight actual mooncrater engraving and laddertop/glasscurvature. Heading 'Moon Ladder Globe Lamp'.",
+      "sha256": "2fb60a9323a76131c743e5cd05fac5c43dc9a74679a5a7ebae74a06c48a11e8d",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f417f662-de2b-4b4b-ad98-e2ddf6195148.png",
+      "grid_sha256": "e84dd44166350bbb57618e80c4c02e789dd8f96f4b9896cc90947ae7c4df109a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-f417f662-de2b-4b4b-ad98-e2ddf6195148.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Top ONEfullproduct PUREWHITEexteriorbackground/ONEfullproductlavendercreamstyled/ONEfullproductbedsidelifestyle. Bottom TIGHTstandaloneREALPARTengravedglassmacro/ONEfullproductpromo accurateheading/blankcream. No spanningpanels. Exactly ONE clearcrystalsphere on ONE short circularwoodLEDbase warmwhiteglow, thinblackpowercord. Preserve actual engraving exactscene/pose/proportions, sphere/base/materials, no extra lamps. Whitebackgroundoutsideglobe MUSTbe white notblack, engraving remains whiteetched. Remove sourceprice/code/banner/backgroundclutter. Fullproduct fits eachcell with margins. Headingonly,no newclaims. Actual engraving is NOTdreamcatcher despitefoldername. Scene: large texturedFULLMOON at uppercentre, LONGSTRAIGHTLADDER reaching up to moon from bottom, ONEtiny human figure climbingladder nearbottom, scatteredfourpointstars around. Preserve same moon/ladder/figure/star arrangement, no hangingfeathers or dreamcatcher. Actualbase lightwood. Macro tight actual mooncrater engraving and laddertop/glasscurvature. Heading 'Moon Ladder Globe Lamp'.",
+      "sha256": "c4f11f5a4ed4df3623f1fe1613da580cca4b1d27a25f08f46d1f1301abc20e93",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f417f662-de2b-4b4b-ad98-e2ddf6195148.png",
+      "grid_sha256": "e84dd44166350bbb57618e80c4c02e789dd8f96f4b9896cc90947ae7c4df109a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-f417f662-de2b-4b4b-ad98-e2ddf6195148.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Top ONEfullproduct PUREWHITEexteriorbackground/ONEfullproductlavendercreamstyled/ONEfullproductbedsidelifestyle. Bottom TIGHTstandaloneREALPARTengravedglassmacro/ONEfullproductpromo accurateheading/blankcream. No spanningpanels. Exactly ONE clearcrystalsphere on ONE short circularwoodLEDbase warmwhiteglow, thinblackpowercord. Preserve actual engraving exactscene/pose/proportions, sphere/base/materials, no extra lamps. Whitebackgroundoutsideglobe MUSTbe white notblack, engraving remains whiteetched. Remove sourceprice/code/banner/backgroundclutter. Fullproduct fits eachcell with margins. Headingonly,no newclaims. Actual engraving is NOTdreamcatcher despitefoldername. Scene: large texturedFULLMOON at uppercentre, LONGSTRAIGHTLADDER reaching up to moon from bottom, ONEtiny human figure climbingladder nearbottom, scatteredfourpointstars around. Preserve same moon/ladder/figure/star arrangement, no hangingfeathers or dreamcatcher. Actualbase lightwood. Macro tight actual mooncrater engraving and laddertop/glasscurvature. Heading 'Moon Ladder Globe Lamp'.",
+      "sha256": "3e2fe7c37d2eadef33b7f3ef04353a57d248ebc540ee5c2d8f776a379676b2cb",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f417f662-de2b-4b4b-ad98-e2ddf6195148.png",
+      "grid_sha256": "e84dd44166350bbb57618e80c4c02e789dd8f96f4b9896cc90947ae7c4df109a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-f417f662-de2b-4b4b-ad98-e2ddf6195148.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Top ONEfullproduct PUREWHITEexteriorbackground/ONEfullproductlavendercreamstyled/ONEfullproductbedsidelifestyle. Bottom TIGHTstandaloneREALPARTengravedglassmacro/ONEfullproductpromo accurateheading/blankcream. No spanningpanels. Exactly ONE clearcrystalsphere on ONE short circularwoodLEDbase warmwhiteglow, thinblackpowercord. Preserve actual engraving exactscene/pose/proportions, sphere/base/materials, no extra lamps. Whitebackgroundoutsideglobe MUSTbe white notblack, engraving remains whiteetched. Remove sourceprice/code/banner/backgroundclutter. Fullproduct fits eachcell with margins. Headingonly,no newclaims. Actual engraving is NOTdreamcatcher despitefoldername. Scene: large texturedFULLMOON at uppercentre, LONGSTRAIGHTLADDER reaching up to moon from bottom, ONEtiny human figure climbingladder nearbottom, scatteredfourpointstars around. Preserve same moon/ladder/figure/star arrangement, no hangingfeathers or dreamcatcher. Actualbase lightwood. Macro tight actual mooncrater engraving and laddertop/glasscurvature. Heading 'Moon Ladder Globe Lamp'.",
+      "sha256": "8c8e6eed7d633a62fd7e617808f26c119a5dca7fab3564914eb16b3e5d4ac847",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f417f662-de2b-4b4b-ad98-e2ddf6195148.png",
+      "grid_sha256": "e84dd44166350bbb57618e80c4c02e789dd8f96f4b9896cc90947ae7c4df109a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

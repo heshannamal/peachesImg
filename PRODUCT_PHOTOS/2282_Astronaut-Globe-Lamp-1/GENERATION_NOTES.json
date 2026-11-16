@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260807-WA0283.jpg": "9eaaefb1cc61a7fbed64e3034785a124f95cf2f91a30b079a2ab36b953fbe199"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-ce1e6182-3cd9-46d7-abb3-be14bb8c85bd.png",
+      "source_output": "/workspace/generated_images/exec-ce1e6182-3cd9-46d7-abb3-be14bb8c85bd.png",
+      "sha256": "3b1349afdf5c6d6d8caeb7e28ee2df3b3320955c45dfe3dd9c7601e0018e743a",
+      "prompt": "Native ORIGINAL REFERENCED edit actualproductphoto only. NEW realisticwebsitephoto1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left entireONE lamp PUREWHITE#FFFFFF. Top-middle sameONE lamp lavender/creamstyled. Top-right sameONE lamp warmbedsidetablelifestyle. Bottom-left standalone TIGHT actualrealpartmacro of etchedglass/woodbasejunction NOTwholelamp. Bottom-middle sameONE lamp promo accurateheading 'Sacred Heart Crystal Globe Lamp'. Bottom-right blankcream unused. Preserve exactone transparentGLASSSPHERE onlowroundlightnaturalWOOD LEDbase,warmwhiteillumination/sourcewoodgrain/blackpowercordwherevisible. Preserve exactsource laseretchedwhiteimage insideglass,glassremainstransparent notopaquefigure. Remove sourceprice/codeoverlay/blackbackground. Entirelampinframe everyfullview. Noextra lamps or inventedengravingparts.\nFolderwrong: actualengraving JESUS with SACREDHEART onchest, longrobe,longhair/beard, halo aroundhead and shortcrossbarbehindhead, BOTHhands raisedblessing,smallflowerstem LOWERLEFT. Exactsource devotionalfigurelaseretch white, notastronaut, nohelmet/moon. Preservefigurepose/heart/halo/robe/flowers.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-ce1e6182-3cd9-46d7-abb3-be14bb8c85bd.png",
+      "prompt": "Native ORIGINAL REFERENCED edit actualproductphoto only. NEW realisticwebsitephoto1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left entireONE lamp PUREWHITE#FFFFFF. Top-middle sameONE lamp lavender/creamstyled. Top-right sameONE lamp warmbedsidetablelifestyle. Bottom-left standalone TIGHT actualrealpartmacro of etchedglass/woodbasejunction NOTwholelamp. Bottom-middle sameONE lamp promo accurateheading 'Sacred Heart Crystal Globe Lamp'. Bottom-right blankcream unused. Preserve exactone transparentGLASSSPHERE onlowroundlightnaturalWOOD LEDbase,warmwhiteillumination/sourcewoodgrain/blackpowercordwherevisible. Preserve exactsource laseretchedwhiteimage insideglass,glassremainstransparent notopaquefigure. Remove sourceprice/codeoverlay/blackbackground. Entirelampinframe everyfullview. Noextra lamps or inventedengravingparts.\nFolderwrong: actualengraving JESUS with SACREDHEART onchest, longrobe,longhair/beard, halo aroundhead and shortcrossbarbehindhead, BOTHhands raisedblessing,smallflowerstem LOWERLEFT. Exactsource devotionalfigurelaseretch white, notastronaut, nohelmet/moon. Preservefigurepose/heart/halo/robe/flowers.",
+      "sha256": "80d19be0f8cb48d95526e6573ff87883808f32a0ecd1e8de143d65390031eb32",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ce1e6182-3cd9-46d7-abb3-be14bb8c85bd.png",
+      "grid_sha256": "3b1349afdf5c6d6d8caeb7e28ee2df3b3320955c45dfe3dd9c7601e0018e743a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual five savedcrops inspected againstoriginal:ONE transparentglassglobe/roundlowwoodLEDbase, originalengravingidentity/pose/elementcount/positions retained. White/lavendercream/bedside/promo fullviews and tightactualetchedglass/woodjunctiondetail. Accurateheading, correct512boundaries."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-ce1e6182-3cd9-46d7-abb3-be14bb8c85bd.png",
+      "prompt": "Native ORIGINAL REFERENCED edit actualproductphoto only. NEW realisticwebsitephoto1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left entireONE lamp PUREWHITE#FFFFFF. Top-middle sameONE lamp lavender/creamstyled. Top-right sameONE lamp warmbedsidetablelifestyle. Bottom-left standalone TIGHT actualrealpartmacro of etchedglass/woodbasejunction NOTwholelamp. Bottom-middle sameONE lamp promo accurateheading 'Sacred Heart Crystal Globe Lamp'. Bottom-right blankcream unused. Preserve exactone transparentGLASSSPHERE onlowroundlightnaturalWOOD LEDbase,warmwhiteillumination/sourcewoodgrain/blackpowercordwherevisible. Preserve exactsource laseretchedwhiteimage insideglass,glassremainstransparent notopaquefigure. Remove sourceprice/codeoverlay/blackbackground. Entirelampinframe everyfullview. Noextra lamps or inventedengravingparts.\nFolderwrong: actualengraving JESUS with SACREDHEART onchest, longrobe,longhair/beard, halo aroundhead and shortcrossbarbehindhead, BOTHhands raisedblessing,smallflowerstem LOWERLEFT. Exactsource devotionalfigurelaseretch white, notastronaut, nohelmet/moon. Preservefigurepose/heart/halo/robe/flowers.",
+      "sha256": "f82cd854f0a1057503a397baa0b7a5be46d89628f989bf8e7e09285c668e6f05",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ce1e6182-3cd9-46d7-abb3-be14bb8c85bd.png",
+      "grid_sha256": "3b1349afdf5c6d6d8caeb7e28ee2df3b3320955c45dfe3dd9c7601e0018e743a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual five savedcrops inspected againstoriginal:ONE transparentglassglobe/roundlowwoodLEDbase, originalengravingidentity/pose/elementcount/positions retained. White/lavendercream/bedside/promo fullviews and tightactualetchedglass/woodjunctiondetail. Accurateheading, correct512boundaries."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-ce1e6182-3cd9-46d7-abb3-be14bb8c85bd.png",
+      "prompt": "Native ORIGINAL REFERENCED edit actualproductphoto only. NEW realisticwebsitephoto1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left entireONE lamp PUREWHITE#FFFFFF. Top-middle sameONE lamp lavender/creamstyled. Top-right sameONE lamp warmbedsidetablelifestyle. Bottom-left standalone TIGHT actualrealpartmacro of etchedglass/woodbasejunction NOTwholelamp. Bottom-middle sameONE lamp promo accurateheading 'Sacred Heart Crystal Globe Lamp'. Bottom-right blankcream unused. Preserve exactone transparentGLASSSPHERE onlowroundlightnaturalWOOD LEDbase,warmwhiteillumination/sourcewoodgrain/blackpowercordwherevisible. Preserve exactsource laseretchedwhiteimage insideglass,glassremainstransparent notopaquefigure. Remove sourceprice/codeoverlay/blackbackground. Entirelampinframe everyfullview. Noextra lamps or inventedengravingparts.\nFolderwrong: actualengraving JESUS with SACREDHEART onchest, longrobe,longhair/beard, halo aroundhead and shortcrossbarbehindhead, BOTHhands raisedblessing,smallflowerstem LOWERLEFT. Exactsource devotionalfigurelaseretch white, notastronaut, nohelmet/moon. Preservefigurepose/heart/halo/robe/flowers.",
+      "sha256": "988d213d4f3818fa4a182e963d94d444dcb6aa4019acd85dd267244a130558da",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ce1e6182-3cd9-46d7-abb3-be14bb8c85bd.png",
+      "grid_sha256": "3b1349afdf5c6d6d8caeb7e28ee2df3b3320955c45dfe3dd9c7601e0018e743a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual five savedcrops inspected againstoriginal:ONE transparentglassglobe/roundlowwoodLEDbase, originalengravingidentity/pose/elementcount/positions retained. White/lavendercream/bedside/promo fullviews and tightactualetchedglass/woodjunctiondetail. Accurateheading, correct512boundaries."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-ce1e6182-3cd9-46d7-abb3-be14bb8c85bd.png",
+      "prompt": "Native ORIGINAL REFERENCED edit actualproductphoto only. NEW realisticwebsitephoto1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left entireONE lamp PUREWHITE#FFFFFF. Top-middle sameONE lamp lavender/creamstyled. Top-right sameONE lamp warmbedsidetablelifestyle. Bottom-left standalone TIGHT actualrealpartmacro of etchedglass/woodbasejunction NOTwholelamp. Bottom-middle sameONE lamp promo accurateheading 'Sacred Heart Crystal Globe Lamp'. Bottom-right blankcream unused. Preserve exactone transparentGLASSSPHERE onlowroundlightnaturalWOOD LEDbase,warmwhiteillumination/sourcewoodgrain/blackpowercordwherevisible. Preserve exactsource laseretchedwhiteimage insideglass,glassremainstransparent notopaquefigure. Remove sourceprice/codeoverlay/blackbackground. Entirelampinframe everyfullview. Noextra lamps or inventedengravingparts.\nFolderwrong: actualengraving JESUS with SACREDHEART onchest, longrobe,longhair/beard, halo aroundhead and shortcrossbarbehindhead, BOTHhands raisedblessing,smallflowerstem LOWERLEFT. Exactsource devotionalfigurelaseretch white, notastronaut, nohelmet/moon. Preservefigurepose/heart/halo/robe/flowers.",
+      "sha256": "6bc4ca0b374541c4413943ba852a725630e67f7b2578dca033ffc3c243d385c8",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ce1e6182-3cd9-46d7-abb3-be14bb8c85bd.png",
+      "grid_sha256": "3b1349afdf5c6d6d8caeb7e28ee2df3b3320955c45dfe3dd9c7601e0018e743a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual five savedcrops inspected againstoriginal:ONE transparentglassglobe/roundlowwoodLEDbase, originalengravingidentity/pose/elementcount/positions retained. White/lavendercream/bedside/promo fullviews and tightactualetchedglass/woodjunctiondetail. Accurateheading, correct512boundaries."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-ce1e6182-3cd9-46d7-abb3-be14bb8c85bd.png",
+      "prompt": "Native ORIGINAL REFERENCED edit actualproductphoto only. NEW realisticwebsitephoto1536x1024landscape exact3columns x2rows512squarecells nogutters/borders/labels. Top-left entireONE lamp PUREWHITE#FFFFFF. Top-middle sameONE lamp lavender/creamstyled. Top-right sameONE lamp warmbedsidetablelifestyle. Bottom-left standalone TIGHT actualrealpartmacro of etchedglass/woodbasejunction NOTwholelamp. Bottom-middle sameONE lamp promo accurateheading 'Sacred Heart Crystal Globe Lamp'. Bottom-right blankcream unused. Preserve exactone transparentGLASSSPHERE onlowroundlightnaturalWOOD LEDbase,warmwhiteillumination/sourcewoodgrain/blackpowercordwherevisible. Preserve exactsource laseretchedwhiteimage insideglass,glassremainstransparent notopaquefigure. Remove sourceprice/codeoverlay/blackbackground. Entirelampinframe everyfullview. Noextra lamps or inventedengravingparts.\nFolderwrong: actualengraving JESUS with SACREDHEART onchest, longrobe,longhair/beard, halo aroundhead and shortcrossbarbehindhead, BOTHhands raisedblessing,smallflowerstem LOWERLEFT. Exactsource devotionalfigurelaseretch white, notastronaut, nohelmet/moon. Preservefigurepose/heart/halo/robe/flowers.",
+      "sha256": "c37b6a9072c9af5c78e183a40b89ddda7193d0b0db7561c67b19887adf3c7114",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ce1e6182-3cd9-46d7-abb3-be14bb8c85bd.png",
+      "grid_sha256": "3b1349afdf5c6d6d8caeb7e28ee2df3b3320955c45dfe3dd9c7601e0018e743a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual five savedcrops inspected againstoriginal:ONE transparentglassglobe/roundlowwoodLEDbase, originalengravingidentity/pose/elementcount/positions retained. White/lavendercream/bedside/promo fullviews and tightactualetchedglass/woodjunctiondetail. Accurateheading, correct512boundaries."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "One clearcrystalglobe LEDwoodbase lamp etchedJesus/SacredHeart/halo/blessinghands/flowers;folderastronautwrong",
+  "original_baseline_verified": true
+}

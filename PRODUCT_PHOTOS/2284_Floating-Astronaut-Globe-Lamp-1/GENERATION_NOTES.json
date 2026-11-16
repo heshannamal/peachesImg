@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260807-WA0289.jpg": "3be310e3bc99c9fd0fb9d8cd0e914c500da8ac81851de810681063cab8421897"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-2823374a-bede-4c3c-b64e-3c9c1045b45f.png",
+      "source_output": "/workspace/generated_images/exec-2823374a-bede-4c3c-b64e-3c9c1045b45f.png",
+      "sha256": "35c6d7e1d559d55dd8b5f7fd4085496402636e65ba6fd939b03a9fb5de909287",
+      "prompt": "Native faithful original edit ONE1536x1024 borderless3x2equal512squaregrid: topwhite fullproduct / lavendercreamstyled fullproduct / cream bedside lifestyle fullproduct; bottom standalone TIGHTmacro actual internal laserengravingpart / promo fullproduct accurateheading / blankunused. EXACTONEclearcrystal sphericalglobe on ONEround pale woodgrain lowcylindrical illuminatedbase, warmgold lightupthroughglobe. Preserve actual proportions/internaletchedscene exactly, nocountchange/nounrelatedstock. Remove sourceprice/modeloverlay only, preserve internalengravedlettering, no added claims. FoldernameWRONG actualengraving ROMANTICPROPOSAL: kneelingmanleft offeringbouquetto standingwomanright, smallhotairballoonupperleft, hearts/stars, cursive Love you forever underneath. Noastronaut/noouterspacefigure. Heading Romantic Crystal Globe Light. Macro tightactualetchedbouquetandhands.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-2823374a-bede-4c3c-b64e-3c9c1045b45f.png",
+      "prompt": "Native faithful original edit ONE1536x1024 borderless3x2equal512squaregrid: topwhite fullproduct / lavendercreamstyled fullproduct / cream bedside lifestyle fullproduct; bottom standalone TIGHTmacro actual internal laserengravingpart / promo fullproduct accurateheading / blankunused. EXACTONEclearcrystal sphericalglobe on ONEround pale woodgrain lowcylindrical illuminatedbase, warmgold lightupthroughglobe. Preserve actual proportions/internaletchedscene exactly, nocountchange/nounrelatedstock. Remove sourceprice/modeloverlay only, preserve internalengravedlettering, no added claims. FoldernameWRONG actualengraving ROMANTICPROPOSAL: kneelingmanleft offeringbouquetto standingwomanright, smallhotairballoonupperleft, hearts/stars, cursive Love you forever underneath. Noastronaut/noouterspacefigure. Heading Romantic Crystal Globe Light. Macro tightactualetchedbouquetandhands.",
+      "sha256": "08cc39b2b17d1a9a2b5782bf8a234d4279fe4268a51f11e3bba42c3854f38dd2",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2823374a-bede-4c3c-b64e-3c9c1045b45f.png",
+      "grid_sha256": "35c6d7e1d559d55dd8b5f7fd4085496402636e65ba6fd939b03a9fb5de909287",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual source and all five crops inspected: one crystal globe/wooden lit base retained with matching rose/Love you or proposal couple/balloon/hearts/Love you forever etched scene. Actual folder astronaut label disregarded. White/styled/bedside/promo views full product, correct heading, tight standalone engraved real-part detail pass. Website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-2823374a-bede-4c3c-b64e-3c9c1045b45f.png",
+      "prompt": "Native faithful original edit ONE1536x1024 borderless3x2equal512squaregrid: topwhite fullproduct / lavendercreamstyled fullproduct / cream bedside lifestyle fullproduct; bottom standalone TIGHTmacro actual internal laserengravingpart / promo fullproduct accurateheading / blankunused. EXACTONEclearcrystal sphericalglobe on ONEround pale woodgrain lowcylindrical illuminatedbase, warmgold lightupthroughglobe. Preserve actual proportions/internaletchedscene exactly, nocountchange/nounrelatedstock. Remove sourceprice/modeloverlay only, preserve internalengravedlettering, no added claims. FoldernameWRONG actualengraving ROMANTICPROPOSAL: kneelingmanleft offeringbouquetto standingwomanright, smallhotairballoonupperleft, hearts/stars, cursive Love you forever underneath. Noastronaut/noouterspacefigure. Heading Romantic Crystal Globe Light. Macro tightactualetchedbouquetandhands.",
+      "sha256": "c40faffbfd2775dcdec49ef4985d41f1960cdcab7ef6cc1163bcda8e2472632f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2823374a-bede-4c3c-b64e-3c9c1045b45f.png",
+      "grid_sha256": "35c6d7e1d559d55dd8b5f7fd4085496402636e65ba6fd939b03a9fb5de909287",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual source and all five crops inspected: one crystal globe/wooden lit base retained with matching rose/Love you or proposal couple/balloon/hearts/Love you forever etched scene. Actual folder astronaut label disregarded. White/styled/bedside/promo views full product, correct heading, tight standalone engraved real-part detail pass. Website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-2823374a-bede-4c3c-b64e-3c9c1045b45f.png",
+      "prompt": "Native faithful original edit ONE1536x1024 borderless3x2equal512squaregrid: topwhite fullproduct / lavendercreamstyled fullproduct / cream bedside lifestyle fullproduct; bottom standalone TIGHTmacro actual internal laserengravingpart / promo fullproduct accurateheading / blankunused. EXACTONEclearcrystal sphericalglobe on ONEround pale woodgrain lowcylindrical illuminatedbase, warmgold lightupthroughglobe. Preserve actual proportions/internaletchedscene exactly, nocountchange/nounrelatedstock. Remove sourceprice/modeloverlay only, preserve internalengravedlettering, no added claims. FoldernameWRONG actualengraving ROMANTICPROPOSAL: kneelingmanleft offeringbouquetto standingwomanright, smallhotairballoonupperleft, hearts/stars, cursive Love you forever underneath. Noastronaut/noouterspacefigure. Heading Romantic Crystal Globe Light. Macro tightactualetchedbouquetandhands.",
+      "sha256": "9258b927569783bd42aca7ce91524b2a44bca1e30d13e21db5c01986df9d359e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2823374a-bede-4c3c-b64e-3c9c1045b45f.png",
+      "grid_sha256": "35c6d7e1d559d55dd8b5f7fd4085496402636e65ba6fd939b03a9fb5de909287",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual source and all five crops inspected: one crystal globe/wooden lit base retained with matching rose/Love you or proposal couple/balloon/hearts/Love you forever etched scene. Actual folder astronaut label disregarded. White/styled/bedside/promo views full product, correct heading, tight standalone engraved real-part detail pass. Website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-2823374a-bede-4c3c-b64e-3c9c1045b45f.png",
+      "prompt": "Native faithful original edit ONE1536x1024 borderless3x2equal512squaregrid: topwhite fullproduct / lavendercreamstyled fullproduct / cream bedside lifestyle fullproduct; bottom standalone TIGHTmacro actual internal laserengravingpart / promo fullproduct accurateheading / blankunused. EXACTONEclearcrystal sphericalglobe on ONEround pale woodgrain lowcylindrical illuminatedbase, warmgold lightupthroughglobe. Preserve actual proportions/internaletchedscene exactly, nocountchange/nounrelatedstock. Remove sourceprice/modeloverlay only, preserve internalengravedlettering, no added claims. FoldernameWRONG actualengraving ROMANTICPROPOSAL: kneelingmanleft offeringbouquetto standingwomanright, smallhotairballoonupperleft, hearts/stars, cursive Love you forever underneath. Noastronaut/noouterspacefigure. Heading Romantic Crystal Globe Light. Macro tightactualetchedbouquetandhands.",
+      "sha256": "012f6bfa6207c75e01eb67108475501b2bfea8ba45b1f7810c90ed853e3c8bd2",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2823374a-bede-4c3c-b64e-3c9c1045b45f.png",
+      "grid_sha256": "35c6d7e1d559d55dd8b5f7fd4085496402636e65ba6fd939b03a9fb5de909287",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual source and all five crops inspected: one crystal globe/wooden lit base retained with matching rose/Love you or proposal couple/balloon/hearts/Love you forever etched scene. Actual folder astronaut label disregarded. White/styled/bedside/promo views full product, correct heading, tight standalone engraved real-part detail pass. Website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-2823374a-bede-4c3c-b64e-3c9c1045b45f.png",
+      "prompt": "Native faithful original edit ONE1536x1024 borderless3x2equal512squaregrid: topwhite fullproduct / lavendercreamstyled fullproduct / cream bedside lifestyle fullproduct; bottom standalone TIGHTmacro actual internal laserengravingpart / promo fullproduct accurateheading / blankunused. EXACTONEclearcrystal sphericalglobe on ONEround pale woodgrain lowcylindrical illuminatedbase, warmgold lightupthroughglobe. Preserve actual proportions/internaletchedscene exactly, nocountchange/nounrelatedstock. Remove sourceprice/modeloverlay only, preserve internalengravedlettering, no added claims. FoldernameWRONG actualengraving ROMANTICPROPOSAL: kneelingmanleft offeringbouquetto standingwomanright, smallhotairballoonupperleft, hearts/stars, cursive Love you forever underneath. Noastronaut/noouterspacefigure. Heading Romantic Crystal Globe Light. Macro tightactualetchedbouquetandhands.",
+      "sha256": "bebac743bbe578b300936ee8446df0d47f307aff667c7d0674e4f91248f2f6e8",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2823374a-bede-4c3c-b64e-3c9c1045b45f.png",
+      "grid_sha256": "35c6d7e1d559d55dd8b5f7fd4085496402636e65ba6fd939b03a9fb5de909287",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual source and all five crops inspected: one crystal globe/wooden lit base retained with matching rose/Love you or proposal couple/balloon/hearts/Love you forever etched scene. Actual folder astronaut label disregarded. White/styled/bedside/promo views full product, correct heading, tight standalone engraved real-part detail pass. Website-ready."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

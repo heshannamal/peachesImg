@@ -1,0 +1,121 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260807-WA0273.jpg": "bbdf27463f3064326c879df122b9abb5bf3c6b8e84a4246713f38536fc3b59d9"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-61983cdd-2ede-4177-85d5-34e7371f3a97.png",
+      "source_output": "/workspace/generated_images/exec-61983cdd-2ede-4177-85d5-34e7371f3a97.png",
+      "sha256": "35d401685d6ad09546cca6d5568196aa7ccf9ba0ee95f48186ffce4b04e8a5bc",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Top ONEfullproduct PUREWHITEexteriorbackground/ONEfullproductlavendercreamstyled/ONEfullproductbedsidelifestyle. Bottom TIGHTstandaloneREALPARTengravedglassmacro/ONEfullproductpromo accurateheading/blankcream. No spanningpanels. Exactly ONE clearcrystalsphere on ONE short circularwoodLEDbase warmwhiteglow, thinblackpowercord. Preserve actual engraving exactscene/pose/proportions, sphere/base/materials, no extra lamps. Whitebackgroundoutsideglobe MUSTbe white notblack, engraving remains whiteetched. Remove sourceprice/code/banner/backgroundclutter. Fullproduct fits eachcell with margins. Headingonly,no newclaims. Actual engraving frontfacing bunny-eared toothy cartoonmonster, TWOuprightears, roundspikyfaceoutline, hugeeyes, zigzag toothysmile, smallbody runningwithONEleglifted, leftoutstretchedhand holds smallCUPwithSTRAW, otherarm raised sideways. Preserve exact actualpose/cup/face, not generic bunny or different engraving. Actualbase darkwood withlightwoodtop. Macro actual engraved toothyface/cup and glasscurve. Heading 'Cartoon Bunny Globe Lamp'.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-61983cdd-2ede-4177-85d5-34e7371f3a97.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Top ONEfullproduct PUREWHITEexteriorbackground/ONEfullproductlavendercreamstyled/ONEfullproductbedsidelifestyle. Bottom TIGHTstandaloneREALPARTengravedglassmacro/ONEfullproductpromo accurateheading/blankcream. No spanningpanels. Exactly ONE clearcrystalsphere on ONE short circularwoodLEDbase warmwhiteglow, thinblackpowercord. Preserve actual engraving exactscene/pose/proportions, sphere/base/materials, no extra lamps. Whitebackgroundoutsideglobe MUSTbe white notblack, engraving remains whiteetched. Remove sourceprice/code/banner/backgroundclutter. Fullproduct fits eachcell with margins. Headingonly,no newclaims. Actual engraving frontfacing bunny-eared toothy cartoonmonster, TWOuprightears, roundspikyfaceoutline, hugeeyes, zigzag toothysmile, smallbody runningwithONEleglifted, leftoutstretchedhand holds smallCUPwithSTRAW, otherarm raised sideways. Preserve exact actualpose/cup/face, not generic bunny or different engraving. Actualbase darkwood withlightwoodtop. Macro actual engraved toothyface/cup and glasscurve. Heading 'Cartoon Bunny Globe Lamp'.",
+      "sha256": "7dba532f75cd4ad2750f6fe329bad718cccd4998b9964d29cc7c57d471314e3f",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-61983cdd-2ede-4177-85d5-34e7371f3a97.png",
+      "grid_sha256": "35d401685d6ad09546cca6d5568196aa7ccf9ba0ee95f48186ffce4b04e8a5bc",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-61983cdd-2ede-4177-85d5-34e7371f3a97.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Top ONEfullproduct PUREWHITEexteriorbackground/ONEfullproductlavendercreamstyled/ONEfullproductbedsidelifestyle. Bottom TIGHTstandaloneREALPARTengravedglassmacro/ONEfullproductpromo accurateheading/blankcream. No spanningpanels. Exactly ONE clearcrystalsphere on ONE short circularwoodLEDbase warmwhiteglow, thinblackpowercord. Preserve actual engraving exactscene/pose/proportions, sphere/base/materials, no extra lamps. Whitebackgroundoutsideglobe MUSTbe white notblack, engraving remains whiteetched. Remove sourceprice/code/banner/backgroundclutter. Fullproduct fits eachcell with margins. Headingonly,no newclaims. Actual engraving frontfacing bunny-eared toothy cartoonmonster, TWOuprightears, roundspikyfaceoutline, hugeeyes, zigzag toothysmile, smallbody runningwithONEleglifted, leftoutstretchedhand holds smallCUPwithSTRAW, otherarm raised sideways. Preserve exact actualpose/cup/face, not generic bunny or different engraving. Actualbase darkwood withlightwoodtop. Macro actual engraved toothyface/cup and glasscurve. Heading 'Cartoon Bunny Globe Lamp'.",
+      "sha256": "93a8c09341a0155aa38440955f55243b0202145490cdd32fe48336c188afa871",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-61983cdd-2ede-4177-85d5-34e7371f3a97.png",
+      "grid_sha256": "35d401685d6ad09546cca6d5568196aa7ccf9ba0ee95f48186ffce4b04e8a5bc",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-61983cdd-2ede-4177-85d5-34e7371f3a97.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Top ONEfullproduct PUREWHITEexteriorbackground/ONEfullproductlavendercreamstyled/ONEfullproductbedsidelifestyle. Bottom TIGHTstandaloneREALPARTengravedglassmacro/ONEfullproductpromo accurateheading/blankcream. No spanningpanels. Exactly ONE clearcrystalsphere on ONE short circularwoodLEDbase warmwhiteglow, thinblackpowercord. Preserve actual engraving exactscene/pose/proportions, sphere/base/materials, no extra lamps. Whitebackgroundoutsideglobe MUSTbe white notblack, engraving remains whiteetched. Remove sourceprice/code/banner/backgroundclutter. Fullproduct fits eachcell with margins. Headingonly,no newclaims. Actual engraving frontfacing bunny-eared toothy cartoonmonster, TWOuprightears, roundspikyfaceoutline, hugeeyes, zigzag toothysmile, smallbody runningwithONEleglifted, leftoutstretchedhand holds smallCUPwithSTRAW, otherarm raised sideways. Preserve exact actualpose/cup/face, not generic bunny or different engraving. Actualbase darkwood withlightwoodtop. Macro actual engraved toothyface/cup and glasscurve. Heading 'Cartoon Bunny Globe Lamp'.",
+      "sha256": "4e864fedbafaf00f4f5764042bbc8918baec687069bc2bd9c55ccfe0af49d695",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-61983cdd-2ede-4177-85d5-34e7371f3a97.png",
+      "grid_sha256": "35d401685d6ad09546cca6d5568196aa7ccf9ba0ee95f48186ffce4b04e8a5bc",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-61983cdd-2ede-4177-85d5-34e7371f3a97.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Top ONEfullproduct PUREWHITEexteriorbackground/ONEfullproductlavendercreamstyled/ONEfullproductbedsidelifestyle. Bottom TIGHTstandaloneREALPARTengravedglassmacro/ONEfullproductpromo accurateheading/blankcream. No spanningpanels. Exactly ONE clearcrystalsphere on ONE short circularwoodLEDbase warmwhiteglow, thinblackpowercord. Preserve actual engraving exactscene/pose/proportions, sphere/base/materials, no extra lamps. Whitebackgroundoutsideglobe MUSTbe white notblack, engraving remains whiteetched. Remove sourceprice/code/banner/backgroundclutter. Fullproduct fits eachcell with margins. Headingonly,no newclaims. Actual engraving frontfacing bunny-eared toothy cartoonmonster, TWOuprightears, roundspikyfaceoutline, hugeeyes, zigzag toothysmile, smallbody runningwithONEleglifted, leftoutstretchedhand holds smallCUPwithSTRAW, otherarm raised sideways. Preserve exact actualpose/cup/face, not generic bunny or different engraving. Actualbase darkwood withlightwoodtop. Macro actual engraved toothyface/cup and glasscurve. Heading 'Cartoon Bunny Globe Lamp'.",
+      "sha256": "d30311e72c6c3348c281b8d7a90e861125f0101879811888c395ca052c9d8131",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-61983cdd-2ede-4177-85d5-34e7371f3a97.png",
+      "grid_sha256": "35d401685d6ad09546cca6d5568196aa7ccf9ba0ee95f48186ffce4b04e8a5bc",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-61983cdd-2ede-4177-85d5-34e7371f3a97.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Top ONEfullproduct PUREWHITEexteriorbackground/ONEfullproductlavendercreamstyled/ONEfullproductbedsidelifestyle. Bottom TIGHTstandaloneREALPARTengravedglassmacro/ONEfullproductpromo accurateheading/blankcream. No spanningpanels. Exactly ONE clearcrystalsphere on ONE short circularwoodLEDbase warmwhiteglow, thinblackpowercord. Preserve actual engraving exactscene/pose/proportions, sphere/base/materials, no extra lamps. Whitebackgroundoutsideglobe MUSTbe white notblack, engraving remains whiteetched. Remove sourceprice/code/banner/backgroundclutter. Fullproduct fits eachcell with margins. Headingonly,no newclaims. Actual engraving frontfacing bunny-eared toothy cartoonmonster, TWOuprightears, roundspikyfaceoutline, hugeeyes, zigzag toothysmile, smallbody runningwithONEleglifted, leftoutstretchedhand holds smallCUPwithSTRAW, otherarm raised sideways. Preserve exact actualpose/cup/face, not generic bunny or different engraving. Actualbase darkwood withlightwoodtop. Macro actual engraved toothyface/cup and glasscurve. Heading 'Cartoon Bunny Globe Lamp'.",
+      "sha256": "6aaa9b19439cccfe9a5f4ba6edc5d5b11ba730525ec123792a5b1d1ebb80e4c2",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-61983cdd-2ede-4177-85d5-34e7371f3a97.png",
+      "grid_sha256": "35d401685d6ad09546cca6d5568196aa7ccf9ba0ee95f48186ffce4b04e8a5bc",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ]
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

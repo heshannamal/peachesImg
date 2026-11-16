@@ -1,0 +1,126 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260929-WA0225.jpg": "69933e91077cbf955f1b385be5e9c0540a6374b1b9668d429b4e3a48bb2ac28f"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-f71ec98c-61a5-49f5-ab18-6d7f6eb7f082.png",
+      "source_output": "/workspace/generated_images/exec-f71ec98c-61a5-49f5-ab18-6d7f6eb7f082.png",
+      "sha256": "b6e9bfcbdcd908a60573217e9bb6aaa4494d35fe8d7913a4722965aa0626d8d5",
+      "prompt": "Native faithful edit of suppliedactualoriginal into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Preserve wholeassortment actualcount/identity/shapes/colours, no added/missingproducts. Removehand/shop/oldpriceoverlay/outerplasticglare only. Toprow whitebackground,lavendercreamstyled,naturalvanitydesktoplifestyle wholeassortment. Bottomrowtight standalone realpart macroonly,promotionalwholeassortmentplusaccurateheading,blankcreamunused. Exactboundaries512/1024/512 no gutters/borders. Subject EXACTLY12 butterfly-shaped printed plastic HAIRCLAWCLIPS on2longwhitecards,6clipspercard. Eachhas4roundbutterflywings with originalblue/pinkcharacterfaceprint, centrebody/springhinge. Preserve reference12clip arrangement and matchingcolourvariants:6pairs overall pale pink, mint/aqua, whitepink, whiteblue, brightpink, skyblue. No substituteunprintedbutterfly. Fullviews all12visible,countable,two6cards sidebyside. Detailtightoneactualblueprintedwing/hinge. Heading 'Printed Butterfly Hair Claws'.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-f71ec98c-61a5-49f5-ab18-6d7f6eb7f082.png",
+      "prompt": "Native faithful edit of suppliedactualoriginal into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Preserve wholeassortment actualcount/identity/shapes/colours, no added/missingproducts. Removehand/shop/oldpriceoverlay/outerplasticglare only. Toprow whitebackground,lavendercreamstyled,naturalvanitydesktoplifestyle wholeassortment. Bottomrowtight standalone realpart macroonly,promotionalwholeassortmentplusaccurateheading,blankcreamunused. Exactboundaries512/1024/512 no gutters/borders. Subject EXACTLY12 butterfly-shaped printed plastic HAIRCLAWCLIPS on2longwhitecards,6clipspercard. Eachhas4roundbutterflywings with originalblue/pinkcharacterfaceprint, centrebody/springhinge. Preserve reference12clip arrangement and matchingcolourvariants:6pairs overall pale pink, mint/aqua, whitepink, whiteblue, brightpink, skyblue. No substituteunprintedbutterfly. Fullviews all12visible,countable,two6cards sidebyside. Detailtightoneactualblueprintedwing/hinge. Heading 'Printed Butterfly Hair Claws'.\n",
+      "sha256": "143f549893d4f315f41916ff2949dc5eafb9b5d7f8651ef41541225ab53ae9b8",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f71ec98c-61a5-49f5-ab18-6d7f6eb7f082.png",
+      "grid_sha256": "b6e9bfcbdcd908a60573217e9bb6aaa4494d35fe8d7913a4722965aa0626d8d5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Pass: fullviews12printedbutterflyhairclaws on2cards6each; referencecharacterprint/bluepinkmintwhitevariants andactualhinge/4wingsretained. Tightprintedwing/hingemacro;accurateheading,clean512cellcrops. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-f71ec98c-61a5-49f5-ab18-6d7f6eb7f082.png",
+      "prompt": "Native faithful edit of suppliedactualoriginal into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Preserve wholeassortment actualcount/identity/shapes/colours, no added/missingproducts. Removehand/shop/oldpriceoverlay/outerplasticglare only. Toprow whitebackground,lavendercreamstyled,naturalvanitydesktoplifestyle wholeassortment. Bottomrowtight standalone realpart macroonly,promotionalwholeassortmentplusaccurateheading,blankcreamunused. Exactboundaries512/1024/512 no gutters/borders. Subject EXACTLY12 butterfly-shaped printed plastic HAIRCLAWCLIPS on2longwhitecards,6clipspercard. Eachhas4roundbutterflywings with originalblue/pinkcharacterfaceprint, centrebody/springhinge. Preserve reference12clip arrangement and matchingcolourvariants:6pairs overall pale pink, mint/aqua, whitepink, whiteblue, brightpink, skyblue. No substituteunprintedbutterfly. Fullviews all12visible,countable,two6cards sidebyside. Detailtightoneactualblueprintedwing/hinge. Heading 'Printed Butterfly Hair Claws'.\n",
+      "sha256": "c068ebf04edf12f658e670d7410cabfbe5d847d2b36e23615005b6b444431c62",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f71ec98c-61a5-49f5-ab18-6d7f6eb7f082.png",
+      "grid_sha256": "b6e9bfcbdcd908a60573217e9bb6aaa4494d35fe8d7913a4722965aa0626d8d5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Pass: fullviews12printedbutterflyhairclaws on2cards6each; referencecharacterprint/bluepinkmintwhitevariants andactualhinge/4wingsretained. Tightprintedwing/hingemacro;accurateheading,clean512cellcrops. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-f71ec98c-61a5-49f5-ab18-6d7f6eb7f082.png",
+      "prompt": "Native faithful edit of suppliedactualoriginal into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Preserve wholeassortment actualcount/identity/shapes/colours, no added/missingproducts. Removehand/shop/oldpriceoverlay/outerplasticglare only. Toprow whitebackground,lavendercreamstyled,naturalvanitydesktoplifestyle wholeassortment. Bottomrowtight standalone realpart macroonly,promotionalwholeassortmentplusaccurateheading,blankcreamunused. Exactboundaries512/1024/512 no gutters/borders. Subject EXACTLY12 butterfly-shaped printed plastic HAIRCLAWCLIPS on2longwhitecards,6clipspercard. Eachhas4roundbutterflywings with originalblue/pinkcharacterfaceprint, centrebody/springhinge. Preserve reference12clip arrangement and matchingcolourvariants:6pairs overall pale pink, mint/aqua, whitepink, whiteblue, brightpink, skyblue. No substituteunprintedbutterfly. Fullviews all12visible,countable,two6cards sidebyside. Detailtightoneactualblueprintedwing/hinge. Heading 'Printed Butterfly Hair Claws'.\n",
+      "sha256": "939a8a1f9b982c876545c8eb88467a44d4be5f5e699bfce0c1430f8b214e8ffb",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f71ec98c-61a5-49f5-ab18-6d7f6eb7f082.png",
+      "grid_sha256": "b6e9bfcbdcd908a60573217e9bb6aaa4494d35fe8d7913a4722965aa0626d8d5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Pass: fullviews12printedbutterflyhairclaws on2cards6each; referencecharacterprint/bluepinkmintwhitevariants andactualhinge/4wingsretained. Tightprintedwing/hingemacro;accurateheading,clean512cellcrops. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-f71ec98c-61a5-49f5-ab18-6d7f6eb7f082.png",
+      "prompt": "Native faithful edit of suppliedactualoriginal into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Preserve wholeassortment actualcount/identity/shapes/colours, no added/missingproducts. Removehand/shop/oldpriceoverlay/outerplasticglare only. Toprow whitebackground,lavendercreamstyled,naturalvanitydesktoplifestyle wholeassortment. Bottomrowtight standalone realpart macroonly,promotionalwholeassortmentplusaccurateheading,blankcreamunused. Exactboundaries512/1024/512 no gutters/borders. Subject EXACTLY12 butterfly-shaped printed plastic HAIRCLAWCLIPS on2longwhitecards,6clipspercard. Eachhas4roundbutterflywings with originalblue/pinkcharacterfaceprint, centrebody/springhinge. Preserve reference12clip arrangement and matchingcolourvariants:6pairs overall pale pink, mint/aqua, whitepink, whiteblue, brightpink, skyblue. No substituteunprintedbutterfly. Fullviews all12visible,countable,two6cards sidebyside. Detailtightoneactualblueprintedwing/hinge. Heading 'Printed Butterfly Hair Claws'.\n",
+      "sha256": "830f1f30e3c935564bffff3e895e40018d01521b3298b228eb75557c6e6cafa7",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f71ec98c-61a5-49f5-ab18-6d7f6eb7f082.png",
+      "grid_sha256": "b6e9bfcbdcd908a60573217e9bb6aaa4494d35fe8d7913a4722965aa0626d8d5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Pass: fullviews12printedbutterflyhairclaws on2cards6each; referencecharacterprint/bluepinkmintwhitevariants andactualhinge/4wingsretained. Tightprintedwing/hingemacro;accurateheading,clean512cellcrops. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-f71ec98c-61a5-49f5-ab18-6d7f6eb7f082.png",
+      "prompt": "Native faithful edit of suppliedactualoriginal into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Preserve wholeassortment actualcount/identity/shapes/colours, no added/missingproducts. Removehand/shop/oldpriceoverlay/outerplasticglare only. Toprow whitebackground,lavendercreamstyled,naturalvanitydesktoplifestyle wholeassortment. Bottomrowtight standalone realpart macroonly,promotionalwholeassortmentplusaccurateheading,blankcreamunused. Exactboundaries512/1024/512 no gutters/borders. Subject EXACTLY12 butterfly-shaped printed plastic HAIRCLAWCLIPS on2longwhitecards,6clipspercard. Eachhas4roundbutterflywings with originalblue/pinkcharacterfaceprint, centrebody/springhinge. Preserve reference12clip arrangement and matchingcolourvariants:6pairs overall pale pink, mint/aqua, whitepink, whiteblue, brightpink, skyblue. No substituteunprintedbutterfly. Fullviews all12visible,countable,two6cards sidebyside. Detailtightoneactualblueprintedwing/hinge. Heading 'Printed Butterfly Hair Claws'.\n",
+      "sha256": "2e5e72a44d698e40bd1cd8b8e8d08df409070dfa0171ca82f3a6c97a27b0c15e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f71ec98c-61a5-49f5-ab18-6d7f6eb7f082.png",
+      "grid_sha256": "b6e9bfcbdcd908a60573217e9bb6aaa4494d35fe8d7913a4722965aa0626d8d5",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Pass: fullviews12printedbutterflyhairclaws on2cards6each; referencecharacterprint/bluepinkmintwhitevariants andactualhinge/4wingsretained. Tightprintedwing/hingemacro;accurateheading,clean512cellcrops. Frozenoriginal/outputSHAverified."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

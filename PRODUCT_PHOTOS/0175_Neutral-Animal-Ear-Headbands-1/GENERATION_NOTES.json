@@ -1,0 +1,53 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250211-WA0706.jpg": "f078e1ee94307526de385df1fe5fa1dfcba0d001fc01a008cc2125226b43a60a"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-c0f72355-ca8d-4c3f-b929-489aea7ed7d6.png",
+      "prompt": "Edit original into website-ready ecommerce white seamless photo softshadow. Exact wholeassortment ONEproduct: six frontprinted whitecards2columns x3rows each with furry round animal-ear headband and two circular cardwindows showing black/white fabric hairtie bundles. Bothcolumns topivorycream middletaupebeige bottomblack, retain exact furry rounded hollowear shape, original card/clearplastic packaging plus partialstackedcardsbehind. Preserve countshape/colours/materials and arrangement. Remove hand/watch/shop/1320Rs overlay, no invented parts/reverse/newproducts or text.",
+      "sha256": "4868a49625e6a27c943b9ead6dcf50fe01db008193358cddf9d8c8325355fb12",
+      "checked": true,
+      "visual_check": "Basiccheck6neutral furry headbands cream/taupe/black two columns3rows cardwindows blackwhite ties/package retained; ear curves slightly pointed compared source, minor cosmetic accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-145e2c78-8ae7-4703-8bf4-5abf5f8f5d55.png",
+      "prompt": "Recovered existing styled output from interrupted worker; original submitted prompt unavailable here. Six packaged neutral animal ear headband sets in cream tan and black on lavender background.",
+      "sha256": "0f13a8329243b2d81366a2cfdec85422bf4aa52244efbb5ea7ca5a60b5cf2c45",
+      "checked": true,
+      "visual_review": "Compared original and recovered image: six packaged neutral animal-ear headband sets, cream/tan/black groups, two columns and three rows. Count and main identity preserved."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-ffec1f76-9c8d-406a-b4f3-b9952a8ae692.png",
+      "prompt": "Edit original into website-ready lifestyle photo full exact packagedsixfrontcards2columns3rows, ivory/taupe/black furry rounded animal-ear headbands with original blackwhite tie bundles visible two circularwindows each, printedwhitecards/clearpackaging and arrangement intact. Cream vanity table lavender dressingroomblur, no holdinghand/watch/shop/old1320Rs overlay, no extra products/inventedparts/text. Preserve entireassortmentoneproduct exact count/materials/colours/frontview.",
+      "sha256": "4b91bed77db6789c078c563ee628c8ac5c3d5b86ad33108f9ed8092af6b6df73",
+      "checked": true,
+      "visual_check": "Basic check six cream taupe black furry ear headbands/card tie bundles/package in2x3; cream vanity lavenderroom, no hand or price."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-d091ba14-2bdb-4336-aa86-534db7b7bb0d.png",
+      "prompt": "Website-ready standalone TIGHT MACRO DETAIL photo edit source ivorycream furry ear headband. Crop to existing cream fur pile and rounded earcurve under clearplastic with partial white card edge. Preserve source visible shape/material/colour. No whole set/no invented parts or reverse. No hand/shop/price/text. Lavendercream defocus.",
+      "sha256": "4e2a69158ac9a572324f12443288b8b107b29939c32c4f2d2b828b51efc3fad2",
+      "checked": true,
+      "visual_check": "Basic check tight cream furry earcurve under clearplastic partialcard, source existing material/colour, no fullset."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-6ae27af3-67c3-4e14-80a1-73dc9c2dc76c.png",
+      "prompt": "Edit original into website-ready promotional photo full exact packagedsixfrontcards2columns3rows, ivory/taupe/black furry animalear headbands and originalblackwhite tie bundles intwo circularwindows percard, white printedcards/clearpackaging and arrangement unchanged. Lavendercream backdrop, compact darkplum heading 'Neutral Animal-Ear Headband Sets' plus 'PRODUCT COLLECTION' above products. Remove hand/watch/shop/old1320Rs overlay, no inventedparts/newproducts/claims. Wholeassortmentoneproduct.",
+      "sha256": "b5fa8600238d5d33c4de757894035beaffbc04dfe9c2ff762488ab49821a4c46",
+      "checked": true,
+      "visual_check": "Basic check six sourcecolour headbandcards/tie bundles/package, readableheading PRODUCT COLLECTION lavendercream no price."
+    }
+  ],
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "generation_complete": true,
+  "originals_unchanged": true
+}

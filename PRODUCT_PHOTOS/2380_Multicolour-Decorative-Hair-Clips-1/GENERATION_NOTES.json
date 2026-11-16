@@ -1,0 +1,133 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260907-WA0182.jpg": "1d6d10bac65bbe3b5bc04a7b3e028f7c3e21b8006be948fd7997bb71c700b6e0"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-346c9349-072b-4bf3-89de-0aa6ba6a608f.png",
+      "source_output": "/workspace/generated_images/exec-346c9349-072b-4bf3-89de-0aa6ba6a608f.png",
+      "sha256": "a6d3c958b1a199a74ed6c6f10db5287a8c0aef948abb68b3726fe3d55341faae",
+      "prompt": "Edit this actual original into ONE1536x1024 photorealistic website image, EXACT3columns by2rows of512x512 cells with no gutter or border. Exactly SIX white display cards stacked vertically, each card TWO parallel gold-tone hair barrettes, total TWELVE barrettes. Each barrette has FOUR small faceted butterfly ornaments, four wings per butterfly. Top pair lavender/purple butterflies; second blue/violet; third pink; fourth blue/pink iridescent; fifth yellow/peach; sixth turquoise/yellow. Preserve six cards, twelve clips, four butterflies per clip, faceted wings and colour arrangements. Heading: Butterfly Hair Clip Assortment. This whole assortment is ONE product. Preserve actual count identity colours shapes, do not invent or simplify ornaments. Full views keep ALL six cards and twelve clips visible. Top left full assortment pure white; top middle full assortment lavender/cream styling; top right full assortment on vanity tabletop lifestyle with no extra accessories resembling product. Bottom left TIGHT standalone real-part macro of a few actual ornaments from one clip, no need entire assortment. Bottom middle full assortment promotional composition with only heading given. Bottom right blank cream. Remove hand, shop and price overlay; no prices or unsupported claims. Product large and crisp in each cell; no crossing cell edges.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-346c9349-072b-4bf3-89de-0aa6ba6a608f.png",
+      "prompt": "Edit this actual original into ONE1536x1024 photorealistic website image, EXACT3columns by2rows of512x512 cells with no gutter or border. Exactly SIX white display cards stacked vertically, each card TWO parallel gold-tone hair barrettes, total TWELVE barrettes. Each barrette has FOUR small faceted butterfly ornaments, four wings per butterfly. Top pair lavender/purple butterflies; second blue/violet; third pink; fourth blue/pink iridescent; fifth yellow/peach; sixth turquoise/yellow. Preserve six cards, twelve clips, four butterflies per clip, faceted wings and colour arrangements. Heading: Butterfly Hair Clip Assortment. This whole assortment is ONE product. Preserve actual count identity colours shapes, do not invent or simplify ornaments. Full views keep ALL six cards and twelve clips visible. Top left full assortment pure white; top middle full assortment lavender/cream styling; top right full assortment on vanity tabletop lifestyle with no extra accessories resembling product. Bottom left TIGHT standalone real-part macro of a few actual ornaments from one clip, no need entire assortment. Bottom middle full assortment promotional composition with only heading given. Bottom right blank cream. Remove hand, shop and price overlay; no prices or unsupported claims. Product large and crisp in each cell; no crossing cell edges.",
+      "sha256": "9f6f4ce78353960cb6bbee6ea003819365619f08720ec82b4e3d650ab7a435bb",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-346c9349-072b-4bf3-89de-0aa6ba6a608f.png",
+      "grid_sha256": "a6d3c958b1a199a74ed6c6f10db5287a8c0aef948abb68b3726fe3d55341faae",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved five crops inspected: six cards, twelve gold barrettes, four faceted butterfly ornaments per barrette, purple/blue/pink/iridescent/yellow/turquoise groups retained. White/lavendercream/vanity tabletop full assortment; standalone tight real purple butterfly macro and accurate promotional heading passed. Frozen original and output SHA verified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-346c9349-072b-4bf3-89de-0aa6ba6a608f.png",
+      "prompt": "Edit this actual original into ONE1536x1024 photorealistic website image, EXACT3columns by2rows of512x512 cells with no gutter or border. Exactly SIX white display cards stacked vertically, each card TWO parallel gold-tone hair barrettes, total TWELVE barrettes. Each barrette has FOUR small faceted butterfly ornaments, four wings per butterfly. Top pair lavender/purple butterflies; second blue/violet; third pink; fourth blue/pink iridescent; fifth yellow/peach; sixth turquoise/yellow. Preserve six cards, twelve clips, four butterflies per clip, faceted wings and colour arrangements. Heading: Butterfly Hair Clip Assortment. This whole assortment is ONE product. Preserve actual count identity colours shapes, do not invent or simplify ornaments. Full views keep ALL six cards and twelve clips visible. Top left full assortment pure white; top middle full assortment lavender/cream styling; top right full assortment on vanity tabletop lifestyle with no extra accessories resembling product. Bottom left TIGHT standalone real-part macro of a few actual ornaments from one clip, no need entire assortment. Bottom middle full assortment promotional composition with only heading given. Bottom right blank cream. Remove hand, shop and price overlay; no prices or unsupported claims. Product large and crisp in each cell; no crossing cell edges.",
+      "sha256": "5dc3a1b3050940d1a10a9d31b30fd48e2735b2cbf155d5a90ba956918e7745b0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-346c9349-072b-4bf3-89de-0aa6ba6a608f.png",
+      "grid_sha256": "a6d3c958b1a199a74ed6c6f10db5287a8c0aef948abb68b3726fe3d55341faae",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved five crops inspected: six cards, twelve gold barrettes, four faceted butterfly ornaments per barrette, purple/blue/pink/iridescent/yellow/turquoise groups retained. White/lavendercream/vanity tabletop full assortment; standalone tight real purple butterfly macro and accurate promotional heading passed. Frozen original and output SHA verified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-346c9349-072b-4bf3-89de-0aa6ba6a608f.png",
+      "prompt": "Edit this actual original into ONE1536x1024 photorealistic website image, EXACT3columns by2rows of512x512 cells with no gutter or border. Exactly SIX white display cards stacked vertically, each card TWO parallel gold-tone hair barrettes, total TWELVE barrettes. Each barrette has FOUR small faceted butterfly ornaments, four wings per butterfly. Top pair lavender/purple butterflies; second blue/violet; third pink; fourth blue/pink iridescent; fifth yellow/peach; sixth turquoise/yellow. Preserve six cards, twelve clips, four butterflies per clip, faceted wings and colour arrangements. Heading: Butterfly Hair Clip Assortment. This whole assortment is ONE product. Preserve actual count identity colours shapes, do not invent or simplify ornaments. Full views keep ALL six cards and twelve clips visible. Top left full assortment pure white; top middle full assortment lavender/cream styling; top right full assortment on vanity tabletop lifestyle with no extra accessories resembling product. Bottom left TIGHT standalone real-part macro of a few actual ornaments from one clip, no need entire assortment. Bottom middle full assortment promotional composition with only heading given. Bottom right blank cream. Remove hand, shop and price overlay; no prices or unsupported claims. Product large and crisp in each cell; no crossing cell edges.",
+      "sha256": "b18c9fd5e1ee763c11de3b58b13d83434ff3895b49e345a79cb73d85a2e48743",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-346c9349-072b-4bf3-89de-0aa6ba6a608f.png",
+      "grid_sha256": "a6d3c958b1a199a74ed6c6f10db5287a8c0aef948abb68b3726fe3d55341faae",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved five crops inspected: six cards, twelve gold barrettes, four faceted butterfly ornaments per barrette, purple/blue/pink/iridescent/yellow/turquoise groups retained. White/lavendercream/vanity tabletop full assortment; standalone tight real purple butterfly macro and accurate promotional heading passed. Frozen original and output SHA verified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-346c9349-072b-4bf3-89de-0aa6ba6a608f.png",
+      "prompt": "Edit this actual original into ONE1536x1024 photorealistic website image, EXACT3columns by2rows of512x512 cells with no gutter or border. Exactly SIX white display cards stacked vertically, each card TWO parallel gold-tone hair barrettes, total TWELVE barrettes. Each barrette has FOUR small faceted butterfly ornaments, four wings per butterfly. Top pair lavender/purple butterflies; second blue/violet; third pink; fourth blue/pink iridescent; fifth yellow/peach; sixth turquoise/yellow. Preserve six cards, twelve clips, four butterflies per clip, faceted wings and colour arrangements. Heading: Butterfly Hair Clip Assortment. This whole assortment is ONE product. Preserve actual count identity colours shapes, do not invent or simplify ornaments. Full views keep ALL six cards and twelve clips visible. Top left full assortment pure white; top middle full assortment lavender/cream styling; top right full assortment on vanity tabletop lifestyle with no extra accessories resembling product. Bottom left TIGHT standalone real-part macro of a few actual ornaments from one clip, no need entire assortment. Bottom middle full assortment promotional composition with only heading given. Bottom right blank cream. Remove hand, shop and price overlay; no prices or unsupported claims. Product large and crisp in each cell; no crossing cell edges.",
+      "sha256": "f3698b26c757058e6912ba1502424bdbfc1d628dc4f8a0bdc33a44bad046e5e5",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-346c9349-072b-4bf3-89de-0aa6ba6a608f.png",
+      "grid_sha256": "a6d3c958b1a199a74ed6c6f10db5287a8c0aef948abb68b3726fe3d55341faae",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved five crops inspected: six cards, twelve gold barrettes, four faceted butterfly ornaments per barrette, purple/blue/pink/iridescent/yellow/turquoise groups retained. White/lavendercream/vanity tabletop full assortment; standalone tight real purple butterfly macro and accurate promotional heading passed. Frozen original and output SHA verified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-346c9349-072b-4bf3-89de-0aa6ba6a608f.png",
+      "prompt": "Edit this actual original into ONE1536x1024 photorealistic website image, EXACT3columns by2rows of512x512 cells with no gutter or border. Exactly SIX white display cards stacked vertically, each card TWO parallel gold-tone hair barrettes, total TWELVE barrettes. Each barrette has FOUR small faceted butterfly ornaments, four wings per butterfly. Top pair lavender/purple butterflies; second blue/violet; third pink; fourth blue/pink iridescent; fifth yellow/peach; sixth turquoise/yellow. Preserve six cards, twelve clips, four butterflies per clip, faceted wings and colour arrangements. Heading: Butterfly Hair Clip Assortment. This whole assortment is ONE product. Preserve actual count identity colours shapes, do not invent or simplify ornaments. Full views keep ALL six cards and twelve clips visible. Top left full assortment pure white; top middle full assortment lavender/cream styling; top right full assortment on vanity tabletop lifestyle with no extra accessories resembling product. Bottom left TIGHT standalone real-part macro of a few actual ornaments from one clip, no need entire assortment. Bottom middle full assortment promotional composition with only heading given. Bottom right blank cream. Remove hand, shop and price overlay; no prices or unsupported claims. Product large and crisp in each cell; no crossing cell edges.",
+      "sha256": "3af3a05ccacbe601f121759ee3839cc7b2b4c8f2b94cd783a7a8d15ab28f47b7",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-346c9349-072b-4bf3-89de-0aa6ba6a608f.png",
+      "grid_sha256": "a6d3c958b1a199a74ed6c6f10db5287a8c0aef948abb68b3726fe3d55341faae",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved five crops inspected: six cards, twelve gold barrettes, four faceted butterfly ornaments per barrette, purple/blue/pink/iridescent/yellow/turquoise groups retained. White/lavendercream/vanity tabletop full assortment; standalone tight real purple butterfly macro and accurate promotional heading passed. Frozen original and output SHA verified."
+    },
+    {
+      "kind": "exact_prompt_file",
+      "saved_file": "Generation_Prompts/initial.txt",
+      "sha256": "111c83bbdf5172eca0c474c838f2b825319306186f7ef32b862647c7da047ad5",
+      "checked": false
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

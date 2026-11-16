@@ -1,0 +1,232 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261002-WA0769.jpg": "c122b610652e13b735547761a92de77a0f2429bee49aeb46de0a19d2883dee00",
+    "Originals/IMG-20261002-WA0775.jpg": "f982ee0dd4afc0b6a786b920e89dcf90d3b6886f964b0aa061a5d052d530ae12"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-47ed4ac4-d886-405b-b9d6-1898db4dfc2e.png",
+      "source_output": "/workspace/generated_images/exec-47ed4ac4-d886-405b-b9d6-1898db4dfc2e.png",
+      "sha256": "f95fdc2325871d4b98f186cf8ec0743c90c0c817ce2963142a2d65f646ca703c",
+      "prompt": "Edit the referenced original(s) faithfully into ONE landscape1536x1024 productphotography grid EXACT3equalcolumns x2equalrows six512squaretiles NOgutters/borders/panellabels. ALL TWO DISTINCT reference foreground bowclip packets together as ONE assortment, TWENTYFOUR bows TOTAL. EACH original packet SIX white cards in2columns3rows, TWO SAMECOLOUR bows/card,12bows/packet. FIRST packet wovenjacquard bows (no addedrhinestones), topcards burgundyleft/pinkright,middleivoryleft/tauperight,bottomnavyleft/palemauveright. SECOND packet texturedmesh bows withtiny scatteredsilverrhinestones, top pinkleft/burgundyright,middlecreamleft/tauperight,bottompeachleft/lilacright. Preserve original loopshapes,satincentralbands/fabricedges, exact24count/two12packets, original colours,textures, original clearwrapping/cards and overlap. Do NOT collapse two assortments toONE12bow packet. Exclude unrelated shopstock behind/inforeground edges. WholeassortmentONEproduct in every fullview, same mainidentity/count/shapes/colours sourcefrontview, fullyframed within eachtile margins no crossingboundaries. Removehands/shop/externalprice/salesoverlay only; do not addclaims. TOPLEFT01 fullassortment purewhite seamless softshadow. TOPMIDDLE02 fullassortment lavendercreamstyledstudio. TOPRIGHT03 fullassortmenton creamdressingtable insoftlyblurredlavenderroom noextraitems. BOTTOMLEFT04 standalone TIGHT MACRO ONLY actual texturedmesh fabric/satincentre/tiny silverrhinestones of one real bow, notwholeassortment. BOTTOMMIDDLE05 samefullassortment lavendercream withsmallaccurateheading FABRIC BOW CLIP COLLECTION only. BOTTOMRIGHT06 blankunusedcream. Website-ready realistic, no redesign or substitutedcount.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "Rejected/01_White-Background-initial-jacquard-material-changed.png",
+      "source_output": "/workspace/generated_images/exec-47ed4ac4-d886-405b-b9d6-1898db4dfc2e.png",
+      "prompt": "Edit the referenced original(s) faithfully into ONE landscape1536x1024 productphotography grid EXACT3equalcolumns x2equalrows six512squaretiles NOgutters/borders/panellabels. ALL TWO DISTINCT reference foreground bowclip packets together as ONE assortment, TWENTYFOUR bows TOTAL. EACH original packet SIX white cards in2columns3rows, TWO SAMECOLOUR bows/card,12bows/packet. FIRST packet wovenjacquard bows (no addedrhinestones), topcards burgundyleft/pinkright,middleivoryleft/tauperight,bottomnavyleft/palemauveright. SECOND packet texturedmesh bows withtiny scatteredsilverrhinestones, top pinkleft/burgundyright,middlecreamleft/tauperight,bottompeachleft/lilacright. Preserve original loopshapes,satincentralbands/fabricedges, exact24count/two12packets, original colours,textures, original clearwrapping/cards and overlap. Do NOT collapse two assortments toONE12bow packet. Exclude unrelated shopstock behind/inforeground edges. WholeassortmentONEproduct in every fullview, same mainidentity/count/shapes/colours sourcefrontview, fullyframed within eachtile margins no crossingboundaries. Removehands/shop/externalprice/salesoverlay only; do not addclaims. TOPLEFT01 fullassortment purewhite seamless softshadow. TOPMIDDLE02 fullassortment lavendercreamstyledstudio. TOPRIGHT03 fullassortmenton creamdressingtable insoftlyblurredlavenderroom noextraitems. BOTTOMLEFT04 standalone TIGHT MACRO ONLY actual texturedmesh fabric/satincentre/tiny silverrhinestones of one real bow, notwholeassortment. BOTTOMMIDDLE05 samefullassortment lavendercream withsmallaccurateheading FABRIC BOW CLIP COLLECTION only. BOTTOMRIGHT06 blankunusedcream. Website-ready realistic, no redesign or substitutedcount.",
+      "sha256": "ceba14e7caf0959c9c67b36ed65bbbf065960da42e1ff04e1eba32040f134e8c",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-47ed4ac4-d886-405b-b9d6-1898db4dfc2e.png",
+      "grid_sha256": "f95fdc2325871d4b98f186cf8ec0743c90c0c817ce2963142a2d65f646ca703c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Materialdifference: FIRSTpacket originallyangularwovenjacquardWITHOUTrhinestones, generatedfirstpacket approximatedmesh/silver-speckling like secondpacket, losingdistinctfabricidentity. Count24/colourgroups retained. Onecorrectivegridneededforthesefullviews; macrosecondpacketpassed."
+    },
+    {
+      "saved_file": "Rejected/02_Styled-Background-initial-jacquard-material-changed.png",
+      "source_output": "/workspace/generated_images/exec-47ed4ac4-d886-405b-b9d6-1898db4dfc2e.png",
+      "prompt": "Edit the referenced original(s) faithfully into ONE landscape1536x1024 productphotography grid EXACT3equalcolumns x2equalrows six512squaretiles NOgutters/borders/panellabels. ALL TWO DISTINCT reference foreground bowclip packets together as ONE assortment, TWENTYFOUR bows TOTAL. EACH original packet SIX white cards in2columns3rows, TWO SAMECOLOUR bows/card,12bows/packet. FIRST packet wovenjacquard bows (no addedrhinestones), topcards burgundyleft/pinkright,middleivoryleft/tauperight,bottomnavyleft/palemauveright. SECOND packet texturedmesh bows withtiny scatteredsilverrhinestones, top pinkleft/burgundyright,middlecreamleft/tauperight,bottompeachleft/lilacright. Preserve original loopshapes,satincentralbands/fabricedges, exact24count/two12packets, original colours,textures, original clearwrapping/cards and overlap. Do NOT collapse two assortments toONE12bow packet. Exclude unrelated shopstock behind/inforeground edges. WholeassortmentONEproduct in every fullview, same mainidentity/count/shapes/colours sourcefrontview, fullyframed within eachtile margins no crossingboundaries. Removehands/shop/externalprice/salesoverlay only; do not addclaims. TOPLEFT01 fullassortment purewhite seamless softshadow. TOPMIDDLE02 fullassortment lavendercreamstyledstudio. TOPRIGHT03 fullassortmenton creamdressingtable insoftlyblurredlavenderroom noextraitems. BOTTOMLEFT04 standalone TIGHT MACRO ONLY actual texturedmesh fabric/satincentre/tiny silverrhinestones of one real bow, notwholeassortment. BOTTOMMIDDLE05 samefullassortment lavendercream withsmallaccurateheading FABRIC BOW CLIP COLLECTION only. BOTTOMRIGHT06 blankunusedcream. Website-ready realistic, no redesign or substitutedcount.",
+      "sha256": "b0924fd1c074f79e188dce0f773ae0816a2a6b59c973f3447fc77ec009457a89",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-47ed4ac4-d886-405b-b9d6-1898db4dfc2e.png",
+      "grid_sha256": "f95fdc2325871d4b98f186cf8ec0743c90c0c817ce2963142a2d65f646ca703c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Materialdifference: FIRSTpacket originallyangularwovenjacquardWITHOUTrhinestones, generatedfirstpacket approximatedmesh/silver-speckling like secondpacket, losingdistinctfabricidentity. Count24/colourgroups retained. Onecorrectivegridneededforthesefullviews; macrosecondpacketpassed."
+    },
+    {
+      "saved_file": "Rejected/03_Lifestyle-initial-jacquard-material-changed.png",
+      "source_output": "/workspace/generated_images/exec-47ed4ac4-d886-405b-b9d6-1898db4dfc2e.png",
+      "prompt": "Edit the referenced original(s) faithfully into ONE landscape1536x1024 productphotography grid EXACT3equalcolumns x2equalrows six512squaretiles NOgutters/borders/panellabels. ALL TWO DISTINCT reference foreground bowclip packets together as ONE assortment, TWENTYFOUR bows TOTAL. EACH original packet SIX white cards in2columns3rows, TWO SAMECOLOUR bows/card,12bows/packet. FIRST packet wovenjacquard bows (no addedrhinestones), topcards burgundyleft/pinkright,middleivoryleft/tauperight,bottomnavyleft/palemauveright. SECOND packet texturedmesh bows withtiny scatteredsilverrhinestones, top pinkleft/burgundyright,middlecreamleft/tauperight,bottompeachleft/lilacright. Preserve original loopshapes,satincentralbands/fabricedges, exact24count/two12packets, original colours,textures, original clearwrapping/cards and overlap. Do NOT collapse two assortments toONE12bow packet. Exclude unrelated shopstock behind/inforeground edges. WholeassortmentONEproduct in every fullview, same mainidentity/count/shapes/colours sourcefrontview, fullyframed within eachtile margins no crossingboundaries. Removehands/shop/externalprice/salesoverlay only; do not addclaims. TOPLEFT01 fullassortment purewhite seamless softshadow. TOPMIDDLE02 fullassortment lavendercreamstyledstudio. TOPRIGHT03 fullassortmenton creamdressingtable insoftlyblurredlavenderroom noextraitems. BOTTOMLEFT04 standalone TIGHT MACRO ONLY actual texturedmesh fabric/satincentre/tiny silverrhinestones of one real bow, notwholeassortment. BOTTOMMIDDLE05 samefullassortment lavendercream withsmallaccurateheading FABRIC BOW CLIP COLLECTION only. BOTTOMRIGHT06 blankunusedcream. Website-ready realistic, no redesign or substitutedcount.",
+      "sha256": "84e052e1ef6e0de79447876ec32dd7086c3bfebf42868e175581abcfd8ad0df1",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-47ed4ac4-d886-405b-b9d6-1898db4dfc2e.png",
+      "grid_sha256": "f95fdc2325871d4b98f186cf8ec0743c90c0c817ce2963142a2d65f646ca703c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Materialdifference: FIRSTpacket originallyangularwovenjacquardWITHOUTrhinestones, generatedfirstpacket approximatedmesh/silver-speckling like secondpacket, losingdistinctfabricidentity. Count24/colourgroups retained. Onecorrectivegridneededforthesefullviews; macrosecondpacketpassed."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-47ed4ac4-d886-405b-b9d6-1898db4dfc2e.png",
+      "prompt": "Edit the referenced original(s) faithfully into ONE landscape1536x1024 productphotography grid EXACT3equalcolumns x2equalrows six512squaretiles NOgutters/borders/panellabels. ALL TWO DISTINCT reference foreground bowclip packets together as ONE assortment, TWENTYFOUR bows TOTAL. EACH original packet SIX white cards in2columns3rows, TWO SAMECOLOUR bows/card,12bows/packet. FIRST packet wovenjacquard bows (no addedrhinestones), topcards burgundyleft/pinkright,middleivoryleft/tauperight,bottomnavyleft/palemauveright. SECOND packet texturedmesh bows withtiny scatteredsilverrhinestones, top pinkleft/burgundyright,middlecreamleft/tauperight,bottompeachleft/lilacright. Preserve original loopshapes,satincentralbands/fabricedges, exact24count/two12packets, original colours,textures, original clearwrapping/cards and overlap. Do NOT collapse two assortments toONE12bow packet. Exclude unrelated shopstock behind/inforeground edges. WholeassortmentONEproduct in every fullview, same mainidentity/count/shapes/colours sourcefrontview, fullyframed within eachtile margins no crossingboundaries. Removehands/shop/externalprice/salesoverlay only; do not addclaims. TOPLEFT01 fullassortment purewhite seamless softshadow. TOPMIDDLE02 fullassortment lavendercreamstyledstudio. TOPRIGHT03 fullassortmenton creamdressingtable insoftlyblurredlavenderroom noextraitems. BOTTOMLEFT04 standalone TIGHT MACRO ONLY actual texturedmesh fabric/satincentre/tiny silverrhinestones of one real bow, notwholeassortment. BOTTOMMIDDLE05 samefullassortment lavendercream withsmallaccurateheading FABRIC BOW CLIP COLLECTION only. BOTTOMRIGHT06 blankunusedcream. Website-ready realistic, no redesign or substitutedcount.",
+      "sha256": "f90a2730d2c8a4796a86482bfe92aaf053fa8c7f4e344512a1823cb8035f2277",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-47ed4ac4-d886-405b-b9d6-1898db4dfc2e.png",
+      "grid_sha256": "f95fdc2325871d4b98f186cf8ec0743c90c0c817ce2963142a2d65f646ca703c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual512macro compared with secondsourcepacket: real pinkmesh bow,satincentre,tiny silverrhinestones preserved, tightpartcrop. Accepted slightweavevariations."
+    },
+    {
+      "saved_file": "Rejected/05_Promotional-initial-jacquard-material-changed.png",
+      "source_output": "/workspace/generated_images/exec-47ed4ac4-d886-405b-b9d6-1898db4dfc2e.png",
+      "prompt": "Edit the referenced original(s) faithfully into ONE landscape1536x1024 productphotography grid EXACT3equalcolumns x2equalrows six512squaretiles NOgutters/borders/panellabels. ALL TWO DISTINCT reference foreground bowclip packets together as ONE assortment, TWENTYFOUR bows TOTAL. EACH original packet SIX white cards in2columns3rows, TWO SAMECOLOUR bows/card,12bows/packet. FIRST packet wovenjacquard bows (no addedrhinestones), topcards burgundyleft/pinkright,middleivoryleft/tauperight,bottomnavyleft/palemauveright. SECOND packet texturedmesh bows withtiny scatteredsilverrhinestones, top pinkleft/burgundyright,middlecreamleft/tauperight,bottompeachleft/lilacright. Preserve original loopshapes,satincentralbands/fabricedges, exact24count/two12packets, original colours,textures, original clearwrapping/cards and overlap. Do NOT collapse two assortments toONE12bow packet. Exclude unrelated shopstock behind/inforeground edges. WholeassortmentONEproduct in every fullview, same mainidentity/count/shapes/colours sourcefrontview, fullyframed within eachtile margins no crossingboundaries. Removehands/shop/externalprice/salesoverlay only; do not addclaims. TOPLEFT01 fullassortment purewhite seamless softshadow. TOPMIDDLE02 fullassortment lavendercreamstyledstudio. TOPRIGHT03 fullassortmenton creamdressingtable insoftlyblurredlavenderroom noextraitems. BOTTOMLEFT04 standalone TIGHT MACRO ONLY actual texturedmesh fabric/satincentre/tiny silverrhinestones of one real bow, notwholeassortment. BOTTOMMIDDLE05 samefullassortment lavendercream withsmallaccurateheading FABRIC BOW CLIP COLLECTION only. BOTTOMRIGHT06 blankunusedcream. Website-ready realistic, no redesign or substitutedcount.",
+      "sha256": "ffeb006b5d33f919a3ab5182f999abcd91656e11b0dc55d424049d01fcc7c85a",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-47ed4ac4-d886-405b-b9d6-1898db4dfc2e.png",
+      "grid_sha256": "f95fdc2325871d4b98f186cf8ec0743c90c0c817ce2963142a2d65f646ca703c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Materialdifference: FIRSTpacket originallyangularwovenjacquardWITHOUTrhinestones, generatedfirstpacket approximatedmesh/silver-speckling like secondpacket, losingdistinctfabricidentity. Count24/colourgroups retained. Onecorrectivegridneededforthesefullviews; macrosecondpacketpassed."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-12fd3bf3-6a35-4e9b-a18d-5d85afbfcb6f.png",
+      "source_output": "/workspace/generated_images/exec-12fd3bf3-6a35-4e9b-a18d-5d85afbfcb6f.png",
+      "sha256": "2c582d58099ba2f92b449cd0a90399d3fd80d16f7e643849db124fedf0629685",
+      "prompt": "Edit the referenced original(s) faithfully into ONE landscape1536x1024 productphotography grid EXACT3equalcolumns x2equalrows six512squaretiles NOgutters/borders/panellabels. ALL TWO DISTINCT reference foreground bowclip packets together as ONE assortment, TWENTYFOUR bows TOTAL. EACH original packet SIX white cards in2columns3rows, TWO SAMECOLOUR bows/card,12bows/packet. FIRST packet wovenjacquard bows (no addedrhinestones), topcards burgundyleft/pinkright,middleivoryleft/tauperight,bottomnavyleft/palemauveright. SECOND packet texturedmesh bows withtiny scatteredsilverrhinestones, top pinkleft/burgundyright,middlecreamleft/tauperight,bottompeachleft/lilacright. Preserve original loopshapes,satincentralbands/fabricedges, exact24count/two12packets, original colours,textures, original clearwrapping/cards and overlap. Do NOT collapse two assortments toONE12bow packet. Exclude unrelated shopstock behind/inforeground edges. WholeassortmentONEproduct in every fullview, same mainidentity/count/shapes/colours sourcefrontview, fullyframed within eachtile margins no crossingboundaries. Removehands/shop/externalprice/salesoverlay only; do not addclaims. TOPLEFT01 fullassortment purewhite seamless softshadow. TOPMIDDLE02 fullassortment lavendercreamstyledstudio. TOPRIGHT03 fullassortmenton creamdressingtable insoftlyblurredlavenderroom noextraitems. BOTTOMLEFT04 standalone TIGHT MACRO ONLY actual texturedmesh fabric/satincentre/tiny silverrhinestones of one real bow, notwholeassortment. BOTTOMMIDDLE05 samefullassortment lavendercream withsmallaccurateheading FABRIC BOW CLIP COLLECTION only. BOTTOMRIGHT06 blankunusedcream. Website-ready realistic, no redesign or substitutedcount. CRITICAL MATERIAL CORRECTION: The LEFT packet is the FIRST original photograph: its fabric is smooth tight angular geometric woven JACQUARD as demonstrated in THIRD reference realpartcrop, with visible small interlocking angular dark/light stitches. NOT openmesh, NOT lace, NO rhinestones/white speckles on ANY leftpacket bow. Rightpacket retains SECONDsource loose texturedmesh plus silverrhinestones. Preserve this TWO-DIFFERENT-FABRIC distinction in01/02/03/05. Keep exactTWELVEbows/leftpacket andTWELVE/rightpacket, original sixcolourpairs each, original satincentres/loopshape/edgepanels. Do not addstones toleftpacket. Bottomleftmacro remains actualpinkmesh fromrightpacket, but previouslypassed04crop willbepreserved. Retain exact3x2 layout/sourcepositions.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-12fd3bf3-6a35-4e9b-a18d-5d85afbfcb6f.png",
+      "prompt": "Edit the referenced original(s) faithfully into ONE landscape1536x1024 productphotography grid EXACT3equalcolumns x2equalrows six512squaretiles NOgutters/borders/panellabels. ALL TWO DISTINCT reference foreground bowclip packets together as ONE assortment, TWENTYFOUR bows TOTAL. EACH original packet SIX white cards in2columns3rows, TWO SAMECOLOUR bows/card,12bows/packet. FIRST packet wovenjacquard bows (no addedrhinestones), topcards burgundyleft/pinkright,middleivoryleft/tauperight,bottomnavyleft/palemauveright. SECOND packet texturedmesh bows withtiny scatteredsilverrhinestones, top pinkleft/burgundyright,middlecreamleft/tauperight,bottompeachleft/lilacright. Preserve original loopshapes,satincentralbands/fabricedges, exact24count/two12packets, original colours,textures, original clearwrapping/cards and overlap. Do NOT collapse two assortments toONE12bow packet. Exclude unrelated shopstock behind/inforeground edges. WholeassortmentONEproduct in every fullview, same mainidentity/count/shapes/colours sourcefrontview, fullyframed within eachtile margins no crossingboundaries. Removehands/shop/externalprice/salesoverlay only; do not addclaims. TOPLEFT01 fullassortment purewhite seamless softshadow. TOPMIDDLE02 fullassortment lavendercreamstyledstudio. TOPRIGHT03 fullassortmenton creamdressingtable insoftlyblurredlavenderroom noextraitems. BOTTOMLEFT04 standalone TIGHT MACRO ONLY actual texturedmesh fabric/satincentre/tiny silverrhinestones of one real bow, notwholeassortment. BOTTOMMIDDLE05 samefullassortment lavendercream withsmallaccurateheading FABRIC BOW CLIP COLLECTION only. BOTTOMRIGHT06 blankunusedcream. Website-ready realistic, no redesign or substitutedcount. CRITICAL MATERIAL CORRECTION: The LEFT packet is the FIRST original photograph: its fabric is smooth tight angular geometric woven JACQUARD as demonstrated in THIRD reference realpartcrop, with visible small interlocking angular dark/light stitches. NOT openmesh, NOT lace, NO rhinestones/white speckles on ANY leftpacket bow. Rightpacket retains SECONDsource loose texturedmesh plus silverrhinestones. Preserve this TWO-DIFFERENT-FABRIC distinction in01/02/03/05. Keep exactTWELVEbows/leftpacket andTWELVE/rightpacket, original sixcolourpairs each, original satincentres/loopshape/edgepanels. Do not addstones toleftpacket. Bottomleftmacro remains actualpinkmesh fromrightpacket, but previouslypassed04crop willbepreserved. Retain exact3x2 layout/sourcepositions.",
+      "sha256": "158bb86f552a2df9377625b21faa95532e5c1741ea51966fdb37a01bf5934eb4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-12fd3bf3-6a35-4e9b-a18d-5d85afbfcb6f.png",
+      "grid_sha256": "2c582d58099ba2f92b449cd0a90399d3fd80d16f7e643849db124fedf0629685",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Corrective actual512crop compared against BOTH originalpackets and realjacquardreference: TWO distinct packets, SIX colourcards each, TWO bows/card =24bows retained. Counted satin centre bands to verify two percolourgroup. FIRSTpacket now retains angular wovenjacquard WITHOUT silverrhinestones, SECONDpacket texturedmesh/rhinestones; mainbowloop shapes/colours/colourorder and clearpackaging retained. Fine weave/card typography differences accepted website-ready quality. Originalpassed macro preserved. Clean crop boundaries and correct fullview style.",
+      "corrective_attempt": 1
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-12fd3bf3-6a35-4e9b-a18d-5d85afbfcb6f.png",
+      "prompt": "Edit the referenced original(s) faithfully into ONE landscape1536x1024 productphotography grid EXACT3equalcolumns x2equalrows six512squaretiles NOgutters/borders/panellabels. ALL TWO DISTINCT reference foreground bowclip packets together as ONE assortment, TWENTYFOUR bows TOTAL. EACH original packet SIX white cards in2columns3rows, TWO SAMECOLOUR bows/card,12bows/packet. FIRST packet wovenjacquard bows (no addedrhinestones), topcards burgundyleft/pinkright,middleivoryleft/tauperight,bottomnavyleft/palemauveright. SECOND packet texturedmesh bows withtiny scatteredsilverrhinestones, top pinkleft/burgundyright,middlecreamleft/tauperight,bottompeachleft/lilacright. Preserve original loopshapes,satincentralbands/fabricedges, exact24count/two12packets, original colours,textures, original clearwrapping/cards and overlap. Do NOT collapse two assortments toONE12bow packet. Exclude unrelated shopstock behind/inforeground edges. WholeassortmentONEproduct in every fullview, same mainidentity/count/shapes/colours sourcefrontview, fullyframed within eachtile margins no crossingboundaries. Removehands/shop/externalprice/salesoverlay only; do not addclaims. TOPLEFT01 fullassortment purewhite seamless softshadow. TOPMIDDLE02 fullassortment lavendercreamstyledstudio. TOPRIGHT03 fullassortmenton creamdressingtable insoftlyblurredlavenderroom noextraitems. BOTTOMLEFT04 standalone TIGHT MACRO ONLY actual texturedmesh fabric/satincentre/tiny silverrhinestones of one real bow, notwholeassortment. BOTTOMMIDDLE05 samefullassortment lavendercream withsmallaccurateheading FABRIC BOW CLIP COLLECTION only. BOTTOMRIGHT06 blankunusedcream. Website-ready realistic, no redesign or substitutedcount. CRITICAL MATERIAL CORRECTION: The LEFT packet is the FIRST original photograph: its fabric is smooth tight angular geometric woven JACQUARD as demonstrated in THIRD reference realpartcrop, with visible small interlocking angular dark/light stitches. NOT openmesh, NOT lace, NO rhinestones/white speckles on ANY leftpacket bow. Rightpacket retains SECONDsource loose texturedmesh plus silverrhinestones. Preserve this TWO-DIFFERENT-FABRIC distinction in01/02/03/05. Keep exactTWELVEbows/leftpacket andTWELVE/rightpacket, original sixcolourpairs each, original satincentres/loopshape/edgepanels. Do not addstones toleftpacket. Bottomleftmacro remains actualpinkmesh fromrightpacket, but previouslypassed04crop willbepreserved. Retain exact3x2 layout/sourcepositions.",
+      "sha256": "2a34b6ea65638f3c33aebe8c2b330f2f97d9d7a66fe4e2889bf84d1217a69926",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-12fd3bf3-6a35-4e9b-a18d-5d85afbfcb6f.png",
+      "grid_sha256": "2c582d58099ba2f92b449cd0a90399d3fd80d16f7e643849db124fedf0629685",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Corrective actual512crop compared against BOTH originalpackets and realjacquardreference: TWO distinct packets, SIX colourcards each, TWO bows/card =24bows retained. Counted satin centre bands to verify two percolourgroup. FIRSTpacket now retains angular wovenjacquard WITHOUT silverrhinestones, SECONDpacket texturedmesh/rhinestones; mainbowloop shapes/colours/colourorder and clearpackaging retained. Fine weave/card typography differences accepted website-ready quality. Originalpassed macro preserved. Clean crop boundaries and correct fullview style.",
+      "corrective_attempt": 1
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-12fd3bf3-6a35-4e9b-a18d-5d85afbfcb6f.png",
+      "prompt": "Edit the referenced original(s) faithfully into ONE landscape1536x1024 productphotography grid EXACT3equalcolumns x2equalrows six512squaretiles NOgutters/borders/panellabels. ALL TWO DISTINCT reference foreground bowclip packets together as ONE assortment, TWENTYFOUR bows TOTAL. EACH original packet SIX white cards in2columns3rows, TWO SAMECOLOUR bows/card,12bows/packet. FIRST packet wovenjacquard bows (no addedrhinestones), topcards burgundyleft/pinkright,middleivoryleft/tauperight,bottomnavyleft/palemauveright. SECOND packet texturedmesh bows withtiny scatteredsilverrhinestones, top pinkleft/burgundyright,middlecreamleft/tauperight,bottompeachleft/lilacright. Preserve original loopshapes,satincentralbands/fabricedges, exact24count/two12packets, original colours,textures, original clearwrapping/cards and overlap. Do NOT collapse two assortments toONE12bow packet. Exclude unrelated shopstock behind/inforeground edges. WholeassortmentONEproduct in every fullview, same mainidentity/count/shapes/colours sourcefrontview, fullyframed within eachtile margins no crossingboundaries. Removehands/shop/externalprice/salesoverlay only; do not addclaims. TOPLEFT01 fullassortment purewhite seamless softshadow. TOPMIDDLE02 fullassortment lavendercreamstyledstudio. TOPRIGHT03 fullassortmenton creamdressingtable insoftlyblurredlavenderroom noextraitems. BOTTOMLEFT04 standalone TIGHT MACRO ONLY actual texturedmesh fabric/satincentre/tiny silverrhinestones of one real bow, notwholeassortment. BOTTOMMIDDLE05 samefullassortment lavendercream withsmallaccurateheading FABRIC BOW CLIP COLLECTION only. BOTTOMRIGHT06 blankunusedcream. Website-ready realistic, no redesign or substitutedcount. CRITICAL MATERIAL CORRECTION: The LEFT packet is the FIRST original photograph: its fabric is smooth tight angular geometric woven JACQUARD as demonstrated in THIRD reference realpartcrop, with visible small interlocking angular dark/light stitches. NOT openmesh, NOT lace, NO rhinestones/white speckles on ANY leftpacket bow. Rightpacket retains SECONDsource loose texturedmesh plus silverrhinestones. Preserve this TWO-DIFFERENT-FABRIC distinction in01/02/03/05. Keep exactTWELVEbows/leftpacket andTWELVE/rightpacket, original sixcolourpairs each, original satincentres/loopshape/edgepanels. Do not addstones toleftpacket. Bottomleftmacro remains actualpinkmesh fromrightpacket, but previouslypassed04crop willbepreserved. Retain exact3x2 layout/sourcepositions.",
+      "sha256": "6d5883a868d8f1ff04a84fe38003cabc072a62d7d11503889783eb3f90e80ded",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-12fd3bf3-6a35-4e9b-a18d-5d85afbfcb6f.png",
+      "grid_sha256": "2c582d58099ba2f92b449cd0a90399d3fd80d16f7e643849db124fedf0629685",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Corrective actual512crop compared against BOTH originalpackets and realjacquardreference: TWO distinct packets, SIX colourcards each, TWO bows/card =24bows retained. Counted satin centre bands to verify two percolourgroup. FIRSTpacket now retains angular wovenjacquard WITHOUT silverrhinestones, SECONDpacket texturedmesh/rhinestones; mainbowloop shapes/colours/colourorder and clearpackaging retained. Fine weave/card typography differences accepted website-ready quality. Originalpassed macro preserved. Clean crop boundaries and correct fullview style.",
+      "corrective_attempt": 1
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-12fd3bf3-6a35-4e9b-a18d-5d85afbfcb6f.png",
+      "prompt": "Edit the referenced original(s) faithfully into ONE landscape1536x1024 productphotography grid EXACT3equalcolumns x2equalrows six512squaretiles NOgutters/borders/panellabels. ALL TWO DISTINCT reference foreground bowclip packets together as ONE assortment, TWENTYFOUR bows TOTAL. EACH original packet SIX white cards in2columns3rows, TWO SAMECOLOUR bows/card,12bows/packet. FIRST packet wovenjacquard bows (no addedrhinestones), topcards burgundyleft/pinkright,middleivoryleft/tauperight,bottomnavyleft/palemauveright. SECOND packet texturedmesh bows withtiny scatteredsilverrhinestones, top pinkleft/burgundyright,middlecreamleft/tauperight,bottompeachleft/lilacright. Preserve original loopshapes,satincentralbands/fabricedges, exact24count/two12packets, original colours,textures, original clearwrapping/cards and overlap. Do NOT collapse two assortments toONE12bow packet. Exclude unrelated shopstock behind/inforeground edges. WholeassortmentONEproduct in every fullview, same mainidentity/count/shapes/colours sourcefrontview, fullyframed within eachtile margins no crossingboundaries. Removehands/shop/externalprice/salesoverlay only; do not addclaims. TOPLEFT01 fullassortment purewhite seamless softshadow. TOPMIDDLE02 fullassortment lavendercreamstyledstudio. TOPRIGHT03 fullassortmenton creamdressingtable insoftlyblurredlavenderroom noextraitems. BOTTOMLEFT04 standalone TIGHT MACRO ONLY actual texturedmesh fabric/satincentre/tiny silverrhinestones of one real bow, notwholeassortment. BOTTOMMIDDLE05 samefullassortment lavendercream withsmallaccurateheading FABRIC BOW CLIP COLLECTION only. BOTTOMRIGHT06 blankunusedcream. Website-ready realistic, no redesign or substitutedcount. CRITICAL MATERIAL CORRECTION: The LEFT packet is the FIRST original photograph: its fabric is smooth tight angular geometric woven JACQUARD as demonstrated in THIRD reference realpartcrop, with visible small interlocking angular dark/light stitches. NOT openmesh, NOT lace, NO rhinestones/white speckles on ANY leftpacket bow. Rightpacket retains SECONDsource loose texturedmesh plus silverrhinestones. Preserve this TWO-DIFFERENT-FABRIC distinction in01/02/03/05. Keep exactTWELVEbows/leftpacket andTWELVE/rightpacket, original sixcolourpairs each, original satincentres/loopshape/edgepanels. Do not addstones toleftpacket. Bottomleftmacro remains actualpinkmesh fromrightpacket, but previouslypassed04crop willbepreserved. Retain exact3x2 layout/sourcepositions.",
+      "sha256": "c696816fd2bb7191565d63957ed7ec2d17e0fed635ddca5cf1183e926d6ad568",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-12fd3bf3-6a35-4e9b-a18d-5d85afbfcb6f.png",
+      "grid_sha256": "2c582d58099ba2f92b449cd0a90399d3fd80d16f7e643849db124fedf0629685",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Corrective actual512crop compared against BOTH originalpackets and realjacquardreference: TWO distinct packets, SIX colourcards each, TWO bows/card =24bows retained. Counted satin centre bands to verify two percolourgroup. FIRSTpacket now retains angular wovenjacquard WITHOUT silverrhinestones, SECONDpacket texturedmesh/rhinestones; mainbowloop shapes/colours/colourorder and clearpackaging retained. Fine weave/card typography differences accepted website-ready quality. Originalpassed macro preserved. Clean crop boundaries and correct fullview style. Accurate FABRIC BOW CLIP COLLECTION heading, all24bows framed.",
+      "corrective_attempt": 1
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Two distinct12bow fabric hairclip packets,24bows total: jacquard and mesh/rhinestone",
+  "original_baseline_verified": true,
+  "corrective_attempts_spent": [
+    "01_White-Background",
+    "02_Styled-Background",
+    "03_Lifestyle",
+    "05_Promotional"
+  ]
+}

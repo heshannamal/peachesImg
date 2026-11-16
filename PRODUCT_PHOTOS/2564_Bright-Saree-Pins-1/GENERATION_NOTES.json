@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260930-WA0082.jpg": "3eda4483be4d06bd55c5ea4ff9c8dbba1b41b11cbd6c331b1e56091e8ad2d521"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-4a4c5e56-ee08-444f-ba5b-e4ad2930811d.png",
+      "source_output": "/workspace/generated_images/exec-4a4c5e56-ee08-444f-ba5b-e4ad2930811d.png",
+      "sha256": "5758992a87c1cc7314762e50c55617b5b2d2a7c18cbd964b6a34f3c74bf11ee7",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Beaded Saree & Abaya Pins\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual product TWELVE gold-tone decorative safety-pins on ONE longwhitecard. Each pinhas THREE roundMARBLED glassbeads: ONElargercentralroundbead flankedbyTWOsmallersamecolourroundbeads, goldspacers. Eachtrio onecolourwithfinewhite/blackmarbledswirls. Exact source top-to-bottom twelvepincolours:RED,NAVYBLUE,TURQUOISEBLUE,DARKBROWN,WHITE,RED,NAVYBLUE,TURQUOISEBLUE,DARKBROWN,WHITE,RED,NAVYBLUE. Preserveall12pins36beads anddistinctsizes/colours/goldcurvedclasps. Fullviews1/2/3/5 mustshow ALLTWELVE wholepins together, not11. Nothearts,notflowerbrooches,not4equalbeads. Detail tight standalone macroof realcentralREDmarbledroundbead andgoldspacer, notfullpin. Remove hand/pricebanner.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-4a4c5e56-ee08-444f-ba5b-e4ad2930811d.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Beaded Saree & Abaya Pins\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual product TWELVE gold-tone decorative safety-pins on ONE longwhitecard. Each pinhas THREE roundMARBLED glassbeads: ONElargercentralroundbead flankedbyTWOsmallersamecolourroundbeads, goldspacers. Eachtrio onecolourwithfinewhite/blackmarbledswirls. Exact source top-to-bottom twelvepincolours:RED,NAVYBLUE,TURQUOISEBLUE,DARKBROWN,WHITE,RED,NAVYBLUE,TURQUOISEBLUE,DARKBROWN,WHITE,RED,NAVYBLUE. Preserveall12pins36beads anddistinctsizes/colours/goldcurvedclasps. Fullviews1/2/3/5 mustshow ALLTWELVE wholepins together, not11. Nothearts,notflowerbrooches,not4equalbeads. Detail tight standalone macroof realcentralREDmarbledroundbead andgoldspacer, notfullpin. Remove hand/pricebanner.",
+      "sha256": "da8a2c95ea9b89ae832f7d6f8ec9443670215a1e53ff1c61374105a1cf12ec84",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4a4c5e56-ee08-444f-ba5b-e4ad2930811d.png",
+      "grid_sha256": "5758992a87c1cc7314762e50c55617b5b2d2a7c18cbd964b6a34f3c74bf11ee7",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual grid/crops reviewed: Twelve marbled-round-bead saree/abaya safety pins, largecentre andtwosmallerbeads each,sourcecolourorder. All12pins countable in white/styled/lifestyle/promo. Source roundbeads andgoldwire retained; standalone tightmacro andaccurateheadingpassed. Website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-4a4c5e56-ee08-444f-ba5b-e4ad2930811d.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Beaded Saree & Abaya Pins\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual product TWELVE gold-tone decorative safety-pins on ONE longwhitecard. Each pinhas THREE roundMARBLED glassbeads: ONElargercentralroundbead flankedbyTWOsmallersamecolourroundbeads, goldspacers. Eachtrio onecolourwithfinewhite/blackmarbledswirls. Exact source top-to-bottom twelvepincolours:RED,NAVYBLUE,TURQUOISEBLUE,DARKBROWN,WHITE,RED,NAVYBLUE,TURQUOISEBLUE,DARKBROWN,WHITE,RED,NAVYBLUE. Preserveall12pins36beads anddistinctsizes/colours/goldcurvedclasps. Fullviews1/2/3/5 mustshow ALLTWELVE wholepins together, not11. Nothearts,notflowerbrooches,not4equalbeads. Detail tight standalone macroof realcentralREDmarbledroundbead andgoldspacer, notfullpin. Remove hand/pricebanner.",
+      "sha256": "e8b011f0752859b5ba97cd960c919e48b7e7e03c79d8722430c4f9ee83abd00a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4a4c5e56-ee08-444f-ba5b-e4ad2930811d.png",
+      "grid_sha256": "5758992a87c1cc7314762e50c55617b5b2d2a7c18cbd964b6a34f3c74bf11ee7",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual grid/crops reviewed: Twelve marbled-round-bead saree/abaya safety pins, largecentre andtwosmallerbeads each,sourcecolourorder. All12pins countable in white/styled/lifestyle/promo. Source roundbeads andgoldwire retained; standalone tightmacro andaccurateheadingpassed. Website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-4a4c5e56-ee08-444f-ba5b-e4ad2930811d.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Beaded Saree & Abaya Pins\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual product TWELVE gold-tone decorative safety-pins on ONE longwhitecard. Each pinhas THREE roundMARBLED glassbeads: ONElargercentralroundbead flankedbyTWOsmallersamecolourroundbeads, goldspacers. Eachtrio onecolourwithfinewhite/blackmarbledswirls. Exact source top-to-bottom twelvepincolours:RED,NAVYBLUE,TURQUOISEBLUE,DARKBROWN,WHITE,RED,NAVYBLUE,TURQUOISEBLUE,DARKBROWN,WHITE,RED,NAVYBLUE. Preserveall12pins36beads anddistinctsizes/colours/goldcurvedclasps. Fullviews1/2/3/5 mustshow ALLTWELVE wholepins together, not11. Nothearts,notflowerbrooches,not4equalbeads. Detail tight standalone macroof realcentralREDmarbledroundbead andgoldspacer, notfullpin. Remove hand/pricebanner.",
+      "sha256": "7b568b07aae822bec0a0a55ce355d3e95dfc0fa70df2bb5a1b16cf4f0f8f40f8",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4a4c5e56-ee08-444f-ba5b-e4ad2930811d.png",
+      "grid_sha256": "5758992a87c1cc7314762e50c55617b5b2d2a7c18cbd964b6a34f3c74bf11ee7",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual grid/crops reviewed: Twelve marbled-round-bead saree/abaya safety pins, largecentre andtwosmallerbeads each,sourcecolourorder. All12pins countable in white/styled/lifestyle/promo. Source roundbeads andgoldwire retained; standalone tightmacro andaccurateheadingpassed. Website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-4a4c5e56-ee08-444f-ba5b-e4ad2930811d.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Beaded Saree & Abaya Pins\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual product TWELVE gold-tone decorative safety-pins on ONE longwhitecard. Each pinhas THREE roundMARBLED glassbeads: ONElargercentralroundbead flankedbyTWOsmallersamecolourroundbeads, goldspacers. Eachtrio onecolourwithfinewhite/blackmarbledswirls. Exact source top-to-bottom twelvepincolours:RED,NAVYBLUE,TURQUOISEBLUE,DARKBROWN,WHITE,RED,NAVYBLUE,TURQUOISEBLUE,DARKBROWN,WHITE,RED,NAVYBLUE. Preserveall12pins36beads anddistinctsizes/colours/goldcurvedclasps. Fullviews1/2/3/5 mustshow ALLTWELVE wholepins together, not11. Nothearts,notflowerbrooches,not4equalbeads. Detail tight standalone macroof realcentralREDmarbledroundbead andgoldspacer, notfullpin. Remove hand/pricebanner.",
+      "sha256": "7266105c5b2d3b133a15f21550804a15780a3c75a1c5ccb757ee04aa36ef0075",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4a4c5e56-ee08-444f-ba5b-e4ad2930811d.png",
+      "grid_sha256": "5758992a87c1cc7314762e50c55617b5b2d2a7c18cbd964b6a34f3c74bf11ee7",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual grid/crops reviewed: Twelve marbled-round-bead saree/abaya safety pins, largecentre andtwosmallerbeads each,sourcecolourorder. All12pins countable in white/styled/lifestyle/promo. Source roundbeads andgoldwire retained; standalone tightmacro andaccurateheadingpassed. Website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-4a4c5e56-ee08-444f-ba5b-e4ad2930811d.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Beaded Saree & Abaya Pins\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual product TWELVE gold-tone decorative safety-pins on ONE longwhitecard. Each pinhas THREE roundMARBLED glassbeads: ONElargercentralroundbead flankedbyTWOsmallersamecolourroundbeads, goldspacers. Eachtrio onecolourwithfinewhite/blackmarbledswirls. Exact source top-to-bottom twelvepincolours:RED,NAVYBLUE,TURQUOISEBLUE,DARKBROWN,WHITE,RED,NAVYBLUE,TURQUOISEBLUE,DARKBROWN,WHITE,RED,NAVYBLUE. Preserveall12pins36beads anddistinctsizes/colours/goldcurvedclasps. Fullviews1/2/3/5 mustshow ALLTWELVE wholepins together, not11. Nothearts,notflowerbrooches,not4equalbeads. Detail tight standalone macroof realcentralREDmarbledroundbead andgoldspacer, notfullpin. Remove hand/pricebanner.",
+      "sha256": "4c4f04d7b68126c0c129a858a5cdad2a2a476d70eb0294a49d57f31835fc25fc",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4a4c5e56-ee08-444f-ba5b-e4ad2930811d.png",
+      "grid_sha256": "5758992a87c1cc7314762e50c55617b5b2d2a7c18cbd964b6a34f3c74bf11ee7",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual grid/crops reviewed: Twelve marbled-round-bead saree/abaya safety pins, largecentre andtwosmallerbeads each,sourcecolourorder. All12pins countable in white/styled/lifestyle/promo. Source roundbeads andgoldwire retained; standalone tightmacro andaccurateheadingpassed. Website-ready."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Twelve marbled-round-bead saree/abaya safety pins, largecentre andtwosmallerbeads each,sourcecolourorder",
+  "originals_verified_against_frozen_plan": true
+}

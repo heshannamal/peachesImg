@@ -1,0 +1,15 @@
+{
+  "tool": "native image_gen",
+  "whole_assortment": true,
+  "status": "blocked_moderation",
+  "records": [],
+  "original_hashes": {
+    "Originals/IMG-20260929-WA0129.jpg": "55b7735ce03fb9fdf0a3507d1a146e4abf419ffac510cfd88eccd4bdd635832d"
+  },
+  "blocked_attempt": {
+    "prompt": "Edit the supplied actual original product photo into ONE website-ready landscape 1536x1024 image: borderless 3 columns \u00d7 2 rows, six equal 512\u00d7512 cells, exact split lines x512,x1024,y512. Preserve photographed product identity, count, colours, shapes and original motifs. Remove floating price/catalogue overlays and surrounding clutter only. Top row: white studio full assortment; lavender/cream styled full assortment; natural desk lifestyle full assortment. Bottom row: standalone tight macro of a real grille/button part only; promotional full assortment with accurate heading; blank cream unused. No stock substitutes, no extra sellable props, no duplicate or missing products. Subject exactly TWO handheld character fans on matching standing bases: one pale pink on LEFT with pink grille and pink character artwork, one pale blue on RIGHT with pale blue grille and blue character artwork. Preserve actual circular spiral/radial grilles, white blades, circular button, rounded cylindrical grips, label artwork, base shape. Remove floating background character illustrations and Chinese specification/price text; retain labels physically printed on real fans. Each full view exactly two fans and two bases. Detail tight real blue grille/button. Promo heading 'Character Mini Fans'.\n",
+    "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 46da8f40-0f7f-4d54-9385-58164e8a8f32.\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"other\\\"\\n      ]\\n    }\\n  }\\n}\")\n",
+    "request_id": "46da8f40-0f7f-4d54-9385-58164e8a8f32",
+    "retry": false
+  }
+}

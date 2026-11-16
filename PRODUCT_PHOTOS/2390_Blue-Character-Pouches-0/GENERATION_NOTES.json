@@ -1,0 +1,23 @@
+{
+  "records": [
+    {
+      "kind": "exact_prompt_file",
+      "saved_file": "Generation_Prompts/initial.txt",
+      "sha256": "1c8f38ce34e579801ce65cde8f8b86385d5038ffe5e83c0d827190757f172592",
+      "checked": false
+    }
+  ],
+  "status": "blocked_moderation",
+  "error": {
+    "http_status": 400,
+    "type": "image_generation_user_error",
+    "code": "moderation_blocked",
+    "moderation_stage": "output",
+    "categories": [
+      "other"
+    ],
+    "request_id": "a04222ea-7dfd-4d5c-8f15-cb90860845f6",
+    "message": "Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID a04222ea-7dfd-4d5c-8f15-cb90860845f6."
+  },
+  "prompt": "Edit the attached original product photograph into ONE website-ready 1536x1024 image divided into an EXACT 3-column by 2-row grid, each cell 512x512, no gutters or borders, no objects crossing cell boundaries. The whole assortment is exactly TWO soft rectangular plush zip pouches: one saturated royal blue and one pale sky blue. Both have matching blue zipper and short hanging tab, embroidered Stitch character with pink ears and feet and the word Stitch. Preserve two pouches, exact blue shades, fuzzy texture, rectangular proportions, embroidery and silver zipper pull. Original is a diptych of the two colors; arrange BOTH physical pouches together in each full view; no additional pouch. Heading: Blue Character Pouches. Preserve actual product count, identity, shape, colours and packaging. Top left: entire assortment on pure white. Top middle: entire same assortment on lavender and cream styled backdrop. Top right: same entire assortment in a simple relevant tabletop lifestyle setting, no other products. Bottom left: standalone TIGHT macro of a real part from original, not entire assortment; preserve the actual material and detail. Bottom middle: entire assortment promotional composition with only the accurate heading given above, no price or claims. Bottom right: blank cream. No hand, store surroundings, original price overlays, invented accessories or new variants. All five cells independently useful, product large, crisp and photorealistic."
+}

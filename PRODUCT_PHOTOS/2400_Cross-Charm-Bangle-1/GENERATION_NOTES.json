@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260916-WA0102.jpg": "5bc35339289fc6a1b2e29fb4cc8774ee55833417dcfac9b543713ca0b014d82e"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-a748de6f-5955-4ea0-9a3b-80a49f2cb12a.png",
+      "source_output": "/workspace/generated_images/exec-a748de6f-5955-4ea0-9a3b-80a49f2cb12a.png",
+      "sha256": "faff07f3621edb5afffb4104a875b9c5102a45e70b2d7ed8beca8f06b1d924ec",
+      "prompt": "Original-referenced edit ONLY. Make1536x1024 exact3x2equal512cells contact sheet no gutters: topwhitebackground, lavendercreamstyled, lifestyle jewellerytray; bottom TIGHTstandalone realpartmacro, promotional with heading \"Cross Charm Bangle\", blankcream. Actual ONE gold-tone round openwire cuff bangle, two big polishedball terminals atgap, three pairs small roundbeads spacedaroundthinwire, ONE hanging plain gold CROSS charm betweenbottombeadpair. Preserve exact source singlebangle, gap, ballends, thinwire, SIXsmallbeads, charmshape andgoldcolour. All4fullviewsonewholebangle+wholecharm, generousmargins; no otherjewellery. Macro tight plain gold CROSScharm/jumpring andtwo smallbeads only, no entirebangle. Lifestyleoncreamvanitywithsubtlecloth, no handneeded. Removeprice/warranty/claims; accurateheadingonlypromo. Do not changecharm toother shapes. Websitequality.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-a748de6f-5955-4ea0-9a3b-80a49f2cb12a.png",
+      "prompt": "Original-referenced edit ONLY. Make1536x1024 exact3x2equal512cells contact sheet no gutters: topwhitebackground, lavendercreamstyled, lifestyle jewellerytray; bottom TIGHTstandalone realpartmacro, promotional with heading \"Cross Charm Bangle\", blankcream. Actual ONE gold-tone round openwire cuff bangle, two big polishedball terminals atgap, three pairs small roundbeads spacedaroundthinwire, ONE hanging plain gold CROSS charm betweenbottombeadpair. Preserve exact source singlebangle, gap, ballends, thinwire, SIXsmallbeads, charmshape andgoldcolour. All4fullviewsonewholebangle+wholecharm, generousmargins; no otherjewellery. Macro tight plain gold CROSScharm/jumpring andtwo smallbeads only, no entirebangle. Lifestyleoncreamvanitywithsubtlecloth, no handneeded. Removeprice/warranty/claims; accurateheadingonlypromo. Do not changecharm toother shapes. Websitequality.",
+      "sha256": "780ac36fba4162f56f724658f9837c37fcf4f79f629b3b57f59777a62f872c59",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a748de6f-5955-4ea0-9a3b-80a49f2cb12a.png",
+      "grid_sha256": "faff07f3621edb5afffb4104a875b9c5102a45e70b2d7ed8beca8f06b1d924ec",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "One whole gold thinwire open cuff preserved with two ballends, six small beads, single accurate cross charm. Correct white/lavender/lifestyle tray settings; macro tight actual charm attachment; accurate promotional heading and margins."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-a748de6f-5955-4ea0-9a3b-80a49f2cb12a.png",
+      "prompt": "Original-referenced edit ONLY. Make1536x1024 exact3x2equal512cells contact sheet no gutters: topwhitebackground, lavendercreamstyled, lifestyle jewellerytray; bottom TIGHTstandalone realpartmacro, promotional with heading \"Cross Charm Bangle\", blankcream. Actual ONE gold-tone round openwire cuff bangle, two big polishedball terminals atgap, three pairs small roundbeads spacedaroundthinwire, ONE hanging plain gold CROSS charm betweenbottombeadpair. Preserve exact source singlebangle, gap, ballends, thinwire, SIXsmallbeads, charmshape andgoldcolour. All4fullviewsonewholebangle+wholecharm, generousmargins; no otherjewellery. Macro tight plain gold CROSScharm/jumpring andtwo smallbeads only, no entirebangle. Lifestyleoncreamvanitywithsubtlecloth, no handneeded. Removeprice/warranty/claims; accurateheadingonlypromo. Do not changecharm toother shapes. Websitequality.",
+      "sha256": "8b008510510310fc490f16317f8c328cc0c9fd5322b2cf94af4a2c5813379076",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a748de6f-5955-4ea0-9a3b-80a49f2cb12a.png",
+      "grid_sha256": "faff07f3621edb5afffb4104a875b9c5102a45e70b2d7ed8beca8f06b1d924ec",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "One whole gold thinwire open cuff preserved with two ballends, six small beads, single accurate cross charm. Correct white/lavender/lifestyle tray settings; macro tight actual charm attachment; accurate promotional heading and margins."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-a748de6f-5955-4ea0-9a3b-80a49f2cb12a.png",
+      "prompt": "Original-referenced edit ONLY. Make1536x1024 exact3x2equal512cells contact sheet no gutters: topwhitebackground, lavendercreamstyled, lifestyle jewellerytray; bottom TIGHTstandalone realpartmacro, promotional with heading \"Cross Charm Bangle\", blankcream. Actual ONE gold-tone round openwire cuff bangle, two big polishedball terminals atgap, three pairs small roundbeads spacedaroundthinwire, ONE hanging plain gold CROSS charm betweenbottombeadpair. Preserve exact source singlebangle, gap, ballends, thinwire, SIXsmallbeads, charmshape andgoldcolour. All4fullviewsonewholebangle+wholecharm, generousmargins; no otherjewellery. Macro tight plain gold CROSScharm/jumpring andtwo smallbeads only, no entirebangle. Lifestyleoncreamvanitywithsubtlecloth, no handneeded. Removeprice/warranty/claims; accurateheadingonlypromo. Do not changecharm toother shapes. Websitequality.",
+      "sha256": "411c8dfc2946e64b920216d6cf99c482acbea8ccca536c48da2d168b62d4ddb6",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a748de6f-5955-4ea0-9a3b-80a49f2cb12a.png",
+      "grid_sha256": "faff07f3621edb5afffb4104a875b9c5102a45e70b2d7ed8beca8f06b1d924ec",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "One whole gold thinwire open cuff preserved with two ballends, six small beads, single accurate cross charm. Correct white/lavender/lifestyle tray settings; macro tight actual charm attachment; accurate promotional heading and margins."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-a748de6f-5955-4ea0-9a3b-80a49f2cb12a.png",
+      "prompt": "Original-referenced edit ONLY. Make1536x1024 exact3x2equal512cells contact sheet no gutters: topwhitebackground, lavendercreamstyled, lifestyle jewellerytray; bottom TIGHTstandalone realpartmacro, promotional with heading \"Cross Charm Bangle\", blankcream. Actual ONE gold-tone round openwire cuff bangle, two big polishedball terminals atgap, three pairs small roundbeads spacedaroundthinwire, ONE hanging plain gold CROSS charm betweenbottombeadpair. Preserve exact source singlebangle, gap, ballends, thinwire, SIXsmallbeads, charmshape andgoldcolour. All4fullviewsonewholebangle+wholecharm, generousmargins; no otherjewellery. Macro tight plain gold CROSScharm/jumpring andtwo smallbeads only, no entirebangle. Lifestyleoncreamvanitywithsubtlecloth, no handneeded. Removeprice/warranty/claims; accurateheadingonlypromo. Do not changecharm toother shapes. Websitequality.",
+      "sha256": "f0f1ad0a804ad13d068ec6701ece8246ef8101b7d74eee4d93f1f218340e31f6",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a748de6f-5955-4ea0-9a3b-80a49f2cb12a.png",
+      "grid_sha256": "faff07f3621edb5afffb4104a875b9c5102a45e70b2d7ed8beca8f06b1d924ec",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "One whole gold thinwire open cuff preserved with two ballends, six small beads, single accurate cross charm. Correct white/lavender/lifestyle tray settings; macro tight actual charm attachment; accurate promotional heading and margins."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-a748de6f-5955-4ea0-9a3b-80a49f2cb12a.png",
+      "prompt": "Original-referenced edit ONLY. Make1536x1024 exact3x2equal512cells contact sheet no gutters: topwhitebackground, lavendercreamstyled, lifestyle jewellerytray; bottom TIGHTstandalone realpartmacro, promotional with heading \"Cross Charm Bangle\", blankcream. Actual ONE gold-tone round openwire cuff bangle, two big polishedball terminals atgap, three pairs small roundbeads spacedaroundthinwire, ONE hanging plain gold CROSS charm betweenbottombeadpair. Preserve exact source singlebangle, gap, ballends, thinwire, SIXsmallbeads, charmshape andgoldcolour. All4fullviewsonewholebangle+wholecharm, generousmargins; no otherjewellery. Macro tight plain gold CROSScharm/jumpring andtwo smallbeads only, no entirebangle. Lifestyleoncreamvanitywithsubtlecloth, no handneeded. Removeprice/warranty/claims; accurateheadingonlypromo. Do not changecharm toother shapes. Websitequality.",
+      "sha256": "a3dc9818527fba09b5b52007850158fd0c2f0c5bd549b4761a076382bcf63c97",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a748de6f-5955-4ea0-9a3b-80a49f2cb12a.png",
+      "grid_sha256": "faff07f3621edb5afffb4104a875b9c5102a45e70b2d7ed8beca8f06b1d924ec",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "One whole gold thinwire open cuff preserved with two ballends, six small beads, single accurate cross charm. Correct white/lavender/lifestyle tray settings; macro tight actual charm attachment; accurate promotional heading and margins."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "originals_verified_against_frozen_plan": true
+}

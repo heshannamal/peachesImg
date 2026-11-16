@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250303-WA0358.jpg": "2ddbabdca9d5e35124a9f14aa4766475b146e13b02b18ecd129cd31306cec210"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-f313071e-f75c-49a8-a7f5-3e70e82753ef.png",
+      "prompt": "Square website catalogue photo editing reference. Preserve the exact TWO overlapping brown wooden beaded bracelets shown: double rows of round tan beads and engraved rectangular brown wood blocks. Preserve both bracelet shapes, arrangement, bead spacing and visible Om engravings; retain occlusion, do not invent hidden beads. Clean white background, subtle shadow and improved clear lighting. Remove price overlay. No extra items or text.",
+      "sha256": "cc418f34d659f6388102110201e5d6248d085899b602d044ec96851a239ea881",
+      "checked": true,
+      "visual_review": "Viewed against original: bracelet count, wooden bead shapes, colours, engraving placement and main visible arrangement preserved. Macro uses existing engraved block. Website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-65f71f71-4152-4747-abda-7ae44d1d8174.png",
+      "prompt": "Square website styled photograph. Preserve the exact TWO overlapping brown wooden beaded bracelets shown: double rows of round tan beads and engraved rectangular brown wood blocks. Preserve both bracelet shapes, arrangement, bead spacing and visible Om engravings; retain occlusion, do not invent hidden beads. Keep exact same visible arrangement. Soft lavender and cream studio background, natural light. Remove price label, no text or additional jewellery.",
+      "sha256": "5a31cb9949532a5f2539fcb3e37b209677bf672a772287b60ad20e626b37eb34",
+      "checked": true,
+      "visual_review": "Viewed against original: bracelet count, wooden bead shapes, colours, engraving placement and main visible arrangement preserved. Macro uses existing engraved block. Website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-5be5818f-e2e1-4490-9561-7eca0cc4042b.png",
+      "prompt": "Square website lifestyle photograph. Preserve the exact TWO overlapping brown wooden beaded bracelets shown: double rows of round tan beads and engraved rectangular brown wood blocks. Preserve both bracelet shapes, arrangement, bead spacing and visible Om engravings; retain occlusion, do not invent hidden beads. Same exact product quantity, orientation and main shapes. Rest on cream console table, softly blurred lavender room, gentle daylight, no hands or extra jewellery, remove price text.",
+      "sha256": "fa1add30e553bb121d06309583937b5fd3c82138e02a7d47c3b0e073496661ad",
+      "checked": true,
+      "visual_review": "Viewed against original: bracelet count, wooden bead shapes, colours, engraving placement and main visible arrangement preserved. Macro uses existing engraved block. Website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-273d462c-e95d-4526-b91c-f0c084da4f5a.png",
+      "prompt": "Square standalone tight macro product photograph of actual front engraved brown wooden rectangular bead block and adjacent double rows of round beads from reference. Preserve visible carving and wood texture, real existing part only, cream softly lit background, no text or extra parts.",
+      "sha256": "e54b367fc246d816ca52832aef0631effc4904532d1187524f5b1356230c6e90",
+      "checked": true,
+      "visual_review": "Viewed against original: bracelet count, wooden bead shapes, colours, engraving placement and main visible arrangement preserved. Macro uses existing engraved block. Website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-1c7d3835-8b1a-4ead-be8b-91ab08247010.png",
+      "prompt": "Square website promotional photo. Preserve the exact TWO overlapping brown wooden beaded bracelets shown: double rows of round tan beads and engraved rectangular brown wood blocks. Preserve both bracelet shapes, arrangement, bead spacing and visible Om engravings; retain occlusion, do not invent hidden beads. Same quantity and arrangement. Lavender cream background, small dark plum heading 'Brown Wooden Bracelets', subtitle 'PRODUCT COLLECTION'. Remove price label, no extra jewellery or hands.",
+      "sha256": "2f47f08115ab2b0c9f23d389b98ac574ac1a886f2b166ef05d053ed28cea8d0e",
+      "checked": true,
+      "visual_review": "Viewed against original: bracelet count, wooden bead shapes, colours, engraving placement and main visible arrangement preserved. Macro uses existing engraved block. Website-ready."
+    }
+  ],
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

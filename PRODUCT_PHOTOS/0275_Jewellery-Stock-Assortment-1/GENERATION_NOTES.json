@@ -1,0 +1,60 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250305-WA0362.jpg": "953597bbeabc9cc551cd6caeca68b999b3536257b3e1a51a1ebb2f0886b88981"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-4f793175-23df-4d40-b2d8-7bc31453a3e2.png",
+      "prompt": "Edit source into square website-ready catalogue photo of ENTIRE original hair-accessory stock display assortment as oneproduct. Preserve exactly every visible stack of clear carded clip packs, bows, bears, hearts, cartoon snaps, plastic boxes and coloured accessory boxes, exact original positions/count/overlap/cropped edges. Do not expand hidden pieces, simplify stacks, rearrange or invent items. Replace only surrounding shop floor/background with seamless white studio surround and improve illumination. Retain supporting cartons where needed and all foreground products unchanged. No new text, no added products. Full original assortment shown.",
+      "sha256": "aca2fa7b4f3bac81de2d50ced307b4ef207d93d484651d7230752db19d67da35",
+      "checked": true,
+      "visual_review": "Compared actual output with original: main visible arrangement, subject forms and colours retained; minor fine print and dense stock-level detail differences accepted for website-ready quality."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-e28c842b-c5b5-41db-bdd4-241a4fc29440.png",
+      "prompt": "Edit source into square website-ready catalogue photo of ENTIRE original hair-accessory stock display assortment as oneproduct. Preserve exactly every visible stack of clear carded clip packs, bows, bears, hearts, cartoon snaps, plastic boxes and coloured accessory boxes, exact original positions/count/overlap/cropped edges. Do not expand hidden pieces, simplify stacks, rearrange or invent items. Replace only surrounding shop floor/background with seamless white studio surround and improve illumination. Retain supporting cartons where needed and all foreground products unchanged. No new text, no added products. Full original assortment shown. Styled variant: surrounding background lavender and cream studio, preserve exact full original stock display and supporting cartons.",
+      "sha256": "0db7fe720f1b0cd495b05aa4669a3fe4b5acff714982d24308c9aa9973f8130f",
+      "checked": true,
+      "visual_review": "Viewed actual styled output against original: main product identities, count/stack arrangement, packaging and colours retained. Lavender/cream setting; minor fine detail differences accepted."
+    },
+    {
+      "saved_file": "Rejected/03_Lifestyle-collage.png",
+      "source_output": "/workspace/generated_images/exec-76a7f998-3207-481d-acfc-50fd9a90236a.png",
+      "prompt": "Edit source into square website-ready catalogue photo of ENTIRE original hair-accessory stock display assortment as oneproduct. Preserve exactly every visible stack of clear carded clip packs, bows, bears, hearts, cartoon snaps, plastic boxes and coloured accessory boxes, exact original positions/count/overlap/cropped edges. Do not expand hidden pieces, simplify stacks, rearrange or invent items. Replace only surrounding shop floor/background with seamless white studio surround and improve illumination. Retain supporting cartons where needed and all foreground products unchanged. No new text, no added products. Full original assortment shown. Lifestyle variant: the ENTIRE same original display on cream retail display platform, softly blurred lavender boutique behind, all original front products and cartons identical.",
+      "sha256": "e268ae3b3de75b50d0b3fb26317b0287c59871f6c43df96bab01cd3fa25a0109",
+      "checked": false,
+      "visual_review": "Rejected material view-type error: split collage duplicates assortment; one clean lifestyle corrective allowed."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-174374cc-4a14-4148-87a9-ff4141bd0c68.png",
+      "prompt": "ONE SINGLE photograph, no split panels or collage. Website lifestyle photo of original ENTIRE hairaccessory stock assortment in its exact source layout, stacks of carded clips/bows/bears/hearts in clearboxes and colouredaccessory boxes with supportingcartons. Preserve all visible originalobjects count,shapes,colours and overlap, do not expand hiddenitems. Place whole source display on cream retail platform in softly blurred lavender boutique. Source products fill frame. Remove shopfloor/distractions only. NO white-background inset, no duplicate display, no added products/text.",
+      "sha256": "26e76e8691382e50c3e99f9a3de44090a0efa9f6288c24f3daff7b474bf655c0",
+      "checked": true,
+      "visual_review": "Corrective actual output checked: one continuous lifestyle photograph, source main visible arrangement/product identities/colours and packaging retained; no duplicated inset. Minor dense fine-detail variations accepted."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-afe2c400-3d23-4787-89bc-939be38d9b66.png",
+      "prompt": "Single tight standalone macro photograph cropped from original foreground cream-and-brown textured bear-shaped hair clips on white bow-pattern backing card. Show real visible bear faces, small dark bead eyes, woven textured surface and striped/plaid fabric bows under clearplastic, same existing material/shape/colour. Fill frame with just existing part, not full stock display, no newobject/text/hiddenparts, soft daylight.",
+      "sha256": "d414b2bf939ace28e0f17a2da26031adff7a23c8d5e875f10a2b5195aebe8bd5",
+      "checked": true,
+      "visual_review": "Viewed actual tight standalone detail against visible source part: existing textured cream/brown bear clip and plaid bows retained; no fullstock scene."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-3711c408-10aa-4bc0-884b-1a16c8d2adfc.png",
+      "prompt": "ONE SINGLE continuous promotional product photograph of entire original hairaccessory stock assortment in same source layout: all carded clips/bears/hearts/bows/plastic boxes and cartons exactly as visible, same stacks, colours, shapes, count and overlaps. Surrounding background lavender and cream studio. Preserve all sourceproducts, no invented hiddenitems. Small heading HAIR ACCESSORY COLLECTION in clear topmargin. No price, no collage, no duplicatedisplay. Website-ready realisticphoto.",
+      "sha256": "01dfed773d0e2225f9b895ff91147c45038b8e21f26c453ad0625b1bf8129024",
+      "checked": true,
+      "visual_review": "Actual promotional output viewed against original: whole main assortment arrangement/identity/colours retained, accurate heading; minor fineprint differences accepted."
+    }
+  ],
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

@@ -1,0 +1,21 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260602-WA0671.jpg": "589e56c8995cd197fd3820a816ceae7bf31dfff9b2919fa53ebc358fd2246502"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-a29ddce7-0dd3-4891-b634-edf6bd6fccd7.png",
+      "prompt": "Faithful website product photograph edit of ENTIRE original HUDA BEAUTY pink colour-changing lip balm catalogue product assortment as ONE product. Preserve upper pink display tray labelled QTY24PCS with original twenty-four pink rectangular tubes and silver teddy-bear-shaped caps in same six-column four-row overlapping arrangement, printed HUDA BEAUTY header and tray. Retain lower original three demonstration units in original positions: two closed pink rectangular tubes with silver teddy caps left and one open pink balm in silver inner tube beside its detached inverted teddy cap right. These lower samples are reference presentation, preserve them as shown without inventing additional units. Preserve exact source shapes,colours,counts,metal materials, visible packaging/brand print. Remove floating300Rs overlay and large lower shipping text H98188 QTY1152pcs CBM0.13 only. Clean white seamless background soft shadow, same whole original composition, no new claims or addedtext.",
+      "sha256": "b0d5901e81842a26e726984e60d6a9c73f53c815b90bff4331b8590ec74083dd",
+      "checked": true,
+      "visual_review": "Compared generated image with original: upper display has six columns of overlapping teddy-bear-cap pink tubes,24-piece display arrangement retained, and lower two closed sample tubes plus open silver/pink sample with inverted teddy cap retained. Pink/silver colours, bear-cap shapes and HUDA BEAUTY tray/header preserved. Price and large shipping text removed. Minor lettering/finish differences accepted for website-ready quality."
+    }
+  ],
+  "status": "partial_one_requested_view_saved_and_visually_checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "original_hashes_verified": true,
+  "requested_scope": "Original plus one generated Huda Beauty product image"
+}

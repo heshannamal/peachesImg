@@ -1,0 +1,53 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250124-WA0111.jpg": "6fdcb466e6cd3e4f5a8602062f6566d3bff867f85d5be8a2c6573814106dabad"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source": [
+        "Originals/IMG-20250124-WA0111.jpg"
+      ],
+      "prompt": "Square white background ecommerce photograph. Preserve EXACTLY all TWENTY TWO clear contact lens blister packs, arranged six in first row, six second row, six third row, four centered fourth row. Exact original contact lens colours/patterns, transparent pack shapes, visible liquid, arrangement and pack count. Remove cardboard background and price text ONLY. No invented extras or labels. Whole assortment fully in frame, realistic soft studio shadows.",
+      "sha256": "9f704924505c92b862f367d59efc9e69ecf8c07784f3667096f13c296df81921",
+      "checked": true,
+      "visual_review": "Compared visible geometry, count, colours and original arrangement, including occlusion; preserved."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square premium ecommerce photo of EXACT entire assortment in reference on lavender and cream studio background. Preserve EXACT visible quantity, colour, pattern, shape, material, packaging, arrangement and occlusion. Keep ALL22 contact lens packs in6+6+6+4 rows. Realistic soft studio shadows, ample square margins, no new text.",
+      "sha256": "fa0e356e25fcb01829b77de2ab151f15e6771c6f5af5aff7370dd256c6f0b9cf",
+      "checked": true,
+      "visual_review": "Visible assortment compared against original: colours, shapes, packaging, occlusion and count retained."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square lifestyle ecommerce photograph of EXACT entire supplied assortment on cream vanity with softly blurred lavender bedroom and window light. Keep ALL22 contact lens blister packs in6+6+6+4 rows, exact original colour order. Same colours, shapes, packaging and textures. No hands/person, no new text or extra product.",
+      "sha256": "fd49614c119c7d15ddeb8f907bb4a4dfdbf85bfbf5dcbdaac116d1131de7cdf8",
+      "checked": true,
+      "visual_review": "Entire visible assortment compared with source; original arrangement/count and colours preserved."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square extreme macro crop ONLY of the blue coloured contact lens inside its clear blister pack at top left of reference. Show exact printed blue iris pattern and transparent curved pack/liquid reflections. Do not remove it from pack. Tight crop, no entire assortment, no text, no invented details; realistic macro photography.",
+      "sha256": "4527e62e96864c65464f51e1218846e3a6e7a5495d5dd85d8b82fcff7e5ea3e3",
+      "checked": true,
+      "visual_review": "Tight macro matches visible source material/design and colour."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square promotional product photograph. EXACT entire reference assortment unchanged, same count/colours/shape/packaging/arrangement and visible occlusion. ALL22 contact lens packs in6+6+6+4 rows. Lavender cream background, ample margin for small elegant dark plum heading Coloured Contact Lenses and small PRODUCT COLLECTION. No other text or price. Realistic studio light.",
+      "sha256": "a8bf88780f7a0ae52a63c084b5ec11e5a45cf2eb1f5e8ba339faad3101a882f3",
+      "checked": true,
+      "visual_review": "Promotional visible assortment compared with original, original count/colours/designs and occlusion retained."
+    }
+  ],
+  "inventory_mislabel": "Original is coloured contact lens blister assortment, not stud earrings; folder name retained.",
+  "status": "five images generated and visually checked"
+}

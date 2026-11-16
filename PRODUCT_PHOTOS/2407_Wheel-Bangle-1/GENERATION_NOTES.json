@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260916-WA0170.jpg": "d0755d18361e2498e15c3e9a358addab5877ce6b7b6b31377f07feb41f3f6c48"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-f60a255c-edad-419b-867f-d1032dd9db52.png",
+      "source_output": "/workspace/generated_images/exec-f60a255c-edad-419b-867f-d1032dd9db52.png",
+      "sha256": "645ce3b9061b6aff9d7191c8144b0d7432ce5475eeba09483a8cf40402a6ad69",
+      "prompt": "Native original-referenced faithful product photo edit. Produce ONE landscape 1536x1024 image, exact borderless 3 columns x2 rows equal512square cells. Top row: white background full product; lavender/cream styled full product; lifestyle on cream vanity full product. Bottom row: standalone TIGHT macro of actual charm edge/metal texture only (not complete bangle); full product promotional with accurate heading; unused blank cream. Preserve ONE gold-tone thin round-wire open cuff bangle, TWO large spherical endcaps at back opening, TWO smaller round beads flanking ONE central flat charm on front. Total FOUR spherical beads, ONE charm, ONE continuous cuff. Match source proportions, gold colour and charm silhouette precisely, do not duplicate jewelry or add stones. Remove source price/warranty overlay; no added claims. Website-ready. Central charm is ship steering wheel with outer circular ring, eight spokes and eight projecting straight handles, actual original exact silhouette. Heading 'Wheel Charm Cuff'. Detail macro wheel edge and one bead.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-f60a255c-edad-419b-867f-d1032dd9db52.png",
+      "prompt": "Native original-referenced faithful product photo edit. Produce ONE landscape 1536x1024 image, exact borderless 3 columns x2 rows equal512square cells. Top row: white background full product; lavender/cream styled full product; lifestyle on cream vanity full product. Bottom row: standalone TIGHT macro of actual charm edge/metal texture only (not complete bangle); full product promotional with accurate heading; unused blank cream. Preserve ONE gold-tone thin round-wire open cuff bangle, TWO large spherical endcaps at back opening, TWO smaller round beads flanking ONE central flat charm on front. Total FOUR spherical beads, ONE charm, ONE continuous cuff. Match source proportions, gold colour and charm silhouette precisely, do not duplicate jewelry or add stones. Remove source price/warranty overlay; no added claims. Website-ready. Central charm is ship steering wheel with outer circular ring, eight spokes and eight projecting straight handles, actual original exact silhouette. Heading 'Wheel Charm Cuff'. Detail macro wheel edge and one bead.",
+      "sha256": "0999184ca90ff28108f7b4e4580b2e97df9216f968fbc951a8e53fcf920e859c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f60a255c-edad-419b-867f-d1032dd9db52.png",
+      "grid_sha256": "645ce3b9061b6aff9d7191c8144b0d7432ce5475eeba09483a8cf40402a6ad69",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Inspected actual original and all five grid crops. One original gold open cuff retained with four sphere beads and correct central wheel charm silhouette, colours and proportions; white/styled/vanity/promo views full product; standalone tight real-part detail; accurate heading. Website-ready pass."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-f60a255c-edad-419b-867f-d1032dd9db52.png",
+      "prompt": "Native original-referenced faithful product photo edit. Produce ONE landscape 1536x1024 image, exact borderless 3 columns x2 rows equal512square cells. Top row: white background full product; lavender/cream styled full product; lifestyle on cream vanity full product. Bottom row: standalone TIGHT macro of actual charm edge/metal texture only (not complete bangle); full product promotional with accurate heading; unused blank cream. Preserve ONE gold-tone thin round-wire open cuff bangle, TWO large spherical endcaps at back opening, TWO smaller round beads flanking ONE central flat charm on front. Total FOUR spherical beads, ONE charm, ONE continuous cuff. Match source proportions, gold colour and charm silhouette precisely, do not duplicate jewelry or add stones. Remove source price/warranty overlay; no added claims. Website-ready. Central charm is ship steering wheel with outer circular ring, eight spokes and eight projecting straight handles, actual original exact silhouette. Heading 'Wheel Charm Cuff'. Detail macro wheel edge and one bead.",
+      "sha256": "5d246a93c64a549aeb9d64df51e07d5cdca4b85ce36db5787c17dfb2421d30d0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f60a255c-edad-419b-867f-d1032dd9db52.png",
+      "grid_sha256": "645ce3b9061b6aff9d7191c8144b0d7432ce5475eeba09483a8cf40402a6ad69",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Inspected actual original and all five grid crops. One original gold open cuff retained with four sphere beads and correct central wheel charm silhouette, colours and proportions; white/styled/vanity/promo views full product; standalone tight real-part detail; accurate heading. Website-ready pass."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-f60a255c-edad-419b-867f-d1032dd9db52.png",
+      "prompt": "Native original-referenced faithful product photo edit. Produce ONE landscape 1536x1024 image, exact borderless 3 columns x2 rows equal512square cells. Top row: white background full product; lavender/cream styled full product; lifestyle on cream vanity full product. Bottom row: standalone TIGHT macro of actual charm edge/metal texture only (not complete bangle); full product promotional with accurate heading; unused blank cream. Preserve ONE gold-tone thin round-wire open cuff bangle, TWO large spherical endcaps at back opening, TWO smaller round beads flanking ONE central flat charm on front. Total FOUR spherical beads, ONE charm, ONE continuous cuff. Match source proportions, gold colour and charm silhouette precisely, do not duplicate jewelry or add stones. Remove source price/warranty overlay; no added claims. Website-ready. Central charm is ship steering wheel with outer circular ring, eight spokes and eight projecting straight handles, actual original exact silhouette. Heading 'Wheel Charm Cuff'. Detail macro wheel edge and one bead.",
+      "sha256": "501dc64723741b8b7332d662dfff9ed167c72f9c7b5c4872ee059d7c8b84ff5b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f60a255c-edad-419b-867f-d1032dd9db52.png",
+      "grid_sha256": "645ce3b9061b6aff9d7191c8144b0d7432ce5475eeba09483a8cf40402a6ad69",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Inspected actual original and all five grid crops. One original gold open cuff retained with four sphere beads and correct central wheel charm silhouette, colours and proportions; white/styled/vanity/promo views full product; standalone tight real-part detail; accurate heading. Website-ready pass."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-f60a255c-edad-419b-867f-d1032dd9db52.png",
+      "prompt": "Native original-referenced faithful product photo edit. Produce ONE landscape 1536x1024 image, exact borderless 3 columns x2 rows equal512square cells. Top row: white background full product; lavender/cream styled full product; lifestyle on cream vanity full product. Bottom row: standalone TIGHT macro of actual charm edge/metal texture only (not complete bangle); full product promotional with accurate heading; unused blank cream. Preserve ONE gold-tone thin round-wire open cuff bangle, TWO large spherical endcaps at back opening, TWO smaller round beads flanking ONE central flat charm on front. Total FOUR spherical beads, ONE charm, ONE continuous cuff. Match source proportions, gold colour and charm silhouette precisely, do not duplicate jewelry or add stones. Remove source price/warranty overlay; no added claims. Website-ready. Central charm is ship steering wheel with outer circular ring, eight spokes and eight projecting straight handles, actual original exact silhouette. Heading 'Wheel Charm Cuff'. Detail macro wheel edge and one bead.",
+      "sha256": "c446782358573120cd2afdd05609c7e0c37fc624010d1a20c4bf80ba717119cb",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f60a255c-edad-419b-867f-d1032dd9db52.png",
+      "grid_sha256": "645ce3b9061b6aff9d7191c8144b0d7432ce5475eeba09483a8cf40402a6ad69",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Inspected actual original and all five grid crops. One original gold open cuff retained with four sphere beads and correct central wheel charm silhouette, colours and proportions; white/styled/vanity/promo views full product; standalone tight real-part detail; accurate heading. Website-ready pass."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-f60a255c-edad-419b-867f-d1032dd9db52.png",
+      "prompt": "Native original-referenced faithful product photo edit. Produce ONE landscape 1536x1024 image, exact borderless 3 columns x2 rows equal512square cells. Top row: white background full product; lavender/cream styled full product; lifestyle on cream vanity full product. Bottom row: standalone TIGHT macro of actual charm edge/metal texture only (not complete bangle); full product promotional with accurate heading; unused blank cream. Preserve ONE gold-tone thin round-wire open cuff bangle, TWO large spherical endcaps at back opening, TWO smaller round beads flanking ONE central flat charm on front. Total FOUR spherical beads, ONE charm, ONE continuous cuff. Match source proportions, gold colour and charm silhouette precisely, do not duplicate jewelry or add stones. Remove source price/warranty overlay; no added claims. Website-ready. Central charm is ship steering wheel with outer circular ring, eight spokes and eight projecting straight handles, actual original exact silhouette. Heading 'Wheel Charm Cuff'. Detail macro wheel edge and one bead.",
+      "sha256": "06f4de50ab4485b8edceb913d22e1d6e4788623329726692584d2d5d75c5eb97",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f60a255c-edad-419b-867f-d1032dd9db52.png",
+      "grid_sha256": "645ce3b9061b6aff9d7191c8144b0d7432ce5475eeba09483a8cf40402a6ad69",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Inspected actual original and all five grid crops. One original gold open cuff retained with four sphere beads and correct central wheel charm silhouette, colours and proportions; white/styled/vanity/promo views full product; standalone tight real-part detail; accurate heading. Website-ready pass."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

@@ -1,0 +1,160 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260819-WA0396.jpg": "9dc0ae5a841c7d3f6c1f3093856026513237e79af7688e7d1685c181b4ef2ae5"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-11b65c14-7c4c-4c8c-b836-7d53e33bc700.png",
+      "source_output": "/workspace/generated_images/exec-11b65c14-7c4c-4c8c-b836-7d53e33bc700.png",
+      "sha256": "8748d54b12c26574826e6ee0290d4e17b1580c7068f151a696d0813071b9efca",
+      "prompt": "Native edit actualoriginal intoONE1536x1024contactsheet exact3x2equal512cells nogutters:topWHITEbackground,lavendercreamstyled,lifestylevanity;bottomTIGHTstandaloneactualpartmacro,promoheading\"Heart Jewellery Set Assortment\",blankcream. ActualTHREEdistinctwhitejewellerycards fromcollage. Eachone goldchainnecklace withgoldhaloHEARTcrystalpendant,ONEgoldring,SIXstudearrings3pairs(clear/iridescent,pearl,goldroseorheart shapes as source). Card1iridescentbluepurpleheart,card2rubyredheart,card3pinkpurpleheart. Preserve3cardsalljewellery,3necklaces3rings18studs. Not12advertisedsets. EVERYfullview01/02/03/05mustcontainWHOLEactualassortment, generousmargins, preserveidentitycountshapescolours. Macro tightactualheartpendantdetail orrainbowelasticribbedtexture ONLY, nofullproduct. Removehands/store/pricebanner/collagelines, no inventedstock. PromoSMALLheading+wholeassortment, nottextonly. LifestyleWHOLEassortmentonvanity, no singlewearitem substitute. Websitequality.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-11b65c14-7c4c-4c8c-b836-7d53e33bc700.png",
+      "prompt": "Native edit actualoriginal intoONE1536x1024contactsheet exact3x2equal512cells nogutters:topWHITEbackground,lavendercreamstyled,lifestylevanity;bottomTIGHTstandaloneactualpartmacro,promoheading\"Heart Jewellery Set Assortment\",blankcream. ActualTHREEdistinctwhitejewellerycards fromcollage. Eachone goldchainnecklace withgoldhaloHEARTcrystalpendant,ONEgoldring,SIXstudearrings3pairs(clear/iridescent,pearl,goldroseorheart shapes as source). Card1iridescentbluepurpleheart,card2rubyredheart,card3pinkpurpleheart. Preserve3cardsalljewellery,3necklaces3rings18studs. Not12advertisedsets. EVERYfullview01/02/03/05mustcontainWHOLEactualassortment, generousmargins, preserveidentitycountshapescolours. Macro tightactualheartpendantdetail orrainbowelasticribbedtexture ONLY, nofullproduct. Removehands/store/pricebanner/collagelines, no inventedstock. PromoSMALLheading+wholeassortment, nottextonly. LifestyleWHOLEassortmentonvanity, no singlewearitem substitute. Websitequality.",
+      "sha256": "14d0c753b026d6c8064283de11a5dae689018a404758a1b821249837832b359e",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-11b65c14-7c4c-4c8c-b836-7d53e33bc700.png",
+      "grid_sha256": "8748d54b12c26574826e6ee0290d4e17b1580c7068f151a696d0813071b9efca",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Whiteview islavenderstyled, materialviewtypefailure."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-11b65c14-7c4c-4c8c-b836-7d53e33bc700.png",
+      "prompt": "Native edit actualoriginal intoONE1536x1024contactsheet exact3x2equal512cells nogutters:topWHITEbackground,lavendercreamstyled,lifestylevanity;bottomTIGHTstandaloneactualpartmacro,promoheading\"Heart Jewellery Set Assortment\",blankcream. ActualTHREEdistinctwhitejewellerycards fromcollage. Eachone goldchainnecklace withgoldhaloHEARTcrystalpendant,ONEgoldring,SIXstudearrings3pairs(clear/iridescent,pearl,goldroseorheart shapes as source). Card1iridescentbluepurpleheart,card2rubyredheart,card3pinkpurpleheart. Preserve3cardsalljewellery,3necklaces3rings18studs. Not12advertisedsets. EVERYfullview01/02/03/05mustcontainWHOLEactualassortment, generousmargins, preserveidentitycountshapescolours. Macro tightactualheartpendantdetail orrainbowelasticribbedtexture ONLY, nofullproduct. Removehands/store/pricebanner/collagelines, no inventedstock. PromoSMALLheading+wholeassortment, nottextonly. LifestyleWHOLEassortmentonvanity, no singlewearitem substitute. Websitequality.",
+      "sha256": "504575b2bdb0088ed33a6b4c6c6a6aa4f530390251fc70a901c1ccddf5de0554",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-11b65c14-7c4c-4c8c-b836-7d53e33bc700.png",
+      "grid_sha256": "8748d54b12c26574826e6ee0290d4e17b1580c7068f151a696d0813071b9efca",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Three complete actualjewellerycards withsourcependantcolours andallstuds/rings; white corrected, macro/promo remappedtruecells, accurateheading."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-11b65c14-7c4c-4c8c-b836-7d53e33bc700.png",
+      "prompt": "Native edit actualoriginal intoONE1536x1024contactsheet exact3x2equal512cells nogutters:topWHITEbackground,lavendercreamstyled,lifestylevanity;bottomTIGHTstandaloneactualpartmacro,promoheading\"Heart Jewellery Set Assortment\",blankcream. ActualTHREEdistinctwhitejewellerycards fromcollage. Eachone goldchainnecklace withgoldhaloHEARTcrystalpendant,ONEgoldring,SIXstudearrings3pairs(clear/iridescent,pearl,goldroseorheart shapes as source). Card1iridescentbluepurpleheart,card2rubyredheart,card3pinkpurpleheart. Preserve3cardsalljewellery,3necklaces3rings18studs. Not12advertisedsets. EVERYfullview01/02/03/05mustcontainWHOLEactualassortment, generousmargins, preserveidentitycountshapescolours. Macro tightactualheartpendantdetail orrainbowelasticribbedtexture ONLY, nofullproduct. Removehands/store/pricebanner/collagelines, no inventedstock. PromoSMALLheading+wholeassortment, nottextonly. LifestyleWHOLEassortmentonvanity, no singlewearitem substitute. Websitequality.",
+      "sha256": "c5a9bf98a96d330bc26647c5c8a4979663bc7dfea12cc8bc44e64694cfc4567f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-11b65c14-7c4c-4c8c-b836-7d53e33bc700.png",
+      "grid_sha256": "8748d54b12c26574826e6ee0290d4e17b1580c7068f151a696d0813071b9efca",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Three complete actualjewellerycards withsourcependantcolours andallstuds/rings; white corrected, macro/promo remappedtruecells, accurateheading."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-11b65c14-7c4c-4c8c-b836-7d53e33bc700.png",
+      "prompt": "Native edit actualoriginal intoONE1536x1024contactsheet exact3x2equal512cells nogutters:topWHITEbackground,lavendercreamstyled,lifestylevanity;bottomTIGHTstandaloneactualpartmacro,promoheading\"Heart Jewellery Set Assortment\",blankcream. ActualTHREEdistinctwhitejewellerycards fromcollage. Eachone goldchainnecklace withgoldhaloHEARTcrystalpendant,ONEgoldring,SIXstudearrings3pairs(clear/iridescent,pearl,goldroseorheart shapes as source). Card1iridescentbluepurpleheart,card2rubyredheart,card3pinkpurpleheart. Preserve3cardsalljewellery,3necklaces3rings18studs. Not12advertisedsets. EVERYfullview01/02/03/05mustcontainWHOLEactualassortment, generousmargins, preserveidentitycountshapescolours. Macro tightactualheartpendantdetail orrainbowelasticribbedtexture ONLY, nofullproduct. Removehands/store/pricebanner/collagelines, no inventedstock. PromoSMALLheading+wholeassortment, nottextonly. LifestyleWHOLEassortmentonvanity, no singlewearitem substitute. Websitequality.",
+      "sha256": "267974fa59c36762b32e0b122513a9720be8abd7ca90177e5a876fdbaa9fc434",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-11b65c14-7c4c-4c8c-b836-7d53e33bc700.png",
+      "grid_sha256": "8748d54b12c26574826e6ee0290d4e17b1580c7068f151a696d0813071b9efca",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Three complete actualjewellerycards withsourcependantcolours andallstuds/rings; white corrected, macro/promo remappedtruecells, accurateheading."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-11b65c14-7c4c-4c8c-b836-7d53e33bc700.png",
+      "prompt": "Native edit actualoriginal intoONE1536x1024contactsheet exact3x2equal512cells nogutters:topWHITEbackground,lavendercreamstyled,lifestylevanity;bottomTIGHTstandaloneactualpartmacro,promoheading\"Heart Jewellery Set Assortment\",blankcream. ActualTHREEdistinctwhitejewellerycards fromcollage. Eachone goldchainnecklace withgoldhaloHEARTcrystalpendant,ONEgoldring,SIXstudearrings3pairs(clear/iridescent,pearl,goldroseorheart shapes as source). Card1iridescentbluepurpleheart,card2rubyredheart,card3pinkpurpleheart. Preserve3cardsalljewellery,3necklaces3rings18studs. Not12advertisedsets. EVERYfullview01/02/03/05mustcontainWHOLEactualassortment, generousmargins, preserveidentitycountshapescolours. Macro tightactualheartpendantdetail orrainbowelasticribbedtexture ONLY, nofullproduct. Removehands/store/pricebanner/collagelines, no inventedstock. PromoSMALLheading+wholeassortment, nottextonly. LifestyleWHOLEassortmentonvanity, no singlewearitem substitute. Websitequality.",
+      "sha256": "f412fc85327decbdf1a03eacdeb14804e07f6216bdbcdbe39774a0c60b269e97",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-11b65c14-7c4c-4c8c-b836-7d53e33bc700.png",
+      "grid_sha256": "8748d54b12c26574826e6ee0290d4e17b1580c7068f151a696d0813071b9efca",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        512,
+        1536,
+        1024
+      ],
+      "visual_review": "Three complete actualjewellerycards withsourcependantcolours andallstuds/rings; white corrected, macro/promo remappedtruecells, accurateheading."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-b16e829f-6c30-41de-bbb2-84feababf851.png",
+      "source_output": "/workspace/generated_images/exec-b16e829f-6c30-41de-bbb2-84feababf851.png",
+      "sha256": "1c2c4d454c00cbe4faaafe6da11161a552d605af8d0467986f9e3094b660c152",
+      "prompt": "Native edit actualoriginal intoONE1536x1024contactsheet exact3x2equal512cells nogutters:topWHITEbackground,lavendercreamstyled,lifestylevanity;bottomTIGHTstandaloneactualpartmacro,promoheading\"Heart Jewellery Set Assortment\",blankcream. ActualTHREEdistinctwhitejewellerycards fromcollage. Eachone goldchainnecklace withgoldhaloHEARTcrystalpendant,ONEgoldring,SIXstudearrings3pairs(clear/iridescent,pearl,goldroseorheart shapes as source). Card1iridescentbluepurpleheart,card2rubyredheart,card3pinkpurpleheart. Preserve3cardsalljewellery,3necklaces3rings18studs. Not12advertisedsets. EVERYfullview01/02/03/05mustcontainWHOLEactualassortment, generousmargins, preserveidentitycountshapescolours. Macro tightactualheartpendantdetail orrainbowelasticribbedtexture ONLY, nofullproduct. Removehands/store/pricebanner/collagelines, no inventedstock. PromoSMALLheading+wholeassortment, nottextonly. LifestyleWHOLEassortmentonvanity, no singlewearitem substitute. Websitequality. CRITICAL topLEFT cell PUREWHITE studio background ONLY, no lavender/props. ALLTHREEcards whole. Otherexistingcropsvalidpreserve. Focusonewhiteview.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-b16e829f-6c30-41de-bbb2-84feababf851.png",
+      "prompt": "Native edit actualoriginal intoONE1536x1024contactsheet exact3x2equal512cells nogutters:topWHITEbackground,lavendercreamstyled,lifestylevanity;bottomTIGHTstandaloneactualpartmacro,promoheading\"Heart Jewellery Set Assortment\",blankcream. ActualTHREEdistinctwhitejewellerycards fromcollage. Eachone goldchainnecklace withgoldhaloHEARTcrystalpendant,ONEgoldring,SIXstudearrings3pairs(clear/iridescent,pearl,goldroseorheart shapes as source). Card1iridescentbluepurpleheart,card2rubyredheart,card3pinkpurpleheart. Preserve3cardsalljewellery,3necklaces3rings18studs. Not12advertisedsets. EVERYfullview01/02/03/05mustcontainWHOLEactualassortment, generousmargins, preserveidentitycountshapescolours. Macro tightactualheartpendantdetail orrainbowelasticribbedtexture ONLY, nofullproduct. Removehands/store/pricebanner/collagelines, no inventedstock. PromoSMALLheading+wholeassortment, nottextonly. LifestyleWHOLEassortmentonvanity, no singlewearitem substitute. Websitequality. CRITICAL topLEFT cell PUREWHITE studio background ONLY, no lavender/props. ALLTHREEcards whole. Otherexistingcropsvalidpreserve. Focusonewhiteview.",
+      "sha256": "d7c8a9cc28771a27258e8d2c6350e10ac314a30394731c1b1912fdc36a92047a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-b16e829f-6c30-41de-bbb2-84feababf851.png",
+      "grid_sha256": "1c2c4d454c00cbe4faaafe6da11161a552d605af8d0467986f9e3094b660c152",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Three complete actualjewellerycards withsourcependantcolours andallstuds/rings; white corrected, macro/promo remappedtruecells, accurateheading."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "01_White-Background.png": 1
+  },
+  "originals_verified_against_frozen_plan": true
+}

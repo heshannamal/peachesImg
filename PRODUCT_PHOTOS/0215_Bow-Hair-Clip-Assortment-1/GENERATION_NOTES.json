@@ -1,0 +1,65 @@
+{
+  "tool": "built-in image_gen",
+  "status": "five images generated and visually checked",
+  "original_hashes": {
+    "Originals/IMG-20250217-WA0098.jpg": "92fd23f32790fd7b8fc160d33645992a424d25c344a67fa49aae44a9381c0a63"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-0a60f475-cf8b-472a-ab0e-05606adc33fa.png",
+      "prompt": "Edit exact reference into ONE realistic clean website product photo. Twelve cord butterfly beaded bracelets displayed horizontal rows on one white Fashion Jewelry card inside clear sleeve. Exact pairs of red,pink,lavender,blue,white,black cords/disc beads with gold spacer balls and rhinestone rondelles,large glitter butterfly center and smaller multicolour butterfly charms at sides. Preserve12rows,shape,count,original colour order and package. These are bracelets NOT bowclips. Entire assortment ONE product,preserve identity/count/shape/material/colour/packaging. Pure white seamless background,soft contact shadows,whole assortment inside frame. Remove hand,shop,old price overlays. No extra products,parts or imagined reverse views.",
+      "sha256": "eeadddc970f82c50b7be3e13d4754f34745df67d0aef6b486d0373cb93f66ba0",
+      "checked": true,
+      "visual_review": "Twelve butterfly bracelet rows retain six colour pairs,gold spacers,rhinestone rings,glitter butterfly centres and original card/sleeve."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-29e8ec68-cec9-47fd-a709-0660ab9697fa.png",
+      "prompt": "ONE realistic website styled-background product photo of exact reference. Twelve cord butterfly beaded bracelets displayed horizontal rows on one white Fashion Jewelry card inside clear sleeve. Exact pairs of red,pink,lavender,blue,white,black cords/disc beads with gold spacer balls and rhinestone rondelles,large glitter butterfly center and smaller multicolour butterfly charms at sides. Preserve12rows,shape,count,original colour order and package. These are bracelets NOT bowclips. Whole assortment ONE product,full set inside frame on cream background with lavender fabric at edges. Preserve count,identity,shape,colour,materials,arrangement and packaging. Remove hand,shop,oldprices. No added products,parts or imagined back views.",
+      "sha256": "8e437b088505536d64080b2a5687e87b93fceedff10383e75a37e7d73a2f61a9",
+      "checked": true,
+      "accepted": true,
+      "visual_review": "Twelve butterfly bracelets in six coloured pairs retained; glitter butterfly centres,gold spacers,rhinestone rings and sleeve match source."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-de5ca062-30f8-4d91-a9e5-dc4aedbb693b.png",
+      "prompt": "One realistic website lifestyle photo of twelve butterfly beaded cord bracelets on white Fashion Jewelry card in clear sleeve. Exactly12rows,paired red,pink,lavender,blue,white,black beads/cords,large glitter butterfly centres,gold spacers,rhinestone rings and tiny butterfly side charms as reference. Whole assortment ONE product on cream vanity with lavender linen and closed beige book outside product. Preserve count/identity/shape/colour/package. Remove hand/shop/oldprice. No extras.",
+      "sha256": "297aa678b68beb8228925c560acdbe1aa9628f53d0d22c4d06bf041a9b565e83",
+      "checked": true,
+      "accepted": true,
+      "visual_review": "Twelve butterfly bracelet rows in six colour pairs,glitter centres,disc beads,gold spacers and original sleeve/card retained in lifestyle setting."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-bdb63ba3-5a30-440b-affd-cc9ef6d8ee97.png",
+      "prompt": "One standalone tight macro photo of existing pink glitter butterfly bracelet centerpiece and adjacent pink disc beads,gold balls,rhinestone rondelles visible in reference. Keep exact actual materials,colours,shapes. Crop tightly to this part only; no full assortment,extra parts or invented back. Remove hand/shop/price. Soft cream light.",
+      "sha256": "c429ad07aceadc0b6229390143341e900b7d1f97d7ff79d971df48ccb2b11a2a",
+      "checked": true,
+      "visual_review": "Standalone tight macro retains pink glitter butterfly,gold outline/spacer balls,pink disc beads and rhinestone rondelles; matches actual source part."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-77e60fe4-34b9-4a03-9fe9-cbfed5337cec.png",
+      "prompt": "Use white-background reference EXACT product arrangement with12bracelet rows. Do not change ANYproduct. Change only backdrop to cream/lavender and add compact dark plum title 'Butterfly Beaded Bracelets' with 'PRODUCT COLLECTION'. EXACT12rows:2red+2pink+2lavender+2blue+2white+2black. Preserve butterfly centres,disc beads,goldspacers,rhinestone rings,original card/sleeve. Full set fitsframe,no hand/price/shop/extras.",
+      "sha256": "f0ec94bcfd207807ad1b1d50cab5a6a1b46bbf4b60981e229f77f38271f0c52e",
+      "checked": true,
+      "accepted": true,
+      "visual_review": "Corrected promotional output counted12bracelet rows in six colour pairs,glitter butterfly centres/side charms,gold spacers,disc beads retained. Heading moved onto card; accepted cosmetic."
+    }
+  ],
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "rejected_outputs": [
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-946a58cc-ceea-488c-81c7-98002a68062d.png",
+      "prompt": "One realistic promotional website photo of exact12butterfly bracelet rows on original white Fashion Jewelry card in clear sleeve: paired red,pink,lavender,blue,white,black disc beads/cords,glitter butterfly centres,gold spacers,rhinestone rondelles and tiny butterfly sides. Entire assortmentONEproduct. Preserve count,identity,shape,colours. Cream lavender backdrop,compact dark plum 'Butterfly Beaded Bracelets' and 'PRODUCT COLLECTION'. No price/hand/shop/extra parts.",
+      "sha256": "62bc284cd9b2fa43e5b5d657c4cd621b64fad10f28b43bb04e65e54b5bc45826",
+      "checked": true,
+      "accepted": false,
+      "visual_review": "Rejected promo count:10bracelet rows instead of12."
+    }
+  ],
+  "original_plan_sha256_verified": true
+}

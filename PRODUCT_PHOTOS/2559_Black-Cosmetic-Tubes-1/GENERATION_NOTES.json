@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260930-WA0063.jpg": "50fe15181959293bf15c4de800e70f32b70e677cf727079a1854650c34e60d2a"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-c03e7ec9-655f-49b9-aa7f-f17317542342.png",
+      "source_output": "/workspace/generated_images/exec-c03e7ec9-655f-49b9-aa7f-f17317542342.png",
+      "sha256": "d15050675e3e15a7633398c9f8de7b693f5575956040bb45d6676be2f7daee25",
+      "prompt": "Native photographic edit actualreference intoONE1536x1024contactsheet strict3columns2rows equal512squarecells no gutters. Product is foregroundheldretailproduct only, backgroundwarehousecartons arestocknotextraassortmentitems. Preserveexactforegroundcount,identity,shapes,coloursandpackagingprint. Removehand,warehouse,priceoverlayandouterplasticglare. Cell1top-left fullproductwhitebackground;cell2top-middle fullproductlavender/creamstyled;cell3top-right fullproductlifestylevanity;cell4bottom-left standalone tightmacroactualpackaging/productdetail;cell5bottom-middle fullproductpromotional accurateheading;cell6bottom-rightblankcream. No stocksubstitutes,no inventedclaims/benefits.Actualproduct ONEblackcardboard six-shade concealertubeset, exactlySIXsqueezetubeswithblackcaps inoriginalblacktray. Tube shades yellow/mustard, palebeige, lighttan, warmgoldentan, warmmediumbrown, darkbrown. Text existing PRO.conceal HDhigh-definitionconcealer andBLACKOPALPOP trayretainassource; don'treplacebrandwithunrelated. Entire6tubesinbox together eachfullview, tubesforeground, backgroundboxesremoved. Detailmacro2actualconcealertubelabelsblackcapandcolourtube. Heading 'Six-Shade Concealer Set'.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-c03e7ec9-655f-49b9-aa7f-f17317542342.png",
+      "prompt": "Native photographic edit actualreference intoONE1536x1024contactsheet strict3columns2rows equal512squarecells no gutters. Product is foregroundheldretailproduct only, backgroundwarehousecartons arestocknotextraassortmentitems. Preserveexactforegroundcount,identity,shapes,coloursandpackagingprint. Removehand,warehouse,priceoverlayandouterplasticglare. Cell1top-left fullproductwhitebackground;cell2top-middle fullproductlavender/creamstyled;cell3top-right fullproductlifestylevanity;cell4bottom-left standalone tightmacroactualpackaging/productdetail;cell5bottom-middle fullproductpromotional accurateheading;cell6bottom-rightblankcream. No stocksubstitutes,no inventedclaims/benefits.Actualproduct ONEblackcardboard six-shade concealertubeset, exactlySIXsqueezetubeswithblackcaps inoriginalblacktray. Tube shades yellow/mustard, palebeige, lighttan, warmgoldentan, warmmediumbrown, darkbrown. Text existing PRO.conceal HDhigh-definitionconcealer andBLACKOPALPOP trayretainassource; don'treplacebrandwithunrelated. Entire6tubesinbox together eachfullview, tubesforeground, backgroundboxesremoved. Detailmacro2actualconcealertubelabelsblackcapandcolourtube. Heading 'Six-Shade Concealer Set'.",
+      "sha256": "3328e0dc7fd7864f7216d272ed196d0e6764af579149085e6300ebfddc7165e5",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c03e7ec9-655f-49b9-aa7f-f17317542342.png",
+      "grid_sha256": "d15050675e3e15a7633398c9f8de7b693f5575956040bb45d6676be2f7daee25",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crops reviewed: ONE6shadetubeset inBLACKOPALPOPblacktray, sixblackcaptubeswithsourceyellow/beige/tan/brownshades andPRO.conceallabel. Backgroundstockexcluded, foregroundwholepackpreserved. Tightrealtubelabelmacro; accurateheading."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-c03e7ec9-655f-49b9-aa7f-f17317542342.png",
+      "prompt": "Native photographic edit actualreference intoONE1536x1024contactsheet strict3columns2rows equal512squarecells no gutters. Product is foregroundheldretailproduct only, backgroundwarehousecartons arestocknotextraassortmentitems. Preserveexactforegroundcount,identity,shapes,coloursandpackagingprint. Removehand,warehouse,priceoverlayandouterplasticglare. Cell1top-left fullproductwhitebackground;cell2top-middle fullproductlavender/creamstyled;cell3top-right fullproductlifestylevanity;cell4bottom-left standalone tightmacroactualpackaging/productdetail;cell5bottom-middle fullproductpromotional accurateheading;cell6bottom-rightblankcream. No stocksubstitutes,no inventedclaims/benefits.Actualproduct ONEblackcardboard six-shade concealertubeset, exactlySIXsqueezetubeswithblackcaps inoriginalblacktray. Tube shades yellow/mustard, palebeige, lighttan, warmgoldentan, warmmediumbrown, darkbrown. Text existing PRO.conceal HDhigh-definitionconcealer andBLACKOPALPOP trayretainassource; don'treplacebrandwithunrelated. Entire6tubesinbox together eachfullview, tubesforeground, backgroundboxesremoved. Detailmacro2actualconcealertubelabelsblackcapandcolourtube. Heading 'Six-Shade Concealer Set'.",
+      "sha256": "e744ae4dba57ae66754234cdec703b6aeb2561a26a2598544745f8e7d24aced9",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c03e7ec9-655f-49b9-aa7f-f17317542342.png",
+      "grid_sha256": "d15050675e3e15a7633398c9f8de7b693f5575956040bb45d6676be2f7daee25",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crops reviewed: ONE6shadetubeset inBLACKOPALPOPblacktray, sixblackcaptubeswithsourceyellow/beige/tan/brownshades andPRO.conceallabel. Backgroundstockexcluded, foregroundwholepackpreserved. Tightrealtubelabelmacro; accurateheading."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-c03e7ec9-655f-49b9-aa7f-f17317542342.png",
+      "prompt": "Native photographic edit actualreference intoONE1536x1024contactsheet strict3columns2rows equal512squarecells no gutters. Product is foregroundheldretailproduct only, backgroundwarehousecartons arestocknotextraassortmentitems. Preserveexactforegroundcount,identity,shapes,coloursandpackagingprint. Removehand,warehouse,priceoverlayandouterplasticglare. Cell1top-left fullproductwhitebackground;cell2top-middle fullproductlavender/creamstyled;cell3top-right fullproductlifestylevanity;cell4bottom-left standalone tightmacroactualpackaging/productdetail;cell5bottom-middle fullproductpromotional accurateheading;cell6bottom-rightblankcream. No stocksubstitutes,no inventedclaims/benefits.Actualproduct ONEblackcardboard six-shade concealertubeset, exactlySIXsqueezetubeswithblackcaps inoriginalblacktray. Tube shades yellow/mustard, palebeige, lighttan, warmgoldentan, warmmediumbrown, darkbrown. Text existing PRO.conceal HDhigh-definitionconcealer andBLACKOPALPOP trayretainassource; don'treplacebrandwithunrelated. Entire6tubesinbox together eachfullview, tubesforeground, backgroundboxesremoved. Detailmacro2actualconcealertubelabelsblackcapandcolourtube. Heading 'Six-Shade Concealer Set'.",
+      "sha256": "b11fe338514d58204404c1d564ed8deba3275f06d4c1c8449b70757a7f659c91",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c03e7ec9-655f-49b9-aa7f-f17317542342.png",
+      "grid_sha256": "d15050675e3e15a7633398c9f8de7b693f5575956040bb45d6676be2f7daee25",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crops reviewed: ONE6shadetubeset inBLACKOPALPOPblacktray, sixblackcaptubeswithsourceyellow/beige/tan/brownshades andPRO.conceallabel. Backgroundstockexcluded, foregroundwholepackpreserved. Tightrealtubelabelmacro; accurateheading."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-c03e7ec9-655f-49b9-aa7f-f17317542342.png",
+      "prompt": "Native photographic edit actualreference intoONE1536x1024contactsheet strict3columns2rows equal512squarecells no gutters. Product is foregroundheldretailproduct only, backgroundwarehousecartons arestocknotextraassortmentitems. Preserveexactforegroundcount,identity,shapes,coloursandpackagingprint. Removehand,warehouse,priceoverlayandouterplasticglare. Cell1top-left fullproductwhitebackground;cell2top-middle fullproductlavender/creamstyled;cell3top-right fullproductlifestylevanity;cell4bottom-left standalone tightmacroactualpackaging/productdetail;cell5bottom-middle fullproductpromotional accurateheading;cell6bottom-rightblankcream. No stocksubstitutes,no inventedclaims/benefits.Actualproduct ONEblackcardboard six-shade concealertubeset, exactlySIXsqueezetubeswithblackcaps inoriginalblacktray. Tube shades yellow/mustard, palebeige, lighttan, warmgoldentan, warmmediumbrown, darkbrown. Text existing PRO.conceal HDhigh-definitionconcealer andBLACKOPALPOP trayretainassource; don'treplacebrandwithunrelated. Entire6tubesinbox together eachfullview, tubesforeground, backgroundboxesremoved. Detailmacro2actualconcealertubelabelsblackcapandcolourtube. Heading 'Six-Shade Concealer Set'.",
+      "sha256": "bc3c8b2e241566c77bdbb79afefb29eaec4251cb1ad4754cbf164973235e7302",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c03e7ec9-655f-49b9-aa7f-f17317542342.png",
+      "grid_sha256": "d15050675e3e15a7633398c9f8de7b693f5575956040bb45d6676be2f7daee25",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crops reviewed: ONE6shadetubeset inBLACKOPALPOPblacktray, sixblackcaptubeswithsourceyellow/beige/tan/brownshades andPRO.conceallabel. Backgroundstockexcluded, foregroundwholepackpreserved. Tightrealtubelabelmacro; accurateheading."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-c03e7ec9-655f-49b9-aa7f-f17317542342.png",
+      "prompt": "Native photographic edit actualreference intoONE1536x1024contactsheet strict3columns2rows equal512squarecells no gutters. Product is foregroundheldretailproduct only, backgroundwarehousecartons arestocknotextraassortmentitems. Preserveexactforegroundcount,identity,shapes,coloursandpackagingprint. Removehand,warehouse,priceoverlayandouterplasticglare. Cell1top-left fullproductwhitebackground;cell2top-middle fullproductlavender/creamstyled;cell3top-right fullproductlifestylevanity;cell4bottom-left standalone tightmacroactualpackaging/productdetail;cell5bottom-middle fullproductpromotional accurateheading;cell6bottom-rightblankcream. No stocksubstitutes,no inventedclaims/benefits.Actualproduct ONEblackcardboard six-shade concealertubeset, exactlySIXsqueezetubeswithblackcaps inoriginalblacktray. Tube shades yellow/mustard, palebeige, lighttan, warmgoldentan, warmmediumbrown, darkbrown. Text existing PRO.conceal HDhigh-definitionconcealer andBLACKOPALPOP trayretainassource; don'treplacebrandwithunrelated. Entire6tubesinbox together eachfullview, tubesforeground, backgroundboxesremoved. Detailmacro2actualconcealertubelabelsblackcapandcolourtube. Heading 'Six-Shade Concealer Set'.",
+      "sha256": "ff3643020370afc034bbf6d7a22043defd73419402bddd0d8e6ef4786980da18",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c03e7ec9-655f-49b9-aa7f-f17317542342.png",
+      "grid_sha256": "d15050675e3e15a7633398c9f8de7b693f5575956040bb45d6676be2f7daee25",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crops reviewed: ONE6shadetubeset inBLACKOPALPOPblacktray, sixblackcaptubeswithsourceyellow/beige/tan/brownshades andPRO.conceallabel. Backgroundstockexcluded, foregroundwholepackpreserved. Tightrealtubelabelmacro; accurateheading."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baselines_verified": true
+}

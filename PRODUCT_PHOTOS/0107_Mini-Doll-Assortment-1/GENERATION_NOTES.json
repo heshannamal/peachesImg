@@ -1,0 +1,51 @@
+{
+  "tool": "built-in image_gen",
+  "status": "five images generated and visually checked",
+  "original_hashes": {
+    "Originals/IMG-20250130-WA0334.jpg": "afe6fc94807ef10aeea3548069a36163eab4b2851690d0a2345a7ddf26e16b2a"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source": "/workspace/generated_images/exec-64d41830-039f-4bd8-a7cd-4155ee160b61.png",
+      "prompt": "Edit reference into one clean realistic website product photograph. Seven small plush dolls each individually bagged in clear sleeves, arranged original top3bottom4. Top: pink-haired yellow/blue, orange-haired blue floral, brown-haired red floral. Bottom: orange-haired yellow floral, brown-haired purple floral, red-haired pink/white floral, white-haired red/white floral. Preserve exact seven, tiny hats, embroidered blue-eyed faces, peach limbs, dresses/shoes and package. Whole assortment ONE product, preserve count, shapes, colour, material and arrangement. Pure white background, soft shadows, full product visible. Remove shop, hand, price. No additional parts, products, invented backs or text.",
+      "sha256": "5c2eb8a1fb94194094616b837084abbb330bfe0b9b5ad964c98ad2c5860e9746",
+      "checked": true,
+      "visual_review": "Seven individually bagged dolls retain3over4arrangement, original varied hair, hats, embroidered faces and coloured outfits. Main identity, colour and count checked; white setting."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source": "/workspace/generated_images/exec-d394c7c3-7302-42dd-ae80-6885d63e2bc6.png",
+      "prompt": "One clean realistic website styled-background product photo of exact reference. Seven small plush dolls each individually bagged in clear sleeves, arranged original top3bottom4. Top: pink-haired yellow/blue, orange-haired blue floral, brown-haired red floral. Bottom: orange-haired yellow floral, brown-haired purple floral, red-haired pink/white floral, white-haired red/white floral. Preserve exact seven, tiny hats, embroidered blue-eyed faces, peach limbs, dresses/shoes and package. Whole assortment ONE product. Preserve count, shape, material, colours and arrangement. Warm cream background with lavender fabric outside product, natural shadows. Full product visible. Remove old price, hands, shop. No extra products, parts, text or new views.",
+      "sha256": "57b0eecd9ce56ffa96eff2a3383b453c9a67a969844e5a3b21203b6edb8054d4",
+      "checked": true,
+      "visual_review": "Seven individually bagged dolls retain3over4arrangement, original varied hair, hats, embroidered faces and coloured outfits. Cream lavender styling, basic visual check passed."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source": "/workspace/generated_images/exec-cfb49ea4-41cd-4dd9-8614-4b6a8ec0a8c4.png",
+      "prompt": "One clean realistic website lifestyle product photo of exact reference. Seven small plush dolls each individually bagged in clear sleeves, arranged original top3bottom4. Top: pink-haired yellow/blue, orange-haired blue floral, brown-haired red floral. Bottom: orange-haired yellow floral, brown-haired purple floral, red-haired pink/white floral, white-haired red/white floral. Preserve exact seven, tiny hats, embroidered blue-eyed faces, peach limbs, dresses/shoes and package. Preserve count, colours, shape, material and arrangement. Full product on tidy cream bedroom surface beside lavender linen and closed book well beyond product. Soft daylight, whole set inside frame. No people, hands, old prices, shop, extra accessories or invented parts. No text.",
+      "sha256": "709928605717d4d6b00f47cb01a377bc9bcbb01108adb770b3286aa39285cfcb",
+      "checked": true,
+      "visual_review": "Seven individually bagged dolls retain3over4arrangement, original varied hair, hats, embroidered faces and coloured outfits. Basic website check passed; full product visible in lifestyle setting."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-5c0678ad-6fa2-42cd-8303-cbddfeb2348f.png",
+      "prompt": "One realistic tight macro detail photo of exact referenced product. Seven small plush dolls individually bagged, top3bottom4. Top pink-haired yellow/blue outfit, orange-haired blue floral, brown-haired red floral. Bottom orange-haired yellow floral, brown-haired purple floral, red-haired pink/white floral, white-haired red/white floral. Preserve seven count, hats, embroidered blue-eyed faces, limbs, dresses/shoes and clear bags. DETAIL ONLY: zoom tightly onto top central orange-haired doll face and blue floral outfit through sleeve. Most of full product cropped out, visible material/shape/colour preserved. No invented backs or extra parts. Remove hand/shop/price overlays, soft cream light. Website-ready.",
+      "sha256": "9a50af930a4bbd2f325ead65b6ecddbb9e1f465e6ac50a56b616c991d85377b5",
+      "checked": true,
+      "visual_review": "Tight macro retains orange hair, green hat, embroidered blue eyes, peach face and blue floral fabric through original sleeve."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-16562ef9-e3b7-42f8-b99f-875c56265212.png",
+      "prompt": "One clean realistic promotional website product photo from exact reference. Seven small plush dolls individually bagged, top3bottom4. Top pink-haired yellow/blue outfit, orange-haired blue floral, brown-haired red floral. Bottom orange-haired yellow floral, brown-haired purple floral, red-haired pink/white floral, white-haired red/white floral. Preserve seven count, hats, embroidered blue-eyed faces, limbs, dresses/shoes and clear bags. Entire assortment ONE product, retain exact count/identity/shape/colour/material and arrangement, full set within frame. Cream/lavender background, compact dark plum heading 'Mini Doll Assortment' and smaller 'PRODUCT COLLECTION'. Remove price, shop and hand. No extra objects/products, invented back views or parts.",
+      "sha256": "35f68c2da9180ba5bf78524b9419a684956c50c202ce5e85fa604c320036c815",
+      "checked": true,
+      "visual_review": "Seven bagged dolls retain original3over4count, outfit/hair colours, faces and shapes. Cream lavender promotional setting and heading suitable for website."
+    }
+  ],
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "original_hashes_verified": true
+}

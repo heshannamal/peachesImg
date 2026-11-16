@@ -1,0 +1,25 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "status": "blocked_moderation",
+  "records": [],
+  "original_hashes": {
+    "Originals/IMG-20260929-WA0138.jpg": "fd94a55b02f99b7ddd34f44746c71a44048eb9f7be52fe3c55fc504bf984c552"
+  },
+  "generation_attempts": [
+    {
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Blue Character Plush Toys\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual original shows THREE matching brightBLUE seatedcharacter plush toys, twofrontandonebehindtopcentre. ALLTHREE mustappear together in eachfullview1/2/3/5. Preservebigovalblackembroideredeyeswithwhitehighlights, largedarkgrayovalnose,palebluebelly/chest,bluearms/roundfeet,pinkinner floppy longears andnavyhairtuft. Exactsourcecharacteridentity andthreecount, nosingletoyonly, no4thtoy, no clothes. Detail standalone tightmacro ofactualpalebluebellyfurandbluematerial seam; notwholetoy. AccurateheadingBlue Character Plush Toys.",
+      "referenced_originals": [
+        "Originals/IMG-20260929-WA0138.jpg"
+      ],
+      "result": "HTTP400 moderation_blocked",
+      "moderation_stage": "output",
+      "categories": [
+        "other"
+      ],
+      "request_id": "1ad1c470-5dbe-4e65-9384-539adff3072d",
+      "error_message": "Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 1ad1c470-5dbe-4e65-9384-539adff3072d.",
+      "retried": false
+    }
+  ]
+}

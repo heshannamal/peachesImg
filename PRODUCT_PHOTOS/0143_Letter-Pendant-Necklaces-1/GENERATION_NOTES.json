@@ -1,0 +1,50 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250206-WA0615.jpg": "cf4f07b7b3cd4ad98e680ddf47c4dce97f121ca39b807ef6abb829b8a9800db9"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-db6da401-1066-48e0-9aec-7df3c0c81b94.png",
+      "prompt": "Edit reference into website-ready clean white seamless ecommerce photograph. Whole displayed dense assortment of silver-toned chain necklaces with rhinestone alphabet letter pendants hanging below, original long row of mixed pink polka-dot and white retail cards. Preserve all visible groups and pendant letters/chain shapes, actual arrangement and metallic material; do not simplify to single necklace or invent missing letters. Preserve original front view, actual product identity count shapes colours materials. Remove people hands shop surrounding background and old price overlays. No added text. Full assortment visible, realistic soft lighting.",
+      "sha256": "c8c3b9597bfba04e78f093ed1051cd4a1a816bc88362b761dac678ff2508286d",
+      "checked": true,
+      "visual_review": "Whole dense chain and alphabet pendant assortment retains silver material, long row grouping and retail cards."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-10b355ff-93ca-41ba-a3e8-126d22c8831a.png",
+      "prompt": "Website-ready styled photograph on pale lavender with cream fabric outside product. Whole displayed dense assortment of silver-toned chain necklaces with rhinestone alphabet letter pendants hanging below, original long row of mixed pink polka-dot and white retail cards. Preserve all visible groups and pendant letters/chain shapes, actual arrangement and metallic material; do not simplify to single necklace or invent missing letters. Preserve actual product count geometry colours and materials. Remove shop people hand price overlay. No new text. Same front angle.",
+      "sha256": "6deaf7f420a26c50f5f21429c22b5ad04c8d305f95c591d1b0e5dd5ac9486819",
+      "checked": true,
+      "visual_review": "Whole dense silver chain/letter pendant collection retains original long-row grouping, retail cards and metallic identity; lavender/cream backdrop."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-14f759ef-f87e-4089-a32a-3192cbfd5423.png",
+      "prompt": "Lifestyle product photo on cream vanity table near window with lavender wall, no people. Entire dense silver-toned necklace assortment with rhinestone alphabet letter pendants at bottom, long row of mixed pink polka-dot and white retail cards. Preserve visible chain groups and pendant letters/chain shapes, original arrangement and metal material. Do not simplify to single necklace or invent missing letters. Preserve original front view identity shape count colours and packaging. Remove hand shop people and price overlay. No new text, no invented parts.",
+      "sha256": "fa717f46327b12fa70f5e1e4d219866667e75e17782775d003a4c148ae659d80",
+      "checked": true,
+      "visual_review": "Website-ready visual check: product group identity, main shape colours materials and front arrangement retained."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-be81d0e6-3575-4f3e-9b8c-ca42e8d6148d.png",
+      "prompt": "Tight macro photograph cropped to silver rhinestone alphabet pendants and joining chain links in lower left of reference. Fill frame with actual letter pendant surfaces and rhinestones, original shapes not a newly invented alphabet; no full assortment, no new text.",
+      "sha256": "c57ce82aeee892ed204167a795b63701ea15a4326bcd83efbe5dd3ef1ecaa9cc",
+      "checked": true,
+      "visual_review": "Tight macro retains visible product material and main motif shapes/colours; minor generated detail differences accepted for website use."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-0dfa45d2-276d-4289-a700-7ddb6b9a251e.png",
+      "prompt": "Promotional website product photo on lavender and cream background with compact dark plum heading 'Letter Pendant Necklace Collection' and subtitle 'PRODUCT COLLECTION'. Entire dense silver-toned necklace assortment with rhinestone alphabet letter pendants at bottom, long row of mixed pink polka-dot and white retail cards. Preserve visible chain groups and pendant letters/chain shapes, original arrangement and metal material. Do not simplify to single necklace or invent missing letters. Full assortment same front view count shapes colours materials; no other text or prices.",
+      "sha256": "ab482e2e68a2a52b4c4334a5bed42f047b8f2f86d07ea50d8377d756038106cd",
+      "checked": true,
+      "visual_review": "Dense silver chain and alphabet pendant assortment retains grouping and identity; promo title/subtitle legible."
+    }
+  ],
+  "status": "five images saved and visually checked"
+}

@@ -1,0 +1,126 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260923-WA0217.jpg": "ce582e17b42702c2f6b914e6bdeb565f26739589896e975a4c159a041b1c85ea"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-1bf310df-447c-4267-8442-670b7aa04fb7.png",
+      "source_output": "/workspace/generated_images/exec-1bf310df-447c-4267-8442-670b7aa04fb7.png",
+      "sha256": "ce923c6e21e3830194e5909b47f52071c00727c1af3dd0661315f2bf9945310f",
+      "prompt": "Native faithful reference edit into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. ENTIRE original six-variety perfume assortment is ONEproduct. Each fullview cell show exactly SIX DIFFERENT perfume bottles and SIX matching retailboxes together in2rows3pairs; preserve original bottle shapes/caps/colours/brand labels/boxart, noextra/missingitems or stocksubstitutes. Remove floating NEW/Fragrance/catalogue overlays and collageborders only. Toprowwhite studio fullassortment,lavendercreamstyled fullassortment,naturalvanity lifestyle fullassortment. Bottomrow standalone tightrealpart cap/glass/labelmacro only,promotional all6bottles6boxes heading 'Fragrance Assortment',blankcreamunused. Exactsplitx512,x1024,y512,no gutters/borders. Sixactualpairs: PARISNIGHT tallslim pinchedwaist COBALTBLUEbottle withdarkbluebox/Eiffeltower;JAQUAREBLACK blackrectangularbottle blackrectcap/blackbox catlogo;JAQUAREBLUE palebluerectangularbottle cobaltcap withstripedbluebox;BOSSHIGHGOLD transparentyellowrectangularbottle yellowrectcap/blackyellowbox;SUPERROSE slimREDbottle redflaredcap/silverridgedneck withwhiterose/burgundybox;TULIP slimWHITEbottle whiteflaredcap/silverridgedneck withwhitepurplefloralbox. Preserve6distinct shapes/art/colours. Macro tightactualREDrose cap/silverneck.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-1bf310df-447c-4267-8442-670b7aa04fb7.png",
+      "prompt": "Native faithful reference edit into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. ENTIRE original six-variety perfume assortment is ONEproduct. Each fullview cell show exactly SIX DIFFERENT perfume bottles and SIX matching retailboxes together in2rows3pairs; preserve original bottle shapes/caps/colours/brand labels/boxart, noextra/missingitems or stocksubstitutes. Remove floating NEW/Fragrance/catalogue overlays and collageborders only. Toprowwhite studio fullassortment,lavendercreamstyled fullassortment,naturalvanity lifestyle fullassortment. Bottomrow standalone tightrealpart cap/glass/labelmacro only,promotional all6bottles6boxes heading 'Fragrance Assortment',blankcreamunused. Exactsplitx512,x1024,y512,no gutters/borders. Sixactualpairs: PARISNIGHT tallslim pinchedwaist COBALTBLUEbottle withdarkbluebox/Eiffeltower;JAQUAREBLACK blackrectangularbottle blackrectcap/blackbox catlogo;JAQUAREBLUE palebluerectangularbottle cobaltcap withstripedbluebox;BOSSHIGHGOLD transparentyellowrectangularbottle yellowrectcap/blackyellowbox;SUPERROSE slimREDbottle redflaredcap/silverridgedneck withwhiterose/burgundybox;TULIP slimWHITEbottle whiteflaredcap/silverridgedneck withwhitepurplefloralbox. Preserve6distinct shapes/art/colours. Macro tightactualREDrose cap/silverneck.\n",
+      "sha256": "5593cd0e423a4281de44b5da9f37714bf5733d23087b546804970bbf04ad4b65",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1bf310df-447c-4267-8442-670b7aa04fb7.png",
+      "grid_sha256": "ce923c6e21e3830194e5909b47f52071c00727c1af3dd0661315f2bf9945310f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Pass: fourfullviews sixdistinctHPfragrances withsixmatchingboxes:ParisNight/JaquareBlack/JaquareBlue/BossHighGold/SuperRose/Tulip. Originalblue/black/lightblue/yellow/red/whitebottles/capshapes retained. TightredRosecap/silverneckmacro,accurateheading, clean512crops. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-1bf310df-447c-4267-8442-670b7aa04fb7.png",
+      "prompt": "Native faithful reference edit into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. ENTIRE original six-variety perfume assortment is ONEproduct. Each fullview cell show exactly SIX DIFFERENT perfume bottles and SIX matching retailboxes together in2rows3pairs; preserve original bottle shapes/caps/colours/brand labels/boxart, noextra/missingitems or stocksubstitutes. Remove floating NEW/Fragrance/catalogue overlays and collageborders only. Toprowwhite studio fullassortment,lavendercreamstyled fullassortment,naturalvanity lifestyle fullassortment. Bottomrow standalone tightrealpart cap/glass/labelmacro only,promotional all6bottles6boxes heading 'Fragrance Assortment',blankcreamunused. Exactsplitx512,x1024,y512,no gutters/borders. Sixactualpairs: PARISNIGHT tallslim pinchedwaist COBALTBLUEbottle withdarkbluebox/Eiffeltower;JAQUAREBLACK blackrectangularbottle blackrectcap/blackbox catlogo;JAQUAREBLUE palebluerectangularbottle cobaltcap withstripedbluebox;BOSSHIGHGOLD transparentyellowrectangularbottle yellowrectcap/blackyellowbox;SUPERROSE slimREDbottle redflaredcap/silverridgedneck withwhiterose/burgundybox;TULIP slimWHITEbottle whiteflaredcap/silverridgedneck withwhitepurplefloralbox. Preserve6distinct shapes/art/colours. Macro tightactualREDrose cap/silverneck.\n",
+      "sha256": "d23b85804e40973f99f03e7bec24c268d9a3946d6f7c615e4404c1bc01cc6858",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1bf310df-447c-4267-8442-670b7aa04fb7.png",
+      "grid_sha256": "ce923c6e21e3830194e5909b47f52071c00727c1af3dd0661315f2bf9945310f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Pass: fourfullviews sixdistinctHPfragrances withsixmatchingboxes:ParisNight/JaquareBlack/JaquareBlue/BossHighGold/SuperRose/Tulip. Originalblue/black/lightblue/yellow/red/whitebottles/capshapes retained. TightredRosecap/silverneckmacro,accurateheading, clean512crops. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-1bf310df-447c-4267-8442-670b7aa04fb7.png",
+      "prompt": "Native faithful reference edit into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. ENTIRE original six-variety perfume assortment is ONEproduct. Each fullview cell show exactly SIX DIFFERENT perfume bottles and SIX matching retailboxes together in2rows3pairs; preserve original bottle shapes/caps/colours/brand labels/boxart, noextra/missingitems or stocksubstitutes. Remove floating NEW/Fragrance/catalogue overlays and collageborders only. Toprowwhite studio fullassortment,lavendercreamstyled fullassortment,naturalvanity lifestyle fullassortment. Bottomrow standalone tightrealpart cap/glass/labelmacro only,promotional all6bottles6boxes heading 'Fragrance Assortment',blankcreamunused. Exactsplitx512,x1024,y512,no gutters/borders. Sixactualpairs: PARISNIGHT tallslim pinchedwaist COBALTBLUEbottle withdarkbluebox/Eiffeltower;JAQUAREBLACK blackrectangularbottle blackrectcap/blackbox catlogo;JAQUAREBLUE palebluerectangularbottle cobaltcap withstripedbluebox;BOSSHIGHGOLD transparentyellowrectangularbottle yellowrectcap/blackyellowbox;SUPERROSE slimREDbottle redflaredcap/silverridgedneck withwhiterose/burgundybox;TULIP slimWHITEbottle whiteflaredcap/silverridgedneck withwhitepurplefloralbox. Preserve6distinct shapes/art/colours. Macro tightactualREDrose cap/silverneck.\n",
+      "sha256": "6ab4387d3c762e93b5b7896684706b47811823f3114e8e395bbff046fd427eda",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1bf310df-447c-4267-8442-670b7aa04fb7.png",
+      "grid_sha256": "ce923c6e21e3830194e5909b47f52071c00727c1af3dd0661315f2bf9945310f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Pass: fourfullviews sixdistinctHPfragrances withsixmatchingboxes:ParisNight/JaquareBlack/JaquareBlue/BossHighGold/SuperRose/Tulip. Originalblue/black/lightblue/yellow/red/whitebottles/capshapes retained. TightredRosecap/silverneckmacro,accurateheading, clean512crops. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-1bf310df-447c-4267-8442-670b7aa04fb7.png",
+      "prompt": "Native faithful reference edit into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. ENTIRE original six-variety perfume assortment is ONEproduct. Each fullview cell show exactly SIX DIFFERENT perfume bottles and SIX matching retailboxes together in2rows3pairs; preserve original bottle shapes/caps/colours/brand labels/boxart, noextra/missingitems or stocksubstitutes. Remove floating NEW/Fragrance/catalogue overlays and collageborders only. Toprowwhite studio fullassortment,lavendercreamstyled fullassortment,naturalvanity lifestyle fullassortment. Bottomrow standalone tightrealpart cap/glass/labelmacro only,promotional all6bottles6boxes heading 'Fragrance Assortment',blankcreamunused. Exactsplitx512,x1024,y512,no gutters/borders. Sixactualpairs: PARISNIGHT tallslim pinchedwaist COBALTBLUEbottle withdarkbluebox/Eiffeltower;JAQUAREBLACK blackrectangularbottle blackrectcap/blackbox catlogo;JAQUAREBLUE palebluerectangularbottle cobaltcap withstripedbluebox;BOSSHIGHGOLD transparentyellowrectangularbottle yellowrectcap/blackyellowbox;SUPERROSE slimREDbottle redflaredcap/silverridgedneck withwhiterose/burgundybox;TULIP slimWHITEbottle whiteflaredcap/silverridgedneck withwhitepurplefloralbox. Preserve6distinct shapes/art/colours. Macro tightactualREDrose cap/silverneck.\n",
+      "sha256": "9fb6ba4b82155fed96fe0b3b8076fc7fcd154066712e4729be196cb8baa80205",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1bf310df-447c-4267-8442-670b7aa04fb7.png",
+      "grid_sha256": "ce923c6e21e3830194e5909b47f52071c00727c1af3dd0661315f2bf9945310f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Pass: fourfullviews sixdistinctHPfragrances withsixmatchingboxes:ParisNight/JaquareBlack/JaquareBlue/BossHighGold/SuperRose/Tulip. Originalblue/black/lightblue/yellow/red/whitebottles/capshapes retained. TightredRosecap/silverneckmacro,accurateheading, clean512crops. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-1bf310df-447c-4267-8442-670b7aa04fb7.png",
+      "prompt": "Native faithful reference edit into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. ENTIRE original six-variety perfume assortment is ONEproduct. Each fullview cell show exactly SIX DIFFERENT perfume bottles and SIX matching retailboxes together in2rows3pairs; preserve original bottle shapes/caps/colours/brand labels/boxart, noextra/missingitems or stocksubstitutes. Remove floating NEW/Fragrance/catalogue overlays and collageborders only. Toprowwhite studio fullassortment,lavendercreamstyled fullassortment,naturalvanity lifestyle fullassortment. Bottomrow standalone tightrealpart cap/glass/labelmacro only,promotional all6bottles6boxes heading 'Fragrance Assortment',blankcreamunused. Exactsplitx512,x1024,y512,no gutters/borders. Sixactualpairs: PARISNIGHT tallslim pinchedwaist COBALTBLUEbottle withdarkbluebox/Eiffeltower;JAQUAREBLACK blackrectangularbottle blackrectcap/blackbox catlogo;JAQUAREBLUE palebluerectangularbottle cobaltcap withstripedbluebox;BOSSHIGHGOLD transparentyellowrectangularbottle yellowrectcap/blackyellowbox;SUPERROSE slimREDbottle redflaredcap/silverridgedneck withwhiterose/burgundybox;TULIP slimWHITEbottle whiteflaredcap/silverridgedneck withwhitepurplefloralbox. Preserve6distinct shapes/art/colours. Macro tightactualREDrose cap/silverneck.\n",
+      "sha256": "a8e159862fbe2ab190068eae49bc7be80be88da914b2548b782d49db18a73a0e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1bf310df-447c-4267-8442-670b7aa04fb7.png",
+      "grid_sha256": "ce923c6e21e3830194e5909b47f52071c00727c1af3dd0661315f2bf9945310f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Pass: fourfullviews sixdistinctHPfragrances withsixmatchingboxes:ParisNight/JaquareBlack/JaquareBlue/BossHighGold/SuperRose/Tulip. Originalblue/black/lightblue/yellow/red/whitebottles/capshapes retained. TightredRosecap/silverneckmacro,accurateheading, clean512crops. Frozenoriginal/outputSHAverified."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

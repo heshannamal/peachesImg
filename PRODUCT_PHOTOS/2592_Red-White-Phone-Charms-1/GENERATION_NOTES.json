@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0228.jpg": "4452bb431815f5d930913c10533e1be51c2c034af99f5f7e83029e65fe5ae58c"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-ee72223f-3338-428a-a04b-acb156a1d55f.png",
+      "source_output": "/workspace/generated_images/exec-ee72223f-3338-428a-a04b-acb156a1d55f.png",
+      "sha256": "5740c6cb1bf716039628d13f11a866a8bb9f227b98011cfd221ce33be8dfb902",
+      "prompt": "Edit the attached actual original into ONE website-ready contact sheet1536x1024, exactly3columns2rows square512cells no gutters. Toprow purewhite fullassortment / lavendercream styled fullassortment / vanitytable lifestyle fullassortment. Bottomrow standalone tightmacro of realbead part / fullassortment promotional accurateheading \"Crystal Beaded Phone Charms\" / blankcream. All4fullviews include exactlyTHREE original charms on white cards with goldroundclasps and clearphone attachmenttabs. Preserve original product beadshapes/colours/identity/count; removehand,bagglare,shopbackground,priceoverlayand677-4sticker. Do not add or omit charms or invent extra pendants. Originalthree are leftsmokygreycrystal, middlebrightredcrystal with iridescenttranslucentaccentbeads, rightpalechampagnecrystal with subtlypink/greeniridescentaccentbeads. They are slender beaded loop straps as photographed. No whitepearls or oversizedbeads. Detail tightlycrop actual redcrystalbeads and translucentiridescentbead withgoldspacers.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-ee72223f-3338-428a-a04b-acb156a1d55f.png",
+      "prompt": "Edit the attached actual original into ONE website-ready contact sheet1536x1024, exactly3columns2rows square512cells no gutters. Toprow purewhite fullassortment / lavendercream styled fullassortment / vanitytable lifestyle fullassortment. Bottomrow standalone tightmacro of realbead part / fullassortment promotional accurateheading \"Crystal Beaded Phone Charms\" / blankcream. All4fullviews include exactlyTHREE original charms on white cards with goldroundclasps and clearphone attachmenttabs. Preserve original product beadshapes/colours/identity/count; removehand,bagglare,shopbackground,priceoverlayand677-4sticker. Do not add or omit charms or invent extra pendants. Originalthree are leftsmokygreycrystal, middlebrightredcrystal with iridescenttranslucentaccentbeads, rightpalechampagnecrystal with subtlypink/greeniridescentaccentbeads. They are slender beaded loop straps as photographed. No whitepearls or oversizedbeads. Detail tightlycrop actual redcrystalbeads and translucentiridescentbead withgoldspacers.",
+      "sha256": "66803da623b39ba8fe0945ad67b7c9b76b39b2a8bac559b838829099c821dbcb",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ee72223f-3338-428a-a04b-acb156a1d55f.png",
+      "grid_sha256": "5740c6cb1bf716039628d13f11a866a8bb9f227b98011cfd221ce33be8dfb902",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual five crops inspected: exactlythree grey/red/champagne crystal phone straps with roundgoldclasps, clearattachmenttabs and sourceiridescentaccentbeads. Fullassortmentscount/identity preserved; white/lavenderstyled/vanitylifestyle distinct; realredbead macro tight, promotionalheadingaccurate. Website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-ee72223f-3338-428a-a04b-acb156a1d55f.png",
+      "prompt": "Edit the attached actual original into ONE website-ready contact sheet1536x1024, exactly3columns2rows square512cells no gutters. Toprow purewhite fullassortment / lavendercream styled fullassortment / vanitytable lifestyle fullassortment. Bottomrow standalone tightmacro of realbead part / fullassortment promotional accurateheading \"Crystal Beaded Phone Charms\" / blankcream. All4fullviews include exactlyTHREE original charms on white cards with goldroundclasps and clearphone attachmenttabs. Preserve original product beadshapes/colours/identity/count; removehand,bagglare,shopbackground,priceoverlayand677-4sticker. Do not add or omit charms or invent extra pendants. Originalthree are leftsmokygreycrystal, middlebrightredcrystal with iridescenttranslucentaccentbeads, rightpalechampagnecrystal with subtlypink/greeniridescentaccentbeads. They are slender beaded loop straps as photographed. No whitepearls or oversizedbeads. Detail tightlycrop actual redcrystalbeads and translucentiridescentbead withgoldspacers.",
+      "sha256": "3dfc1d16a57d858894bd1ff0ff18f8b87a9e00a0fbb7862e5530be980337cd8a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ee72223f-3338-428a-a04b-acb156a1d55f.png",
+      "grid_sha256": "5740c6cb1bf716039628d13f11a866a8bb9f227b98011cfd221ce33be8dfb902",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual five crops inspected: exactlythree grey/red/champagne crystal phone straps with roundgoldclasps, clearattachmenttabs and sourceiridescentaccentbeads. Fullassortmentscount/identity preserved; white/lavenderstyled/vanitylifestyle distinct; realredbead macro tight, promotionalheadingaccurate. Website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-ee72223f-3338-428a-a04b-acb156a1d55f.png",
+      "prompt": "Edit the attached actual original into ONE website-ready contact sheet1536x1024, exactly3columns2rows square512cells no gutters. Toprow purewhite fullassortment / lavendercream styled fullassortment / vanitytable lifestyle fullassortment. Bottomrow standalone tightmacro of realbead part / fullassortment promotional accurateheading \"Crystal Beaded Phone Charms\" / blankcream. All4fullviews include exactlyTHREE original charms on white cards with goldroundclasps and clearphone attachmenttabs. Preserve original product beadshapes/colours/identity/count; removehand,bagglare,shopbackground,priceoverlayand677-4sticker. Do not add or omit charms or invent extra pendants. Originalthree are leftsmokygreycrystal, middlebrightredcrystal with iridescenttranslucentaccentbeads, rightpalechampagnecrystal with subtlypink/greeniridescentaccentbeads. They are slender beaded loop straps as photographed. No whitepearls or oversizedbeads. Detail tightlycrop actual redcrystalbeads and translucentiridescentbead withgoldspacers.",
+      "sha256": "8df3ffa850faefab49e32b5806109d46e7516e6d6cff1efe4515efcd84a3367a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ee72223f-3338-428a-a04b-acb156a1d55f.png",
+      "grid_sha256": "5740c6cb1bf716039628d13f11a866a8bb9f227b98011cfd221ce33be8dfb902",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual five crops inspected: exactlythree grey/red/champagne crystal phone straps with roundgoldclasps, clearattachmenttabs and sourceiridescentaccentbeads. Fullassortmentscount/identity preserved; white/lavenderstyled/vanitylifestyle distinct; realredbead macro tight, promotionalheadingaccurate. Website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-ee72223f-3338-428a-a04b-acb156a1d55f.png",
+      "prompt": "Edit the attached actual original into ONE website-ready contact sheet1536x1024, exactly3columns2rows square512cells no gutters. Toprow purewhite fullassortment / lavendercream styled fullassortment / vanitytable lifestyle fullassortment. Bottomrow standalone tightmacro of realbead part / fullassortment promotional accurateheading \"Crystal Beaded Phone Charms\" / blankcream. All4fullviews include exactlyTHREE original charms on white cards with goldroundclasps and clearphone attachmenttabs. Preserve original product beadshapes/colours/identity/count; removehand,bagglare,shopbackground,priceoverlayand677-4sticker. Do not add or omit charms or invent extra pendants. Originalthree are leftsmokygreycrystal, middlebrightredcrystal with iridescenttranslucentaccentbeads, rightpalechampagnecrystal with subtlypink/greeniridescentaccentbeads. They are slender beaded loop straps as photographed. No whitepearls or oversizedbeads. Detail tightlycrop actual redcrystalbeads and translucentiridescentbead withgoldspacers.",
+      "sha256": "4d9a5fbcff45c80906f44df0e1b3143228431d543296d9ee10345d2d6b1f1a4c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ee72223f-3338-428a-a04b-acb156a1d55f.png",
+      "grid_sha256": "5740c6cb1bf716039628d13f11a866a8bb9f227b98011cfd221ce33be8dfb902",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual five crops inspected: exactlythree grey/red/champagne crystal phone straps with roundgoldclasps, clearattachmenttabs and sourceiridescentaccentbeads. Fullassortmentscount/identity preserved; white/lavenderstyled/vanitylifestyle distinct; realredbead macro tight, promotionalheadingaccurate. Website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-ee72223f-3338-428a-a04b-acb156a1d55f.png",
+      "prompt": "Edit the attached actual original into ONE website-ready contact sheet1536x1024, exactly3columns2rows square512cells no gutters. Toprow purewhite fullassortment / lavendercream styled fullassortment / vanitytable lifestyle fullassortment. Bottomrow standalone tightmacro of realbead part / fullassortment promotional accurateheading \"Crystal Beaded Phone Charms\" / blankcream. All4fullviews include exactlyTHREE original charms on white cards with goldroundclasps and clearphone attachmenttabs. Preserve original product beadshapes/colours/identity/count; removehand,bagglare,shopbackground,priceoverlayand677-4sticker. Do not add or omit charms or invent extra pendants. Originalthree are leftsmokygreycrystal, middlebrightredcrystal with iridescenttranslucentaccentbeads, rightpalechampagnecrystal with subtlypink/greeniridescentaccentbeads. They are slender beaded loop straps as photographed. No whitepearls or oversizedbeads. Detail tightlycrop actual redcrystalbeads and translucentiridescentbead withgoldspacers.",
+      "sha256": "876ab8f61a72dcc1c3cfa0f51c376e4db39cc3e5f6bd41047bb8fdea9e27c7b5",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ee72223f-3338-428a-a04b-acb156a1d55f.png",
+      "grid_sha256": "5740c6cb1bf716039628d13f11a866a8bb9f227b98011cfd221ce33be8dfb902",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual five crops inspected: exactlythree grey/red/champagne crystal phone straps with roundgoldclasps, clearattachmenttabs and sourceiridescentaccentbeads. Fullassortmentscount/identity preserved; white/lavenderstyled/vanitylifestyle distinct; realredbead macro tight, promotionalheadingaccurate. Website-ready."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

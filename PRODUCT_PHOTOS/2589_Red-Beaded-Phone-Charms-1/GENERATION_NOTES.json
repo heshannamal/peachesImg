@@ -1,0 +1,126 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0219.jpg": "23402c7e0e10b7242dbbb6942d3454058dfa9b3f056a32f06f3f2b99019a57c6"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-33f8ce8b-ef07-48fa-8b7b-500d3be8bf46.png",
+      "source_output": "/workspace/generated_images/exec-33f8ce8b-ef07-48fa-8b7b-500d3be8bf46.png",
+      "sha256": "4e39fdcde068886c685971a34ce99fc353d609e459605b984db6bd4e2ad3baaa",
+      "prompt": "Edit actual supplied original into ONE landscape1536x1024 clean website photo-grid exact3columns2rows equal512squarecells. Preserve photographed whole assortment THREE beaded loop phone charms on three slim white display cards, each with one gold round clasp at top, long U-shaped loop and original bead pattern/colours. Remove hand,shop,oldoverlay,outerplasticglare; do not create12items. Four full-view cells always exactly3charms/cards. Toprow white studio, lavender/cream styled, natural desktop lifestyle with all3cards. Bottomrow tight standalone real bead/clasp macro only, promotional assortment accurate heading 'Crystal Bead Phone Charms', blankcream. Exactcellboundaries x512,1024,y512 no gutters/borders. Referencevariants: left black/champagne-gold facetedbeads, middle cherryred/champagne-gold facetedbeads, right champagne-peach/clearfacetedbeads. Each has small multicolour iridescent round/oval beads along lowerloop, goldroundclasp, Uloopform. Do not substitute pearl/charactermotifs. Detailtightredandchampagne crystalbeads, preserve realfacets.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-33f8ce8b-ef07-48fa-8b7b-500d3be8bf46.png",
+      "prompt": "Edit actual supplied original into ONE landscape1536x1024 clean website photo-grid exact3columns2rows equal512squarecells. Preserve photographed whole assortment THREE beaded loop phone charms on three slim white display cards, each with one gold round clasp at top, long U-shaped loop and original bead pattern/colours. Remove hand,shop,oldoverlay,outerplasticglare; do not create12items. Four full-view cells always exactly3charms/cards. Toprow white studio, lavender/cream styled, natural desktop lifestyle with all3cards. Bottomrow tight standalone real bead/clasp macro only, promotional assortment accurate heading 'Crystal Bead Phone Charms', blankcream. Exactcellboundaries x512,1024,y512 no gutters/borders. Referencevariants: left black/champagne-gold facetedbeads, middle cherryred/champagne-gold facetedbeads, right champagne-peach/clearfacetedbeads. Each has small multicolour iridescent round/oval beads along lowerloop, goldroundclasp, Uloopform. Do not substitute pearl/charactermotifs. Detailtightredandchampagne crystalbeads, preserve realfacets.\n",
+      "sha256": "268a44b94bff7aecea9dc9d72093475aa14bb4589b991453f9904c95a676d528",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-33f8ce8b-ef07-48fa-8b7b-500d3be8bf46.png",
+      "grid_sha256": "4e39fdcde068886c685971a34ce99fc353d609e459605b984db6bd4e2ad3baaa",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Pass: four fullviews each show3goldclasp U-loop charms/cards, black/champagne,red/champagne,peach-clear, preserving lower iridescent bead features and loopshape. Detail tight actual red/champagne beads andclasp. Accurate heading, clean512cell crops; original/outputSHA verified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-33f8ce8b-ef07-48fa-8b7b-500d3be8bf46.png",
+      "prompt": "Edit actual supplied original into ONE landscape1536x1024 clean website photo-grid exact3columns2rows equal512squarecells. Preserve photographed whole assortment THREE beaded loop phone charms on three slim white display cards, each with one gold round clasp at top, long U-shaped loop and original bead pattern/colours. Remove hand,shop,oldoverlay,outerplasticglare; do not create12items. Four full-view cells always exactly3charms/cards. Toprow white studio, lavender/cream styled, natural desktop lifestyle with all3cards. Bottomrow tight standalone real bead/clasp macro only, promotional assortment accurate heading 'Crystal Bead Phone Charms', blankcream. Exactcellboundaries x512,1024,y512 no gutters/borders. Referencevariants: left black/champagne-gold facetedbeads, middle cherryred/champagne-gold facetedbeads, right champagne-peach/clearfacetedbeads. Each has small multicolour iridescent round/oval beads along lowerloop, goldroundclasp, Uloopform. Do not substitute pearl/charactermotifs. Detailtightredandchampagne crystalbeads, preserve realfacets.\n",
+      "sha256": "9c47400f01f2c509a60370bb4fee29940a945062e854f3af2d4da498a3627eda",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-33f8ce8b-ef07-48fa-8b7b-500d3be8bf46.png",
+      "grid_sha256": "4e39fdcde068886c685971a34ce99fc353d609e459605b984db6bd4e2ad3baaa",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Pass: four fullviews each show3goldclasp U-loop charms/cards, black/champagne,red/champagne,peach-clear, preserving lower iridescent bead features and loopshape. Detail tight actual red/champagne beads andclasp. Accurate heading, clean512cell crops; original/outputSHA verified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-33f8ce8b-ef07-48fa-8b7b-500d3be8bf46.png",
+      "prompt": "Edit actual supplied original into ONE landscape1536x1024 clean website photo-grid exact3columns2rows equal512squarecells. Preserve photographed whole assortment THREE beaded loop phone charms on three slim white display cards, each with one gold round clasp at top, long U-shaped loop and original bead pattern/colours. Remove hand,shop,oldoverlay,outerplasticglare; do not create12items. Four full-view cells always exactly3charms/cards. Toprow white studio, lavender/cream styled, natural desktop lifestyle with all3cards. Bottomrow tight standalone real bead/clasp macro only, promotional assortment accurate heading 'Crystal Bead Phone Charms', blankcream. Exactcellboundaries x512,1024,y512 no gutters/borders. Referencevariants: left black/champagne-gold facetedbeads, middle cherryred/champagne-gold facetedbeads, right champagne-peach/clearfacetedbeads. Each has small multicolour iridescent round/oval beads along lowerloop, goldroundclasp, Uloopform. Do not substitute pearl/charactermotifs. Detailtightredandchampagne crystalbeads, preserve realfacets.\n",
+      "sha256": "8321e84f71b0014010fb6bba844c94c063a51f5cbfac84495d1e9fa05d6bace5",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-33f8ce8b-ef07-48fa-8b7b-500d3be8bf46.png",
+      "grid_sha256": "4e39fdcde068886c685971a34ce99fc353d609e459605b984db6bd4e2ad3baaa",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Pass: four fullviews each show3goldclasp U-loop charms/cards, black/champagne,red/champagne,peach-clear, preserving lower iridescent bead features and loopshape. Detail tight actual red/champagne beads andclasp. Accurate heading, clean512cell crops; original/outputSHA verified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-33f8ce8b-ef07-48fa-8b7b-500d3be8bf46.png",
+      "prompt": "Edit actual supplied original into ONE landscape1536x1024 clean website photo-grid exact3columns2rows equal512squarecells. Preserve photographed whole assortment THREE beaded loop phone charms on three slim white display cards, each with one gold round clasp at top, long U-shaped loop and original bead pattern/colours. Remove hand,shop,oldoverlay,outerplasticglare; do not create12items. Four full-view cells always exactly3charms/cards. Toprow white studio, lavender/cream styled, natural desktop lifestyle with all3cards. Bottomrow tight standalone real bead/clasp macro only, promotional assortment accurate heading 'Crystal Bead Phone Charms', blankcream. Exactcellboundaries x512,1024,y512 no gutters/borders. Referencevariants: left black/champagne-gold facetedbeads, middle cherryred/champagne-gold facetedbeads, right champagne-peach/clearfacetedbeads. Each has small multicolour iridescent round/oval beads along lowerloop, goldroundclasp, Uloopform. Do not substitute pearl/charactermotifs. Detailtightredandchampagne crystalbeads, preserve realfacets.\n",
+      "sha256": "56aebc344072541ed60a9f8b4f6f391c3ede6b3df6f6188eaf5a73b160c0768b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-33f8ce8b-ef07-48fa-8b7b-500d3be8bf46.png",
+      "grid_sha256": "4e39fdcde068886c685971a34ce99fc353d609e459605b984db6bd4e2ad3baaa",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Pass: four fullviews each show3goldclasp U-loop charms/cards, black/champagne,red/champagne,peach-clear, preserving lower iridescent bead features and loopshape. Detail tight actual red/champagne beads andclasp. Accurate heading, clean512cell crops; original/outputSHA verified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-33f8ce8b-ef07-48fa-8b7b-500d3be8bf46.png",
+      "prompt": "Edit actual supplied original into ONE landscape1536x1024 clean website photo-grid exact3columns2rows equal512squarecells. Preserve photographed whole assortment THREE beaded loop phone charms on three slim white display cards, each with one gold round clasp at top, long U-shaped loop and original bead pattern/colours. Remove hand,shop,oldoverlay,outerplasticglare; do not create12items. Four full-view cells always exactly3charms/cards. Toprow white studio, lavender/cream styled, natural desktop lifestyle with all3cards. Bottomrow tight standalone real bead/clasp macro only, promotional assortment accurate heading 'Crystal Bead Phone Charms', blankcream. Exactcellboundaries x512,1024,y512 no gutters/borders. Referencevariants: left black/champagne-gold facetedbeads, middle cherryred/champagne-gold facetedbeads, right champagne-peach/clearfacetedbeads. Each has small multicolour iridescent round/oval beads along lowerloop, goldroundclasp, Uloopform. Do not substitute pearl/charactermotifs. Detailtightredandchampagne crystalbeads, preserve realfacets.\n",
+      "sha256": "94bc398fb8f46026cb3849cd858375d4c941f99688af3be9e9374f9f5f3bdf1a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-33f8ce8b-ef07-48fa-8b7b-500d3be8bf46.png",
+      "grid_sha256": "4e39fdcde068886c685971a34ce99fc353d609e459605b984db6bd4e2ad3baaa",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Pass: four fullviews each show3goldclasp U-loop charms/cards, black/champagne,red/champagne,peach-clear, preserving lower iridescent bead features and loopshape. Detail tight actual red/champagne beads andclasp. Accurate heading, clean512cell crops; original/outputSHA verified."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

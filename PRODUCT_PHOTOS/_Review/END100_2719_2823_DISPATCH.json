@@ -1,0 +1,367 @@
+{
+  "assigned": {
+    "end_worker1": [],
+    "end_worker2": [],
+    "end_worker3": [],
+    "end_worker4": [],
+    "end_worker5": []
+  },
+  "next_unassigned": [],
+  "order": "descending_numeric_product_id",
+  "workflow": "one_native3x2grid_fiveviews_then_crop",
+  "assignment_history": [
+    {
+      "worker": "end_worker4",
+      "product_ids": [
+        "2817",
+        "2814"
+      ]
+    },
+    {
+      "worker": "end_worker2",
+      "product_ids": [
+        "2821",
+        "2820"
+      ]
+    },
+    {
+      "worker": "end_worker5",
+      "product_ids": [
+        "2813",
+        "2812"
+      ]
+    },
+    {
+      "worker": "end_worker1",
+      "product_ids": [
+        "2823",
+        "2822"
+      ]
+    },
+    {
+      "worker": "end_worker3",
+      "product_ids": [
+        "2819",
+        "2818"
+      ]
+    },
+    {
+      "worker": "end_worker2",
+      "product_ids": [
+        "2809",
+        "2808"
+      ]
+    },
+    {
+      "worker": "end_worker5",
+      "product_ids": [
+        "2807",
+        "2806"
+      ]
+    },
+    {
+      "worker": "end_worker4",
+      "product_ids": [
+        "2811",
+        "2810"
+      ]
+    },
+    {
+      "worker": "end_worker3",
+      "product_ids": [
+        "2801",
+        "2800"
+      ]
+    },
+    {
+      "worker": "end_worker1",
+      "product_ids": [
+        "2805",
+        "2804"
+      ]
+    },
+    {
+      "worker": "end_worker5",
+      "product_ids": [
+        "2797",
+        "2796"
+      ]
+    },
+    {
+      "worker": "end_worker4",
+      "product_ids": [
+        "2795",
+        "2794"
+      ]
+    },
+    {
+      "worker": "end_worker1",
+      "product_ids": [
+        "2791",
+        "2790"
+      ]
+    },
+    {
+      "worker": "end_worker2",
+      "product_ids": [
+        "2799",
+        "2798"
+      ]
+    },
+    {
+      "worker": "end_worker5",
+      "product_ids": [
+        "2789",
+        "2788"
+      ]
+    },
+    {
+      "worker": "end_worker3",
+      "product_ids": [
+        "2793",
+        "2792"
+      ]
+    },
+    {
+      "worker": "end_worker1",
+      "product_ids": [
+        "2785",
+        "2784"
+      ]
+    },
+    {
+      "worker": "end_worker4",
+      "product_ids": [
+        "2787",
+        "2786"
+      ]
+    },
+    {
+      "worker": "end_worker2",
+      "product_ids": [
+        "2783",
+        "2782"
+      ]
+    },
+    {
+      "worker": "end_worker5",
+      "product_ids": [
+        "2781",
+        "2780"
+      ]
+    },
+    {
+      "worker": "end_worker3",
+      "product_ids": [
+        "2779",
+        "2778"
+      ]
+    },
+    {
+      "worker": "end_worker1",
+      "product_ids": [
+        "2777",
+        "2776"
+      ]
+    },
+    {
+      "worker": "end_worker4",
+      "product_ids": [
+        "2775",
+        "2774"
+      ]
+    },
+    {
+      "worker": "end_worker5",
+      "product_ids": [
+        "2771",
+        "2770"
+      ]
+    },
+    {
+      "worker": "end_worker3",
+      "product_ids": [
+        "2769",
+        "2768"
+      ]
+    },
+    {
+      "worker": "end_worker1",
+      "product_ids": [
+        "2767",
+        "2766"
+      ]
+    },
+    {
+      "worker": "end_worker4",
+      "product_ids": [
+        "2765",
+        "2764"
+      ]
+    },
+    {
+      "worker": "end_worker2",
+      "product_ids": [
+        "2773",
+        "2772"
+      ]
+    },
+    {
+      "worker": "end_worker5",
+      "product_ids": [
+        "2763",
+        "2762"
+      ]
+    },
+    {
+      "worker": "end_worker2",
+      "product_ids": [
+        "2755",
+        "2754"
+      ]
+    },
+    {
+      "worker": "end_worker1",
+      "product_ids": [
+        "2759",
+        "2758"
+      ]
+    },
+    {
+      "worker": "end_worker3",
+      "product_ids": [
+        "2761",
+        "2760"
+      ]
+    },
+    {
+      "worker": "end_worker4",
+      "product_ids": [
+        "2757",
+        "2756"
+      ]
+    },
+    {
+      "worker": "end_worker5",
+      "product_ids": [
+        "2753",
+        "2752"
+      ]
+    },
+    {
+      "worker": "end_worker2",
+      "product_ids": [
+        "2751",
+        "2750"
+      ]
+    },
+    {
+      "worker": "end_worker1",
+      "product_ids": [
+        "2749",
+        "2748"
+      ]
+    },
+    {
+      "worker": "end_worker4",
+      "product_ids": [
+        "2745",
+        "2744"
+      ]
+    },
+    {
+      "worker": "end_worker3",
+      "product_ids": [
+        "2747",
+        "2746"
+      ]
+    },
+    {
+      "worker": "end_worker5",
+      "product_ids": [
+        "2743",
+        "2741"
+      ]
+    },
+    {
+      "worker": "end_worker1",
+      "product_ids": [
+        "2738",
+        "2737"
+      ]
+    },
+    {
+      "worker": "end_worker4",
+      "product_ids": [
+        "2736",
+        "2735"
+      ]
+    },
+    {
+      "worker": "end_worker2",
+      "product_ids": [
+        "2740",
+        "2739"
+      ]
+    },
+    {
+      "worker": "end_worker3",
+      "product_ids": [
+        "2734",
+        "2733"
+      ]
+    },
+    {
+      "worker": "end_worker5",
+      "product_ids": [
+        "2732",
+        "2731"
+      ]
+    },
+    {
+      "worker": "end_worker1",
+      "product_ids": [
+        "2730",
+        "2729"
+      ]
+    },
+    {
+      "worker": "end_worker4",
+      "product_ids": [
+        "2728",
+        "2727"
+      ]
+    },
+    {
+      "worker": "end_worker2",
+      "product_ids": [
+        "2726",
+        "2725"
+      ]
+    },
+    {
+      "worker": "end_worker3",
+      "product_ids": [
+        "2724",
+        "2723"
+      ]
+    },
+    {
+      "worker": "end_worker5",
+      "product_ids": [
+        "2722",
+        "2721"
+      ]
+    },
+    {
+      "worker": "end_worker1",
+      "product_ids": [
+        "2720",
+        "2719"
+      ]
+    }
+  ],
+  "status": "exhausted",
+  "active_workers": 0,
+  "inflight_calls": 0
+}

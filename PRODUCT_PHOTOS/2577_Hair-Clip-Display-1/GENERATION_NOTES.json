@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260930-WA0288.jpg": "9d593875ff3dad1e7b82329d8511ae2aa64fb4c9a62b1d726546d52a7b997bfc"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-dfb5102b-f9bb-4815-9444-59ca535a00cc.png",
+      "source_output": "/workspace/generated_images/exec-dfb5102b-f9bb-4815-9444-59ca535a00cc.png",
+      "sha256": "6e5d29cf645cfc39d3a8c670d20860104394228b5209ac80ce5472f9e024bd5a",
+      "prompt": "Edit referenced ORIGINAL PHOTOGRAPH as source identity, DO NOT REDRAW/REINVENT INDIVIDUAL JEWELLERY. Product is the ENTIRE DISPLAY ASSORTMENT shown, every foreground displaycard and all its pins remain together, not a representative selection. Create ONE1536x1024 landscapeimage strict3columns2rows of512square cells. Eachfullview contains entireoriginal assortment like a productphoto inset large enough to see allcards. Cell1top-left cleanwhiteborder/background aroundfullassortment, Cell2top-middle lavender/creamborder/background aroundfullassortment, Cell3top-right lifestyle showroom context aroundfullassortment, Cell4bottom-left standalone tightmacro actualrealbeadedpin fromsource, Cell5bottom-middle fullassortment with heading 'Decorative Saree Pins', Cell6bottom-rightblankcream. Preserve sourcephoto's exactcardcount, pinquantity, pinarrangement, shapes, beadcolours andgoldtonehardware, no inventedcards, noremoval/replacement. Can retainoriginalsupportdisplayframe toavoid changingproducts, crop only peripheral shop clutter. Do not invent cleanreplacementcards, preserve eachprintedcard andsmallpins. No price overlays innewviews. Actualsource is goldtone decorativebeaded safety/sareepins onSIXTEEN foregroundlongwhitecards, EIGHTtoprow+EIGHTbottomrow. Toprow mixedsmallbeads, pastelpairedtexturedbeads,mixedroundbeads,blackwhitebeads,goldspacers,mixedconebe\u200b\u200bads,tripletheartbeads,mixedovalbeads; bottomrow assortedrhinestonepins andbeadedsafetypins. Keep all16cards together ineachfullview. Detailmacro sourcepinwiththreepinkheartbeads fromtoprownear-right.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-dfb5102b-f9bb-4815-9444-59ca535a00cc.png",
+      "prompt": "Edit referenced ORIGINAL PHOTOGRAPH as source identity, DO NOT REDRAW/REINVENT INDIVIDUAL JEWELLERY. Product is the ENTIRE DISPLAY ASSORTMENT shown, every foreground displaycard and all its pins remain together, not a representative selection. Create ONE1536x1024 landscapeimage strict3columns2rows of512square cells. Eachfullview contains entireoriginal assortment like a productphoto inset large enough to see allcards. Cell1top-left cleanwhiteborder/background aroundfullassortment, Cell2top-middle lavender/creamborder/background aroundfullassortment, Cell3top-right lifestyle showroom context aroundfullassortment, Cell4bottom-left standalone tightmacro actualrealbeadedpin fromsource, Cell5bottom-middle fullassortment with heading 'Decorative Saree Pins', Cell6bottom-rightblankcream. Preserve sourcephoto's exactcardcount, pinquantity, pinarrangement, shapes, beadcolours andgoldtonehardware, no inventedcards, noremoval/replacement. Can retainoriginalsupportdisplayframe toavoid changingproducts, crop only peripheral shop clutter. Do not invent cleanreplacementcards, preserve eachprintedcard andsmallpins. No price overlays innewviews. Actualsource is goldtone decorativebeaded safety/sareepins onSIXTEEN foregroundlongwhitecards, EIGHTtoprow+EIGHTbottomrow. Toprow mixedsmallbeads, pastelpairedtexturedbeads,mixedroundbeads,blackwhitebeads,goldspacers,mixedconebe\u200b\u200bads,tripletheartbeads,mixedovalbeads; bottomrow assortedrhinestonepins andbeadedsafetypins. Keep all16cards together ineachfullview. Detailmacro sourcepinwiththreepinkheartbeads fromtoprownear-right.",
+      "sha256": "daf04f3f7f84b756c66ea050fdae60556b78ec3a4d5193c3e4cb1183d5668b2a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-dfb5102b-f9bb-4815-9444-59ca535a00cc.png",
+      "grid_sha256": "6e5d29cf645cfc39d3a8c670d20860104394228b5209ac80ce5472f9e024bd5a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crop compared withoriginal: all16foregroundcards(8top8bottom), theirbeadedpinstylesandcolourarrays retainedasonewholeassortment. Tightpink/purpleheartbeadedpinmacro usesactualpart. AccurateDecorativeSareePins heading; foldernameHairClipDisplayiswrong. Tinyindividualbeads notresolvedatwebsitefullviewsize, noobservedmaterialomission."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-dfb5102b-f9bb-4815-9444-59ca535a00cc.png",
+      "prompt": "Edit referenced ORIGINAL PHOTOGRAPH as source identity, DO NOT REDRAW/REINVENT INDIVIDUAL JEWELLERY. Product is the ENTIRE DISPLAY ASSORTMENT shown, every foreground displaycard and all its pins remain together, not a representative selection. Create ONE1536x1024 landscapeimage strict3columns2rows of512square cells. Eachfullview contains entireoriginal assortment like a productphoto inset large enough to see allcards. Cell1top-left cleanwhiteborder/background aroundfullassortment, Cell2top-middle lavender/creamborder/background aroundfullassortment, Cell3top-right lifestyle showroom context aroundfullassortment, Cell4bottom-left standalone tightmacro actualrealbeadedpin fromsource, Cell5bottom-middle fullassortment with heading 'Decorative Saree Pins', Cell6bottom-rightblankcream. Preserve sourcephoto's exactcardcount, pinquantity, pinarrangement, shapes, beadcolours andgoldtonehardware, no inventedcards, noremoval/replacement. Can retainoriginalsupportdisplayframe toavoid changingproducts, crop only peripheral shop clutter. Do not invent cleanreplacementcards, preserve eachprintedcard andsmallpins. No price overlays innewviews. Actualsource is goldtone decorativebeaded safety/sareepins onSIXTEEN foregroundlongwhitecards, EIGHTtoprow+EIGHTbottomrow. Toprow mixedsmallbeads, pastelpairedtexturedbeads,mixedroundbeads,blackwhitebeads,goldspacers,mixedconebe\u200b\u200bads,tripletheartbeads,mixedovalbeads; bottomrow assortedrhinestonepins andbeadedsafetypins. Keep all16cards together ineachfullview. Detailmacro sourcepinwiththreepinkheartbeads fromtoprownear-right.",
+      "sha256": "689da22ec4674e8d7861cbb4cece646d38cb2c23d36ecf549b7551138f902ab2",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-dfb5102b-f9bb-4815-9444-59ca535a00cc.png",
+      "grid_sha256": "6e5d29cf645cfc39d3a8c670d20860104394228b5209ac80ce5472f9e024bd5a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crop compared withoriginal: all16foregroundcards(8top8bottom), theirbeadedpinstylesandcolourarrays retainedasonewholeassortment. Tightpink/purpleheartbeadedpinmacro usesactualpart. AccurateDecorativeSareePins heading; foldernameHairClipDisplayiswrong. Tinyindividualbeads notresolvedatwebsitefullviewsize, noobservedmaterialomission."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-dfb5102b-f9bb-4815-9444-59ca535a00cc.png",
+      "prompt": "Edit referenced ORIGINAL PHOTOGRAPH as source identity, DO NOT REDRAW/REINVENT INDIVIDUAL JEWELLERY. Product is the ENTIRE DISPLAY ASSORTMENT shown, every foreground displaycard and all its pins remain together, not a representative selection. Create ONE1536x1024 landscapeimage strict3columns2rows of512square cells. Eachfullview contains entireoriginal assortment like a productphoto inset large enough to see allcards. Cell1top-left cleanwhiteborder/background aroundfullassortment, Cell2top-middle lavender/creamborder/background aroundfullassortment, Cell3top-right lifestyle showroom context aroundfullassortment, Cell4bottom-left standalone tightmacro actualrealbeadedpin fromsource, Cell5bottom-middle fullassortment with heading 'Decorative Saree Pins', Cell6bottom-rightblankcream. Preserve sourcephoto's exactcardcount, pinquantity, pinarrangement, shapes, beadcolours andgoldtonehardware, no inventedcards, noremoval/replacement. Can retainoriginalsupportdisplayframe toavoid changingproducts, crop only peripheral shop clutter. Do not invent cleanreplacementcards, preserve eachprintedcard andsmallpins. No price overlays innewviews. Actualsource is goldtone decorativebeaded safety/sareepins onSIXTEEN foregroundlongwhitecards, EIGHTtoprow+EIGHTbottomrow. Toprow mixedsmallbeads, pastelpairedtexturedbeads,mixedroundbeads,blackwhitebeads,goldspacers,mixedconebe\u200b\u200bads,tripletheartbeads,mixedovalbeads; bottomrow assortedrhinestonepins andbeadedsafetypins. Keep all16cards together ineachfullview. Detailmacro sourcepinwiththreepinkheartbeads fromtoprownear-right.",
+      "sha256": "4d5f9eb911ac2d67a1db2c9f201a53e78548bafb350cac9e5b2e9eff1e4aef61",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-dfb5102b-f9bb-4815-9444-59ca535a00cc.png",
+      "grid_sha256": "6e5d29cf645cfc39d3a8c670d20860104394228b5209ac80ce5472f9e024bd5a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crop compared withoriginal: all16foregroundcards(8top8bottom), theirbeadedpinstylesandcolourarrays retainedasonewholeassortment. Tightpink/purpleheartbeadedpinmacro usesactualpart. AccurateDecorativeSareePins heading; foldernameHairClipDisplayiswrong. Tinyindividualbeads notresolvedatwebsitefullviewsize, noobservedmaterialomission."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-dfb5102b-f9bb-4815-9444-59ca535a00cc.png",
+      "prompt": "Edit referenced ORIGINAL PHOTOGRAPH as source identity, DO NOT REDRAW/REINVENT INDIVIDUAL JEWELLERY. Product is the ENTIRE DISPLAY ASSORTMENT shown, every foreground displaycard and all its pins remain together, not a representative selection. Create ONE1536x1024 landscapeimage strict3columns2rows of512square cells. Eachfullview contains entireoriginal assortment like a productphoto inset large enough to see allcards. Cell1top-left cleanwhiteborder/background aroundfullassortment, Cell2top-middle lavender/creamborder/background aroundfullassortment, Cell3top-right lifestyle showroom context aroundfullassortment, Cell4bottom-left standalone tightmacro actualrealbeadedpin fromsource, Cell5bottom-middle fullassortment with heading 'Decorative Saree Pins', Cell6bottom-rightblankcream. Preserve sourcephoto's exactcardcount, pinquantity, pinarrangement, shapes, beadcolours andgoldtonehardware, no inventedcards, noremoval/replacement. Can retainoriginalsupportdisplayframe toavoid changingproducts, crop only peripheral shop clutter. Do not invent cleanreplacementcards, preserve eachprintedcard andsmallpins. No price overlays innewviews. Actualsource is goldtone decorativebeaded safety/sareepins onSIXTEEN foregroundlongwhitecards, EIGHTtoprow+EIGHTbottomrow. Toprow mixedsmallbeads, pastelpairedtexturedbeads,mixedroundbeads,blackwhitebeads,goldspacers,mixedconebe\u200b\u200bads,tripletheartbeads,mixedovalbeads; bottomrow assortedrhinestonepins andbeadedsafetypins. Keep all16cards together ineachfullview. Detailmacro sourcepinwiththreepinkheartbeads fromtoprownear-right.",
+      "sha256": "12ac780542d01654f779cfcb88b2cf1452f34e7ba290d5b6213ba901e5d2420d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-dfb5102b-f9bb-4815-9444-59ca535a00cc.png",
+      "grid_sha256": "6e5d29cf645cfc39d3a8c670d20860104394228b5209ac80ce5472f9e024bd5a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crop compared withoriginal: all16foregroundcards(8top8bottom), theirbeadedpinstylesandcolourarrays retainedasonewholeassortment. Tightpink/purpleheartbeadedpinmacro usesactualpart. AccurateDecorativeSareePins heading; foldernameHairClipDisplayiswrong. Tinyindividualbeads notresolvedatwebsitefullviewsize, noobservedmaterialomission."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-dfb5102b-f9bb-4815-9444-59ca535a00cc.png",
+      "prompt": "Edit referenced ORIGINAL PHOTOGRAPH as source identity, DO NOT REDRAW/REINVENT INDIVIDUAL JEWELLERY. Product is the ENTIRE DISPLAY ASSORTMENT shown, every foreground displaycard and all its pins remain together, not a representative selection. Create ONE1536x1024 landscapeimage strict3columns2rows of512square cells. Eachfullview contains entireoriginal assortment like a productphoto inset large enough to see allcards. Cell1top-left cleanwhiteborder/background aroundfullassortment, Cell2top-middle lavender/creamborder/background aroundfullassortment, Cell3top-right lifestyle showroom context aroundfullassortment, Cell4bottom-left standalone tightmacro actualrealbeadedpin fromsource, Cell5bottom-middle fullassortment with heading 'Decorative Saree Pins', Cell6bottom-rightblankcream. Preserve sourcephoto's exactcardcount, pinquantity, pinarrangement, shapes, beadcolours andgoldtonehardware, no inventedcards, noremoval/replacement. Can retainoriginalsupportdisplayframe toavoid changingproducts, crop only peripheral shop clutter. Do not invent cleanreplacementcards, preserve eachprintedcard andsmallpins. No price overlays innewviews. Actualsource is goldtone decorativebeaded safety/sareepins onSIXTEEN foregroundlongwhitecards, EIGHTtoprow+EIGHTbottomrow. Toprow mixedsmallbeads, pastelpairedtexturedbeads,mixedroundbeads,blackwhitebeads,goldspacers,mixedconebe\u200b\u200bads,tripletheartbeads,mixedovalbeads; bottomrow assortedrhinestonepins andbeadedsafetypins. Keep all16cards together ineachfullview. Detailmacro sourcepinwiththreepinkheartbeads fromtoprownear-right.",
+      "sha256": "132de8ce37f82017e321fb97afa920ef0e1d1a4b77ad77d05cf103b1141615a8",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-dfb5102b-f9bb-4815-9444-59ca535a00cc.png",
+      "grid_sha256": "6e5d29cf645cfc39d3a8c670d20860104394228b5209ac80ce5472f9e024bd5a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crop compared withoriginal: all16foregroundcards(8top8bottom), theirbeadedpinstylesandcolourarrays retainedasonewholeassortment. Tightpink/purpleheartbeadedpinmacro usesactualpart. AccurateDecorativeSareePins heading; foldernameHairClipDisplayiswrong. Tinyindividualbeads notresolvedatwebsitefullviewsize, noobservedmaterialomission."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baselines_verified": true
+}

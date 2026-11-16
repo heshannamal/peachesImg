@@ -1,0 +1,54 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250201-WA0578.jpg": "1c0c152501288df7c80a70e1754d6cf23c6717b699d1462eea4173c4c7b807b4"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source": [
+        "Originals/IMG-20250201-WA0578.jpg"
+      ],
+      "prompt": "Square website product photo on clean white background of EXACT FOUR individually packaged small handle hair combs side by side: lavender,cream yellow,pink,mint. Same shape, fine teeth, handle cartoon prints and Hello text, white backing cards in clear sleeves. Remove hand/shop/price only. Preserve four products entire frame, realistic soft shadows.",
+      "sha256": "3b0089ba0a8c29459f8767e5db8c5c7026d3b10a690203d33a3480093680ff08",
+      "checked": true,
+      "visual_review": "Compared originals: correct entire assortment count/main shapes/colours/materials preserved."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square website product photograph. EXACT entire four packaged handle combs lavender yellow pink mint side-by-side on soft lavender cream studio background. Preserve count, main shape/colour/material and arrangement. Full assortment in frame, soft shadows, no new text.",
+      "sha256": "42e6a614a1366d981a298053214fd06b591eaf242603a4c4c651b68dfad054a5",
+      "checked": true,
+      "visual_review": "Count/main product identity/colours/shapes reviewed and retained."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square lifestyle website photo. EXACT entire four packaged handle combs lavender yellow pink mint side-by-side in same arrangement on cream vanity with softly blurred lavender bedroom and window light. Preserve main shape, count, colours, original materials/designs. No hands/person, no extra product or new text.",
+      "sha256": "73256933c4170d103b4d9e56b4506d03fa6c1ccc7e99e898a54cfccacc96bc77",
+      "checked": true,
+      "visual_review": "Visually compared against original: main shape, colour, materials and visible product design retained; website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-836279a0-b9d7-4118-87a8-a1fb99c08469.png",
+      "prompt": "Square tight macro crop ONLY pink comb teeth and adjoining pink body showing small printed cartoon detail from reference, retaining clear package film. Preserve actual tooth shapes, material and colour. No whole assortment, no invented hidden parts or new text. Website detail photo.",
+      "sha256": "3be4b3af67c1cb53d39826c85e9fb90c7764735156586243e5900d13405e3650",
+      "checked": true,
+      "visual_review": "Visually compared against original: main shape, colour, materials and visible product design retained; website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-141fcbdf-30bd-4c17-b29e-a0bd88b2fb6f.png",
+      "prompt": "Square website promotional product photo. EXACT entire four packaged handle combs lavender,yellow,pink,mint side-by-side from reference. Preserve main shape, count, colours and materials. Lavender cream background, small dark plum heading Pastel Handle Combs and small PRODUCT COLLECTION subheading. Whole assortment fully in frame with margins, no prices or extra products.",
+      "sha256": "6f11bdb8ded756374474f068258ea8ad86fcd869ec4ef2b3a003dcd7ea4b02e4",
+      "checked": true,
+      "visual_review": "Visually compared promotional full assortment to originals: count, main shape, colours and material preserved, website-ready."
+    }
+  ],
+  "status": "five images generated and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_verified_unchanged": true
+}

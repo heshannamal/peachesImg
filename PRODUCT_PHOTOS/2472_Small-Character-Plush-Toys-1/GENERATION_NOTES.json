@@ -1,0 +1,133 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260923-WA0174.jpg": "79a94c2160ff7215546cf55956ec5c85a1ef7daa7bb01c86bc5d05ee0fb30648"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-999b9bf2-fcf4-4cd6-9473-8e2c5bd3f69c.png",
+      "source_output": "/workspace/generated_images/exec-999b9bf2-fcf4-4cd6-9473-8e2c5bd3f69c.png",
+      "sha256": "7e93ae778001c5f7778df0142621b1b038c00537d5e17cd1943bf11b9875c18e",
+      "prompt": "Edit attachedACTUALoriginal intoONE1536x1024websitecontactsheet exactly3columns2rows square512cells,nogutters. Toprow purewhitefullproduct/lavendercreamstyledfullproduct/cozynursery-shelflifestylefullproduct. Bottomrow standalone tightrealpartmacro/fullproductpromotionalaccurateheading/blankcream. Preserve originalactualcount/identity/shapes/colours/facialdetails, do notredesignoraddtoys. Removepriceoverlay,shopshelfbuckets/background. Nopeople/children. ActualFIVEsmallrabbitearedmonsterplushfigures standingrow, originallefttoright DARKGREY,LAVENDER,SKYBLUE,CORALRED,PALEPINK. Eachhascreamfacemask/creaminnerlonguprightears,largetwocolouredeyes,triangulartoothgrin,smallcreamhand/feet,originalnose/cheekembroidery. Preservefiveactualdistinctfigures,exactfaceexpressions/earshapes/colours/count; donotreplacewithgenericrabbits. Everyfullviewallfiveentirebodies. Macro tightactualskybluefur/embroideredeyeandgrinpart,notwholefigure. Promotionalheading \"Colourful Plush Toy Assortment\". No inventedbrandclaims.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-999b9bf2-fcf4-4cd6-9473-8e2c5bd3f69c.png",
+      "prompt": "Edit attachedACTUALoriginal intoONE1536x1024websitecontactsheet exactly3columns2rows square512cells,nogutters. Toprow purewhitefullproduct/lavendercreamstyledfullproduct/cozynursery-shelflifestylefullproduct. Bottomrow standalone tightrealpartmacro/fullproductpromotionalaccurateheading/blankcream. Preserve originalactualcount/identity/shapes/colours/facialdetails, do notredesignoraddtoys. Removepriceoverlay,shopshelfbuckets/background. Nopeople/children. ActualFIVEsmallrabbitearedmonsterplushfigures standingrow, originallefttoright DARKGREY,LAVENDER,SKYBLUE,CORALRED,PALEPINK. Eachhascreamfacemask/creaminnerlonguprightears,largetwocolouredeyes,triangulartoothgrin,smallcreamhand/feet,originalnose/cheekembroidery. Preservefiveactualdistinctfigures,exactfaceexpressions/earshapes/colours/count; donotreplacewithgenericrabbits. Everyfullviewallfiveentirebodies. Macro tightactualskybluefur/embroideredeyeandgrinpart,notwholefigure. Promotionalheading \"Colourful Plush Toy Assortment\". No inventedbrandclaims.",
+      "sha256": "0df609522119503ad6ffabfd80c14240d8d4bbeab731ca1b479ca2e6f4d80b5f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-999b9bf2-fcf4-4cd6-9473-8e2c5bd3f69c.png",
+      "grid_sha256": "7e93ae778001c5f7778df0142621b1b038c00537d5e17cd1943bf11b9875c18e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual5savedcrops inspected:FIVEsamerabbitearedmonsterplushfigures darkgrey/lavender/skyblue/coralred/palepink,creamfaces/innerlonguprightears/hands/feet,originalcolouredeyes/triangulartoothgrin/nosecheekembroidery. Count5/identityfacialfeatures/shapescoloursmatch. White/lavenderstyled/cozynurseryshelflifestyle valid; tightactualskyblueembroideredeye/grin/furmacro realpart;accurateheading."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-999b9bf2-fcf4-4cd6-9473-8e2c5bd3f69c.png",
+      "prompt": "Edit attachedACTUALoriginal intoONE1536x1024websitecontactsheet exactly3columns2rows square512cells,nogutters. Toprow purewhitefullproduct/lavendercreamstyledfullproduct/cozynursery-shelflifestylefullproduct. Bottomrow standalone tightrealpartmacro/fullproductpromotionalaccurateheading/blankcream. Preserve originalactualcount/identity/shapes/colours/facialdetails, do notredesignoraddtoys. Removepriceoverlay,shopshelfbuckets/background. Nopeople/children. ActualFIVEsmallrabbitearedmonsterplushfigures standingrow, originallefttoright DARKGREY,LAVENDER,SKYBLUE,CORALRED,PALEPINK. Eachhascreamfacemask/creaminnerlonguprightears,largetwocolouredeyes,triangulartoothgrin,smallcreamhand/feet,originalnose/cheekembroidery. Preservefiveactualdistinctfigures,exactfaceexpressions/earshapes/colours/count; donotreplacewithgenericrabbits. Everyfullviewallfiveentirebodies. Macro tightactualskybluefur/embroideredeyeandgrinpart,notwholefigure. Promotionalheading \"Colourful Plush Toy Assortment\". No inventedbrandclaims.",
+      "sha256": "859c8b97db395b1d92021f35c4f6f718857375b5b166e12a43dccad86663818d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-999b9bf2-fcf4-4cd6-9473-8e2c5bd3f69c.png",
+      "grid_sha256": "7e93ae778001c5f7778df0142621b1b038c00537d5e17cd1943bf11b9875c18e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual5savedcrops inspected:FIVEsamerabbitearedmonsterplushfigures darkgrey/lavender/skyblue/coralred/palepink,creamfaces/innerlonguprightears/hands/feet,originalcolouredeyes/triangulartoothgrin/nosecheekembroidery. Count5/identityfacialfeatures/shapescoloursmatch. White/lavenderstyled/cozynurseryshelflifestyle valid; tightactualskyblueembroideredeye/grin/furmacro realpart;accurateheading."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-999b9bf2-fcf4-4cd6-9473-8e2c5bd3f69c.png",
+      "prompt": "Edit attachedACTUALoriginal intoONE1536x1024websitecontactsheet exactly3columns2rows square512cells,nogutters. Toprow purewhitefullproduct/lavendercreamstyledfullproduct/cozynursery-shelflifestylefullproduct. Bottomrow standalone tightrealpartmacro/fullproductpromotionalaccurateheading/blankcream. Preserve originalactualcount/identity/shapes/colours/facialdetails, do notredesignoraddtoys. Removepriceoverlay,shopshelfbuckets/background. Nopeople/children. ActualFIVEsmallrabbitearedmonsterplushfigures standingrow, originallefttoright DARKGREY,LAVENDER,SKYBLUE,CORALRED,PALEPINK. Eachhascreamfacemask/creaminnerlonguprightears,largetwocolouredeyes,triangulartoothgrin,smallcreamhand/feet,originalnose/cheekembroidery. Preservefiveactualdistinctfigures,exactfaceexpressions/earshapes/colours/count; donotreplacewithgenericrabbits. Everyfullviewallfiveentirebodies. Macro tightactualskybluefur/embroideredeyeandgrinpart,notwholefigure. Promotionalheading \"Colourful Plush Toy Assortment\". No inventedbrandclaims.",
+      "sha256": "eb52bb70e60a244e3ac2300939fa6f5122a51735342b3c8a03dd16437efae7ff",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-999b9bf2-fcf4-4cd6-9473-8e2c5bd3f69c.png",
+      "grid_sha256": "7e93ae778001c5f7778df0142621b1b038c00537d5e17cd1943bf11b9875c18e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual5savedcrops inspected:FIVEsamerabbitearedmonsterplushfigures darkgrey/lavender/skyblue/coralred/palepink,creamfaces/innerlonguprightears/hands/feet,originalcolouredeyes/triangulartoothgrin/nosecheekembroidery. Count5/identityfacialfeatures/shapescoloursmatch. White/lavenderstyled/cozynurseryshelflifestyle valid; tightactualskyblueembroideredeye/grin/furmacro realpart;accurateheading."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-999b9bf2-fcf4-4cd6-9473-8e2c5bd3f69c.png",
+      "prompt": "Edit attachedACTUALoriginal intoONE1536x1024websitecontactsheet exactly3columns2rows square512cells,nogutters. Toprow purewhitefullproduct/lavendercreamstyledfullproduct/cozynursery-shelflifestylefullproduct. Bottomrow standalone tightrealpartmacro/fullproductpromotionalaccurateheading/blankcream. Preserve originalactualcount/identity/shapes/colours/facialdetails, do notredesignoraddtoys. Removepriceoverlay,shopshelfbuckets/background. Nopeople/children. ActualFIVEsmallrabbitearedmonsterplushfigures standingrow, originallefttoright DARKGREY,LAVENDER,SKYBLUE,CORALRED,PALEPINK. Eachhascreamfacemask/creaminnerlonguprightears,largetwocolouredeyes,triangulartoothgrin,smallcreamhand/feet,originalnose/cheekembroidery. Preservefiveactualdistinctfigures,exactfaceexpressions/earshapes/colours/count; donotreplacewithgenericrabbits. Everyfullviewallfiveentirebodies. Macro tightactualskybluefur/embroideredeyeandgrinpart,notwholefigure. Promotionalheading \"Colourful Plush Toy Assortment\". No inventedbrandclaims.",
+      "sha256": "14cd69cb97b0d6951bbce0693114ad36974cedce24bcd0cbe4e3c47517363889",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-999b9bf2-fcf4-4cd6-9473-8e2c5bd3f69c.png",
+      "grid_sha256": "7e93ae778001c5f7778df0142621b1b038c00537d5e17cd1943bf11b9875c18e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual5savedcrops inspected:FIVEsamerabbitearedmonsterplushfigures darkgrey/lavender/skyblue/coralred/palepink,creamfaces/innerlonguprightears/hands/feet,originalcolouredeyes/triangulartoothgrin/nosecheekembroidery. Count5/identityfacialfeatures/shapescoloursmatch. White/lavenderstyled/cozynurseryshelflifestyle valid; tightactualskyblueembroideredeye/grin/furmacro realpart;accurateheading."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-999b9bf2-fcf4-4cd6-9473-8e2c5bd3f69c.png",
+      "prompt": "Edit attachedACTUALoriginal intoONE1536x1024websitecontactsheet exactly3columns2rows square512cells,nogutters. Toprow purewhitefullproduct/lavendercreamstyledfullproduct/cozynursery-shelflifestylefullproduct. Bottomrow standalone tightrealpartmacro/fullproductpromotionalaccurateheading/blankcream. Preserve originalactualcount/identity/shapes/colours/facialdetails, do notredesignoraddtoys. Removepriceoverlay,shopshelfbuckets/background. Nopeople/children. ActualFIVEsmallrabbitearedmonsterplushfigures standingrow, originallefttoright DARKGREY,LAVENDER,SKYBLUE,CORALRED,PALEPINK. Eachhascreamfacemask/creaminnerlonguprightears,largetwocolouredeyes,triangulartoothgrin,smallcreamhand/feet,originalnose/cheekembroidery. Preservefiveactualdistinctfigures,exactfaceexpressions/earshapes/colours/count; donotreplacewithgenericrabbits. Everyfullviewallfiveentirebodies. Macro tightactualskybluefur/embroideredeyeandgrinpart,notwholefigure. Promotionalheading \"Colourful Plush Toy Assortment\". No inventedbrandclaims.",
+      "sha256": "14c25957bd3f0c540dae12e10af123513c8a8a85c2d17515d7188a301140b011",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-999b9bf2-fcf4-4cd6-9473-8e2c5bd3f69c.png",
+      "grid_sha256": "7e93ae778001c5f7778df0142621b1b038c00537d5e17cd1943bf11b9875c18e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual5savedcrops inspected:FIVEsamerabbitearedmonsterplushfigures darkgrey/lavender/skyblue/coralred/palepink,creamfaces/innerlonguprightears/hands/feet,originalcolouredeyes/triangulartoothgrin/nosecheekembroidery. Count5/identityfacialfeatures/shapescoloursmatch. White/lavenderstyled/cozynurseryshelflifestyle valid; tightactualskyblueembroideredeye/grin/furmacro realpart;accurateheading."
+    },
+    {
+      "kind": "exact_prompt_file",
+      "saved_file": "Generation_Prompts/initial.txt",
+      "sha256": "aabe80bbdab663a7771b5003c5810b9dc21d92d4dc795e4925553554ff4e38b9",
+      "checked": false
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

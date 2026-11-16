@@ -1,0 +1,126 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0333.jpg": "21bb36b2f8c2de2221f797b9e786c872e5f4cf88dcc835913ed7e8f03eaa6b21"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-6c23daa9-6b54-4780-8d22-0fe1f8f463c1.png",
+      "source_output": "/workspace/generated_images/exec-6c23daa9-6b54-4780-8d22-0fe1f8f463c1.png",
+      "sha256": "830271f85fe4fba7860e6d2f9f2b92039be6397a67a04a000129fa8ac70456ef",
+      "prompt": "Edit the supplied actual product photograph into ONE website-ready landscape1536x1024 borderless3columns x2rows equal512x512 cells. Subject is the TWO fully visible identical black HUDA BEAUTY Eyeliner+Seal 2in1 rectangular hanging retail packs in the foreground, with white side strip, printed woman/eye artwork and black eyeliner graphic. Preserve both packages and accurate black/white/magenta colours, proportions, identity and printed design; exclude cropped background store stock, price overlay and shelf clutter. Each full-view cell shows TWO packages together. Top left white studio;top middle lavender/cream styled background;top right clean makeup vanity lifestyle with both boxed products, no unrelated cosmetics. Bottom left tight standalone macro of real printed eyeliner graphic/packaging lettering, do not invent an opened pen. Bottom middle same two packs with accurate heading 'Eyeliner + Seal Duo'. Bottom right blank cream. Exact edges x512,x1024,y512, no borders/gutters/collage text outsidepromo. Website-ready faithful referenced edit.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-6c23daa9-6b54-4780-8d22-0fe1f8f463c1.png",
+      "prompt": "Edit the supplied actual product photograph into ONE website-ready landscape1536x1024 borderless3columns x2rows equal512x512 cells. Subject is the TWO fully visible identical black HUDA BEAUTY Eyeliner+Seal 2in1 rectangular hanging retail packs in the foreground, with white side strip, printed woman/eye artwork and black eyeliner graphic. Preserve both packages and accurate black/white/magenta colours, proportions, identity and printed design; exclude cropped background store stock, price overlay and shelf clutter. Each full-view cell shows TWO packages together. Top left white studio;top middle lavender/cream styled background;top right clean makeup vanity lifestyle with both boxed products, no unrelated cosmetics. Bottom left tight standalone macro of real printed eyeliner graphic/packaging lettering, do not invent an opened pen. Bottom middle same two packs with accurate heading 'Eyeliner + Seal Duo'. Bottom right blank cream. Exact edges x512,x1024,y512, no borders/gutters/collage text outsidepromo. Website-ready faithful referenced edit.\n",
+      "sha256": "cce69ca6bd41bcf8ae6d5ae6b0f8b8c00d7f5b6f75d23756c5f9efb6bdba760c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6c23daa9-6b54-4780-8d22-0fe1f8f463c1.png",
+      "grid_sha256": "830271f85fe4fba7860e6d2f9f2b92039be6397a67a04a000129fa8ac70456ef",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Pass: four full cells preserve two black/white/magenta foreground eyeliner+seal hanging packs and reference package shape/artwork. Macro shows actual printed lettering/eye/eyeliner graphic, not invented loose pen. Accurate heading, clean512cell boundaries; original SHA/output SHA verified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-6c23daa9-6b54-4780-8d22-0fe1f8f463c1.png",
+      "prompt": "Edit the supplied actual product photograph into ONE website-ready landscape1536x1024 borderless3columns x2rows equal512x512 cells. Subject is the TWO fully visible identical black HUDA BEAUTY Eyeliner+Seal 2in1 rectangular hanging retail packs in the foreground, with white side strip, printed woman/eye artwork and black eyeliner graphic. Preserve both packages and accurate black/white/magenta colours, proportions, identity and printed design; exclude cropped background store stock, price overlay and shelf clutter. Each full-view cell shows TWO packages together. Top left white studio;top middle lavender/cream styled background;top right clean makeup vanity lifestyle with both boxed products, no unrelated cosmetics. Bottom left tight standalone macro of real printed eyeliner graphic/packaging lettering, do not invent an opened pen. Bottom middle same two packs with accurate heading 'Eyeliner + Seal Duo'. Bottom right blank cream. Exact edges x512,x1024,y512, no borders/gutters/collage text outsidepromo. Website-ready faithful referenced edit.\n",
+      "sha256": "a4a19dee0fb8b6fcac4ce5e43ba08c5ba86c7c9f40db96ba24ae732d0f602ee4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6c23daa9-6b54-4780-8d22-0fe1f8f463c1.png",
+      "grid_sha256": "830271f85fe4fba7860e6d2f9f2b92039be6397a67a04a000129fa8ac70456ef",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Pass: four full cells preserve two black/white/magenta foreground eyeliner+seal hanging packs and reference package shape/artwork. Macro shows actual printed lettering/eye/eyeliner graphic, not invented loose pen. Accurate heading, clean512cell boundaries; original SHA/output SHA verified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-6c23daa9-6b54-4780-8d22-0fe1f8f463c1.png",
+      "prompt": "Edit the supplied actual product photograph into ONE website-ready landscape1536x1024 borderless3columns x2rows equal512x512 cells. Subject is the TWO fully visible identical black HUDA BEAUTY Eyeliner+Seal 2in1 rectangular hanging retail packs in the foreground, with white side strip, printed woman/eye artwork and black eyeliner graphic. Preserve both packages and accurate black/white/magenta colours, proportions, identity and printed design; exclude cropped background store stock, price overlay and shelf clutter. Each full-view cell shows TWO packages together. Top left white studio;top middle lavender/cream styled background;top right clean makeup vanity lifestyle with both boxed products, no unrelated cosmetics. Bottom left tight standalone macro of real printed eyeliner graphic/packaging lettering, do not invent an opened pen. Bottom middle same two packs with accurate heading 'Eyeliner + Seal Duo'. Bottom right blank cream. Exact edges x512,x1024,y512, no borders/gutters/collage text outsidepromo. Website-ready faithful referenced edit.\n",
+      "sha256": "e072b59e3d1f9a3fd69f6dea5b4314af6ad0712f76230a8f24b3d8a9ce52b6bf",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6c23daa9-6b54-4780-8d22-0fe1f8f463c1.png",
+      "grid_sha256": "830271f85fe4fba7860e6d2f9f2b92039be6397a67a04a000129fa8ac70456ef",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Pass: four full cells preserve two black/white/magenta foreground eyeliner+seal hanging packs and reference package shape/artwork. Macro shows actual printed lettering/eye/eyeliner graphic, not invented loose pen. Accurate heading, clean512cell boundaries; original SHA/output SHA verified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-6c23daa9-6b54-4780-8d22-0fe1f8f463c1.png",
+      "prompt": "Edit the supplied actual product photograph into ONE website-ready landscape1536x1024 borderless3columns x2rows equal512x512 cells. Subject is the TWO fully visible identical black HUDA BEAUTY Eyeliner+Seal 2in1 rectangular hanging retail packs in the foreground, with white side strip, printed woman/eye artwork and black eyeliner graphic. Preserve both packages and accurate black/white/magenta colours, proportions, identity and printed design; exclude cropped background store stock, price overlay and shelf clutter. Each full-view cell shows TWO packages together. Top left white studio;top middle lavender/cream styled background;top right clean makeup vanity lifestyle with both boxed products, no unrelated cosmetics. Bottom left tight standalone macro of real printed eyeliner graphic/packaging lettering, do not invent an opened pen. Bottom middle same two packs with accurate heading 'Eyeliner + Seal Duo'. Bottom right blank cream. Exact edges x512,x1024,y512, no borders/gutters/collage text outsidepromo. Website-ready faithful referenced edit.\n",
+      "sha256": "1985be889218655648cd67d24d6e5e7e4bf9ad58e0216926feafb3b5cc9b7b0b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6c23daa9-6b54-4780-8d22-0fe1f8f463c1.png",
+      "grid_sha256": "830271f85fe4fba7860e6d2f9f2b92039be6397a67a04a000129fa8ac70456ef",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Pass: four full cells preserve two black/white/magenta foreground eyeliner+seal hanging packs and reference package shape/artwork. Macro shows actual printed lettering/eye/eyeliner graphic, not invented loose pen. Accurate heading, clean512cell boundaries; original SHA/output SHA verified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-6c23daa9-6b54-4780-8d22-0fe1f8f463c1.png",
+      "prompt": "Edit the supplied actual product photograph into ONE website-ready landscape1536x1024 borderless3columns x2rows equal512x512 cells. Subject is the TWO fully visible identical black HUDA BEAUTY Eyeliner+Seal 2in1 rectangular hanging retail packs in the foreground, with white side strip, printed woman/eye artwork and black eyeliner graphic. Preserve both packages and accurate black/white/magenta colours, proportions, identity and printed design; exclude cropped background store stock, price overlay and shelf clutter. Each full-view cell shows TWO packages together. Top left white studio;top middle lavender/cream styled background;top right clean makeup vanity lifestyle with both boxed products, no unrelated cosmetics. Bottom left tight standalone macro of real printed eyeliner graphic/packaging lettering, do not invent an opened pen. Bottom middle same two packs with accurate heading 'Eyeliner + Seal Duo'. Bottom right blank cream. Exact edges x512,x1024,y512, no borders/gutters/collage text outsidepromo. Website-ready faithful referenced edit.\n",
+      "sha256": "89c1f6068e5dafdaf2cca750b7f8660825c7abfd104666d6f10df9ba6eda1434",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6c23daa9-6b54-4780-8d22-0fe1f8f463c1.png",
+      "grid_sha256": "830271f85fe4fba7860e6d2f9f2b92039be6397a67a04a000129fa8ac70456ef",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Pass: four full cells preserve two black/white/magenta foreground eyeliner+seal hanging packs and reference package shape/artwork. Macro shows actual printed lettering/eye/eyeliner graphic, not invented loose pen. Accurate heading, clean512cell boundaries; original SHA/output SHA verified."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

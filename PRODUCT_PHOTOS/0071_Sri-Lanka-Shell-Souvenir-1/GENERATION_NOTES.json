@@ -1,0 +1,50 @@
+{
+  "product_id": "0071",
+  "original_hashes": {
+    "Originals/IMG-20250115-WA0174.jpg": "614e1dfff94c015b6a2e3b7ef04660cd75019688e4dd69a45911156cb1a51ed3"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "cache_source": "/workspace/generated_images/exec-9c0e952f-f907-43fd-87fd-92e5d6624d17.png",
+      "sha256": "c6092a04947a231b8c7dee3e2b356deaeb0d52d233b46d59a4d532768071818e",
+      "checked": true,
+      "visual_check": "Passed: single natural shell same face and oval shape, SRI LANKA lettering three elephant motifs and brown cream pattern retained; hand shop and price removed.",
+      "prompt_source": "_Review/RUN_100_worker_3_PROMPTS.json"
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "cache_source": "/workspace/generated_images/exec-b44d5de8-8d0c-46e3-a347-61d628d4c7f7.png",
+      "sha256": "c2245413a80e9ccffaa3c257ce684940bfa725571cbe8e7fa8918de50134600b",
+      "checked": true,
+      "visual_check": "Passed: exact shell face lettering elephants and mottled material preserved, one shell fully in frame, cream surface lavender backdrop; hand and price removed.",
+      "prompt_source": "_Review/RUN_100_worker_3_PROMPTS.json"
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "cache_source": "/workspace/generated_images/exec-d640d8cb-bfe6-419a-8059-4a941948d218.png",
+      "sha256": "cc69d2d448bc9d701f40c464c6ad0f191f759f8e53f54cde24ef03ee01c12167",
+      "checked": true,
+      "visual_check": "Passed: same single shell front face with exact lettering elephant trio natural mottled material; full shell on linen coastal console no hand price or extra shell.",
+      "prompt_source": "_Review/RUN_100_worker_3_PROMPTS.json"
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "cache_source": "/workspace/generated_images/exec-62a5ecd7-f5fd-4e5e-a398-8baadbc76129.png",
+      "sha256": "41e7a0720099c6184aaae21a67982509b804685974849a35b50de629c3cda7fb",
+      "checked": true,
+      "visual_check": "Passed: tight macro front shell lettering and elephant carving, pearlescent brown cream material, no invented rear or overlay.",
+      "prompt_source": "_Review/RUN_100_worker_3_PROMPTS.json"
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "cache_source": "/workspace/generated_images/exec-0c00ccba-6970-4267-b42d-23b5a6ac885d.png",
+      "sha256": "8da41433eef7c16fd92d50b2c95b69452fa3415a00be8614330ee3ee63800821",
+      "checked": true,
+      "visual_check": "Passed: one complete shell exact visible face lettering elephants and mottled material; readable plum heading PRODUCT COLLECTION, lavender cream layout no price hand shop.",
+      "prompt_source": "_Review/RUN_100_worker_3_PROMPTS.json"
+    }
+  ],
+  "status": "complete",
+  "original_hashes_verified": true
+}

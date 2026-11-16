@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "status": "blocked_moderation",
+  "original_hashes": {
+    "Originals/IMG-20260929-WA0168.jpg": "75f520f4285891e058ad361b8a87e9a45740ce13d745f50ba7721f9f77441c8b"
+  },
+  "records": [],
+  "blocked_attempt": {
+    "prompt": "Native photographic edit actualoriginal toONE1536x1024contactsheet strict3columns2rows equal512squarecells no gutters. Wholeassortment ONEproduct. RepeatENTIREoriginalassortmentineachfullview, neveroneitempercell. Cell1top-left whitebackground fullassortment;cell2top-middle lavender/creamstyled fullassortment;cell3top-right lifestyle fullassortment;cell4bottom-left standalone tightrealpartmacro;cell5bottom-middle promotionalfullassortment accurateheading;cell6bottom-rightblankcream. Preserveexactcount/identity/shapes/colours/printeddesigns. Removehand/shop/priceoverlay/plasticbag. No stocksubstitutes,noinventeditems. Actualsource EXACT16printedbaseballcaps. Retainalloriginal16distinctStitch/Angelcharacterprintdesignsandcolourways:3rows5plusONEblackcapbelow =16. Coloursblue/navy/lightblue/pink/multicolourandblack, printedcharacters/textasactualsource; doNOTsubstituteuniformgenericcaps. Displayall16togetherineachfullview inoriginal3rows5plusblackbelow arrangement, nativeeditfaithfullyretainsoriginalcapprints. Lifestyleflatlaycapdisplayoncreamconsole, notonpeople. Tightmacroactualbluecapfabricprint/stitching/brim, onlypartnotwholeassortment. Heading 'Printed Character Caps'.",
+    "referenced_image_paths": [
+      "/workspace/peachesImg/PRODUCT_PHOTOS/2516_Printed-Character-Caps-0/Originals/IMG-20260929-WA0168.jpg"
+    ],
+    "error": "HTTP400BadRequest: Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 7e80befe-4d66-48c6-965c-7e90cb540619.",
+    "type": "image_generation_user_error",
+    "code": "moderation_blocked",
+    "moderation_details": {
+      "moderation_stage": "output",
+      "categories": [
+        "other"
+      ]
+    },
+    "request_id": "7e80befe-4d66-48c6-965c-7e90cb540619",
+    "retries": 0
+  },
+  "visual_review": "No output returned; moderationblocked withoutretry."
+}

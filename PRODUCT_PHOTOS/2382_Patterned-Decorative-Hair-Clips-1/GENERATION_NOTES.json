@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260907-WA0186.jpg": "31b3ad6f425826a810d36d08cb0a6f0180d7aac1d95da04de4e5bac8a150fdc9"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-3afaec3e-77e6-46d4-95b6-deb677ad4f21.png",
+      "source_output": "/workspace/generated_images/exec-3afaec3e-77e6-46d4-95b6-deb677ad4f21.png",
+      "sha256": "3c60483f05775b510bf712ea6f1829c25c9c55a0535a77abb5de7d902c4ea66e",
+      "prompt": "EDIT referenced original faithfully into1536x1024 website sheet exactly3columns2rows x512/1024y512. Five independent panels top full assortment white, full assortment lavendercreamstyled, full assortment dressing-table lifestyle; bottom standalone tight REALPART macro, full assortment promo heading, blankcream. Product ONE assortment SIX white cards each TWO horizontal hair barrettes=TWELVE clips total. Each barrette has THREE small butterfly ornaments in a row, not one butterfly clip. Preserve all six cards/twelve clips/36butterflies, gold clip backs and exact colour combinations/shapes. Arrange six cards as2columns3rows to fit each full-product square with margins. Remove hand/shop/priceoverlay, no stock substitutes. Actual butterflies rounded translucent pastel wings, yellow/gold central bodies and tiny pearl-like white details. Card colours top-to-bottom lavender/green/pink/orange/paleblue/palepink. Exactly two clips per card, three butterflies on each clip. Macro tight ONE actual lavender translucent butterfly ornament, yellow centre and pearl detail. Heading 'Pastel Butterfly Hair Clips'.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-3afaec3e-77e6-46d4-95b6-deb677ad4f21.png",
+      "prompt": "EDIT referenced original faithfully into1536x1024 website sheet exactly3columns2rows x512/1024y512. Five independent panels top full assortment white, full assortment lavendercreamstyled, full assortment dressing-table lifestyle; bottom standalone tight REALPART macro, full assortment promo heading, blankcream. Product ONE assortment SIX white cards each TWO horizontal hair barrettes=TWELVE clips total. Each barrette has THREE small butterfly ornaments in a row, not one butterfly clip. Preserve all six cards/twelve clips/36butterflies, gold clip backs and exact colour combinations/shapes. Arrange six cards as2columns3rows to fit each full-product square with margins. Remove hand/shop/priceoverlay, no stock substitutes. Actual butterflies rounded translucent pastel wings, yellow/gold central bodies and tiny pearl-like white details. Card colours top-to-bottom lavender/green/pink/orange/paleblue/palepink. Exactly two clips per card, three butterflies on each clip. Macro tight ONE actual lavender translucent butterfly ornament, yellow centre and pearl detail. Heading 'Pastel Butterfly Hair Clips'.",
+      "sha256": "da2dca23dc9201c253943b350e8c11563b34b88cf318566ebe9ba4ccf1f71b62",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3afaec3e-77e6-46d4-95b6-deb677ad4f21.png",
+      "grid_sha256": "3c60483f05775b510bf712ea6f1829c25c9c55a0535a77abb5de7d902c4ea66e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected: six source cards in long strip, two barrettes each, three rounded pastel butterflies each. Lavender/green/pink/orange/blue/palepink order and translucent yellow-centre identity retained; lower pink card partly overlapped as source. Real lavender ornament tight macro and accurate heading."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-3afaec3e-77e6-46d4-95b6-deb677ad4f21.png",
+      "prompt": "EDIT referenced original faithfully into1536x1024 website sheet exactly3columns2rows x512/1024y512. Five independent panels top full assortment white, full assortment lavendercreamstyled, full assortment dressing-table lifestyle; bottom standalone tight REALPART macro, full assortment promo heading, blankcream. Product ONE assortment SIX white cards each TWO horizontal hair barrettes=TWELVE clips total. Each barrette has THREE small butterfly ornaments in a row, not one butterfly clip. Preserve all six cards/twelve clips/36butterflies, gold clip backs and exact colour combinations/shapes. Arrange six cards as2columns3rows to fit each full-product square with margins. Remove hand/shop/priceoverlay, no stock substitutes. Actual butterflies rounded translucent pastel wings, yellow/gold central bodies and tiny pearl-like white details. Card colours top-to-bottom lavender/green/pink/orange/paleblue/palepink. Exactly two clips per card, three butterflies on each clip. Macro tight ONE actual lavender translucent butterfly ornament, yellow centre and pearl detail. Heading 'Pastel Butterfly Hair Clips'.",
+      "sha256": "802f57c3dadf5e05c5a9ca4fcd5ca848f645b73f9cfd485d21c0b5c55bfdfc62",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3afaec3e-77e6-46d4-95b6-deb677ad4f21.png",
+      "grid_sha256": "3c60483f05775b510bf712ea6f1829c25c9c55a0535a77abb5de7d902c4ea66e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected: six source cards in long strip, two barrettes each, three rounded pastel butterflies each. Lavender/green/pink/orange/blue/palepink order and translucent yellow-centre identity retained; lower pink card partly overlapped as source. Real lavender ornament tight macro and accurate heading."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-3afaec3e-77e6-46d4-95b6-deb677ad4f21.png",
+      "prompt": "EDIT referenced original faithfully into1536x1024 website sheet exactly3columns2rows x512/1024y512. Five independent panels top full assortment white, full assortment lavendercreamstyled, full assortment dressing-table lifestyle; bottom standalone tight REALPART macro, full assortment promo heading, blankcream. Product ONE assortment SIX white cards each TWO horizontal hair barrettes=TWELVE clips total. Each barrette has THREE small butterfly ornaments in a row, not one butterfly clip. Preserve all six cards/twelve clips/36butterflies, gold clip backs and exact colour combinations/shapes. Arrange six cards as2columns3rows to fit each full-product square with margins. Remove hand/shop/priceoverlay, no stock substitutes. Actual butterflies rounded translucent pastel wings, yellow/gold central bodies and tiny pearl-like white details. Card colours top-to-bottom lavender/green/pink/orange/paleblue/palepink. Exactly two clips per card, three butterflies on each clip. Macro tight ONE actual lavender translucent butterfly ornament, yellow centre and pearl detail. Heading 'Pastel Butterfly Hair Clips'.",
+      "sha256": "c19b3883eec0af75e7405b035fbf5dd71ff76429c4c9b79ae43baa7e0f78be9b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3afaec3e-77e6-46d4-95b6-deb677ad4f21.png",
+      "grid_sha256": "3c60483f05775b510bf712ea6f1829c25c9c55a0535a77abb5de7d902c4ea66e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected: six source cards in long strip, two barrettes each, three rounded pastel butterflies each. Lavender/green/pink/orange/blue/palepink order and translucent yellow-centre identity retained; lower pink card partly overlapped as source. Real lavender ornament tight macro and accurate heading."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-3afaec3e-77e6-46d4-95b6-deb677ad4f21.png",
+      "prompt": "EDIT referenced original faithfully into1536x1024 website sheet exactly3columns2rows x512/1024y512. Five independent panels top full assortment white, full assortment lavendercreamstyled, full assortment dressing-table lifestyle; bottom standalone tight REALPART macro, full assortment promo heading, blankcream. Product ONE assortment SIX white cards each TWO horizontal hair barrettes=TWELVE clips total. Each barrette has THREE small butterfly ornaments in a row, not one butterfly clip. Preserve all six cards/twelve clips/36butterflies, gold clip backs and exact colour combinations/shapes. Arrange six cards as2columns3rows to fit each full-product square with margins. Remove hand/shop/priceoverlay, no stock substitutes. Actual butterflies rounded translucent pastel wings, yellow/gold central bodies and tiny pearl-like white details. Card colours top-to-bottom lavender/green/pink/orange/paleblue/palepink. Exactly two clips per card, three butterflies on each clip. Macro tight ONE actual lavender translucent butterfly ornament, yellow centre and pearl detail. Heading 'Pastel Butterfly Hair Clips'.",
+      "sha256": "d802dff486f70ae60f2f68987d03db1d0844eba0a92bd68ff48dd18134545472",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3afaec3e-77e6-46d4-95b6-deb677ad4f21.png",
+      "grid_sha256": "3c60483f05775b510bf712ea6f1829c25c9c55a0535a77abb5de7d902c4ea66e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crop inspected: six source cards in long strip, two barrettes each, three rounded pastel butterflies each. Lavender/green/pink/orange/blue/palepink order and translucent yellow-centre identity retained; lower pink card partly overlapped as source. Real lavender ornament tight macro and accurate heading."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-3afaec3e-77e6-46d4-95b6-deb677ad4f21.png",
+      "prompt": "EDIT referenced original faithfully into1536x1024 website sheet exactly3columns2rows x512/1024y512. Five independent panels top full assortment white, full assortment lavendercreamstyled, full assortment dressing-table lifestyle; bottom standalone tight REALPART macro, full assortment promo heading, blankcream. Product ONE assortment SIX white cards each TWO horizontal hair barrettes=TWELVE clips total. Each barrette has THREE small butterfly ornaments in a row, not one butterfly clip. Preserve all six cards/twelve clips/36butterflies, gold clip backs and exact colour combinations/shapes. Arrange six cards as2columns3rows to fit each full-product square with margins. Remove hand/shop/priceoverlay, no stock substitutes. Actual butterflies rounded translucent pastel wings, yellow/gold central bodies and tiny pearl-like white details. Card colours top-to-bottom lavender/green/pink/orange/paleblue/palepink. Exactly two clips per card, three butterflies on each clip. Macro tight ONE actual lavender translucent butterfly ornament, yellow centre and pearl detail. Heading 'Pastel Butterfly Hair Clips'.",
+      "sha256": "10212e7a4593bfaec171cb0bda0ddc5fd7a3eddf0672134127af9baf131cc7d4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3afaec3e-77e6-46d4-95b6-deb677ad4f21.png",
+      "grid_sha256": "3c60483f05775b510bf712ea6f1829c25c9c55a0535a77abb5de7d902c4ea66e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crop inspected: six source cards in long strip, two barrettes each, three rounded pastel butterflies each. Lavender/green/pink/orange/blue/palepink order and translucent yellow-centre identity retained; lower pink card partly overlapped as source. Real lavender ornament tight macro and accurate heading."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baselines_verified": true
+}

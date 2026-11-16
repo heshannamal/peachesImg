@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0289.jpg": "72f575ae8b60a2b1ee7bdc3517dc1c6f4056dd4e117d983e36a8e1803162f612"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-6ae20b09-38f3-42ae-9cda-628178b69dc0.png",
+      "source_output": "/workspace/generated_images/exec-6ae20b09-38f3-42ae-9cda-628178b69dc0.png",
+      "sha256": "d6b5d7931a855c42f39f1fcad50671c009f90d938a830c879e05e1c4d1870442",
+      "prompt": "Edit original reference photos into ONE1536x1024 website contact sheet. Exactly3equal columns by2equal rows, 512squarecells, no gutters. Top cells: purewhite full assortment; lavender/cream styled full assortment; dressingtable lifestyle full assortment. Bottomcells: standalone tight macro of real product part only; full assortment promotional with accurateheading; blankcream. No crossing boundaries, no old price text/hands/shopbackground. Preserve actual identity/count/shape/colour. Actual product is exactlyTHREE crystal-beaded phone wrist charms on individual white cards: left black/crystal/white pearlyoval bead loop, middle blushpink/crystal/white pearlyoval loop, right brightred/crystal/white pearlyoval loop. Each has gold-tone round clasp and clearphonecover attachmenttab. Include exactly3originalcharms together in all4fullviews. Preserve beads and original loop shapes, do not add charms. Macro tight closeup real redcrystal beads + whiteoval + goldspacer from rightcharm. Promotional heading \"Crystal Beaded Phone Charms\". Remove priceand677-6sticker; retain cards and goldclasps.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-6ae20b09-38f3-42ae-9cda-628178b69dc0.png",
+      "prompt": "Edit original reference photos into ONE1536x1024 website contact sheet. Exactly3equal columns by2equal rows, 512squarecells, no gutters. Top cells: purewhite full assortment; lavender/cream styled full assortment; dressingtable lifestyle full assortment. Bottomcells: standalone tight macro of real product part only; full assortment promotional with accurateheading; blankcream. No crossing boundaries, no old price text/hands/shopbackground. Preserve actual identity/count/shape/colour. Actual product is exactlyTHREE crystal-beaded phone wrist charms on individual white cards: left black/crystal/white pearlyoval bead loop, middle blushpink/crystal/white pearlyoval loop, right brightred/crystal/white pearlyoval loop. Each has gold-tone round clasp and clearphonecover attachmenttab. Include exactly3originalcharms together in all4fullviews. Preserve beads and original loop shapes, do not add charms. Macro tight closeup real redcrystal beads + whiteoval + goldspacer from rightcharm. Promotional heading \"Crystal Beaded Phone Charms\". Remove priceand677-6sticker; retain cards and goldclasps.",
+      "sha256": "0b943ba20200ab93434dd670619e696de73bc2eba13f0c1cd3e79833805dd9c9",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6ae20b09-38f3-42ae-9cda-628178b69dc0.png",
+      "grid_sha256": "d6b5d7931a855c42f39f1fcad50671c009f90d938a830c879e05e1c4d1870442",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected: exactly3original black/blush/red crystal beaded phone charms with white oval beads/goldspacers and goldclasps+cleartabs; white/styled/lifestyle views valid, tight actual bead macro and accuratepromoheading pass."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-6ae20b09-38f3-42ae-9cda-628178b69dc0.png",
+      "prompt": "Edit original reference photos into ONE1536x1024 website contact sheet. Exactly3equal columns by2equal rows, 512squarecells, no gutters. Top cells: purewhite full assortment; lavender/cream styled full assortment; dressingtable lifestyle full assortment. Bottomcells: standalone tight macro of real product part only; full assortment promotional with accurateheading; blankcream. No crossing boundaries, no old price text/hands/shopbackground. Preserve actual identity/count/shape/colour. Actual product is exactlyTHREE crystal-beaded phone wrist charms on individual white cards: left black/crystal/white pearlyoval bead loop, middle blushpink/crystal/white pearlyoval loop, right brightred/crystal/white pearlyoval loop. Each has gold-tone round clasp and clearphonecover attachmenttab. Include exactly3originalcharms together in all4fullviews. Preserve beads and original loop shapes, do not add charms. Macro tight closeup real redcrystal beads + whiteoval + goldspacer from rightcharm. Promotional heading \"Crystal Beaded Phone Charms\". Remove priceand677-6sticker; retain cards and goldclasps.",
+      "sha256": "0fb7539c811f3aada2118e95376001144108b1961e3fa2bbf027fcb160b7697f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6ae20b09-38f3-42ae-9cda-628178b69dc0.png",
+      "grid_sha256": "d6b5d7931a855c42f39f1fcad50671c009f90d938a830c879e05e1c4d1870442",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected: exactly3original black/blush/red crystal beaded phone charms with white oval beads/goldspacers and goldclasps+cleartabs; white/styled/lifestyle views valid, tight actual bead macro and accuratepromoheading pass."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-6ae20b09-38f3-42ae-9cda-628178b69dc0.png",
+      "prompt": "Edit original reference photos into ONE1536x1024 website contact sheet. Exactly3equal columns by2equal rows, 512squarecells, no gutters. Top cells: purewhite full assortment; lavender/cream styled full assortment; dressingtable lifestyle full assortment. Bottomcells: standalone tight macro of real product part only; full assortment promotional with accurateheading; blankcream. No crossing boundaries, no old price text/hands/shopbackground. Preserve actual identity/count/shape/colour. Actual product is exactlyTHREE crystal-beaded phone wrist charms on individual white cards: left black/crystal/white pearlyoval bead loop, middle blushpink/crystal/white pearlyoval loop, right brightred/crystal/white pearlyoval loop. Each has gold-tone round clasp and clearphonecover attachmenttab. Include exactly3originalcharms together in all4fullviews. Preserve beads and original loop shapes, do not add charms. Macro tight closeup real redcrystal beads + whiteoval + goldspacer from rightcharm. Promotional heading \"Crystal Beaded Phone Charms\". Remove priceand677-6sticker; retain cards and goldclasps.",
+      "sha256": "2b9e39e1a068b0fdd5a27306706f85b260799db7f4debd06e2768d57ba014e47",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6ae20b09-38f3-42ae-9cda-628178b69dc0.png",
+      "grid_sha256": "d6b5d7931a855c42f39f1fcad50671c009f90d938a830c879e05e1c4d1870442",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected: exactly3original black/blush/red crystal beaded phone charms with white oval beads/goldspacers and goldclasps+cleartabs; white/styled/lifestyle views valid, tight actual bead macro and accuratepromoheading pass."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-6ae20b09-38f3-42ae-9cda-628178b69dc0.png",
+      "prompt": "Edit original reference photos into ONE1536x1024 website contact sheet. Exactly3equal columns by2equal rows, 512squarecells, no gutters. Top cells: purewhite full assortment; lavender/cream styled full assortment; dressingtable lifestyle full assortment. Bottomcells: standalone tight macro of real product part only; full assortment promotional with accurateheading; blankcream. No crossing boundaries, no old price text/hands/shopbackground. Preserve actual identity/count/shape/colour. Actual product is exactlyTHREE crystal-beaded phone wrist charms on individual white cards: left black/crystal/white pearlyoval bead loop, middle blushpink/crystal/white pearlyoval loop, right brightred/crystal/white pearlyoval loop. Each has gold-tone round clasp and clearphonecover attachmenttab. Include exactly3originalcharms together in all4fullviews. Preserve beads and original loop shapes, do not add charms. Macro tight closeup real redcrystal beads + whiteoval + goldspacer from rightcharm. Promotional heading \"Crystal Beaded Phone Charms\". Remove priceand677-6sticker; retain cards and goldclasps.",
+      "sha256": "6bb324e531ba9e8ad232f21932ec90c193b6ed251b43c0276839152158e03d94",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6ae20b09-38f3-42ae-9cda-628178b69dc0.png",
+      "grid_sha256": "d6b5d7931a855c42f39f1fcad50671c009f90d938a830c879e05e1c4d1870442",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crop inspected: exactly3original black/blush/red crystal beaded phone charms with white oval beads/goldspacers and goldclasps+cleartabs; white/styled/lifestyle views valid, tight actual bead macro and accuratepromoheading pass."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-6ae20b09-38f3-42ae-9cda-628178b69dc0.png",
+      "prompt": "Edit original reference photos into ONE1536x1024 website contact sheet. Exactly3equal columns by2equal rows, 512squarecells, no gutters. Top cells: purewhite full assortment; lavender/cream styled full assortment; dressingtable lifestyle full assortment. Bottomcells: standalone tight macro of real product part only; full assortment promotional with accurateheading; blankcream. No crossing boundaries, no old price text/hands/shopbackground. Preserve actual identity/count/shape/colour. Actual product is exactlyTHREE crystal-beaded phone wrist charms on individual white cards: left black/crystal/white pearlyoval bead loop, middle blushpink/crystal/white pearlyoval loop, right brightred/crystal/white pearlyoval loop. Each has gold-tone round clasp and clearphonecover attachmenttab. Include exactly3originalcharms together in all4fullviews. Preserve beads and original loop shapes, do not add charms. Macro tight closeup real redcrystal beads + whiteoval + goldspacer from rightcharm. Promotional heading \"Crystal Beaded Phone Charms\". Remove priceand677-6sticker; retain cards and goldclasps.",
+      "sha256": "899fda522a64991da02290bb0b5f31250177dc4b5ea370f3d787ba7e53cbdcbb",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6ae20b09-38f3-42ae-9cda-628178b69dc0.png",
+      "grid_sha256": "d6b5d7931a855c42f39f1fcad50671c009f90d938a830c879e05e1c4d1870442",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crop inspected: exactly3original black/blush/red crystal beaded phone charms with white oval beads/goldspacers and goldclasps+cleartabs; white/styled/lifestyle views valid, tight actual bead macro and accuratepromoheading pass."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Three crystal beaded phone charms black/blush/red",
+  "original_baseline_verified": true
+}

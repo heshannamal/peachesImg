@@ -1,0 +1,53 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250402-WA0281.jpg": "db9efe19491907b000ec35605b0bfe7d3663e8f7bd07f2f4d99ba276b0262d7e",
+    "Originals/IMG-20250402-WA0282.jpg": "7204395f1a3065fae38ec39a522934ec696ad69068cc0ab303ab93a20d4ad621"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-3452fd3d-515a-4f69-8bb2-f191df7a712a.png",
+      "prompt": "Faithful website product photograph of EXACT TWELVE fluffy rectangular character hair clips in TWO transparent packets SIX each. Use first reference arrangement: LEFT top two pale pink with black jester girl badges, middle two yellow with yellow puppy badges,bottom two blue with white floppy-ear puppy badges; RIGHT top two mintgrey with pink bunny bluebow badges,middle two lavender with purple jester face badges,bottom two hotpink with pink bear faces. Second reference is same assortment different orientation for detail confirmation, do not combine duplicate copies. Preserve every count,actual shapes,colours,rubber badges,metal clip,packaging source overlap. Entire assortment on seamless white softshadow. Remove hand/shop/price overlay, no addedtext/invented parts.",
+      "sha256": "4365473363346d2017205718ed38bc227667169c6afb05b112ea643d4ac34a19",
+      "checked": true,
+      "visual_check": "Passed twelve fluffy rectangular clips six each clear sleeve, correct colour pairs and character badges; minor pose/face detail differences accepted website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-c43e18b6-9ad8-4a75-95d6-e998653ca1f3.png",
+      "prompt": "Faithful website product photograph of EXACT TWELVE fluffy rectangular character hair clips in TWO transparent packets SIX each. LEFT top two pale pink with black jester girl badges,middle two yellow with yellow puppy badges,bottom two blue with white floppy-ear puppy badges; RIGHT top two mintgrey with pink bunny bluebow badges,middle two lavender with purple jester face badges,bottom two hotpink with pink bear faces. Preserve exact reference shapes/colours/materials/rubber badges/metal clips/clearpackaging. Full assortment on cream linen lavender studio background softshadow. Remove hand/shop/price only, no extra text/parts.",
+      "sha256": "a0e6640a09960742cc1a9bbb32bdf1809d7be23846e4fac934484dce9b26b200",
+      "checked": true,
+      "visual_check": "Passed twelve clips exact colourpairs and corresponding rubbercharacter badges, six per clearpack; cream lavender setting and source materials preserved."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-d7e60274-30a5-40bd-a8cb-a3d95d318ac3.png",
+      "prompt": "Faithful lifestyle website photograph of EXACT TWELVE fluffy rectangular character hair clips in TWO clear packets SIX each. LEFT pairs pale pink blackjester,yellow puppy,blue whitefloppyear puppy. RIGHT pairs mintgrey pinkbunny bluebow,lavender purplejester,hotpink pinkbear. Preserve all twelve actual rubberbadge identities, furrectangles,sourcecolour/shape and packaging. Full assortment on cream dressing table with softlyblurred mirror and lavenderroom daylight. Removehand/shop/price only,no extraproducts/text/inventedparts.",
+      "sha256": "01439049ed7d87423f7cd4a088ec8cce7a3dfd3a9e99f9547773a9b68fa32ed7",
+      "checked": true,
+      "visual_check": "Passed exact twelve sourceclips six per sleeve, colourpairs and rubberface identities retained on vanity. Minor badge pose differences accepted."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-282edc4c-f31f-4f30-bf89-a7fa445e1f8a.png",
+      "prompt": "Tight website MACRO detail crop of ONLY existing yellow fluffy rectangular hair clip and its yellow puppy rubber badge from original, including actual brown beret, round black eyes/pink cheeks,floppy ears and fur texture under clear wrapping. Most assortment cropped away. Preserve exact realpart shape/colour/material. Remove hand/shop/price. No newparts or text.",
+      "sha256": "77398160bf16923b02f1307d6af4f7c59cd7fa8c03e10fc6759585bb5b618dd2",
+      "checked": true,
+      "visual_check": "Passed tight macro existing yellow puppy badge brown beret and yellow fur under wrapping, source shape colours and main facial details retained."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-56fb2929-2efd-4505-9078-c83c91c6f0e2.png",
+      "prompt": "Faithful website promotional photograph of EXACT TWELVE fluffy rectangular character hair clips in TWO clear packets SIX each. LEFT pairs pale pink blackjester,yellow puppy,blue whitefloppyear puppy. RIGHT pairs mintgrey pinkbunny bluebow,lavender purplejester,hotpink pinkbear. Preserve all twelve actual rubberbadge identities,furrectangles,sourcecolours/shapes/packaging. Entire assortment lavendercream background with accurate small heading Character Hair Clips and subtitle PRODUCT COLLECTION above. Removehand/shop/price only,no extraproducts/inventedparts.",
+      "sha256": "14c97791cddc90475ad79f5d5b0433d1847eb589e9905f5644297122a146ff24",
+      "checked": true,
+      "visual_check": "Passed twelve matching source clips six each sleeve, original badge identities furcolourpairs count and packaging, accurateheading and subtitle. Minor facialpose differences accepted."
+    }
+  ],
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true
+}

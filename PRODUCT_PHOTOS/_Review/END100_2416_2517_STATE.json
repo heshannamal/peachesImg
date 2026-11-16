@@ -1,0 +1,78 @@
+{
+  "status": "finished_with_review_and_moderation_blockers",
+  "started_at": "2026-11-13T00:50:32.168194+00:00",
+  "max_active_products": 10,
+  "processing_order": "descending_numeric_product_id",
+  "generation_workflow": "one_native3x2grid_then_five_crops",
+  "updated_at": "2026-11-14T05:33:58.807374+00:00",
+  "target_products": 100,
+  "target_images": 500,
+  "completed_products": 79,
+  "partial_products": 13,
+  "pending_products": 0,
+  "blocked_products": 8,
+  "saved_images": 454,
+  "checked_images": 416,
+  "resumed_at": "2026-11-14T05:12:43.267224+00:00",
+  "workspace_recovered_from_github": true,
+  "lost_unpersisted_corrective_results": [
+    "2477",
+    "2476"
+  ],
+  "resume_note": "UserContinue. Review2436availablecorrective then19pending; preserve70complete/4spentpartial/6moderationblocks.",
+  "native_availability_probe": "2436corrective nativecall succeeded;fiveworkersresumed",
+  "paused_at": "2026-11-13T13:59:28.586004+00:00",
+  "resume_rule": "Queue exhausted. Preserve all 79 completed products and approved views. All 13 partial products have spent their corrective attempts. Skip the eight moderation-blocked products without retry. Start another queue only after a new user request.",
+  "spent_corrective_product_ids": [
+    "2501",
+    "2500",
+    "2477",
+    "2476",
+    "2436",
+    "2434",
+    "2425",
+    "2424",
+    "2422",
+    "2421",
+    "2419",
+    "2418",
+    "2417"
+  ],
+  "recovered_native_cache_products": [
+    "2433",
+    "2436",
+    "2437"
+  ],
+  "previous_blocker": {
+    "type": "worker_model_usage_limit",
+    "observed_error": "All five workers reported usage limit; try again12:50PM (timezone unspecified).",
+    "native_image429_observed": false
+  },
+  "finished_at": "2026-11-14T05:37:14.862658+00:00",
+  "active_products": 0,
+  "in_flight_calls": 0,
+  "blocked_product_ids": [
+    "2516",
+    "2515",
+    "2514",
+    "2508",
+    "2507",
+    "2498",
+    "2428",
+    "2427"
+  ],
+  "last_resume_completed_product_ids": [
+    "2435",
+    "2432",
+    "2431",
+    "2430",
+    "2429",
+    "2426",
+    "2423",
+    "2420",
+    "2416"
+  ],
+  "last_resume_newly_completed_products": 9,
+  "last_resume_additional_saved_website_files": 85,
+  "last_resume_additional_approved_views": 59
+}

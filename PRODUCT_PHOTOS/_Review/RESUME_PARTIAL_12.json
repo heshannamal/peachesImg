@@ -1,0 +1,65 @@
+{
+  "status": "completed",
+  "product_ids": [
+    "0107",
+    "0112",
+    "0113",
+    "0114",
+    "0118",
+    "0119",
+    "0120",
+    "0125",
+    "0126",
+    "0131",
+    "0137",
+    "0142"
+  ],
+  "required_missing_images": 0,
+  "scope": "Only these twelve partially saved products. No generation for other pending products.",
+  "cached_outputs_to_recover": 4,
+  "new_generations_expected": 17,
+  "original_sha256": {
+    "0107": {
+      "IMG-20250130-WA0334.jpg": "afe6fc94807ef10aeea3548069a36163eab4b2851690d0a2345a7ddf26e16b2a"
+    },
+    "0112": {
+      "IMG-20250131-WA0100.jpg": "a49ae6454103891c4207cfb5791c49328755676a8f5a62150d82d3309f1c650a"
+    },
+    "0113": {
+      "IMG-20250131-WA0424.jpg": "18f91b4f08671387a98ec8f3005314fbd81bb2ea471336b3d2bb8973ba3393ce"
+    },
+    "0114": {
+      "IMG-20250131-WA0427.jpg": "69190675de9795999b4d35a46b03f1a748306a4eb8059d9b0dc57eaafdd640c2",
+      "IMG-20251104-WA0223.jpg": "be1d2b6df83e7a48611d7edf16274cb11f509d801a177b37863bab4f6487e185"
+    },
+    "0118": {
+      "IMG-20250201-WA0576.jpg": "18cf6e684322a4793060c28ba2176840ee991464c24a0f8d1ef8f2a476a22fdb"
+    },
+    "0119": {
+      "IMG-20250201-WA0578.jpg": "1c0c152501288df7c80a70e1754d6cf23c6717b699d1462eea4173c4c7b807b4"
+    },
+    "0120": {
+      "IMG-20250203-WA0395.jpg": "682f35faf3528b65aca92a85aee3c66125713ee44ad0502ae1feda0ec063d3b6"
+    },
+    "0125": {
+      "IMG-20250205-WA0398.jpg": "1c86cbece24d996ee6c88a9f9f06504559a61ddcec0076590349d1b531ff1f6c"
+    },
+    "0126": {
+      "IMG-20250205-WA0405.jpg": "aadb337d1776e0b041f3f990085eb5d802b647daf9e3f9dc60a60e48da0c4ea7"
+    },
+    "0131": {
+      "IMG-20250205-WA0584.jpg": "4eeb808ecd4091e4c6f609e327792cc3a7a8687925fceab170af5a15cbcb67d3"
+    },
+    "0137": {
+      "IMG-20250205-WA0731.jpg": "e6737a368d318289c812697befb15f6dcfd0920dfb1da66b58e7ff8038123b99"
+    },
+    "0142": {
+      "IMG-20250205-WA0903.jpg": "9ed4e36026d61a1c36b404fd7f945e877639ce447c98d14189e05fd99ae649a9"
+    }
+  },
+  "completed_products": 12,
+  "saved_images": 60,
+  "recovered_cached_images": 4,
+  "new_images_generated": 17,
+  "completed_at": "2026-10-19T14:04:30.446903+00:00"
+}

@@ -1,0 +1,57 @@
+{
+  "tool": "built-in image_gen",
+  "generation_date": "2026-10-19",
+  "status": "five images generated and visually checked",
+  "whole_assortment": true,
+  "original_sha256": "467f7ea0e262fe29062356d86dfe90522abdef0237597d039f85f44da2e8b708",
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "sha256": "b855ae996f52eba3b45ee3970d29dc4f1868d738d27966ba04209dec00a00b76",
+      "checked": true,
+      "visual_review": "Product appearance compared with original; arrangement and neutral colours retained. Detail is a macro crop; other views show whole assortment.",
+      "source": "Originals/IMG-20250101-WA0332.jpg",
+      "output": "/workspace/generated_images/exec-56dfcf0d-4f3e-4bc7-a7e6-55bf0e526fc4.png",
+      "generation_instructions": "Edit actual source preserving exact visible product shapes/colours/arrangement. Remove shop, hand, price overlay. White seamless background, soft shadow, whole assortment centred."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "sha256": "4656ed1a22f489db0d526c086042f14177a7b05347a3b406f85d890c49e78653",
+      "checked": true,
+      "visual_review": "Product appearance compared with original; arrangement and neutral colours retained. Detail is a macro crop; other views show whole assortment.",
+      "source": "Originals/IMG-20250101-WA0332.jpg",
+      "output": "/workspace/generated_images/exec-2dddb31c-cd65-45b8-b8be-24d66ea7f5a2.png",
+      "generation_instructions": "Edit actual source preserving exact visible product shapes/colours/arrangement. Remove shop, hand, price overlay. Pale lavender backdrop and restrained cream geometry, entire pack visible."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "sha256": "91cdb215c33b92bf0f6428b3355678aef396d1cf199990c02bde4315a65fd6de",
+      "checked": true,
+      "visual_review": "Product appearance compared with original; arrangement and neutral colours retained. Detail is a macro crop; other views show whole assortment.",
+      "source": "Originals/IMG-20250101-WA0332.jpg",
+      "output": "/workspace/generated_images/exec-37f86d41-e37d-4bf8-ad75-5e3e9a16ef8a.png",
+      "generation_instructions": "Edit actual source preserving exact visible product shapes/colours/arrangement. Remove shop, hand, price overlay. Light wood dressing table, folded cream cloth outside product edges, entire pack visible."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "sha256": "4ae623ab761265fb03a87dd04beaa5d86a8a1d39ea56e307823dec875873b94d",
+      "checked": true,
+      "visual_review": "Product appearance compared with original; arrangement and neutral colours retained. Detail is a macro crop; other views show whole assortment.",
+      "source": "Originals/IMG-20250101-WA0332.jpg",
+      "output": "/workspace/generated_images/exec-61304920-e23b-4bc6-9cc9-ab9aa14d0477.png",
+      "generation_instructions": "Edit actual source preserving exact visible product shapes/colours/arrangement. Remove shop, hand, price overlay. Tight macro of only two existing cream claws and metal springs; crop away rest of assortment, no full pack or collage."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "sha256": "bf41734a4757d5bf2b8442fc669283b74b151c60933c7008bd516444116b26e8",
+      "checked": true,
+      "visual_review": "Product appearance compared with original; arrangement and neutral colours retained. Detail is a macro crop; other views show whole assortment.",
+      "source": "Originals/IMG-20250101-WA0332.jpg",
+      "output": "/workspace/generated_images/exec-19a75cf7-fe57-4ec5-b1c4-c0579b874e5e.png",
+      "generation_instructions": "Edit actual source preserving exact visible product shapes/colours/arrangement. Remove shop, hand, price overlay. Lavender cream background, heading NEUTRAL HAIR CLAWS and PRODUCT COLLECTION, entire pack below heading."
+    }
+  ],
+  "rejected_outputs": [
+    "_Review/workflow-test-0053/rejected/04_Detail-full-pack.png"
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260813-WA0154.jpg": "7290b4eab0bd477c3707a5a6e4e3ae46616e2c3c677f4fd84dd66c30b2a3ee71"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-6d5d36b5-f511-4b6b-9385-2c83361d4f59.png",
+      "source_output": "/workspace/generated_images/exec-6d5d36b5-f511-4b6b-9385-2c83361d4f59.png",
+      "sha256": "32e51338fe9546f7995c021d235eaa3b617601fc7eec046a5937587327202802",
+      "prompt": "Edit attached actual original into ONE1536x1024 website image EXACT3columns x2rows512squarecells no borders/gutters. ONE bundled assortment of24 thin fabric-covered elastic hair ties, actual dusty pink, pale lavender/periwinkle, navy and taupe/grey loops with two white round faux-pearl beads attached at tied ends. Preserve original dense bundle and all visible loops/bead ends, thin cord thickness, pearly round beads and colour distribution, not unrelated charms. Heading: Pearl Hair Tie Assortment. Whole assortment is ONE product; keep actual count/identity/shapes/colours. Top left entire bundle on pure white; top middle entire bundle lavender/cream styled; top right entire bundle simple vanity tabletop lifestyle with no extra hair products; bottom left standalone TIGHT real-part macro of actual elastic fabric/attached charm or bead, not whole bundle; bottom middle full bundle only accurate heading above, no count claim/prices/material claims; bottom right blank cream. Remove hand, shop, original grey background and price overlay. Photorealistic website-ready, no object crossing cell edges, no unrelated substitutions.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-6d5d36b5-f511-4b6b-9385-2c83361d4f59.png",
+      "prompt": "Edit attached actual original into ONE1536x1024 website image EXACT3columns x2rows512squarecells no borders/gutters. ONE bundled assortment of24 thin fabric-covered elastic hair ties, actual dusty pink, pale lavender/periwinkle, navy and taupe/grey loops with two white round faux-pearl beads attached at tied ends. Preserve original dense bundle and all visible loops/bead ends, thin cord thickness, pearly round beads and colour distribution, not unrelated charms. Heading: Pearl Hair Tie Assortment. Whole assortment is ONE product; keep actual count/identity/shapes/colours. Top left entire bundle on pure white; top middle entire bundle lavender/cream styled; top right entire bundle simple vanity tabletop lifestyle with no extra hair products; bottom left standalone TIGHT real-part macro of actual elastic fabric/attached charm or bead, not whole bundle; bottom middle full bundle only accurate heading above, no count claim/prices/material claims; bottom right blank cream. Remove hand, shop, original grey background and price overlay. Photorealistic website-ready, no object crossing cell edges, no unrelated substitutions.",
+      "sha256": "66b1efe986fd199c44d97c25f3534b52659127a6cdc712980650eb0382310bcd",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6d5d36b5-f511-4b6b-9385-2c83361d4f59.png",
+      "grid_sha256": "32e51338fe9546f7995c021d235eaa3b617601fc7eec046a5937587327202802",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved five crops inspected against original: dense original bundle of thin pink/lavender/navy/taupe elastic loops and white round pearly bead ends preserved, no new charm types. Individual tie count obscured in original bundle; same visible loops and bead distribution retained without material omission observed. White/lavendercream/vanity, tight real cord knot/two bead detail and accurate heading passed. Exact512cell crop boxes, frozen original/output SHA verified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-6d5d36b5-f511-4b6b-9385-2c83361d4f59.png",
+      "prompt": "Edit attached actual original into ONE1536x1024 website image EXACT3columns x2rows512squarecells no borders/gutters. ONE bundled assortment of24 thin fabric-covered elastic hair ties, actual dusty pink, pale lavender/periwinkle, navy and taupe/grey loops with two white round faux-pearl beads attached at tied ends. Preserve original dense bundle and all visible loops/bead ends, thin cord thickness, pearly round beads and colour distribution, not unrelated charms. Heading: Pearl Hair Tie Assortment. Whole assortment is ONE product; keep actual count/identity/shapes/colours. Top left entire bundle on pure white; top middle entire bundle lavender/cream styled; top right entire bundle simple vanity tabletop lifestyle with no extra hair products; bottom left standalone TIGHT real-part macro of actual elastic fabric/attached charm or bead, not whole bundle; bottom middle full bundle only accurate heading above, no count claim/prices/material claims; bottom right blank cream. Remove hand, shop, original grey background and price overlay. Photorealistic website-ready, no object crossing cell edges, no unrelated substitutions.",
+      "sha256": "09dd8b4280fe8ef17bb8fe23677b4f1279f4600cce66624b6cad4133dc504718",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6d5d36b5-f511-4b6b-9385-2c83361d4f59.png",
+      "grid_sha256": "32e51338fe9546f7995c021d235eaa3b617601fc7eec046a5937587327202802",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved five crops inspected against original: dense original bundle of thin pink/lavender/navy/taupe elastic loops and white round pearly bead ends preserved, no new charm types. Individual tie count obscured in original bundle; same visible loops and bead distribution retained without material omission observed. White/lavendercream/vanity, tight real cord knot/two bead detail and accurate heading passed. Exact512cell crop boxes, frozen original/output SHA verified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-6d5d36b5-f511-4b6b-9385-2c83361d4f59.png",
+      "prompt": "Edit attached actual original into ONE1536x1024 website image EXACT3columns x2rows512squarecells no borders/gutters. ONE bundled assortment of24 thin fabric-covered elastic hair ties, actual dusty pink, pale lavender/periwinkle, navy and taupe/grey loops with two white round faux-pearl beads attached at tied ends. Preserve original dense bundle and all visible loops/bead ends, thin cord thickness, pearly round beads and colour distribution, not unrelated charms. Heading: Pearl Hair Tie Assortment. Whole assortment is ONE product; keep actual count/identity/shapes/colours. Top left entire bundle on pure white; top middle entire bundle lavender/cream styled; top right entire bundle simple vanity tabletop lifestyle with no extra hair products; bottom left standalone TIGHT real-part macro of actual elastic fabric/attached charm or bead, not whole bundle; bottom middle full bundle only accurate heading above, no count claim/prices/material claims; bottom right blank cream. Remove hand, shop, original grey background and price overlay. Photorealistic website-ready, no object crossing cell edges, no unrelated substitutions.",
+      "sha256": "a632904229d1728b7f38c63221b4fd8a34216e75bd69a29a91868fb95d4ebae3",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6d5d36b5-f511-4b6b-9385-2c83361d4f59.png",
+      "grid_sha256": "32e51338fe9546f7995c021d235eaa3b617601fc7eec046a5937587327202802",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved five crops inspected against original: dense original bundle of thin pink/lavender/navy/taupe elastic loops and white round pearly bead ends preserved, no new charm types. Individual tie count obscured in original bundle; same visible loops and bead distribution retained without material omission observed. White/lavendercream/vanity, tight real cord knot/two bead detail and accurate heading passed. Exact512cell crop boxes, frozen original/output SHA verified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-6d5d36b5-f511-4b6b-9385-2c83361d4f59.png",
+      "prompt": "Edit attached actual original into ONE1536x1024 website image EXACT3columns x2rows512squarecells no borders/gutters. ONE bundled assortment of24 thin fabric-covered elastic hair ties, actual dusty pink, pale lavender/periwinkle, navy and taupe/grey loops with two white round faux-pearl beads attached at tied ends. Preserve original dense bundle and all visible loops/bead ends, thin cord thickness, pearly round beads and colour distribution, not unrelated charms. Heading: Pearl Hair Tie Assortment. Whole assortment is ONE product; keep actual count/identity/shapes/colours. Top left entire bundle on pure white; top middle entire bundle lavender/cream styled; top right entire bundle simple vanity tabletop lifestyle with no extra hair products; bottom left standalone TIGHT real-part macro of actual elastic fabric/attached charm or bead, not whole bundle; bottom middle full bundle only accurate heading above, no count claim/prices/material claims; bottom right blank cream. Remove hand, shop, original grey background and price overlay. Photorealistic website-ready, no object crossing cell edges, no unrelated substitutions.",
+      "sha256": "1fb9e0d12c1fb74677881f8a27c1e58239beaaaa7e8c9d6204bd48cbfaf39484",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6d5d36b5-f511-4b6b-9385-2c83361d4f59.png",
+      "grid_sha256": "32e51338fe9546f7995c021d235eaa3b617601fc7eec046a5937587327202802",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved five crops inspected against original: dense original bundle of thin pink/lavender/navy/taupe elastic loops and white round pearly bead ends preserved, no new charm types. Individual tie count obscured in original bundle; same visible loops and bead distribution retained without material omission observed. White/lavendercream/vanity, tight real cord knot/two bead detail and accurate heading passed. Exact512cell crop boxes, frozen original/output SHA verified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-6d5d36b5-f511-4b6b-9385-2c83361d4f59.png",
+      "prompt": "Edit attached actual original into ONE1536x1024 website image EXACT3columns x2rows512squarecells no borders/gutters. ONE bundled assortment of24 thin fabric-covered elastic hair ties, actual dusty pink, pale lavender/periwinkle, navy and taupe/grey loops with two white round faux-pearl beads attached at tied ends. Preserve original dense bundle and all visible loops/bead ends, thin cord thickness, pearly round beads and colour distribution, not unrelated charms. Heading: Pearl Hair Tie Assortment. Whole assortment is ONE product; keep actual count/identity/shapes/colours. Top left entire bundle on pure white; top middle entire bundle lavender/cream styled; top right entire bundle simple vanity tabletop lifestyle with no extra hair products; bottom left standalone TIGHT real-part macro of actual elastic fabric/attached charm or bead, not whole bundle; bottom middle full bundle only accurate heading above, no count claim/prices/material claims; bottom right blank cream. Remove hand, shop, original grey background and price overlay. Photorealistic website-ready, no object crossing cell edges, no unrelated substitutions.",
+      "sha256": "167bf3045cff8b9817e8b8f39d61ebf4a9c68d5aeda3398e3ad14d7e8d20b957",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6d5d36b5-f511-4b6b-9385-2c83361d4f59.png",
+      "grid_sha256": "32e51338fe9546f7995c021d235eaa3b617601fc7eec046a5937587327202802",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved five crops inspected against original: dense original bundle of thin pink/lavender/navy/taupe elastic loops and white round pearly bead ends preserved, no new charm types. Individual tie count obscured in original bundle; same visible loops and bead distribution retained without material omission observed. White/lavendercream/vanity, tight real cord knot/two bead detail and accurate heading passed. Exact512cell crop boxes, frozen original/output SHA verified."
+    },
+    {
+      "kind": "exact_prompt_file",
+      "saved_file": "Generation_Prompts/initial.txt",
+      "sha256": "44f49f5f774d08f8e03824b8884e110a38a80b56d44a52d90589f2b883ae7483",
+      "checked": false
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260810-WA0266.jpg": "16b9181ad22536e18c78009bc6d8e09e71f1a1a767bf9c7a4098e95f50faeb07"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-04399507-5346-40f1-bc5a-66ccca04fefa.png",
+      "source_output": "/workspace/generated_images/exec-04399507-5346-40f1-bc5a-66ccca04fefa.png",
+      "sha256": "7d41bd8c9069c734b3061c406e10a5ea661edda92cbe65b93f2b2752a0a88585",
+      "prompt": "Faithfully EDIT actual referenced Miss Rose compact powder product photograph into website1536x1024 SIXequal512square panels3columns2rows x512/1024y512. Top fullassortmentWHITE/fullassortmentlavendercreamstyled/fullassortmentdressingtablelifestyle. Bottom tightstandalone REALPARTmacro/fullassortmentpromotion accurateheading 'Miss Rose Compact Powder'/blankcream. No spanningcells. Actual whole assortment is the ENTIRE black countertop display tray packed with same visible rows/columns of square clear-lid black-rim MISSROSE powder compacts, goldprinted backboard, PLUS TWO separate foreground compacts in S02warmbeige and S01naturalbeige. Do not reduce product to justtwo foreground compacts or add/remove tray rows; preserve source actual tray inventory/arrangement and two loose shades byte-faithful appearance. Preserve exact rounded-square clear lids, black bases, fine spiral pressed-powder texture, tan/beige colours and MissRose label. Macro tight actual pressed spiral texture and clear-lid corner, no complete assortment required. Remove price/source marketing banners, externalwatermark, featureclaimicons and surrounding backgroundgraphics; no new unsupported claims. All wholeassortments fit each independent panel with margins, accurate heading only.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-04399507-5346-40f1-bc5a-66ccca04fefa.png",
+      "prompt": "Faithfully EDIT actual referenced Miss Rose compact powder product photograph into website1536x1024 SIXequal512square panels3columns2rows x512/1024y512. Top fullassortmentWHITE/fullassortmentlavendercreamstyled/fullassortmentdressingtablelifestyle. Bottom tightstandalone REALPARTmacro/fullassortmentpromotion accurateheading 'Miss Rose Compact Powder'/blankcream. No spanningcells. Actual whole assortment is the ENTIRE black countertop display tray packed with same visible rows/columns of square clear-lid black-rim MISSROSE powder compacts, goldprinted backboard, PLUS TWO separate foreground compacts in S02warmbeige and S01naturalbeige. Do not reduce product to justtwo foreground compacts or add/remove tray rows; preserve source actual tray inventory/arrangement and two loose shades byte-faithful appearance. Preserve exact rounded-square clear lids, black bases, fine spiral pressed-powder texture, tan/beige colours and MissRose label. Macro tight actual pressed spiral texture and clear-lid corner, no complete assortment required. Remove price/source marketing banners, externalwatermark, featureclaimicons and surrounding backgroundgraphics; no new unsupported claims. All wholeassortments fit each independent panel with margins, accurate heading only.",
+      "sha256": "d69a17455291fe7b8772162158fa24119990ee5945f44a46a0023be058165f4e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-04399507-5346-40f1-bc5a-66ccca04fefa.png",
+      "grid_sha256": "7d41bd8c9069c734b3061c406e10a5ea661edda92cbe65b93f2b2752a0a88585",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected against original: entire four-column densely packed display tray with source row arrangement/backboard plus two foreground beige shade compacts retained, not reduced to loose pair. Clear rounded-square lids/black rims/MissRose typography and spiral pressed texture match. Correct independent views and actual texture/corner macro, accurate heading without source feature claims."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-04399507-5346-40f1-bc5a-66ccca04fefa.png",
+      "prompt": "Faithfully EDIT actual referenced Miss Rose compact powder product photograph into website1536x1024 SIXequal512square panels3columns2rows x512/1024y512. Top fullassortmentWHITE/fullassortmentlavendercreamstyled/fullassortmentdressingtablelifestyle. Bottom tightstandalone REALPARTmacro/fullassortmentpromotion accurateheading 'Miss Rose Compact Powder'/blankcream. No spanningcells. Actual whole assortment is the ENTIRE black countertop display tray packed with same visible rows/columns of square clear-lid black-rim MISSROSE powder compacts, goldprinted backboard, PLUS TWO separate foreground compacts in S02warmbeige and S01naturalbeige. Do not reduce product to justtwo foreground compacts or add/remove tray rows; preserve source actual tray inventory/arrangement and two loose shades byte-faithful appearance. Preserve exact rounded-square clear lids, black bases, fine spiral pressed-powder texture, tan/beige colours and MissRose label. Macro tight actual pressed spiral texture and clear-lid corner, no complete assortment required. Remove price/source marketing banners, externalwatermark, featureclaimicons and surrounding backgroundgraphics; no new unsupported claims. All wholeassortments fit each independent panel with margins, accurate heading only.",
+      "sha256": "2c234a07c643bebae357d226e8b99f0bd2098c6e9af22d61065031f217908b3e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-04399507-5346-40f1-bc5a-66ccca04fefa.png",
+      "grid_sha256": "7d41bd8c9069c734b3061c406e10a5ea661edda92cbe65b93f2b2752a0a88585",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected against original: entire four-column densely packed display tray with source row arrangement/backboard plus two foreground beige shade compacts retained, not reduced to loose pair. Clear rounded-square lids/black rims/MissRose typography and spiral pressed texture match. Correct independent views and actual texture/corner macro, accurate heading without source feature claims."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-04399507-5346-40f1-bc5a-66ccca04fefa.png",
+      "prompt": "Faithfully EDIT actual referenced Miss Rose compact powder product photograph into website1536x1024 SIXequal512square panels3columns2rows x512/1024y512. Top fullassortmentWHITE/fullassortmentlavendercreamstyled/fullassortmentdressingtablelifestyle. Bottom tightstandalone REALPARTmacro/fullassortmentpromotion accurateheading 'Miss Rose Compact Powder'/blankcream. No spanningcells. Actual whole assortment is the ENTIRE black countertop display tray packed with same visible rows/columns of square clear-lid black-rim MISSROSE powder compacts, goldprinted backboard, PLUS TWO separate foreground compacts in S02warmbeige and S01naturalbeige. Do not reduce product to justtwo foreground compacts or add/remove tray rows; preserve source actual tray inventory/arrangement and two loose shades byte-faithful appearance. Preserve exact rounded-square clear lids, black bases, fine spiral pressed-powder texture, tan/beige colours and MissRose label. Macro tight actual pressed spiral texture and clear-lid corner, no complete assortment required. Remove price/source marketing banners, externalwatermark, featureclaimicons and surrounding backgroundgraphics; no new unsupported claims. All wholeassortments fit each independent panel with margins, accurate heading only.",
+      "sha256": "6b8c62ddce5a2a06306d43a99bdd74857a432683a4af80e7accb6ee784fa3af0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-04399507-5346-40f1-bc5a-66ccca04fefa.png",
+      "grid_sha256": "7d41bd8c9069c734b3061c406e10a5ea661edda92cbe65b93f2b2752a0a88585",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected against original: entire four-column densely packed display tray with source row arrangement/backboard plus two foreground beige shade compacts retained, not reduced to loose pair. Clear rounded-square lids/black rims/MissRose typography and spiral pressed texture match. Correct independent views and actual texture/corner macro, accurate heading without source feature claims."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-04399507-5346-40f1-bc5a-66ccca04fefa.png",
+      "prompt": "Faithfully EDIT actual referenced Miss Rose compact powder product photograph into website1536x1024 SIXequal512square panels3columns2rows x512/1024y512. Top fullassortmentWHITE/fullassortmentlavendercreamstyled/fullassortmentdressingtablelifestyle. Bottom tightstandalone REALPARTmacro/fullassortmentpromotion accurateheading 'Miss Rose Compact Powder'/blankcream. No spanningcells. Actual whole assortment is the ENTIRE black countertop display tray packed with same visible rows/columns of square clear-lid black-rim MISSROSE powder compacts, goldprinted backboard, PLUS TWO separate foreground compacts in S02warmbeige and S01naturalbeige. Do not reduce product to justtwo foreground compacts or add/remove tray rows; preserve source actual tray inventory/arrangement and two loose shades byte-faithful appearance. Preserve exact rounded-square clear lids, black bases, fine spiral pressed-powder texture, tan/beige colours and MissRose label. Macro tight actual pressed spiral texture and clear-lid corner, no complete assortment required. Remove price/source marketing banners, externalwatermark, featureclaimicons and surrounding backgroundgraphics; no new unsupported claims. All wholeassortments fit each independent panel with margins, accurate heading only.",
+      "sha256": "991ee1b28130aef4c44f8207942f6d8c918dca0e8a9a8dd8c67a5d6f97ef084e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-04399507-5346-40f1-bc5a-66ccca04fefa.png",
+      "grid_sha256": "7d41bd8c9069c734b3061c406e10a5ea661edda92cbe65b93f2b2752a0a88585",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crop inspected against original: entire four-column densely packed display tray with source row arrangement/backboard plus two foreground beige shade compacts retained, not reduced to loose pair. Clear rounded-square lids/black rims/MissRose typography and spiral pressed texture match. Correct independent views and actual texture/corner macro, accurate heading without source feature claims."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-04399507-5346-40f1-bc5a-66ccca04fefa.png",
+      "prompt": "Faithfully EDIT actual referenced Miss Rose compact powder product photograph into website1536x1024 SIXequal512square panels3columns2rows x512/1024y512. Top fullassortmentWHITE/fullassortmentlavendercreamstyled/fullassortmentdressingtablelifestyle. Bottom tightstandalone REALPARTmacro/fullassortmentpromotion accurateheading 'Miss Rose Compact Powder'/blankcream. No spanningcells. Actual whole assortment is the ENTIRE black countertop display tray packed with same visible rows/columns of square clear-lid black-rim MISSROSE powder compacts, goldprinted backboard, PLUS TWO separate foreground compacts in S02warmbeige and S01naturalbeige. Do not reduce product to justtwo foreground compacts or add/remove tray rows; preserve source actual tray inventory/arrangement and two loose shades byte-faithful appearance. Preserve exact rounded-square clear lids, black bases, fine spiral pressed-powder texture, tan/beige colours and MissRose label. Macro tight actual pressed spiral texture and clear-lid corner, no complete assortment required. Remove price/source marketing banners, externalwatermark, featureclaimicons and surrounding backgroundgraphics; no new unsupported claims. All wholeassortments fit each independent panel with margins, accurate heading only.",
+      "sha256": "022640443ba0ff62aeac65863435845012e18022927d2b95f426c2b6c1164229",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-04399507-5346-40f1-bc5a-66ccca04fefa.png",
+      "grid_sha256": "7d41bd8c9069c734b3061c406e10a5ea661edda92cbe65b93f2b2752a0a88585",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crop inspected against original: entire four-column densely packed display tray with source row arrangement/backboard plus two foreground beige shade compacts retained, not reduced to loose pair. Clear rounded-square lids/black rims/MissRose typography and spiral pressed texture match. Correct independent views and actual texture/corner macro, accurate heading without source feature claims."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baselines_verified": true
+}

@@ -1,0 +1,129 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260923-WA0171.jpg": "2743854514c2b8aaa71429e98837aa63969dc7b3c1ecf8fb42354686f4c2a2c5"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-5b1be143-25d8-47b9-90bb-4019c0ef7bbc.png",
+      "source_output": "/workspace/generated_images/exec-5b1be143-25d8-47b9-90bb-4019c0ef7bbc.png",
+      "sha256": "ecc070f6b0a135f711944817cfe02a714d31a33de77f3ec28900e42a3b947a9a",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Fragrance Collection\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage SIX distinctfragrancegroups, allmustappear together infullviews1/2/3/5:VIPYELLOWJASMINE(bigwhitegoldouterbox+whitegoldindividualcarton+paleyellowbottleYELLOWcap);MAHIIR(blackcartongoldhorseart+paleyellowbottleYELLOWcap);KASAS(redcarton+clearpinkliquidglassbottleHOTPINKcap);VIPPARTYGIRL818BLACK(bigblackgoldouterbox+blackgoldslimcarton+BLACKbottleBLACKcap);24CARATGOLD(biggoldouterbox+slimgoldcarton+clearyellowbottleYELLOWcap);MUSAMAN(brownornatecarton+creambottleBURGUNDYcap). Preserve6bottles/6individualcartons/3largeouterboxes=15pieces exactly, sameactualsourcepackagingidentities/colours/forms, noaddedfragrances. Arrangecompact3groupsacross2rows eachfullcell, notsinglevariantonly. Removeoriginalcollageborders/backgroundinteriors. Detail standalone tightrealpartmacro ofactual24caratgoldyellowcap/glassbottlelabel. AccurateheadingFragrance Collection.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-5b1be143-25d8-47b9-90bb-4019c0ef7bbc.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Fragrance Collection\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage SIX distinctfragrancegroups, allmustappear together infullviews1/2/3/5:VIPYELLOWJASMINE(bigwhitegoldouterbox+whitegoldindividualcarton+paleyellowbottleYELLOWcap);MAHIIR(blackcartongoldhorseart+paleyellowbottleYELLOWcap);KASAS(redcarton+clearpinkliquidglassbottleHOTPINKcap);VIPPARTYGIRL818BLACK(bigblackgoldouterbox+blackgoldslimcarton+BLACKbottleBLACKcap);24CARATGOLD(biggoldouterbox+slimgoldcarton+clearyellowbottleYELLOWcap);MUSAMAN(brownornatecarton+creambottleBURGUNDYcap). Preserve6bottles/6individualcartons/3largeouterboxes=15pieces exactly, sameactualsourcepackagingidentities/colours/forms, noaddedfragrances. Arrangecompact3groupsacross2rows eachfullcell, notsinglevariantonly. Removeoriginalcollageborders/backgroundinteriors. Detail standalone tightrealpartmacro ofactual24caratgoldyellowcap/glassbottlelabel. AccurateheadingFragrance Collection.",
+      "sha256": "03beffc8b404bb8a837a0b8498777c60fe87e72a031a0082a50e2e404e660478",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5b1be143-25d8-47b9-90bb-4019c0ef7bbc.png",
+      "grid_sha256": "ecc070f6b0a135f711944817cfe02a714d31a33de77f3ec28900e42a3b947a9a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared with original: Sixfragrancegroups, sixbottles/sixslimcartons/threeouterboxes, allsourceidentities. Wholeassortment count/identities/sourcecolours/forms retained infullviews. Requested white/styled/lifestyle/promo accurateheading andstandalone tightrealpartdetail pass. Website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-5b1be143-25d8-47b9-90bb-4019c0ef7bbc.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Fragrance Collection\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage SIX distinctfragrancegroups, allmustappear together infullviews1/2/3/5:VIPYELLOWJASMINE(bigwhitegoldouterbox+whitegoldindividualcarton+paleyellowbottleYELLOWcap);MAHIIR(blackcartongoldhorseart+paleyellowbottleYELLOWcap);KASAS(redcarton+clearpinkliquidglassbottleHOTPINKcap);VIPPARTYGIRL818BLACK(bigblackgoldouterbox+blackgoldslimcarton+BLACKbottleBLACKcap);24CARATGOLD(biggoldouterbox+slimgoldcarton+clearyellowbottleYELLOWcap);MUSAMAN(brownornatecarton+creambottleBURGUNDYcap). Preserve6bottles/6individualcartons/3largeouterboxes=15pieces exactly, sameactualsourcepackagingidentities/colours/forms, noaddedfragrances. Arrangecompact3groupsacross2rows eachfullcell, notsinglevariantonly. Removeoriginalcollageborders/backgroundinteriors. Detail standalone tightrealpartmacro ofactual24caratgoldyellowcap/glassbottlelabel. AccurateheadingFragrance Collection.",
+      "sha256": "469ea504630f8fd7002aa0ab5df82cfe761ff740740ea43617ec88df0c2e4368",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5b1be143-25d8-47b9-90bb-4019c0ef7bbc.png",
+      "grid_sha256": "ecc070f6b0a135f711944817cfe02a714d31a33de77f3ec28900e42a3b947a9a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared with original: Sixfragrancegroups, sixbottles/sixslimcartons/threeouterboxes, allsourceidentities. Wholeassortment count/identities/sourcecolours/forms retained infullviews. Requested white/styled/lifestyle/promo accurateheading andstandalone tightrealpartdetail pass. Website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-5b1be143-25d8-47b9-90bb-4019c0ef7bbc.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Fragrance Collection\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage SIX distinctfragrancegroups, allmustappear together infullviews1/2/3/5:VIPYELLOWJASMINE(bigwhitegoldouterbox+whitegoldindividualcarton+paleyellowbottleYELLOWcap);MAHIIR(blackcartongoldhorseart+paleyellowbottleYELLOWcap);KASAS(redcarton+clearpinkliquidglassbottleHOTPINKcap);VIPPARTYGIRL818BLACK(bigblackgoldouterbox+blackgoldslimcarton+BLACKbottleBLACKcap);24CARATGOLD(biggoldouterbox+slimgoldcarton+clearyellowbottleYELLOWcap);MUSAMAN(brownornatecarton+creambottleBURGUNDYcap). Preserve6bottles/6individualcartons/3largeouterboxes=15pieces exactly, sameactualsourcepackagingidentities/colours/forms, noaddedfragrances. Arrangecompact3groupsacross2rows eachfullcell, notsinglevariantonly. Removeoriginalcollageborders/backgroundinteriors. Detail standalone tightrealpartmacro ofactual24caratgoldyellowcap/glassbottlelabel. AccurateheadingFragrance Collection.",
+      "sha256": "44b0e6fc7c12c1aa9196f6de30548bded8d07cd2be914a43153e6385fdeb1ded",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5b1be143-25d8-47b9-90bb-4019c0ef7bbc.png",
+      "grid_sha256": "ecc070f6b0a135f711944817cfe02a714d31a33de77f3ec28900e42a3b947a9a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared with original: Sixfragrancegroups, sixbottles/sixslimcartons/threeouterboxes, allsourceidentities. Wholeassortment count/identities/sourcecolours/forms retained infullviews. Requested white/styled/lifestyle/promo accurateheading andstandalone tightrealpartdetail pass. Website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-5b1be143-25d8-47b9-90bb-4019c0ef7bbc.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Fragrance Collection\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage SIX distinctfragrancegroups, allmustappear together infullviews1/2/3/5:VIPYELLOWJASMINE(bigwhitegoldouterbox+whitegoldindividualcarton+paleyellowbottleYELLOWcap);MAHIIR(blackcartongoldhorseart+paleyellowbottleYELLOWcap);KASAS(redcarton+clearpinkliquidglassbottleHOTPINKcap);VIPPARTYGIRL818BLACK(bigblackgoldouterbox+blackgoldslimcarton+BLACKbottleBLACKcap);24CARATGOLD(biggoldouterbox+slimgoldcarton+clearyellowbottleYELLOWcap);MUSAMAN(brownornatecarton+creambottleBURGUNDYcap). Preserve6bottles/6individualcartons/3largeouterboxes=15pieces exactly, sameactualsourcepackagingidentities/colours/forms, noaddedfragrances. Arrangecompact3groupsacross2rows eachfullcell, notsinglevariantonly. Removeoriginalcollageborders/backgroundinteriors. Detail standalone tightrealpartmacro ofactual24caratgoldyellowcap/glassbottlelabel. AccurateheadingFragrance Collection.",
+      "sha256": "c6304b9657f83535533a6274274e9eb88b86206b0a5d8efecae4e2db9c0b1ee4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5b1be143-25d8-47b9-90bb-4019c0ef7bbc.png",
+      "grid_sha256": "ecc070f6b0a135f711944817cfe02a714d31a33de77f3ec28900e42a3b947a9a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual grid/crops compared with original: Sixfragrancegroups, sixbottles/sixslimcartons/threeouterboxes, allsourceidentities. Wholeassortment count/identities/sourcecolours/forms retained infullviews. Requested white/styled/lifestyle/promo accurateheading andstandalone tightrealpartdetail pass. Website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-5b1be143-25d8-47b9-90bb-4019c0ef7bbc.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Fragrance Collection\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actualsourcecollage SIX distinctfragrancegroups, allmustappear together infullviews1/2/3/5:VIPYELLOWJASMINE(bigwhitegoldouterbox+whitegoldindividualcarton+paleyellowbottleYELLOWcap);MAHIIR(blackcartongoldhorseart+paleyellowbottleYELLOWcap);KASAS(redcarton+clearpinkliquidglassbottleHOTPINKcap);VIPPARTYGIRL818BLACK(bigblackgoldouterbox+blackgoldslimcarton+BLACKbottleBLACKcap);24CARATGOLD(biggoldouterbox+slimgoldcarton+clearyellowbottleYELLOWcap);MUSAMAN(brownornatecarton+creambottleBURGUNDYcap). Preserve6bottles/6individualcartons/3largeouterboxes=15pieces exactly, sameactualsourcepackagingidentities/colours/forms, noaddedfragrances. Arrangecompact3groupsacross2rows eachfullcell, notsinglevariantonly. Removeoriginalcollageborders/backgroundinteriors. Detail standalone tightrealpartmacro ofactual24caratgoldyellowcap/glassbottlelabel. AccurateheadingFragrance Collection.",
+      "sha256": "a3f64179924658b363517d8c4ec94e44b7a634979da1f73c3c7fcb861d866d8d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5b1be143-25d8-47b9-90bb-4019c0ef7bbc.png",
+      "grid_sha256": "ecc070f6b0a135f711944817cfe02a714d31a33de77f3ec28900e42a3b947a9a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual grid/crops compared with original: Sixfragrancegroups, sixbottles/sixslimcartons/threeouterboxes, allsourceidentities. Wholeassortment count/identities/sourcecolours/forms retained infullviews. Requested white/styled/lifestyle/promo accurateheading andstandalone tightrealpartdetail pass. Website-ready."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Sixfragrancegroups, sixbottles/sixslimcartons/threeouterboxes, allsourceidentities",
+  "originals_verified_against_frozen_plan": true,
+  "recovery_note": "Historical initial native grid succeeded before workspace reset but cache and copies were lost; regenerated from unchanged originals this resumedrun. No material corrective was spent for lost grid."
+}

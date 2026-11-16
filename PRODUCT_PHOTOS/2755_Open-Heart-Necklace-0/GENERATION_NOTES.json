@@ -1,0 +1,18 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261005-WA0373.jpg": "31e809121e9913d64fb57adef44f4c6fe73bd7b1a2a046f8bb72ef5672089339"
+  },
+  "records": [],
+  "status": "blocked_moderation",
+  "blocker": {
+    "code": "moderation_blocked",
+    "stage": "output",
+    "category": "other",
+    "request_id": "5598dea2-7f99-4c1e-bc0f-37e46dd56f21",
+    "prompt": "Edit the referenced original into ONE landscape1536x1024 product photography grid, EXACT3equalcolumns x2equalrows, six512square cells, NO gutters/borders/panel labels. EXACT ONE gold-tone snake-chain necklace with a large smooth open-heart pendant, original chain threaded through upper heart shoulders, original smooth snake links and original white card/clear sleeve. Same curved asymmetric heart outline, no added bail, stones, charms, chains or unseen clasp. Product is ONE necklace, keep exact identity, count1, shape, material appearance, gold colour and source front-view geometry in every full view. Preserve existing card/sleeve where visible, remove hand/shop/old overlaid price and external material/warranty advertising only. Do not add material/authenticity/warranty claims. Keep all visible product inside each tile with margin; never cross cell boundaries. Reading order: TOPLEFT01 entire necklace/card on purewhite seamless softshadow. TOPMIDDLE02 entire same product on lavender/cream styled studio. TOPRIGHT03 entire same product on cream dressingtable with blurred lavender room, no added jewellery. BOTTOMLEFT04 standalone TIGHT MACRO ONLY of actual source heart edge and adjoining chain, not entire necklace, no invented hidden parts. BOTTOMMIDDLE05 entire same product with small accurate heading HEART PENDANT NECKLACE on lavendercream; no price/claims. BOTTOMRIGHT06 plain unused cream blank. Full views preserve ONE exact necklace, macro shows only actual visible part. Realistic website-ready photograph, no redesign.",
+    "retry": "Skipped without retry as instructed"
+  },
+  "actual_subject": "One gold-tone snake-chain open-heart pendant necklace"
+}

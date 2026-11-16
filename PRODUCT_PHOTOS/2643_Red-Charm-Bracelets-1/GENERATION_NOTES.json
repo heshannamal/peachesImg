@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261002-WA0046.jpg": "724c74926c759c222c2880489e09c5491b89449200fa4b46558af110bc2192d7",
+    "Originals/IMG-20261002-WA0049.jpg": "970440287c3d357ba42f861e87107db8b0e1746588836f6b40bb8bd3a0da4891"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-632cb5f1-317c-4f6b-ac1c-8525a47c7c7f.png",
+      "source_output": "/workspace/generated_images/exec-632cb5f1-317c-4f6b-ac1c-8525a47c7c7f.png",
+      "sha256": "8486e75672764042c5031edcb054dd9e298b7da8dc334a033483d32e234c64df",
+      "prompt": "Native reference photo edit. ONE landscape1536x1024 image STRICT3columns2rows equal512squarecells no gutters borders labels. Preserve exact visible complete original assortment, shapes, colours and count; no invented hidden pieces from price label. Remove hand/shop/price overlay and plastic glare; retain white display cards. All full views entirely inside cells with margin. Cell1topLEFT whole assortment purewhite; cell2topMIDDLE whole assortment lavendercream studio; cell3topRIGHT whole assortment creamvanity/lavenderroom lifestyle; cell4bottomLEFT standalone verytight macro of one actual visible charm and adjoining goldtone chain links only; cell5bottomMIDDLE whole assortment accurate heading CHARM BRACELET COLLECTION; cell6bottomRIGHT blankcream. Photorealistic websitequality, no invented material claims. TWO different reference packs make ONE assortment: show BOTH sidebyside, each SIX longwhitecards with SIX goldtone bracelets =12visible bracelets total. Firstpack tiny black/red/blue floralcharms (two each), secondpack round flower/disccharms pink/red/pink (two each). Preserve two distinct sixcardpacks and actual tiny flower/disc enamel colours and bead/link/clasp shapes. Never duplicate onepack and never replace flowers with animals. ",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-632cb5f1-317c-4f6b-ac1c-8525a47c7c7f.png",
+      "prompt": "Native reference photo edit. ONE landscape1536x1024 image STRICT3columns2rows equal512squarecells no gutters borders labels. Preserve exact visible complete original assortment, shapes, colours and count; no invented hidden pieces from price label. Remove hand/shop/price overlay and plastic glare; retain white display cards. All full views entirely inside cells with margin. Cell1topLEFT whole assortment purewhite; cell2topMIDDLE whole assortment lavendercream studio; cell3topRIGHT whole assortment creamvanity/lavenderroom lifestyle; cell4bottomLEFT standalone verytight macro of one actual visible charm and adjoining goldtone chain links only; cell5bottomMIDDLE whole assortment accurate heading CHARM BRACELET COLLECTION; cell6bottomRIGHT blankcream. Photorealistic websitequality, no invented material claims. TWO different reference packs make ONE assortment: show BOTH sidebyside, each SIX longwhitecards with SIX goldtone bracelets =12visible bracelets total. Firstpack tiny black/red/blue floralcharms (two each), secondpack round flower/disccharms pink/red/pink (two each). Preserve two distinct sixcardpacks and actual tiny flower/disc enamel colours and bead/link/clasp shapes. Never duplicate onepack and never replace flowers with animals. ",
+      "sha256": "1b7dba8425ab92e4cbc6255b25a4a09bd0469890e1ded553e6834f50b0cd672d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-632cb5f1-317c-4f6b-ac1c-8525a47c7c7f.png",
+      "grid_sha256": "8486e75672764042c5031edcb054dd9e298b7da8dc334a033483d32e234c64df",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Inspected both original packs, generated grid and actual saved square crops. Two distinct six-bracelet packs retained (12 total): black/red/blue flower pair groups and pink/red/pink round flower pair groups. Goldtone fine chains/beads/extensions remain recognisable. Full views fit cleanly within cells; white, lavender studio and vanity lifestyle styles valid (small tray is scenery). Macro is standalone tight actual black-flower charm detail; promotional heading accurate and legible. Website quality accepted; no cosmetic retry."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-632cb5f1-317c-4f6b-ac1c-8525a47c7c7f.png",
+      "prompt": "Native reference photo edit. ONE landscape1536x1024 image STRICT3columns2rows equal512squarecells no gutters borders labels. Preserve exact visible complete original assortment, shapes, colours and count; no invented hidden pieces from price label. Remove hand/shop/price overlay and plastic glare; retain white display cards. All full views entirely inside cells with margin. Cell1topLEFT whole assortment purewhite; cell2topMIDDLE whole assortment lavendercream studio; cell3topRIGHT whole assortment creamvanity/lavenderroom lifestyle; cell4bottomLEFT standalone verytight macro of one actual visible charm and adjoining goldtone chain links only; cell5bottomMIDDLE whole assortment accurate heading CHARM BRACELET COLLECTION; cell6bottomRIGHT blankcream. Photorealistic websitequality, no invented material claims. TWO different reference packs make ONE assortment: show BOTH sidebyside, each SIX longwhitecards with SIX goldtone bracelets =12visible bracelets total. Firstpack tiny black/red/blue floralcharms (two each), secondpack round flower/disccharms pink/red/pink (two each). Preserve two distinct sixcardpacks and actual tiny flower/disc enamel colours and bead/link/clasp shapes. Never duplicate onepack and never replace flowers with animals. ",
+      "sha256": "562e19b3f065cee829b4079f0158b20a360b3842431450e59f9e0cde1629f88c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-632cb5f1-317c-4f6b-ac1c-8525a47c7c7f.png",
+      "grid_sha256": "8486e75672764042c5031edcb054dd9e298b7da8dc334a033483d32e234c64df",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Inspected both original packs, generated grid and actual saved square crops. Two distinct six-bracelet packs retained (12 total): black/red/blue flower pair groups and pink/red/pink round flower pair groups. Goldtone fine chains/beads/extensions remain recognisable. Full views fit cleanly within cells; white, lavender studio and vanity lifestyle styles valid (small tray is scenery). Macro is standalone tight actual black-flower charm detail; promotional heading accurate and legible. Website quality accepted; no cosmetic retry."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-632cb5f1-317c-4f6b-ac1c-8525a47c7c7f.png",
+      "prompt": "Native reference photo edit. ONE landscape1536x1024 image STRICT3columns2rows equal512squarecells no gutters borders labels. Preserve exact visible complete original assortment, shapes, colours and count; no invented hidden pieces from price label. Remove hand/shop/price overlay and plastic glare; retain white display cards. All full views entirely inside cells with margin. Cell1topLEFT whole assortment purewhite; cell2topMIDDLE whole assortment lavendercream studio; cell3topRIGHT whole assortment creamvanity/lavenderroom lifestyle; cell4bottomLEFT standalone verytight macro of one actual visible charm and adjoining goldtone chain links only; cell5bottomMIDDLE whole assortment accurate heading CHARM BRACELET COLLECTION; cell6bottomRIGHT blankcream. Photorealistic websitequality, no invented material claims. TWO different reference packs make ONE assortment: show BOTH sidebyside, each SIX longwhitecards with SIX goldtone bracelets =12visible bracelets total. Firstpack tiny black/red/blue floralcharms (two each), secondpack round flower/disccharms pink/red/pink (two each). Preserve two distinct sixcardpacks and actual tiny flower/disc enamel colours and bead/link/clasp shapes. Never duplicate onepack and never replace flowers with animals. ",
+      "sha256": "c6cd2805c3589f6ae039e85549553088bac21b6d62a713f09613c6fbf3450094",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-632cb5f1-317c-4f6b-ac1c-8525a47c7c7f.png",
+      "grid_sha256": "8486e75672764042c5031edcb054dd9e298b7da8dc334a033483d32e234c64df",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Inspected both original packs, generated grid and actual saved square crops. Two distinct six-bracelet packs retained (12 total): black/red/blue flower pair groups and pink/red/pink round flower pair groups. Goldtone fine chains/beads/extensions remain recognisable. Full views fit cleanly within cells; white, lavender studio and vanity lifestyle styles valid (small tray is scenery). Macro is standalone tight actual black-flower charm detail; promotional heading accurate and legible. Website quality accepted; no cosmetic retry."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-632cb5f1-317c-4f6b-ac1c-8525a47c7c7f.png",
+      "prompt": "Native reference photo edit. ONE landscape1536x1024 image STRICT3columns2rows equal512squarecells no gutters borders labels. Preserve exact visible complete original assortment, shapes, colours and count; no invented hidden pieces from price label. Remove hand/shop/price overlay and plastic glare; retain white display cards. All full views entirely inside cells with margin. Cell1topLEFT whole assortment purewhite; cell2topMIDDLE whole assortment lavendercream studio; cell3topRIGHT whole assortment creamvanity/lavenderroom lifestyle; cell4bottomLEFT standalone verytight macro of one actual visible charm and adjoining goldtone chain links only; cell5bottomMIDDLE whole assortment accurate heading CHARM BRACELET COLLECTION; cell6bottomRIGHT blankcream. Photorealistic websitequality, no invented material claims. TWO different reference packs make ONE assortment: show BOTH sidebyside, each SIX longwhitecards with SIX goldtone bracelets =12visible bracelets total. Firstpack tiny black/red/blue floralcharms (two each), secondpack round flower/disccharms pink/red/pink (two each). Preserve two distinct sixcardpacks and actual tiny flower/disc enamel colours and bead/link/clasp shapes. Never duplicate onepack and never replace flowers with animals. ",
+      "sha256": "12f5e52f7bda9242bf07391ddbc08eca76e7716322bca82a5f8222cd2aba9d7c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-632cb5f1-317c-4f6b-ac1c-8525a47c7c7f.png",
+      "grid_sha256": "8486e75672764042c5031edcb054dd9e298b7da8dc334a033483d32e234c64df",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Inspected both original packs, generated grid and actual saved square crops. Two distinct six-bracelet packs retained (12 total): black/red/blue flower pair groups and pink/red/pink round flower pair groups. Goldtone fine chains/beads/extensions remain recognisable. Full views fit cleanly within cells; white, lavender studio and vanity lifestyle styles valid (small tray is scenery). Macro is standalone tight actual black-flower charm detail; promotional heading accurate and legible. Website quality accepted; no cosmetic retry."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-632cb5f1-317c-4f6b-ac1c-8525a47c7c7f.png",
+      "prompt": "Native reference photo edit. ONE landscape1536x1024 image STRICT3columns2rows equal512squarecells no gutters borders labels. Preserve exact visible complete original assortment, shapes, colours and count; no invented hidden pieces from price label. Remove hand/shop/price overlay and plastic glare; retain white display cards. All full views entirely inside cells with margin. Cell1topLEFT whole assortment purewhite; cell2topMIDDLE whole assortment lavendercream studio; cell3topRIGHT whole assortment creamvanity/lavenderroom lifestyle; cell4bottomLEFT standalone verytight macro of one actual visible charm and adjoining goldtone chain links only; cell5bottomMIDDLE whole assortment accurate heading CHARM BRACELET COLLECTION; cell6bottomRIGHT blankcream. Photorealistic websitequality, no invented material claims. TWO different reference packs make ONE assortment: show BOTH sidebyside, each SIX longwhitecards with SIX goldtone bracelets =12visible bracelets total. Firstpack tiny black/red/blue floralcharms (two each), secondpack round flower/disccharms pink/red/pink (two each). Preserve two distinct sixcardpacks and actual tiny flower/disc enamel colours and bead/link/clasp shapes. Never duplicate onepack and never replace flowers with animals. ",
+      "sha256": "b8cba70cd9a81a64fdc6a360f62f2a8f6038b69d88c10e433a3aa12561dee6a9",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-632cb5f1-317c-4f6b-ac1c-8525a47c7c7f.png",
+      "grid_sha256": "8486e75672764042c5031edcb054dd9e298b7da8dc334a033483d32e234c64df",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Inspected both original packs, generated grid and actual saved square crops. Two distinct six-bracelet packs retained (12 total): black/red/blue flower pair groups and pink/red/pink round flower pair groups. Goldtone fine chains/beads/extensions remain recognisable. Full views fit cleanly within cells; white, lavender studio and vanity lifestyle styles valid (small tray is scenery). Macro is standalone tight actual black-flower charm detail; promotional heading accurate and legible. Website quality accepted; no cosmetic retry."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "plan_original_hashes_verified": true
+}

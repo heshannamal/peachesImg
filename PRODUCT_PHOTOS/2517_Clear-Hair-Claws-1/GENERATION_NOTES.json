@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260929-WA0170.jpg": "9da037cb29e5980ecf1681caba1b5fbf33ffd769f89c49df49c53bb4d65cbfcd"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-c35629de-c138-4b8d-b548-972ae8038be4.png",
+      "source_output": "/workspace/generated_images/exec-c35629de-c138-4b8d-b548-972ae8038be4.png",
+      "sha256": "c5de8235db6cbff2387540938c502d3d3c42c2bc91cd159be1d505e8005aa1e6",
+      "prompt": "Native photographic edit actualoriginal toONE1536x1024contactsheet strict3columns2rows equal512squarecells no gutters. Wholeassortment ONEproduct. RepeatENTIREoriginalassortmentineachfullview, neveroneitempercell. Cell1top-left whitebackground fullassortment;cell2top-middle lavender/creamstyled fullassortment;cell3top-right lifestyle fullassortment;cell4bottom-left standalone tightrealpartmacro;cell5bottom-middle promotionalfullassortment accurateheading;cell6bottom-rightblankcream. Preserveexactcount/identity/shapes/colours/printeddesigns. Removehand/shop/priceoverlay/plasticbag. No stocksubstitutes,noinventeditems. Actualsource EXACT12identicaltransparentchampagnehairclaws withWHITEPEARLrim, smallovalopencutouthandleabovegentlycurvedhorizontalbar andtransparentcombteeth/goldcoilspring. Twelvepieces2rows6inoriginal; arrange3rows4forclearcount. Preserveactualovalhandle/baroutlineandpearlplacement, notbutterfly/rectangle. Tightmacroactualwhitepearlrim/clearbase/goldhinge. Heading 'Pearl Outline Hair Claws'.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-c35629de-c138-4b8d-b548-972ae8038be4.png",
+      "prompt": "Native photographic edit actualoriginal toONE1536x1024contactsheet strict3columns2rows equal512squarecells no gutters. Wholeassortment ONEproduct. RepeatENTIREoriginalassortmentineachfullview, neveroneitempercell. Cell1top-left whitebackground fullassortment;cell2top-middle lavender/creamstyled fullassortment;cell3top-right lifestyle fullassortment;cell4bottom-left standalone tightrealpartmacro;cell5bottom-middle promotionalfullassortment accurateheading;cell6bottom-rightblankcream. Preserveexactcount/identity/shapes/colours/printeddesigns. Removehand/shop/priceoverlay/plasticbag. No stocksubstitutes,noinventeditems. Actualsource EXACT12identicaltransparentchampagnehairclaws withWHITEPEARLrim, smallovalopencutouthandleabovegentlycurvedhorizontalbar andtransparentcombteeth/goldcoilspring. Twelvepieces2rows6inoriginal; arrange3rows4forclearcount. Preserveactualovalhandle/baroutlineandpearlplacement, notbutterfly/rectangle. Tightmacroactualwhitepearlrim/clearbase/goldhinge. Heading 'Pearl Outline Hair Claws'.",
+      "sha256": "1095c97dc741d618abb6eab71d457681e7b026a50529c72e876e55344e676dc0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c35629de-c138-4b8d-b548-972ae8038be4.png",
+      "grid_sha256": "c5de8235db6cbff2387540938c502d3d3c42c2bc91cd159be1d505e8005aa1e6",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crop comparedwithoriginal:exact12pearlovaloutlinehandleandcurvedbarclear-champagneclaws ineachfullview, samewhitepearls/goldcoil/transparentteeth; standalone tightrealhinge/pearlrimdetail; accurateheading. Websitequalitypassed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-c35629de-c138-4b8d-b548-972ae8038be4.png",
+      "prompt": "Native photographic edit actualoriginal toONE1536x1024contactsheet strict3columns2rows equal512squarecells no gutters. Wholeassortment ONEproduct. RepeatENTIREoriginalassortmentineachfullview, neveroneitempercell. Cell1top-left whitebackground fullassortment;cell2top-middle lavender/creamstyled fullassortment;cell3top-right lifestyle fullassortment;cell4bottom-left standalone tightrealpartmacro;cell5bottom-middle promotionalfullassortment accurateheading;cell6bottom-rightblankcream. Preserveexactcount/identity/shapes/colours/printeddesigns. Removehand/shop/priceoverlay/plasticbag. No stocksubstitutes,noinventeditems. Actualsource EXACT12identicaltransparentchampagnehairclaws withWHITEPEARLrim, smallovalopencutouthandleabovegentlycurvedhorizontalbar andtransparentcombteeth/goldcoilspring. Twelvepieces2rows6inoriginal; arrange3rows4forclearcount. Preserveactualovalhandle/baroutlineandpearlplacement, notbutterfly/rectangle. Tightmacroactualwhitepearlrim/clearbase/goldhinge. Heading 'Pearl Outline Hair Claws'.",
+      "sha256": "87f6735d69c1fd27f72e81fae72182b36ba22fe6e4dbf71e85094b214df667e4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c35629de-c138-4b8d-b548-972ae8038be4.png",
+      "grid_sha256": "c5de8235db6cbff2387540938c502d3d3c42c2bc91cd159be1d505e8005aa1e6",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crop comparedwithoriginal:exact12pearlovaloutlinehandleandcurvedbarclear-champagneclaws ineachfullview, samewhitepearls/goldcoil/transparentteeth; standalone tightrealhinge/pearlrimdetail; accurateheading. Websitequalitypassed."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-c35629de-c138-4b8d-b548-972ae8038be4.png",
+      "prompt": "Native photographic edit actualoriginal toONE1536x1024contactsheet strict3columns2rows equal512squarecells no gutters. Wholeassortment ONEproduct. RepeatENTIREoriginalassortmentineachfullview, neveroneitempercell. Cell1top-left whitebackground fullassortment;cell2top-middle lavender/creamstyled fullassortment;cell3top-right lifestyle fullassortment;cell4bottom-left standalone tightrealpartmacro;cell5bottom-middle promotionalfullassortment accurateheading;cell6bottom-rightblankcream. Preserveexactcount/identity/shapes/colours/printeddesigns. Removehand/shop/priceoverlay/plasticbag. No stocksubstitutes,noinventeditems. Actualsource EXACT12identicaltransparentchampagnehairclaws withWHITEPEARLrim, smallovalopencutouthandleabovegentlycurvedhorizontalbar andtransparentcombteeth/goldcoilspring. Twelvepieces2rows6inoriginal; arrange3rows4forclearcount. Preserveactualovalhandle/baroutlineandpearlplacement, notbutterfly/rectangle. Tightmacroactualwhitepearlrim/clearbase/goldhinge. Heading 'Pearl Outline Hair Claws'.",
+      "sha256": "1a311f8a12a0432e9545c98164ead1d1dd2447e0d455ba4c5800c97322cf9d7e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c35629de-c138-4b8d-b548-972ae8038be4.png",
+      "grid_sha256": "c5de8235db6cbff2387540938c502d3d3c42c2bc91cd159be1d505e8005aa1e6",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crop comparedwithoriginal:exact12pearlovaloutlinehandleandcurvedbarclear-champagneclaws ineachfullview, samewhitepearls/goldcoil/transparentteeth; standalone tightrealhinge/pearlrimdetail; accurateheading. Websitequalitypassed."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-c35629de-c138-4b8d-b548-972ae8038be4.png",
+      "prompt": "Native photographic edit actualoriginal toONE1536x1024contactsheet strict3columns2rows equal512squarecells no gutters. Wholeassortment ONEproduct. RepeatENTIREoriginalassortmentineachfullview, neveroneitempercell. Cell1top-left whitebackground fullassortment;cell2top-middle lavender/creamstyled fullassortment;cell3top-right lifestyle fullassortment;cell4bottom-left standalone tightrealpartmacro;cell5bottom-middle promotionalfullassortment accurateheading;cell6bottom-rightblankcream. Preserveexactcount/identity/shapes/colours/printeddesigns. Removehand/shop/priceoverlay/plasticbag. No stocksubstitutes,noinventeditems. Actualsource EXACT12identicaltransparentchampagnehairclaws withWHITEPEARLrim, smallovalopencutouthandleabovegentlycurvedhorizontalbar andtransparentcombteeth/goldcoilspring. Twelvepieces2rows6inoriginal; arrange3rows4forclearcount. Preserveactualovalhandle/baroutlineandpearlplacement, notbutterfly/rectangle. Tightmacroactualwhitepearlrim/clearbase/goldhinge. Heading 'Pearl Outline Hair Claws'.",
+      "sha256": "5d5e16e1a87b2c0bd03e6cfc3451185825e816af71def32c9a74009e8e2887ce",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c35629de-c138-4b8d-b548-972ae8038be4.png",
+      "grid_sha256": "c5de8235db6cbff2387540938c502d3d3c42c2bc91cd159be1d505e8005aa1e6",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crop comparedwithoriginal:exact12pearlovaloutlinehandleandcurvedbarclear-champagneclaws ineachfullview, samewhitepearls/goldcoil/transparentteeth; standalone tightrealhinge/pearlrimdetail; accurateheading. Websitequalitypassed."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-c35629de-c138-4b8d-b548-972ae8038be4.png",
+      "prompt": "Native photographic edit actualoriginal toONE1536x1024contactsheet strict3columns2rows equal512squarecells no gutters. Wholeassortment ONEproduct. RepeatENTIREoriginalassortmentineachfullview, neveroneitempercell. Cell1top-left whitebackground fullassortment;cell2top-middle lavender/creamstyled fullassortment;cell3top-right lifestyle fullassortment;cell4bottom-left standalone tightrealpartmacro;cell5bottom-middle promotionalfullassortment accurateheading;cell6bottom-rightblankcream. Preserveexactcount/identity/shapes/colours/printeddesigns. Removehand/shop/priceoverlay/plasticbag. No stocksubstitutes,noinventeditems. Actualsource EXACT12identicaltransparentchampagnehairclaws withWHITEPEARLrim, smallovalopencutouthandleabovegentlycurvedhorizontalbar andtransparentcombteeth/goldcoilspring. Twelvepieces2rows6inoriginal; arrange3rows4forclearcount. Preserveactualovalhandle/baroutlineandpearlplacement, notbutterfly/rectangle. Tightmacroactualwhitepearlrim/clearbase/goldhinge. Heading 'Pearl Outline Hair Claws'.",
+      "sha256": "2cf4c083fcd965fca4cd2cb559d437232f38fba40c630646c12ebbf0f721148f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c35629de-c138-4b8d-b548-972ae8038be4.png",
+      "grid_sha256": "c5de8235db6cbff2387540938c502d3d3c42c2bc91cd159be1d505e8005aa1e6",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crop comparedwithoriginal:exact12pearlovaloutlinehandleandcurvedbarclear-champagneclaws ineachfullview, samewhitepearls/goldcoil/transparentteeth; standalone tightrealhinge/pearlrimdetail; accurateheading. Websitequalitypassed."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baselines_verified": true
+}

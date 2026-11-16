@@ -1,0 +1,54 @@
+{
+  "product_id": "0135",
+  "original_hashes": {
+    "Originals/IMG-20250205-WA0616.jpg": "c4b630ac26a17094657cb3352e87a7458454fe2722e55808b6d093a54eae5233"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "cache_source": "/workspace/generated_images/exec-a3064fb8-76d5-41a9-9dc6-678463512bc7.png",
+      "sha256": "98f3d84abd71adec9cfd14a748e4385f1dca8587a6eb83421e4824ea77b98295",
+      "prompt": "Website-ready ecommerce photograph of the exact ONE large burgundy-red satin hair bow on original white Fashion Jewelry backing card in reference. Preserve broad folded two bow loops central red band and two long flowing tails, tiny scattered silver rhinestones and larger white pearl-like beads near tail ends, original satin sheen wine-red colour exact front shape folds and proportions. Do not invent hidden fastener, back view or extra bow. Remove hand watch shop and old price overlay only. Full bow and tails fully visible on pure white seamless studio surface soft shadows no new words.",
+      "prompt_source": "_Review/REMAINING25_worker3_prompts.json:p135",
+      "checked": true,
+      "visual_check": "Passed one burgundy satin bow broad loops central band long tails rhinestones larger white tail pearls original card front; hand shop price removed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "cache_source": "/workspace/generated_images/exec-e2f895b4-292a-4c51-9160-e7c270c914de.png",
+      "sha256": "ba45593227a717f76a25fa8bcc81b819e9b3327cfbb262fcc3a7fdc5ddb4a07d",
+      "prompt": "Website-ready ecommerce photograph of the exact ONE large burgundy-red satin hair bow on original white Fashion Jewelry backing card in reference. Preserve broad folded two bow loops central red band and two long flowing tails, tiny scattered silver rhinestones and larger white pearl-like beads near tail ends, original satin sheen wine-red colour exact front shape folds and proportions. Do not invent hidden fastener, back view or extra bow. Remove hand watch shop and old price overlay only. Full bow and tails fully visible on cream linen studio surface with soft lavender backdrop soft shadows no new words.",
+      "prompt_source": "_Review/REMAINING25_worker3_prompts.json:p135_2",
+      "checked": true,
+      "visual_check": "Passed one wine-red satin bow loops center band long tails silver rhinestones white pearl details main source identity full view lavender cream card no hand."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "cache_source": "/workspace/generated_images/exec-73429d49-0e5a-4854-8f9d-7c606ce36207.png",
+      "sha256": "1a8acbba758aee8ccb4379279fc61986650767b17b22114844ea1e7f83c81d75",
+      "prompt": "Website-ready ecommerce photograph of the exact ONE large burgundy-red satin hair bow on original white Fashion Jewelry backing card in reference. Preserve broad folded two bow loops central red band and two long flowing tails, tiny scattered silver rhinestones and larger white pearl-like beads near tail ends, original satin sheen wine-red colour exact front shape folds and proportions. Do not invent hidden fastener, back view or extra bow. Remove hand watch shop and old price overlay only. Full bow and tails fully visible on sunlit cream home dressing-table surface with softly blurred mirror at distance, no hands or wearing soft shadows no new words.",
+      "prompt_source": "_Review/REMAINING25_worker3_prompts.json:p135_3",
+      "checked": true,
+      "visual_check": "Passed one full burgundy satin bow loops band tails rhinestones pearl-like tail beads card front on sunlit vanity no hand price hidden view."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-dd1805bc-4093-4445-b241-9a28f2573e5a.png",
+      "prompt": "One realistic promotional website photo of Exact reference single deep burgundy-red satin hair bow with broad folded loops,center band,two long draped tails,small silver rhinestone dots and larger white pearl beads near tail ends,on original white Fashion Jewelry backing card. Preserve exact visible shape,colour,texture,embellishments and proportions. Remove hand,price overlay and shop. No new parts or imagined backs. Entire single bow comfortably inside frame on cream lavender. Compact dark plum heading 'Large Red Hair Bow' and smaller 'PRODUCT COLLECTION'. No sale claims.",
+      "sha256": "13a2844e56b917a6861300f2e3da54b91d005450751dbe4e0dc5814f802be5de",
+      "checked": true,
+      "visual_review": "Single burgundy satin bow retains broad loops, centre band,long tails,rhinestone dots and white pearls; original card and readable promotional heading retained."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-96f7ee5e-ae92-4d1c-9320-981d73ab39b0.png",
+      "prompt": "One realistic tight macro product detail of Exact reference single deep burgundy-red satin hair bow with broad folded loops,center band,two long draped tails,small silver rhinestone dots and larger white pearl beads near tail ends,on original white Fashion Jewelry backing card. Preserve exact visible shape,colour,texture,embellishments and proportions. Remove hand,price overlay and shop. No new parts or imagined backs. Zoom tightly on satin folds,rhinestones and several pearl beads at lower tail. Crop out most full bow,material detail fills frame. Soft cream light,website-ready.",
+      "sha256": "3fd35558867f7b6923efd63ebd649acb803ecd571e7c0cff2836d06f1084b991",
+      "checked": true,
+      "visual_review": "Tight macro retains burgundy satin folds, silver rhinestone dots and larger white pearls. Shape and material match visible reference."
+    }
+  ],
+  "status": "five images generated and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "original_hashes_verified": true
+}

@@ -1,0 +1,53 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250203-WA0478.jpg": "dfd6197867f000a2cdea5cd6f6b6113a50f3e3345ddf0bc69468b57b8836b5e4",
+    "Originals/IMG-20251104-WA0222.jpg": "51d3c30772527a55ccd866e4d44354dd0ef3c4c6a53a226cb57065bc41c6d222"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-d1b40b1b-ca09-4d43-86b1-d6bfd6294de5.png",
+      "prompt": "Square website ecommerce photograph on pure white background. Preserve EXACT entire assortment from reference: NINE closed scallop-flap wallets in3x3 grid, top dark grey tan pink, middle lavender blue olive green, bottom red black pale mint, each matching pompom, plus ONE original open tan wallet below showing original card slots and zipper. Same count, main shapes,colours,materials and arrangement. Remove hand,shop,price/information overlays and unrelated scenery only. Whole assortment fully framed with margins and soft studio shadows. No new text or invented parts.",
+      "sha256": "aa5d98e2b239767a0a5ece2d4683c13e674d96d6ed6f7e8da275d7225d877ee2",
+      "checked": true,
+      "visual_review": "Visually compared output against original: full count, main shapes/colours/materials retained. Minor printed/embossed cosmetics accepted for website standard."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-20d1c32c-3b2b-434e-aa1a-238c13962e11.png",
+      "prompt": "Square website product photo on lavender cream studio background. EXACT entire assortment: NINE closed scallop-flap wallets in3x3 grid, top dark grey tan pink, middle lavender blue olive green, bottom red black pale mint, each matching pompom, plus ONE original open tan wallet below showing original card slots and zipper. Preserve original count, shapes,colours,materials,arrangement and packaging. Fully in frame, soft shadows, no new text or extra pieces.",
+      "sha256": "d17263518408ba0c0fd8586e291a95801ea944cd3b726c440fd50f7f132225f2",
+      "checked": true,
+      "visual_review": "Visually compared output against original: full count, main shapes/colours/materials retained. Minor printed/embossed cosmetics accepted for website standard."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-9731a414-d0b5-46e6-a556-6e3ac2b1419a.png",
+      "prompt": "Square website lifestyle product photograph. Preserve EXACT all NINE closed scallop wallets in3x3grid with matching pompom colours plus the original open tan wallet below showing card slots and zipper, same count/main shapes,colours,materials and arrangement. Entire assortment on cream dressing table in softly blurred lavender bedroom with morning window light. No hands/person, no extra products, no new text. Whole assortment fully framed.",
+      "sha256": "54634c7dfb3bb4739cb19dafc9097fd2ec975188a898713cf83c22b22fc5091f",
+      "checked": true,
+      "visual_review": "Full assortment visually checked against original, correct main count/shape/colour/material retained in lifestyle view."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-84972377-8675-4e81-89e7-c4196afe17e4.png",
+      "prompt": "Square tight macro crop ONLY tan open wallet original zipper and adjoining card-slot edge stitching from reference. Preserve exact visible primary shape,colour,material and design. Website detail photograph, clear texture, no whole assortment, no invented hidden parts or new text.",
+      "sha256": "4364de1c37cc9b583a54dc7709e4cd4fff851e85cce6b897df8298496226b10a",
+      "checked": true,
+      "visual_review": "Tight macro reviewed against visible source: main material, shape, colour and product design retained."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-1ba5e51f-5ad8-4fb9-96a0-bc767227f201.png",
+      "prompt": "Square website promotional product photograph. Preserve EXACT all NINE closed scallop wallets in3x3grid with matching pompom colours plus the original open tan wallet below showing card slots and zipper. Same count,main shapes,colours,materials,arrangement. Lavender cream background, reduce scale to fit entire assortment and generous margins. Small dark plum heading Scalloped Flap Wallets and small PRODUCT COLLECTION subheading. No prices or extra products. Soft studio lighting.",
+      "sha256": "c27c3e3919175f30988196d4b9b0e5cab622ba96098c20833130e26c0a3f7f9d",
+      "checked": true,
+      "visual_review": "Full promotional assortment reviewed against original, correct count/main shape/colours/materials retained; website-ready."
+    }
+  ],
+  "status": "five images generated and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_verified_unchanged": true
+}

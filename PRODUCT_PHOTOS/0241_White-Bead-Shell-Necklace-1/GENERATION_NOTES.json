@@ -1,0 +1,51 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250303-WA0333.jpg": "5ad5f4315dd9f90e4709d6633ca0ddf13dfc3fcc9a4b117fe3d2f7a4d93a7db1"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-c3155322-ef8a-41d1-87ea-42f5ef4b6468.png",
+      "prompt": "Edit the reference into a website-ready square white-background product photograph. Preserve exactly the visible white ivory small spiral shell necklace in its original long looping arrangement, including clustered sections and singly threaded small conical spiral shells. Retain original arrangement, number of visible shells, natural shell shapes, material and colours; don't invent parts, jewellery or unseen portions. Replace background with seamless white, soft natural studio shadow. Remove price overlay. No text, no hands, no props.",
+      "sha256": "23ba14167194d114c2980d257ec8afc95625b8eba6a7afdbbfb170ca3075d386",
+      "checked": true,
+      "visual_review": "Viewed generated white photograph against original: visible shell strand layout and natural ivory material retained; price overlay removed; suitable for website."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-81b9f89e-4522-443e-ad83-4a08d94effd8.png",
+      "prompt": "Edit reference into website-ready square styled product photograph on pale lavender and cream minimal background, gentle diffused light. Preserve exactly visible white ivory small spiral shell necklace in its original long looping arrangement, including clustered sections and singly threaded small conical spiral shells. Original visible arrangement and shell number, natural colours, shapes and materials must remain. No invented jewellery/parts, no hidden product under props. Remove old price overlay. No text or hands. Product fills image.",
+      "sha256": "7a80a79fc6ec26a50aab6d48343dec4d6d1cc84ba72139330415cd1768bb3267",
+      "checked": true,
+      "visual_review": "Viewed styled output: original shell layout and ivory shell types retained on lavender cream background; no overlay."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-1eee610f-68b2-4e0f-a343-55ecc3d6afe1.png",
+      "prompt": "Create website-ready lifestyle product photo by editing reference: white ivory small spiral shell necklace in its original long looping arrangement, including clustered sections and singly threaded small conical spiral shells. Preserve visible arrangement, count, shell shape and natural ivory colours exactly. On cream linen on a sunlit dressing table, soft lavender wall background, small blurred neutral ceramic vase far behind. Product unobstructed prominent. No wearing, hands, extra jewellery or invented parts. Remove price overlay. No text.",
+      "sha256": "d97695bf82d211034b80ac89f817d5c05a5bafb0c326fac8e3c7ec9b3453661f",
+      "checked": true,
+      "visual_review": "Viewed lifestyle output: shell strand arrangement and white ivory natural shell identity remain visible unobstructed on linen with background vase."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-ee01b854-4363-4288-bf67-7940703cbfd6.png",
+      "prompt": "Standalone extreme tight macro product detail photograph from this reference. Show ONLY a small existing section of white ivory small spiral shell necklace in its original long looping arrangement, including clustered sections and singly threaded small conical spiral shells filling the whole frame. Focus natural shell openings, ridges and connection between adjacent shells. Crop out most of the jewellery: DO NOT show the full necklace/arrangement. Preserve real shell shape, natural ivory colour, material, existing threading. Cream subtle background, diffused light, shallow depth. No invented parts, no text, no price.",
+      "sha256": "ee7a7ccaa0bb71c5d393d0770317cbe169693ae6c0e8af6450509e6c3fb166ce",
+      "checked": true,
+      "visual_review": "Viewed standalone tight macro: cropped actual shell types and natural ivory tones, ridges/openings and threading visible; no full arrangement."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-08bb9e20-abb0-492b-9b28-b8950c112fe0.png",
+      "prompt": "Create website-ready promotional product photograph from reference: white ivory small spiral shell necklace in its original long looping arrangement, including clustered sections and singly threaded small conical spiral shells. Preserve exactly original visible strand arrangement, shell count, natural ivory colours, shape and material. Clean lavender and cream background, product prominent below a compact dark plum heading 'Spiral Shell Necklace' and small subtitle 'PRODUCT COLLECTION'. Remove old price/shop overlay. No prices, no hands, no added jewellery, no invented parts. Accurate product identity essential.",
+      "sha256": "464b475fe6427ecbb43c897e14117e2278443198e5139b2e2565959911be1f9c",
+      "checked": true,
+      "visual_review": "Viewed promotional output: accurate shell jewellery heading and PRODUCT COLLECTION, natural ivory shell identity and original loop arrangement retained, no price overlay."
+    }
+  ],
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

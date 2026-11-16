@@ -1,0 +1,60 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250304-WA0417.jpg": "81e3092260e571950eb37f93dbe24d49e67556e3d3554e78ac44f5a97fa37bdb"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-844d76b9-c083-47a7-9061-628fc8cafa10.png",
+      "prompt": "Faithful square website cataloguephoto of EXACT TEN small translucent mesh bow hairclips on ONE tallwhite backingcard in clear hanging sleeve, verticalrow. Original topbottom bow colours turquoise,hotpink,cream,mauve,paleyellow,palemint,orange,red,cream,lavender. Preserve every original colourful layered flower/rose centre: graywhite,yelloworange,pinkcyan,redgreen,graywhite,yellowcyan,mintyellow,pinkcyan,redgreen,mintyellow. Preserve10count, actual bowloop shapes/meshgoldedges, card and clearbag geometry. Remove hand/watch/shop/price overlay. Purewhite seamless background softshadow, entirecard fullyframed, no extras/text/inventedparts.",
+      "sha256": "aedd1d2df4b118e532bccb5bf6015d32fac0a09f4032234343fe176b9a95d502",
+      "checked": true,
+      "visual_review": "Ten mesh bowclips on originalcard/sleeve, correct bowcolour and flowercentre sequence; main bowshape/material/count preserved."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-edabfd0d-032b-4c76-967d-5b321068476c.png",
+      "prompt": "Faithful square styled website productphoto EXACT TEN small mesh bow hairclips ONE tallwhite backingcard clearhangingbag, verticalrow topbottom turquoise,hotpink,cream,mauve,paleyellow,palemint,orange,red,cream,lavender. Preserve original10count, meshbowloop goldedges, everylayeredflowerrosecentre exact sourcecolours, sleeve/card geometry, wholeassortmentONEproduct fullyinframe. Lavendercream studio background softshadow. Removehandwatchshoppriceoverlay only no newtext/extra clips/inventedparts.",
+      "sha256": "9dacdb294331cb7f9cb4bdaecc7e9a3b7f8bcb659eecb1dad9c96cf9c34f2154",
+      "checked": true,
+      "visual_review": "Ten mesh flower-centre bows in matching sourcecolour order and geometry on originalwhitecard/clearbag; lavendercream setting."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-a702058d-3932-4ff0-8b39-d30621d850d1.png",
+      "prompt": "Faithful square website lifestylephoto EXACT TEN mesh bowhairclips on ONE tallwhitecard in clear hangingbag, verticalrow topbottom turquoise,hotpink,cream,mauve,paleyellow,palemint,orange,red,cream,lavender. Preserve actual10count, original layeredflowerrose centres and goldedgedmeshbow shapes/colours/packaging. Entireoneassortment fullyvisible resting on creamdressingtable lavenderbedroomsoftdaylight. Removehandwatchshopprice noextra clips/newtext/inventedparts.",
+      "sha256": "bbce82c52ea663997fd2386758bdae454e547e236691709b2b4939eaca0731e8",
+      "checked": true,
+      "visual_review": "Ten mesh bowclips and originalflowercentres/colourorder retained on fullpack in lifestyle dressingtable setting."
+    },
+    {
+      "saved_file": "Rejected/04_Detail-material-error.png",
+      "source_output": "/workspace/generated_images/exec-7133048c-d05e-4365-bce0-61fc350cdf92.png",
+      "prompt": "Standalone tight macro crop ONLY actual top turquoise meshbowclip centre: grey scalloped flower with white spiralrose and adjacent transparent turquoise mesh goldedge loop as visible in original. Preserve real shape, weave, material and colours. Softcream backdrop detailfillsframe. No wholeassortment, inventedbackparts or text.",
+      "sha256": "3da1321253a95e971e631e7f62d57f827465c15d4f34ac85f9ce20ae7769fdd2",
+      "checked": false,
+      "visual_review": "Grey flower and white rose rendered mesh/satin fabric instead of actual moulded resin/plastic centre. One material corrective attempt."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-803d60a1-575c-4dff-bc12-47d986012925.png",
+      "prompt": "Standalone tight macro SOURCEFAITHFUL crop of TOP turquoise mesh bow centre. Centre is a small smooth MOULDED GREY PLASTIC/resin rounded-petal flower and tiny smooth WHITE PLASTIC spiral rose, NOT fabric, NOT mesh, NOT satin ribbonrose. Preserve actual plastic texture and shapes as reference. Only adjacent turquoise bowloops are see-through fine mesh with goldthreadedges. Same original colours. Tightrealpart detailfillsframe creamlight, no inventedparts or text.",
+      "sha256": "d582e5894a5787ec5218a99a45fa0d52ef85dc37cd072ad071f21f91552ebaf7",
+      "checked": true,
+      "visual_review": "Corrective macro now grey mouldedplastic flower/white resinrose beside turquoise goldedgedmesh, real component material and sourcecolours retained."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-acdb7060-6d5e-4069-b8ee-c0f2d9cf1bfc.png",
+      "prompt": "Faithful square promotional websitephoto EXACT TEN mesh bowhairclips ONE tallwhitecard clearhangingbag verticalrow topbottom turquoise,hotpink,cream,mauve,paleyellow,palemint,orange,red,cream,lavender. Preserve original10count, each small mouldedplastic layeredflowerrosecentre colours, goldedgedmeshbow shapes and package. Entireoneassortment fullyinframe with margins on lavendercream background accurate smallheading Mesh Bow Hair Clips plus PRODUCT COLLECTION. Remove handwatchshopprice no extras/inventedparts.",
+      "sha256": "128aef1e67077e0a5d3be6bb11816820db04e8d34ca3811b4af6aff74bab4c79",
+      "checked": true,
+      "visual_review": "Ten meshbows and original flowercentre colours/order retained; accurate Mesh Bow Hair Clips heading and lavendercream setting."
+    }
+  ],
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

@@ -1,0 +1,126 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0336.jpg": "9ff4d92ff0214af8eb8ff6bbd425f84a709553e4f1546cd06fc456b313994d96"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-e2c81c2d-f489-4572-b35a-a716cbc516c7.png",
+      "source_output": "/workspace/generated_images/exec-e2c81c2d-f489-4572-b35a-a716cbc516c7.png",
+      "sha256": "9788002b10beb70176d0dd5a420e3dd82066bf22bac99ac558528bb2e0b767b6",
+      "prompt": "Edit the supplied actual product photo into ONE website-ready landscape 1536x1024 image, exact borderless 3 columns x 2 rows of equal512x512 cells. Preserve actual assortment: FIVE transparent rectangular gift bags with coloured borders and matching ribbon handles, colours tan/kraft,black,pink,red,white. Preserve their clear window shape and folded flat form, no extra bags. Remove old price overlay,shop clutter,plastic outer wrap. Each full-view cell shows all FIVE bags together and same colours. Top left white studio;top middle pale lavender/cream styled background;top right natural gift-wrapping desk lifestyle without added sellable products. Bottom left standalone tight macro of actual pink ribbon/transparent-window seam only, not full assortment. Bottom middle promotional image all5 bags heading 'Transparent Gift Bags'. Bottom right entirely blank cream. Exact vertical cell edges x512,1024, horizontal y512, no borders,gutters or captions outside promotional cell. Faithful product edit,no stock substitutions. Do not claim12bags; show only the FIVE visible colour variants.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-e2c81c2d-f489-4572-b35a-a716cbc516c7.png",
+      "prompt": "Edit the supplied actual product photo into ONE website-ready landscape 1536x1024 image, exact borderless 3 columns x 2 rows of equal512x512 cells. Preserve actual assortment: FIVE transparent rectangular gift bags with coloured borders and matching ribbon handles, colours tan/kraft,black,pink,red,white. Preserve their clear window shape and folded flat form, no extra bags. Remove old price overlay,shop clutter,plastic outer wrap. Each full-view cell shows all FIVE bags together and same colours. Top left white studio;top middle pale lavender/cream styled background;top right natural gift-wrapping desk lifestyle without added sellable products. Bottom left standalone tight macro of actual pink ribbon/transparent-window seam only, not full assortment. Bottom middle promotional image all5 bags heading 'Transparent Gift Bags'. Bottom right entirely blank cream. Exact vertical cell edges x512,1024, horizontal y512, no borders,gutters or captions outside promotional cell. Faithful product edit,no stock substitutions. Do not claim12bags; show only the FIVE visible colour variants.\n",
+      "sha256": "cc88c0ead13a8d5e111ac3bf236dba5a72dd893f37d5598c9827f61f5439557c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e2c81c2d-f489-4572-b35a-a716cbc516c7.png",
+      "grid_sha256": "9788002b10beb70176d0dd5a420e3dd82066bf22bac99ac558528bb2e0b767b6",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Pass: crop boundaries at512 clean. Four full views retain five visible colour variants tan,black,pink,red,white with transparent windows/ribbon handles and matching flat form. Detail is tight real ribbon/window seam. Promo heading accurate. Original shows stacked packs; visible five colour assortment retained without inventing12-count."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-e2c81c2d-f489-4572-b35a-a716cbc516c7.png",
+      "prompt": "Edit the supplied actual product photo into ONE website-ready landscape 1536x1024 image, exact borderless 3 columns x 2 rows of equal512x512 cells. Preserve actual assortment: FIVE transparent rectangular gift bags with coloured borders and matching ribbon handles, colours tan/kraft,black,pink,red,white. Preserve their clear window shape and folded flat form, no extra bags. Remove old price overlay,shop clutter,plastic outer wrap. Each full-view cell shows all FIVE bags together and same colours. Top left white studio;top middle pale lavender/cream styled background;top right natural gift-wrapping desk lifestyle without added sellable products. Bottom left standalone tight macro of actual pink ribbon/transparent-window seam only, not full assortment. Bottom middle promotional image all5 bags heading 'Transparent Gift Bags'. Bottom right entirely blank cream. Exact vertical cell edges x512,1024, horizontal y512, no borders,gutters or captions outside promotional cell. Faithful product edit,no stock substitutions. Do not claim12bags; show only the FIVE visible colour variants.\n",
+      "sha256": "e1aa1d2a6cbfbf75e979bd5a545ddb2ba50ff87fed990c405e348c3de4888205",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e2c81c2d-f489-4572-b35a-a716cbc516c7.png",
+      "grid_sha256": "9788002b10beb70176d0dd5a420e3dd82066bf22bac99ac558528bb2e0b767b6",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Pass: crop boundaries at512 clean. Four full views retain five visible colour variants tan,black,pink,red,white with transparent windows/ribbon handles and matching flat form. Detail is tight real ribbon/window seam. Promo heading accurate. Original shows stacked packs; visible five colour assortment retained without inventing12-count."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-e2c81c2d-f489-4572-b35a-a716cbc516c7.png",
+      "prompt": "Edit the supplied actual product photo into ONE website-ready landscape 1536x1024 image, exact borderless 3 columns x 2 rows of equal512x512 cells. Preserve actual assortment: FIVE transparent rectangular gift bags with coloured borders and matching ribbon handles, colours tan/kraft,black,pink,red,white. Preserve their clear window shape and folded flat form, no extra bags. Remove old price overlay,shop clutter,plastic outer wrap. Each full-view cell shows all FIVE bags together and same colours. Top left white studio;top middle pale lavender/cream styled background;top right natural gift-wrapping desk lifestyle without added sellable products. Bottom left standalone tight macro of actual pink ribbon/transparent-window seam only, not full assortment. Bottom middle promotional image all5 bags heading 'Transparent Gift Bags'. Bottom right entirely blank cream. Exact vertical cell edges x512,1024, horizontal y512, no borders,gutters or captions outside promotional cell. Faithful product edit,no stock substitutions. Do not claim12bags; show only the FIVE visible colour variants.\n",
+      "sha256": "7b55da6272fdbf850c0f1c341e5912722e021cc6d6fcab837bcd31278deae0f9",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e2c81c2d-f489-4572-b35a-a716cbc516c7.png",
+      "grid_sha256": "9788002b10beb70176d0dd5a420e3dd82066bf22bac99ac558528bb2e0b767b6",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Pass: crop boundaries at512 clean. Four full views retain five visible colour variants tan,black,pink,red,white with transparent windows/ribbon handles and matching flat form. Detail is tight real ribbon/window seam. Promo heading accurate. Original shows stacked packs; visible five colour assortment retained without inventing12-count."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-e2c81c2d-f489-4572-b35a-a716cbc516c7.png",
+      "prompt": "Edit the supplied actual product photo into ONE website-ready landscape 1536x1024 image, exact borderless 3 columns x 2 rows of equal512x512 cells. Preserve actual assortment: FIVE transparent rectangular gift bags with coloured borders and matching ribbon handles, colours tan/kraft,black,pink,red,white. Preserve their clear window shape and folded flat form, no extra bags. Remove old price overlay,shop clutter,plastic outer wrap. Each full-view cell shows all FIVE bags together and same colours. Top left white studio;top middle pale lavender/cream styled background;top right natural gift-wrapping desk lifestyle without added sellable products. Bottom left standalone tight macro of actual pink ribbon/transparent-window seam only, not full assortment. Bottom middle promotional image all5 bags heading 'Transparent Gift Bags'. Bottom right entirely blank cream. Exact vertical cell edges x512,1024, horizontal y512, no borders,gutters or captions outside promotional cell. Faithful product edit,no stock substitutions. Do not claim12bags; show only the FIVE visible colour variants.\n",
+      "sha256": "62cb4420b2d624afef3e6dee83728992a8c34b49b9f1bf50f61687beeda8cd3d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e2c81c2d-f489-4572-b35a-a716cbc516c7.png",
+      "grid_sha256": "9788002b10beb70176d0dd5a420e3dd82066bf22bac99ac558528bb2e0b767b6",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Pass: crop boundaries at512 clean. Four full views retain five visible colour variants tan,black,pink,red,white with transparent windows/ribbon handles and matching flat form. Detail is tight real ribbon/window seam. Promo heading accurate. Original shows stacked packs; visible five colour assortment retained without inventing12-count."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-e2c81c2d-f489-4572-b35a-a716cbc516c7.png",
+      "prompt": "Edit the supplied actual product photo into ONE website-ready landscape 1536x1024 image, exact borderless 3 columns x 2 rows of equal512x512 cells. Preserve actual assortment: FIVE transparent rectangular gift bags with coloured borders and matching ribbon handles, colours tan/kraft,black,pink,red,white. Preserve their clear window shape and folded flat form, no extra bags. Remove old price overlay,shop clutter,plastic outer wrap. Each full-view cell shows all FIVE bags together and same colours. Top left white studio;top middle pale lavender/cream styled background;top right natural gift-wrapping desk lifestyle without added sellable products. Bottom left standalone tight macro of actual pink ribbon/transparent-window seam only, not full assortment. Bottom middle promotional image all5 bags heading 'Transparent Gift Bags'. Bottom right entirely blank cream. Exact vertical cell edges x512,1024, horizontal y512, no borders,gutters or captions outside promotional cell. Faithful product edit,no stock substitutions. Do not claim12bags; show only the FIVE visible colour variants.\n",
+      "sha256": "9b56f9f4f7b6c65ea28462c867669c29820f372f0286a9b1cc163f1bff92e2d5",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e2c81c2d-f489-4572-b35a-a716cbc516c7.png",
+      "grid_sha256": "9788002b10beb70176d0dd5a420e3dd82066bf22bac99ac558528bb2e0b767b6",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Pass: crop boundaries at512 clean. Four full views retain five visible colour variants tan,black,pink,red,white with transparent windows/ribbon handles and matching flat form. Detail is tight real ribbon/window seam. Promo heading accurate. Original shows stacked packs; visible five colour assortment retained without inventing12-count."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

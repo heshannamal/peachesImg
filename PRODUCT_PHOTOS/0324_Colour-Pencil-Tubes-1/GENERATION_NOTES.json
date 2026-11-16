@@ -1,0 +1,60 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250405-WA0396.jpg": "779d1b39894462388eecf481922a4a4f5a1c22d9698bf070880d4125245b1783"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-01ba927f-acf1-45e8-8793-6bbcd26e4a55.png",
+      "prompt": "Faithful square website catalogue referenceedit. Exact entire coloured-pencil assortment shown oneproduct: FOUR upright closed Mader colouredpencil tubes top (green mushroom,redchameleon,pinkowl,pinkowl), ONE opened green mushroom tube lower right with clearcap, and original loose24colouredpencils laid across lowerleft in same source sequence/overlap. Preserve FIVE total tubes, tubeillustrations/colours/packaging, pencilwidths/lengths/sharpenedtips/actual visiblecount. No invented extra tubes/pencils. Cleanwhite seamless background softshadow. Remove425RsMinimum1Box,NEWbadge and24Colourswithshaper blackoverlay only, retain realproductprinted24PCSlabels.",
+      "sha256": "aa64393dbfa2c699abdcedac3c9fc23f541d2589eef05b8463083c0fc71c7def",
+      "checked": true,
+      "visual_review": "Five tubes retained four closed upper/one open lower-right, original green/red/pink/pink/green illustrated packaging, source loose24pencils visibly retained original sequence/overlaps. Clearcap shown; floatinglabels removed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-4531649e-50f3-4ae6-a9bc-00a5b6e0121f.png",
+      "prompt": "Faithful square website styled photograph exact ENTIRE reference coloured-pencil assortment ONEproduct. FOUR closedtubes upperrow greenmushroom/redchameleon/pinkowl/pinkowl, ONE openedgreenmushroomtube withclearcap lower right, original24loosecolouredpencils same source sequence/overlap lowerleft. Preserve5tubes and24loosepencils, colours/illustrations/materials/actualprint/geometry. Lavender cream studio surround softshadows, no extraobjects. Removepriceblackoverlay NEWbadge 24colourswithshaperblackoverlay only. No addedtext/newproducts.",
+      "sha256": "e292f64b4fc14ee885df4ed4f913aa309bbf3f4084bf457e216d10d0f02a65e8",
+      "checked": true,
+      "visual_review": "Five original illustratedtubes plus source24loosepencils preserved, fourclosedupper andoneopenlower right withclearcap, coloursequence/packaging and mainshapes retained. Lavender styledsurround."
+    },
+    {
+      "saved_file": "Rejected/03_Lifestyle_initial_invented_open_tube_contents.png",
+      "source_output": "/workspace/generated_images/exec-fb6974f0-2dc6-41da-9ff7-acc5aac5212a.png",
+      "prompt": "Faithful square SINGLE website lifestyle photo of ENTIRE original colouredpencil assortment. FOUR closedtubes upperrow greenmushroom redchameleon pinkowl pinkowl; ONE openedgreenmushroomtube+clearcap lowerright; original24loosecolouredpencils lowerleft same source sequence, overlap and sharpenedtips. Preserve5tubes/24pencils exactmainshapes/materials/colours/printedpackaging. FullassortmentONEproduct on cream studytable softlyblurredlavender room daylight. No extra stationery, hands, newtext or collage. Removeprice/NEW/blackcaption overlays only.",
+      "sha256": "078e3419cdc60bc06d495eaaba1de41b20297512c7410e533a520404b0233df3",
+      "checked": false,
+      "visual_review": "Rejected material hidden-content invention: opened green tube shows pencil tips not present in source open tube. One corrective attempt required."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-a36ce25b-9e83-48d7-80d0-7b65512f349a.png",
+      "prompt": "CORRECTIVE faithful SINGLE square lifestyle productphoto of original assortment. Exactly FOUR CLOSED upper tubes greenmushroom/redchameleon/pinkowl/pinkowl containing source pencils underclearcaps. EXACTLY ONE lower-right GREENMUSHROOM tube OPEN and EMPTY as original: NO pencil tips protruding, NO invented contents. Separate empty clearcap beside it. Original24loosecolouredpencils lowerleft source sequence/overlap preserved, five total tubes. Keep original illustrations,colours,actualmaterials/shape. Fullassortment oneproduct on creamstudytable softlyblurredlavender room. No hands/newproducts or text. Removeprice NEWblackcaption overlays. Critical openedgreen tube empty, its24pencils laidoutleft.",
+      "sha256": "57f8c75d23b102fe48aff9aa6d6a3919c643c2eefc301ba2c698b2ef826664ed",
+      "checked": true,
+      "visual_review": "Single corrective passed: lower-right greenmushroomtube now empty with separateclearcap matching original, fourclosedtubes upper and original24loosepencils arrangement/maincolours retained. No inventedcontents protruding."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-bc8fe0c4-4bf0-4edf-92c4-4b76ec33e049.png",
+      "prompt": "Standalone square tight real-part macro crop of original loosecolouredpencils sharpenedtips at LOWERLEFT: adjacent yellow, orange, red, blue and purple woodenpencil tips with exposednaturalwood and colouredcores. Preserve actualsourcepencil shapes/material/colours and parallelarrangement. Only tighttipregion fills frame, no fullassortment/notubes/inventedparts/addedtext/collage. Softcream lavenderlight website detail photograph.",
+      "sha256": "8c2e0b42ed5e45be6005529379b21e39e1c4f89717d43f07517ecc9932cda3ba",
+      "checked": true,
+      "visual_review": "Standalone tight realpart macro of existing sharpened yellow orange red blue purple pencil tips, wood casing and colouredcores retained, no fullassortment/newparts."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-7de959ae-67c1-4e75-adf7-9ab8890c91ea.png",
+      "prompt": "Faithful square website promotional photograph exact original colouredpencil assortment. FOUR CLOSEDupper tubes greenmushroom redchameleon pinkowl pinkowl; ONE EMPTY OPEN greenmushroomtube lowerright with separateemptyclearcap; original24loosepencils lowerleft source sequence/overlap. CRITICAL emptyopen tube NO protrudingpencils/inventedcontents. Preserve5tubes/24loosepencils shapes/materials/colours/illustrations/print. EntireassortmentONEproduct fullyframed withmargins lavendercream background, smallaccurate plumheading COLOURED PENCIL COLLECTION. RemovepriceNEWblackcaption overlaysonly. No additionalproducts orclaims.",
+      "sha256": "62dfc44dc3eeed34bb29274f3249e42d7b46936162bc32a843e7cc384db93115",
+      "checked": true,
+      "visual_review": "Fiveoriginaltubes retained fourclosedupper/oneemptyopen lower-right with clearcap. Source24loosepencils retained arrangement/maincolours. Accurate COLOURED PENCIL COLLECTION heading. No inventedcontents in open tube."
+    }
+  ],
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

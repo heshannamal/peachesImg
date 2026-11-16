@@ -1,0 +1,49 @@
+{
+  "tool": "built-in image_gen",
+  "status": "five images generated and visually checked",
+  "original_hashes": {
+    "Originals/IMG-20250115-WA0744.jpg": "ebb26a4252c7b7efd8995b431c86822759f1d6b292bf24fe0b341564bf8a4e7f"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source": "/workspace/generated_images/exec-ad3ed79a-ca2f-436d-b798-3dfcb78b13fb.png",
+      "prompt": "Edit reference into one premium photoreal ecommerce photo. Entire dense assortment of silver-tone beaded chains with black inset pendants, some gold-tone outlines, including rounded bars, ovals, rounds and long polygon pendants. Preserve precisely the original tangled overlapping arrangement, visible pendant shapes and count, metal tones, and stacked pink polka-dot retail tags at top. Do not separate into imagined necklaces or invent hidden pendants. Entire assortment is ONE product. Retain exact geometry, original count, colours, material, package details, proportions and arrangement. Pure white seamless background, soft contact shadows, whole assortment sharp and inside frame. Remove price overlays, emoji, hands and shop. No added products, backs, parts, or text.",
+      "sha256": "a1bba2cd6ffc46d4f63c1142f39d2c1250ca30c32d784b5efd7d09082e9d00de",
+      "checked": true,
+      "visual_review": "Compared with original: full assortment retained with matching colour, arrangement, shape and visible materials. White background, old overlays removed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source": "/workspace/generated_images/exec-5f1dc848-5f37-4bcb-ba6f-8ce76922c659.png",
+      "prompt": "One premium photoreal ecommerce styled-background photograph of exact reference. Entire dense assortment of silver-tone beaded chains with black inset pendants, some gold-tone outlines, including rounded bars, ovals, rounds and long polygon pendants. Preserve precisely the original tangled overlapping arrangement, visible pendant shapes and count, metal tones, and stacked pink polka-dot retail tags at top. Do not separate into imagined necklaces or invent hidden pendants. Entire assortment ONE product. Preserve original count, positions, geometry, shape, material, colours, markings and packaging. Warm cream surface with pale lavender fabric accents beyond edges, soft contact shadows. Entire product sharp, frame comfortably around full assortment. Remove price, smiley emoji, shop, hands. No invented hidden objects, parts, or product views. No text overlay.",
+      "sha256": "4ff0a0f8e30e0e42484add6803344e67ba4649b02f84699b6622ad01af2d1eda",
+      "checked": true,
+      "visual_review": "Visually checked exact assortment, count, arrangement, visible shape, texture, colour and packaging; cream lavender styling outside product."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source": "/workspace/generated_images/exec-213077fa-87cc-4ac5-a575-c0e903c5260c.png",
+      "prompt": "Create one premium photoreal lifestyle ecommerce photograph of exact reference product. Entire dense assortment of silver-tone beaded chains with black inset pendants, some gold-tone outlines, including rounded bars, ovals, rounds and long polygon pendants. Preserve precisely the original tangled overlapping arrangement, visible pendant shapes and count, metal tones, and stacked pink polka-dot retail tags at top. Do not separate into imagined necklaces or invent hidden pendants. Keep entire assortment, exact arrangement and all visible shapes, count, material and colour. Place whole set flat on cream vanity surface with closed beige book and lavender linen well outside product edges. Soft window daylight, product sharp and dominant, whole set inside frame. No wearing demonstration, no people, no hands, no invented backs, hidden parts, extra products or text overlays. Remove price and smiley emoji.",
+      "sha256": "ba879f47696cdfa77f025cc0b729418ef35020db871665b4413518401bc0d9d3",
+      "checked": true,
+      "visual_review": "Visually compared full assortment, matching positions, closed-wallet front details or original necklace cluster and tags. Lifestyle setting unobscured."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source": "/workspace/generated_images/exec-c24eda94-6780-459e-ad0e-80d25b519c47.png",
+      "prompt": "One photoreal tight macro product-detail crop from exact reference. Entire dense assortment of silver-tone beaded chains with black inset pendants, some gold-tone outlines, including rounded bars, ovals, rounds and long polygon pendants. Preserve precisely the original tangled overlapping arrangement, visible pendant shapes and count, metal tones, and stacked pink polka-dot retail tags at top. Do not separate into imagined necklaces or invent hidden pendants. DETAIL ONLY: tightly zoom on the lower cluster of black inset pendants and adjacent silver beaded chains. Crop out most of entire assortment, show small close detail region filling frame. Preserve exact original construction, visible materials, colours, shapes. No invented backs, no extra parts, no new pieces, no hand, price or emoji. Crisp premium macro product photography with soft cream lighting. Must not be whole-pack photo.",
+      "sha256": "5aebbd353f2dce4d3ea3f6e30d6a826d0136765b605efe48d8e7b64382258ae5",
+      "checked": true,
+      "visual_review": "Tight macro visually checked with original visible details: matching material, colours, closed flap or pendant geometry. No new view invented."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source": "/workspace/generated_images/exec-746a290c-1d80-4a57-baef-ac67b8ca3f31.png",
+      "prompt": "Create one premium promotional ecommerce photograph of exact reference. Entire dense assortment of silver-tone beaded chains with black inset pendants, some gold-tone outlines, including rounded bars, ovals, rounds and long polygon pendants. Preserve precisely the original tangled overlapping arrangement, visible pendant shapes and count, metal tones, and stacked pink polka-dot retail tags at top. Do not separate into imagined necklaces or invent hidden pendants. Whole assortment ONE product. Preserve original count, arrangement, colour, material, shapes, marks and packaging. Full assortment inside frame on lavender and cream minimal background. Compact dark plum heading 'Statement Necklace Assortment' and smaller 'PRODUCT COLLECTION', well separated from product. Remove price, emoji, hands, shop. No extra products, no invented parts, no sale claims.",
+      "sha256": "62696dde1dd8bc1aa29c48466d4e40488c533ed8f334d926517f57dad6a8eea9",
+      "checked": true,
+      "visual_review": "Visually compared assortment geometry, colours and original details. Promotional heading legible, all products visible, no old overlays."
+    }
+  ]
+}

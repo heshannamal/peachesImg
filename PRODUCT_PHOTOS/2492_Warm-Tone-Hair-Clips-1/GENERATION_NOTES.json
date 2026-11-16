@@ -1,0 +1,126 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260923-WA0280.jpg": "94486828aed2366c3734d86771bee12ba8d0a4e15ca337a721936a39831c4d94"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-10d4bf0c-f60a-404e-b91b-9320e4e41bbc.png",
+      "source_output": "/workspace/generated_images/exec-10d4bf0c-f60a-404e-b91b-9320e4e41bbc.png",
+      "sha256": "56943913f98dbe74a3987a895f3cc3632e0af0ea65a7b92fa87c8a9053e5dd4d",
+      "prompt": "Native faithful edit of supplied actual photo collage into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Original whole assortment is SIX DISTINCT white Saras retail cards, eachwithSIX horizontal hair barrettes, total36clips. The originalcollage shows sixdifferentstylecards, NOT6views ofonecard. Fullviewcells must show all6cards together in2rows3, sixclips/card; preserve sixoriginalstyle silhouettes, counts,colours,patterns. Remove hand/greywall/oldprice/collageborders only. Toprowwhite full6cardassortment,lavendercreamstyled full6cardassortment,naturalvanitydesk full6cardassortment. Bottomrowtightstandalone REALPARTmacro ofoneclip surface/edgeonly, promotionalall6cardswithaccurateheading,blankcreamunused. Exactsplit512/1024/512,no gutters/borders. All6cards have same TOPtoBOTTOM sixcolours: marbledCRIMSONRED,AMBERYELLOW,COPPERPEACH,PALEGOLD,CREAMGREY,OLIVEBROWN. Preserve distinct6cardstyles silhouettes: rectangle,broadcurvedwaist,oval,flaredbow,narrowcurvedbar,roundedpill; actualoriginalsilhouettes/woodgrainmarbledglitterpatterns matchsource. Eachcard6samecolourorder total36, noallblack. Detailtightactualambermarbledsurface/edge. Heading 'Marbled Barrette Assortment'.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-10d4bf0c-f60a-404e-b91b-9320e4e41bbc.png",
+      "prompt": "Native faithful edit of supplied actual photo collage into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Original whole assortment is SIX DISTINCT white Saras retail cards, eachwithSIX horizontal hair barrettes, total36clips. The originalcollage shows sixdifferentstylecards, NOT6views ofonecard. Fullviewcells must show all6cards together in2rows3, sixclips/card; preserve sixoriginalstyle silhouettes, counts,colours,patterns. Remove hand/greywall/oldprice/collageborders only. Toprowwhite full6cardassortment,lavendercreamstyled full6cardassortment,naturalvanitydesk full6cardassortment. Bottomrowtightstandalone REALPARTmacro ofoneclip surface/edgeonly, promotionalall6cardswithaccurateheading,blankcreamunused. Exactsplit512/1024/512,no gutters/borders. All6cards have same TOPtoBOTTOM sixcolours: marbledCRIMSONRED,AMBERYELLOW,COPPERPEACH,PALEGOLD,CREAMGREY,OLIVEBROWN. Preserve distinct6cardstyles silhouettes: rectangle,broadcurvedwaist,oval,flaredbow,narrowcurvedbar,roundedpill; actualoriginalsilhouettes/woodgrainmarbledglitterpatterns matchsource. Eachcard6samecolourorder total36, noallblack. Detailtightactualambermarbledsurface/edge. Heading 'Marbled Barrette Assortment'.\n",
+      "sha256": "b0227111fb478833fd0462a8a9134e9bf4c556825c7940333018eab2dbb5704b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-10d4bf0c-f60a-404e-b91b-9320e4e41bbc.png",
+      "grid_sha256": "56943913f98dbe74a3987a895f3cc3632e0af0ea65a7b92fa87c8a9053e5dd4d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Pass: fullviews6distinctSarasbarrettecards2rows3,6clips/card=36,eachred-amber-copper-palegold-creamgrey-olivebrown,originalsilhouettes/marbledpatterns retained. Tightactualamberglitteredgemacro,headingaccurate. Clean512crops;frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-10d4bf0c-f60a-404e-b91b-9320e4e41bbc.png",
+      "prompt": "Native faithful edit of supplied actual photo collage into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Original whole assortment is SIX DISTINCT white Saras retail cards, eachwithSIX horizontal hair barrettes, total36clips. The originalcollage shows sixdifferentstylecards, NOT6views ofonecard. Fullviewcells must show all6cards together in2rows3, sixclips/card; preserve sixoriginalstyle silhouettes, counts,colours,patterns. Remove hand/greywall/oldprice/collageborders only. Toprowwhite full6cardassortment,lavendercreamstyled full6cardassortment,naturalvanitydesk full6cardassortment. Bottomrowtightstandalone REALPARTmacro ofoneclip surface/edgeonly, promotionalall6cardswithaccurateheading,blankcreamunused. Exactsplit512/1024/512,no gutters/borders. All6cards have same TOPtoBOTTOM sixcolours: marbledCRIMSONRED,AMBERYELLOW,COPPERPEACH,PALEGOLD,CREAMGREY,OLIVEBROWN. Preserve distinct6cardstyles silhouettes: rectangle,broadcurvedwaist,oval,flaredbow,narrowcurvedbar,roundedpill; actualoriginalsilhouettes/woodgrainmarbledglitterpatterns matchsource. Eachcard6samecolourorder total36, noallblack. Detailtightactualambermarbledsurface/edge. Heading 'Marbled Barrette Assortment'.\n",
+      "sha256": "4ef4c38dc1c2bf66d77786a8276ee66af7f26ec3ddb8c2e77c9ecf441f062c0b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-10d4bf0c-f60a-404e-b91b-9320e4e41bbc.png",
+      "grid_sha256": "56943913f98dbe74a3987a895f3cc3632e0af0ea65a7b92fa87c8a9053e5dd4d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Pass: fullviews6distinctSarasbarrettecards2rows3,6clips/card=36,eachred-amber-copper-palegold-creamgrey-olivebrown,originalsilhouettes/marbledpatterns retained. Tightactualamberglitteredgemacro,headingaccurate. Clean512crops;frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-10d4bf0c-f60a-404e-b91b-9320e4e41bbc.png",
+      "prompt": "Native faithful edit of supplied actual photo collage into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Original whole assortment is SIX DISTINCT white Saras retail cards, eachwithSIX horizontal hair barrettes, total36clips. The originalcollage shows sixdifferentstylecards, NOT6views ofonecard. Fullviewcells must show all6cards together in2rows3, sixclips/card; preserve sixoriginalstyle silhouettes, counts,colours,patterns. Remove hand/greywall/oldprice/collageborders only. Toprowwhite full6cardassortment,lavendercreamstyled full6cardassortment,naturalvanitydesk full6cardassortment. Bottomrowtightstandalone REALPARTmacro ofoneclip surface/edgeonly, promotionalall6cardswithaccurateheading,blankcreamunused. Exactsplit512/1024/512,no gutters/borders. All6cards have same TOPtoBOTTOM sixcolours: marbledCRIMSONRED,AMBERYELLOW,COPPERPEACH,PALEGOLD,CREAMGREY,OLIVEBROWN. Preserve distinct6cardstyles silhouettes: rectangle,broadcurvedwaist,oval,flaredbow,narrowcurvedbar,roundedpill; actualoriginalsilhouettes/woodgrainmarbledglitterpatterns matchsource. Eachcard6samecolourorder total36, noallblack. Detailtightactualambermarbledsurface/edge. Heading 'Marbled Barrette Assortment'.\n",
+      "sha256": "85ed3733fc01b854a502ac35aa76e9999de39f392ed92d8976e0c97eca3da2e9",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-10d4bf0c-f60a-404e-b91b-9320e4e41bbc.png",
+      "grid_sha256": "56943913f98dbe74a3987a895f3cc3632e0af0ea65a7b92fa87c8a9053e5dd4d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Pass: fullviews6distinctSarasbarrettecards2rows3,6clips/card=36,eachred-amber-copper-palegold-creamgrey-olivebrown,originalsilhouettes/marbledpatterns retained. Tightactualamberglitteredgemacro,headingaccurate. Clean512crops;frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-10d4bf0c-f60a-404e-b91b-9320e4e41bbc.png",
+      "prompt": "Native faithful edit of supplied actual photo collage into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Original whole assortment is SIX DISTINCT white Saras retail cards, eachwithSIX horizontal hair barrettes, total36clips. The originalcollage shows sixdifferentstylecards, NOT6views ofonecard. Fullviewcells must show all6cards together in2rows3, sixclips/card; preserve sixoriginalstyle silhouettes, counts,colours,patterns. Remove hand/greywall/oldprice/collageborders only. Toprowwhite full6cardassortment,lavendercreamstyled full6cardassortment,naturalvanitydesk full6cardassortment. Bottomrowtightstandalone REALPARTmacro ofoneclip surface/edgeonly, promotionalall6cardswithaccurateheading,blankcreamunused. Exactsplit512/1024/512,no gutters/borders. All6cards have same TOPtoBOTTOM sixcolours: marbledCRIMSONRED,AMBERYELLOW,COPPERPEACH,PALEGOLD,CREAMGREY,OLIVEBROWN. Preserve distinct6cardstyles silhouettes: rectangle,broadcurvedwaist,oval,flaredbow,narrowcurvedbar,roundedpill; actualoriginalsilhouettes/woodgrainmarbledglitterpatterns matchsource. Eachcard6samecolourorder total36, noallblack. Detailtightactualambermarbledsurface/edge. Heading 'Marbled Barrette Assortment'.\n",
+      "sha256": "287a49953fdc5326ddbd07e012fe8a493912a85aa5516802955fb166a1217f60",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-10d4bf0c-f60a-404e-b91b-9320e4e41bbc.png",
+      "grid_sha256": "56943913f98dbe74a3987a895f3cc3632e0af0ea65a7b92fa87c8a9053e5dd4d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Pass: fullviews6distinctSarasbarrettecards2rows3,6clips/card=36,eachred-amber-copper-palegold-creamgrey-olivebrown,originalsilhouettes/marbledpatterns retained. Tightactualamberglitteredgemacro,headingaccurate. Clean512crops;frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-10d4bf0c-f60a-404e-b91b-9320e4e41bbc.png",
+      "prompt": "Native faithful edit of supplied actual photo collage into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Original whole assortment is SIX DISTINCT white Saras retail cards, eachwithSIX horizontal hair barrettes, total36clips. The originalcollage shows sixdifferentstylecards, NOT6views ofonecard. Fullviewcells must show all6cards together in2rows3, sixclips/card; preserve sixoriginalstyle silhouettes, counts,colours,patterns. Remove hand/greywall/oldprice/collageborders only. Toprowwhite full6cardassortment,lavendercreamstyled full6cardassortment,naturalvanitydesk full6cardassortment. Bottomrowtightstandalone REALPARTmacro ofoneclip surface/edgeonly, promotionalall6cardswithaccurateheading,blankcreamunused. Exactsplit512/1024/512,no gutters/borders. All6cards have same TOPtoBOTTOM sixcolours: marbledCRIMSONRED,AMBERYELLOW,COPPERPEACH,PALEGOLD,CREAMGREY,OLIVEBROWN. Preserve distinct6cardstyles silhouettes: rectangle,broadcurvedwaist,oval,flaredbow,narrowcurvedbar,roundedpill; actualoriginalsilhouettes/woodgrainmarbledglitterpatterns matchsource. Eachcard6samecolourorder total36, noallblack. Detailtightactualambermarbledsurface/edge. Heading 'Marbled Barrette Assortment'.\n",
+      "sha256": "08314c48cfb0a65d88a2371b6775f84cac3d156f833c315f53d72c44f8e9221c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-10d4bf0c-f60a-404e-b91b-9320e4e41bbc.png",
+      "grid_sha256": "56943913f98dbe74a3987a895f3cc3632e0af0ea65a7b92fa87c8a9053e5dd4d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Pass: fullviews6distinctSarasbarrettecards2rows3,6clips/card=36,eachred-amber-copper-palegold-creamgrey-olivebrown,originalsilhouettes/marbledpatterns retained. Tightactualamberglitteredgemacro,headingaccurate. Clean512crops;frozenoriginal/outputSHAverified."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

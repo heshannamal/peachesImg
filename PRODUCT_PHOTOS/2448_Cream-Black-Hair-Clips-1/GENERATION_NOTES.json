@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260919-WA0249.jpg": "bc7f98690e7c334c9dd4ae591bfd2935b3c6f744f0f1f328ef434dc840ef8b9b",
+    "Originals/IMG-20260919-WA0223.jpg": "2615bd1fb75a68572ded7420210c755ea8c3c016998a3b410753ba122cd66652"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-e4cb076d-d0bc-48be-8509-668045fdf2aa.png",
+      "source_output": "/workspace/generated_images/exec-e4cb076d-d0bc-48be-8509-668045fdf2aa.png",
+      "sha256": "2fba2f760c3cc75274d5ccc0af9ece738a109fbb620fab5c2a63f31c0996f871",
+      "prompt": "Native photographic edit referencedactualoriginals intoONE1536x1024strict3columns2rows contact sheet equal512squarecells no gutters. Twoinputphotos are SAMEsingleproductcard fromdifferentangle/resolution, NOTtwoassortments. WHOLEsinglecardof6barrettesONEproduct. Cell1top-leftWHITEentire6clipcard;cell2top-middleLAVENDER/CREAMstyledentire6clipcard;cell3top-rightLIFESTYLEvanityentire6clipcard;cell4bottom-leftstandalonetightactualbarrettetexturepartmacro;cell5bottom-middlePROMOTIONALentire6clipcardaccurateheading;cell6bottom-rightblankcream. Repeatall6clipstogetherineachfullview, noextra/missingclips/cards. Preserveexactcolourorder,printedpatterns,texture,shape/size,Saraswhitecardbrand. Removehand/plasticbag/shop/priceoverlay.EXACT6longrectangularbarrettes withraisedcrackled/barktexture. Top2BROWNdarkbranchlikecrackleprint, middle2PALEIVORYYELLOWraisedcrinkletexture,bottom2SLATEGRAYraisedbarktexture. Source6cliporder2brown2ivory2gray, notcreamblackfolderguess. Preserveplainlongrectanglegeometryandsourcetexturedpatterns, notcurvedclaws. Detailmacroactualslategrayraisedcrackletexturepart. Heading 'Textured Neutral Hair Barrettes'.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-e4cb076d-d0bc-48be-8509-668045fdf2aa.png",
+      "prompt": "Native photographic edit referencedactualoriginals intoONE1536x1024strict3columns2rows contact sheet equal512squarecells no gutters. Twoinputphotos are SAMEsingleproductcard fromdifferentangle/resolution, NOTtwoassortments. WHOLEsinglecardof6barrettesONEproduct. Cell1top-leftWHITEentire6clipcard;cell2top-middleLAVENDER/CREAMstyledentire6clipcard;cell3top-rightLIFESTYLEvanityentire6clipcard;cell4bottom-leftstandalonetightactualbarrettetexturepartmacro;cell5bottom-middlePROMOTIONALentire6clipcardaccurateheading;cell6bottom-rightblankcream. Repeatall6clipstogetherineachfullview, noextra/missingclips/cards. Preserveexactcolourorder,printedpatterns,texture,shape/size,Saraswhitecardbrand. Removehand/plasticbag/shop/priceoverlay.EXACT6longrectangularbarrettes withraisedcrackled/barktexture. Top2BROWNdarkbranchlikecrackleprint, middle2PALEIVORYYELLOWraisedcrinkletexture,bottom2SLATEGRAYraisedbarktexture. Source6cliporder2brown2ivory2gray, notcreamblackfolderguess. Preserveplainlongrectanglegeometryandsourcetexturedpatterns, notcurvedclaws. Detailmacroactualslategrayraisedcrackletexturepart. Heading 'Textured Neutral Hair Barrettes'.",
+      "sha256": "0fff2b3ad1d1c64920746b6c2130663d2b92dd53005277b7e5f47675b9e3f9d5",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e4cb076d-d0bc-48be-8509-668045fdf2aa.png",
+      "grid_sha256": "2fba2f760c3cc75274d5ccc0af9ece738a109fbb620fab5c2a63f31c0996f871",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actualsavedcropscomparedbothsourceangles:SAMEsingle6clipSarascard,not12duplicateclips. Exactly2browncrackle2ivoryyellowcrinkle2slategraybarktexturedlongrectanglebarrettes, sourcegeometrycolourspreservedineachfullview. Tightactualgrayraisedtexturepartmacro,accurateheading."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-e4cb076d-d0bc-48be-8509-668045fdf2aa.png",
+      "prompt": "Native photographic edit referencedactualoriginals intoONE1536x1024strict3columns2rows contact sheet equal512squarecells no gutters. Twoinputphotos are SAMEsingleproductcard fromdifferentangle/resolution, NOTtwoassortments. WHOLEsinglecardof6barrettesONEproduct. Cell1top-leftWHITEentire6clipcard;cell2top-middleLAVENDER/CREAMstyledentire6clipcard;cell3top-rightLIFESTYLEvanityentire6clipcard;cell4bottom-leftstandalonetightactualbarrettetexturepartmacro;cell5bottom-middlePROMOTIONALentire6clipcardaccurateheading;cell6bottom-rightblankcream. Repeatall6clipstogetherineachfullview, noextra/missingclips/cards. Preserveexactcolourorder,printedpatterns,texture,shape/size,Saraswhitecardbrand. Removehand/plasticbag/shop/priceoverlay.EXACT6longrectangularbarrettes withraisedcrackled/barktexture. Top2BROWNdarkbranchlikecrackleprint, middle2PALEIVORYYELLOWraisedcrinkletexture,bottom2SLATEGRAYraisedbarktexture. Source6cliporder2brown2ivory2gray, notcreamblackfolderguess. Preserveplainlongrectanglegeometryandsourcetexturedpatterns, notcurvedclaws. Detailmacroactualslategrayraisedcrackletexturepart. Heading 'Textured Neutral Hair Barrettes'.",
+      "sha256": "d049895068b5aceb830beeeeec46e1205b0ed8c85aace41b30816e178b56298e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e4cb076d-d0bc-48be-8509-668045fdf2aa.png",
+      "grid_sha256": "2fba2f760c3cc75274d5ccc0af9ece738a109fbb620fab5c2a63f31c0996f871",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actualsavedcropscomparedbothsourceangles:SAMEsingle6clipSarascard,not12duplicateclips. Exactly2browncrackle2ivoryyellowcrinkle2slategraybarktexturedlongrectanglebarrettes, sourcegeometrycolourspreservedineachfullview. Tightactualgrayraisedtexturepartmacro,accurateheading."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-e4cb076d-d0bc-48be-8509-668045fdf2aa.png",
+      "prompt": "Native photographic edit referencedactualoriginals intoONE1536x1024strict3columns2rows contact sheet equal512squarecells no gutters. Twoinputphotos are SAMEsingleproductcard fromdifferentangle/resolution, NOTtwoassortments. WHOLEsinglecardof6barrettesONEproduct. Cell1top-leftWHITEentire6clipcard;cell2top-middleLAVENDER/CREAMstyledentire6clipcard;cell3top-rightLIFESTYLEvanityentire6clipcard;cell4bottom-leftstandalonetightactualbarrettetexturepartmacro;cell5bottom-middlePROMOTIONALentire6clipcardaccurateheading;cell6bottom-rightblankcream. Repeatall6clipstogetherineachfullview, noextra/missingclips/cards. Preserveexactcolourorder,printedpatterns,texture,shape/size,Saraswhitecardbrand. Removehand/plasticbag/shop/priceoverlay.EXACT6longrectangularbarrettes withraisedcrackled/barktexture. Top2BROWNdarkbranchlikecrackleprint, middle2PALEIVORYYELLOWraisedcrinkletexture,bottom2SLATEGRAYraisedbarktexture. Source6cliporder2brown2ivory2gray, notcreamblackfolderguess. Preserveplainlongrectanglegeometryandsourcetexturedpatterns, notcurvedclaws. Detailmacroactualslategrayraisedcrackletexturepart. Heading 'Textured Neutral Hair Barrettes'.",
+      "sha256": "512a071b6f19fc416acaf54de922eaf67b9ad4f1fcc1ce3bce4aab1e9ef2ec6d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e4cb076d-d0bc-48be-8509-668045fdf2aa.png",
+      "grid_sha256": "2fba2f760c3cc75274d5ccc0af9ece738a109fbb620fab5c2a63f31c0996f871",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actualsavedcropscomparedbothsourceangles:SAMEsingle6clipSarascard,not12duplicateclips. Exactly2browncrackle2ivoryyellowcrinkle2slategraybarktexturedlongrectanglebarrettes, sourcegeometrycolourspreservedineachfullview. Tightactualgrayraisedtexturepartmacro,accurateheading."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-e4cb076d-d0bc-48be-8509-668045fdf2aa.png",
+      "prompt": "Native photographic edit referencedactualoriginals intoONE1536x1024strict3columns2rows contact sheet equal512squarecells no gutters. Twoinputphotos are SAMEsingleproductcard fromdifferentangle/resolution, NOTtwoassortments. WHOLEsinglecardof6barrettesONEproduct. Cell1top-leftWHITEentire6clipcard;cell2top-middleLAVENDER/CREAMstyledentire6clipcard;cell3top-rightLIFESTYLEvanityentire6clipcard;cell4bottom-leftstandalonetightactualbarrettetexturepartmacro;cell5bottom-middlePROMOTIONALentire6clipcardaccurateheading;cell6bottom-rightblankcream. Repeatall6clipstogetherineachfullview, noextra/missingclips/cards. Preserveexactcolourorder,printedpatterns,texture,shape/size,Saraswhitecardbrand. Removehand/plasticbag/shop/priceoverlay.EXACT6longrectangularbarrettes withraisedcrackled/barktexture. Top2BROWNdarkbranchlikecrackleprint, middle2PALEIVORYYELLOWraisedcrinkletexture,bottom2SLATEGRAYraisedbarktexture. Source6cliporder2brown2ivory2gray, notcreamblackfolderguess. Preserveplainlongrectanglegeometryandsourcetexturedpatterns, notcurvedclaws. Detailmacroactualslategrayraisedcrackletexturepart. Heading 'Textured Neutral Hair Barrettes'.",
+      "sha256": "67fea5bdb7b2a8c06756352b2d729a03d614dbb8458ead0c979d9d44b3b9e4a8",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e4cb076d-d0bc-48be-8509-668045fdf2aa.png",
+      "grid_sha256": "2fba2f760c3cc75274d5ccc0af9ece738a109fbb620fab5c2a63f31c0996f871",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actualsavedcropscomparedbothsourceangles:SAMEsingle6clipSarascard,not12duplicateclips. Exactly2browncrackle2ivoryyellowcrinkle2slategraybarktexturedlongrectanglebarrettes, sourcegeometrycolourspreservedineachfullview. Tightactualgrayraisedtexturepartmacro,accurateheading."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-e4cb076d-d0bc-48be-8509-668045fdf2aa.png",
+      "prompt": "Native photographic edit referencedactualoriginals intoONE1536x1024strict3columns2rows contact sheet equal512squarecells no gutters. Twoinputphotos are SAMEsingleproductcard fromdifferentangle/resolution, NOTtwoassortments. WHOLEsinglecardof6barrettesONEproduct. Cell1top-leftWHITEentire6clipcard;cell2top-middleLAVENDER/CREAMstyledentire6clipcard;cell3top-rightLIFESTYLEvanityentire6clipcard;cell4bottom-leftstandalonetightactualbarrettetexturepartmacro;cell5bottom-middlePROMOTIONALentire6clipcardaccurateheading;cell6bottom-rightblankcream. Repeatall6clipstogetherineachfullview, noextra/missingclips/cards. Preserveexactcolourorder,printedpatterns,texture,shape/size,Saraswhitecardbrand. Removehand/plasticbag/shop/priceoverlay.EXACT6longrectangularbarrettes withraisedcrackled/barktexture. Top2BROWNdarkbranchlikecrackleprint, middle2PALEIVORYYELLOWraisedcrinkletexture,bottom2SLATEGRAYraisedbarktexture. Source6cliporder2brown2ivory2gray, notcreamblackfolderguess. Preserveplainlongrectanglegeometryandsourcetexturedpatterns, notcurvedclaws. Detailmacroactualslategrayraisedcrackletexturepart. Heading 'Textured Neutral Hair Barrettes'.",
+      "sha256": "4481f6f3799124ffbdf77298462b4c0167f5b22e82969d62aeb4f0ca571b0ff9",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e4cb076d-d0bc-48be-8509-668045fdf2aa.png",
+      "grid_sha256": "2fba2f760c3cc75274d5ccc0af9ece738a109fbb620fab5c2a63f31c0996f871",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actualsavedcropscomparedbothsourceangles:SAMEsingle6clipSarascard,not12duplicateclips. Exactly2browncrackle2ivoryyellowcrinkle2slategraybarktexturedlongrectanglebarrettes, sourcegeometrycolourspreservedineachfullview. Tightactualgrayraisedtexturepartmacro,accurateheading."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baselines_verified": true
+}

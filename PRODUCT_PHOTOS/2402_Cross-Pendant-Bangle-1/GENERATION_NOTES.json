@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260916-WA0126.jpg": "3288d57057bb10407f3537ecb0b114fc6da2457b018aaa5cc7c185e092e0d44f"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-24a2d36a-8e42-4e52-9301-626d9d4da3bf.png",
+      "source_output": "/workspace/generated_images/exec-24a2d36a-8e42-4e52-9301-626d9d4da3bf.png",
+      "sha256": "439bfa73b1c7368bb8a916eec93af94b6023230ea5879920e9e1552112a76dca",
+      "prompt": "Native edit referenced actual original photograph only. Make NEW website product photography one1536x1024 landscape image exact3columns x2rows equal512squarecells no gutters/borders/labels. Top-left whole ONE bangle isolated white. Top-middle whole same bangle lavender/cream fabric. Top-right same ONE bangle worn on a wrist in natural lifestyle, no extra bracelets. Bottom-left standalone TIGHT macro of actual dangling charm and attachment/beads, NOT whole bangle. Bottom-middle whole same bangle promotional with accurate heading 'Cross Pendant Bangle'. Bottom-right blankcream unused. Preserve exact original product count1, goldtone, polished thin roundwire opencuff shape, gap atTOP with TWO largeball terminalends, pairedsmallbeads onbothsides and smallbeads aroundbottomcharm attachment. Preserve charm identity/shape/engraving. Remove supplier price/warrantyoverlay and background, do not add claims. Fullviews bangle entirelywithin cell; detail tight actual part. Realistic website-readyquality.\nPendant is smallgoldtone CROSS with four taperedlobes: rounded broad arms and longer slenderdownwardstem, darkreflectivecentre. Exactlyone crosscharm hangingbottom.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-24a2d36a-8e42-4e52-9301-626d9d4da3bf.png",
+      "prompt": "Native edit referenced actual original photograph only. Make NEW website product photography one1536x1024 landscape image exact3columns x2rows equal512squarecells no gutters/borders/labels. Top-left whole ONE bangle isolated white. Top-middle whole same bangle lavender/cream fabric. Top-right same ONE bangle worn on a wrist in natural lifestyle, no extra bracelets. Bottom-left standalone TIGHT macro of actual dangling charm and attachment/beads, NOT whole bangle. Bottom-middle whole same bangle promotional with accurate heading 'Cross Pendant Bangle'. Bottom-right blankcream unused. Preserve exact original product count1, goldtone, polished thin roundwire opencuff shape, gap atTOP with TWO largeball terminalends, pairedsmallbeads onbothsides and smallbeads aroundbottomcharm attachment. Preserve charm identity/shape/engraving. Remove supplier price/warrantyoverlay and background, do not add claims. Fullviews bangle entirelywithin cell; detail tight actual part. Realistic website-readyquality.\nPendant is smallgoldtone CROSS with four taperedlobes: rounded broad arms and longer slenderdownwardstem, darkreflectivecentre. Exactlyone crosscharm hangingbottom.",
+      "sha256": "22d8780889c32f293139ee09e4e19e7bdf4fb99d0b59214d61b11350eaece3f8",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-24a2d36a-8e42-4e52-9301-626d9d4da3bf.png",
+      "grid_sha256": "439bfa73b1c7368bb8a916eec93af94b6023230ea5879920e9e1552112a76dca",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Inspected actual saved five crops against original. Single original open ball-end gold-tone cuff, paired spacer beads and correct charm retained. White/styled/promotional show entire cuff; lifestyle shows same single cuff worn; standalone tight macro shows actual charm/attachment. Accurate heading. Equal512 cell boundaries correct."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-24a2d36a-8e42-4e52-9301-626d9d4da3bf.png",
+      "prompt": "Native edit referenced actual original photograph only. Make NEW website product photography one1536x1024 landscape image exact3columns x2rows equal512squarecells no gutters/borders/labels. Top-left whole ONE bangle isolated white. Top-middle whole same bangle lavender/cream fabric. Top-right same ONE bangle worn on a wrist in natural lifestyle, no extra bracelets. Bottom-left standalone TIGHT macro of actual dangling charm and attachment/beads, NOT whole bangle. Bottom-middle whole same bangle promotional with accurate heading 'Cross Pendant Bangle'. Bottom-right blankcream unused. Preserve exact original product count1, goldtone, polished thin roundwire opencuff shape, gap atTOP with TWO largeball terminalends, pairedsmallbeads onbothsides and smallbeads aroundbottomcharm attachment. Preserve charm identity/shape/engraving. Remove supplier price/warrantyoverlay and background, do not add claims. Fullviews bangle entirelywithin cell; detail tight actual part. Realistic website-readyquality.\nPendant is smallgoldtone CROSS with four taperedlobes: rounded broad arms and longer slenderdownwardstem, darkreflectivecentre. Exactlyone crosscharm hangingbottom.",
+      "sha256": "943643dba081406daa3c9ac74942682e7738255438e791743fe9b4553819cb92",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-24a2d36a-8e42-4e52-9301-626d9d4da3bf.png",
+      "grid_sha256": "439bfa73b1c7368bb8a916eec93af94b6023230ea5879920e9e1552112a76dca",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Inspected actual saved five crops against original. Single original open ball-end gold-tone cuff, paired spacer beads and correct charm retained. White/styled/promotional show entire cuff; lifestyle shows same single cuff worn; standalone tight macro shows actual charm/attachment. Accurate heading. Equal512 cell boundaries correct."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-24a2d36a-8e42-4e52-9301-626d9d4da3bf.png",
+      "prompt": "Native edit referenced actual original photograph only. Make NEW website product photography one1536x1024 landscape image exact3columns x2rows equal512squarecells no gutters/borders/labels. Top-left whole ONE bangle isolated white. Top-middle whole same bangle lavender/cream fabric. Top-right same ONE bangle worn on a wrist in natural lifestyle, no extra bracelets. Bottom-left standalone TIGHT macro of actual dangling charm and attachment/beads, NOT whole bangle. Bottom-middle whole same bangle promotional with accurate heading 'Cross Pendant Bangle'. Bottom-right blankcream unused. Preserve exact original product count1, goldtone, polished thin roundwire opencuff shape, gap atTOP with TWO largeball terminalends, pairedsmallbeads onbothsides and smallbeads aroundbottomcharm attachment. Preserve charm identity/shape/engraving. Remove supplier price/warrantyoverlay and background, do not add claims. Fullviews bangle entirelywithin cell; detail tight actual part. Realistic website-readyquality.\nPendant is smallgoldtone CROSS with four taperedlobes: rounded broad arms and longer slenderdownwardstem, darkreflectivecentre. Exactlyone crosscharm hangingbottom.",
+      "sha256": "1dcddd850142f06962eb138688c5b024d325465be6e892d69694e2e99aee5f22",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-24a2d36a-8e42-4e52-9301-626d9d4da3bf.png",
+      "grid_sha256": "439bfa73b1c7368bb8a916eec93af94b6023230ea5879920e9e1552112a76dca",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Inspected actual saved five crops against original. Single original open ball-end gold-tone cuff, paired spacer beads and correct charm retained. White/styled/promotional show entire cuff; lifestyle shows same single cuff worn; standalone tight macro shows actual charm/attachment. Accurate heading. Equal512 cell boundaries correct."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-24a2d36a-8e42-4e52-9301-626d9d4da3bf.png",
+      "prompt": "Native edit referenced actual original photograph only. Make NEW website product photography one1536x1024 landscape image exact3columns x2rows equal512squarecells no gutters/borders/labels. Top-left whole ONE bangle isolated white. Top-middle whole same bangle lavender/cream fabric. Top-right same ONE bangle worn on a wrist in natural lifestyle, no extra bracelets. Bottom-left standalone TIGHT macro of actual dangling charm and attachment/beads, NOT whole bangle. Bottom-middle whole same bangle promotional with accurate heading 'Cross Pendant Bangle'. Bottom-right blankcream unused. Preserve exact original product count1, goldtone, polished thin roundwire opencuff shape, gap atTOP with TWO largeball terminalends, pairedsmallbeads onbothsides and smallbeads aroundbottomcharm attachment. Preserve charm identity/shape/engraving. Remove supplier price/warrantyoverlay and background, do not add claims. Fullviews bangle entirelywithin cell; detail tight actual part. Realistic website-readyquality.\nPendant is smallgoldtone CROSS with four taperedlobes: rounded broad arms and longer slenderdownwardstem, darkreflectivecentre. Exactlyone crosscharm hangingbottom.",
+      "sha256": "36436167a6a5c61301c76fe8e82e542f91e67964d2cceddbd924dcf0826a1b6b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-24a2d36a-8e42-4e52-9301-626d9d4da3bf.png",
+      "grid_sha256": "439bfa73b1c7368bb8a916eec93af94b6023230ea5879920e9e1552112a76dca",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Inspected actual saved five crops against original. Single original open ball-end gold-tone cuff, paired spacer beads and correct charm retained. White/styled/promotional show entire cuff; lifestyle shows same single cuff worn; standalone tight macro shows actual charm/attachment. Accurate heading. Equal512 cell boundaries correct."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-24a2d36a-8e42-4e52-9301-626d9d4da3bf.png",
+      "prompt": "Native edit referenced actual original photograph only. Make NEW website product photography one1536x1024 landscape image exact3columns x2rows equal512squarecells no gutters/borders/labels. Top-left whole ONE bangle isolated white. Top-middle whole same bangle lavender/cream fabric. Top-right same ONE bangle worn on a wrist in natural lifestyle, no extra bracelets. Bottom-left standalone TIGHT macro of actual dangling charm and attachment/beads, NOT whole bangle. Bottom-middle whole same bangle promotional with accurate heading 'Cross Pendant Bangle'. Bottom-right blankcream unused. Preserve exact original product count1, goldtone, polished thin roundwire opencuff shape, gap atTOP with TWO largeball terminalends, pairedsmallbeads onbothsides and smallbeads aroundbottomcharm attachment. Preserve charm identity/shape/engraving. Remove supplier price/warrantyoverlay and background, do not add claims. Fullviews bangle entirelywithin cell; detail tight actual part. Realistic website-readyquality.\nPendant is smallgoldtone CROSS with four taperedlobes: rounded broad arms and longer slenderdownwardstem, darkreflectivecentre. Exactlyone crosscharm hangingbottom.",
+      "sha256": "2519bd6f20cfffa82b18f3c32aa534e6501cf8c04886fde6fcc721765f58461a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-24a2d36a-8e42-4e52-9301-626d9d4da3bf.png",
+      "grid_sha256": "439bfa73b1c7368bb8a916eec93af94b6023230ea5879920e9e1552112a76dca",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Inspected actual saved five crops against original. Single original open ball-end gold-tone cuff, paired spacer beads and correct charm retained. White/styled/promotional show entire cuff; lifestyle shows same single cuff worn; standalone tight macro shows actual charm/attachment. Accurate heading. Equal512 cell boundaries correct."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "One gold-tone open ball-end cuff bangle with tapered cross pendant",
+  "original_baseline_verified": true
+}

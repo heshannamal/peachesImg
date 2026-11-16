@@ -1,0 +1,21 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260723-WA0215.jpg": "5bd0ab42f979a458c4983a7a29b9d438ed5c99b24328a4654ab6e280fd0c6be7",
+    "Originals/IMG-20260723-WA0220.jpg": "1ccf21c3a6ef538a00a1820e11d089c117f2b57436b62d04eddcdf2a7a169c30"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-d4245b97-5c19-4996-bc82-0a9c11e43d5e.png",
+      "prompt": "Faithful website ecommerce photograph editing attached original. ONE closed pink OAUMD FASHION FEVER book-shaped eyeshadow palette, same rectangular pink front cover, holographic OAUMD letters at top, original illustrated pink-haired girl and butterflies, vertical FASHION, large FEVER and original small printed wording/colour numbers at bottom, original diagonal closure flap on right. Preserve exact product shape, colour, printed artwork and packaging; second reference is SAME single product from another photo, do not duplicate. Same front view upright fully in frame on seamless pure white background with soft natural shadow. Remove hand, shop and floating 1075Rs/1Pcs price overlay only. No extra objects, new words, opened book or invented backside.",
+      "sha256": "4dd62bf429961a6d451a9f6ab54a2388af5f6773dec69ba0c1a367e4b9a47dd4",
+      "checked": true,
+      "visual_review": "Compared against both original photos of the same closed product: single pink OAUMD book, holographic title, illustrated girl/butterflies, pink colour, right closure flap and main printed layout retained. Minor illustration/text rendering differences accepted for website quality. Hand/shop/price removed; full single product on white."
+    }
+  ],
+  "status": "partial_one_white_background_saved_and_checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "original_baseline_verified": true
+}

@@ -1,0 +1,131 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260919-WA0229.jpg": "f478831adccdac7f07d6bc7e33a77325cbdc30a52094e9900349edfe2acf3b85",
+    "Originals/IMG-20260919-WA0220.jpg": "6bd96ef232f01a166d36483b4eaea1b5b9330d840ecb5c2cc3151ba4de15c31d",
+    "Originals/IMG-20260919-WA0225.jpg": "43c9c2503910a2240591be2dafd07d012c5258099fa815e7cef163d0426d7e64",
+    "Originals/IMG-20260919-WA0234.jpg": "1d54742f4d1f9be2371e535073e940849eda19b6e13cd81bb86f4e3203dfe198"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-e7e8ccad-620f-401f-a82a-3d2b2cb06fab.png",
+      "source_output": "/workspace/generated_images/exec-e7e8ccad-620f-401f-a82a-3d2b2cb06fab.png",
+      "sha256": "ebc9da9ef0c2c2f8d051c41d968dc1968cf541932efb87758936e53e92617e34",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Bright Textured Hair Clips\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. FOUR originalphotos depict TWOdistinctcards repeatedangles: ONEhasSIXelongatedOVALrounded-endbarrettes; OTHERhasSIXstraightRECTANGLEsquare-endbarrettes. EACHcardexactSIXclips incolourpairs2CORALPINK+2MINTGREEN+2ROYALBLUE, sameembossedcracked/wrinkledleather-likeplastictexture asactualsource. WholeassortmentTWOCARDS/TWELVEclips; notfourcards/notsixonly. Fullviews1/2/3/5 show BOTHwholecards sidebysidewith6countableclipseach, sourceovalvsrectangularshapecontrast retained. No floralorstarprint, notglitter. Removehand/pricebanner/store. Detail standalone tightmacroofactualROYALBLUEembossedcrackedtextureandbarretteedge, notwholecard. AccurateheadingBright Textured Hair Clips.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-e7e8ccad-620f-401f-a82a-3d2b2cb06fab.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Bright Textured Hair Clips\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. FOUR originalphotos depict TWOdistinctcards repeatedangles: ONEhasSIXelongatedOVALrounded-endbarrettes; OTHERhasSIXstraightRECTANGLEsquare-endbarrettes. EACHcardexactSIXclips incolourpairs2CORALPINK+2MINTGREEN+2ROYALBLUE, sameembossedcracked/wrinkledleather-likeplastictexture asactualsource. WholeassortmentTWOCARDS/TWELVEclips; notfourcards/notsixonly. Fullviews1/2/3/5 show BOTHwholecards sidebysidewith6countableclipseach, sourceovalvsrectangularshapecontrast retained. No floralorstarprint, notglitter. Removehand/pricebanner/store. Detail standalone tightmacroofactualROYALBLUEembossedcrackedtextureandbarretteedge, notwholecard. AccurateheadingBright Textured Hair Clips.",
+      "sha256": "1060dbd5536d8c7b965184ff89d19fc3d8feb61840bfcfb331118e84f16356e8",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e7e8ccad-620f-401f-a82a-3d2b2cb06fab.png",
+      "grid_sha256": "ebc9da9ef0c2c2f8d051c41d968dc1968cf541932efb87758936e53e92617e34",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared to originals: Two SARASsixclipcards, oval/rectangularshapes,12coral/mint/blueembossedbarrettes, fouroriginalsrepeatedangles. Sourcecount/materialtexture/shapes/colourorder retained allfullviews. Requestedwhite/styled/lifestyle/promo andaccurateheading; detail standalone tightactualtexture/edge macro passed. Website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-e7e8ccad-620f-401f-a82a-3d2b2cb06fab.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Bright Textured Hair Clips\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. FOUR originalphotos depict TWOdistinctcards repeatedangles: ONEhasSIXelongatedOVALrounded-endbarrettes; OTHERhasSIXstraightRECTANGLEsquare-endbarrettes. EACHcardexactSIXclips incolourpairs2CORALPINK+2MINTGREEN+2ROYALBLUE, sameembossedcracked/wrinkledleather-likeplastictexture asactualsource. WholeassortmentTWOCARDS/TWELVEclips; notfourcards/notsixonly. Fullviews1/2/3/5 show BOTHwholecards sidebysidewith6countableclipseach, sourceovalvsrectangularshapecontrast retained. No floralorstarprint, notglitter. Removehand/pricebanner/store. Detail standalone tightmacroofactualROYALBLUEembossedcrackedtextureandbarretteedge, notwholecard. AccurateheadingBright Textured Hair Clips.",
+      "sha256": "965712e906df232a1b0e2b990a6473c6128945ca733ad32bf07174f5f5b34b9c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e7e8ccad-620f-401f-a82a-3d2b2cb06fab.png",
+      "grid_sha256": "ebc9da9ef0c2c2f8d051c41d968dc1968cf541932efb87758936e53e92617e34",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared to originals: Two SARASsixclipcards, oval/rectangularshapes,12coral/mint/blueembossedbarrettes, fouroriginalsrepeatedangles. Sourcecount/materialtexture/shapes/colourorder retained allfullviews. Requestedwhite/styled/lifestyle/promo andaccurateheading; detail standalone tightactualtexture/edge macro passed. Website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-e7e8ccad-620f-401f-a82a-3d2b2cb06fab.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Bright Textured Hair Clips\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. FOUR originalphotos depict TWOdistinctcards repeatedangles: ONEhasSIXelongatedOVALrounded-endbarrettes; OTHERhasSIXstraightRECTANGLEsquare-endbarrettes. EACHcardexactSIXclips incolourpairs2CORALPINK+2MINTGREEN+2ROYALBLUE, sameembossedcracked/wrinkledleather-likeplastictexture asactualsource. WholeassortmentTWOCARDS/TWELVEclips; notfourcards/notsixonly. Fullviews1/2/3/5 show BOTHwholecards sidebysidewith6countableclipseach, sourceovalvsrectangularshapecontrast retained. No floralorstarprint, notglitter. Removehand/pricebanner/store. Detail standalone tightmacroofactualROYALBLUEembossedcrackedtextureandbarretteedge, notwholecard. AccurateheadingBright Textured Hair Clips.",
+      "sha256": "efa8704ddb548a1678da015cdc5167f1173f68ec8e640d75800dbb85c46576d0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e7e8ccad-620f-401f-a82a-3d2b2cb06fab.png",
+      "grid_sha256": "ebc9da9ef0c2c2f8d051c41d968dc1968cf541932efb87758936e53e92617e34",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared to originals: Two SARASsixclipcards, oval/rectangularshapes,12coral/mint/blueembossedbarrettes, fouroriginalsrepeatedangles. Sourcecount/materialtexture/shapes/colourorder retained allfullviews. Requestedwhite/styled/lifestyle/promo andaccurateheading; detail standalone tightactualtexture/edge macro passed. Website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-e7e8ccad-620f-401f-a82a-3d2b2cb06fab.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Bright Textured Hair Clips\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. FOUR originalphotos depict TWOdistinctcards repeatedangles: ONEhasSIXelongatedOVALrounded-endbarrettes; OTHERhasSIXstraightRECTANGLEsquare-endbarrettes. EACHcardexactSIXclips incolourpairs2CORALPINK+2MINTGREEN+2ROYALBLUE, sameembossedcracked/wrinkledleather-likeplastictexture asactualsource. WholeassortmentTWOCARDS/TWELVEclips; notfourcards/notsixonly. Fullviews1/2/3/5 show BOTHwholecards sidebysidewith6countableclipseach, sourceovalvsrectangularshapecontrast retained. No floralorstarprint, notglitter. Removehand/pricebanner/store. Detail standalone tightmacroofactualROYALBLUEembossedcrackedtextureandbarretteedge, notwholecard. AccurateheadingBright Textured Hair Clips.",
+      "sha256": "b272e908f582b216a027deac8119636642d79079d6c39207254594fed854b489",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e7e8ccad-620f-401f-a82a-3d2b2cb06fab.png",
+      "grid_sha256": "ebc9da9ef0c2c2f8d051c41d968dc1968cf541932efb87758936e53e92617e34",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual grid/crops compared to originals: Two SARASsixclipcards, oval/rectangularshapes,12coral/mint/blueembossedbarrettes, fouroriginalsrepeatedangles. Sourcecount/materialtexture/shapes/colourorder retained allfullviews. Requestedwhite/styled/lifestyle/promo andaccurateheading; detail standalone tightactualtexture/edge macro passed. Website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-e7e8ccad-620f-401f-a82a-3d2b2cb06fab.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Bright Textured Hair Clips\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. FOUR originalphotos depict TWOdistinctcards repeatedangles: ONEhasSIXelongatedOVALrounded-endbarrettes; OTHERhasSIXstraightRECTANGLEsquare-endbarrettes. EACHcardexactSIXclips incolourpairs2CORALPINK+2MINTGREEN+2ROYALBLUE, sameembossedcracked/wrinkledleather-likeplastictexture asactualsource. WholeassortmentTWOCARDS/TWELVEclips; notfourcards/notsixonly. Fullviews1/2/3/5 show BOTHwholecards sidebysidewith6countableclipseach, sourceovalvsrectangularshapecontrast retained. No floralorstarprint, notglitter. Removehand/pricebanner/store. Detail standalone tightmacroofactualROYALBLUEembossedcrackedtextureandbarretteedge, notwholecard. AccurateheadingBright Textured Hair Clips.",
+      "sha256": "be2017cf18fbd36daa74c33714716f9bbd56089a5b5e36411d35b6ea1d91e695",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e7e8ccad-620f-401f-a82a-3d2b2cb06fab.png",
+      "grid_sha256": "ebc9da9ef0c2c2f8d051c41d968dc1968cf541932efb87758936e53e92617e34",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual grid/crops compared to originals: Two SARASsixclipcards, oval/rectangularshapes,12coral/mint/blueembossedbarrettes, fouroriginalsrepeatedangles. Sourcecount/materialtexture/shapes/colourorder retained allfullviews. Requestedwhite/styled/lifestyle/promo andaccurateheading; detail standalone tightactualtexture/edge macro passed. Website-ready."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Two SARASsixclipcards, oval/rectangularshapes,12coral/mint/blueembossedbarrettes, fouroriginalsrepeatedangles",
+  "originals_verified_against_frozen_plan": true
+}

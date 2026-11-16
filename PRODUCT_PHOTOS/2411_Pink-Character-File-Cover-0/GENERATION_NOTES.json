@@ -1,0 +1,21 @@
+{
+  "status": "blocked_moderation",
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260916-WA0221.jpg": "022494693ca4b235a84bd51e54c3760f87a75d636e17c3e406e25e5d19069b3d"
+  },
+  "records": [],
+  "blocked_attempt": {
+    "prompt": "Native image edit using only the actual referenced original product photo. Create one NEW website-ready landscape 1536x1024 image, exact 3columns x2rows equal512square cells, no gutters/borders/panel labels. Top-left fullproduct white background. Top-middle same product styled lavender/cream fabric. Top-right same product tasteful relevant lifestyle, no extra product copies. Bottom-left standalone TIGHT actual realpart macro, not wholeproduct. Bottom-middle same product with accurate heading 'Pink Character File Cover'. Bottom-right unused blankcream. Preserve exact identity, count, shapes, colours, graphics, visiblepart arrangement. Remove source hand/shop/background and overlaid price banner. Do not invent or infer extra copies from supplier quantities. Full product completely within each fullview cell. Website-ready realistic productphotography.\nExactly ONE landscape translucentwhite plastic document envelope/filecover with broad PINK triangular flap and round WHITE snap. Preserve printed artwork positions: left bigblue creature with purpleears smallgreen doll onhead, centre blue rabbit-eared smiling creature, right pink rabbit-eared creature holdingegg, Happy text, hearts/flowers/carrots/eggs. Preserve three main characterprint designs and pinkbottomstrip. Do not generate 12 files; source12pcs is wholesaleprice. Macro actual whitebutton/pinkflap/translucentplastic seam. Lifestyle desk.",
+    "http_status": 400,
+    "code": "moderation_blocked",
+    "request_id": "46b517c1-8a52-48b8-bcb9-fbcc2842c72d",
+    "moderation_stage": "output",
+    "categories": [
+      "other"
+    ],
+    "raw_error": "Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 46b517c1-8a52-48b8-bcb9-fbcc2842c72d.",
+    "retried": false
+  }
+}

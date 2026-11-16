@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250215-WA0397.jpg": "a5b1072149270eeadc2fe3c2bf90defb49b9f210b1db4676c3861cbb52f74ac4"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-4b65e073-2ea9-4118-abf1-4c9ba9f2fbd4.png",
+      "prompt": "Exact ONE icecream-cone pompom keyring with bright pink fluffy fauxfur scoop, red leather-like cone with yellow crisscross stitching, mustard side tab, silver chain and round split ring. Preserve actual material shapes colours proportions original visible front. Remove hand shop old price only; no invented parts. Website-ready ecommerce photograph, full product/assortment in frame on seamless pure white studio background soft shadows no added text.",
+      "sha256": "1e390ac4942d5468143c6c852098f231fcbd4f62c7f8a8553efbe3a5ce9982e5",
+      "checked": true,
+      "visual_check": "Passed one pink fur scoop red stitched cone mustard tab silver chain and ring source shapes colour full frame no hand price."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-f850b389-cfe5-4051-a22b-b86c34a6046c.png",
+      "prompt": "Exact ONE icecream-cone pompom keyring with bright pink fluffy fauxfur scoop, red leather-like cone with yellow crisscross stitching, mustard side tab, silver chain and round split ring. Preserve actual material shapes colours proportions original visible front. Remove hand shop old price only; no invented parts. Website-ready styled photograph full product/assortment in frame on cream linen with lavender studio backdrop no new text.",
+      "sha256": "6e325363f667c6a180bb21bec0c9095889a85a87d90e8f3badd40ac4f500ae71",
+      "checked": true,
+      "visual_check": "Passed: one pink fur scoop red stitched cone keyring with mustard tab and silver hardware retained."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-87a4ec98-24ba-4d10-86d2-e46437008a40.png",
+      "prompt": "Exact ONE icecream-cone pompom keyring with bright pink fluffy fauxfur scoop, red leather-like cone with yellow crisscross stitching, mustard side tab, silver chain and round split ring. Preserve actual material shapes colours proportions original visible front. Remove hand shop old price only; no invented parts. Website-ready lifestyle photograph full product/assortment in frame on sunlit cream home vanity with softly blurred mirror no hands no wearing no added text.",
+      "sha256": "a0a12f0f6f3ffc125da7c9d7b46b1553f55798b2cbe3403e7c0adf9f2bed04ad",
+      "checked": true,
+      "visual_check": "Passed: complete pink scoop red cone keyring with yellow stitching and silver chain at vanity."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-a8902e30-fa8f-4aa1-b172-e602929b7f19.png",
+      "prompt": "TIGHT MACRO close crop ONLY of actual red cone surface in reference, yellow crisscross stitching, mustard tab and small portion pink fur. Preserve exact source material and colours. Most source out of frame, no full product composition or hidden view, no hand price text.",
+      "sha256": "eb46c8291da2461191c143aa1072b202b616556d619b016bf49fc4394c858e57",
+      "checked": true,
+      "visual_check": "Passed: tight existing red cone yellow stitching mustard tab pink fur macro."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-b7a71b20-8f8a-4eaa-81e6-c259c87752d9.png",
+      "prompt": "Exact ONE icecream-cone pompom keyring with bright pink fluffy fauxfur scoop, red leather-like cone with yellow crisscross stitching, mustard side tab, silver chain and round split ring. Preserve actual material shapes colours proportions original visible front. Remove hand shop old price only; no invented parts. Website-ready promotional layout lavender cream with full product/assortment visible, compact dark plum heading 'Ice Cream Pom-Pom Keyring' and subtitle PRODUCT COLLECTION. Text outside product no price.",
+      "sha256": "f0ec952bc996771c5ee01c040ab927bd3d2dc27b710072b0c31ac7c76c24f585",
+      "checked": true,
+      "visual_check": "Passed: matching complete pink ice cream keyring and accurate readable heading on lavender cream."
+    }
+  ],
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true
+}

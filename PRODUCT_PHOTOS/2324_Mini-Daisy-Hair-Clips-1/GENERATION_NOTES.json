@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260814-WA0039.jpg": "62c531356b3df68d3f64935433cfe6ccebc8de8b2df9b6775aad65a190a1b36a"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-ffa6f7ff-dc87-469e-9666-7faf1ea5e5d1.png",
+      "source_output": "/workspace/generated_images/exec-ffa6f7ff-dc87-469e-9666-7faf1ea5e5d1.png",
+      "sha256": "949533c732529a50c4ad3742238474158b5715fda7641d622068bbc7f21f7d7f",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIX equal512squarepanels3columns2rows x512/1024y512. Top fullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentlifestyle. Bottom standalone tight REALPARTmacro/fullassortmentpromo with accurateheading/blankcream. No spanning panels, every fullassortment fits within own panel. Preserve exact countidentityshapescolours, no unrelatedsubstitutes. Remove all surrounding marketing/sourceprice overlays and shop/hand/backgroundclutter, retain actual product print only. ONE long white Arina branded display card holding EXACTLY TWELVE small WHITE CLAW HAIR CLIPS, each topped with one white FIVE-PETAL PLUMERIA flower with softYELLOWcentre (not daisies despitefoldername). Two columns of SIXclips,12flowers total. Preserve petalshapes/yellowgradients/whiteclaw teeth and source card identity. Lifestyle dressingtable. Macro actual one plumeria flower and whiteclaw hinge/teeth. Heading 'Plumeria Flower Hair Clips'.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-ffa6f7ff-dc87-469e-9666-7faf1ea5e5d1.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIX equal512squarepanels3columns2rows x512/1024y512. Top fullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentlifestyle. Bottom standalone tight REALPARTmacro/fullassortmentpromo with accurateheading/blankcream. No spanning panels, every fullassortment fits within own panel. Preserve exact countidentityshapescolours, no unrelatedsubstitutes. Remove all surrounding marketing/sourceprice overlays and shop/hand/backgroundclutter, retain actual product print only. ONE long white Arina branded display card holding EXACTLY TWELVE small WHITE CLAW HAIR CLIPS, each topped with one white FIVE-PETAL PLUMERIA flower with softYELLOWcentre (not daisies despitefoldername). Two columns of SIXclips,12flowers total. Preserve petalshapes/yellowgradients/whiteclaw teeth and source card identity. Lifestyle dressingtable. Macro actual one plumeria flower and whiteclaw hinge/teeth. Heading 'Plumeria Flower Hair Clips'.",
+      "sha256": "f8f3f690faf1bcbc62970604524e9db431b14740056e2fc8cf6711fc136cc71b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ffa6f7ff-dc87-469e-9666-7faf1ea5e5d1.png",
+      "grid_sha256": "949533c732529a50c4ad3742238474158b5715fda7641d622068bbc7f21f7d7f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crops inspected: long Arina card with twelve white/yellow five-petal plumeria claw clips, two columns six each. Source flower/teeth/hinge identity retained; styled mechanically tightened to exclude two loose decorative flowers, preserving full twelve-clip card. Standalone actual flower-claw detail and accurate heading."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-ffa6f7ff-dc87-469e-9666-7faf1ea5e5d1.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIX equal512squarepanels3columns2rows x512/1024y512. Top fullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentlifestyle. Bottom standalone tight REALPARTmacro/fullassortmentpromo with accurateheading/blankcream. No spanning panels, every fullassortment fits within own panel. Preserve exact countidentityshapescolours, no unrelatedsubstitutes. Remove all surrounding marketing/sourceprice overlays and shop/hand/backgroundclutter, retain actual product print only. ONE long white Arina branded display card holding EXACTLY TWELVE small WHITE CLAW HAIR CLIPS, each topped with one white FIVE-PETAL PLUMERIA flower with softYELLOWcentre (not daisies despitefoldername). Two columns of SIXclips,12flowers total. Preserve petalshapes/yellowgradients/whiteclaw teeth and source card identity. Lifestyle dressingtable. Macro actual one plumeria flower and whiteclaw hinge/teeth. Heading 'Plumeria Flower Hair Clips'.",
+      "sha256": "4f202e6f8e200c67509c7c1736742d591856ea023340263eeb7aeae7de4a3b52",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ffa6f7ff-dc87-469e-9666-7faf1ea5e5d1.png",
+      "grid_sha256": "949533c732529a50c4ad3742238474158b5715fda7641d622068bbc7f21f7d7f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        660,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crops inspected: long Arina card with twelve white/yellow five-petal plumeria claw clips, two columns six each. Source flower/teeth/hinge identity retained; styled mechanically tightened to exclude two loose decorative flowers, preserving full twelve-clip card. Standalone actual flower-claw detail and accurate heading."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-ffa6f7ff-dc87-469e-9666-7faf1ea5e5d1.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIX equal512squarepanels3columns2rows x512/1024y512. Top fullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentlifestyle. Bottom standalone tight REALPARTmacro/fullassortmentpromo with accurateheading/blankcream. No spanning panels, every fullassortment fits within own panel. Preserve exact countidentityshapescolours, no unrelatedsubstitutes. Remove all surrounding marketing/sourceprice overlays and shop/hand/backgroundclutter, retain actual product print only. ONE long white Arina branded display card holding EXACTLY TWELVE small WHITE CLAW HAIR CLIPS, each topped with one white FIVE-PETAL PLUMERIA flower with softYELLOWcentre (not daisies despitefoldername). Two columns of SIXclips,12flowers total. Preserve petalshapes/yellowgradients/whiteclaw teeth and source card identity. Lifestyle dressingtable. Macro actual one plumeria flower and whiteclaw hinge/teeth. Heading 'Plumeria Flower Hair Clips'.",
+      "sha256": "cddc21e3d5b842a04f341eb158e1dcc9791c8a35348b4eda47b7afae3993d14b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ffa6f7ff-dc87-469e-9666-7faf1ea5e5d1.png",
+      "grid_sha256": "949533c732529a50c4ad3742238474158b5715fda7641d622068bbc7f21f7d7f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crops inspected: long Arina card with twelve white/yellow five-petal plumeria claw clips, two columns six each. Source flower/teeth/hinge identity retained; styled mechanically tightened to exclude two loose decorative flowers, preserving full twelve-clip card. Standalone actual flower-claw detail and accurate heading."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-ffa6f7ff-dc87-469e-9666-7faf1ea5e5d1.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIX equal512squarepanels3columns2rows x512/1024y512. Top fullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentlifestyle. Bottom standalone tight REALPARTmacro/fullassortmentpromo with accurateheading/blankcream. No spanning panels, every fullassortment fits within own panel. Preserve exact countidentityshapescolours, no unrelatedsubstitutes. Remove all surrounding marketing/sourceprice overlays and shop/hand/backgroundclutter, retain actual product print only. ONE long white Arina branded display card holding EXACTLY TWELVE small WHITE CLAW HAIR CLIPS, each topped with one white FIVE-PETAL PLUMERIA flower with softYELLOWcentre (not daisies despitefoldername). Two columns of SIXclips,12flowers total. Preserve petalshapes/yellowgradients/whiteclaw teeth and source card identity. Lifestyle dressingtable. Macro actual one plumeria flower and whiteclaw hinge/teeth. Heading 'Plumeria Flower Hair Clips'.",
+      "sha256": "cdd6406043f7ce4561daed56ce0b9c223f364a576f8279f9516f370d805da78a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ffa6f7ff-dc87-469e-9666-7faf1ea5e5d1.png",
+      "grid_sha256": "949533c732529a50c4ad3742238474158b5715fda7641d622068bbc7f21f7d7f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crops inspected: long Arina card with twelve white/yellow five-petal plumeria claw clips, two columns six each. Source flower/teeth/hinge identity retained; styled mechanically tightened to exclude two loose decorative flowers, preserving full twelve-clip card. Standalone actual flower-claw detail and accurate heading."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-ffa6f7ff-dc87-469e-9666-7faf1ea5e5d1.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIX equal512squarepanels3columns2rows x512/1024y512. Top fullassortmentwhite/fullassortmentlavendercreamstyled/fullassortmentlifestyle. Bottom standalone tight REALPARTmacro/fullassortmentpromo with accurateheading/blankcream. No spanning panels, every fullassortment fits within own panel. Preserve exact countidentityshapescolours, no unrelatedsubstitutes. Remove all surrounding marketing/sourceprice overlays and shop/hand/backgroundclutter, retain actual product print only. ONE long white Arina branded display card holding EXACTLY TWELVE small WHITE CLAW HAIR CLIPS, each topped with one white FIVE-PETAL PLUMERIA flower with softYELLOWcentre (not daisies despitefoldername). Two columns of SIXclips,12flowers total. Preserve petalshapes/yellowgradients/whiteclaw teeth and source card identity. Lifestyle dressingtable. Macro actual one plumeria flower and whiteclaw hinge/teeth. Heading 'Plumeria Flower Hair Clips'.",
+      "sha256": "5b966ad5894f698ab2cec3f98252cf8e4474e230faf5856e1ca807d626b9a3a8",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ffa6f7ff-dc87-469e-9666-7faf1ea5e5d1.png",
+      "grid_sha256": "949533c732529a50c4ad3742238474158b5715fda7641d622068bbc7f21f7d7f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crops inspected: long Arina card with twelve white/yellow five-petal plumeria claw clips, two columns six each. Source flower/teeth/hinge identity retained; styled mechanically tightened to exclude two loose decorative flowers, preserving full twelve-clip card. Standalone actual flower-claw detail and accurate heading."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baselines_verified": true
+}

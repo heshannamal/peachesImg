@@ -1,0 +1,51 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250128-WA0337.jpg": "643eee586e9ccaa6de46db8fc0941c4333607da5fb416fa4507e0a202ef2567c"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-766d52e4-41c9-404c-a5f5-e59489f8e8c2.png",
+      "prompt": "Edit reference into premium clean white seamless ecommerce photograph. Whole assortment exactly twelve white retail cards, three columns four rows. Each card holds FOUR tiny wavy claw clips in two-by-two arrangement and THREE dark neutral fabric hair ties below. Row claw colours black, dark brown, ivory cream, taupe grey respectively. Preserve exact48claws36ties, original packaging barcodes and Beautiful label, matte plastic wave forms and fabric texture. Keep exact original front view, count, arrangement, shapes and colours; do not invent backs or extra items. Remove hand, shop setting and old price text overlay. No added text. All actual product visible, soft realistic shadows, sharp material details.",
+      "sha256": "ba6dd8abae91a370048822a1bb2b93112ae5016bdb33af238cce92cfc4cc0698",
+      "checked": true,
+      "visual_review": "12cards arranged3x4,4claws and3ties per card retained, row colours checked."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-c3f3bde5-7940-42b1-a076-7f55758050e8.png",
+      "prompt": "Create ONE clean website product photograph from actual reference. Subject: Entire12white cards in3columns4rows; each4tiny wavy claws plus3neutral ties. Claw rows black,brown,cream,taupe; preserve all48claws36ties and cards. Preserve actual product count, shape, colours and materials. Remove hand, shop, old price overlay and unrelated background products. No invented reverse sides or extra products. Whole assortment fully visible on simple pale lavender and cream studio background.",
+      "sha256": "f747ba117b215a6e2402f21b67c1de3b65f38838259b5269a3629b1dd3940453",
+      "checked": true,
+      "visual_review": "Compared with original; main product count, shape, colours and material retained. Suitable website image."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-8dda1fb3-8e4a-4b83-b179-fdb587ad0801.png",
+      "prompt": "ONE clean website product photo edited from actual reference. Subject: Entire12white cards in3columns4rows; each4tiny wavy claws plus3neutral ties. Claw rows black,brown,cream,taupe; preserve all48claws36ties and cards. Keep actual shapes, colours, materials and visible count. Remove hand, shop and old price overlay. No extra products or invented reverse views. TIGHT MACRO crop of only existing upper black tiny wavy hair claws and visible metal springs. Plastic shapes fill frame; no whole pack or collage.",
+      "sha256": "0af05fd73d10dfbb467458cb33f1745110885d4defc558c62ed8be2fab440748",
+      "checked": true,
+      "visual_review": "Compared with original: visible product shape, colour and material retained; suitable detail or lifestyle view for website."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-44062082-dea7-4b22-bcd2-4a378dc3e35c.png",
+      "prompt": "ONE clean website product photo edited from actual reference. Subject: Entire12white cards in3columns4rows; each4tiny wavy claws plus3neutral ties. Claw rows black,brown,cream,taupe; preserve all48claws36ties and cards. Keep actual shapes, colours, materials and visible count. Remove hand, shop and old price overlay. No extra products or invented reverse views. Whole12card assortment on light wood dressing table with cream cloth outside edges.",
+      "sha256": "a1fd9a9a8a7c2044c893fcd28222e533c6bc192e83baad095ec01ac6d41072f6",
+      "checked": true,
+      "visual_review": "Compared with original: visible product shape, colour and material retained; suitable detail or lifestyle view for website."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-ffa0a344-ec2f-4417-ae66-79b8ea0bfe61.png",
+      "prompt": "Make ONE simple clean website promotional product photo from actual reference. Subject: Entire12white cards in3columns4rows; each4tiny wavy claws plus3neutral ties. Claw rows black,brown,cream,taupe; preserve all48claws36ties and cards. Keep actual product count, shapes, colours and material. Remove hand/shop/old price overlays/unrelated background products. Whole subject centred with margins on pale lavender and cream studio background. Compact dark plum heading 'MINI HAIR CLAW SETS', smaller 'PRODUCT COLLECTION'. No claims, extra items or invented reverse views.",
+      "sha256": "4cf303586049dced5213a3838aa88fae520483d33f26bdc0ff79fded0a9f4dec",
+      "checked": true,
+      "visual_review": "Compared with actual reference: twelve cards, correct claw shapes, row colours and ties retained. Suitable website promotional image."
+    }
+  ],
+  "status": "five images generated and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

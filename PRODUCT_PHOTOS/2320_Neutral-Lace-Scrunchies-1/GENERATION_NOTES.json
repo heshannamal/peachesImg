@@ -1,0 +1,133 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260813-WA0126.jpg": "8b306236eb099839d1d97e25d39f07cec99611b863ada77b3668202559d8f5bb"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-60f4f585-55d4-4234-890f-6785e5aa1bf2.png",
+      "source_output": "/workspace/generated_images/exec-60f4f585-55d4-4234-890f-6785e5aa1bf2.png",
+      "sha256": "d917ab3cfd0304afe9b7b2ea47ad200b2995f3539fb63ff261a5dc001ba1d582",
+      "prompt": "Edit attached actual original into ONE1536x1024 website image EXACT3columns x2rows512squarecells no borders/gutters. ONE dense bundled assortment of24 narrow ruffled fabric scrunchies in black, dark chocolate brown, khaki/taupe, beige and cream. Actual small heart-outline flat charms in contrasting pale edging attached on some scrunchies, preserve exactly visible hearts and ruffled ribbed fabric texture. No lace: folder name wrong. Retain original bundle and all visible loops, original neutral colours and small heart charm shapes without inventing new items. Heading: Neutral Heart Scrunchies. Whole assortment is ONE product; keep actual count/identity/shapes/colours. Top left entire bundle on pure white; top middle entire bundle lavender/cream styled; top right entire bundle simple vanity tabletop lifestyle with no extra hair products; bottom left standalone TIGHT real-part macro of actual elastic fabric/attached charm or bead, not whole bundle; bottom middle full bundle only accurate heading above, no count claim/prices/material claims; bottom right blank cream. Remove hand, shop, original grey background and price overlay. Photorealistic website-ready, no object crossing cell edges, no unrelated substitutions.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-60f4f585-55d4-4234-890f-6785e5aa1bf2.png",
+      "prompt": "Edit attached actual original into ONE1536x1024 website image EXACT3columns x2rows512squarecells no borders/gutters. ONE dense bundled assortment of24 narrow ruffled fabric scrunchies in black, dark chocolate brown, khaki/taupe, beige and cream. Actual small heart-outline flat charms in contrasting pale edging attached on some scrunchies, preserve exactly visible hearts and ruffled ribbed fabric texture. No lace: folder name wrong. Retain original bundle and all visible loops, original neutral colours and small heart charm shapes without inventing new items. Heading: Neutral Heart Scrunchies. Whole assortment is ONE product; keep actual count/identity/shapes/colours. Top left entire bundle on pure white; top middle entire bundle lavender/cream styled; top right entire bundle simple vanity tabletop lifestyle with no extra hair products; bottom left standalone TIGHT real-part macro of actual elastic fabric/attached charm or bead, not whole bundle; bottom middle full bundle only accurate heading above, no count claim/prices/material claims; bottom right blank cream. Remove hand, shop, original grey background and price overlay. Photorealistic website-ready, no object crossing cell edges, no unrelated substitutions.",
+      "sha256": "4af4760b54501690a9599b0769ee98b542f5319bfffd34836e62df022ced3ca5",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-60f4f585-55d4-4234-890f-6785e5aa1bf2.png",
+      "grid_sha256": "d917ab3cfd0304afe9b7b2ea47ad200b2995f3539fb63ff261a5dc001ba1d582",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved five crops inspected against original: intact dense bundle of black/brown/taupe/beige/cream ruffled scrunchies with original outlined heart charms retained, not lace. Individual hidden scrunchie count obscured in original, visible loops and hearts match without material additions observed. White/lavendercream/vanity, tight real ribbed fabric/heart macro and accurate heading passed. Exact512cell boxes and frozen original/output SHA verified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-60f4f585-55d4-4234-890f-6785e5aa1bf2.png",
+      "prompt": "Edit attached actual original into ONE1536x1024 website image EXACT3columns x2rows512squarecells no borders/gutters. ONE dense bundled assortment of24 narrow ruffled fabric scrunchies in black, dark chocolate brown, khaki/taupe, beige and cream. Actual small heart-outline flat charms in contrasting pale edging attached on some scrunchies, preserve exactly visible hearts and ruffled ribbed fabric texture. No lace: folder name wrong. Retain original bundle and all visible loops, original neutral colours and small heart charm shapes without inventing new items. Heading: Neutral Heart Scrunchies. Whole assortment is ONE product; keep actual count/identity/shapes/colours. Top left entire bundle on pure white; top middle entire bundle lavender/cream styled; top right entire bundle simple vanity tabletop lifestyle with no extra hair products; bottom left standalone TIGHT real-part macro of actual elastic fabric/attached charm or bead, not whole bundle; bottom middle full bundle only accurate heading above, no count claim/prices/material claims; bottom right blank cream. Remove hand, shop, original grey background and price overlay. Photorealistic website-ready, no object crossing cell edges, no unrelated substitutions.",
+      "sha256": "c379969a92d2be47e3f74f9cf129a234aac8fb6c26c15d76fd3abcbfa14a50b4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-60f4f585-55d4-4234-890f-6785e5aa1bf2.png",
+      "grid_sha256": "d917ab3cfd0304afe9b7b2ea47ad200b2995f3539fb63ff261a5dc001ba1d582",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved five crops inspected against original: intact dense bundle of black/brown/taupe/beige/cream ruffled scrunchies with original outlined heart charms retained, not lace. Individual hidden scrunchie count obscured in original, visible loops and hearts match without material additions observed. White/lavendercream/vanity, tight real ribbed fabric/heart macro and accurate heading passed. Exact512cell boxes and frozen original/output SHA verified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-60f4f585-55d4-4234-890f-6785e5aa1bf2.png",
+      "prompt": "Edit attached actual original into ONE1536x1024 website image EXACT3columns x2rows512squarecells no borders/gutters. ONE dense bundled assortment of24 narrow ruffled fabric scrunchies in black, dark chocolate brown, khaki/taupe, beige and cream. Actual small heart-outline flat charms in contrasting pale edging attached on some scrunchies, preserve exactly visible hearts and ruffled ribbed fabric texture. No lace: folder name wrong. Retain original bundle and all visible loops, original neutral colours and small heart charm shapes without inventing new items. Heading: Neutral Heart Scrunchies. Whole assortment is ONE product; keep actual count/identity/shapes/colours. Top left entire bundle on pure white; top middle entire bundle lavender/cream styled; top right entire bundle simple vanity tabletop lifestyle with no extra hair products; bottom left standalone TIGHT real-part macro of actual elastic fabric/attached charm or bead, not whole bundle; bottom middle full bundle only accurate heading above, no count claim/prices/material claims; bottom right blank cream. Remove hand, shop, original grey background and price overlay. Photorealistic website-ready, no object crossing cell edges, no unrelated substitutions.",
+      "sha256": "c33c80c10ded3752a84f47e5197ba2502a4b36ef12d0165cb23ba8f145ecd060",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-60f4f585-55d4-4234-890f-6785e5aa1bf2.png",
+      "grid_sha256": "d917ab3cfd0304afe9b7b2ea47ad200b2995f3539fb63ff261a5dc001ba1d582",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved five crops inspected against original: intact dense bundle of black/brown/taupe/beige/cream ruffled scrunchies with original outlined heart charms retained, not lace. Individual hidden scrunchie count obscured in original, visible loops and hearts match without material additions observed. White/lavendercream/vanity, tight real ribbed fabric/heart macro and accurate heading passed. Exact512cell boxes and frozen original/output SHA verified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-60f4f585-55d4-4234-890f-6785e5aa1bf2.png",
+      "prompt": "Edit attached actual original into ONE1536x1024 website image EXACT3columns x2rows512squarecells no borders/gutters. ONE dense bundled assortment of24 narrow ruffled fabric scrunchies in black, dark chocolate brown, khaki/taupe, beige and cream. Actual small heart-outline flat charms in contrasting pale edging attached on some scrunchies, preserve exactly visible hearts and ruffled ribbed fabric texture. No lace: folder name wrong. Retain original bundle and all visible loops, original neutral colours and small heart charm shapes without inventing new items. Heading: Neutral Heart Scrunchies. Whole assortment is ONE product; keep actual count/identity/shapes/colours. Top left entire bundle on pure white; top middle entire bundle lavender/cream styled; top right entire bundle simple vanity tabletop lifestyle with no extra hair products; bottom left standalone TIGHT real-part macro of actual elastic fabric/attached charm or bead, not whole bundle; bottom middle full bundle only accurate heading above, no count claim/prices/material claims; bottom right blank cream. Remove hand, shop, original grey background and price overlay. Photorealistic website-ready, no object crossing cell edges, no unrelated substitutions.",
+      "sha256": "35d5a29acefd1a7a69229393b59970e0604a7884981b7c55c5ae13130f6377ff",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-60f4f585-55d4-4234-890f-6785e5aa1bf2.png",
+      "grid_sha256": "d917ab3cfd0304afe9b7b2ea47ad200b2995f3539fb63ff261a5dc001ba1d582",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved five crops inspected against original: intact dense bundle of black/brown/taupe/beige/cream ruffled scrunchies with original outlined heart charms retained, not lace. Individual hidden scrunchie count obscured in original, visible loops and hearts match without material additions observed. White/lavendercream/vanity, tight real ribbed fabric/heart macro and accurate heading passed. Exact512cell boxes and frozen original/output SHA verified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-60f4f585-55d4-4234-890f-6785e5aa1bf2.png",
+      "prompt": "Edit attached actual original into ONE1536x1024 website image EXACT3columns x2rows512squarecells no borders/gutters. ONE dense bundled assortment of24 narrow ruffled fabric scrunchies in black, dark chocolate brown, khaki/taupe, beige and cream. Actual small heart-outline flat charms in contrasting pale edging attached on some scrunchies, preserve exactly visible hearts and ruffled ribbed fabric texture. No lace: folder name wrong. Retain original bundle and all visible loops, original neutral colours and small heart charm shapes without inventing new items. Heading: Neutral Heart Scrunchies. Whole assortment is ONE product; keep actual count/identity/shapes/colours. Top left entire bundle on pure white; top middle entire bundle lavender/cream styled; top right entire bundle simple vanity tabletop lifestyle with no extra hair products; bottom left standalone TIGHT real-part macro of actual elastic fabric/attached charm or bead, not whole bundle; bottom middle full bundle only accurate heading above, no count claim/prices/material claims; bottom right blank cream. Remove hand, shop, original grey background and price overlay. Photorealistic website-ready, no object crossing cell edges, no unrelated substitutions.",
+      "sha256": "7f14eccc6e69ad217a56c65cfcb9210ce65c14898d82b77bb58aa71d28d72f08",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-60f4f585-55d4-4234-890f-6785e5aa1bf2.png",
+      "grid_sha256": "d917ab3cfd0304afe9b7b2ea47ad200b2995f3539fb63ff261a5dc001ba1d582",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved five crops inspected against original: intact dense bundle of black/brown/taupe/beige/cream ruffled scrunchies with original outlined heart charms retained, not lace. Individual hidden scrunchie count obscured in original, visible loops and hearts match without material additions observed. White/lavendercream/vanity, tight real ribbed fabric/heart macro and accurate heading passed. Exact512cell boxes and frozen original/output SHA verified."
+    },
+    {
+      "kind": "exact_prompt_file",
+      "saved_file": "Generation_Prompts/initial.txt",
+      "sha256": "22045684af288c19d6a2917bb517678fd67c3252a26342a4f45b075d274f00d4",
+      "checked": false
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

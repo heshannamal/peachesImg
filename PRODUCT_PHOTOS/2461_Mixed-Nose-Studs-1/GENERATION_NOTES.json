@@ -1,0 +1,126 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260922-WA0142.jpg": "732d0bddfe5d2ddd088de5eece0cb8b4e50e6b66c440c2051176fc645aa3fa60"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-9dfb6f33-ed99-49ce-8512-adede9bec82d.png",
+      "source_output": "/workspace/generated_images/exec-9dfb6f33-ed99-49ce-8512-adede9bec82d.png",
+      "sha256": "b0b3ebba858ad1f94bfde20a3f37d8b2c42cf7b62e2adf987846f387b0c92c59",
+      "prompt": "Native faithful edit of supplied actual product photo into ONE website-ready landscape1536x1024 borderless3columns2rows equal512squarecells; exactsplits x512,x1024,y512. Preserve original whole assortment count,identity,shapes,colours. Remove hand,shop,floatingprice overlays only. Toprow WHITE fullassortment, lavender/creamstyled fullassortment,naturaldesktoplifestyle fullassortment. Bottomrow standalone TIGHTREALPARTmacro only,promotional fullassortment with accurateheading,blankcreamunused. No unrelated stocksubstitutes,missing or extraunits. Actual assortment ONE clearrectangular nose-stud retailcase withWHITEfoam insert, blueprinted316L SURGICALSTEELNOSESTUDheader/facephoto, EXACTLYFORTY gold-toneSTAR-shapedtinygemstuds in8ROWS x5COLUMNS. Preserve actualgoldstarprongsettings and variedblue/turquoise/pink/clear/palegemcolours/positions; keep40stars,notroundsettings. Everyfullcell showsONEentirecasewithall40starscountableandoriginalheader. Detail tightrealgoldstarsetting/bluegempart,do notinventstudposts. Heading 'Star Gem Nose Studs'.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-9dfb6f33-ed99-49ce-8512-adede9bec82d.png",
+      "prompt": "Native faithful edit of supplied actual product photo into ONE website-ready landscape1536x1024 borderless3columns2rows equal512squarecells; exactsplits x512,x1024,y512. Preserve original whole assortment count,identity,shapes,colours. Remove hand,shop,floatingprice overlays only. Toprow WHITE fullassortment, lavender/creamstyled fullassortment,naturaldesktoplifestyle fullassortment. Bottomrow standalone TIGHTREALPARTmacro only,promotional fullassortment with accurateheading,blankcreamunused. No unrelated stocksubstitutes,missing or extraunits. Actual assortment ONE clearrectangular nose-stud retailcase withWHITEfoam insert, blueprinted316L SURGICALSTEELNOSESTUDheader/facephoto, EXACTLYFORTY gold-toneSTAR-shapedtinygemstuds in8ROWS x5COLUMNS. Preserve actualgoldstarprongsettings and variedblue/turquoise/pink/clear/palegemcolours/positions; keep40stars,notroundsettings. Everyfullcell showsONEentirecasewithall40starscountableandoriginalheader. Detail tightrealgoldstarsetting/bluegempart,do notinventstudposts. Heading 'Star Gem Nose Studs'.\n",
+      "sha256": "ddbbb79b154f25ab96f4de5275935ed34154c26587a332af496281cfacfb69fc",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9dfb6f33-ed99-49ce-8512-adede9bec82d.png",
+      "grid_sha256": "b0b3ebba858ad1f94bfde20a3f37d8b2c42cf7b62e2adf987846f387b0c92c59",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Pass: fourfullviewsshowONEcasewith40star-gemstuds8rows5,originalblueheader/goldstarsettings/variedgemcolours retained. Tightrealbluestarsettingmacro;promomaincase40plusclearlystyleddetailinsetandaccurateheading/specsfromoriginal. Clean512crops;frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-9dfb6f33-ed99-49ce-8512-adede9bec82d.png",
+      "prompt": "Native faithful edit of supplied actual product photo into ONE website-ready landscape1536x1024 borderless3columns2rows equal512squarecells; exactsplits x512,x1024,y512. Preserve original whole assortment count,identity,shapes,colours. Remove hand,shop,floatingprice overlays only. Toprow WHITE fullassortment, lavender/creamstyled fullassortment,naturaldesktoplifestyle fullassortment. Bottomrow standalone TIGHTREALPARTmacro only,promotional fullassortment with accurateheading,blankcreamunused. No unrelated stocksubstitutes,missing or extraunits. Actual assortment ONE clearrectangular nose-stud retailcase withWHITEfoam insert, blueprinted316L SURGICALSTEELNOSESTUDheader/facephoto, EXACTLYFORTY gold-toneSTAR-shapedtinygemstuds in8ROWS x5COLUMNS. Preserve actualgoldstarprongsettings and variedblue/turquoise/pink/clear/palegemcolours/positions; keep40stars,notroundsettings. Everyfullcell showsONEentirecasewithall40starscountableandoriginalheader. Detail tightrealgoldstarsetting/bluegempart,do notinventstudposts. Heading 'Star Gem Nose Studs'.\n",
+      "sha256": "8d85040f6446f0aa7140db35128e18236e29df5112cee7c73578216cfcbbee0a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9dfb6f33-ed99-49ce-8512-adede9bec82d.png",
+      "grid_sha256": "b0b3ebba858ad1f94bfde20a3f37d8b2c42cf7b62e2adf987846f387b0c92c59",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Pass: fourfullviewsshowONEcasewith40star-gemstuds8rows5,originalblueheader/goldstarsettings/variedgemcolours retained. Tightrealbluestarsettingmacro;promomaincase40plusclearlystyleddetailinsetandaccurateheading/specsfromoriginal. Clean512crops;frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-9dfb6f33-ed99-49ce-8512-adede9bec82d.png",
+      "prompt": "Native faithful edit of supplied actual product photo into ONE website-ready landscape1536x1024 borderless3columns2rows equal512squarecells; exactsplits x512,x1024,y512. Preserve original whole assortment count,identity,shapes,colours. Remove hand,shop,floatingprice overlays only. Toprow WHITE fullassortment, lavender/creamstyled fullassortment,naturaldesktoplifestyle fullassortment. Bottomrow standalone TIGHTREALPARTmacro only,promotional fullassortment with accurateheading,blankcreamunused. No unrelated stocksubstitutes,missing or extraunits. Actual assortment ONE clearrectangular nose-stud retailcase withWHITEfoam insert, blueprinted316L SURGICALSTEELNOSESTUDheader/facephoto, EXACTLYFORTY gold-toneSTAR-shapedtinygemstuds in8ROWS x5COLUMNS. Preserve actualgoldstarprongsettings and variedblue/turquoise/pink/clear/palegemcolours/positions; keep40stars,notroundsettings. Everyfullcell showsONEentirecasewithall40starscountableandoriginalheader. Detail tightrealgoldstarsetting/bluegempart,do notinventstudposts. Heading 'Star Gem Nose Studs'.\n",
+      "sha256": "51e0698378d44a62f476a020697e77880d826f12429a7a2d9e48ca4261147dca",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9dfb6f33-ed99-49ce-8512-adede9bec82d.png",
+      "grid_sha256": "b0b3ebba858ad1f94bfde20a3f37d8b2c42cf7b62e2adf987846f387b0c92c59",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Pass: fourfullviewsshowONEcasewith40star-gemstuds8rows5,originalblueheader/goldstarsettings/variedgemcolours retained. Tightrealbluestarsettingmacro;promomaincase40plusclearlystyleddetailinsetandaccurateheading/specsfromoriginal. Clean512crops;frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-9dfb6f33-ed99-49ce-8512-adede9bec82d.png",
+      "prompt": "Native faithful edit of supplied actual product photo into ONE website-ready landscape1536x1024 borderless3columns2rows equal512squarecells; exactsplits x512,x1024,y512. Preserve original whole assortment count,identity,shapes,colours. Remove hand,shop,floatingprice overlays only. Toprow WHITE fullassortment, lavender/creamstyled fullassortment,naturaldesktoplifestyle fullassortment. Bottomrow standalone TIGHTREALPARTmacro only,promotional fullassortment with accurateheading,blankcreamunused. No unrelated stocksubstitutes,missing or extraunits. Actual assortment ONE clearrectangular nose-stud retailcase withWHITEfoam insert, blueprinted316L SURGICALSTEELNOSESTUDheader/facephoto, EXACTLYFORTY gold-toneSTAR-shapedtinygemstuds in8ROWS x5COLUMNS. Preserve actualgoldstarprongsettings and variedblue/turquoise/pink/clear/palegemcolours/positions; keep40stars,notroundsettings. Everyfullcell showsONEentirecasewithall40starscountableandoriginalheader. Detail tightrealgoldstarsetting/bluegempart,do notinventstudposts. Heading 'Star Gem Nose Studs'.\n",
+      "sha256": "914f9552b08fd4860305fbca67a3e1f7021a70daafcc6ca9b1b6e1130ce79992",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9dfb6f33-ed99-49ce-8512-adede9bec82d.png",
+      "grid_sha256": "b0b3ebba858ad1f94bfde20a3f37d8b2c42cf7b62e2adf987846f387b0c92c59",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Pass: fourfullviewsshowONEcasewith40star-gemstuds8rows5,originalblueheader/goldstarsettings/variedgemcolours retained. Tightrealbluestarsettingmacro;promomaincase40plusclearlystyleddetailinsetandaccurateheading/specsfromoriginal. Clean512crops;frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-9dfb6f33-ed99-49ce-8512-adede9bec82d.png",
+      "prompt": "Native faithful edit of supplied actual product photo into ONE website-ready landscape1536x1024 borderless3columns2rows equal512squarecells; exactsplits x512,x1024,y512. Preserve original whole assortment count,identity,shapes,colours. Remove hand,shop,floatingprice overlays only. Toprow WHITE fullassortment, lavender/creamstyled fullassortment,naturaldesktoplifestyle fullassortment. Bottomrow standalone TIGHTREALPARTmacro only,promotional fullassortment with accurateheading,blankcreamunused. No unrelated stocksubstitutes,missing or extraunits. Actual assortment ONE clearrectangular nose-stud retailcase withWHITEfoam insert, blueprinted316L SURGICALSTEELNOSESTUDheader/facephoto, EXACTLYFORTY gold-toneSTAR-shapedtinygemstuds in8ROWS x5COLUMNS. Preserve actualgoldstarprongsettings and variedblue/turquoise/pink/clear/palegemcolours/positions; keep40stars,notroundsettings. Everyfullcell showsONEentirecasewithall40starscountableandoriginalheader. Detail tightrealgoldstarsetting/bluegempart,do notinventstudposts. Heading 'Star Gem Nose Studs'.\n",
+      "sha256": "a2b8c640dffa20d46a1911ee932449c1a752df3476884c8e27407a70eb96bb76",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9dfb6f33-ed99-49ce-8512-adede9bec82d.png",
+      "grid_sha256": "b0b3ebba858ad1f94bfde20a3f37d8b2c42cf7b62e2adf987846f387b0c92c59",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Pass: fourfullviewsshowONEcasewith40star-gemstuds8rows5,originalblueheader/goldstarsettings/variedgemcolours retained. Tightrealbluestarsettingmacro;promomaincase40plusclearlystyleddetailinsetandaccurateheading/specsfromoriginal. Clean512crops;frozenoriginal/outputSHAverified."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

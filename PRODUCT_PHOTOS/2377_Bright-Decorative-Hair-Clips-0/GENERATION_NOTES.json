@@ -1,0 +1,160 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260907-WA0173.jpg": "dc045537f6299295eea1d008a8c39c3b89376978fddc1fd1850e8a2709e39614"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-5abd34e8-6c3d-49a6-920e-ceaa03a5a733.png",
+      "source_output": "/workspace/generated_images/exec-5abd34e8-6c3d-49a6-920e-ceaa03a5a733.png",
+      "sha256": "8dbe85bbfa46c4427145dff3787be9bc1cc3a1fc7ec2bfcb1ba5a15f3ae8892b",
+      "prompt": "Native edit referenced actualsource into1536x1024grid 3columns2rows512cells. Top:WHITEbackground;lavendercreamstyled;lifestylehairaccessoryvanity. Bottom:TIGHTstandalone realpartmacro ofONEdecorativemotif andgoldbarattachment;promotional withheading \"Butterfly Hair Clip Assortment\";blankcream. Source SIXwhitecards each TWO horizontal elongatedgoldtonehairbarrettes, totalTWELVEhairclips. Everyfullview01/02/03/05 showALLSIXwholecards+ALL12clips arranged2columns3rows. Preserveactualdecorativemotifshapes/colours/countperbar asreference; not singlemotifindividualclips. Eachbar adornedrowofsmallbutterflies. Sixcardpalette sourcetoptobottom: palevioletpink,smokyblack,pink,green/rainbow,bluegreen,smokyblack. Preservebutterflywing details,goldbarbase. Removehand/store/plasticglare/pricebanner. WholeassortmentONEproduct, preserve12barrettes not12cards. Lifestyleall6cardslaidoutonvanity, no hairwearsingleclip substitute. Promoaccurateheadingandallsixcards. Tightmacro notwholeassortment. Websitequality.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-5abd34e8-6c3d-49a6-920e-ceaa03a5a733.png",
+      "prompt": "Native edit referenced actualsource into1536x1024grid 3columns2rows512cells. Top:WHITEbackground;lavendercreamstyled;lifestylehairaccessoryvanity. Bottom:TIGHTstandalone realpartmacro ofONEdecorativemotif andgoldbarattachment;promotional withheading \"Butterfly Hair Clip Assortment\";blankcream. Source SIXwhitecards each TWO horizontal elongatedgoldtonehairbarrettes, totalTWELVEhairclips. Everyfullview01/02/03/05 showALLSIXwholecards+ALL12clips arranged2columns3rows. Preserveactualdecorativemotifshapes/colours/countperbar asreference; not singlemotifindividualclips. Eachbar adornedrowofsmallbutterflies. Sixcardpalette sourcetoptobottom: palevioletpink,smokyblack,pink,green/rainbow,bluegreen,smokyblack. Preservebutterflywing details,goldbarbase. Removehand/store/plasticglare/pricebanner. WholeassortmentONEproduct, preserve12barrettes not12cards. Lifestyleall6cardslaidoutonvanity, no hairwearsingleclip substitute. Promoaccurateheadingandallsixcards. Tightmacro notwholeassortment. Websitequality.",
+      "sha256": "64dba52d754dc8fbbb8675a81832045bad30da2d20ee754e0619260ba05439da",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5abd34e8-6c3d-49a6-920e-ceaa03a5a733.png",
+      "grid_sha256": "8dbe85bbfa46c4427145dff3787be9bc1cc3a1fc7ec2bfcb1ba5a15f3ae8892b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Sixcards eachtwofourmotifbarrettes,12clips actualcolours/forms; correctedtruecellmapping forwhite/styled/lifestyle, standalone mechanicaltightactualmotifmacro."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-5abd34e8-6c3d-49a6-920e-ceaa03a5a733.png",
+      "prompt": "Native edit referenced actualsource into1536x1024grid 3columns2rows512cells. Top:WHITEbackground;lavendercreamstyled;lifestylehairaccessoryvanity. Bottom:TIGHTstandalone realpartmacro ofONEdecorativemotif andgoldbarattachment;promotional withheading \"Butterfly Hair Clip Assortment\";blankcream. Source SIXwhitecards each TWO horizontal elongatedgoldtonehairbarrettes, totalTWELVEhairclips. Everyfullview01/02/03/05 showALLSIXwholecards+ALL12clips arranged2columns3rows. Preserveactualdecorativemotifshapes/colours/countperbar asreference; not singlemotifindividualclips. Eachbar adornedrowofsmallbutterflies. Sixcardpalette sourcetoptobottom: palevioletpink,smokyblack,pink,green/rainbow,bluegreen,smokyblack. Preservebutterflywing details,goldbarbase. Removehand/store/plasticglare/pricebanner. WholeassortmentONEproduct, preserve12barrettes not12cards. Lifestyleall6cardslaidoutonvanity, no hairwearsingleclip substitute. Promoaccurateheadingandallsixcards. Tightmacro notwholeassortment. Websitequality.",
+      "sha256": "525ab69a5f7265d489d43a5eaab718cdaf587955bcdec36a64cd45a27b695060",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5abd34e8-6c3d-49a6-920e-ceaa03a5a733.png",
+      "grid_sha256": "8dbe85bbfa46c4427145dff3787be9bc1cc3a1fc7ec2bfcb1ba5a15f3ae8892b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Sixcards eachtwofourmotifbarrettes,12clips actualcolours/forms; correctedtruecellmapping forwhite/styled/lifestyle, standalone mechanicaltightactualmotifmacro."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-5abd34e8-6c3d-49a6-920e-ceaa03a5a733.png",
+      "prompt": "Native edit referenced actualsource into1536x1024grid 3columns2rows512cells. Top:WHITEbackground;lavendercreamstyled;lifestylehairaccessoryvanity. Bottom:TIGHTstandalone realpartmacro ofONEdecorativemotif andgoldbarattachment;promotional withheading \"Butterfly Hair Clip Assortment\";blankcream. Source SIXwhitecards each TWO horizontal elongatedgoldtonehairbarrettes, totalTWELVEhairclips. Everyfullview01/02/03/05 showALLSIXwholecards+ALL12clips arranged2columns3rows. Preserveactualdecorativemotifshapes/colours/countperbar asreference; not singlemotifindividualclips. Eachbar adornedrowofsmallbutterflies. Sixcardpalette sourcetoptobottom: palevioletpink,smokyblack,pink,green/rainbow,bluegreen,smokyblack. Preservebutterflywing details,goldbarbase. Removehand/store/plasticglare/pricebanner. WholeassortmentONEproduct, preserve12barrettes not12cards. Lifestyleall6cardslaidoutonvanity, no hairwearsingleclip substitute. Promoaccurateheadingandallsixcards. Tightmacro notwholeassortment. Websitequality.",
+      "sha256": "003c219ba39ebe1e284d6151f94591a2db6ee5e7e77567e0b1792569c6a5e075",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5abd34e8-6c3d-49a6-920e-ceaa03a5a733.png",
+      "grid_sha256": "8dbe85bbfa46c4427145dff3787be9bc1cc3a1fc7ec2bfcb1ba5a15f3ae8892b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Sixcards eachtwofourmotifbarrettes,12clips actualcolours/forms; correctedtruecellmapping forwhite/styled/lifestyle, standalone mechanicaltightactualmotifmacro."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-5abd34e8-6c3d-49a6-920e-ceaa03a5a733.png",
+      "prompt": "Native edit referenced actualsource into1536x1024grid 3columns2rows512cells. Top:WHITEbackground;lavendercreamstyled;lifestylehairaccessoryvanity. Bottom:TIGHTstandalone realpartmacro ofONEdecorativemotif andgoldbarattachment;promotional withheading \"Butterfly Hair Clip Assortment\";blankcream. Source SIXwhitecards each TWO horizontal elongatedgoldtonehairbarrettes, totalTWELVEhairclips. Everyfullview01/02/03/05 showALLSIXwholecards+ALL12clips arranged2columns3rows. Preserveactualdecorativemotifshapes/colours/countperbar asreference; not singlemotifindividualclips. Eachbar adornedrowofsmallbutterflies. Sixcardpalette sourcetoptobottom: palevioletpink,smokyblack,pink,green/rainbow,bluegreen,smokyblack. Preservebutterflywing details,goldbarbase. Removehand/store/plasticglare/pricebanner. WholeassortmentONEproduct, preserve12barrettes not12cards. Lifestyleall6cardslaidoutonvanity, no hairwearsingleclip substitute. Promoaccurateheadingandallsixcards. Tightmacro notwholeassortment. Websitequality.",
+      "sha256": "20d5482c2cb0475fc87d6f3622540012fe4c3fd81ef4495692e071ec11927b21",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5abd34e8-6c3d-49a6-920e-ceaa03a5a733.png",
+      "grid_sha256": "8dbe85bbfa46c4427145dff3787be9bc1cc3a1fc7ec2bfcb1ba5a15f3ae8892b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        58,
+        570,
+        110,
+        625
+      ],
+      "visual_review": "Sixcards eachtwofourmotifbarrettes,12clips actualcolours/forms; correctedtruecellmapping forwhite/styled/lifestyle, standalone mechanicaltightactualmotifmacro."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-5abd34e8-6c3d-49a6-920e-ceaa03a5a733.png",
+      "prompt": "Native edit referenced actualsource into1536x1024grid 3columns2rows512cells. Top:WHITEbackground;lavendercreamstyled;lifestylehairaccessoryvanity. Bottom:TIGHTstandalone realpartmacro ofONEdecorativemotif andgoldbarattachment;promotional withheading \"Butterfly Hair Clip Assortment\";blankcream. Source SIXwhitecards each TWO horizontal elongatedgoldtonehairbarrettes, totalTWELVEhairclips. Everyfullview01/02/03/05 showALLSIXwholecards+ALL12clips arranged2columns3rows. Preserveactualdecorativemotifshapes/colours/countperbar asreference; not singlemotifindividualclips. Eachbar adornedrowofsmallbutterflies. Sixcardpalette sourcetoptobottom: palevioletpink,smokyblack,pink,green/rainbow,bluegreen,smokyblack. Preservebutterflywing details,goldbarbase. Removehand/store/plasticglare/pricebanner. WholeassortmentONEproduct, preserve12barrettes not12cards. Lifestyleall6cardslaidoutonvanity, no hairwearsingleclip substitute. Promoaccurateheadingandallsixcards. Tightmacro notwholeassortment. Websitequality.",
+      "sha256": "8aaf4c3e1430224952ee93a2d6a6afcbec954a019f2cc746525611b257749b2b",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5abd34e8-6c3d-49a6-920e-ceaa03a5a733.png",
+      "grid_sha256": "8dbe85bbfa46c4427145dff3787be9bc1cc3a1fc7ec2bfcb1ba5a15f3ae8892b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Promo lacks wholeassortment; onecorrective."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-c3da5784-2320-42f7-a053-a26dd07c952b.png",
+      "source_output": "/workspace/generated_images/exec-c3da5784-2320-42f7-a053-a26dd07c952b.png",
+      "sha256": "b136f693592baf8102db79b821a1bedcbb2d77691e55d3636a6a658315d6091f",
+      "prompt": "Native edit referenced actualsource into1536x1024grid 3columns2rows512cells. Top:WHITEbackground;lavendercreamstyled;lifestylehairaccessoryvanity. Bottom:TIGHTstandalone realpartmacro ofONEdecorativemotif andgoldbarattachment;promotional withheading \"Butterfly Hair Clip Assortment\";blankcream. Source SIXwhitecards each TWO horizontal elongatedgoldtonehairbarrettes, totalTWELVEhairclips. Everyfullview01/02/03/05 showALLSIXwholecards+ALL12clips arranged2columns3rows. Preserveactualdecorativemotifshapes/colours/countperbar asreference; not singlemotifindividualclips. Eachbar adornedrowofsmallbutterflies. Sixcardpalette sourcetoptobottom: palevioletpink,smokyblack,pink,green/rainbow,bluegreen,smokyblack. Preservebutterflywing details,goldbarbase. Removehand/store/plasticglare/pricebanner. WholeassortmentONEproduct, preserve12barrettes not12cards. Lifestyleall6cardslaidoutonvanity, no hairwearsingleclip substitute. Promoaccurateheadingandallsixcards. Tightmacro notwholeassortment. Websitequality. CRITICAL bottommiddlePROMO mustcontainALLSIXcards12clips PLUSsmallaccurateheading. Notonebarrette/nottextonly. Allotherexistingvalidcropspreserved. Nativegrid same3x2boundaries x512/1024 y512. Focuspromocompleteassortment6cards.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-c3da5784-2320-42f7-a053-a26dd07c952b.png",
+      "prompt": "Native edit referenced actualsource into1536x1024grid 3columns2rows512cells. Top:WHITEbackground;lavendercreamstyled;lifestylehairaccessoryvanity. Bottom:TIGHTstandalone realpartmacro ofONEdecorativemotif andgoldbarattachment;promotional withheading \"Butterfly Hair Clip Assortment\";blankcream. Source SIXwhitecards each TWO horizontal elongatedgoldtonehairbarrettes, totalTWELVEhairclips. Everyfullview01/02/03/05 showALLSIXwholecards+ALL12clips arranged2columns3rows. Preserveactualdecorativemotifshapes/colours/countperbar asreference; not singlemotifindividualclips. Eachbar adornedrowofsmallbutterflies. Sixcardpalette sourcetoptobottom: palevioletpink,smokyblack,pink,green/rainbow,bluegreen,smokyblack. Preservebutterflywing details,goldbarbase. Removehand/store/plasticglare/pricebanner. WholeassortmentONEproduct, preserve12barrettes not12cards. Lifestyleall6cardslaidoutonvanity, no hairwearsingleclip substitute. Promoaccurateheadingandallsixcards. Tightmacro notwholeassortment. Websitequality. CRITICAL bottommiddlePROMO mustcontainALLSIXcards12clips PLUSsmallaccurateheading. Notonebarrette/nottextonly. Allotherexistingvalidcropspreserved. Nativegrid same3x2boundaries x512/1024 y512. Focuspromocompleteassortment6cards.",
+      "sha256": "fea5017d12f377af854ea175dfa33e303db448900d55b275fe2ccafc2b6f67eb",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c3da5784-2320-42f7-a053-a26dd07c952b.png",
+      "grid_sha256": "b136f693592baf8102db79b821a1bedcbb2d77691e55d3636a6a658315d6091f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Corrective shows SIXcards12bars but THREEbutterflies/bar insteadactualFOUR; unchecked, corrective spent."
+    }
+  ],
+  "status": "partial_corrective_spent_count_error",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "05_Promotional.png": 1
+  },
+  "originals_verified_against_frozen_plan": true
+}

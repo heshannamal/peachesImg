@@ -1,0 +1,236 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260918-WA0095.jpg": "42c74756c81efca97665a3691e9ac73c599c6046df7fea3b585a1eb25673f893"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-0e53b297-752b-453a-9dcb-c57571b2e424.png",
+      "source_output": "/workspace/generated_images/exec-0e53b297-752b-453a-9dcb-c57571b2e424.png",
+      "sha256": "658e20c6574bbef29c9e36964698239ccf48d0feffd7abe0235eb8d0d867bcae",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Floral Stone Bindi Cards\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. ActualONEhangingstripTWELVE whiteGO COLORS! DIAMONDCollectioncards arrangedTWOcolumnsSIXrows. NOT earrings: adhesive tinyflower-shapedrhinestone BINDIS, darkmetal/clearstones onwhitecard, eachflowerclustercentralpointwithtinyroundborder. Sourcecardlayouts repeat rowpairs:row1eachcard8flowers in3-2-3layout;row2each9flowers in3x3;row3each10flowers in3-2-2-3layout;row4each8flowers;row5each9flowers;row6each10flowers. Preserve12cards/allsourceflowerbindi shapes/clearcolour andlayout/count, notplainblackdots/nocolouredstudearrings. Allfullviews1/2/3/5 showALLTWELVEcompletecards2columns6rows, sourcewhitepurple/goldfloralcardborder andGO COLORS!text. Removebackgroundcords/shop/priceoverlay. Detail tightrealpartmacroofoneactualsmallflowerclear-rhinestonebindi cluster, notfullcard. AccurateheadingFloral Stone Bindi Cards.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-0e53b297-752b-453a-9dcb-c57571b2e424.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Floral Stone Bindi Cards\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. ActualONEhangingstripTWELVE whiteGO COLORS! DIAMONDCollectioncards arrangedTWOcolumnsSIXrows. NOT earrings: adhesive tinyflower-shapedrhinestone BINDIS, darkmetal/clearstones onwhitecard, eachflowerclustercentralpointwithtinyroundborder. Sourcecardlayouts repeat rowpairs:row1eachcard8flowers in3-2-3layout;row2each9flowers in3x3;row3each10flowers in3-2-2-3layout;row4each8flowers;row5each9flowers;row6each10flowers. Preserve12cards/allsourceflowerbindi shapes/clearcolour andlayout/count, notplainblackdots/nocolouredstudearrings. Allfullviews1/2/3/5 showALLTWELVEcompletecards2columns6rows, sourcewhitepurple/goldfloralcardborder andGO COLORS!text. Removebackgroundcords/shop/priceoverlay. Detail tightrealpartmacroofoneactualsmallflowerclear-rhinestonebindi cluster, notfullcard. AccurateheadingFloral Stone Bindi Cards.",
+      "sha256": "26b111e7e8fb8a1957599cb615f7440ab706ee5367bf8906c00f2d2fe07ac89c",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0e53b297-752b-453a-9dcb-c57571b2e424.png",
+      "grid_sha256": "658e20c6574bbef29c9e36964698239ccf48d0feffd7abe0235eb8d0d867bcae",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Enlarged initial fullviews have material per-card count errors (white row4right7vs8,row2right10vs9). Careful source confirms row1/4=8,row2/5=9,row3/6=11; earlier10 assumption corrected. One corrective initiated."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-0e53b297-752b-453a-9dcb-c57571b2e424.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Floral Stone Bindi Cards\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. ActualONEhangingstripTWELVE whiteGO COLORS! DIAMONDCollectioncards arrangedTWOcolumnsSIXrows. NOT earrings: adhesive tinyflower-shapedrhinestone BINDIS, darkmetal/clearstones onwhitecard, eachflowerclustercentralpointwithtinyroundborder. Sourcecardlayouts repeat rowpairs:row1eachcard8flowers in3-2-3layout;row2each9flowers in3x3;row3each10flowers in3-2-2-3layout;row4each8flowers;row5each9flowers;row6each10flowers. Preserve12cards/allsourceflowerbindi shapes/clearcolour andlayout/count, notplainblackdots/nocolouredstudearrings. Allfullviews1/2/3/5 showALLTWELVEcompletecards2columns6rows, sourcewhitepurple/goldfloralcardborder andGO COLORS!text. Removebackgroundcords/shop/priceoverlay. Detail tightrealpartmacroofoneactualsmallflowerclear-rhinestonebindi cluster, notfullcard. AccurateheadingFloral Stone Bindi Cards.",
+      "sha256": "807743e203ce258ce164fbafa47cbe9047dbc0dfe21dba72d29622a5e68a7c01",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0e53b297-752b-453a-9dcb-c57571b2e424.png",
+      "grid_sha256": "658e20c6574bbef29c9e36964698239ccf48d0feffd7abe0235eb8d0d867bcae",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Enlarged initial fullviews have material per-card count errors (white row4right7vs8,row2right10vs9). Careful source confirms row1/4=8,row2/5=9,row3/6=11; earlier10 assumption corrected. One corrective initiated."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-0e53b297-752b-453a-9dcb-c57571b2e424.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Floral Stone Bindi Cards\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. ActualONEhangingstripTWELVE whiteGO COLORS! DIAMONDCollectioncards arrangedTWOcolumnsSIXrows. NOT earrings: adhesive tinyflower-shapedrhinestone BINDIS, darkmetal/clearstones onwhitecard, eachflowerclustercentralpointwithtinyroundborder. Sourcecardlayouts repeat rowpairs:row1eachcard8flowers in3-2-3layout;row2each9flowers in3x3;row3each10flowers in3-2-2-3layout;row4each8flowers;row5each9flowers;row6each10flowers. Preserve12cards/allsourceflowerbindi shapes/clearcolour andlayout/count, notplainblackdots/nocolouredstudearrings. Allfullviews1/2/3/5 showALLTWELVEcompletecards2columns6rows, sourcewhitepurple/goldfloralcardborder andGO COLORS!text. Removebackgroundcords/shop/priceoverlay. Detail tightrealpartmacroofoneactualsmallflowerclear-rhinestonebindi cluster, notfullcard. AccurateheadingFloral Stone Bindi Cards.",
+      "sha256": "4d587b64cb487eafc0283ff94d5e32a158d4d004e4021921336b4a63f50f8815",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0e53b297-752b-453a-9dcb-c57571b2e424.png",
+      "grid_sha256": "658e20c6574bbef29c9e36964698239ccf48d0feffd7abe0235eb8d0d867bcae",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Enlarged initial fullviews have material per-card count errors (white row4right7vs8,row2right10vs9). Careful source confirms row1/4=8,row2/5=9,row3/6=11; earlier10 assumption corrected. One corrective initiated."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-0e53b297-752b-453a-9dcb-c57571b2e424.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Floral Stone Bindi Cards\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. ActualONEhangingstripTWELVE whiteGO COLORS! DIAMONDCollectioncards arrangedTWOcolumnsSIXrows. NOT earrings: adhesive tinyflower-shapedrhinestone BINDIS, darkmetal/clearstones onwhitecard, eachflowerclustercentralpointwithtinyroundborder. Sourcecardlayouts repeat rowpairs:row1eachcard8flowers in3-2-3layout;row2each9flowers in3x3;row3each10flowers in3-2-2-3layout;row4each8flowers;row5each9flowers;row6each10flowers. Preserve12cards/allsourceflowerbindi shapes/clearcolour andlayout/count, notplainblackdots/nocolouredstudearrings. Allfullviews1/2/3/5 showALLTWELVEcompletecards2columns6rows, sourcewhitepurple/goldfloralcardborder andGO COLORS!text. Removebackgroundcords/shop/priceoverlay. Detail tightrealpartmacroofoneactualsmallflowerclear-rhinestonebindi cluster, notfullcard. AccurateheadingFloral Stone Bindi Cards.",
+      "sha256": "703172a582d011a05718476f65939e35958df712c3fa065bfa4b27d410a5b74c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0e53b297-752b-453a-9dcb-c57571b2e424.png",
+      "grid_sha256": "658e20c6574bbef29c9e36964698239ccf48d0feffd7abe0235eb8d0d867bcae",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Standalone tight clear rhinestone flower bindi cluster matches source real part, source floral stone identity retained."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-0e53b297-752b-453a-9dcb-c57571b2e424.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Floral Stone Bindi Cards\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. ActualONEhangingstripTWELVE whiteGO COLORS! DIAMONDCollectioncards arrangedTWOcolumnsSIXrows. NOT earrings: adhesive tinyflower-shapedrhinestone BINDIS, darkmetal/clearstones onwhitecard, eachflowerclustercentralpointwithtinyroundborder. Sourcecardlayouts repeat rowpairs:row1eachcard8flowers in3-2-3layout;row2each9flowers in3x3;row3each10flowers in3-2-2-3layout;row4each8flowers;row5each9flowers;row6each10flowers. Preserve12cards/allsourceflowerbindi shapes/clearcolour andlayout/count, notplainblackdots/nocolouredstudearrings. Allfullviews1/2/3/5 showALLTWELVEcompletecards2columns6rows, sourcewhitepurple/goldfloralcardborder andGO COLORS!text. Removebackgroundcords/shop/priceoverlay. Detail tightrealpartmacroofoneactualsmallflowerclear-rhinestonebindi cluster, notfullcard. AccurateheadingFloral Stone Bindi Cards.",
+      "sha256": "c3bb5ef7266039b12878e150522647110fdc76ba651396c0279382475b0b1507",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0e53b297-752b-453a-9dcb-c57571b2e424.png",
+      "grid_sha256": "658e20c6574bbef29c9e36964698239ccf48d0feffd7abe0235eb8d0d867bcae",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Enlarged initial fullviews have material per-card count errors (white row4right7vs8,row2right10vs9). Careful source confirms row1/4=8,row2/5=9,row3/6=11; earlier10 assumption corrected. One corrective initiated."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-0a0ce415-45fb-418e-a0b9-0a1a2b43b1b1.png",
+      "source_output": "/workspace/generated_images/exec-0a0ce415-45fb-418e-a0b9-0a1a2b43b1b1.png",
+      "sha256": "bcde9123a29679713bafb2f3d5af9c0ad6b713919a77723c8b787b6d2c632804",
+      "prompt": "Native original-referenced product photo edit, one landscape1536x1024 3columns2rows exact512squarecells. Toprow cells:whitebackground entireassortment, lavendercreamstyled entireassortment, lifestylehomevanity entireassortment. Bottomleftstandalone tightmacro realflower-rhinestonebindi part only; bottommiddleentireassortment promotionalwith heading \"Floral Stone Bindi Cards\"; bottomrightblankcream. Corrective lastattempt forfailedfullviews, preserve sourceactualcounts accurately. Actualoriginal shows ONE hangingstrip of TWELVE separatewhite GO COLORS! DIAMONDCollection floralrhinestone BINDIcards, TWOcolumnsSIXrows. They are adhesiveflower-shapedclear-rhinestonebindis, notearrings, notplainblackdots. Eachcard'scount/layout mustmatch ORIGINAL, which differs byrow. ROW1 BOTHcards eachEIGHTflowers layout3-2-3. ROW2 BOTHcards eachNINEflowers layout2-3-4. ROW3 BOTHcards eachELEVENflowers layout2-2-3-2-2 (twooutertop,twoinnernext,threeacrossmiddle,twoinnernext,twoouterbottom). ROW4 eachEIGHT3-2-3. ROW5 eachNINE2-3-4. ROW6 eachELEVEN2-2-3-2-2. Total112smallflowerclusters across12cards. Exactly12cards infullviews1/2/3/5; allentirestripfitsinsideeachcell with generousmargins, everycard'sflowerpositionsdistinct andcountable, nooverlappingstones/nofusedstone/noomission. Priorwhite row4right7wrong; restore8. Priorrow2right10wrong; exact9. Keepactualsourceclusteridentity,clearcolour,whitepurple/goldfloralcardborderandGO COLORS!labels. Removebackgroundhangingcordstock/shop/pricebanner. Do not invent10flowercards; actual11confirmedfromoriginal. Website-ready adequate; no decorativeextraobjectslookinglikebindis.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-0a0ce415-45fb-418e-a0b9-0a1a2b43b1b1.png",
+      "prompt": "Native original-referenced product photo edit, one landscape1536x1024 3columns2rows exact512squarecells. Toprow cells:whitebackground entireassortment, lavendercreamstyled entireassortment, lifestylehomevanity entireassortment. Bottomleftstandalone tightmacro realflower-rhinestonebindi part only; bottommiddleentireassortment promotionalwith heading \"Floral Stone Bindi Cards\"; bottomrightblankcream. Corrective lastattempt forfailedfullviews, preserve sourceactualcounts accurately. Actualoriginal shows ONE hangingstrip of TWELVE separatewhite GO COLORS! DIAMONDCollection floralrhinestone BINDIcards, TWOcolumnsSIXrows. They are adhesiveflower-shapedclear-rhinestonebindis, notearrings, notplainblackdots. Eachcard'scount/layout mustmatch ORIGINAL, which differs byrow. ROW1 BOTHcards eachEIGHTflowers layout3-2-3. ROW2 BOTHcards eachNINEflowers layout2-3-4. ROW3 BOTHcards eachELEVENflowers layout2-2-3-2-2 (twooutertop,twoinnernext,threeacrossmiddle,twoinnernext,twoouterbottom). ROW4 eachEIGHT3-2-3. ROW5 eachNINE2-3-4. ROW6 eachELEVEN2-2-3-2-2. Total112smallflowerclusters across12cards. Exactly12cards infullviews1/2/3/5; allentirestripfitsinsideeachcell with generousmargins, everycard'sflowerpositionsdistinct andcountable, nooverlappingstones/nofusedstone/noomission. Priorwhite row4right7wrong; restore8. Priorrow2right10wrong; exact9. Keepactualsourceclusteridentity,clearcolour,whitepurple/goldfloralcardborderandGO COLORS!labels. Removebackgroundhangingcordstock/shop/pricebanner. Do not invent10flowercards; actual11confirmedfromoriginal. Website-ready adequate; no decorativeextraobjectslookinglikebindis.",
+      "sha256": "43ce550ebb4f179f913e5fb1075dcbcf1db3e07ce444ecfccd0c7428da326599",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0a0ce415-45fb-418e-a0b9-0a1a2b43b1b1.png",
+      "grid_sha256": "bcde9123a29679713bafb2f3d5af9c0ad6b713919a77723c8b787b6d2c632804",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Correctiveattemptspent. Actualcorrectedcrop enlarged3x: row4cards stillshow7flowerbindis(3+2+2) insteadsource8(3+2+3), withother countuncertainty inrow1. Whole12cards retained but materiallymissingstones; keepunchecked, nofurtherretry. Originalapproved04macro preserved."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-0a0ce415-45fb-418e-a0b9-0a1a2b43b1b1.png",
+      "prompt": "Native original-referenced product photo edit, one landscape1536x1024 3columns2rows exact512squarecells. Toprow cells:whitebackground entireassortment, lavendercreamstyled entireassortment, lifestylehomevanity entireassortment. Bottomleftstandalone tightmacro realflower-rhinestonebindi part only; bottommiddleentireassortment promotionalwith heading \"Floral Stone Bindi Cards\"; bottomrightblankcream. Corrective lastattempt forfailedfullviews, preserve sourceactualcounts accurately. Actualoriginal shows ONE hangingstrip of TWELVE separatewhite GO COLORS! DIAMONDCollection floralrhinestone BINDIcards, TWOcolumnsSIXrows. They are adhesiveflower-shapedclear-rhinestonebindis, notearrings, notplainblackdots. Eachcard'scount/layout mustmatch ORIGINAL, which differs byrow. ROW1 BOTHcards eachEIGHTflowers layout3-2-3. ROW2 BOTHcards eachNINEflowers layout2-3-4. ROW3 BOTHcards eachELEVENflowers layout2-2-3-2-2 (twooutertop,twoinnernext,threeacrossmiddle,twoinnernext,twoouterbottom). ROW4 eachEIGHT3-2-3. ROW5 eachNINE2-3-4. ROW6 eachELEVEN2-2-3-2-2. Total112smallflowerclusters across12cards. Exactly12cards infullviews1/2/3/5; allentirestripfitsinsideeachcell with generousmargins, everycard'sflowerpositionsdistinct andcountable, nooverlappingstones/nofusedstone/noomission. Priorwhite row4right7wrong; restore8. Priorrow2right10wrong; exact9. Keepactualsourceclusteridentity,clearcolour,whitepurple/goldfloralcardborderandGO COLORS!labels. Removebackgroundhangingcordstock/shop/pricebanner. Do not invent10flowercards; actual11confirmedfromoriginal. Website-ready adequate; no decorativeextraobjectslookinglikebindis.",
+      "sha256": "cffb41998181de13d3c7f7fac28e7790e9573e832c48957893d8c5ce10267fa4",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0a0ce415-45fb-418e-a0b9-0a1a2b43b1b1.png",
+      "grid_sha256": "bcde9123a29679713bafb2f3d5af9c0ad6b713919a77723c8b787b6d2c632804",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Correctiveattemptspent. Actualcorrectedcrop enlarged3x: row4cards stillshow7flowerbindis(3+2+2) insteadsource8(3+2+3), withother countuncertainty inrow1. Whole12cards retained but materiallymissingstones; keepunchecked, nofurtherretry. Originalapproved04macro preserved."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-0a0ce415-45fb-418e-a0b9-0a1a2b43b1b1.png",
+      "prompt": "Native original-referenced product photo edit, one landscape1536x1024 3columns2rows exact512squarecells. Toprow cells:whitebackground entireassortment, lavendercreamstyled entireassortment, lifestylehomevanity entireassortment. Bottomleftstandalone tightmacro realflower-rhinestonebindi part only; bottommiddleentireassortment promotionalwith heading \"Floral Stone Bindi Cards\"; bottomrightblankcream. Corrective lastattempt forfailedfullviews, preserve sourceactualcounts accurately. Actualoriginal shows ONE hangingstrip of TWELVE separatewhite GO COLORS! DIAMONDCollection floralrhinestone BINDIcards, TWOcolumnsSIXrows. They are adhesiveflower-shapedclear-rhinestonebindis, notearrings, notplainblackdots. Eachcard'scount/layout mustmatch ORIGINAL, which differs byrow. ROW1 BOTHcards eachEIGHTflowers layout3-2-3. ROW2 BOTHcards eachNINEflowers layout2-3-4. ROW3 BOTHcards eachELEVENflowers layout2-2-3-2-2 (twooutertop,twoinnernext,threeacrossmiddle,twoinnernext,twoouterbottom). ROW4 eachEIGHT3-2-3. ROW5 eachNINE2-3-4. ROW6 eachELEVEN2-2-3-2-2. Total112smallflowerclusters across12cards. Exactly12cards infullviews1/2/3/5; allentirestripfitsinsideeachcell with generousmargins, everycard'sflowerpositionsdistinct andcountable, nooverlappingstones/nofusedstone/noomission. Priorwhite row4right7wrong; restore8. Priorrow2right10wrong; exact9. Keepactualsourceclusteridentity,clearcolour,whitepurple/goldfloralcardborderandGO COLORS!labels. Removebackgroundhangingcordstock/shop/pricebanner. Do not invent10flowercards; actual11confirmedfromoriginal. Website-ready adequate; no decorativeextraobjectslookinglikebindis.",
+      "sha256": "e6709e7d094a66fee27ce69a0b74d376700fa2e9957fdfb51bed10cba010992e",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0a0ce415-45fb-418e-a0b9-0a1a2b43b1b1.png",
+      "grid_sha256": "bcde9123a29679713bafb2f3d5af9c0ad6b713919a77723c8b787b6d2c632804",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Correctiveattemptspent. Actualcorrectedcrop enlarged3x: row4cards stillshow7flowerbindis(3+2+2) insteadsource8(3+2+3), withother countuncertainty inrow1. Whole12cards retained but materiallymissingstones; keepunchecked, nofurtherretry. Originalapproved04macro preserved."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-0a0ce415-45fb-418e-a0b9-0a1a2b43b1b1.png",
+      "prompt": "Native original-referenced product photo edit, one landscape1536x1024 3columns2rows exact512squarecells. Toprow cells:whitebackground entireassortment, lavendercreamstyled entireassortment, lifestylehomevanity entireassortment. Bottomleftstandalone tightmacro realflower-rhinestonebindi part only; bottommiddleentireassortment promotionalwith heading \"Floral Stone Bindi Cards\"; bottomrightblankcream. Corrective lastattempt forfailedfullviews, preserve sourceactualcounts accurately. Actualoriginal shows ONE hangingstrip of TWELVE separatewhite GO COLORS! DIAMONDCollection floralrhinestone BINDIcards, TWOcolumnsSIXrows. They are adhesiveflower-shapedclear-rhinestonebindis, notearrings, notplainblackdots. Eachcard'scount/layout mustmatch ORIGINAL, which differs byrow. ROW1 BOTHcards eachEIGHTflowers layout3-2-3. ROW2 BOTHcards eachNINEflowers layout2-3-4. ROW3 BOTHcards eachELEVENflowers layout2-2-3-2-2 (twooutertop,twoinnernext,threeacrossmiddle,twoinnernext,twoouterbottom). ROW4 eachEIGHT3-2-3. ROW5 eachNINE2-3-4. ROW6 eachELEVEN2-2-3-2-2. Total112smallflowerclusters across12cards. Exactly12cards infullviews1/2/3/5; allentirestripfitsinsideeachcell with generousmargins, everycard'sflowerpositionsdistinct andcountable, nooverlappingstones/nofusedstone/noomission. Priorwhite row4right7wrong; restore8. Priorrow2right10wrong; exact9. Keepactualsourceclusteridentity,clearcolour,whitepurple/goldfloralcardborderandGO COLORS!labels. Removebackgroundhangingcordstock/shop/pricebanner. Do not invent10flowercards; actual11confirmedfromoriginal. Website-ready adequate; no decorativeextraobjectslookinglikebindis.",
+      "sha256": "abfd0372d90f5a5ae93ad7c56ea598b41da8861b72aebd89728cc1256475ad6b",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0a0ce415-45fb-418e-a0b9-0a1a2b43b1b1.png",
+      "grid_sha256": "bcde9123a29679713bafb2f3d5af9c0ad6b713919a77723c8b787b6d2c632804",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Correctiveattemptspent. Actualcorrectedcrop enlarged3x: row4cards stillshow7flowerbindis(3+2+2) insteadsource8(3+2+3), withother countuncertainty inrow1. Whole12cards retained but materiallymissingstones; keepunchecked, nofurtherretry. Originalapproved04macro preserved."
+    }
+  ],
+  "status": "partial_corrective_spent_count_error",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "recovery_note": "Recovered first native grid from cache after model usage limit; no corrective attempt has been spent. Fourfullviews require review/correction; preserve approved macro.",
+  "corrective_attempts": {
+    "01_White-Background": 1,
+    "02_Styled-Background": 1,
+    "03_Lifestyle": 1,
+    "05_Promotional": 1
+  },
+  "actual_subject": "Twelve floral rhinestone bindi cards, counts8/9/11 repeated rowpairs,112bindis total",
+  "source_count_correction": "Enlarged actualoriginal confirms elevenflowers each row3/6card, not ten; source row2/5nine layout2-3-4.",
+  "originals_verified_against_frozen_plan": true,
+  "review_needed_views": [
+    "01_White-Background",
+    "02_Styled-Background",
+    "03_Lifestyle",
+    "05_Promotional"
+  ],
+  "resumable_note": "Allfivefilessaved;only04Detailchecked. Correctivespentforallfourfullviews;do not regenerateagainautomatically. Sourceactualcounts8/9/11repeat,112total."
+}

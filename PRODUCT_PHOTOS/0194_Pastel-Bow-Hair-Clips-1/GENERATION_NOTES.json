@@ -1,0 +1,60 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250214-WA0199.jpg": "1cb9da73a90cfb329badd39bac0723d3ee82d21d54092adb5a1c7c6fa200dccd"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-d9d4aef4-07de-4960-9dd0-25bd759a00bf.png",
+      "prompt": "Edit reference into website-ready photo of exact entire FOUR foreground tall crown-top cards of paired colourful floral hair claws as ONE assortment. EACH strip SIX pairs vertically,24pairs48claws total. Preserve four floral designs across columns (plumeria,stamen blossom,rounded plumeria,rounded daisy), existing original colours per row green/pink/yellow/blue/lavender/red with fourth column pink/yellow/lavender/blue/green/red, glossy plastic teeth hinges flower decorations and original crown/star cards. Remove background shop stock and old price labels only. No invented parts/backviews. Full four-card assortment visible, pure white studio background soft shadows no added text.",
+      "sha256": "89409a5e25e7efebb4d03819bb23aec624ff6255eee1b3619e7caaba20db6791",
+      "checked": true,
+      "visual_check": "Passed four crown cards each six floral-claw pairs correct colours and source shapes full frame no shop price."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-7309051f-ebf8-4ee0-84c9-831f7026385b.png",
+      "prompt": "Edit reference into website-ready photo of exact entire FOUR foreground tall crown-top cards of paired colourful floral hair claws as ONE assortment. EACH strip SIX pairs vertically,24pairs48claws total. Preserve four floral designs across columns (plumeria,stamen blossom,rounded plumeria,rounded daisy), existing original colours per row green/pink/yellow/blue/lavender/red with fourth column pink/yellow/lavender/blue/green/red, glossy plastic teeth hinges flower decorations and original crown/star cards. Remove background shop stock and old price labels only. No invented parts/backviews. Entire four-card assortment visible on cream linen studio surface with soft lavender backdrop no added words.",
+      "sha256": "f755a70a1249add3b5a3aa909c2b12dca5dee4250ca0567aa191c4d15c0c7359",
+      "checked": true,
+      "visual_check": "Passed four crown strips each six pairs correct floral designs glossy claw colours card packaging lavender cream full frame."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-9e63e8ab-d5b4-49ef-9476-58e67d5241dd.png",
+      "prompt": "Edit reference into website-ready photo of exact entire FOUR foreground tall crown-top cards of paired colourful floral hair claws as ONE assortment. EACH strip SIX pairs vertically,24pairs48claws total. Preserve four floral designs across columns (plumeria,stamen blossom,rounded plumeria,rounded daisy), existing original colours per row green/pink/yellow/blue/lavender/red with fourth column pink/yellow/lavender/blue/green/red, glossy plastic teeth hinges flower decorations and original crown/star cards. Remove background shop stock and old price labels only. No invented parts/backviews. Entire original assortment visible on sunlit cream home vanity with distant softly blurred mirror, no hands, no wearing or unpacking no new words.",
+      "sha256": "00fb799844a3dc2137d83675f912216217cfa35d50f1d23824d4bf41dd6f1d25",
+      "checked": true,
+      "visual_check": "Passed four six-pair strips full source colours flower designs crown cards sunlit vanity no hand price."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-dbe1cf36-e6d6-4105-a379-ba322f9cbd19.png",
+      "prompt": "Recovered corrected detail output from interrupted worker; original submitted prompt unavailable here. Tight macro of existing green plumeria hair claw, petal colours, jaws and spring.",
+      "sha256": "fa92e273dade8845686c37889360feb49d15a90270bbd356878f5cf4d3ccf71e",
+      "checked": true,
+      "visual_review": "Compared original and recovered macro: existing green plumeria claw with yellow/white/green petal, green jaws and visible spring. Correct tight crop, not whole assortment."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-0d330c2e-38be-43f8-b083-b71718fa651d.png",
+      "prompt": "Create one website-ready promotional photograph by editing the original reference. Preserve the EXACT entire assortment of FOUR long crown-top white display cards, each holding SIX PAIRS of small flower hair claws (twelve claws per card, forty-eight total). Preserve original rows, colours, flower designs and clear original clip shapes: first card plumeria gradient petals, second fine detailed blossoms, third sculpted plumeria, fourth rounded daisy blossoms. Preserve all visible stock as one product, original front view. Remove surrounding shop, old prices and unrelated stock. Soft lavender and cream studio background, compact dark plum heading 'Flower Hair Claw Collection' and small 'PRODUCT COLLECTION' outside merchandise. Full four cards visible with generous margins, no added products, no collage.",
+      "sha256": "ff5430cee8cd43ecedf685a6f31aca2106d4aab519c0c06a560fe8c29562ac70",
+      "checked": true,
+      "visual_review": "Compared source and new promo: four crown-top cards, six pairs each/48claws, correct row colours and four distinct flower styles; no shop or prices. Website-ready minor cosmetic differences accepted."
+    }
+  ],
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true,
+  "rejected_outputs": [
+    {
+      "file": "Rejected/04_Detail-too-wide.png",
+      "cache_source": "/workspace/generated_images/exec-25146584-af6a-4d70-86ac-eb7a17a0374a.png",
+      "sha256": "548c1124b1abd0e0a4329f890e4ffd7db5817aa1fcffb88c05c44ad907fcc04d",
+      "reason": "Whole assortment output fails required tight macro view"
+    }
+  ]
+}

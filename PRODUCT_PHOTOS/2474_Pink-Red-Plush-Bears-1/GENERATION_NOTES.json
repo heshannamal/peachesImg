@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260923-WA0180.jpg": "be7f0be42fa4127399fcc166ae62f1a8a915ac79558d0fb44de4c65932be317f"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-793418a6-8c62-42f8-b1ea-4493ba3f7324.png",
+      "source_output": "/workspace/generated_images/exec-793418a6-8c62-42f8-b1ea-4493ba3f7324.png",
+      "sha256": "5d879a562f23b51fd20bdf01e13f32808083575fc2d32d2fb1c122016885d7fd",
+      "prompt": "Native photo edit faithfully referenced to original. Landscape1536x1024 precise3columns x2rows512squarecells boundaries x512/x1024/y512,no gutters,borders,panellabels. Top-left entire assortment white;top-middle full assortment lavender/cream styled;top-right full assortment cosyroomlifestyle;bottom-left standalone tight actualplushpartmacro,notwholeassortment;bottom-middle fullassortment promotionalaccurateheading specified;bottom-right blankcream. Entire photographed assortmentONEproduct. Preserve exactcount,characterface/identity,bodyshape,ears,colours,fabric,embroidery andtags. Remove shop/backgroundpriceoverlay. Fullviews alltoyscompleteinsideowncellmargin,noextratoyprops,noinventedclaims. Photorealwebsite-ready. Actualsource exactlyTWO roundfurry TEDDYBEAR plush dolls, LIGHTPINK and DEEPMAGENTA/RED. Bothfrontfacingwithsmallroundears,whitecreammuzzle,blackroundnose,embroideredeyes,sameopenredsmilingmouth,largewhitebellypatch,pinklimbs. Preservefaceidentityandbodyproportionsofsource, whitehangingloopsontop. Do notsubstitutedifferentlydesignedbearoraddthirdtoy. Detail tightrealpinkfur/whitemuzzleseam/embroiderystitchpart. Heading Pink Plush Bears.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-793418a6-8c62-42f8-b1ea-4493ba3f7324.png",
+      "prompt": "Native photo edit faithfully referenced to original. Landscape1536x1024 precise3columns x2rows512squarecells boundaries x512/x1024/y512,no gutters,borders,panellabels. Top-left entire assortment white;top-middle full assortment lavender/cream styled;top-right full assortment cosyroomlifestyle;bottom-left standalone tight actualplushpartmacro,notwholeassortment;bottom-middle fullassortment promotionalaccurateheading specified;bottom-right blankcream. Entire photographed assortmentONEproduct. Preserve exactcount,characterface/identity,bodyshape,ears,colours,fabric,embroidery andtags. Remove shop/backgroundpriceoverlay. Fullviews alltoyscompleteinsideowncellmargin,noextratoyprops,noinventedclaims. Photorealwebsite-ready. Actualsource exactlyTWO roundfurry TEDDYBEAR plush dolls, LIGHTPINK and DEEPMAGENTA/RED. Bothfrontfacingwithsmallroundears,whitecreammuzzle,blackroundnose,embroideredeyes,sameopenredsmilingmouth,largewhitebellypatch,pinklimbs. Preservefaceidentityandbodyproportionsofsource, whitehangingloopsontop. Do notsubstitutedifferentlydesignedbearoraddthirdtoy. Detail tightrealpinkfur/whitemuzzleseam/embroiderystitchpart. Heading Pink Plush Bears.",
+      "sha256": "ee3adb0ab142ab83a7a74530c0b6b908364ee884242826f0007560203cfa2f31",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-793418a6-8c62-42f8-b1ea-4493ba3f7324.png",
+      "grid_sha256": "5d879a562f23b51fd20bdf01e13f32808083575fc2d32d2fb1c122016885d7fd",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crops checked vs source:exactly2lightpink/deepmagenta plushbears,whitebelly/muzzle,blacknose,embroideredeyes/openredsmile andhangingloops retained,sourceproportions/styles pass. Tight realmuzzle/embroidery/fur detail. Accurateheading,white/lavender/cosyroom/promo correct,cleanboundaries. Website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-793418a6-8c62-42f8-b1ea-4493ba3f7324.png",
+      "prompt": "Native photo edit faithfully referenced to original. Landscape1536x1024 precise3columns x2rows512squarecells boundaries x512/x1024/y512,no gutters,borders,panellabels. Top-left entire assortment white;top-middle full assortment lavender/cream styled;top-right full assortment cosyroomlifestyle;bottom-left standalone tight actualplushpartmacro,notwholeassortment;bottom-middle fullassortment promotionalaccurateheading specified;bottom-right blankcream. Entire photographed assortmentONEproduct. Preserve exactcount,characterface/identity,bodyshape,ears,colours,fabric,embroidery andtags. Remove shop/backgroundpriceoverlay. Fullviews alltoyscompleteinsideowncellmargin,noextratoyprops,noinventedclaims. Photorealwebsite-ready. Actualsource exactlyTWO roundfurry TEDDYBEAR plush dolls, LIGHTPINK and DEEPMAGENTA/RED. Bothfrontfacingwithsmallroundears,whitecreammuzzle,blackroundnose,embroideredeyes,sameopenredsmilingmouth,largewhitebellypatch,pinklimbs. Preservefaceidentityandbodyproportionsofsource, whitehangingloopsontop. Do notsubstitutedifferentlydesignedbearoraddthirdtoy. Detail tightrealpinkfur/whitemuzzleseam/embroiderystitchpart. Heading Pink Plush Bears.",
+      "sha256": "afa59a1f24a1e7a5e464ba97f040abd997a4dae6d267f9b18b8572911710216d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-793418a6-8c62-42f8-b1ea-4493ba3f7324.png",
+      "grid_sha256": "5d879a562f23b51fd20bdf01e13f32808083575fc2d32d2fb1c122016885d7fd",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crops checked vs source:exactly2lightpink/deepmagenta plushbears,whitebelly/muzzle,blacknose,embroideredeyes/openredsmile andhangingloops retained,sourceproportions/styles pass. Tight realmuzzle/embroidery/fur detail. Accurateheading,white/lavender/cosyroom/promo correct,cleanboundaries. Website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-793418a6-8c62-42f8-b1ea-4493ba3f7324.png",
+      "prompt": "Native photo edit faithfully referenced to original. Landscape1536x1024 precise3columns x2rows512squarecells boundaries x512/x1024/y512,no gutters,borders,panellabels. Top-left entire assortment white;top-middle full assortment lavender/cream styled;top-right full assortment cosyroomlifestyle;bottom-left standalone tight actualplushpartmacro,notwholeassortment;bottom-middle fullassortment promotionalaccurateheading specified;bottom-right blankcream. Entire photographed assortmentONEproduct. Preserve exactcount,characterface/identity,bodyshape,ears,colours,fabric,embroidery andtags. Remove shop/backgroundpriceoverlay. Fullviews alltoyscompleteinsideowncellmargin,noextratoyprops,noinventedclaims. Photorealwebsite-ready. Actualsource exactlyTWO roundfurry TEDDYBEAR plush dolls, LIGHTPINK and DEEPMAGENTA/RED. Bothfrontfacingwithsmallroundears,whitecreammuzzle,blackroundnose,embroideredeyes,sameopenredsmilingmouth,largewhitebellypatch,pinklimbs. Preservefaceidentityandbodyproportionsofsource, whitehangingloopsontop. Do notsubstitutedifferentlydesignedbearoraddthirdtoy. Detail tightrealpinkfur/whitemuzzleseam/embroiderystitchpart. Heading Pink Plush Bears.",
+      "sha256": "53f9d2ebefe15ec8b8fd8751da2cc76c216ef61bd73f73bab6478e63188af849",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-793418a6-8c62-42f8-b1ea-4493ba3f7324.png",
+      "grid_sha256": "5d879a562f23b51fd20bdf01e13f32808083575fc2d32d2fb1c122016885d7fd",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crops checked vs source:exactly2lightpink/deepmagenta plushbears,whitebelly/muzzle,blacknose,embroideredeyes/openredsmile andhangingloops retained,sourceproportions/styles pass. Tight realmuzzle/embroidery/fur detail. Accurateheading,white/lavender/cosyroom/promo correct,cleanboundaries. Website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-793418a6-8c62-42f8-b1ea-4493ba3f7324.png",
+      "prompt": "Native photo edit faithfully referenced to original. Landscape1536x1024 precise3columns x2rows512squarecells boundaries x512/x1024/y512,no gutters,borders,panellabels. Top-left entire assortment white;top-middle full assortment lavender/cream styled;top-right full assortment cosyroomlifestyle;bottom-left standalone tight actualplushpartmacro,notwholeassortment;bottom-middle fullassortment promotionalaccurateheading specified;bottom-right blankcream. Entire photographed assortmentONEproduct. Preserve exactcount,characterface/identity,bodyshape,ears,colours,fabric,embroidery andtags. Remove shop/backgroundpriceoverlay. Fullviews alltoyscompleteinsideowncellmargin,noextratoyprops,noinventedclaims. Photorealwebsite-ready. Actualsource exactlyTWO roundfurry TEDDYBEAR plush dolls, LIGHTPINK and DEEPMAGENTA/RED. Bothfrontfacingwithsmallroundears,whitecreammuzzle,blackroundnose,embroideredeyes,sameopenredsmilingmouth,largewhitebellypatch,pinklimbs. Preservefaceidentityandbodyproportionsofsource, whitehangingloopsontop. Do notsubstitutedifferentlydesignedbearoraddthirdtoy. Detail tightrealpinkfur/whitemuzzleseam/embroiderystitchpart. Heading Pink Plush Bears.",
+      "sha256": "230252a85a2ec69bdf765b4b8e1d24307eb5c74292fbf97f89de666f3b64a993",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-793418a6-8c62-42f8-b1ea-4493ba3f7324.png",
+      "grid_sha256": "5d879a562f23b51fd20bdf01e13f32808083575fc2d32d2fb1c122016885d7fd",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crops checked vs source:exactly2lightpink/deepmagenta plushbears,whitebelly/muzzle,blacknose,embroideredeyes/openredsmile andhangingloops retained,sourceproportions/styles pass. Tight realmuzzle/embroidery/fur detail. Accurateheading,white/lavender/cosyroom/promo correct,cleanboundaries. Website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-793418a6-8c62-42f8-b1ea-4493ba3f7324.png",
+      "prompt": "Native photo edit faithfully referenced to original. Landscape1536x1024 precise3columns x2rows512squarecells boundaries x512/x1024/y512,no gutters,borders,panellabels. Top-left entire assortment white;top-middle full assortment lavender/cream styled;top-right full assortment cosyroomlifestyle;bottom-left standalone tight actualplushpartmacro,notwholeassortment;bottom-middle fullassortment promotionalaccurateheading specified;bottom-right blankcream. Entire photographed assortmentONEproduct. Preserve exactcount,characterface/identity,bodyshape,ears,colours,fabric,embroidery andtags. Remove shop/backgroundpriceoverlay. Fullviews alltoyscompleteinsideowncellmargin,noextratoyprops,noinventedclaims. Photorealwebsite-ready. Actualsource exactlyTWO roundfurry TEDDYBEAR plush dolls, LIGHTPINK and DEEPMAGENTA/RED. Bothfrontfacingwithsmallroundears,whitecreammuzzle,blackroundnose,embroideredeyes,sameopenredsmilingmouth,largewhitebellypatch,pinklimbs. Preservefaceidentityandbodyproportionsofsource, whitehangingloopsontop. Do notsubstitutedifferentlydesignedbearoraddthirdtoy. Detail tightrealpinkfur/whitemuzzleseam/embroiderystitchpart. Heading Pink Plush Bears.",
+      "sha256": "165e80d694fec16141f686fa211833bea4bd7538fa7a0c0b42e6c4539dee8f73",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-793418a6-8c62-42f8-b1ea-4493ba3f7324.png",
+      "grid_sha256": "5d879a562f23b51fd20bdf01e13f32808083575fc2d32d2fb1c122016885d7fd",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crops checked vs source:exactly2lightpink/deepmagenta plushbears,whitebelly/muzzle,blacknose,embroideredeyes/openredsmile andhangingloops retained,sourceproportions/styles pass. Tight realmuzzle/embroidery/fur detail. Accurateheading,white/lavender/cosyroom/promo correct,cleanboundaries. Website-ready."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Two pink and deep magenta plush bears with white belly and muzzle patches",
+  "original_baseline_verified": true
+}

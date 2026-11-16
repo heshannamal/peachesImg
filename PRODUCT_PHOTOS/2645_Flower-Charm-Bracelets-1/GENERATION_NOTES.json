@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261002-WA0054.jpg": "233ddbadc188f0a1a133d60831ca3aef0b13c13d70f50757e57281deb47b6c1b"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-e75ee9ce-37bb-4fbe-8164-ee40a4ae1533.png",
+      "source_output": "/workspace/generated_images/exec-e75ee9ce-37bb-4fbe-8164-ee40a4ae1533.png",
+      "sha256": "05fb72388566d5adfadbfc32b8cbd8f272be0b81f3dbb2949198bc3a6f3ad31e",
+      "prompt": "Edit attached original into ONE1536x1024 landscape exact3columns x2rows grid, square512 cells, no gutters. Whole assortment is ONE product: EXACT SIX fine gold-tone double-chain beaded bracelets on SIX long white cards. Each has a small gold-rim cartoon hooded bunny-person enamel charm. Preserve exactly source visible orientation: card1 red front-facing bunny character, card2 red front facing slightly oblique, card3 charm GOLD REVERSE SIDE as photographed (do not invent another front), card4 green front bunny, card5 purple partially obscured sideways/reverse by chain as source, card6 purple front bunny. Match cream faces, black tiny eyes, pink bows, pointed hood ears, tiny feet, clasps, double chains/beads. Six total, despite twelve sales text. Remove hand, price text and sticker; do not add/remove bracelets. Top-left full six-card assortment white background. Top-middle full six cards lavender/cream styled. Top-right full six cards on dressing-table tray lifestyle. Bottom-left standalone extremely tight partial macro of real RED enamel hood/gold-rim junction and nearby chain; crop off almost entire character, NO full charm or bracelet. Bottom-middle full six-card assortment and accurate heading CHARACTER CHARM BRACELET ASSORTMENT. Bottom-right blank cream. Website-ready photograph. Preserve actual character identity, count, colours and charm orientations; no unrelated jewelry.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-e75ee9ce-37bb-4fbe-8164-ee40a4ae1533.png",
+      "prompt": "Edit attached original into ONE1536x1024 landscape exact3columns x2rows grid, square512 cells, no gutters. Whole assortment is ONE product: EXACT SIX fine gold-tone double-chain beaded bracelets on SIX long white cards. Each has a small gold-rim cartoon hooded bunny-person enamel charm. Preserve exactly source visible orientation: card1 red front-facing bunny character, card2 red front facing slightly oblique, card3 charm GOLD REVERSE SIDE as photographed (do not invent another front), card4 green front bunny, card5 purple partially obscured sideways/reverse by chain as source, card6 purple front bunny. Match cream faces, black tiny eyes, pink bows, pointed hood ears, tiny feet, clasps, double chains/beads. Six total, despite twelve sales text. Remove hand, price text and sticker; do not add/remove bracelets. Top-left full six-card assortment white background. Top-middle full six cards lavender/cream styled. Top-right full six cards on dressing-table tray lifestyle. Bottom-left standalone extremely tight partial macro of real RED enamel hood/gold-rim junction and nearby chain; crop off almost entire character, NO full charm or bracelet. Bottom-middle full six-card assortment and accurate heading CHARACTER CHARM BRACELET ASSORTMENT. Bottom-right blank cream. Website-ready photograph. Preserve actual character identity, count, colours and charm orientations; no unrelated jewelry.",
+      "sha256": "96e65251f4bd859a9f4dc326df1a6eacd0e7bc1b551fbb19c50c9b1b63350f70",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e75ee9ce-37bb-4fbe-8164-ee40a4ae1533.png",
+      "grid_sha256": "05fb72388566d5adfadbfc32b8cbd8f272be0b81f3dbb2949198bc3a6f3ad31e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Inspected actual original, native grid and all five saved crops. Six gold double-chain beaded character bracelets preserved, including two red fronts, third gold reverse, fourth green front, fifth partially obscured purple orientation and sixth purple front. Correct white/styled/lifestyle views and accurate generic promotional heading. Macro tightly shows a real partial red hood/face rim and adjacent chain. Website-ready; no corrective needed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-e75ee9ce-37bb-4fbe-8164-ee40a4ae1533.png",
+      "prompt": "Edit attached original into ONE1536x1024 landscape exact3columns x2rows grid, square512 cells, no gutters. Whole assortment is ONE product: EXACT SIX fine gold-tone double-chain beaded bracelets on SIX long white cards. Each has a small gold-rim cartoon hooded bunny-person enamel charm. Preserve exactly source visible orientation: card1 red front-facing bunny character, card2 red front facing slightly oblique, card3 charm GOLD REVERSE SIDE as photographed (do not invent another front), card4 green front bunny, card5 purple partially obscured sideways/reverse by chain as source, card6 purple front bunny. Match cream faces, black tiny eyes, pink bows, pointed hood ears, tiny feet, clasps, double chains/beads. Six total, despite twelve sales text. Remove hand, price text and sticker; do not add/remove bracelets. Top-left full six-card assortment white background. Top-middle full six cards lavender/cream styled. Top-right full six cards on dressing-table tray lifestyle. Bottom-left standalone extremely tight partial macro of real RED enamel hood/gold-rim junction and nearby chain; crop off almost entire character, NO full charm or bracelet. Bottom-middle full six-card assortment and accurate heading CHARACTER CHARM BRACELET ASSORTMENT. Bottom-right blank cream. Website-ready photograph. Preserve actual character identity, count, colours and charm orientations; no unrelated jewelry.",
+      "sha256": "e82cf7b867eb7242ab0acd15183fdd14c691dc01cd0b28427f9338e34d60d2bb",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e75ee9ce-37bb-4fbe-8164-ee40a4ae1533.png",
+      "grid_sha256": "05fb72388566d5adfadbfc32b8cbd8f272be0b81f3dbb2949198bc3a6f3ad31e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Inspected actual original, native grid and all five saved crops. Six gold double-chain beaded character bracelets preserved, including two red fronts, third gold reverse, fourth green front, fifth partially obscured purple orientation and sixth purple front. Correct white/styled/lifestyle views and accurate generic promotional heading. Macro tightly shows a real partial red hood/face rim and adjacent chain. Website-ready; no corrective needed."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-e75ee9ce-37bb-4fbe-8164-ee40a4ae1533.png",
+      "prompt": "Edit attached original into ONE1536x1024 landscape exact3columns x2rows grid, square512 cells, no gutters. Whole assortment is ONE product: EXACT SIX fine gold-tone double-chain beaded bracelets on SIX long white cards. Each has a small gold-rim cartoon hooded bunny-person enamel charm. Preserve exactly source visible orientation: card1 red front-facing bunny character, card2 red front facing slightly oblique, card3 charm GOLD REVERSE SIDE as photographed (do not invent another front), card4 green front bunny, card5 purple partially obscured sideways/reverse by chain as source, card6 purple front bunny. Match cream faces, black tiny eyes, pink bows, pointed hood ears, tiny feet, clasps, double chains/beads. Six total, despite twelve sales text. Remove hand, price text and sticker; do not add/remove bracelets. Top-left full six-card assortment white background. Top-middle full six cards lavender/cream styled. Top-right full six cards on dressing-table tray lifestyle. Bottom-left standalone extremely tight partial macro of real RED enamel hood/gold-rim junction and nearby chain; crop off almost entire character, NO full charm or bracelet. Bottom-middle full six-card assortment and accurate heading CHARACTER CHARM BRACELET ASSORTMENT. Bottom-right blank cream. Website-ready photograph. Preserve actual character identity, count, colours and charm orientations; no unrelated jewelry.",
+      "sha256": "8f38963ae7e1769d5e6fc284c868b03fc7ae029da20461a02e673ef503316f2c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e75ee9ce-37bb-4fbe-8164-ee40a4ae1533.png",
+      "grid_sha256": "05fb72388566d5adfadbfc32b8cbd8f272be0b81f3dbb2949198bc3a6f3ad31e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Inspected actual original, native grid and all five saved crops. Six gold double-chain beaded character bracelets preserved, including two red fronts, third gold reverse, fourth green front, fifth partially obscured purple orientation and sixth purple front. Correct white/styled/lifestyle views and accurate generic promotional heading. Macro tightly shows a real partial red hood/face rim and adjacent chain. Website-ready; no corrective needed."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-e75ee9ce-37bb-4fbe-8164-ee40a4ae1533.png",
+      "prompt": "Edit attached original into ONE1536x1024 landscape exact3columns x2rows grid, square512 cells, no gutters. Whole assortment is ONE product: EXACT SIX fine gold-tone double-chain beaded bracelets on SIX long white cards. Each has a small gold-rim cartoon hooded bunny-person enamel charm. Preserve exactly source visible orientation: card1 red front-facing bunny character, card2 red front facing slightly oblique, card3 charm GOLD REVERSE SIDE as photographed (do not invent another front), card4 green front bunny, card5 purple partially obscured sideways/reverse by chain as source, card6 purple front bunny. Match cream faces, black tiny eyes, pink bows, pointed hood ears, tiny feet, clasps, double chains/beads. Six total, despite twelve sales text. Remove hand, price text and sticker; do not add/remove bracelets. Top-left full six-card assortment white background. Top-middle full six cards lavender/cream styled. Top-right full six cards on dressing-table tray lifestyle. Bottom-left standalone extremely tight partial macro of real RED enamel hood/gold-rim junction and nearby chain; crop off almost entire character, NO full charm or bracelet. Bottom-middle full six-card assortment and accurate heading CHARACTER CHARM BRACELET ASSORTMENT. Bottom-right blank cream. Website-ready photograph. Preserve actual character identity, count, colours and charm orientations; no unrelated jewelry.",
+      "sha256": "75275aa0d13177e032b4bac362fa612eef24eea7d5d0e9d38dd692f906bd5d2f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e75ee9ce-37bb-4fbe-8164-ee40a4ae1533.png",
+      "grid_sha256": "05fb72388566d5adfadbfc32b8cbd8f272be0b81f3dbb2949198bc3a6f3ad31e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Inspected actual original, native grid and all five saved crops. Six gold double-chain beaded character bracelets preserved, including two red fronts, third gold reverse, fourth green front, fifth partially obscured purple orientation and sixth purple front. Correct white/styled/lifestyle views and accurate generic promotional heading. Macro tightly shows a real partial red hood/face rim and adjacent chain. Website-ready; no corrective needed."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-e75ee9ce-37bb-4fbe-8164-ee40a4ae1533.png",
+      "prompt": "Edit attached original into ONE1536x1024 landscape exact3columns x2rows grid, square512 cells, no gutters. Whole assortment is ONE product: EXACT SIX fine gold-tone double-chain beaded bracelets on SIX long white cards. Each has a small gold-rim cartoon hooded bunny-person enamel charm. Preserve exactly source visible orientation: card1 red front-facing bunny character, card2 red front facing slightly oblique, card3 charm GOLD REVERSE SIDE as photographed (do not invent another front), card4 green front bunny, card5 purple partially obscured sideways/reverse by chain as source, card6 purple front bunny. Match cream faces, black tiny eyes, pink bows, pointed hood ears, tiny feet, clasps, double chains/beads. Six total, despite twelve sales text. Remove hand, price text and sticker; do not add/remove bracelets. Top-left full six-card assortment white background. Top-middle full six cards lavender/cream styled. Top-right full six cards on dressing-table tray lifestyle. Bottom-left standalone extremely tight partial macro of real RED enamel hood/gold-rim junction and nearby chain; crop off almost entire character, NO full charm or bracelet. Bottom-middle full six-card assortment and accurate heading CHARACTER CHARM BRACELET ASSORTMENT. Bottom-right blank cream. Website-ready photograph. Preserve actual character identity, count, colours and charm orientations; no unrelated jewelry.",
+      "sha256": "1e7730162367665e49ae356111f2b55979d2b61fcbd84f261f43766ee4659145",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e75ee9ce-37bb-4fbe-8164-ee40a4ae1533.png",
+      "grid_sha256": "05fb72388566d5adfadbfc32b8cbd8f272be0b81f3dbb2949198bc3a6f3ad31e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Inspected actual original, native grid and all five saved crops. Six gold double-chain beaded character bracelets preserved, including two red fronts, third gold reverse, fourth green front, fifth partially obscured purple orientation and sixth purple front. Correct white/styled/lifestyle views and accurate generic promotional heading. Macro tightly shows a real partial red hood/face rim and adjacent chain. Website-ready; no corrective needed."
+    }
+  ],
+  "status": "complete",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true,
+  "original_baseline_verified_at": "2026-11-10T01:09:02.936967+00:00"
+}

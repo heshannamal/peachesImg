@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261002-WA0729.jpg": "5ce5e7da43dc386ed029c8019aeef82b7eb06e46740e57ecbabbae4c4607d1e1"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-2d32dae1-1505-4f4b-b828-4d74ae8c591e.png",
+      "source_output": "/workspace/generated_images/exec-2d32dae1-1505-4f4b-b828-4d74ae8c591e.png",
+      "sha256": "d4d71feb33ebdd31497d8458f708c8885a76c0830e6675b9e4acb11e0593c9f3",
+      "prompt": "ONE landscape1536x1024 native faithful reference product grid, EXACT3equalcolumns x2equalrows six512squarecells, NOgutters/borders/dividers/numbers. Toprow01entireproductpurewhite;02entireproductlavendercreamstyledstudio;03entireproductcreamvanitylavenderbedroomblur. Bottomrow04standalonetightmacro ONLYactualvisiblepartspecified NOTwholeassortment;05entireproduct withaccurateheading specified lavendercream;06blankcreamunused. Everyview whollyinsideowncell withmargin; no crossboundarycontent. Preserve exactoriginal foregroundassortmentcount/identity/colours/shapes/material/packaging and originalpairarrangement/occlusion. Remove hand/shop/oldpriceoverlay/backgroundinventory only; no inventedhiddenparts/newclaims/extra products/text exceptactualpackageprint+promoheading. Exact TWELVE soft shiny organza/satin HEART-PRINT bow hairclips on SIX originalwhitecards TWO BOWS percard inside ONE clearrectangularbox, originaldiagonal2column3rowarrangement. Row1left LAVENDERpair/right PALEBLUSHpair; row2left CREAMpair/right GREYpair; row3left BABYPINKpair/right BURGUNDYpair. Preserve12bows, twofoldedloops+shorttails/centre fabricwrap, sourceblack andgrey scatteredheartprints, originalcards/clearbox/overlap. Do not omitcard/clip, unpack/rearrange or duplicate pinkglitterbackgroundinventory. Detail04 tightrealcrop lavenderbowcentre fabricwrap andadjacentblackheartprint/organzaweave ONLY, sameactualshapes. Promo05heading HEART PRINT BOW CLIPS and all12bows/sixcards.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-2d32dae1-1505-4f4b-b828-4d74ae8c591e.png",
+      "prompt": "ONE landscape1536x1024 native faithful reference product grid, EXACT3equalcolumns x2equalrows six512squarecells, NOgutters/borders/dividers/numbers. Toprow01entireproductpurewhite;02entireproductlavendercreamstyledstudio;03entireproductcreamvanitylavenderbedroomblur. Bottomrow04standalonetightmacro ONLYactualvisiblepartspecified NOTwholeassortment;05entireproduct withaccurateheading specified lavendercream;06blankcreamunused. Everyview whollyinsideowncell withmargin; no crossboundarycontent. Preserve exactoriginal foregroundassortmentcount/identity/colours/shapes/material/packaging and originalpairarrangement/occlusion. Remove hand/shop/oldpriceoverlay/backgroundinventory only; no inventedhiddenparts/newclaims/extra products/text exceptactualpackageprint+promoheading. Exact TWELVE soft shiny organza/satin HEART-PRINT bow hairclips on SIX originalwhitecards TWO BOWS percard inside ONE clearrectangularbox, originaldiagonal2column3rowarrangement. Row1left LAVENDERpair/right PALEBLUSHpair; row2left CREAMpair/right GREYpair; row3left BABYPINKpair/right BURGUNDYpair. Preserve12bows, twofoldedloops+shorttails/centre fabricwrap, sourceblack andgrey scatteredheartprints, originalcards/clearbox/overlap. Do not omitcard/clip, unpack/rearrange or duplicate pinkglitterbackgroundinventory. Detail04 tightrealcrop lavenderbowcentre fabricwrap andadjacentblackheartprint/organzaweave ONLY, sameactualshapes. Promo05heading HEART PRINT BOW CLIPS and all12bows/sixcards.",
+      "sha256": "cc8f6ffdbba1e960074d943f6077754b270a68afe6b541f58e2eead57aa5bd30",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2d32dae1-1505-4f4b-b828-4d74ae8c591e.png",
+      "grid_sha256": "d4d71feb33ebdd31497d8458f708c8885a76c0830e6675b9e4acb11e0593c9f3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Compared actualoriginal/grid/individual512crop:12heartprintedorganza/satinbows on6cards/twobows each inoriginalpairedcolourorder lavender/blush,cream/grey,babypink/burgundy retained in fullviews. Macroreal lavenderfabriccentre/blackheart, clearcropboundaries/correctstyles/accurateheading; minor print/foldvariation accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-2d32dae1-1505-4f4b-b828-4d74ae8c591e.png",
+      "prompt": "ONE landscape1536x1024 native faithful reference product grid, EXACT3equalcolumns x2equalrows six512squarecells, NOgutters/borders/dividers/numbers. Toprow01entireproductpurewhite;02entireproductlavendercreamstyledstudio;03entireproductcreamvanitylavenderbedroomblur. Bottomrow04standalonetightmacro ONLYactualvisiblepartspecified NOTwholeassortment;05entireproduct withaccurateheading specified lavendercream;06blankcreamunused. Everyview whollyinsideowncell withmargin; no crossboundarycontent. Preserve exactoriginal foregroundassortmentcount/identity/colours/shapes/material/packaging and originalpairarrangement/occlusion. Remove hand/shop/oldpriceoverlay/backgroundinventory only; no inventedhiddenparts/newclaims/extra products/text exceptactualpackageprint+promoheading. Exact TWELVE soft shiny organza/satin HEART-PRINT bow hairclips on SIX originalwhitecards TWO BOWS percard inside ONE clearrectangularbox, originaldiagonal2column3rowarrangement. Row1left LAVENDERpair/right PALEBLUSHpair; row2left CREAMpair/right GREYpair; row3left BABYPINKpair/right BURGUNDYpair. Preserve12bows, twofoldedloops+shorttails/centre fabricwrap, sourceblack andgrey scatteredheartprints, originalcards/clearbox/overlap. Do not omitcard/clip, unpack/rearrange or duplicate pinkglitterbackgroundinventory. Detail04 tightrealcrop lavenderbowcentre fabricwrap andadjacentblackheartprint/organzaweave ONLY, sameactualshapes. Promo05heading HEART PRINT BOW CLIPS and all12bows/sixcards.",
+      "sha256": "8a7110b2d0146eb4c2630999f4126abec646c9367e36aa6c382fb24d40ea7f53",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2d32dae1-1505-4f4b-b828-4d74ae8c591e.png",
+      "grid_sha256": "d4d71feb33ebdd31497d8458f708c8885a76c0830e6675b9e4acb11e0593c9f3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Compared actualoriginal/grid/individual512crop:12heartprintedorganza/satinbows on6cards/twobows each inoriginalpairedcolourorder lavender/blush,cream/grey,babypink/burgundy retained in fullviews. Macroreal lavenderfabriccentre/blackheart, clearcropboundaries/correctstyles/accurateheading; minor print/foldvariation accepted."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-2d32dae1-1505-4f4b-b828-4d74ae8c591e.png",
+      "prompt": "ONE landscape1536x1024 native faithful reference product grid, EXACT3equalcolumns x2equalrows six512squarecells, NOgutters/borders/dividers/numbers. Toprow01entireproductpurewhite;02entireproductlavendercreamstyledstudio;03entireproductcreamvanitylavenderbedroomblur. Bottomrow04standalonetightmacro ONLYactualvisiblepartspecified NOTwholeassortment;05entireproduct withaccurateheading specified lavendercream;06blankcreamunused. Everyview whollyinsideowncell withmargin; no crossboundarycontent. Preserve exactoriginal foregroundassortmentcount/identity/colours/shapes/material/packaging and originalpairarrangement/occlusion. Remove hand/shop/oldpriceoverlay/backgroundinventory only; no inventedhiddenparts/newclaims/extra products/text exceptactualpackageprint+promoheading. Exact TWELVE soft shiny organza/satin HEART-PRINT bow hairclips on SIX originalwhitecards TWO BOWS percard inside ONE clearrectangularbox, originaldiagonal2column3rowarrangement. Row1left LAVENDERpair/right PALEBLUSHpair; row2left CREAMpair/right GREYpair; row3left BABYPINKpair/right BURGUNDYpair. Preserve12bows, twofoldedloops+shorttails/centre fabricwrap, sourceblack andgrey scatteredheartprints, originalcards/clearbox/overlap. Do not omitcard/clip, unpack/rearrange or duplicate pinkglitterbackgroundinventory. Detail04 tightrealcrop lavenderbowcentre fabricwrap andadjacentblackheartprint/organzaweave ONLY, sameactualshapes. Promo05heading HEART PRINT BOW CLIPS and all12bows/sixcards.",
+      "sha256": "4476eaf1efc90ea1a9e95806400f962ed9914fdbc2a0228d15dd441c41f88b87",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2d32dae1-1505-4f4b-b828-4d74ae8c591e.png",
+      "grid_sha256": "d4d71feb33ebdd31497d8458f708c8885a76c0830e6675b9e4acb11e0593c9f3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Compared actualoriginal/grid/individual512crop:12heartprintedorganza/satinbows on6cards/twobows each inoriginalpairedcolourorder lavender/blush,cream/grey,babypink/burgundy retained in fullviews. Macroreal lavenderfabriccentre/blackheart, clearcropboundaries/correctstyles/accurateheading; minor print/foldvariation accepted."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-2d32dae1-1505-4f4b-b828-4d74ae8c591e.png",
+      "prompt": "ONE landscape1536x1024 native faithful reference product grid, EXACT3equalcolumns x2equalrows six512squarecells, NOgutters/borders/dividers/numbers. Toprow01entireproductpurewhite;02entireproductlavendercreamstyledstudio;03entireproductcreamvanitylavenderbedroomblur. Bottomrow04standalonetightmacro ONLYactualvisiblepartspecified NOTwholeassortment;05entireproduct withaccurateheading specified lavendercream;06blankcreamunused. Everyview whollyinsideowncell withmargin; no crossboundarycontent. Preserve exactoriginal foregroundassortmentcount/identity/colours/shapes/material/packaging and originalpairarrangement/occlusion. Remove hand/shop/oldpriceoverlay/backgroundinventory only; no inventedhiddenparts/newclaims/extra products/text exceptactualpackageprint+promoheading. Exact TWELVE soft shiny organza/satin HEART-PRINT bow hairclips on SIX originalwhitecards TWO BOWS percard inside ONE clearrectangularbox, originaldiagonal2column3rowarrangement. Row1left LAVENDERpair/right PALEBLUSHpair; row2left CREAMpair/right GREYpair; row3left BABYPINKpair/right BURGUNDYpair. Preserve12bows, twofoldedloops+shorttails/centre fabricwrap, sourceblack andgrey scatteredheartprints, originalcards/clearbox/overlap. Do not omitcard/clip, unpack/rearrange or duplicate pinkglitterbackgroundinventory. Detail04 tightrealcrop lavenderbowcentre fabricwrap andadjacentblackheartprint/organzaweave ONLY, sameactualshapes. Promo05heading HEART PRINT BOW CLIPS and all12bows/sixcards.",
+      "sha256": "d2574708e43045d4d1738ba4da7193da21214b88350d4830bf634094624e347c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2d32dae1-1505-4f4b-b828-4d74ae8c591e.png",
+      "grid_sha256": "d4d71feb33ebdd31497d8458f708c8885a76c0830e6675b9e4acb11e0593c9f3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Compared actualoriginal/grid/individual512crop:12heartprintedorganza/satinbows on6cards/twobows each inoriginalpairedcolourorder lavender/blush,cream/grey,babypink/burgundy retained in fullviews. Macroreal lavenderfabriccentre/blackheart, clearcropboundaries/correctstyles/accurateheading; minor print/foldvariation accepted."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-2d32dae1-1505-4f4b-b828-4d74ae8c591e.png",
+      "prompt": "ONE landscape1536x1024 native faithful reference product grid, EXACT3equalcolumns x2equalrows six512squarecells, NOgutters/borders/dividers/numbers. Toprow01entireproductpurewhite;02entireproductlavendercreamstyledstudio;03entireproductcreamvanitylavenderbedroomblur. Bottomrow04standalonetightmacro ONLYactualvisiblepartspecified NOTwholeassortment;05entireproduct withaccurateheading specified lavendercream;06blankcreamunused. Everyview whollyinsideowncell withmargin; no crossboundarycontent. Preserve exactoriginal foregroundassortmentcount/identity/colours/shapes/material/packaging and originalpairarrangement/occlusion. Remove hand/shop/oldpriceoverlay/backgroundinventory only; no inventedhiddenparts/newclaims/extra products/text exceptactualpackageprint+promoheading. Exact TWELVE soft shiny organza/satin HEART-PRINT bow hairclips on SIX originalwhitecards TWO BOWS percard inside ONE clearrectangularbox, originaldiagonal2column3rowarrangement. Row1left LAVENDERpair/right PALEBLUSHpair; row2left CREAMpair/right GREYpair; row3left BABYPINKpair/right BURGUNDYpair. Preserve12bows, twofoldedloops+shorttails/centre fabricwrap, sourceblack andgrey scatteredheartprints, originalcards/clearbox/overlap. Do not omitcard/clip, unpack/rearrange or duplicate pinkglitterbackgroundinventory. Detail04 tightrealcrop lavenderbowcentre fabricwrap andadjacentblackheartprint/organzaweave ONLY, sameactualshapes. Promo05heading HEART PRINT BOW CLIPS and all12bows/sixcards.",
+      "sha256": "ee0b3f41f028c049866e9d4610e9b02d49385cb9b306b056c85c0bdf90ae7980",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2d32dae1-1505-4f4b-b828-4d74ae8c591e.png",
+      "grid_sha256": "d4d71feb33ebdd31497d8458f708c8885a76c0830e6675b9e4acb11e0593c9f3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Compared actualoriginal/grid/individual512crop:12heartprintedorganza/satinbows on6cards/twobows each inoriginalpairedcolourorder lavender/blush,cream/grey,babypink/burgundy retained in fullviews. Macroreal lavenderfabriccentre/blackheart, clearcropboundaries/correctstyles/accurateheading; minor print/foldvariation accepted."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "plan_original_hashes_verified": true,
+  "actual_subject": "Twelve pastel heart-print bow hair clips on six cards"
+}

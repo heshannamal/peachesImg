@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260908-WA0350(2).jpg": "73edc30f0f09293630845e8ec24a0861ffb957246adca7ab4f636aa2c75dd3f2"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-0fb7fdc4-1a3c-4af7-9223-d28e4dde078b.png",
+      "source_output": "/workspace/generated_images/exec-0fb7fdc4-1a3c-4af7-9223-d28e4dde078b.png",
+      "sha256": "fa0a3476da818fae0576d6ad2b16d704738708835e9ef44be2ac663a361a2cc0",
+      "prompt": "Native actual-original faithful image edit ONE1536x1024 borderless3x2 equal512square grid. Top white fullproduct / lavendercream styled fullproduct / lifestyle cream shelf fullproduct. Bottom standalone TIGHT actualpart macro / promo fullproduct accurateheading / blankunused. Preserve identity/count/shapes/colours, no unrelated substitutes; remove source advertising/price text and shop only. ONE pink plush alien creature exactly source: huge pale blue/black oval eyes, dark magenta broad nose, three magenta headtufts, long droopingears pinkinteriors, white chinandovalbelly yellowsoftlightcentre, pink body twoarms twolegs magentafingertips/toes. Keep exact face and proportions, seated nursery lifestyle no people. Macro tightly fur/whitebellyseam only. Heading Pink Breathing Plush. No other claims.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-0fb7fdc4-1a3c-4af7-9223-d28e4dde078b.png",
+      "prompt": "Native actual-original faithful image edit ONE1536x1024 borderless3x2 equal512square grid. Top white fullproduct / lavendercream styled fullproduct / lifestyle cream shelf fullproduct. Bottom standalone TIGHT actualpart macro / promo fullproduct accurateheading / blankunused. Preserve identity/count/shapes/colours, no unrelated substitutes; remove source advertising/price text and shop only. ONE pink plush alien creature exactly source: huge pale blue/black oval eyes, dark magenta broad nose, three magenta headtufts, long droopingears pinkinteriors, white chinandovalbelly yellowsoftlightcentre, pink body twoarms twolegs magentafingertips/toes. Keep exact face and proportions, seated nursery lifestyle no people. Macro tightly fur/whitebellyseam only. Heading Pink Breathing Plush. No other claims.",
+      "sha256": "4ff1780ad3879b60997f16da8d98d6c4a95eb406aa655c823502ff8673c4a744",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0fb7fdc4-1a3c-4af7-9223-d28e4dde078b.png",
+      "grid_sha256": "fa0a3476da818fae0576d6ad2b16d704738708835e9ef44be2ac663a361a2cc0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual original compared with all five crops: photographed single product identity, pink/white colours, face/eye shapes and proportions retained; no invented hidden contents. Full white/styled/shelf/promo views and standalone tight real fur/embroidery macro pass. Accurate heading, no unsupported added feature claims."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-0fb7fdc4-1a3c-4af7-9223-d28e4dde078b.png",
+      "prompt": "Native actual-original faithful image edit ONE1536x1024 borderless3x2 equal512square grid. Top white fullproduct / lavendercream styled fullproduct / lifestyle cream shelf fullproduct. Bottom standalone TIGHT actualpart macro / promo fullproduct accurateheading / blankunused. Preserve identity/count/shapes/colours, no unrelated substitutes; remove source advertising/price text and shop only. ONE pink plush alien creature exactly source: huge pale blue/black oval eyes, dark magenta broad nose, three magenta headtufts, long droopingears pinkinteriors, white chinandovalbelly yellowsoftlightcentre, pink body twoarms twolegs magentafingertips/toes. Keep exact face and proportions, seated nursery lifestyle no people. Macro tightly fur/whitebellyseam only. Heading Pink Breathing Plush. No other claims.",
+      "sha256": "c5523f917d3e01fc80586ba28e54060f9e9dc9dd28fc9904a62b153af134f5c3",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0fb7fdc4-1a3c-4af7-9223-d28e4dde078b.png",
+      "grid_sha256": "fa0a3476da818fae0576d6ad2b16d704738708835e9ef44be2ac663a361a2cc0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual original compared with all five crops: photographed single product identity, pink/white colours, face/eye shapes and proportions retained; no invented hidden contents. Full white/styled/shelf/promo views and standalone tight real fur/embroidery macro pass. Accurate heading, no unsupported added feature claims."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-0fb7fdc4-1a3c-4af7-9223-d28e4dde078b.png",
+      "prompt": "Native actual-original faithful image edit ONE1536x1024 borderless3x2 equal512square grid. Top white fullproduct / lavendercream styled fullproduct / lifestyle cream shelf fullproduct. Bottom standalone TIGHT actualpart macro / promo fullproduct accurateheading / blankunused. Preserve identity/count/shapes/colours, no unrelated substitutes; remove source advertising/price text and shop only. ONE pink plush alien creature exactly source: huge pale blue/black oval eyes, dark magenta broad nose, three magenta headtufts, long droopingears pinkinteriors, white chinandovalbelly yellowsoftlightcentre, pink body twoarms twolegs magentafingertips/toes. Keep exact face and proportions, seated nursery lifestyle no people. Macro tightly fur/whitebellyseam only. Heading Pink Breathing Plush. No other claims.",
+      "sha256": "d949efd1a99dfd03aa56319df89f5f2733a7510dc5a40685d4ef7f278e59155f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0fb7fdc4-1a3c-4af7-9223-d28e4dde078b.png",
+      "grid_sha256": "fa0a3476da818fae0576d6ad2b16d704738708835e9ef44be2ac663a361a2cc0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual original compared with all five crops: photographed single product identity, pink/white colours, face/eye shapes and proportions retained; no invented hidden contents. Full white/styled/shelf/promo views and standalone tight real fur/embroidery macro pass. Accurate heading, no unsupported added feature claims."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-0fb7fdc4-1a3c-4af7-9223-d28e4dde078b.png",
+      "prompt": "Native actual-original faithful image edit ONE1536x1024 borderless3x2 equal512square grid. Top white fullproduct / lavendercream styled fullproduct / lifestyle cream shelf fullproduct. Bottom standalone TIGHT actualpart macro / promo fullproduct accurateheading / blankunused. Preserve identity/count/shapes/colours, no unrelated substitutes; remove source advertising/price text and shop only. ONE pink plush alien creature exactly source: huge pale blue/black oval eyes, dark magenta broad nose, three magenta headtufts, long droopingears pinkinteriors, white chinandovalbelly yellowsoftlightcentre, pink body twoarms twolegs magentafingertips/toes. Keep exact face and proportions, seated nursery lifestyle no people. Macro tightly fur/whitebellyseam only. Heading Pink Breathing Plush. No other claims.",
+      "sha256": "da21fc7517a02305d67ce3aed2b67a07dfb3c6608ce99623171cefe3c012c90e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0fb7fdc4-1a3c-4af7-9223-d28e4dde078b.png",
+      "grid_sha256": "fa0a3476da818fae0576d6ad2b16d704738708835e9ef44be2ac663a361a2cc0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual original compared with all five crops: photographed single product identity, pink/white colours, face/eye shapes and proportions retained; no invented hidden contents. Full white/styled/shelf/promo views and standalone tight real fur/embroidery macro pass. Accurate heading, no unsupported added feature claims."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-0fb7fdc4-1a3c-4af7-9223-d28e4dde078b.png",
+      "prompt": "Native actual-original faithful image edit ONE1536x1024 borderless3x2 equal512square grid. Top white fullproduct / lavendercream styled fullproduct / lifestyle cream shelf fullproduct. Bottom standalone TIGHT actualpart macro / promo fullproduct accurateheading / blankunused. Preserve identity/count/shapes/colours, no unrelated substitutes; remove source advertising/price text and shop only. ONE pink plush alien creature exactly source: huge pale blue/black oval eyes, dark magenta broad nose, three magenta headtufts, long droopingears pinkinteriors, white chinandovalbelly yellowsoftlightcentre, pink body twoarms twolegs magentafingertips/toes. Keep exact face and proportions, seated nursery lifestyle no people. Macro tightly fur/whitebellyseam only. Heading Pink Breathing Plush. No other claims.",
+      "sha256": "f1baa51b2f694b856543f531045fe2901fe21dfe455ba1ed8fa085de8f44650c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0fb7fdc4-1a3c-4af7-9223-d28e4dde078b.png",
+      "grid_sha256": "fa0a3476da818fae0576d6ad2b16d704738708835e9ef44be2ac663a361a2cc0",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual original compared with all five crops: photographed single product identity, pink/white colours, face/eye shapes and proportions retained; no invented hidden contents. Full white/styled/shelf/promo views and standalone tight real fur/embroidery macro pass. Accurate heading, no unsupported added feature claims."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

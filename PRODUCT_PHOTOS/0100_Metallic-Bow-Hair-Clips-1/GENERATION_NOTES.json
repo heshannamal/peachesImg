@@ -1,0 +1,51 @@
+{
+  "product_id": "0100",
+  "source": "Originals/IMG-20250128-WA0562.jpg",
+  "original_hashes": {
+    "Originals/IMG-20250128-WA0562.jpg": "fbc6045c45290112a21d28843b8c2b5c34b6a3c96c1fcd8a0d45932eb67a50cf"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "cache_file": "/workspace/generated_images/exec-f038287f-35f1-430a-8837-f9f3916ff82e.png",
+      "sha256": "fdee4f0f3acc5ce8cc4866998e6782456699d556f78b07420615ca17cb0cc12a",
+      "prompt": "Edit reference into website-ready ecommerce product photograph pure white seamless soft shadows. Preserve EXACT entire packaged assortment one product:12white display cards arranged2columns x6rows with TWO small faceted butterfly-shaped hair claw clips on each card,24total, in original diagonal clear packaging. Left column from top navy/peach/cream/charcoal/tan/mauve; right teal/yellow/sage/pink/lavender/mint. Preserve all24butterfly shapes, visible springs, colours, card packaging, positions and materials. Remove holding hand/watch, shop background, old price overlay and JD-33 sticker only. Same visible face no invented parts/back/interior, no extra text or products. Basic clear website photo.",
+      "checked": true,
+      "visual_check": "Basic visual check passed:12cards24butterfly claws, original colour groups and2x6layout/package retained, no hand/price."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "cache_file": "/workspace/generated_images/exec-9bbb2e6d-f1e5-4e54-aaae-1145fcc86f62.png",
+      "sha256": "46d8f420313bb6f5917f5107fa5c66a943688acae4ab00c411aa644d67f0f2a4",
+      "prompt": "Edit reference into website-ready ecommerce product photograph pure white seamless soft shadows. Preserve EXACT entire packaged assortment one product:12white display cards arranged2columns x6rows with TWO small faceted butterfly-shaped hair claw clips on each card,24total, in original diagonal clear packaging. Left column from top navy/peach/cream/charcoal/tan/mauve; right teal/yellow/sage/pink/lavender/mint. Preserve all24butterfly shapes, visible springs, colours, card packaging, positions and materials. Remove holding hand/watch, shop background, old price overlay and JD-33 sticker only. Same visible face no invented parts/back/interior, no extra text or products. Basic clear website photo. BACKGROUND OVERRIDE pale lavender/cream studio backdrop, entire packaged assortment unchanged, soft light, no props/text.",
+      "checked": true,
+      "visual_check": "Basic visual check passed:24butterflies on12cards, same colours/package/layout, lavender background."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "cache_file": "/workspace/generated_images/exec-af2ab3c6-caee-4b2f-a50f-576fb37d1dfe.png",
+      "sha256": "df8d5b149d8d326521848aee5d1a66420b2afa34b15a690dc5dc626b1ee133ed",
+      "prompt": "Edit reference into website-ready ecommerce product photograph pure white seamless soft shadows. Preserve EXACT entire packaged assortment one product:12white display cards arranged2columns x6rows with TWO small faceted butterfly-shaped hair claw clips on each card,24total, in original diagonal clear packaging. Left column from top navy/peach/cream/charcoal/tan/mauve; right teal/yellow/sage/pink/lavender/mint. Preserve all24butterfly shapes, visible springs, colours, card packaging, positions and materials. Remove holding hand/watch, shop background, old price overlay and JD-33 sticker only. Same visible face no invented parts/back/interior, no extra text or products. Basic clear website photo. BACKGROUND OVERRIDE lifestyle photo on cream vanity table with softly blurred lavender room, same packaged24clip assortment diagonally displayed, no humans/new products/text.",
+      "checked": true,
+      "visual_check": "Basic check:24clips12cards correct colours2x6layout/package; cream vanity scene no hand/price. Minor card typography omitted, accepted website standard."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "cache_file": "/workspace/generated_images/exec-b2638974-b849-47d3-9a34-485bae0f330e.png",
+      "sha256": "b5e9ef38e04dd53253b2c236954e1aaf74e0d8fc583a51c8b5d3a5c76c441d96",
+      "prompt": "Website-ready photorealistic MACRO DETAIL edit attached source, tight crop of top right teal butterfly hair claw pair on white display card under clear plastic. Keep faceted butterfly wings, teal finish and existing coil springs/front mechanism exactly source, no rear/hidden invented parts. Only detail crop not whole assortment, cream lavender defocus, no hand/shop/old price/text.",
+      "checked": true,
+      "visual_check": "Basic check: tight macro teal pair butterfly wings/springs on card/plastic, correct visible geometry/colour, no invented rear view."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "cache_file": "/workspace/generated_images/exec-752589b8-2b9b-4550-bde4-cff210e6b293.png",
+      "sha256": "c1546f589eb976cd4abfbd6459e8a2173e74fdda699520ff98cd01f3a3b5c4ff",
+      "prompt": "Edit reference into website-ready ecommerce product photograph pure white seamless soft shadows. Preserve EXACT entire packaged assortment one product:12white display cards arranged2columns x6rows with TWO small faceted butterfly-shaped hair claw clips on each card,24total, in original diagonal clear packaging. Left column from top navy/peach/cream/charcoal/tan/mauve; right teal/yellow/sage/pink/lavender/mint. Preserve all24butterfly shapes, visible springs, colours, card packaging, positions and materials. Remove holding hand/watch, shop background, old price overlay and JD-33 sticker only. Same visible face no invented parts/back/interior, no extra text or products. Basic clear website photo. DESIGN OVERRIDE promotional website photo pale lavender cream backdrop, full unchanged24clip assortment below compact dark plum heading 'Butterfly Hair Claw Clips', small 'PRODUCT COLLECTION', no price/claims, text clear of products.",
+      "checked": true,
+      "visual_check": "Basic check:24butterflies12cards correct colours/package, clear Butterfly Hair Claw Clips and PRODUCT COLLECTION, no price."
+    }
+  ],
+  "generation_complete": true,
+  "originals_unchanged": true
+}

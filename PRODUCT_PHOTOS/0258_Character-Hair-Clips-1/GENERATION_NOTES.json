@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250303-WA0581.jpg": "a80d58ab7950722d153d4aedac1dbf37eec7075744e0d1786df315c2a052ed07"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-4e1d5b91-4b94-4085-ac55-7a18563e7aa3.png",
+      "prompt": "Website-ready square product photograph. Exact TEN fuzzy character snap hairclips on ONE tall original whitepink backingcard, five pairs vertically: pink cat-costume donut pair, cream yellow-haired girl pair, pale pink bunny icecream pair, magenta bunny icecream pair, pale lavender black-hood bunny drink pair. Preserve count10, original pair order/colours/shapes/materials and character decorations, retain card. Remove hand/shop/price only. Pure white seamless background soft shadows, full card visible, no invented items or text.",
+      "sha256": "6e825ad8b54664fd22b28ba698eb467b3a8d996cf4ea364e951370824cacba76",
+      "checked": true,
+      "visual_review": "Ten fuzzy clips on one card in five exact paired colour/character groups, fullcount and main shapes retained."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-c1c7a266-2b9c-4714-88df-c56ec0d24f1c.png",
+      "prompt": "Website-ready square product photograph. Exact TEN fuzzy character snap hairclips on ONE tall original whitepink backingcard, five pairs vertically: pink cat-costume donut pair, cream yellow-haired girl pair, pale pink bunny icecream pair, magenta bunny icecream pair, pale lavender black-hood bunny drink pair. Preserve count10, original pair order/colours/shapes/materials and character decorations, retain card. Remove hand/shop/price only. Lavender and cream studio background soft shadows, full card visible, no invented items or text.",
+      "sha256": "4da8a365b3566f5ec707ed5484daf8cb062db7ba8c8cf78d06148db75b339013",
+      "checked": true,
+      "visual_review": "Lavendercream styledview shows exact10clips with five pairedcharacter/colourgroups in original order."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-3736398a-af1a-4f3a-96ad-3283bff05f60.png",
+      "prompt": "Website-ready square product photograph. Exact TEN fuzzy character snap hairclips on ONE tall original whitepink backingcard, five pairs vertically: pink cat-costume donut pair, cream yellow-haired girl pair, pale pink bunny icecream pair, magenta bunny icecream pair, pale lavender black-hood bunny drink pair. Preserve count10, original pair order/colours/shapes/materials and character decorations, retain card. Remove hand/shop/price only. Entire assortment on cream dressing table with softly blurred lavender bedroom and daylight, full card visible, no invented items or text.",
+      "sha256": "82f25cdf370e425f1b39e972bf3f6dac02ca969f4512893e3c5b98b6eeffd879",
+      "checked": true,
+      "visual_review": "Lifestyle full card retains10clips in five pairedcharacter/colourgroups, originalorder/mainshapes."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-639dbbb5-25ec-49cb-8c12-67f645a437fb.png",
+      "prompt": "Square standalone tight macro crop of actual top pink fuzzy hairclip character decoration, white cat-ear costume blue bow and pink donut, adjoining pink fauxfur fibres. Preserve original actual characterface and shapes/colours/material, not full assortment, no text/extra parts. Cream soft studio background.",
+      "sha256": "9941082ab58aa75ad7a3bd6f08065853a53c5784d0bd9bcc782c04661badfdf0",
+      "checked": true,
+      "visual_review": "Tight realpart macro faithful to topclip white catcostume bluebow pinkdonut decoration and pinkfauxfur."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-8b298d4d-47ee-40e3-8b2e-9e9ecaebfa17.png",
+      "prompt": "Website-ready square product photograph. Exact TEN fuzzy character snap hairclips on ONE tall original whitepink backingcard, five pairs vertically: pink cat-costume donut pair, cream yellow-haired girl pair, pale pink bunny icecream pair, magenta bunny icecream pair, pale lavender black-hood bunny drink pair. Preserve count10, original pair order/colours/shapes/materials and character decorations, retain card. Remove hand/shop/price only. Lavender cream background soft shadows, small accurate plum heading Character Hair Clips and PRODUCT COLLECTION above entire assortment, no price, full card visible, no invented items or text.",
+      "sha256": "0331d2645a404610109687ed523b60324994bd6641291bb9e5e222f796502f92",
+      "checked": true,
+      "visual_review": "AccurateCharacterHairClipsheading,tenclips originalfivepairedgroups retained."
+    }
+  ],
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

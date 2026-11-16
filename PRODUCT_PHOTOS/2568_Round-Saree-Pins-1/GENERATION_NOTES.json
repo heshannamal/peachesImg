@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260930-WA0133.jpg": "66b4c6ea0f3c66c1bc0ae2811451270e76f28f28f76d1cfba41dfb37706704b1"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-55589fc0-79ad-4240-9f85-5bf099988609.png",
+      "source_output": "/workspace/generated_images/exec-55589fc0-79ad-4240-9f85-5bf099988609.png",
+      "sha256": "b42f57a5385f7f949c16ce1fd474d1419a718ad0e38bbcf7a505d57d8a4c7bde",
+      "prompt": "Native photographic edit referencedoriginal to ONE1536x1024contactsheet, strict3columns2rows equal512squarecells no gutters. Product is ONEwholecard assortment of EXACTLY TWELVE goldtone saree/abaya safety pins. Eachpin exactly FOUR roundbeads separated by3thinrhinestonespacerrings. Preserveeachpincount,4beadcount,sourceorder,colours,shape,hardware. Full12pin card together inEACHfullview: cell1top-left whitebackground ALL12PINS;cell2top-middle lavender/creamstyled ALL12PINS;cell3top-right lifestylescarf/dresserflatlay ALL12PINS;cell4bottom-left standalone tightrealpinmacro;cell5bottom-middle promotional ALL12PINS heading 'Saree & Abaya Pins';cell6bottom-rightblankcream. Noindividualpinfullviews. Showfullcardwithall12pinrows within each512squarecell, sourcewhiteprintedcard. Removehand,shop,priceoverlayandplasticbag. Exact top-to-bottom12rows,4beadspereach:BRONZE,BLACK,RED,BLACKIRIDESCENT,PEARLYWHITE/GOLD,GRAYIRIDESCENT,BRONZE,BLACK,RED,BLACKIRIDESCENT,PEARLYWHITE/GOLD,GRAYIRIDESCENT. Glossyroundmarbled/metallustrobeads, thinrhinestonespacers. Twelvepins48beads. Detailmacro actualbronze4roundbeadpinthinrhinestonespacers.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-55589fc0-79ad-4240-9f85-5bf099988609.png",
+      "prompt": "Native photographic edit referencedoriginal to ONE1536x1024contactsheet, strict3columns2rows equal512squarecells no gutters. Product is ONEwholecard assortment of EXACTLY TWELVE goldtone saree/abaya safety pins. Eachpin exactly FOUR roundbeads separated by3thinrhinestonespacerrings. Preserveeachpincount,4beadcount,sourceorder,colours,shape,hardware. Full12pin card together inEACHfullview: cell1top-left whitebackground ALL12PINS;cell2top-middle lavender/creamstyled ALL12PINS;cell3top-right lifestylescarf/dresserflatlay ALL12PINS;cell4bottom-left standalone tightrealpinmacro;cell5bottom-middle promotional ALL12PINS heading 'Saree & Abaya Pins';cell6bottom-rightblankcream. Noindividualpinfullviews. Showfullcardwithall12pinrows within each512squarecell, sourcewhiteprintedcard. Removehand,shop,priceoverlayandplasticbag. Exact top-to-bottom12rows,4beadspereach:BRONZE,BLACK,RED,BLACKIRIDESCENT,PEARLYWHITE/GOLD,GRAYIRIDESCENT,BRONZE,BLACK,RED,BLACKIRIDESCENT,PEARLYWHITE/GOLD,GRAYIRIDESCENT. Glossyroundmarbled/metallustrobeads, thinrhinestonespacers. Twelvepins48beads. Detailmacro actualbronze4roundbeadpinthinrhinestonespacers.",
+      "sha256": "abb7672aac349ef45e89aba9399ebad7eefa6f047cbb36c0a9caf09afdbda8b6",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-55589fc0-79ad-4240-9f85-5bf099988609.png",
+      "grid_sha256": "b42f57a5385f7f949c16ce1fd474d1419a718ad0e38bbcf7a505d57d8a4c7bde",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crops reviewed: all12pins4roundbeadseach, source6rowcoloursequencerepeatedtwice preserved; goldhardwareandspacersmatch; macro mechanicallytightened aroundrealbronze4beadpin, truecropboxrecorded; accurateheading."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-55589fc0-79ad-4240-9f85-5bf099988609.png",
+      "prompt": "Native photographic edit referencedoriginal to ONE1536x1024contactsheet, strict3columns2rows equal512squarecells no gutters. Product is ONEwholecard assortment of EXACTLY TWELVE goldtone saree/abaya safety pins. Eachpin exactly FOUR roundbeads separated by3thinrhinestonespacerrings. Preserveeachpincount,4beadcount,sourceorder,colours,shape,hardware. Full12pin card together inEACHfullview: cell1top-left whitebackground ALL12PINS;cell2top-middle lavender/creamstyled ALL12PINS;cell3top-right lifestylescarf/dresserflatlay ALL12PINS;cell4bottom-left standalone tightrealpinmacro;cell5bottom-middle promotional ALL12PINS heading 'Saree & Abaya Pins';cell6bottom-rightblankcream. Noindividualpinfullviews. Showfullcardwithall12pinrows within each512squarecell, sourcewhiteprintedcard. Removehand,shop,priceoverlayandplasticbag. Exact top-to-bottom12rows,4beadspereach:BRONZE,BLACK,RED,BLACKIRIDESCENT,PEARLYWHITE/GOLD,GRAYIRIDESCENT,BRONZE,BLACK,RED,BLACKIRIDESCENT,PEARLYWHITE/GOLD,GRAYIRIDESCENT. Glossyroundmarbled/metallustrobeads, thinrhinestonespacers. Twelvepins48beads. Detailmacro actualbronze4roundbeadpinthinrhinestonespacers.",
+      "sha256": "2654ca59a3633021a04dcaa974448623e5bb0ccada1ff1ab8d2150d8c8446127",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-55589fc0-79ad-4240-9f85-5bf099988609.png",
+      "grid_sha256": "b42f57a5385f7f949c16ce1fd474d1419a718ad0e38bbcf7a505d57d8a4c7bde",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crops reviewed: all12pins4roundbeadseach, source6rowcoloursequencerepeatedtwice preserved; goldhardwareandspacersmatch; macro mechanicallytightened aroundrealbronze4beadpin, truecropboxrecorded; accurateheading."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-55589fc0-79ad-4240-9f85-5bf099988609.png",
+      "prompt": "Native photographic edit referencedoriginal to ONE1536x1024contactsheet, strict3columns2rows equal512squarecells no gutters. Product is ONEwholecard assortment of EXACTLY TWELVE goldtone saree/abaya safety pins. Eachpin exactly FOUR roundbeads separated by3thinrhinestonespacerrings. Preserveeachpincount,4beadcount,sourceorder,colours,shape,hardware. Full12pin card together inEACHfullview: cell1top-left whitebackground ALL12PINS;cell2top-middle lavender/creamstyled ALL12PINS;cell3top-right lifestylescarf/dresserflatlay ALL12PINS;cell4bottom-left standalone tightrealpinmacro;cell5bottom-middle promotional ALL12PINS heading 'Saree & Abaya Pins';cell6bottom-rightblankcream. Noindividualpinfullviews. Showfullcardwithall12pinrows within each512squarecell, sourcewhiteprintedcard. Removehand,shop,priceoverlayandplasticbag. Exact top-to-bottom12rows,4beadspereach:BRONZE,BLACK,RED,BLACKIRIDESCENT,PEARLYWHITE/GOLD,GRAYIRIDESCENT,BRONZE,BLACK,RED,BLACKIRIDESCENT,PEARLYWHITE/GOLD,GRAYIRIDESCENT. Glossyroundmarbled/metallustrobeads, thinrhinestonespacers. Twelvepins48beads. Detailmacro actualbronze4roundbeadpinthinrhinestonespacers.",
+      "sha256": "604cfa565e7ba6302f27e7789f1b07c91d4b2e09f335a2115a2443db13a69cb5",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-55589fc0-79ad-4240-9f85-5bf099988609.png",
+      "grid_sha256": "b42f57a5385f7f949c16ce1fd474d1419a718ad0e38bbcf7a505d57d8a4c7bde",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crops reviewed: all12pins4roundbeadseach, source6rowcoloursequencerepeatedtwice preserved; goldhardwareandspacersmatch; macro mechanicallytightened aroundrealbronze4beadpin, truecropboxrecorded; accurateheading."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-55589fc0-79ad-4240-9f85-5bf099988609.png",
+      "prompt": "Native photographic edit referencedoriginal to ONE1536x1024contactsheet, strict3columns2rows equal512squarecells no gutters. Product is ONEwholecard assortment of EXACTLY TWELVE goldtone saree/abaya safety pins. Eachpin exactly FOUR roundbeads separated by3thinrhinestonespacerrings. Preserveeachpincount,4beadcount,sourceorder,colours,shape,hardware. Full12pin card together inEACHfullview: cell1top-left whitebackground ALL12PINS;cell2top-middle lavender/creamstyled ALL12PINS;cell3top-right lifestylescarf/dresserflatlay ALL12PINS;cell4bottom-left standalone tightrealpinmacro;cell5bottom-middle promotional ALL12PINS heading 'Saree & Abaya Pins';cell6bottom-rightblankcream. Noindividualpinfullviews. Showfullcardwithall12pinrows within each512squarecell, sourcewhiteprintedcard. Removehand,shop,priceoverlayandplasticbag. Exact top-to-bottom12rows,4beadspereach:BRONZE,BLACK,RED,BLACKIRIDESCENT,PEARLYWHITE/GOLD,GRAYIRIDESCENT,BRONZE,BLACK,RED,BLACKIRIDESCENT,PEARLYWHITE/GOLD,GRAYIRIDESCENT. Glossyroundmarbled/metallustrobeads, thinrhinestonespacers. Twelvepins48beads. Detailmacro actualbronze4roundbeadpinthinrhinestonespacers.",
+      "sha256": "2441f3d29f12d367a76f71c8de4366b9a999501abed6324852befdf90ab48427",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-55589fc0-79ad-4240-9f85-5bf099988609.png",
+      "grid_sha256": "b42f57a5385f7f949c16ce1fd474d1419a718ad0e38bbcf7a505d57d8a4c7bde",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        690,
+        512,
+        890
+      ],
+      "visual_review": "Actual saved crops reviewed: all12pins4roundbeadseach, source6rowcoloursequencerepeatedtwice preserved; goldhardwareandspacersmatch; macro mechanicallytightened aroundrealbronze4beadpin, truecropboxrecorded; accurateheading."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-55589fc0-79ad-4240-9f85-5bf099988609.png",
+      "prompt": "Native photographic edit referencedoriginal to ONE1536x1024contactsheet, strict3columns2rows equal512squarecells no gutters. Product is ONEwholecard assortment of EXACTLY TWELVE goldtone saree/abaya safety pins. Eachpin exactly FOUR roundbeads separated by3thinrhinestonespacerrings. Preserveeachpincount,4beadcount,sourceorder,colours,shape,hardware. Full12pin card together inEACHfullview: cell1top-left whitebackground ALL12PINS;cell2top-middle lavender/creamstyled ALL12PINS;cell3top-right lifestylescarf/dresserflatlay ALL12PINS;cell4bottom-left standalone tightrealpinmacro;cell5bottom-middle promotional ALL12PINS heading 'Saree & Abaya Pins';cell6bottom-rightblankcream. Noindividualpinfullviews. Showfullcardwithall12pinrows within each512squarecell, sourcewhiteprintedcard. Removehand,shop,priceoverlayandplasticbag. Exact top-to-bottom12rows,4beadspereach:BRONZE,BLACK,RED,BLACKIRIDESCENT,PEARLYWHITE/GOLD,GRAYIRIDESCENT,BRONZE,BLACK,RED,BLACKIRIDESCENT,PEARLYWHITE/GOLD,GRAYIRIDESCENT. Glossyroundmarbled/metallustrobeads, thinrhinestonespacers. Twelvepins48beads. Detailmacro actualbronze4roundbeadpinthinrhinestonespacers.",
+      "sha256": "05267042743952213d2517f3b9fcf30374f8b77ba78a496e33f9d065378f9ea4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-55589fc0-79ad-4240-9f85-5bf099988609.png",
+      "grid_sha256": "b42f57a5385f7f949c16ce1fd474d1419a718ad0e38bbcf7a505d57d8a4c7bde",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crops reviewed: all12pins4roundbeadseach, source6rowcoloursequencerepeatedtwice preserved; goldhardwareandspacersmatch; macro mechanicallytightened aroundrealbronze4beadpin, truecropboxrecorded; accurateheading."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baselines_verified": true
+}

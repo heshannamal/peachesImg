@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260930-WA0000.jpg": "540e19077fb6bd8de7f005523fa5b543719a8f31fad1f57fecaaca2d96944412"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-e7f94e68-97e5-4f1d-af47-173337ca7c50.png",
+      "source_output": "/workspace/generated_images/exec-e7f94e68-97e5-4f1d-af47-173337ca7c50.png",
+      "sha256": "dad10a1d2a7c1f2367ed20df3c11e112949c6a2ce901aa4462288ebe4a5899fb",
+      "prompt": "Native referenced photo edit of supplied CONTACT LENS COLOUR GUIDE image, not an actual lens assortment photograph. Create landscape1536x1024 precise3columns x2rows of512squarecells with boundaries x512/x1024/y512, no gutters,borders,panel labels. Top-left entire original guide on white; top-middle entire same guide on lavender/cream styled background; top-right same entire guide presented as flat reference sheet on tidy vanity desk lifestyle; bottom-left standalone tight crop of ONE actual original eye/iris swatch, not whole guide; bottom-middle entire guide promotional with accurate heading Contact Lens Colour Guide; bottom-right blank cream. Preserve exact original12eyecolours, labels and layout. Do NOT invent loose lenses, lens cases, different packaging or extra swatches. Remove price overlay if any, retain original brand when present, no claims about fit,safety or medical efficacy. Whole original guide is ONE product record. Full original guide fits fully within each full-view cell with margin. Website-ready clean lighting. Original guide has exactly12eye swatches,2ROWS\u00d76COLUMNS: top Amethyst,Blue,Brown,Green,Turquoise,SterlingSilver; bottomGrey,Honey,PureHazel,TrueSapphire,GemstoneGreen,BrilliantBlue. Below originalswatches retain FRESHLOOK COLOR CONTACT LENSES logo and ONE purple/white FRESHLOOK box image as shown. Remove old590Rsprice only. Allfullviews preserve12swatches+originalbrandlogo+oneboximage together as entireguide composition. Do not addreal3Dloose lenses or moreboxes. Macro tight actualblueeye swatch from source.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-e7f94e68-97e5-4f1d-af47-173337ca7c50.png",
+      "prompt": "Native referenced photo edit of supplied CONTACT LENS COLOUR GUIDE image, not an actual lens assortment photograph. Create landscape1536x1024 precise3columns x2rows of512squarecells with boundaries x512/x1024/y512, no gutters,borders,panel labels. Top-left entire original guide on white; top-middle entire same guide on lavender/cream styled background; top-right same entire guide presented as flat reference sheet on tidy vanity desk lifestyle; bottom-left standalone tight crop of ONE actual original eye/iris swatch, not whole guide; bottom-middle entire guide promotional with accurate heading Contact Lens Colour Guide; bottom-right blank cream. Preserve exact original12eyecolours, labels and layout. Do NOT invent loose lenses, lens cases, different packaging or extra swatches. Remove price overlay if any, retain original brand when present, no claims about fit,safety or medical efficacy. Whole original guide is ONE product record. Full original guide fits fully within each full-view cell with margin. Website-ready clean lighting. Original guide has exactly12eye swatches,2ROWS\u00d76COLUMNS: top Amethyst,Blue,Brown,Green,Turquoise,SterlingSilver; bottomGrey,Honey,PureHazel,TrueSapphire,GemstoneGreen,BrilliantBlue. Below originalswatches retain FRESHLOOK COLOR CONTACT LENSES logo and ONE purple/white FRESHLOOK box image as shown. Remove old590Rsprice only. Allfullviews preserve12swatches+originalbrandlogo+oneboximage together as entireguide composition. Do not addreal3Dloose lenses or moreboxes. Macro tight actualblueeye swatch from source.",
+      "sha256": "42da75c12f4e4674e9c51adbcdf66531203744e2e6c3505855db9ce976530776",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e7f94e68-97e5-4f1d-af47-173337ca7c50.png",
+      "grid_sha256": "dad10a1d2a7c1f2367ed20df3c11e112949c6a2ce901aa4462288ebe4a5899fb",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crop checked vs originalguide.12eye swatches2rows\u00d76,original labels/order/palette retained,FreshLooklogo+onepurpleboximage retained. Guidecomposition not invented loose lensphoto. Tight blueeye swatch detail; white/lavender/vanitysheet lifestyle/promo correct. Accurateguideheading,priceoverlay removed,website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-e7f94e68-97e5-4f1d-af47-173337ca7c50.png",
+      "prompt": "Native referenced photo edit of supplied CONTACT LENS COLOUR GUIDE image, not an actual lens assortment photograph. Create landscape1536x1024 precise3columns x2rows of512squarecells with boundaries x512/x1024/y512, no gutters,borders,panel labels. Top-left entire original guide on white; top-middle entire same guide on lavender/cream styled background; top-right same entire guide presented as flat reference sheet on tidy vanity desk lifestyle; bottom-left standalone tight crop of ONE actual original eye/iris swatch, not whole guide; bottom-middle entire guide promotional with accurate heading Contact Lens Colour Guide; bottom-right blank cream. Preserve exact original12eyecolours, labels and layout. Do NOT invent loose lenses, lens cases, different packaging or extra swatches. Remove price overlay if any, retain original brand when present, no claims about fit,safety or medical efficacy. Whole original guide is ONE product record. Full original guide fits fully within each full-view cell with margin. Website-ready clean lighting. Original guide has exactly12eye swatches,2ROWS\u00d76COLUMNS: top Amethyst,Blue,Brown,Green,Turquoise,SterlingSilver; bottomGrey,Honey,PureHazel,TrueSapphire,GemstoneGreen,BrilliantBlue. Below originalswatches retain FRESHLOOK COLOR CONTACT LENSES logo and ONE purple/white FRESHLOOK box image as shown. Remove old590Rsprice only. Allfullviews preserve12swatches+originalbrandlogo+oneboximage together as entireguide composition. Do not addreal3Dloose lenses or moreboxes. Macro tight actualblueeye swatch from source.",
+      "sha256": "b74c855bbab06d48c73b57cbd005267d26c6fd6ebf0e533994a0cc962f8e2c5e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e7f94e68-97e5-4f1d-af47-173337ca7c50.png",
+      "grid_sha256": "dad10a1d2a7c1f2367ed20df3c11e112949c6a2ce901aa4462288ebe4a5899fb",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crop checked vs originalguide.12eye swatches2rows\u00d76,original labels/order/palette retained,FreshLooklogo+onepurpleboximage retained. Guidecomposition not invented loose lensphoto. Tight blueeye swatch detail; white/lavender/vanitysheet lifestyle/promo correct. Accurateguideheading,priceoverlay removed,website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-e7f94e68-97e5-4f1d-af47-173337ca7c50.png",
+      "prompt": "Native referenced photo edit of supplied CONTACT LENS COLOUR GUIDE image, not an actual lens assortment photograph. Create landscape1536x1024 precise3columns x2rows of512squarecells with boundaries x512/x1024/y512, no gutters,borders,panel labels. Top-left entire original guide on white; top-middle entire same guide on lavender/cream styled background; top-right same entire guide presented as flat reference sheet on tidy vanity desk lifestyle; bottom-left standalone tight crop of ONE actual original eye/iris swatch, not whole guide; bottom-middle entire guide promotional with accurate heading Contact Lens Colour Guide; bottom-right blank cream. Preserve exact original12eyecolours, labels and layout. Do NOT invent loose lenses, lens cases, different packaging or extra swatches. Remove price overlay if any, retain original brand when present, no claims about fit,safety or medical efficacy. Whole original guide is ONE product record. Full original guide fits fully within each full-view cell with margin. Website-ready clean lighting. Original guide has exactly12eye swatches,2ROWS\u00d76COLUMNS: top Amethyst,Blue,Brown,Green,Turquoise,SterlingSilver; bottomGrey,Honey,PureHazel,TrueSapphire,GemstoneGreen,BrilliantBlue. Below originalswatches retain FRESHLOOK COLOR CONTACT LENSES logo and ONE purple/white FRESHLOOK box image as shown. Remove old590Rsprice only. Allfullviews preserve12swatches+originalbrandlogo+oneboximage together as entireguide composition. Do not addreal3Dloose lenses or moreboxes. Macro tight actualblueeye swatch from source.",
+      "sha256": "6af3ebb8d821c0e4a531364526b3a9b6e5949399cbc901638b8094191e36cd05",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e7f94e68-97e5-4f1d-af47-173337ca7c50.png",
+      "grid_sha256": "dad10a1d2a7c1f2367ed20df3c11e112949c6a2ce901aa4462288ebe4a5899fb",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crop checked vs originalguide.12eye swatches2rows\u00d76,original labels/order/palette retained,FreshLooklogo+onepurpleboximage retained. Guidecomposition not invented loose lensphoto. Tight blueeye swatch detail; white/lavender/vanitysheet lifestyle/promo correct. Accurateguideheading,priceoverlay removed,website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-e7f94e68-97e5-4f1d-af47-173337ca7c50.png",
+      "prompt": "Native referenced photo edit of supplied CONTACT LENS COLOUR GUIDE image, not an actual lens assortment photograph. Create landscape1536x1024 precise3columns x2rows of512squarecells with boundaries x512/x1024/y512, no gutters,borders,panel labels. Top-left entire original guide on white; top-middle entire same guide on lavender/cream styled background; top-right same entire guide presented as flat reference sheet on tidy vanity desk lifestyle; bottom-left standalone tight crop of ONE actual original eye/iris swatch, not whole guide; bottom-middle entire guide promotional with accurate heading Contact Lens Colour Guide; bottom-right blank cream. Preserve exact original12eyecolours, labels and layout. Do NOT invent loose lenses, lens cases, different packaging or extra swatches. Remove price overlay if any, retain original brand when present, no claims about fit,safety or medical efficacy. Whole original guide is ONE product record. Full original guide fits fully within each full-view cell with margin. Website-ready clean lighting. Original guide has exactly12eye swatches,2ROWS\u00d76COLUMNS: top Amethyst,Blue,Brown,Green,Turquoise,SterlingSilver; bottomGrey,Honey,PureHazel,TrueSapphire,GemstoneGreen,BrilliantBlue. Below originalswatches retain FRESHLOOK COLOR CONTACT LENSES logo and ONE purple/white FRESHLOOK box image as shown. Remove old590Rsprice only. Allfullviews preserve12swatches+originalbrandlogo+oneboximage together as entireguide composition. Do not addreal3Dloose lenses or moreboxes. Macro tight actualblueeye swatch from source.",
+      "sha256": "0fd4273faf6e9426d01fbcea7edbd9fcb0a543197a378678ecf54482e355c049",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e7f94e68-97e5-4f1d-af47-173337ca7c50.png",
+      "grid_sha256": "dad10a1d2a7c1f2367ed20df3c11e112949c6a2ce901aa4462288ebe4a5899fb",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crop checked vs originalguide.12eye swatches2rows\u00d76,original labels/order/palette retained,FreshLooklogo+onepurpleboximage retained. Guidecomposition not invented loose lensphoto. Tight blueeye swatch detail; white/lavender/vanitysheet lifestyle/promo correct. Accurateguideheading,priceoverlay removed,website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-e7f94e68-97e5-4f1d-af47-173337ca7c50.png",
+      "prompt": "Native referenced photo edit of supplied CONTACT LENS COLOUR GUIDE image, not an actual lens assortment photograph. Create landscape1536x1024 precise3columns x2rows of512squarecells with boundaries x512/x1024/y512, no gutters,borders,panel labels. Top-left entire original guide on white; top-middle entire same guide on lavender/cream styled background; top-right same entire guide presented as flat reference sheet on tidy vanity desk lifestyle; bottom-left standalone tight crop of ONE actual original eye/iris swatch, not whole guide; bottom-middle entire guide promotional with accurate heading Contact Lens Colour Guide; bottom-right blank cream. Preserve exact original12eyecolours, labels and layout. Do NOT invent loose lenses, lens cases, different packaging or extra swatches. Remove price overlay if any, retain original brand when present, no claims about fit,safety or medical efficacy. Whole original guide is ONE product record. Full original guide fits fully within each full-view cell with margin. Website-ready clean lighting. Original guide has exactly12eye swatches,2ROWS\u00d76COLUMNS: top Amethyst,Blue,Brown,Green,Turquoise,SterlingSilver; bottomGrey,Honey,PureHazel,TrueSapphire,GemstoneGreen,BrilliantBlue. Below originalswatches retain FRESHLOOK COLOR CONTACT LENSES logo and ONE purple/white FRESHLOOK box image as shown. Remove old590Rsprice only. Allfullviews preserve12swatches+originalbrandlogo+oneboximage together as entireguide composition. Do not addreal3Dloose lenses or moreboxes. Macro tight actualblueeye swatch from source.",
+      "sha256": "05a72c899137c237eb47d468975fb21665f07b84a19644a7468aca0b44dd7b11",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e7f94e68-97e5-4f1d-af47-173337ca7c50.png",
+      "grid_sha256": "dad10a1d2a7c1f2367ed20df3c11e112949c6a2ce901aa4462288ebe4a5899fb",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crop checked vs originalguide.12eye swatches2rows\u00d76,original labels/order/palette retained,FreshLooklogo+onepurpleboximage retained. Guidecomposition not invented loose lensphoto. Tight blueeye swatch detail; white/lavender/vanitysheet lifestyle/promo correct. Accurateguideheading,priceoverlay removed,website-ready."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "FreshLook contact lens12-colour reference guide with12eye swatches,logo and one originalboximage; no loose lens source",
+  "original_baseline_verified": true
+}

@@ -1,0 +1,50 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250129-WA0370.jpg": "249d9e40817f53756fa505d1cb935c1c00e6ce43677692a6ea4196d06e32cbd4"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-d3560d51-37fa-4be9-88f1-c619917fad36.png",
+      "prompt": "Edit reference into website-ready clean white seamless ecommerce photograph. Whole twelve-keyring assortment hanging from one long red I Love You retail card. Preserve twelve silver split rings, short chains with translucent coloured heart charms, and tiny clear cylindrical rose bottles with coloured stoppers and decorative granules. Colour pairs purple orange green pink blue red in original order. Keep card and exact original front angle and arrangement. Keep exact original count, geometry and colours. Remove hand, shop background and old price text overlay. No added text. Full assortment visible, realistic soft shadows, natural sharp materials.",
+      "sha256": "adf2c2b5b26d1bbb8e2852531569858887790034400c68a436be0b4e81970cca",
+      "checked": true,
+      "visual_review": "Twelve bottle keyrings, colour pairs and red retail card retained; website-ready basic check passed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-14402ded-0a23-43af-b01b-1e21c428be15.png",
+      "prompt": "Website-ready styled ecommerce photograph on pale lavender ground with cream fabric edge. Whole twelve-keyring assortment hanging from one long red I Love You retail card. Preserve twelve silver split rings, short chains with translucent coloured heart charms, and tiny clear cylindrical rose bottles with coloured stoppers and decorative granules. Colour pairs purple orange green pink blue red in original order. Keep card and exact original front angle and arrangement. Preserve original product count shape colours and front view. Remove hand shop and old price overlay. No new text. Full product visible, simple realistic lighting.",
+      "sha256": "a6e59851f6136c1486e4396e17249544e1b3fc6bc20cdf6b3f962851de59ef50",
+      "checked": true,
+      "visual_review": "Basic website visual check: main count, shape, colour identity and original retail packaging retained."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-bd4f9f03-341b-4198-bf13-ad40c571ee8c.png",
+      "prompt": "Website-ready lifestyle product photograph on cream vanity table near soft window light with a lavender wall, minimal contextual props outside product. Whole twelve-keyring assortment hanging from one long red I Love You retail card. Preserve twelve silver split rings, short chains with translucent coloured heart charms, and tiny clear cylindrical rose bottles with coloured stoppers and decorative granules. Colour pairs purple orange green pink blue red in original order. Keep card and exact original front angle and arrangement. Keep full original assortment, original front-facing arrangement, actual colours and product shape. Remove hand shop and old price overlay. No added text or invented parts.",
+      "sha256": "580a17b9cb5898e448b4bfda02aeaec189dffe0a6657a1708b40ebdf28860451",
+      "checked": true,
+      "visual_review": "Basic website visual check passed for product identity, count, main shapes colours and original packaging."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-7962ccc5-9bfa-4c9a-a810-92f0d3793f0c.png",
+      "prompt": "Tight macro crop of ONE pink rose-bottle keyring from reference. Fill frame with tiny clear cylindrical bottle, pink stopper, miniature pink rose and granules, short silver chain and edge of heart charm. Preserve original shapes colours materials, no full collection, no invented parts, no text, clean soft lavender blur.",
+      "sha256": "e681a610adc2d778ebb65abe9f0172fedea0c6a6ab63a6c39435e22c6d4f2259",
+      "checked": true,
+      "visual_review": "Tight macro check passed: recognisable source product, correct main shape colour and material."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-1d149279-e08d-4313-8143-b2b26aa5731e.png",
+      "prompt": "Create website-ready promotional product photo on lavender and cream background, compact dark plum heading 'Rose Bottle Keyring Collection' and subtitle 'PRODUCT COLLECTION'. Whole twelve-keyring assortment hanging from one long red I Love You retail card. Preserve twelve silver split rings, short chains with translucent coloured heart charms, and tiny clear cylindrical rose bottles with coloured stoppers and decorative granules. Colour pairs purple orange green pink blue red in original order. Keep card and exact original front angle and arrangement. Preserve full assortment original count geometry materials and colours. Remove hand shop and old price overlay. No extra objects or other added text. Simple realistic lighting.",
+      "sha256": "33a9236c462537b9bb3f40ef07de150c2eac6350249524f3ba020e4039630e54",
+      "checked": true,
+      "visual_review": "Basic website check passed; assortment main count shape colours identity retained and promotional heading legible."
+    }
+  ],
+  "status": "five images saved and visually checked"
+}

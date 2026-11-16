@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260929-WA0281.jpg": "0e6e416452cdf8bc0ac736194090cdfd251b20a824be702c090f49520a0e4863"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-20a81fd7-458e-4fa8-ba57-bea49d34057e.png",
+      "source_output": "/workspace/generated_images/exec-20a81fd7-458e-4fa8-ba57-bea49d34057e.png",
+      "sha256": "0254eb29a548220ca1ef6268b5c205bd80b78782548ee96c3d10550918b7913e",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Plush Bow Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment TWELVE fuzzyfauxfur BOW hairclips (notbunnyscrunchies despitefoldername), packagedintwolongclearbags SIXbowsperbag. Leftbagcolourstop-to-bottom: LAVENDER,WHITE,DUSTYROSE,PALEPINK,SAGEGREEN,HOTPINK. Rightbag:RED,MUSTARDGOLD,DUSTYPEACH,PALEYELLOW,SKYBLUE,BLACK. Eachhasplushbowloops/cinchedcentre andshortdownwardtails, noface/noanimals/noinventedelasticrings. Preserveexact12furbows andsourcecolours/shapes andthickfuzzytexture. All12bows mustappear together in eachfullview1/2/3/5, arrange2columns6rows, notonebowperscene. Remove hand/pricebanner/storeclutter. Detail tight standalone macrooffurtexture/cinchedcentre onrealSAGEbow; notfullassortment.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-20a81fd7-458e-4fa8-ba57-bea49d34057e.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Plush Bow Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment TWELVE fuzzyfauxfur BOW hairclips (notbunnyscrunchies despitefoldername), packagedintwolongclearbags SIXbowsperbag. Leftbagcolourstop-to-bottom: LAVENDER,WHITE,DUSTYROSE,PALEPINK,SAGEGREEN,HOTPINK. Rightbag:RED,MUSTARDGOLD,DUSTYPEACH,PALEYELLOW,SKYBLUE,BLACK. Eachhasplushbowloops/cinchedcentre andshortdownwardtails, noface/noanimals/noinventedelasticrings. Preserveexact12furbows andsourcecolours/shapes andthickfuzzytexture. All12bows mustappear together in eachfullview1/2/3/5, arrange2columns6rows, notonebowperscene. Remove hand/pricebanner/storeclutter. Detail tight standalone macrooffurtexture/cinchedcentre onrealSAGEbow; notfullassortment.",
+      "sha256": "090f1e4eb4a21777ea4a34b04b6f277cbe5020f38a4ad64671d9f620bc89158c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-20a81fd7-458e-4fa8-ba57-bea49d34057e.png",
+      "grid_sha256": "0254eb29a548220ca1ef6268b5c205bd80b78782548ee96c3d10550918b7913e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual grid/crop compared to source: Twelve plush faux-fur bow hairclips, two packs of six, all sourcecolours. Count12 retained all fullviews, productshapes/colours/materials consistent. Standalone tight real-part macro and accurateheading passed; websitequality sufficient."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-20a81fd7-458e-4fa8-ba57-bea49d34057e.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Plush Bow Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment TWELVE fuzzyfauxfur BOW hairclips (notbunnyscrunchies despitefoldername), packagedintwolongclearbags SIXbowsperbag. Leftbagcolourstop-to-bottom: LAVENDER,WHITE,DUSTYROSE,PALEPINK,SAGEGREEN,HOTPINK. Rightbag:RED,MUSTARDGOLD,DUSTYPEACH,PALEYELLOW,SKYBLUE,BLACK. Eachhasplushbowloops/cinchedcentre andshortdownwardtails, noface/noanimals/noinventedelasticrings. Preserveexact12furbows andsourcecolours/shapes andthickfuzzytexture. All12bows mustappear together in eachfullview1/2/3/5, arrange2columns6rows, notonebowperscene. Remove hand/pricebanner/storeclutter. Detail tight standalone macrooffurtexture/cinchedcentre onrealSAGEbow; notfullassortment.",
+      "sha256": "e6c11db325fa291714015da56f8cacb9781537810959e2cc3569150eadcf9c06",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-20a81fd7-458e-4fa8-ba57-bea49d34057e.png",
+      "grid_sha256": "0254eb29a548220ca1ef6268b5c205bd80b78782548ee96c3d10550918b7913e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual grid/crop compared to source: Twelve plush faux-fur bow hairclips, two packs of six, all sourcecolours. Count12 retained all fullviews, productshapes/colours/materials consistent. Standalone tight real-part macro and accurateheading passed; websitequality sufficient."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-20a81fd7-458e-4fa8-ba57-bea49d34057e.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Plush Bow Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment TWELVE fuzzyfauxfur BOW hairclips (notbunnyscrunchies despitefoldername), packagedintwolongclearbags SIXbowsperbag. Leftbagcolourstop-to-bottom: LAVENDER,WHITE,DUSTYROSE,PALEPINK,SAGEGREEN,HOTPINK. Rightbag:RED,MUSTARDGOLD,DUSTYPEACH,PALEYELLOW,SKYBLUE,BLACK. Eachhasplushbowloops/cinchedcentre andshortdownwardtails, noface/noanimals/noinventedelasticrings. Preserveexact12furbows andsourcecolours/shapes andthickfuzzytexture. All12bows mustappear together in eachfullview1/2/3/5, arrange2columns6rows, notonebowperscene. Remove hand/pricebanner/storeclutter. Detail tight standalone macrooffurtexture/cinchedcentre onrealSAGEbow; notfullassortment.",
+      "sha256": "34529dda7867a1dd4dd0368d253497abb93281b42f9dfe5f5979873d5e479aac",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-20a81fd7-458e-4fa8-ba57-bea49d34057e.png",
+      "grid_sha256": "0254eb29a548220ca1ef6268b5c205bd80b78782548ee96c3d10550918b7913e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual grid/crop compared to source: Twelve plush faux-fur bow hairclips, two packs of six, all sourcecolours. Count12 retained all fullviews, productshapes/colours/materials consistent. Standalone tight real-part macro and accurateheading passed; websitequality sufficient."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-20a81fd7-458e-4fa8-ba57-bea49d34057e.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Plush Bow Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment TWELVE fuzzyfauxfur BOW hairclips (notbunnyscrunchies despitefoldername), packagedintwolongclearbags SIXbowsperbag. Leftbagcolourstop-to-bottom: LAVENDER,WHITE,DUSTYROSE,PALEPINK,SAGEGREEN,HOTPINK. Rightbag:RED,MUSTARDGOLD,DUSTYPEACH,PALEYELLOW,SKYBLUE,BLACK. Eachhasplushbowloops/cinchedcentre andshortdownwardtails, noface/noanimals/noinventedelasticrings. Preserveexact12furbows andsourcecolours/shapes andthickfuzzytexture. All12bows mustappear together in eachfullview1/2/3/5, arrange2columns6rows, notonebowperscene. Remove hand/pricebanner/storeclutter. Detail tight standalone macrooffurtexture/cinchedcentre onrealSAGEbow; notfullassortment.",
+      "sha256": "6ee77f6dd098fc1b7a48af51e78fd8b36559e610cde8ac2f5550a22e235a14c9",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-20a81fd7-458e-4fa8-ba57-bea49d34057e.png",
+      "grid_sha256": "0254eb29a548220ca1ef6268b5c205bd80b78782548ee96c3d10550918b7913e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual grid/crop compared to source: Twelve plush faux-fur bow hairclips, two packs of six, all sourcecolours. Count12 retained all fullviews, productshapes/colours/materials consistent. Standalone tight real-part macro and accurateheading passed; websitequality sufficient."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-20a81fd7-458e-4fa8-ba57-bea49d34057e.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Plush Bow Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment TWELVE fuzzyfauxfur BOW hairclips (notbunnyscrunchies despitefoldername), packagedintwolongclearbags SIXbowsperbag. Leftbagcolourstop-to-bottom: LAVENDER,WHITE,DUSTYROSE,PALEPINK,SAGEGREEN,HOTPINK. Rightbag:RED,MUSTARDGOLD,DUSTYPEACH,PALEYELLOW,SKYBLUE,BLACK. Eachhasplushbowloops/cinchedcentre andshortdownwardtails, noface/noanimals/noinventedelasticrings. Preserveexact12furbows andsourcecolours/shapes andthickfuzzytexture. All12bows mustappear together in eachfullview1/2/3/5, arrange2columns6rows, notonebowperscene. Remove hand/pricebanner/storeclutter. Detail tight standalone macrooffurtexture/cinchedcentre onrealSAGEbow; notfullassortment.",
+      "sha256": "e9ca530d2856f653fc86c27f8a2e6222dc8e75408001d7bdf91dde7efcae39a6",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-20a81fd7-458e-4fa8-ba57-bea49d34057e.png",
+      "grid_sha256": "0254eb29a548220ca1ef6268b5c205bd80b78782548ee96c3d10550918b7913e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual grid/crop compared to source: Twelve plush faux-fur bow hairclips, two packs of six, all sourcecolours. Count12 retained all fullviews, productshapes/colours/materials consistent. Standalone tight real-part macro and accurateheading passed; websitequality sufficient."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Twelve plush faux-fur bow hairclips, two packs of six, all sourcecolours",
+  "originals_verified_against_frozen_plan": true
+}

@@ -1,0 +1,134 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260919-WA0160.jpg": "1f325039fa03c06ca36f51d93a3dacc7a657b8c43a668a13eaf41a0c3ae88db6",
+    "Originals/IMG-20260919-WA0161.jpg": "1444402736f9334ac8a96e78b9903e79d7b429417d00a36c7ff8d9102d7a1a97"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-681f79c3-1b6a-47b2-a18d-4675cc1990f2.png",
+      "source_output": "/workspace/generated_images/exec-681f79c3-1b6a-47b2-a18d-4675cc1990f2.png",
+      "sha256": "39c7a20ea82f533f2a72e083c0d97ed6f55848a04f64cbc6c6b9239333cbda1a",
+      "prompt": "Edit attachedACTUALoriginalphotos intoONE1536x1024websitecontactsheet exactly3columns2rows square512cells,nogutters. Toprow purewhitefullassortment/lavendercreamstyledfullassortment/cleandesklifestylefullassortment. Bottomrow standalone tightrealpartmacro/fullassortmentpromotionalaccurateheading/blankcream. Preserve actualwholeassortmentcount/identity/shapes/colours/labels;removeoldpriceoverlay,shopbackground,catalogdividers. Noextrabottles/inventedhandlesorclaims. TworeferencephotosareSAMEFOURbottlesindifferentarrangements,noteightproducts. Original4slimfrostedgradientcylindricalbottles GREEN,TURQUOISE,PINK,WHITE, eachclearflatscrewlidwithmatchingcolourinsertandmatchingwristloopsecuredbywhiteclip. WhitehandletteredHELLOMASTERprint. Showallfourbottlesinall4fullviews, entirebodies/lids/loops. Preserveoriginalgradientclearupperandcolouredlowerbody. Macro tightactualclearthreadedcap/matchingpinkinsert/wristloopattachmentpart,notwholebottle. Promotionalheading \"Hello Master Bottle Assortment\".",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-681f79c3-1b6a-47b2-a18d-4675cc1990f2.png",
+      "prompt": "Edit attachedACTUALoriginalphotos intoONE1536x1024websitecontactsheet exactly3columns2rows square512cells,nogutters. Toprow purewhitefullassortment/lavendercreamstyledfullassortment/cleandesklifestylefullassortment. Bottomrow standalone tightrealpartmacro/fullassortmentpromotionalaccurateheading/blankcream. Preserve actualwholeassortmentcount/identity/shapes/colours/labels;removeoldpriceoverlay,shopbackground,catalogdividers. Noextrabottles/inventedhandlesorclaims. TworeferencephotosareSAMEFOURbottlesindifferentarrangements,noteightproducts. Original4slimfrostedgradientcylindricalbottles GREEN,TURQUOISE,PINK,WHITE, eachclearflatscrewlidwithmatchingcolourinsertandmatchingwristloopsecuredbywhiteclip. WhitehandletteredHELLOMASTERprint. Showallfourbottlesinall4fullviews, entirebodies/lids/loops. Preserveoriginalgradientclearupperandcolouredlowerbody. Macro tightactualclearthreadedcap/matchingpinkinsert/wristloopattachmentpart,notwholebottle. Promotionalheading \"Hello Master Bottle Assortment\".",
+      "sha256": "5239afa08aa29e16f8d507e5877c3a13ae271428976e3e6faae81cd44043db74",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-681f79c3-1b6a-47b2-a18d-4675cc1990f2.png",
+      "grid_sha256": "39c7a20ea82f533f2a72e083c0d97ed6f55848a04f64cbc6c6b9239333cbda1a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual5savedcrops inspected:FOURsameHelloMastergradientbottles green/turquoise/pink/white,clearflatthreadedcapswithcolourinserts,matchingwristloops/whiteclips,originalwhitehandlettering retained. Tworeferencesaresamefourvariantsnot8. Countidentityshapescolourspass;white/lavenderstyled/desklifestyle distinct; tightactualclearcap/pinkinsert/loopclipmacro realpart;accurateheading. Frozenoriginals/outputSHAverified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-681f79c3-1b6a-47b2-a18d-4675cc1990f2.png",
+      "prompt": "Edit attachedACTUALoriginalphotos intoONE1536x1024websitecontactsheet exactly3columns2rows square512cells,nogutters. Toprow purewhitefullassortment/lavendercreamstyledfullassortment/cleandesklifestylefullassortment. Bottomrow standalone tightrealpartmacro/fullassortmentpromotionalaccurateheading/blankcream. Preserve actualwholeassortmentcount/identity/shapes/colours/labels;removeoldpriceoverlay,shopbackground,catalogdividers. Noextrabottles/inventedhandlesorclaims. TworeferencephotosareSAMEFOURbottlesindifferentarrangements,noteightproducts. Original4slimfrostedgradientcylindricalbottles GREEN,TURQUOISE,PINK,WHITE, eachclearflatscrewlidwithmatchingcolourinsertandmatchingwristloopsecuredbywhiteclip. WhitehandletteredHELLOMASTERprint. Showallfourbottlesinall4fullviews, entirebodies/lids/loops. Preserveoriginalgradientclearupperandcolouredlowerbody. Macro tightactualclearthreadedcap/matchingpinkinsert/wristloopattachmentpart,notwholebottle. Promotionalheading \"Hello Master Bottle Assortment\".",
+      "sha256": "6be692287178fe70f978ca56fc97406dcff7afe52fafd74936260006eedbd2c7",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-681f79c3-1b6a-47b2-a18d-4675cc1990f2.png",
+      "grid_sha256": "39c7a20ea82f533f2a72e083c0d97ed6f55848a04f64cbc6c6b9239333cbda1a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual5savedcrops inspected:FOURsameHelloMastergradientbottles green/turquoise/pink/white,clearflatthreadedcapswithcolourinserts,matchingwristloops/whiteclips,originalwhitehandlettering retained. Tworeferencesaresamefourvariantsnot8. Countidentityshapescolourspass;white/lavenderstyled/desklifestyle distinct; tightactualclearcap/pinkinsert/loopclipmacro realpart;accurateheading. Frozenoriginals/outputSHAverified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-681f79c3-1b6a-47b2-a18d-4675cc1990f2.png",
+      "prompt": "Edit attachedACTUALoriginalphotos intoONE1536x1024websitecontactsheet exactly3columns2rows square512cells,nogutters. Toprow purewhitefullassortment/lavendercreamstyledfullassortment/cleandesklifestylefullassortment. Bottomrow standalone tightrealpartmacro/fullassortmentpromotionalaccurateheading/blankcream. Preserve actualwholeassortmentcount/identity/shapes/colours/labels;removeoldpriceoverlay,shopbackground,catalogdividers. Noextrabottles/inventedhandlesorclaims. TworeferencephotosareSAMEFOURbottlesindifferentarrangements,noteightproducts. Original4slimfrostedgradientcylindricalbottles GREEN,TURQUOISE,PINK,WHITE, eachclearflatscrewlidwithmatchingcolourinsertandmatchingwristloopsecuredbywhiteclip. WhitehandletteredHELLOMASTERprint. Showallfourbottlesinall4fullviews, entirebodies/lids/loops. Preserveoriginalgradientclearupperandcolouredlowerbody. Macro tightactualclearthreadedcap/matchingpinkinsert/wristloopattachmentpart,notwholebottle. Promotionalheading \"Hello Master Bottle Assortment\".",
+      "sha256": "407426b49d4c2ea87e994baad4af32ca0d9a76f14af34b8a609cfdc5658c7d76",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-681f79c3-1b6a-47b2-a18d-4675cc1990f2.png",
+      "grid_sha256": "39c7a20ea82f533f2a72e083c0d97ed6f55848a04f64cbc6c6b9239333cbda1a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual5savedcrops inspected:FOURsameHelloMastergradientbottles green/turquoise/pink/white,clearflatthreadedcapswithcolourinserts,matchingwristloops/whiteclips,originalwhitehandlettering retained. Tworeferencesaresamefourvariantsnot8. Countidentityshapescolourspass;white/lavenderstyled/desklifestyle distinct; tightactualclearcap/pinkinsert/loopclipmacro realpart;accurateheading. Frozenoriginals/outputSHAverified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-681f79c3-1b6a-47b2-a18d-4675cc1990f2.png",
+      "prompt": "Edit attachedACTUALoriginalphotos intoONE1536x1024websitecontactsheet exactly3columns2rows square512cells,nogutters. Toprow purewhitefullassortment/lavendercreamstyledfullassortment/cleandesklifestylefullassortment. Bottomrow standalone tightrealpartmacro/fullassortmentpromotionalaccurateheading/blankcream. Preserve actualwholeassortmentcount/identity/shapes/colours/labels;removeoldpriceoverlay,shopbackground,catalogdividers. Noextrabottles/inventedhandlesorclaims. TworeferencephotosareSAMEFOURbottlesindifferentarrangements,noteightproducts. Original4slimfrostedgradientcylindricalbottles GREEN,TURQUOISE,PINK,WHITE, eachclearflatscrewlidwithmatchingcolourinsertandmatchingwristloopsecuredbywhiteclip. WhitehandletteredHELLOMASTERprint. Showallfourbottlesinall4fullviews, entirebodies/lids/loops. Preserveoriginalgradientclearupperandcolouredlowerbody. Macro tightactualclearthreadedcap/matchingpinkinsert/wristloopattachmentpart,notwholebottle. Promotionalheading \"Hello Master Bottle Assortment\".",
+      "sha256": "e7b5527f1079aa2ce4df7e58108db2d5baf35de7bd37fc007193598e994971e8",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-681f79c3-1b6a-47b2-a18d-4675cc1990f2.png",
+      "grid_sha256": "39c7a20ea82f533f2a72e083c0d97ed6f55848a04f64cbc6c6b9239333cbda1a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual5savedcrops inspected:FOURsameHelloMastergradientbottles green/turquoise/pink/white,clearflatthreadedcapswithcolourinserts,matchingwristloops/whiteclips,originalwhitehandlettering retained. Tworeferencesaresamefourvariantsnot8. Countidentityshapescolourspass;white/lavenderstyled/desklifestyle distinct; tightactualclearcap/pinkinsert/loopclipmacro realpart;accurateheading. Frozenoriginals/outputSHAverified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-681f79c3-1b6a-47b2-a18d-4675cc1990f2.png",
+      "prompt": "Edit attachedACTUALoriginalphotos intoONE1536x1024websitecontactsheet exactly3columns2rows square512cells,nogutters. Toprow purewhitefullassortment/lavendercreamstyledfullassortment/cleandesklifestylefullassortment. Bottomrow standalone tightrealpartmacro/fullassortmentpromotionalaccurateheading/blankcream. Preserve actualwholeassortmentcount/identity/shapes/colours/labels;removeoldpriceoverlay,shopbackground,catalogdividers. Noextrabottles/inventedhandlesorclaims. TworeferencephotosareSAMEFOURbottlesindifferentarrangements,noteightproducts. Original4slimfrostedgradientcylindricalbottles GREEN,TURQUOISE,PINK,WHITE, eachclearflatscrewlidwithmatchingcolourinsertandmatchingwristloopsecuredbywhiteclip. WhitehandletteredHELLOMASTERprint. Showallfourbottlesinall4fullviews, entirebodies/lids/loops. Preserveoriginalgradientclearupperandcolouredlowerbody. Macro tightactualclearthreadedcap/matchingpinkinsert/wristloopattachmentpart,notwholebottle. Promotionalheading \"Hello Master Bottle Assortment\".",
+      "sha256": "a4f9e30b2645056364580d14338e7b4fbb2e9edc070dde5e7cd0e31e80cd23ca",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-681f79c3-1b6a-47b2-a18d-4675cc1990f2.png",
+      "grid_sha256": "39c7a20ea82f533f2a72e083c0d97ed6f55848a04f64cbc6c6b9239333cbda1a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual5savedcrops inspected:FOURsameHelloMastergradientbottles green/turquoise/pink/white,clearflatthreadedcapswithcolourinserts,matchingwristloops/whiteclips,originalwhitehandlettering retained. Tworeferencesaresamefourvariantsnot8. Countidentityshapescolourspass;white/lavenderstyled/desklifestyle distinct; tightactualclearcap/pinkinsert/loopclipmacro realpart;accurateheading. Frozenoriginals/outputSHAverified."
+    },
+    {
+      "kind": "exact_prompt_file",
+      "saved_file": "Generation_Prompts/initial.txt",
+      "sha256": "0b9a90c5cd59f623c59ed877a05e51423abd08e54207e6061c18af5d934a53fe",
+      "checked": false
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

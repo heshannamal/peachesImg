@@ -1,0 +1,133 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260911-WA0109.jpg": "7327aa498f9df5cdd6d34373e6b5c022d229dfbc368c210efa3c3a244a17ef29"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-a57a2ff9-c250-46d9-a477-3e9eead6621a.png",
+      "source_output": "/workspace/generated_images/exec-a57a2ff9-c250-46d9-a477-3e9eead6621a.png",
+      "sha256": "9dd7442c318a7bbddc93ad94bcb014c1b87af5d7ab637d28c0bbaa1a3b241ada",
+      "prompt": "Edit the attached original product photograph into ONE website-ready 1536x1024 image divided into an EXACT 3-column by 2-row grid, each cell 512x512, no gutters or borders, no objects crossing cell boundaries. The actual product is ONE connected vertical retail hanging strip of SIX individually transparent-sleeved BLACK VINEX 8-inch combs, not hair clips. Preserve the six combs and six pockets, white backing strip, red orange VINEX COMBS header and orange/blue VINEX labels on each pocket. Black rectangular combs have coarse teeth left, fine teeth right. No hand or shop background, no added loose combs. Heading: Black Comb Assortment. Preserve actual product count, identity, shape, colours and packaging. Top left: entire assortment on pure white. Top middle: entire same assortment on lavender and cream styled backdrop. Top right: same entire assortment in a simple relevant tabletop lifestyle setting, no other products. Bottom left: standalone TIGHT macro of a real part from original, not entire assortment; preserve the actual material and detail. Bottom middle: entire assortment promotional composition with only the accurate heading given above, no price or claims. Bottom right: blank cream. No hand, store surroundings, original price overlays, invented accessories or new variants. All five cells independently useful, product large, crisp and photorealistic.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-a57a2ff9-c250-46d9-a477-3e9eead6621a.png",
+      "prompt": "Edit the attached original product photograph into ONE website-ready 1536x1024 image divided into an EXACT 3-column by 2-row grid, each cell 512x512, no gutters or borders, no objects crossing cell boundaries. The actual product is ONE connected vertical retail hanging strip of SIX individually transparent-sleeved BLACK VINEX 8-inch combs, not hair clips. Preserve the six combs and six pockets, white backing strip, red orange VINEX COMBS header and orange/blue VINEX labels on each pocket. Black rectangular combs have coarse teeth left, fine teeth right. No hand or shop background, no added loose combs. Heading: Black Comb Assortment. Preserve actual product count, identity, shape, colours and packaging. Top left: entire assortment on pure white. Top middle: entire same assortment on lavender and cream styled backdrop. Top right: same entire assortment in a simple relevant tabletop lifestyle setting, no other products. Bottom left: standalone TIGHT macro of a real part from original, not entire assortment; preserve the actual material and detail. Bottom middle: entire assortment promotional composition with only the accurate heading given above, no price or claims. Bottom right: blank cream. No hand, store surroundings, original price overlays, invented accessories or new variants. All five cells independently useful, product large, crisp and photorealistic.",
+      "sha256": "d893523d7d9aa919d4999f99d1f9036726c7e24c99b9a228c12d64183bc5c9d4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a57a2ff9-c250-46d9-a477-3e9eead6621a.png",
+      "grid_sha256": "9dd7442c318a7bbddc93ad94bcb014c1b87af5d7ab637d28c0bbaa1a3b241ada",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual five saved crops inspected: six black VINEX combs in connected six-pocket retail strip with red header and orange labels, not clips. Count, packaging, teeth, shape and black colour retained across full views. White, lavender cream styling and tabletop lifestyle valid; tight real comb teeth/label macro; accurate Black Comb Assortment heading. Frozen original and saved output SHA verified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-a57a2ff9-c250-46d9-a477-3e9eead6621a.png",
+      "prompt": "Edit the attached original product photograph into ONE website-ready 1536x1024 image divided into an EXACT 3-column by 2-row grid, each cell 512x512, no gutters or borders, no objects crossing cell boundaries. The actual product is ONE connected vertical retail hanging strip of SIX individually transparent-sleeved BLACK VINEX 8-inch combs, not hair clips. Preserve the six combs and six pockets, white backing strip, red orange VINEX COMBS header and orange/blue VINEX labels on each pocket. Black rectangular combs have coarse teeth left, fine teeth right. No hand or shop background, no added loose combs. Heading: Black Comb Assortment. Preserve actual product count, identity, shape, colours and packaging. Top left: entire assortment on pure white. Top middle: entire same assortment on lavender and cream styled backdrop. Top right: same entire assortment in a simple relevant tabletop lifestyle setting, no other products. Bottom left: standalone TIGHT macro of a real part from original, not entire assortment; preserve the actual material and detail. Bottom middle: entire assortment promotional composition with only the accurate heading given above, no price or claims. Bottom right: blank cream. No hand, store surroundings, original price overlays, invented accessories or new variants. All five cells independently useful, product large, crisp and photorealistic.",
+      "sha256": "e87689359ed4199daf64d1098446c3ca2b82df3a6efeef085c2ce2f4a98deffe",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a57a2ff9-c250-46d9-a477-3e9eead6621a.png",
+      "grid_sha256": "9dd7442c318a7bbddc93ad94bcb014c1b87af5d7ab637d28c0bbaa1a3b241ada",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual five saved crops inspected: six black VINEX combs in connected six-pocket retail strip with red header and orange labels, not clips. Count, packaging, teeth, shape and black colour retained across full views. White, lavender cream styling and tabletop lifestyle valid; tight real comb teeth/label macro; accurate Black Comb Assortment heading. Frozen original and saved output SHA verified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-a57a2ff9-c250-46d9-a477-3e9eead6621a.png",
+      "prompt": "Edit the attached original product photograph into ONE website-ready 1536x1024 image divided into an EXACT 3-column by 2-row grid, each cell 512x512, no gutters or borders, no objects crossing cell boundaries. The actual product is ONE connected vertical retail hanging strip of SIX individually transparent-sleeved BLACK VINEX 8-inch combs, not hair clips. Preserve the six combs and six pockets, white backing strip, red orange VINEX COMBS header and orange/blue VINEX labels on each pocket. Black rectangular combs have coarse teeth left, fine teeth right. No hand or shop background, no added loose combs. Heading: Black Comb Assortment. Preserve actual product count, identity, shape, colours and packaging. Top left: entire assortment on pure white. Top middle: entire same assortment on lavender and cream styled backdrop. Top right: same entire assortment in a simple relevant tabletop lifestyle setting, no other products. Bottom left: standalone TIGHT macro of a real part from original, not entire assortment; preserve the actual material and detail. Bottom middle: entire assortment promotional composition with only the accurate heading given above, no price or claims. Bottom right: blank cream. No hand, store surroundings, original price overlays, invented accessories or new variants. All five cells independently useful, product large, crisp and photorealistic.",
+      "sha256": "7cdfeedc882026c5b24162e13a281b0fb0f43ba1d99dd5379dda87f11ba842e1",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a57a2ff9-c250-46d9-a477-3e9eead6621a.png",
+      "grid_sha256": "9dd7442c318a7bbddc93ad94bcb014c1b87af5d7ab637d28c0bbaa1a3b241ada",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual five saved crops inspected: six black VINEX combs in connected six-pocket retail strip with red header and orange labels, not clips. Count, packaging, teeth, shape and black colour retained across full views. White, lavender cream styling and tabletop lifestyle valid; tight real comb teeth/label macro; accurate Black Comb Assortment heading. Frozen original and saved output SHA verified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-a57a2ff9-c250-46d9-a477-3e9eead6621a.png",
+      "prompt": "Edit the attached original product photograph into ONE website-ready 1536x1024 image divided into an EXACT 3-column by 2-row grid, each cell 512x512, no gutters or borders, no objects crossing cell boundaries. The actual product is ONE connected vertical retail hanging strip of SIX individually transparent-sleeved BLACK VINEX 8-inch combs, not hair clips. Preserve the six combs and six pockets, white backing strip, red orange VINEX COMBS header and orange/blue VINEX labels on each pocket. Black rectangular combs have coarse teeth left, fine teeth right. No hand or shop background, no added loose combs. Heading: Black Comb Assortment. Preserve actual product count, identity, shape, colours and packaging. Top left: entire assortment on pure white. Top middle: entire same assortment on lavender and cream styled backdrop. Top right: same entire assortment in a simple relevant tabletop lifestyle setting, no other products. Bottom left: standalone TIGHT macro of a real part from original, not entire assortment; preserve the actual material and detail. Bottom middle: entire assortment promotional composition with only the accurate heading given above, no price or claims. Bottom right: blank cream. No hand, store surroundings, original price overlays, invented accessories or new variants. All five cells independently useful, product large, crisp and photorealistic.",
+      "sha256": "1c348ef794174c8626f03c3df98c1898d23fbb2008e76b577eed1ff7d1b33b02",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a57a2ff9-c250-46d9-a477-3e9eead6621a.png",
+      "grid_sha256": "9dd7442c318a7bbddc93ad94bcb014c1b87af5d7ab637d28c0bbaa1a3b241ada",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual five saved crops inspected: six black VINEX combs in connected six-pocket retail strip with red header and orange labels, not clips. Count, packaging, teeth, shape and black colour retained across full views. White, lavender cream styling and tabletop lifestyle valid; tight real comb teeth/label macro; accurate Black Comb Assortment heading. Frozen original and saved output SHA verified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-a57a2ff9-c250-46d9-a477-3e9eead6621a.png",
+      "prompt": "Edit the attached original product photograph into ONE website-ready 1536x1024 image divided into an EXACT 3-column by 2-row grid, each cell 512x512, no gutters or borders, no objects crossing cell boundaries. The actual product is ONE connected vertical retail hanging strip of SIX individually transparent-sleeved BLACK VINEX 8-inch combs, not hair clips. Preserve the six combs and six pockets, white backing strip, red orange VINEX COMBS header and orange/blue VINEX labels on each pocket. Black rectangular combs have coarse teeth left, fine teeth right. No hand or shop background, no added loose combs. Heading: Black Comb Assortment. Preserve actual product count, identity, shape, colours and packaging. Top left: entire assortment on pure white. Top middle: entire same assortment on lavender and cream styled backdrop. Top right: same entire assortment in a simple relevant tabletop lifestyle setting, no other products. Bottom left: standalone TIGHT macro of a real part from original, not entire assortment; preserve the actual material and detail. Bottom middle: entire assortment promotional composition with only the accurate heading given above, no price or claims. Bottom right: blank cream. No hand, store surroundings, original price overlays, invented accessories or new variants. All five cells independently useful, product large, crisp and photorealistic.",
+      "sha256": "917981697dca906e137bbf28cfa65bb6cda97bcd1835329f9a3838e673a1f49d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a57a2ff9-c250-46d9-a477-3e9eead6621a.png",
+      "grid_sha256": "9dd7442c318a7bbddc93ad94bcb014c1b87af5d7ab637d28c0bbaa1a3b241ada",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual five saved crops inspected: six black VINEX combs in connected six-pocket retail strip with red header and orange labels, not clips. Count, packaging, teeth, shape and black colour retained across full views. White, lavender cream styling and tabletop lifestyle valid; tight real comb teeth/label macro; accurate Black Comb Assortment heading. Frozen original and saved output SHA verified."
+    },
+    {
+      "kind": "exact_prompt_file",
+      "saved_file": "Generation_Prompts/initial.txt",
+      "sha256": "9d88587ac0a1bb7301f44e3184a0130ae154be70856c5aef6dd89b370fd96e9c",
+      "checked": false
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

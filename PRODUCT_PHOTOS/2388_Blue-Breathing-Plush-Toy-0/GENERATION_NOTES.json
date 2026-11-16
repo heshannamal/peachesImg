@@ -1,0 +1,11 @@
+{
+  "status": "blocked_moderation",
+  "records": [
+    {
+      "prompt": "Edit actual referenced photo into website1536x1024grid3columns2rows, boundariesx512/1024y512. Top:white full product, lavender/cream styled full product, lifestyle full product. Bottom:standalone tight real-part macro; full product accurate-heading promo; blankcream. Independent cells,no cross-boundary objects. Preserve actual identities/shapes/colours/count. Remove all source price/shop clutter/marketing overlays. No unrelated substitutions. Exactly ONE blue plush big-eared character toy as shown, standing upright, huge black/white eyes, darkblue nose, pink inner drooping ears, white mouth/chest, pale-blue belly with warm yellow glow, navy fingers/toes/headtuft. Preserve source silhouette and proportions, no added toy. Remove surrounding graphic text/icons/background only. Lifestyle on bedside table. Macro tight actual plush belly and soft fur, showing warm yellow centre glow. Heading 'Blue Breathing Plush Toy'.",
+      "checked": false,
+      "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 0fcba407-e503-4e65-a2ed-57939cd916b6.\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"other\\\"\\n      ]\\n    }\\n  }\\n}\")",
+      "visual_review": "No generated output; native moderation block, skipped without retry."
+    }
+  ]
+}

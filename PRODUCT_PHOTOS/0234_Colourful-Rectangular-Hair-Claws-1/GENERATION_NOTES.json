@@ -1,0 +1,51 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250227-WA0276.jpg": "af938efb2abc5598c96ee57852df6dc271d6937bd678c4d72bab421c70f5386c"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-1d3bebaa-783a-4d6a-88e4-eec7e02cc08c.png",
+      "prompt": "Edit reference into website-ready white seamless ecommerce photograph. Whole12hairclaw assortment in TWO clear sleeves six rows per column. Each claw has open rectangular curved jaw and broad triangular handle. Left top-to-bottom brown,tan,black,purple,charcoal,dark green. Right hotpink,lavender,lightblue,ochre tan,limegreen,lightpink. Preserve exact count12 shapes orientation packaging colour order. Preserve actual main product count shape colours materials front view. Remove hand shop prices and surrounding inventory. No new text, full foreground product visible, soft realistic light.",
+      "sha256": "061d062a831be708aeb4cab62e061f9a83c2ba262bb3a0f5f7870b1a73b01796",
+      "checked": true,
+      "visual_review": "12claws,6rows2columns and reference colour order retained in sleeves."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-9a77659b-6364-4334-9339-ec4b27095260.png",
+      "prompt": "Website-ready styled product photo on pale lavender ground with cream cloth edge. Whole12hairclaw assortment in TWO clear sleeves six rows per column. Each claw has open rectangular curved jaw and broad triangular handle. Left top-to-bottom brown,tan,black,purple,charcoal,dark green. Right hotpink,lavender,lightblue,ochre tan,limegreen,lightpink. Preserve exact count12 shapes orientation packaging colour order. Preserve actual main product count shape colours materials front view. Remove hand shop price and inventory, no new text.",
+      "sha256": "83d3a0ce57b878470576a8ad61e25aea24a80fc328a0a37da686407131014757",
+      "checked": true,
+      "visual_review": "12claws in6rows2columns and source colour order retained."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-6af036a9-ff50-41b6-ba20-66f2e02dbf24.png",
+      "prompt": "Website-ready lifestyle product photo on cream vanity tabletop near soft window with lavender wall, no people. Whole12hairclaw assortment in TWO clear sleeves six rows per column. Each claw has open rectangular curved jaw and broad triangular handle. Left top-to-bottom brown,tan,black,purple,charcoal,dark green. Right hotpink,lavender,lightblue,ochre tan,limegreen,lightpink. Preserve exact count12 shapes orientation packaging colour order. Preserve actual product shape count colours materials front view, remove hand old price inventory shop. No text.",
+      "sha256": "35b03b678c9ce1053bcf4995bca23d48e084d36f23d1309ddfa46b7f2e65254a",
+      "checked": true,
+      "visual_review": "12claws retain original six row colour order packaging and rectangular shape in lifestyle setting."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-5ac8b3ff-0269-415f-aab2-ae23e8893bfe.png",
+      "prompt": "Tight macro product photograph cropped to lightblue rectangular hair claw's curved jaw, open slot and teeth in reference clear sleeve. Preserve actual lightblue plastic geometry and sleeve reflections, no invented back view, not full assortment, no text.",
+      "sha256": "6185bb6727629eaa577827bb6f4c7d057cea6dcaf29aa314c15605e18ee9336b",
+      "checked": true,
+      "visual_review": "Tight blue claw macro retains rectangular slot jaw teeth and packaging material."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-f1551d0c-bca8-4018-a96f-cba142541916.png",
+      "prompt": "Promotional ecommerce photo on lavender/cream background, compact dark plum heading 'Colourful Rectangle Hair Claws' and subtitle 'PRODUCT COLLECTION'. Whole12hairclaw assortment in TWO clear sleeves six rows per column. Each claw has open rectangular curved jaw and broad triangular handle. Left top-to-bottom brown,tan,black,purple,charcoal,dark green. Right hotpink,lavender,lightblue,ochre tan,limegreen,lightpink. Preserve exact count12 shapes orientation packaging colour order. Preserve actual product identity count shapes colours materials front view. Full foreground product, remove hand shop inventory prices, no other text.",
+      "sha256": "d57a80eddd8ca5418ae29728c5ce7f3a52a0282a24ec7559eeae5e7b15c710e9",
+      "checked": true,
+      "visual_review": "12claws six rows two columns, original colour order and shape packaging retained; title legible."
+    }
+  ],
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

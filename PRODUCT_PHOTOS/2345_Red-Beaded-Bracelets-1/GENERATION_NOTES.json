@@ -1,0 +1,207 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260820-WA0306.jpg": "20bef6d7544ce4eff694b9c5154e228b4e6f8e43a67e1a25eba60c20663c4c2e"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-5260e13a-120e-4a37-a9eb-77a79b750c8f.png",
+      "source_output": "/workspace/generated_images/exec-5260e13a-120e-4a37-a9eb-77a79b750c8f.png",
+      "sha256": "25a96394c71bf3beecbce05a6dd702f6cfab0f708271974355f8b1d74f2b2506",
+      "prompt": "Faithfully EDIT actual referenced bracelet assortment into1536x1024 website3x2grid boundariesx512/1024y512. Top fullassortment white, lavendercreamstyled, dressingtable lifestyle. Bottom standalone tight REALPARTmacro, fullassortment promotional accurateheading, blankcream. ExactlyTWELVE bracelets as ONE assortment; preserve actual mixed bead colours and shapes, all12whole bracelets in fullviews, arrange3rows4loops to count clearly. Do not duplicate assortment when using two views of same bundle. Remove hand/sourceprice/shopclutter/tie tag, no unrelated substitute. Preserve gold spacers, translucent round beads, actual white pearlescent charm designs, no extra jewellery. Source mixed round beads red/hotpink/lightpink/orange/cyan/paleblue/clear/gray/black, clear faceted/oval accent beads, gold spacers. Each bracelet has white pearlescent bell/tulip flower dangle on gold chain with coloured accentbead. Match actual source twelve colourways. Macro one actual white bell-shaped flower charm with gold chain and pink/clear beads. Heading 'Colourful Beaded Charm Bracelets'.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "Rejected/initial_01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-5260e13a-120e-4a37-a9eb-77a79b750c8f.png",
+      "prompt": "Faithfully EDIT actual referenced bracelet assortment into1536x1024 website3x2grid boundariesx512/1024y512. Top fullassortment white, lavendercreamstyled, dressingtable lifestyle. Bottom standalone tight REALPARTmacro, fullassortment promotional accurateheading, blankcream. ExactlyTWELVE bracelets as ONE assortment; preserve actual mixed bead colours and shapes, all12whole bracelets in fullviews, arrange3rows4loops to count clearly. Do not duplicate assortment when using two views of same bundle. Remove hand/sourceprice/shopclutter/tie tag, no unrelated substitute. Preserve gold spacers, translucent round beads, actual white pearlescent charm designs, no extra jewellery. Source mixed round beads red/hotpink/lightpink/orange/cyan/paleblue/clear/gray/black, clear faceted/oval accent beads, gold spacers. Each bracelet has white pearlescent bell/tulip flower dangle on gold chain with coloured accentbead. Match actual source twelve colourways. Macro one actual white bell-shaped flower charm with gold chain and pink/clear beads. Heading 'Colourful Beaded Charm Bracelets'.",
+      "sha256": "da110be9f0b189ce7617401f816809cb2eb03d277dcd00d4f339d72604684afc",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5260e13a-120e-4a37-a9eb-77a79b750c8f.png",
+      "grid_sha256": "25a96394c71bf3beecbce05a6dd702f6cfab0f708271974355f8b1d74f2b2506",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Wrong crop/view: native source returned one spanning top image, lacks three distinct full views.",
+      "corrective_attempts": 1
+    },
+    {
+      "saved_file": "Rejected/initial_02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-5260e13a-120e-4a37-a9eb-77a79b750c8f.png",
+      "prompt": "Faithfully EDIT actual referenced bracelet assortment into1536x1024 website3x2grid boundariesx512/1024y512. Top fullassortment white, lavendercreamstyled, dressingtable lifestyle. Bottom standalone tight REALPARTmacro, fullassortment promotional accurateheading, blankcream. ExactlyTWELVE bracelets as ONE assortment; preserve actual mixed bead colours and shapes, all12whole bracelets in fullviews, arrange3rows4loops to count clearly. Do not duplicate assortment when using two views of same bundle. Remove hand/sourceprice/shopclutter/tie tag, no unrelated substitute. Preserve gold spacers, translucent round beads, actual white pearlescent charm designs, no extra jewellery. Source mixed round beads red/hotpink/lightpink/orange/cyan/paleblue/clear/gray/black, clear faceted/oval accent beads, gold spacers. Each bracelet has white pearlescent bell/tulip flower dangle on gold chain with coloured accentbead. Match actual source twelve colourways. Macro one actual white bell-shaped flower charm with gold chain and pink/clear beads. Heading 'Colourful Beaded Charm Bracelets'.",
+      "sha256": "e590833664b1c77bfb72e1ca355ded6e66ef1ddc5e04f2bed9b01d3c68de7f1f",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5260e13a-120e-4a37-a9eb-77a79b750c8f.png",
+      "grid_sha256": "25a96394c71bf3beecbce05a6dd702f6cfab0f708271974355f8b1d74f2b2506",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Wrong crop/view: native source returned one spanning top image, lacks three distinct full views.",
+      "corrective_attempts": 1
+    },
+    {
+      "saved_file": "Rejected/initial_03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-5260e13a-120e-4a37-a9eb-77a79b750c8f.png",
+      "prompt": "Faithfully EDIT actual referenced bracelet assortment into1536x1024 website3x2grid boundariesx512/1024y512. Top fullassortment white, lavendercreamstyled, dressingtable lifestyle. Bottom standalone tight REALPARTmacro, fullassortment promotional accurateheading, blankcream. ExactlyTWELVE bracelets as ONE assortment; preserve actual mixed bead colours and shapes, all12whole bracelets in fullviews, arrange3rows4loops to count clearly. Do not duplicate assortment when using two views of same bundle. Remove hand/sourceprice/shopclutter/tie tag, no unrelated substitute. Preserve gold spacers, translucent round beads, actual white pearlescent charm designs, no extra jewellery. Source mixed round beads red/hotpink/lightpink/orange/cyan/paleblue/clear/gray/black, clear faceted/oval accent beads, gold spacers. Each bracelet has white pearlescent bell/tulip flower dangle on gold chain with coloured accentbead. Match actual source twelve colourways. Macro one actual white bell-shaped flower charm with gold chain and pink/clear beads. Heading 'Colourful Beaded Charm Bracelets'.",
+      "sha256": "4ad49dafba12468cd28d6645dd8575bc75a65d63e8c52fd6cee1d3086e70ad6f",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5260e13a-120e-4a37-a9eb-77a79b750c8f.png",
+      "grid_sha256": "25a96394c71bf3beecbce05a6dd702f6cfab0f708271974355f8b1d74f2b2506",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Wrong crop/view: native source returned one spanning top image, lacks three distinct full views.",
+      "corrective_attempts": 1
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-5260e13a-120e-4a37-a9eb-77a79b750c8f.png",
+      "prompt": "Faithfully EDIT actual referenced bracelet assortment into1536x1024 website3x2grid boundariesx512/1024y512. Top fullassortment white, lavendercreamstyled, dressingtable lifestyle. Bottom standalone tight REALPARTmacro, fullassortment promotional accurateheading, blankcream. ExactlyTWELVE bracelets as ONE assortment; preserve actual mixed bead colours and shapes, all12whole bracelets in fullviews, arrange3rows4loops to count clearly. Do not duplicate assortment when using two views of same bundle. Remove hand/sourceprice/shopclutter/tie tag, no unrelated substitute. Preserve gold spacers, translucent round beads, actual white pearlescent charm designs, no extra jewellery. Source mixed round beads red/hotpink/lightpink/orange/cyan/paleblue/clear/gray/black, clear faceted/oval accent beads, gold spacers. Each bracelet has white pearlescent bell/tulip flower dangle on gold chain with coloured accentbead. Match actual source twelve colourways. Macro one actual white bell-shaped flower charm with gold chain and pink/clear beads. Heading 'Colourful Beaded Charm Bracelets'.",
+      "sha256": "64feb83572c0f7169c941667cf1f4d0103322767c9ed945eca8e2ee96a04e2e6",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5260e13a-120e-4a37-a9eb-77a79b750c8f.png",
+      "grid_sha256": "25a96394c71bf3beecbce05a6dd702f6cfab0f708271974355f8b1d74f2b2506",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        4,
+        578,
+        463,
+        1019
+      ],
+      "visual_review": "Actual final crops inspected against originals: twelve mixed translucent beaded bracelets with gold spacers and white bell-flower charms retained; source round/oval bead and colour identities preserved. One correction supplied distinct white/styled/lifestyle full-assortment views. Original valid detail/promotion mechanically recropped to true panel boxes and retained. Actual flower-part macro and accurate heading. Two original angles represent same assortment where present."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-5260e13a-120e-4a37-a9eb-77a79b750c8f.png",
+      "prompt": "Faithfully EDIT actual referenced bracelet assortment into1536x1024 website3x2grid boundariesx512/1024y512. Top fullassortment white, lavendercreamstyled, dressingtable lifestyle. Bottom standalone tight REALPARTmacro, fullassortment promotional accurateheading, blankcream. ExactlyTWELVE bracelets as ONE assortment; preserve actual mixed bead colours and shapes, all12whole bracelets in fullviews, arrange3rows4loops to count clearly. Do not duplicate assortment when using two views of same bundle. Remove hand/sourceprice/shopclutter/tie tag, no unrelated substitute. Preserve gold spacers, translucent round beads, actual white pearlescent charm designs, no extra jewellery. Source mixed round beads red/hotpink/lightpink/orange/cyan/paleblue/clear/gray/black, clear faceted/oval accent beads, gold spacers. Each bracelet has white pearlescent bell/tulip flower dangle on gold chain with coloured accentbead. Match actual source twelve colourways. Macro one actual white bell-shaped flower charm with gold chain and pink/clear beads. Heading 'Colourful Beaded Charm Bracelets'.",
+      "sha256": "15858b22e7521b427ec0401640cb17733b5ae0a49a5c03c178b496f2d1f00a67",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5260e13a-120e-4a37-a9eb-77a79b750c8f.png",
+      "grid_sha256": "25a96394c71bf3beecbce05a6dd702f6cfab0f708271974355f8b1d74f2b2506",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        468,
+        578,
+        1090,
+        1019
+      ],
+      "visual_review": "Actual final crops inspected against originals: twelve mixed translucent beaded bracelets with gold spacers and white bell-flower charms retained; source round/oval bead and colour identities preserved. One correction supplied distinct white/styled/lifestyle full-assortment views. Original valid detail/promotion mechanically recropped to true panel boxes and retained. Actual flower-part macro and accurate heading. Two original angles represent same assortment where present."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-9ba727c0-23e8-41b6-87be-ea86afa40426.png",
+      "source_output": "/workspace/generated_images/exec-9ba727c0-23e8-41b6-87be-ea86afa40426.png",
+      "sha256": "dfb7d9e01331e205bb52e4bfe81f21fe55610fea82e975061132b60543ca8ec9",
+      "prompt": "Faithfully EDIT actual referenced bracelet assortment into1536x1024 website3x2grid boundariesx512/1024y512. Top fullassortment white, lavendercreamstyled, dressingtable lifestyle. Bottom standalone tight REALPARTmacro, fullassortment promotional accurateheading, blankcream. ExactlyTWELVE bracelets as ONE assortment; preserve actual mixed bead colours and shapes, all12whole bracelets in fullviews, arrange3rows4loops to count clearly. Do not duplicate assortment when using two views of same bundle. Remove hand/sourceprice/shopclutter/tie tag, no unrelated substitute. Preserve gold spacers, translucent round beads, actual white pearlescent charm designs, no extra jewellery. Source mixed round beads red/hotpink/lightpink/orange/cyan/paleblue/clear/gray/black, clear faceted/oval accent beads, gold spacers. Each bracelet has white pearlescent bell/tulip flower dangle on gold chain with coloured accentbead. Match actual source twelve colourways. Macro one actual white bell-shaped flower charm with gold chain and pink/clear beads. Heading 'Colourful Beaded Charm Bracelets'. MATERIAL CORRECTION: Produce the exact SIX equal 512x512 PANELS, not one large top image. Top row THREE SEPARATE images each depicting ALL TWELVE bracelets: x0-512 pureWHITE background; x512-1024 LAVENDER/CREAM studio; x1024-1536 LIFESTYLE dressing table. Bottom three cells detail,promo,blank. No spanning image. Count exactly twelve source-identical bracelets in EACH top cell. Preserve already valid detail/promo.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-9ba727c0-23e8-41b6-87be-ea86afa40426.png",
+      "prompt": "Faithfully EDIT actual referenced bracelet assortment into1536x1024 website3x2grid boundariesx512/1024y512. Top fullassortment white, lavendercreamstyled, dressingtable lifestyle. Bottom standalone tight REALPARTmacro, fullassortment promotional accurateheading, blankcream. ExactlyTWELVE bracelets as ONE assortment; preserve actual mixed bead colours and shapes, all12whole bracelets in fullviews, arrange3rows4loops to count clearly. Do not duplicate assortment when using two views of same bundle. Remove hand/sourceprice/shopclutter/tie tag, no unrelated substitute. Preserve gold spacers, translucent round beads, actual white pearlescent charm designs, no extra jewellery. Source mixed round beads red/hotpink/lightpink/orange/cyan/paleblue/clear/gray/black, clear faceted/oval accent beads, gold spacers. Each bracelet has white pearlescent bell/tulip flower dangle on gold chain with coloured accentbead. Match actual source twelve colourways. Macro one actual white bell-shaped flower charm with gold chain and pink/clear beads. Heading 'Colourful Beaded Charm Bracelets'. MATERIAL CORRECTION: Produce the exact SIX equal 512x512 PANELS, not one large top image. Top row THREE SEPARATE images each depicting ALL TWELVE bracelets: x0-512 pureWHITE background; x512-1024 LAVENDER/CREAM studio; x1024-1536 LIFESTYLE dressing table. Bottom three cells detail,promo,blank. No spanning image. Count exactly twelve source-identical bracelets in EACH top cell. Preserve already valid detail/promo.",
+      "sha256": "04a7cc0358da766d4aa235e674ccb00624ced614899c7cef2929a20cd2c2a22b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9ba727c0-23e8-41b6-87be-ea86afa40426.png",
+      "grid_sha256": "dfb7d9e01331e205bb52e4bfe81f21fe55610fea82e975061132b60543ca8ec9",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual final crops inspected against originals: twelve mixed translucent beaded bracelets with gold spacers and white bell-flower charms retained; source round/oval bead and colour identities preserved. One correction supplied distinct white/styled/lifestyle full-assortment views. Original valid detail/promotion mechanically recropped to true panel boxes and retained. Actual flower-part macro and accurate heading. Two original angles represent same assortment where present."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-9ba727c0-23e8-41b6-87be-ea86afa40426.png",
+      "prompt": "Faithfully EDIT actual referenced bracelet assortment into1536x1024 website3x2grid boundariesx512/1024y512. Top fullassortment white, lavendercreamstyled, dressingtable lifestyle. Bottom standalone tight REALPARTmacro, fullassortment promotional accurateheading, blankcream. ExactlyTWELVE bracelets as ONE assortment; preserve actual mixed bead colours and shapes, all12whole bracelets in fullviews, arrange3rows4loops to count clearly. Do not duplicate assortment when using two views of same bundle. Remove hand/sourceprice/shopclutter/tie tag, no unrelated substitute. Preserve gold spacers, translucent round beads, actual white pearlescent charm designs, no extra jewellery. Source mixed round beads red/hotpink/lightpink/orange/cyan/paleblue/clear/gray/black, clear faceted/oval accent beads, gold spacers. Each bracelet has white pearlescent bell/tulip flower dangle on gold chain with coloured accentbead. Match actual source twelve colourways. Macro one actual white bell-shaped flower charm with gold chain and pink/clear beads. Heading 'Colourful Beaded Charm Bracelets'. MATERIAL CORRECTION: Produce the exact SIX equal 512x512 PANELS, not one large top image. Top row THREE SEPARATE images each depicting ALL TWELVE bracelets: x0-512 pureWHITE background; x512-1024 LAVENDER/CREAM studio; x1024-1536 LIFESTYLE dressing table. Bottom three cells detail,promo,blank. No spanning image. Count exactly twelve source-identical bracelets in EACH top cell. Preserve already valid detail/promo.",
+      "sha256": "ae385672c9d8c2d2c0845949c97b51cf41032ac1286aba9d34c8c9eb6b429a1a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9ba727c0-23e8-41b6-87be-ea86afa40426.png",
+      "grid_sha256": "dfb7d9e01331e205bb52e4bfe81f21fe55610fea82e975061132b60543ca8ec9",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual final crops inspected against originals: twelve mixed translucent beaded bracelets with gold spacers and white bell-flower charms retained; source round/oval bead and colour identities preserved. One correction supplied distinct white/styled/lifestyle full-assortment views. Original valid detail/promotion mechanically recropped to true panel boxes and retained. Actual flower-part macro and accurate heading. Two original angles represent same assortment where present."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-9ba727c0-23e8-41b6-87be-ea86afa40426.png",
+      "prompt": "Faithfully EDIT actual referenced bracelet assortment into1536x1024 website3x2grid boundariesx512/1024y512. Top fullassortment white, lavendercreamstyled, dressingtable lifestyle. Bottom standalone tight REALPARTmacro, fullassortment promotional accurateheading, blankcream. ExactlyTWELVE bracelets as ONE assortment; preserve actual mixed bead colours and shapes, all12whole bracelets in fullviews, arrange3rows4loops to count clearly. Do not duplicate assortment when using two views of same bundle. Remove hand/sourceprice/shopclutter/tie tag, no unrelated substitute. Preserve gold spacers, translucent round beads, actual white pearlescent charm designs, no extra jewellery. Source mixed round beads red/hotpink/lightpink/orange/cyan/paleblue/clear/gray/black, clear faceted/oval accent beads, gold spacers. Each bracelet has white pearlescent bell/tulip flower dangle on gold chain with coloured accentbead. Match actual source twelve colourways. Macro one actual white bell-shaped flower charm with gold chain and pink/clear beads. Heading 'Colourful Beaded Charm Bracelets'. MATERIAL CORRECTION: Produce the exact SIX equal 512x512 PANELS, not one large top image. Top row THREE SEPARATE images each depicting ALL TWELVE bracelets: x0-512 pureWHITE background; x512-1024 LAVENDER/CREAM studio; x1024-1536 LIFESTYLE dressing table. Bottom three cells detail,promo,blank. No spanning image. Count exactly twelve source-identical bracelets in EACH top cell. Preserve already valid detail/promo.",
+      "sha256": "08e364b89b5e4296893c262f0ffd190bae2b1c467f7c0f3b1cad134a0d38434a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-9ba727c0-23e8-41b6-87be-ea86afa40426.png",
+      "grid_sha256": "dfb7d9e01331e205bb52e4bfe81f21fe55610fea82e975061132b60543ca8ec9",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual final crops inspected against originals: twelve mixed translucent beaded bracelets with gold spacers and white bell-flower charms retained; source round/oval bead and colour identities preserved. One correction supplied distinct white/styled/lifestyle full-assortment views. Original valid detail/promotion mechanically recropped to true panel boxes and retained. Actual flower-part macro and accurate heading. Two original angles represent same assortment where present."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts_spent": {
+    "01_White-Background.png": 1,
+    "02_Styled-Background.png": 1,
+    "03_Lifestyle.png": 1
+  },
+  "original_baselines_verified": true
+}

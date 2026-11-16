@@ -1,0 +1,63 @@
+{
+  "tool": "built-in image_gen",
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-ceb55f39-e55c-48d4-ba9a-2a0a15cb3972.png",
+      "prompt": "Clean white seamless ecommerce photograph. Exactly TWELVE large rectangular neutral hair claws in two clear vertical sleeves, SIX per column. LEFT top-to-bottom: taupe,taupe,beige tan,beige tan,dark taupe brown,dark taupe brown. RIGHT top-to-bottom: dark brown,dark brown,BLACK,BLACK,LIGHT BEIGE,LIGHT BEIGE. Exactly TWO of each colour group, never three black. Smooth curved solid rectangular jaws, darker translucent handles and visible springs; preserve clear sleeves. Preserve original front view identity shape count colours and packaging. Remove hand shop people and price overlay. No new text, no invented parts.",
+      "sha256": "6d80742aae0daa171877fdf23ce8401cf0f8d8095afc922b46453fae6e676d93",
+      "checked": true,
+      "visual_review": "Twelve clips verified two columns six rows; right colours brown2black2light beige2, left paired taupe/tan/brown. Corrected prior colour error."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-79a6562c-221e-42ba-9494-1cbc5c25a713.png",
+      "prompt": "Styled ecommerce photo on pale lavender with cream fabric edge. Exactly TWELVE large rectangular neutral hair claws in two clear vertical sleeves, SIX per column. LEFT top-to-bottom: taupe,taupe,beige tan,beige tan,dark taupe brown,dark taupe brown. RIGHT top-to-bottom: dark brown,dark brown,BLACK,BLACK,LIGHT BEIGE,LIGHT BEIGE. Exactly TWO of each colour group, never three black. Smooth curved solid rectangular jaws, darker translucent handles and visible springs; preserve clear sleeves. Preserve original front geometry count colours and material. Remove people hand shop price overlays; no added text.",
+      "sha256": "ae17706ba74b28850373227e0a43589ae71270cb47937965e0be874265331b51",
+      "checked": true,
+      "visual_review": "Twelve clips retain six per sleeve with paired colours; right brown brown black black light light checked."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-876197cc-e420-41fe-821c-d4b7e5194b7a.png",
+      "prompt": "Lifestyle photo on cream dressing table near window and lavender wall. Exactly TWELVE large rectangular neutral hair claws in two clear vertical sleeves, SIX per column. LEFT top-to-bottom: taupe,taupe,beige tan,beige tan,dark taupe brown,dark taupe brown. RIGHT top-to-bottom: dark brown,dark brown,BLACK,BLACK,LIGHT BEIGE,LIGHT BEIGE. Exactly TWO of each colour group, never three black. Smooth curved solid rectangular jaws, darker translucent handles and visible springs; preserve clear sleeves. Preserve exactly six per sleeve and colour pairs, original front view shape material. Remove hand shop prices, no new text.",
+      "sha256": "31ac66a26adbee6520c6dafc34e5ba77dbfc1cd50d2d695adc05a82e2728b31a",
+      "checked": true,
+      "visual_review": "12clips two columns six, paired neutral colours verified in lifestyle setting."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-812af417-c5da-4356-b338-4187f83fdce1.png",
+      "prompt": "Tight macro photograph cropped to one taupe hair claw upper jaw and visible metal coil spring with translucent handle in reference. Preserve actual taupe plastic curve and spring, clear sleeve reflections; crop detail only, not full collection. No text.",
+      "sha256": "a843541c488e552f521ab4a61d1017dfac14a6c4556067fa8c71703a201cbc4f",
+      "checked": true,
+      "visual_review": "Tight macro retains taupe jaw, translucent handle and coil spring geometry and packaging."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-4b771bdb-2f76-4572-bb08-3157df7e7b3c.png",
+      "prompt": "Website promotional product photo on lavender/cream with compact dark plum heading 'Neutral Hair Claw Collection' and subtitle 'PRODUCT COLLECTION'. Exactly TWELVE large rectangular neutral hair claws in two clear vertical sleeves, SIX per column. LEFT top-to-bottom: taupe,taupe,beige tan,beige tan,dark taupe brown,dark taupe brown. RIGHT top-to-bottom: dark brown,dark brown,BLACK,BLACK,LIGHT BEIGE,LIGHT BEIGE. Exactly TWO of each colour group, never three black. Smooth curved solid rectangular jaws, darker translucent handles and visible springs; preserve clear sleeves. Full assortment originalfrontview. Count12: RIGHT2brown2black2lightbeige, LEFT2taupe2tan2brown. Preserve original shapes colours materials packaging. Remove hand shop price overlay. No other products text.",
+      "sha256": "c01b1f4639f5754fc1b1d21365c59ebb2916194595d1df548053f53a8538e37b",
+      "checked": true,
+      "visual_review": "12clips counted6percolumn; right2brown2black2lightbeige, left paired colours; correct heading and subtitle."
+    }
+  ],
+  "original_hashes": {
+    "Originals/IMG-20250206-WA0617.jpg": "4c204b499b1424134d843d1f396d47db63c871929e170bc5625926a873abfbf7"
+  },
+  "status": "five images saved and visually checked",
+  "rejected_outputs": [
+    {
+      "file": "Rejected/01_White-Background-colour-count.png",
+      "reason": "Wrong colour allocation: three dark/black clips and one light clip in right column instead of two each."
+    }
+  ],
+  "rejected_records": [
+    {
+      "saved_file": "Rejected/01_White-Background-colour-count.png",
+      "sha256": "14a19929fb9920bcc0ef1f944ab8dbb8d48b5b2909876c89ae5ffcf5549c540e",
+      "checked": false,
+      "visual_review": "Rejected: wrong colour allocation in right column."
+    }
+  ]
+}

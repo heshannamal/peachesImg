@@ -1,0 +1,51 @@
+{
+  "tool": "built-in image_gen",
+  "status": "five images generated and visually checked",
+  "original_hashes": {
+    "Originals/IMG-20250205-WA0890.jpg": "4e304f70e9d624620974c60d02ccbd6e384676bd13ca6439d0ed1b7bd1a76783"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-a276dbb6-7211-4425-a9b7-6fac9ac67ba2.png",
+      "prompt": "Edit reference into ONE clean realistic ecommerce product photo. Six rectangular quilted zip pouches stacked vertically inside one clear bag. Top red cartoon white kitten print,next pink kitten designs,next pink mixed kitten/toy print,next pale pink blue/gray cats,next purple unicorns/rainbows, bottom pastel blue-pink gradient with clouds/hearts/gem. Preserve6pouches,count,order,quilt stitching,printing,zip silhouettes and clear package. Whole assortment ONE product. Pure white seamless background, soft contact shadows, full assortment inside frame, natural front view. Remove hand,shop,price overlays,ruler and handwritten notes. Preserve identity,count,shape,material,colours and arrangement. No extra products,parts or imagined reverse views.",
+      "sha256": "c30da2c4dce3a928589465de61bbf04e2b2e0105b7073e38016269b845ce41f0",
+      "checked": true,
+      "visual_review": "Six bagged rectangular zip pouches retain original order,red/pink kitten,pale cat,purple unicorn and pastel gradient prints."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-317db82f-2c37-41a0-9210-a983afb4d6fc.png",
+      "prompt": "ONE realistic website styled-background product photo of exact reference. Six rectangular quilted zip pouches stacked vertically inside one clear bag. Top red cartoon white kitten print,next pink kitten designs,next pink mixed kitten/toy print,next pale pink blue/gray cats,next purple unicorns/rainbows, bottom pastel blue-pink gradient with clouds/hearts/gem. Preserve6pouches,count,order,quilt stitching,printing,zip silhouettes and clear package. Entire assortment ONE product. Full product within frame on warm cream surface with lavender cloth accents outside product. Preserve count,identity,shape,colour,material,package and arrangement. Remove hand,shop,price,ruler/notes. No extra products or invented parts/views.",
+      "sha256": "1bb16a298d247a6c6d7060d2ed4407a52270a11a0bde813245e92071518f81d1",
+      "checked": true,
+      "visual_review": "Six bagged rectangular zip pouches retain original order,red/pink kitten,pale cat,purple unicorn and pastel gradient prints. Cream lavender styling checked; website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-58943bc5-8528-4207-a662-e5f464af1194.png",
+      "prompt": "ONE realistic website lifestyle product photo of exact reference. Six rectangular quilted zip pouches stacked vertically in one clear bag: topred white kitten print,nextpink kitten designs,nextpink mixed kitten/toy print,nextpale pink blue/gray cats,nextpurple unicorn/rainbow,bottompastel blue-pink gradient cloud/hearts/gem. Preserve6count/order,quilt stitching,printing,zip shapes and bag. Entire assortment ONE product,full set visible on cream vanity with lavender linen and closed book well beyond product edges,soft daylight. Preserve count,identity,shape,colour,material,package and arrangement. Remove hand,shop,price,ruler/notes. No people,extra products,invented parts or reverse views.",
+      "sha256": "ca597d7279f7caf7926d1b2e1f43ddbf7dcd5c662c54ac599ffb74dc6d3d9d86",
+      "checked": true,
+      "visual_review": "Six quilted pouches retain red/pink kitten,pale cats,purple unicorn,pastel gradient order and clear bag; lifestyle background clean."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-01c7a9b1-08f1-48ab-b54e-14b4181c9c12.png",
+      "prompt": "ONE realistic TIGHT MACRO product-detail photograph of exact reference. Six rectangular quilted zip pouches stacked vertically in one clear bag: topred white kitten print,nextpink kitten designs,nextpink mixed kitten/toy print,nextpale pink blue/gray cats,nextpurple unicorn/rainbow,bottompastel blue-pink gradient cloud/hearts/gem. Preserve6count/order,quilt stitching,printing,zip shapes and bag. DETAILONLY zoom tightly on top red kitten-print pouch quilt stitching and zipper seam. Crop most of full assortment out; must be closeup detail not full pack. Preserve original visible material,shape,colour,construction. No extra products,parts,imagined backs. Remove hand,shop,price,ruler/notes,soft cream light.",
+      "sha256": "18a7aa9664a9d2f4df502712ffe00e6d3798bea2c9d5af59e4d96d45b4e7b147",
+      "checked": true,
+      "visual_review": "Tight detail viewed against reference: top red kitten-print pouch quilt stitching and zipper seam retains original visible shape,colour and material. Not a full-assortment image."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-32f6059a-7a01-4c7f-8249-e2465ffeaa5e.png",
+      "prompt": "ONE realistic promotional website product photograph of exact reference. Six rectangular quilted zip pouches stacked vertically in one clear bag: topred white kitten print,nextpink kitten designs,nextpink mixed kitten/toy print,nextpale pink blue/gray cats,nextpurple unicorn/rainbow,bottompastel blue-pink gradient cloud/hearts/gem. Preserve6count/order,quilt stitching,printing,zip shapes and bag. Entire assortment ONE product,full set comfortably visible on cream/lavender background. Compact dark plum heading 'Printed Quilted Zip Pouches' and smaller 'PRODUCT COLLECTION' without obscuring products. Preserve original count,identity,shape,colours,material,arrangement and packaging. Remove hand,shop,price,ruler/notes. No extra products,parts,imagined reverse views or sale claims.",
+      "sha256": "45f63a06ff8ddeeec9ce6b3f31bd21c82ac220b5fec5b0916a7ad62c2d2b7e44",
+      "checked": true,
+      "visual_review": "Six quilted printed pouches retain order, distinct prints,colours and clear bag; promotional heading readable."
+    }
+  ],
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "original_hashes_verified": true
+}

@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250102-WA0383.jpg": "842f9cedb5f9a228fed195dad61ae60cae1bf0d6afa4dc083a0489b62046e10a"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source": [
+        "Originals/IMG-20250102-WA0383.jpg"
+      ],
+      "prompt": "Edit reference into square premium ecommerce photograph on pure white background, soft studio shadows. Preserve EXACT visible assortment of three overlapping white hair accessory cards inside clear rectangular box, all visible six colourful character clips, ancillary plain clips, colours, designs, quantity and arrangement exactly as source. No invented hidden pieces. Remove hand and shop background and sticker 383-5. Preserve product. No new text.",
+      "sha256": "79acbd6dcd5cc31589a91a9d8c345a6c50bedff9ccf0447667cbc6912ca0c92f",
+      "checked": true,
+      "visual_review": "Compared to original; full assortment, item counts, colours and packaging retained; price/hand/background removed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Edit this exact product photograph into square premium product photo on soft lavender and cream studio background. Preserve the entire assortment precisely: exact visible item counts, colours, card packaging, shapes and arrangement. Only change background, light and framing with ample square margins. Realistic product materials, soft shadows. No added text, no extra accessories, no invented hidden pieces. Remove price labels, hand and shop scenery if any.",
+      "sha256": "76580185d8bac423c36e7111cd2d3d2506015bd96f2b6d4bac30fb87d7fccad8",
+      "checked": true,
+      "visual_review": "Compared to original, assortment quantities and visible colours retained on lavender/cream."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Create square lifestyle ecommerce photograph of this EXACT entire assortment as supplied on its cards, sitting on a cream bedroom dressing table in soft morning window light, subtle lavender wall and blurred mirror background. Keep all items, visible card count, exact colours, shapes and layout unchanged from reference. Do not add any product pieces, no person or hands, no price or overlaid text. Product fills most frame, realistic photography.",
+      "sha256": "3e4fb57099ba8d1ad26d1cbaa986409dc44740b6444839df3dacb005bbf207e9",
+      "checked": true,
+      "visual_review": "Reviewed entire assortment against source; visible counts, shapes, colours retained, lifestyle context appropriate."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square extreme macro detail photograph tightly crop ONLY the blue bow pink character hair clip at top left of reference. Clearly show exact molded face, blue bow and pastel plastic clip material texture. Preserve exact visible design and colours, no new hidden parts. No entire assortment, no text, professional macro focus.",
+      "sha256": "b78f7cba35137a7e7ae99b510120f4c1b72805c5b6c1a1936c2ce26cc9680471",
+      "checked": true,
+      "visual_review": "Reviewed tight detail against visible source product: material, geometry and colours retained."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Create square premium promotional product image. EXACT entire supplied assortment with same item counts, colours, designs, packaging and arrangement, unchanged. Product centered on cream surface against soft lavender background. Leave generous top margin with small elegant dark plum heading Character Hair Accessories and small uppercase subheading PRODUCT COLLECTION. No other text or price, no extra items. Realistic soft studio lighting.",
+      "sha256": "c5fb50765857985bb12bab19c84801d88378daed9a410ace085163f6efb6e6da",
+      "checked": true,
+      "visual_review": "Compared complete promotional assortment to source, full item count retained and text appropriate."
+    }
+  ],
+  "status": "five images generated and visually checked"
+}

@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250207-WA0899.jpg": "f87b10c922f1f5d58a35944d8a39af288fcc415c9a29cd27dff564b1e563b59d"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-bb2ee7ba-bdb0-422b-931a-a0ab57b4159f.png",
+      "prompt": "Edit the attached original into one website-ready ecommerce product photograph on pure white seamless background with soft contact shadows. Entire assortment ONE product: exactly SIX large satin-tail hair bows arranged two rows of three. Top row burgundy with white-grid bow loops, navy with white-grid loops, pale pink with pale-grid loops. Bottom row ivory/cream, grey/silver gingham, camel/tan gingham. Preserve exact six count, loop shapes, centre knots, long draped satin tails, colours, fabrics and white backing cards. Fully show all six with margins, same front view. Remove tiled shop floor, reflections and old price overlay. No added text, no extra bows, no collage.",
+      "sha256": "dac431fc90840da222a3dbfd7bc735cbbdbadf624e18a0d36683b52fc0d54cfb",
+      "checked": true,
+      "visual_review": "Compared generated image with original: six bows in matching two rows and colour order; gingham loops, centre knots, long satin tails and white cards preserved. Shop and price removed. Minor fabric/grid differences accepted for website-ready quality."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-c9b47658-a4e8-4e9e-8172-463e8a1a0c60.png",
+      "prompt": "Square website photo EXACT six original bow hair clips with gingham bow loops and long satin tails, burgundy navy pink cream grey tan arranged2rows3columns. Same count, main shapes,colours,materials and arrangements, original backing cards. Lavender cream studio background, soft shadows, no price/new text.",
+      "sha256": "8a28e8006b7cba927b774895c427e18a20825cd1e4892a9dac919f00d59024bd",
+      "checked": true,
+      "visual_review": "Six bows main shapes/colours/materials retained."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-ac2073d7-967f-4962-95a3-4c502353e041.png",
+      "prompt": "Square website lifestyle photo EXACT six original gingham-loop satin-tail bows on cards, burgundy navy pink cream grey tan,2rows3columns. Preserve main shapes,colours,materials,count and arrangement. Entire assortment on cream dressing table in softly blurred lavender bedroom, daylight, no hands/extra products/new text.",
+      "sha256": "9ee1af256b9b8acaa044618afa4e41c485450dd382f93c6d772df1e9a5114084",
+      "checked": true,
+      "visual_review": "Sixbows colours/main shapes/materials retained in full lifestyleview."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-541f0f23-23fe-44a0-9c88-b7de42556512.png",
+      "prompt": "Square tight macro crop ONLY navy bow central knot and adjoining white gingham loop with satin blue tail junction. Preserve exact visible fabric, pattern,colour and shape. Website product detail, no entire assortment/no new text/no hiddenparts.",
+      "sha256": "3364c5a07d13649f05791238f3bfab4b98d5a85ee8c70d50be8256e0d05c67fa",
+      "checked": true,
+      "visual_review": "Visible count/main geometry/colours compared with original and retained;0154corrected six topcards and original clipped edges."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-3a2e5e0e-d929-42af-b7c6-792c39ad3cc3.png",
+      "prompt": "Square website promotional photo EXACT six original gingham-loop satin-tail bows on cards, burgundy navy pink cream grey tan,2rows3columns. Same count/shapes/colours/materials. Lavender cream background, full assortment reduced scale with margins, small plum heading Satin Bow Hair Clips and PRODUCT COLLECTION. No price/extra items.",
+      "sha256": "d6f054e90ce9f3059f0b337cb7f8528368770e1991c6eec4cf3b088f54b3d5cb",
+      "checked": true,
+      "visual_review": "Reviewed full product assortment against original; visible main count/shape/colour retained."
+    }
+  ],
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

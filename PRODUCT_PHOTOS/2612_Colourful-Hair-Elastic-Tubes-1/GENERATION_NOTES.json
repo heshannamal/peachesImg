@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0339.jpg": "8b8d8102d7d936ef83e6bc8218155dbdbf85f99324927488f4f7bacfe2496a0b"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-0169fdbe-83d2-420d-9848-980357510716.png",
+      "source_output": "/workspace/generated_images/exec-0169fdbe-83d2-420d-9848-980357510716.png",
+      "sha256": "9ee0a99d44fc54785955f94d443010d3089a72523da92d1bccf6ee50654b5a6c",
+      "prompt": "Edit the attached original into a single website product contact sheet, exactly1536x1024 pixels,3equal columns by2equal rows, no gutters, each cell512x512. Five independent photoreal website photos: top-left pure white full assortment; top-middle lavender/cream styled full assortment; top-right lifestyle full assortment on a clean dressing table; bottom-left standalone tight macro crop of REAL elastic loops in one original clear tube, deliberately not full assortment; bottom-middle promotional full assortment with heading \"Hair Elastic Tube Assortment\"; bottom-right plain blank cream. Every full-assortment cell must include ALL12 original clear cylindrical black-lid tubes and original label design; preserve actual elastic colours/thickness/count distribution. Remove hand, plastic outer carrier and old wholesale price overlay. Do not invent products, extra bottles, hair clips or unrelated props. Keep all objects within each squarecell without any crossing boundaries. The12 tubes are two blue mixes,two green/turquoise mixes,two lavender/purple mixes,two brown/beige/black mixes,two pink mixes,two yellow/orange mixes. Preserve original entire assortment.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-0169fdbe-83d2-420d-9848-980357510716.png",
+      "prompt": "Edit the attached original into a single website product contact sheet, exactly1536x1024 pixels,3equal columns by2equal rows, no gutters, each cell512x512. Five independent photoreal website photos: top-left pure white full assortment; top-middle lavender/cream styled full assortment; top-right lifestyle full assortment on a clean dressing table; bottom-left standalone tight macro crop of REAL elastic loops in one original clear tube, deliberately not full assortment; bottom-middle promotional full assortment with heading \"Hair Elastic Tube Assortment\"; bottom-right plain blank cream. Every full-assortment cell must include ALL12 original clear cylindrical black-lid tubes and original label design; preserve actual elastic colours/thickness/count distribution. Remove hand, plastic outer carrier and old wholesale price overlay. Do not invent products, extra bottles, hair clips or unrelated props. Keep all objects within each squarecell without any crossing boundaries. The12 tubes are two blue mixes,two green/turquoise mixes,two lavender/purple mixes,two brown/beige/black mixes,two pink mixes,two yellow/orange mixes. Preserve original entire assortment.",
+      "sha256": "713645c42c13d8380a8c461f3a2f4364478dd5e30a0c4325a6e19efb1c21a29b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0169fdbe-83d2-420d-9848-980357510716.png",
+      "grid_sha256": "9ee0a99d44fc54785955f94d443010d3089a72523da92d1bccf6ee50654b5a6c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected: full views preserve12black-lid clear tubes with six paired colour groups; detail is tight pink real elastic tube crop; lavender style/lifestyle/promotional heading correct. Website-ready; minor label text differences accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-0169fdbe-83d2-420d-9848-980357510716.png",
+      "prompt": "Edit the attached original into a single website product contact sheet, exactly1536x1024 pixels,3equal columns by2equal rows, no gutters, each cell512x512. Five independent photoreal website photos: top-left pure white full assortment; top-middle lavender/cream styled full assortment; top-right lifestyle full assortment on a clean dressing table; bottom-left standalone tight macro crop of REAL elastic loops in one original clear tube, deliberately not full assortment; bottom-middle promotional full assortment with heading \"Hair Elastic Tube Assortment\"; bottom-right plain blank cream. Every full-assortment cell must include ALL12 original clear cylindrical black-lid tubes and original label design; preserve actual elastic colours/thickness/count distribution. Remove hand, plastic outer carrier and old wholesale price overlay. Do not invent products, extra bottles, hair clips or unrelated props. Keep all objects within each squarecell without any crossing boundaries. The12 tubes are two blue mixes,two green/turquoise mixes,two lavender/purple mixes,two brown/beige/black mixes,two pink mixes,two yellow/orange mixes. Preserve original entire assortment.",
+      "sha256": "760c24687f0704e7c3164015760c3a3e9b843e4c4748a5bc6ad079ecfd27d0f7",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0169fdbe-83d2-420d-9848-980357510716.png",
+      "grid_sha256": "9ee0a99d44fc54785955f94d443010d3089a72523da92d1bccf6ee50654b5a6c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected: full views preserve12black-lid clear tubes with six paired colour groups; detail is tight pink real elastic tube crop; lavender style/lifestyle/promotional heading correct. Website-ready; minor label text differences accepted."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-0169fdbe-83d2-420d-9848-980357510716.png",
+      "prompt": "Edit the attached original into a single website product contact sheet, exactly1536x1024 pixels,3equal columns by2equal rows, no gutters, each cell512x512. Five independent photoreal website photos: top-left pure white full assortment; top-middle lavender/cream styled full assortment; top-right lifestyle full assortment on a clean dressing table; bottom-left standalone tight macro crop of REAL elastic loops in one original clear tube, deliberately not full assortment; bottom-middle promotional full assortment with heading \"Hair Elastic Tube Assortment\"; bottom-right plain blank cream. Every full-assortment cell must include ALL12 original clear cylindrical black-lid tubes and original label design; preserve actual elastic colours/thickness/count distribution. Remove hand, plastic outer carrier and old wholesale price overlay. Do not invent products, extra bottles, hair clips or unrelated props. Keep all objects within each squarecell without any crossing boundaries. The12 tubes are two blue mixes,two green/turquoise mixes,two lavender/purple mixes,two brown/beige/black mixes,two pink mixes,two yellow/orange mixes. Preserve original entire assortment.",
+      "sha256": "18f5a263af251c05432825f8008afd3e37b6cff8e1691bfa216407b29dc6b4a6",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0169fdbe-83d2-420d-9848-980357510716.png",
+      "grid_sha256": "9ee0a99d44fc54785955f94d443010d3089a72523da92d1bccf6ee50654b5a6c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected: full views preserve12black-lid clear tubes with six paired colour groups; detail is tight pink real elastic tube crop; lavender style/lifestyle/promotional heading correct. Website-ready; minor label text differences accepted."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-0169fdbe-83d2-420d-9848-980357510716.png",
+      "prompt": "Edit the attached original into a single website product contact sheet, exactly1536x1024 pixels,3equal columns by2equal rows, no gutters, each cell512x512. Five independent photoreal website photos: top-left pure white full assortment; top-middle lavender/cream styled full assortment; top-right lifestyle full assortment on a clean dressing table; bottom-left standalone tight macro crop of REAL elastic loops in one original clear tube, deliberately not full assortment; bottom-middle promotional full assortment with heading \"Hair Elastic Tube Assortment\"; bottom-right plain blank cream. Every full-assortment cell must include ALL12 original clear cylindrical black-lid tubes and original label design; preserve actual elastic colours/thickness/count distribution. Remove hand, plastic outer carrier and old wholesale price overlay. Do not invent products, extra bottles, hair clips or unrelated props. Keep all objects within each squarecell without any crossing boundaries. The12 tubes are two blue mixes,two green/turquoise mixes,two lavender/purple mixes,two brown/beige/black mixes,two pink mixes,two yellow/orange mixes. Preserve original entire assortment.",
+      "sha256": "c4145e8bd8ff99af63333631e8e664db4427f06e3df7a8cdc9ff4e9c59bd7623",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0169fdbe-83d2-420d-9848-980357510716.png",
+      "grid_sha256": "9ee0a99d44fc54785955f94d443010d3089a72523da92d1bccf6ee50654b5a6c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crop inspected: full views preserve12black-lid clear tubes with six paired colour groups; detail is tight pink real elastic tube crop; lavender style/lifestyle/promotional heading correct. Website-ready; minor label text differences accepted."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-0169fdbe-83d2-420d-9848-980357510716.png",
+      "prompt": "Edit the attached original into a single website product contact sheet, exactly1536x1024 pixels,3equal columns by2equal rows, no gutters, each cell512x512. Five independent photoreal website photos: top-left pure white full assortment; top-middle lavender/cream styled full assortment; top-right lifestyle full assortment on a clean dressing table; bottom-left standalone tight macro crop of REAL elastic loops in one original clear tube, deliberately not full assortment; bottom-middle promotional full assortment with heading \"Hair Elastic Tube Assortment\"; bottom-right plain blank cream. Every full-assortment cell must include ALL12 original clear cylindrical black-lid tubes and original label design; preserve actual elastic colours/thickness/count distribution. Remove hand, plastic outer carrier and old wholesale price overlay. Do not invent products, extra bottles, hair clips or unrelated props. Keep all objects within each squarecell without any crossing boundaries. The12 tubes are two blue mixes,two green/turquoise mixes,two lavender/purple mixes,two brown/beige/black mixes,two pink mixes,two yellow/orange mixes. Preserve original entire assortment.",
+      "sha256": "0fda748e3c8309dc3886450a528b29c133ebe68ea69672dbf46bfa56aa4e8bd6",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0169fdbe-83d2-420d-9848-980357510716.png",
+      "grid_sha256": "9ee0a99d44fc54785955f94d443010d3089a72523da92d1bccf6ee50654b5a6c",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crop inspected: full views preserve12black-lid clear tubes with six paired colour groups; detail is tight pink real elastic tube crop; lavender style/lifestyle/promotional heading correct. Website-ready; minor label text differences accepted."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "12clearblacklidtubes of fabric hair elastics, six paired colour groups",
+  "original_baseline_verified": true
+}

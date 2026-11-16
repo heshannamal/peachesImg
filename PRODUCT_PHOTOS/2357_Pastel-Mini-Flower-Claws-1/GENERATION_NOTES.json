@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260821-WA0038.jpg": "e750a4156372cdafbc44ba786bb39771b91d070fc8509ea415af9d66a3fe482a"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-43695d80-958d-4cf5-8b2a-20c5ea56d382.png",
+      "source_output": "/workspace/generated_images/exec-43695d80-958d-4cf5-8b2a-20c5ea56d382.png",
+      "sha256": "3e39d948ef9221fc25644681aaecf8a20e9e3bd45f104d3832beecdd6f066e4b",
+      "prompt": "Native source-referenced faithful edit ONE1536x1024 borderless3x2 equal512squaregrid. Top white fullassortment / lavendercream styled fullassortment / vanity lifestyle fullassortment. Bottom standalone TIGHT macro actual flowercentretexture only / promo fullassortment accurateheading / blankunused. Wholeoriginal assortment ONEproduct EXACTTWELVE layeredflower hairclaws in SIXmatchingcolourpairs on white retailbacking strip/cards. Countable12flowers:2white,2orange,2blue,2pink,2purple,2magenta; preserve original colours, layeredpetalshapes and centreornaments. Actualflowereach has5largepetals (slight overlap someperspective), paleedgecolourstreaktexture. Do not simplify to generic daisies, do not add/omitclips. Removehand/shop/sourceprice only. Actualcentre smaller translucent pearly5petalflower over colouredpointedleaflayer, textured roundbeadcentre; whitehaspalepeachinnerpetals pinkbead/turquoiseleaves,orangehasyellowinnerflower/yellowbead/greenleaves,bluehaspaleblueflower/pinkbead/greenleaves,pinkhaspalepinkflower/pinkbead/turquoiseleaves,purplehascreamflower/pinkbead/greenleaves,magentahaspinkflower/yellowbead/greenleaves. Heading Layered Flower Hair Claws.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-43695d80-958d-4cf5-8b2a-20c5ea56d382.png",
+      "prompt": "Native source-referenced faithful edit ONE1536x1024 borderless3x2 equal512squaregrid. Top white fullassortment / lavendercream styled fullassortment / vanity lifestyle fullassortment. Bottom standalone TIGHT macro actual flowercentretexture only / promo fullassortment accurateheading / blankunused. Wholeoriginal assortment ONEproduct EXACTTWELVE layeredflower hairclaws in SIXmatchingcolourpairs on white retailbacking strip/cards. Countable12flowers:2white,2orange,2blue,2pink,2purple,2magenta; preserve original colours, layeredpetalshapes and centreornaments. Actualflowereach has5largepetals (slight overlap someperspective), paleedgecolourstreaktexture. Do not simplify to generic daisies, do not add/omitclips. Removehand/shop/sourceprice only. Actualcentre smaller translucent pearly5petalflower over colouredpointedleaflayer, textured roundbeadcentre; whitehaspalepeachinnerpetals pinkbead/turquoiseleaves,orangehasyellowinnerflower/yellowbead/greenleaves,bluehaspaleblueflower/pinkbead/greenleaves,pinkhaspalepinkflower/pinkbead/turquoiseleaves,purplehascreamflower/pinkbead/greenleaves,magentahaspinkflower/yellowbead/greenleaves. Heading Layered Flower Hair Claws.",
+      "sha256": "b10d82f62310688b90f81f355e231a56154b0fefef868fa7c4e0c64731a790be",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-43695d80-958d-4cf5-8b2a-20c5ea56d382.png",
+      "grid_sha256": "3e39d948ef9221fc25644681aaecf8a20e9e3bd45f104d3832beecdd6f066e4b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual source and all five crops compared: twelve flowers in six matching colour pairs retained, correct large layered petals and source bead/layered-flower or three-flower-cluster centres. Four full assortment views count twelve; tight standalone real centre detail and accurate heading pass. Website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-43695d80-958d-4cf5-8b2a-20c5ea56d382.png",
+      "prompt": "Native source-referenced faithful edit ONE1536x1024 borderless3x2 equal512squaregrid. Top white fullassortment / lavendercream styled fullassortment / vanity lifestyle fullassortment. Bottom standalone TIGHT macro actual flowercentretexture only / promo fullassortment accurateheading / blankunused. Wholeoriginal assortment ONEproduct EXACTTWELVE layeredflower hairclaws in SIXmatchingcolourpairs on white retailbacking strip/cards. Countable12flowers:2white,2orange,2blue,2pink,2purple,2magenta; preserve original colours, layeredpetalshapes and centreornaments. Actualflowereach has5largepetals (slight overlap someperspective), paleedgecolourstreaktexture. Do not simplify to generic daisies, do not add/omitclips. Removehand/shop/sourceprice only. Actualcentre smaller translucent pearly5petalflower over colouredpointedleaflayer, textured roundbeadcentre; whitehaspalepeachinnerpetals pinkbead/turquoiseleaves,orangehasyellowinnerflower/yellowbead/greenleaves,bluehaspaleblueflower/pinkbead/greenleaves,pinkhaspalepinkflower/pinkbead/turquoiseleaves,purplehascreamflower/pinkbead/greenleaves,magentahaspinkflower/yellowbead/greenleaves. Heading Layered Flower Hair Claws.",
+      "sha256": "e006149f2512b40b611eb957026f2ed19e2c283485e1f1f0205fa6e2e86fc996",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-43695d80-958d-4cf5-8b2a-20c5ea56d382.png",
+      "grid_sha256": "3e39d948ef9221fc25644681aaecf8a20e9e3bd45f104d3832beecdd6f066e4b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual source and all five crops compared: twelve flowers in six matching colour pairs retained, correct large layered petals and source bead/layered-flower or three-flower-cluster centres. Four full assortment views count twelve; tight standalone real centre detail and accurate heading pass. Website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-43695d80-958d-4cf5-8b2a-20c5ea56d382.png",
+      "prompt": "Native source-referenced faithful edit ONE1536x1024 borderless3x2 equal512squaregrid. Top white fullassortment / lavendercream styled fullassortment / vanity lifestyle fullassortment. Bottom standalone TIGHT macro actual flowercentretexture only / promo fullassortment accurateheading / blankunused. Wholeoriginal assortment ONEproduct EXACTTWELVE layeredflower hairclaws in SIXmatchingcolourpairs on white retailbacking strip/cards. Countable12flowers:2white,2orange,2blue,2pink,2purple,2magenta; preserve original colours, layeredpetalshapes and centreornaments. Actualflowereach has5largepetals (slight overlap someperspective), paleedgecolourstreaktexture. Do not simplify to generic daisies, do not add/omitclips. Removehand/shop/sourceprice only. Actualcentre smaller translucent pearly5petalflower over colouredpointedleaflayer, textured roundbeadcentre; whitehaspalepeachinnerpetals pinkbead/turquoiseleaves,orangehasyellowinnerflower/yellowbead/greenleaves,bluehaspaleblueflower/pinkbead/greenleaves,pinkhaspalepinkflower/pinkbead/turquoiseleaves,purplehascreamflower/pinkbead/greenleaves,magentahaspinkflower/yellowbead/greenleaves. Heading Layered Flower Hair Claws.",
+      "sha256": "0320e7b60e4af3a77dd4ef6cd57f1e29bd36e2566c81cbd82dd011c2b1959696",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-43695d80-958d-4cf5-8b2a-20c5ea56d382.png",
+      "grid_sha256": "3e39d948ef9221fc25644681aaecf8a20e9e3bd45f104d3832beecdd6f066e4b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual source and all five crops compared: twelve flowers in six matching colour pairs retained, correct large layered petals and source bead/layered-flower or three-flower-cluster centres. Four full assortment views count twelve; tight standalone real centre detail and accurate heading pass. Website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-43695d80-958d-4cf5-8b2a-20c5ea56d382.png",
+      "prompt": "Native source-referenced faithful edit ONE1536x1024 borderless3x2 equal512squaregrid. Top white fullassortment / lavendercream styled fullassortment / vanity lifestyle fullassortment. Bottom standalone TIGHT macro actual flowercentretexture only / promo fullassortment accurateheading / blankunused. Wholeoriginal assortment ONEproduct EXACTTWELVE layeredflower hairclaws in SIXmatchingcolourpairs on white retailbacking strip/cards. Countable12flowers:2white,2orange,2blue,2pink,2purple,2magenta; preserve original colours, layeredpetalshapes and centreornaments. Actualflowereach has5largepetals (slight overlap someperspective), paleedgecolourstreaktexture. Do not simplify to generic daisies, do not add/omitclips. Removehand/shop/sourceprice only. Actualcentre smaller translucent pearly5petalflower over colouredpointedleaflayer, textured roundbeadcentre; whitehaspalepeachinnerpetals pinkbead/turquoiseleaves,orangehasyellowinnerflower/yellowbead/greenleaves,bluehaspaleblueflower/pinkbead/greenleaves,pinkhaspalepinkflower/pinkbead/turquoiseleaves,purplehascreamflower/pinkbead/greenleaves,magentahaspinkflower/yellowbead/greenleaves. Heading Layered Flower Hair Claws.",
+      "sha256": "3cabf5e9c00f958581faae1638a8a9e6675915dfc31433239e764d908c5dddb4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-43695d80-958d-4cf5-8b2a-20c5ea56d382.png",
+      "grid_sha256": "3e39d948ef9221fc25644681aaecf8a20e9e3bd45f104d3832beecdd6f066e4b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual source and all five crops compared: twelve flowers in six matching colour pairs retained, correct large layered petals and source bead/layered-flower or three-flower-cluster centres. Four full assortment views count twelve; tight standalone real centre detail and accurate heading pass. Website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-43695d80-958d-4cf5-8b2a-20c5ea56d382.png",
+      "prompt": "Native source-referenced faithful edit ONE1536x1024 borderless3x2 equal512squaregrid. Top white fullassortment / lavendercream styled fullassortment / vanity lifestyle fullassortment. Bottom standalone TIGHT macro actual flowercentretexture only / promo fullassortment accurateheading / blankunused. Wholeoriginal assortment ONEproduct EXACTTWELVE layeredflower hairclaws in SIXmatchingcolourpairs on white retailbacking strip/cards. Countable12flowers:2white,2orange,2blue,2pink,2purple,2magenta; preserve original colours, layeredpetalshapes and centreornaments. Actualflowereach has5largepetals (slight overlap someperspective), paleedgecolourstreaktexture. Do not simplify to generic daisies, do not add/omitclips. Removehand/shop/sourceprice only. Actualcentre smaller translucent pearly5petalflower over colouredpointedleaflayer, textured roundbeadcentre; whitehaspalepeachinnerpetals pinkbead/turquoiseleaves,orangehasyellowinnerflower/yellowbead/greenleaves,bluehaspaleblueflower/pinkbead/greenleaves,pinkhaspalepinkflower/pinkbead/turquoiseleaves,purplehascreamflower/pinkbead/greenleaves,magentahaspinkflower/yellowbead/greenleaves. Heading Layered Flower Hair Claws.",
+      "sha256": "69a67ce3f2b7822c1cdb8c8d78c6724ed7b161108d8909ec10a84535a980fc31",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-43695d80-958d-4cf5-8b2a-20c5ea56d382.png",
+      "grid_sha256": "3e39d948ef9221fc25644681aaecf8a20e9e3bd45f104d3832beecdd6f066e4b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual source and all five crops compared: twelve flowers in six matching colour pairs retained, correct large layered petals and source bead/layered-flower or three-flower-cluster centres. Four full assortment views count twelve; tight standalone real centre detail and accurate heading pass. Website-ready."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

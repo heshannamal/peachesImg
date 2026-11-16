@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/PXL_20250306_065658420.jpg": "74251057c59dafaa82911e07f30d07af9c180be07d40cf9d95157a7d925bcb6a"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-c2fe5e66-1726-4f2f-a628-777c1f960167.png",
+      "source_output": "/workspace/generated_images/exec-c2fe5e66-1726-4f2f-a628-777c1f960167.png",
+      "sha256": "b0eb056d8651b2ffc7fb00cb57bcf05e2fe68d70a8660ede6a698f298444c9ee",
+      "prompt": "ONE LANDSCAPE1536x1024 native photograph grid, exact3equalcolumns x2equalrows, six512x512cells, NO gutters/borders/separators/panellabels. EXACT TWENTYFOUR iridescent PINK/ROSE-AMBER round domed stud earrings, TWELVE pairs, on original white Fashion Jewelry card in clear bag, SIX rows FOUR studs per row, original two pair boxes per row. Preserve every pink dome, amber/rainbow highlights and pink rims, exact24count and original card/clearbag. ENTIRE card oneassortment. Readingorder: topLEFT full original card onwhite seamless;topMIDDLE full card onlavender/cream studio;topRIGHT full card oncream dressingtable blurredlavender bedroom;bottomLEFT ONLY standalone TIGHT MACRO of ONE real existing round domed stud on whitecard, matching actual original colour/iridescence/rim, NO fullcard or inventedbackparts;bottomMIDDLE promotional fullcard with smallaccurate heading PINK ROUND STUDS onlavendercream;bottomRIGHT blankcream. Fullcardviews1,2,3,5 EXACT6rows4studs=24studs/12pairs;keep all original shapes/colours/material/count/packaging, no extra or missing studs. Everyviewcompletely contained withinitsowncell withmargin, no crossingcellboundaries. Remove hand/shop/priceonly. Website-readyrealisticsoftlight, no inventedproducts/claims.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-c2fe5e66-1726-4f2f-a628-777c1f960167.png",
+      "prompt": "ONE LANDSCAPE1536x1024 native photograph grid, exact3equalcolumns x2equalrows, six512x512cells, NO gutters/borders/separators/panellabels. EXACT TWENTYFOUR iridescent PINK/ROSE-AMBER round domed stud earrings, TWELVE pairs, on original white Fashion Jewelry card in clear bag, SIX rows FOUR studs per row, original two pair boxes per row. Preserve every pink dome, amber/rainbow highlights and pink rims, exact24count and original card/clearbag. ENTIRE card oneassortment. Readingorder: topLEFT full original card onwhite seamless;topMIDDLE full card onlavender/cream studio;topRIGHT full card oncream dressingtable blurredlavender bedroom;bottomLEFT ONLY standalone TIGHT MACRO of ONE real existing round domed stud on whitecard, matching actual original colour/iridescence/rim, NO fullcard or inventedbackparts;bottomMIDDLE promotional fullcard with smallaccurate heading PINK ROUND STUDS onlavendercream;bottomRIGHT blankcream. Fullcardviews1,2,3,5 EXACT6rows4studs=24studs/12pairs;keep all original shapes/colours/material/count/packaging, no extra or missing studs. Everyviewcompletely contained withinitsowncell withmargin, no crossingcellboundaries. Remove hand/shop/priceonly. Website-readyrealisticsoftlight, no inventedproducts/claims.",
+      "sha256": "858631faa14c9116e56e6a3ce72a563992655832594a1d00f9d7ec490e1cf0fe",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c2fe5e66-1726-4f2f-a628-777c1f960167.png",
+      "grid_sha256": "b0eb056d8651b2ffc7fb00cb57bcf05e2fe68d70a8660ede6a698f298444c9ee",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Inspected original, nativegrid and actual mechanicallycropped512x512files on review sheet. Full original card retained with exact24roundstuds, sixrows of four/twelvepairs; main purple/pink iridescence, domedshape, whitecard and clearbag preserved. Requested white/styled/lifestyle/promo style matches; heading accurate and legible where present. Clean cell boundaries and contained content; minor highlight/print differences accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-c2fe5e66-1726-4f2f-a628-777c1f960167.png",
+      "prompt": "ONE LANDSCAPE1536x1024 native photograph grid, exact3equalcolumns x2equalrows, six512x512cells, NO gutters/borders/separators/panellabels. EXACT TWENTYFOUR iridescent PINK/ROSE-AMBER round domed stud earrings, TWELVE pairs, on original white Fashion Jewelry card in clear bag, SIX rows FOUR studs per row, original two pair boxes per row. Preserve every pink dome, amber/rainbow highlights and pink rims, exact24count and original card/clearbag. ENTIRE card oneassortment. Readingorder: topLEFT full original card onwhite seamless;topMIDDLE full card onlavender/cream studio;topRIGHT full card oncream dressingtable blurredlavender bedroom;bottomLEFT ONLY standalone TIGHT MACRO of ONE real existing round domed stud on whitecard, matching actual original colour/iridescence/rim, NO fullcard or inventedbackparts;bottomMIDDLE promotional fullcard with smallaccurate heading PINK ROUND STUDS onlavendercream;bottomRIGHT blankcream. Fullcardviews1,2,3,5 EXACT6rows4studs=24studs/12pairs;keep all original shapes/colours/material/count/packaging, no extra or missing studs. Everyviewcompletely contained withinitsowncell withmargin, no crossingcellboundaries. Remove hand/shop/priceonly. Website-readyrealisticsoftlight, no inventedproducts/claims.",
+      "sha256": "f428e667b6cbaa70f479ad4648c5e1e4e34b099d79819e60fa72400cf7811643",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c2fe5e66-1726-4f2f-a628-777c1f960167.png",
+      "grid_sha256": "b0eb056d8651b2ffc7fb00cb57bcf05e2fe68d70a8660ede6a698f298444c9ee",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Inspected original, nativegrid and actual mechanicallycropped512x512files on review sheet. Full original card retained with exact24roundstuds, sixrows of four/twelvepairs; main purple/pink iridescence, domedshape, whitecard and clearbag preserved. Requested white/styled/lifestyle/promo style matches; heading accurate and legible where present. Clean cell boundaries and contained content; minor highlight/print differences accepted."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-c2fe5e66-1726-4f2f-a628-777c1f960167.png",
+      "prompt": "ONE LANDSCAPE1536x1024 native photograph grid, exact3equalcolumns x2equalrows, six512x512cells, NO gutters/borders/separators/panellabels. EXACT TWENTYFOUR iridescent PINK/ROSE-AMBER round domed stud earrings, TWELVE pairs, on original white Fashion Jewelry card in clear bag, SIX rows FOUR studs per row, original two pair boxes per row. Preserve every pink dome, amber/rainbow highlights and pink rims, exact24count and original card/clearbag. ENTIRE card oneassortment. Readingorder: topLEFT full original card onwhite seamless;topMIDDLE full card onlavender/cream studio;topRIGHT full card oncream dressingtable blurredlavender bedroom;bottomLEFT ONLY standalone TIGHT MACRO of ONE real existing round domed stud on whitecard, matching actual original colour/iridescence/rim, NO fullcard or inventedbackparts;bottomMIDDLE promotional fullcard with smallaccurate heading PINK ROUND STUDS onlavendercream;bottomRIGHT blankcream. Fullcardviews1,2,3,5 EXACT6rows4studs=24studs/12pairs;keep all original shapes/colours/material/count/packaging, no extra or missing studs. Everyviewcompletely contained withinitsowncell withmargin, no crossingcellboundaries. Remove hand/shop/priceonly. Website-readyrealisticsoftlight, no inventedproducts/claims.",
+      "sha256": "95b5ff44f1e3aca9d050869c1923a453a22f70a6c2632eef9831ba5d77753750",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c2fe5e66-1726-4f2f-a628-777c1f960167.png",
+      "grid_sha256": "b0eb056d8651b2ffc7fb00cb57bcf05e2fe68d70a8660ede6a698f298444c9ee",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Inspected original, nativegrid and actual mechanicallycropped512x512files on review sheet. Full original card retained with exact24roundstuds, sixrows of four/twelvepairs; main purple/pink iridescence, domedshape, whitecard and clearbag preserved. Requested white/styled/lifestyle/promo style matches; heading accurate and legible where present. Clean cell boundaries and contained content; minor highlight/print differences accepted."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-c2fe5e66-1726-4f2f-a628-777c1f960167.png",
+      "prompt": "ONE LANDSCAPE1536x1024 native photograph grid, exact3equalcolumns x2equalrows, six512x512cells, NO gutters/borders/separators/panellabels. EXACT TWENTYFOUR iridescent PINK/ROSE-AMBER round domed stud earrings, TWELVE pairs, on original white Fashion Jewelry card in clear bag, SIX rows FOUR studs per row, original two pair boxes per row. Preserve every pink dome, amber/rainbow highlights and pink rims, exact24count and original card/clearbag. ENTIRE card oneassortment. Readingorder: topLEFT full original card onwhite seamless;topMIDDLE full card onlavender/cream studio;topRIGHT full card oncream dressingtable blurredlavender bedroom;bottomLEFT ONLY standalone TIGHT MACRO of ONE real existing round domed stud on whitecard, matching actual original colour/iridescence/rim, NO fullcard or inventedbackparts;bottomMIDDLE promotional fullcard with smallaccurate heading PINK ROUND STUDS onlavendercream;bottomRIGHT blankcream. Fullcardviews1,2,3,5 EXACT6rows4studs=24studs/12pairs;keep all original shapes/colours/material/count/packaging, no extra or missing studs. Everyviewcompletely contained withinitsowncell withmargin, no crossingcellboundaries. Remove hand/shop/priceonly. Website-readyrealisticsoftlight, no inventedproducts/claims.",
+      "sha256": "8ab135ffd07da818e1f570607c2c11cd1eb6d08383abf2e408f70d2207fdf59f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c2fe5e66-1726-4f2f-a628-777c1f960167.png",
+      "grid_sha256": "b0eb056d8651b2ffc7fb00cb57bcf05e2fe68d70a8660ede6a698f298444c9ee",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Inspected original, nativegrid and actual mechanicallycropped512x512files on review sheet. Standalone tight macro shows one original round domed stud on the card, correct purple/pink iridescent colour and rim, no invented backparts. Clean cell boundaries and contained content; minor highlight/print differences accepted."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-c2fe5e66-1726-4f2f-a628-777c1f960167.png",
+      "prompt": "ONE LANDSCAPE1536x1024 native photograph grid, exact3equalcolumns x2equalrows, six512x512cells, NO gutters/borders/separators/panellabels. EXACT TWENTYFOUR iridescent PINK/ROSE-AMBER round domed stud earrings, TWELVE pairs, on original white Fashion Jewelry card in clear bag, SIX rows FOUR studs per row, original two pair boxes per row. Preserve every pink dome, amber/rainbow highlights and pink rims, exact24count and original card/clearbag. ENTIRE card oneassortment. Readingorder: topLEFT full original card onwhite seamless;topMIDDLE full card onlavender/cream studio;topRIGHT full card oncream dressingtable blurredlavender bedroom;bottomLEFT ONLY standalone TIGHT MACRO of ONE real existing round domed stud on whitecard, matching actual original colour/iridescence/rim, NO fullcard or inventedbackparts;bottomMIDDLE promotional fullcard with smallaccurate heading PINK ROUND STUDS onlavendercream;bottomRIGHT blankcream. Fullcardviews1,2,3,5 EXACT6rows4studs=24studs/12pairs;keep all original shapes/colours/material/count/packaging, no extra or missing studs. Everyviewcompletely contained withinitsowncell withmargin, no crossingcellboundaries. Remove hand/shop/priceonly. Website-readyrealisticsoftlight, no inventedproducts/claims.",
+      "sha256": "3fea8aeb81dc797d17fce472654eda4506fdaff5d1ee5694fb74149c45f8362d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-c2fe5e66-1726-4f2f-a628-777c1f960167.png",
+      "grid_sha256": "b0eb056d8651b2ffc7fb00cb57bcf05e2fe68d70a8660ede6a698f298444c9ee",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Inspected original, nativegrid and actual mechanicallycropped512x512files on review sheet. Full original card retained with exact24roundstuds, sixrows of four/twelvepairs; main purple/pink iridescence, domedshape, whitecard and clearbag preserved. Requested white/styled/lifestyle/promo style matches; heading accurate and legible where present. Clean cell boundaries and contained content; minor highlight/print differences accepted."
+    }
+  ],
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "plan_original_hashes_verified": true
+}

@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0186.jpg": "2699ceee3909f6f7f5b46b1a5b1afa738bf60c9e03634b2efa8871149b601485"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-f46aa1ea-0c54-4460-9dfe-95f46f014486.png",
+      "source_output": "/workspace/generated_images/exec-f46aa1ea-0c54-4460-9dfe-95f46f014486.png",
+      "sha256": "3a6ddac71bf7f10062945c77dd863cb107d063e105c1ed07a9b85b446b9aaadc",
+      "prompt": "Edit attached original into ONE1536x1024 website contact sheet exactly3columns2rows square512cells no gutters. Toprow: purewhite fullassortment; lavender/creamstyled fullassortment; clean vanitylifestyle fullassortment. Bottomrow: standalone tight realproductpart macro; fullassortment promotional accurateheading; blankcream. No crossingboundaries, no hands/shopbackground/old wholesaleprice overlays. Preserve exact original productcount/identity/shapes/colours/packaging. Actualproduct is ONE displaycard of18small fruitlipbalm tubes, NOT hairaccessories. Preserve original white quiltedrectangular cardandredyellowheader HIanxin Lipbalm TX3006 with fruitart.18tubes total exactly2columns9rows: leftcolumn top3pinkstrawberry,next3orange,next3yellowpineapple; rightcolumn top3greenapple,next3pinkredcherry,next3purplegrape. Whitecaps, allhorizontal angledslightly asoriginal, sixgroups3each. Everyfullviewmustshow18distincttubes and entireheader. Macro tightcrop realstrawberryprintedlipbalmtube andwhitecap, do not open cap. Promotionalheading \"Fruit Lip Balm Assortment\". No unsupportedbenefitclaims/prices.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-f46aa1ea-0c54-4460-9dfe-95f46f014486.png",
+      "prompt": "Edit attached original into ONE1536x1024 website contact sheet exactly3columns2rows square512cells no gutters. Toprow: purewhite fullassortment; lavender/creamstyled fullassortment; clean vanitylifestyle fullassortment. Bottomrow: standalone tight realproductpart macro; fullassortment promotional accurateheading; blankcream. No crossingboundaries, no hands/shopbackground/old wholesaleprice overlays. Preserve exact original productcount/identity/shapes/colours/packaging. Actualproduct is ONE displaycard of18small fruitlipbalm tubes, NOT hairaccessories. Preserve original white quiltedrectangular cardandredyellowheader HIanxin Lipbalm TX3006 with fruitart.18tubes total exactly2columns9rows: leftcolumn top3pinkstrawberry,next3orange,next3yellowpineapple; rightcolumn top3greenapple,next3pinkredcherry,next3purplegrape. Whitecaps, allhorizontal angledslightly asoriginal, sixgroups3each. Everyfullviewmustshow18distincttubes and entireheader. Macro tightcrop realstrawberryprintedlipbalmtube andwhitecap, do not open cap. Promotionalheading \"Fruit Lip Balm Assortment\". No unsupportedbenefitclaims/prices.",
+      "sha256": "52f13b6433b605f9ea844f2e17a25a1e329b49c500c07711b2bff76bca5b2413",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f46aa1ea-0c54-4460-9dfe-95f46f014486.png",
+      "grid_sha256": "3a6ddac71bf7f10062945c77dd863cb107d063e105c1ed07a9b85b446b9aaadc",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual five crops inspected: original18fruit lipbalm tubes on HIanxinredyellowheadercard,2columns9rows,threeeachsixfruitprints. Count18/colourplacement/shape preserved; foldername hairaccessories wrong. White/lavenderstyled/vanitylifestyle and correctpromotionalheadingpass; standalone tightstrawberrytube/whitecap macro isrealpart. Minorlabeltypographyaccepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-f46aa1ea-0c54-4460-9dfe-95f46f014486.png",
+      "prompt": "Edit attached original into ONE1536x1024 website contact sheet exactly3columns2rows square512cells no gutters. Toprow: purewhite fullassortment; lavender/creamstyled fullassortment; clean vanitylifestyle fullassortment. Bottomrow: standalone tight realproductpart macro; fullassortment promotional accurateheading; blankcream. No crossingboundaries, no hands/shopbackground/old wholesaleprice overlays. Preserve exact original productcount/identity/shapes/colours/packaging. Actualproduct is ONE displaycard of18small fruitlipbalm tubes, NOT hairaccessories. Preserve original white quiltedrectangular cardandredyellowheader HIanxin Lipbalm TX3006 with fruitart.18tubes total exactly2columns9rows: leftcolumn top3pinkstrawberry,next3orange,next3yellowpineapple; rightcolumn top3greenapple,next3pinkredcherry,next3purplegrape. Whitecaps, allhorizontal angledslightly asoriginal, sixgroups3each. Everyfullviewmustshow18distincttubes and entireheader. Macro tightcrop realstrawberryprintedlipbalmtube andwhitecap, do not open cap. Promotionalheading \"Fruit Lip Balm Assortment\". No unsupportedbenefitclaims/prices.",
+      "sha256": "5a222ab18a0a2a04118e7074bc017d4f8a410bc1752c24d49217aa00ddf1c02e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f46aa1ea-0c54-4460-9dfe-95f46f014486.png",
+      "grid_sha256": "3a6ddac71bf7f10062945c77dd863cb107d063e105c1ed07a9b85b446b9aaadc",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual five crops inspected: original18fruit lipbalm tubes on HIanxinredyellowheadercard,2columns9rows,threeeachsixfruitprints. Count18/colourplacement/shape preserved; foldername hairaccessories wrong. White/lavenderstyled/vanitylifestyle and correctpromotionalheadingpass; standalone tightstrawberrytube/whitecap macro isrealpart. Minorlabeltypographyaccepted."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-f46aa1ea-0c54-4460-9dfe-95f46f014486.png",
+      "prompt": "Edit attached original into ONE1536x1024 website contact sheet exactly3columns2rows square512cells no gutters. Toprow: purewhite fullassortment; lavender/creamstyled fullassortment; clean vanitylifestyle fullassortment. Bottomrow: standalone tight realproductpart macro; fullassortment promotional accurateheading; blankcream. No crossingboundaries, no hands/shopbackground/old wholesaleprice overlays. Preserve exact original productcount/identity/shapes/colours/packaging. Actualproduct is ONE displaycard of18small fruitlipbalm tubes, NOT hairaccessories. Preserve original white quiltedrectangular cardandredyellowheader HIanxin Lipbalm TX3006 with fruitart.18tubes total exactly2columns9rows: leftcolumn top3pinkstrawberry,next3orange,next3yellowpineapple; rightcolumn top3greenapple,next3pinkredcherry,next3purplegrape. Whitecaps, allhorizontal angledslightly asoriginal, sixgroups3each. Everyfullviewmustshow18distincttubes and entireheader. Macro tightcrop realstrawberryprintedlipbalmtube andwhitecap, do not open cap. Promotionalheading \"Fruit Lip Balm Assortment\". No unsupportedbenefitclaims/prices.",
+      "sha256": "d79237959e0fda12a8fd04beeb76c9f312c9724f8d77471192a3beebbb172f32",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f46aa1ea-0c54-4460-9dfe-95f46f014486.png",
+      "grid_sha256": "3a6ddac71bf7f10062945c77dd863cb107d063e105c1ed07a9b85b446b9aaadc",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual five crops inspected: original18fruit lipbalm tubes on HIanxinredyellowheadercard,2columns9rows,threeeachsixfruitprints. Count18/colourplacement/shape preserved; foldername hairaccessories wrong. White/lavenderstyled/vanitylifestyle and correctpromotionalheadingpass; standalone tightstrawberrytube/whitecap macro isrealpart. Minorlabeltypographyaccepted."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-f46aa1ea-0c54-4460-9dfe-95f46f014486.png",
+      "prompt": "Edit attached original into ONE1536x1024 website contact sheet exactly3columns2rows square512cells no gutters. Toprow: purewhite fullassortment; lavender/creamstyled fullassortment; clean vanitylifestyle fullassortment. Bottomrow: standalone tight realproductpart macro; fullassortment promotional accurateheading; blankcream. No crossingboundaries, no hands/shopbackground/old wholesaleprice overlays. Preserve exact original productcount/identity/shapes/colours/packaging. Actualproduct is ONE displaycard of18small fruitlipbalm tubes, NOT hairaccessories. Preserve original white quiltedrectangular cardandredyellowheader HIanxin Lipbalm TX3006 with fruitart.18tubes total exactly2columns9rows: leftcolumn top3pinkstrawberry,next3orange,next3yellowpineapple; rightcolumn top3greenapple,next3pinkredcherry,next3purplegrape. Whitecaps, allhorizontal angledslightly asoriginal, sixgroups3each. Everyfullviewmustshow18distincttubes and entireheader. Macro tightcrop realstrawberryprintedlipbalmtube andwhitecap, do not open cap. Promotionalheading \"Fruit Lip Balm Assortment\". No unsupportedbenefitclaims/prices.",
+      "sha256": "828804d95b10a18cea1fd090ccd34891b466be427d7a2130028d7b31e56db091",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f46aa1ea-0c54-4460-9dfe-95f46f014486.png",
+      "grid_sha256": "3a6ddac71bf7f10062945c77dd863cb107d063e105c1ed07a9b85b446b9aaadc",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual five crops inspected: original18fruit lipbalm tubes on HIanxinredyellowheadercard,2columns9rows,threeeachsixfruitprints. Count18/colourplacement/shape preserved; foldername hairaccessories wrong. White/lavenderstyled/vanitylifestyle and correctpromotionalheadingpass; standalone tightstrawberrytube/whitecap macro isrealpart. Minorlabeltypographyaccepted."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-f46aa1ea-0c54-4460-9dfe-95f46f014486.png",
+      "prompt": "Edit attached original into ONE1536x1024 website contact sheet exactly3columns2rows square512cells no gutters. Toprow: purewhite fullassortment; lavender/creamstyled fullassortment; clean vanitylifestyle fullassortment. Bottomrow: standalone tight realproductpart macro; fullassortment promotional accurateheading; blankcream. No crossingboundaries, no hands/shopbackground/old wholesaleprice overlays. Preserve exact original productcount/identity/shapes/colours/packaging. Actualproduct is ONE displaycard of18small fruitlipbalm tubes, NOT hairaccessories. Preserve original white quiltedrectangular cardandredyellowheader HIanxin Lipbalm TX3006 with fruitart.18tubes total exactly2columns9rows: leftcolumn top3pinkstrawberry,next3orange,next3yellowpineapple; rightcolumn top3greenapple,next3pinkredcherry,next3purplegrape. Whitecaps, allhorizontal angledslightly asoriginal, sixgroups3each. Everyfullviewmustshow18distincttubes and entireheader. Macro tightcrop realstrawberryprintedlipbalmtube andwhitecap, do not open cap. Promotionalheading \"Fruit Lip Balm Assortment\". No unsupportedbenefitclaims/prices.",
+      "sha256": "c6862cdc24e601eccf2886a2bdd0f1d1e886df43aa712b521e23bf0cfc2067c0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f46aa1ea-0c54-4460-9dfe-95f46f014486.png",
+      "grid_sha256": "3a6ddac71bf7f10062945c77dd863cb107d063e105c1ed07a9b85b446b9aaadc",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual five crops inspected: original18fruit lipbalm tubes on HIanxinredyellowheadercard,2columns9rows,threeeachsixfruitprints. Count18/colourplacement/shape preserved; foldername hairaccessories wrong. White/lavenderstyled/vanitylifestyle and correctpromotionalheadingpass; standalone tightstrawberrytube/whitecap macro isrealpart. Minorlabeltypographyaccepted."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

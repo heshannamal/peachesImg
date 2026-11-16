@@ -1,0 +1,60 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250304-WA0429.jpg": "f52a52eb5c51ef99a28cb55d378b4ff251416b9b9b5ce76abe67e921635f3e6e"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-69a7d206-55be-4124-9ebf-cef4e8fea8e0.png",
+      "prompt": "Faithful square website whitebackground cataloguephoto. Exact original package of TWELVE plastic flowerdecorated headbands nested as TWO rounded bundles, upperbundle pastel pink mintgreen black, lowerbundle red royalblue black. Preserve original visible headband counts, nested U-shaped hoops, mouldedflowerpetal ornaments and small teeth, same colourorder, overlaps/occlusion and clearbag. These are plasticflowerheadbands NOT printedfabric. Entire originalassortmentONEproduct fullyvisible. Removehandwatchshopprice andstocklabel only. Purewhite seamless backgroundsoftshadow. Do not unnest/rearrange or invent hidden pieces/text.",
+      "sha256": "4bbfd8ecd018046192b1b0a9b0a484fb7ae3dabd09db138e609e492caa99633a",
+      "checked": true,
+      "visual_review": "Compared visible original nested headband groups/hoops/flower ornaments and pink/mint/black upper/red/blue/black lowercolours: matching original overlap and visible counts retained. Hiddenindividualcount not independently enumerated; no material visible additions/omissions."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-ed279b3e-e14e-456a-bc3a-7b58a8aa66d0.png",
+      "prompt": "Faithful square styled website productphoto. Entire original packaged TWELVE plastic flowerheadbands nested in TWO bundles, upper pink mintblack lower red blueblack. Preserve exact original visible hoops/flowerornaments, nestedoverlap/occlusions/positions/colours/smallteeth and clearplasticbag. Do not unpack, simplify or inventhiddenparts. WholeassortmentONEproduct fullyvisible. Lavendercream studio backdropsoftshadow. Removehandwatchshopprice/stocklabel only, no newtext/extras.",
+      "sha256": "affd3d4289f191d86d6e0aa9fbcddf92ec3ab14c83b6feaa09dfe54a172edda2",
+      "checked": true,
+      "visual_review": "Original two nested flowerheadband groups, visible hoops/flowerornaments/colours/packaging retained in lavenderstudio. Hiddenindividualcount occluded in source; no visiblematerial additions."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-eb49dcf8-b5f2-4023-ad8e-d4ce5b360f24.png",
+      "prompt": "Faithful square website lifestylephoto. Exact original packaged flowerdecorated plastic headbandassortment TWO nestedround bundles upperpinkmintblack lowerredblueblack. Preserve every original visible hoop, flowerpetal ornaments, colourorder, smallteeth, count/overlap/occlusion and clearbag, no unnesting/rearrangement or inventedhiddenitems. Entireoneassortment fullyvisible on creamdressingtable softlyblurredlavenderroom daylight. Removehandwatchshopprice/stocklabel only no newtext/extraaccessories.",
+      "sha256": "deec24e2915e915e5c48b09dfcc2b1413b61fd4fe3904b822783eea7a73fdc09",
+      "checked": true,
+      "visual_review": "Original upper/lower nestedheadband groups and visibleflowerornaments/hoops/colourorder materiallyretained in creamlavender lifestyle scene, sourceocclusions preserved."
+    },
+    {
+      "saved_file": "Rejected/04_Detail-flower-shape-error.png",
+      "source_output": "/workspace/generated_images/exec-11623490-7d32-4b06-90ba-b1bfdd801870.png",
+      "prompt": "Standalone tight macro crop of real PINK mouldedplastic flower ornament and adjoining slim pinkheadband hoop/inner smallteeth from upperbundle reference, existing clearbag crinkle visible. Preserve exactpetal contours/raisedcentre, glossyplastic colour and component geometry. Detailfillsframe creamsoftlight. No wholeassortment, no newparts/text.",
+      "sha256": "c756a1a718c1c34629c2111d8975096e96af042dc04bd9d44e2f35f5adeb8f67",
+      "checked": false,
+      "visual_review": "Generated flower has fewer broad rounded petals vs original many narrower mouldedpetals, materialshape error. One corrective tighterrealpart crop."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-e8b04d41-7d17-431f-aa04-55c820ff7bf9.png",
+      "prompt": "Standalone verytight REALPART crop of pinkheadband flower centre: actual cluster of moulded little raised oval stamens and adjoining MANY NARROW elongated pink petal grooves from source. Keep original shape/material glossy pink plastic, not a redesign with six broad rounded petals. Crop only centre/adjacentpetalparts to avoid inventing unseenoutline; adjoining actualclearbag reflections. Macrodetailfillsframe, no wholeassortment/newparts/text.",
+      "sha256": "a17fe34343c09f972c94fd65cb503a4da103b3f47de531c27edcc8574a2b471a",
+      "checked": true,
+      "visual_review": "Corrected macro actual narrowmanypetalled mouldedpink flower/stamens with adjoining pinkhoop, visibleplasticcolour/material and bag retained."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-3a8f1d06-ba5a-418e-a485-b738b92c54e4.png",
+      "prompt": "Faithful square website promotionalphoto. Exact original clearbag with flowerdecorated PLASTIC headbands in TWO nestedbundle groups, upperpastelpinkmintblack lowerredblueblack. Preserve actualvisiblehoops/mouldedflowerornaments/teeth/colourorder/nestedoverlap andocclusion, no unnesting/inventedhiddenitems. Entire oneassortment fullyframed withmargins on lavendercream background, accurate smallheading Flower Headband Assortment and PRODUCT COLLECTION. Removehandwatchshopprice/stocksticker only. No extra products or text.",
+      "sha256": "5ec7e783c7d751affdeb6c35479491e43e68229bd5f14a4feaf07fd1b9a3b65c",
+      "checked": true,
+      "visual_review": "Compared actual original and promotional image: two original nested groups, same pink/mint/black and red/blue/black hoops and flower ornaments, packaging/occlusions retained; accurate Flower Headband Assortment heading. Hidden individual count occluded in source; no material visible additions."
+    }
+  ],
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

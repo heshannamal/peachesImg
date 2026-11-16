@@ -1,0 +1,63 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250207-WA0257.jpg": "9cd184e004a4daee36db68b46c57c5d6dd83510d650714e1f3fae737ab5d503e"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-734afbf8-38f4-47d0-aa24-20e1da3521f8.png",
+      "prompt": "Edit reference into website-ready product photo. One pink fabric backpack with white unicorns, purple manes, white stars and moons, blue clouds and rainbows. Preserve rounded rectangular body, zippered front pocket, pink side pockets and gold zipper pull. Preserve identity shape colors and main count. Entire product/assortment isolated neatly on pure white seamless studio background, realistic soft shadow, no added text. Remove hands, shop, people, price overlays and old stickers. One square photograph.",
+      "sha256": "56cc376dd66edd089d8b4017990764b0c5b5be9eebfea43374d32770c8410d2d",
+      "checked": true,
+      "visual_review": "Visually reviewed: website-ready, correct source subject, form, colors and assortment identity; no hand, shop or old price overlay."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-4d0c1ecb-d6ca-45ba-ae14-595b1062ff19.png",
+      "prompt": "Faithfully edit reference for website product photography. Single pink unicorn print fabric backpack, white unicorns purple manes stars moons blue clouds rainbows, front zipper pocket pink side pockets and gold zipper pull. Preserve exact subject, shape colors and original visible stock density. Whole assortment/product on simple lavender and cream studio surface with soft shadows, no added text. Remove hands, shop, unrelated stock and old price overlays. One square image.",
+      "sha256": "6e79f9a11adb05901f064cc631a6a10bd786d65fdfbb71e1f294cc619f80c374",
+      "checked": true,
+      "visual_review": "Visually reviewed: correct subject, shape/colors and dense assortment retained, suitable website image. No hand, shop or price overlay. Detail crop count not applicable."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-f0df681e-8ab8-4e7f-8e3b-3523564760c6.png",
+      "prompt": "Faithfully edit reference for website product photography. Single pink unicorn print fabric backpack, white unicorns purple manes stars moons blue clouds rainbows, front zipper pocket pink side pockets and gold zipper pull. Preserve exact subject, shape colors and original visible stock density. Whole assortment/product on a clean cream desk or vanity with subtle contextual props, soft daylight, no people, no added text. Remove hands, shop, unrelated stock and old price overlays. One square image.",
+      "sha256": "d323a6898d55603a7ceac4ec97e58d5ab1f718cb122d5e09ee6317625ec72dd7",
+      "checked": true,
+      "visual_review": "Visually reviewed: correct subject, shape/colors and dense assortment retained, suitable website image. No hand, shop or price overlay. Detail crop count not applicable."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-da891231-9c1f-43b9-8af7-e9418faf80a0.png",
+      "prompt": "Faithfully edit reference for website product photography. Reference subject Single pink unicorn print fabric backpack, white unicorns purple manes stars moons blue clouds rainbows, front zipper pocket pink side pockets and gold zipper pull. DETAIL VIEW: Tight macro crop of a small existing material/detail portion of one item, do not show whole pack or whole product. No text overlays. Preserve real product texture shape colors and existing details. Remove hands, shop, unrelated stock and old price overlays. One square image.",
+      "sha256": "a9c5ececf69326e4005410e11692f75ec0ad1649b004e46183db75d24cb9c079",
+      "checked": true,
+      "visual_review": "Visually reviewed: correct subject, shape/colors and dense assortment retained, suitable website image. No hand, shop or price overlay. Detail crop count not applicable."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-21687939-94e2-4176-bb3c-2e88fbfa21a9.png",
+      "prompt": "Create website promotional photograph using reference: exactly ONE single physical pink unicorn backpack, one bag only, no duplicates, no collage, no panels, no repeated objects, no collection of bags. Preserve pink fabric, white unicorn print, purple manes, blue clouds, moons stars, gold zip pull and backpack shape. Simple lavender and cream background. Short compact heading Pink Unicorn Backpack. Remove shop and price overlay. One square photo.",
+      "sha256": "1436f9f6ae2647cfb6e60e359818068616513568e6eff086763d5a07515282c3",
+      "checked": true,
+      "visual_review": "Visually checked corrective promo: exactly one physical backpack; source pink unicorn print, form and colors retained; short heading legible. PRODUCT COLLECTION subtitle omitted per parent instruction to avoid duplicating the product."
+    }
+  ],
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true,
+  "rejected_records": [
+    {
+      "saved_file": "Rejected/05_Promotional-duplicate-backpacks.png",
+      "source_output": "/workspace/generated_images/exec-31b93856-b522-46c7-bda7-46670758873b.png",
+      "prompt": "Faithfully edit reference for website promotional product photography. Single pink unicorn print fabric backpack, white unicorns purple manes stars moons blue clouds rainbows, front zipper pocket pink side pockets and gold zipper pull. Preserve subject shape colors and dense stock quantity. Whole assortment/product on simple lavender and cream backdrop, compact descriptive title Pink Unicorn Backpack and smaller PRODUCT COLLECTION. Remove hands, shop, unrelated stock and old price overlays. One square image.",
+      "sha256": "dd246fda468d01cc438188f73ab1828eab25c544e2e49f1089035c66906ea2dd",
+      "checked": false,
+      "rejected": true,
+      "visual_review": "Rejected: five duplicated backpacks instead of single physical backpack."
+    }
+  ]
+}

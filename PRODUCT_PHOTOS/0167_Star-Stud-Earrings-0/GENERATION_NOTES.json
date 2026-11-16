@@ -1,0 +1,26 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250210-WA0577.jpg": "902fc2ed1605e77373954a43b8ac4e35a79e04f479ee6d58bb468729e5339698"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-1293014d-f2c3-4201-8ffa-10ed815fb207.png",
+      "prompt": "Square website catalogue photo, preserve exactly12pairs/24 small silver-tone clear rhinestone geometric star-cross stud earrings, four rounded outer lobes with central cluster, on one white card sixrows fourstuds, preserve exact main shape and crystal arrangement. Exact same quantities, orientation, layout and colors. Remove hand, shop and price overlay. Clean white background and soft shadow, no new objects or text.",
+      "sha256": "9de7eed0e019ee4059c2ebf9b66ff607d7c896a1f512b731237fdebf03c55c13",
+      "checked": true,
+      "visual_review": "Viewed against original: twenty-four studs in six rows of four; main shape and colour sequence retained. Website-ready."
+    }
+  ],
+  "status": "partial: image usage quota reached",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true,
+  "missing_views": [
+    "02_Styled-Background",
+    "03_Lifestyle",
+    "04_Detail",
+    "05_Promotional"
+  ]
+}

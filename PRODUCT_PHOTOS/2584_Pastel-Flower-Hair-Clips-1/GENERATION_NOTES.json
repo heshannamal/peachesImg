@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0195.jpg": "bc966889fed569162ebed1291bd480cbe6438d35a55dd3154220e3d93d4bca51"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-aef90f2f-b13a-4ef4-ad9e-acd29ed09724.png",
+      "source_output": "/workspace/generated_images/exec-aef90f2f-b13a-4ef4-ad9e-acd29ed09724.png",
+      "sha256": "3c03cbe13f6f701733d829667dc14139fe999d1c3156b25e7d6d381b820937b4",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows of512square cells, boundaries x512,x1024,y512; no gutters/borders/labels. Top-left WHITE background full assortment; top-middle lavender/cream styled full assortment; top-right realistic dressing-table lifestyle full assortment; bottom-left standalone tight macro of an actual flower petal/leaf texture, not whole assortment; bottom-middle promotional full assortment with accurate heading Flower Hair Clips; bottom-right blank cream. Entire photographed assortment ONE product. Preserve exact count, rose/flower construction, fabric texture, colours, green leaves, and backing cards. Remove hand, shop and price overlays, no new claims. Full views show exactly TWELVE flower clips on TWO long white cards each with SIX single flowers in one vertical column. All twelve distinct flowers visible, no overlap hiding count. Keep all inside each full-view cell with margin. Photoreal website-ready. Source rose-shaped flower hair clips have soft fabric rose centres and scalloped slightly glittery outer petals with small green fabric leaves. Each card six flowers in exact order: PINK, WHITE/CREAM, PINK, BLUE, PURPLE, PALE PEACH. Thus assortment totals4pink,2white,2blue,2purple,2peach =12. Show two columns of six matching source, no burgundy/yellow/mint additions. Preserve rose type and colours. Macro close real blue rose petal and green leaf.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-aef90f2f-b13a-4ef4-ad9e-acd29ed09724.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows of512square cells, boundaries x512,x1024,y512; no gutters/borders/labels. Top-left WHITE background full assortment; top-middle lavender/cream styled full assortment; top-right realistic dressing-table lifestyle full assortment; bottom-left standalone tight macro of an actual flower petal/leaf texture, not whole assortment; bottom-middle promotional full assortment with accurate heading Flower Hair Clips; bottom-right blank cream. Entire photographed assortment ONE product. Preserve exact count, rose/flower construction, fabric texture, colours, green leaves, and backing cards. Remove hand, shop and price overlays, no new claims. Full views show exactly TWELVE flower clips on TWO long white cards each with SIX single flowers in one vertical column. All twelve distinct flowers visible, no overlap hiding count. Keep all inside each full-view cell with margin. Photoreal website-ready. Source rose-shaped flower hair clips have soft fabric rose centres and scalloped slightly glittery outer petals with small green fabric leaves. Each card six flowers in exact order: PINK, WHITE/CREAM, PINK, BLUE, PURPLE, PALE PEACH. Thus assortment totals4pink,2white,2blue,2purple,2peach =12. Show two columns of six matching source, no burgundy/yellow/mint additions. Preserve rose type and colours. Macro close real blue rose petal and green leaf.",
+      "sha256": "fe5d44063725de8857c7d4fdaaf0155e284da81041fa278422a31d365ef6f2b4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-aef90f2f-b13a-4ef4-ad9e-acd29ed09724.png",
+      "grid_sha256": "3c03cbe13f6f701733d829667dc14139fe999d1c3156b25e7d6d381b820937b4",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crop checked vs original. Full views preserve2cards\u00d76roseclips=12: each pink/white/pink/blue/purple/peach, green leaves and fabric glitter outer petal construction retained. Tight actual blue rose petal detail. Five correct website styles, accurate heading, clean crop boundaries."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-aef90f2f-b13a-4ef4-ad9e-acd29ed09724.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows of512square cells, boundaries x512,x1024,y512; no gutters/borders/labels. Top-left WHITE background full assortment; top-middle lavender/cream styled full assortment; top-right realistic dressing-table lifestyle full assortment; bottom-left standalone tight macro of an actual flower petal/leaf texture, not whole assortment; bottom-middle promotional full assortment with accurate heading Flower Hair Clips; bottom-right blank cream. Entire photographed assortment ONE product. Preserve exact count, rose/flower construction, fabric texture, colours, green leaves, and backing cards. Remove hand, shop and price overlays, no new claims. Full views show exactly TWELVE flower clips on TWO long white cards each with SIX single flowers in one vertical column. All twelve distinct flowers visible, no overlap hiding count. Keep all inside each full-view cell with margin. Photoreal website-ready. Source rose-shaped flower hair clips have soft fabric rose centres and scalloped slightly glittery outer petals with small green fabric leaves. Each card six flowers in exact order: PINK, WHITE/CREAM, PINK, BLUE, PURPLE, PALE PEACH. Thus assortment totals4pink,2white,2blue,2purple,2peach =12. Show two columns of six matching source, no burgundy/yellow/mint additions. Preserve rose type and colours. Macro close real blue rose petal and green leaf.",
+      "sha256": "2b9ec06ad78e7f94e9f939a728cc6f82b2a575509732c20f84bcd907c121ebf6",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-aef90f2f-b13a-4ef4-ad9e-acd29ed09724.png",
+      "grid_sha256": "3c03cbe13f6f701733d829667dc14139fe999d1c3156b25e7d6d381b820937b4",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crop checked vs original. Full views preserve2cards\u00d76roseclips=12: each pink/white/pink/blue/purple/peach, green leaves and fabric glitter outer petal construction retained. Tight actual blue rose petal detail. Five correct website styles, accurate heading, clean crop boundaries."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-aef90f2f-b13a-4ef4-ad9e-acd29ed09724.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows of512square cells, boundaries x512,x1024,y512; no gutters/borders/labels. Top-left WHITE background full assortment; top-middle lavender/cream styled full assortment; top-right realistic dressing-table lifestyle full assortment; bottom-left standalone tight macro of an actual flower petal/leaf texture, not whole assortment; bottom-middle promotional full assortment with accurate heading Flower Hair Clips; bottom-right blank cream. Entire photographed assortment ONE product. Preserve exact count, rose/flower construction, fabric texture, colours, green leaves, and backing cards. Remove hand, shop and price overlays, no new claims. Full views show exactly TWELVE flower clips on TWO long white cards each with SIX single flowers in one vertical column. All twelve distinct flowers visible, no overlap hiding count. Keep all inside each full-view cell with margin. Photoreal website-ready. Source rose-shaped flower hair clips have soft fabric rose centres and scalloped slightly glittery outer petals with small green fabric leaves. Each card six flowers in exact order: PINK, WHITE/CREAM, PINK, BLUE, PURPLE, PALE PEACH. Thus assortment totals4pink,2white,2blue,2purple,2peach =12. Show two columns of six matching source, no burgundy/yellow/mint additions. Preserve rose type and colours. Macro close real blue rose petal and green leaf.",
+      "sha256": "ee1709a748a429e38f3e73b847099ddeee2ce1cf4cfcac8306dfeddfda5081a2",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-aef90f2f-b13a-4ef4-ad9e-acd29ed09724.png",
+      "grid_sha256": "3c03cbe13f6f701733d829667dc14139fe999d1c3156b25e7d6d381b820937b4",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crop checked vs original. Full views preserve2cards\u00d76roseclips=12: each pink/white/pink/blue/purple/peach, green leaves and fabric glitter outer petal construction retained. Tight actual blue rose petal detail. Five correct website styles, accurate heading, clean crop boundaries."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-aef90f2f-b13a-4ef4-ad9e-acd29ed09724.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows of512square cells, boundaries x512,x1024,y512; no gutters/borders/labels. Top-left WHITE background full assortment; top-middle lavender/cream styled full assortment; top-right realistic dressing-table lifestyle full assortment; bottom-left standalone tight macro of an actual flower petal/leaf texture, not whole assortment; bottom-middle promotional full assortment with accurate heading Flower Hair Clips; bottom-right blank cream. Entire photographed assortment ONE product. Preserve exact count, rose/flower construction, fabric texture, colours, green leaves, and backing cards. Remove hand, shop and price overlays, no new claims. Full views show exactly TWELVE flower clips on TWO long white cards each with SIX single flowers in one vertical column. All twelve distinct flowers visible, no overlap hiding count. Keep all inside each full-view cell with margin. Photoreal website-ready. Source rose-shaped flower hair clips have soft fabric rose centres and scalloped slightly glittery outer petals with small green fabric leaves. Each card six flowers in exact order: PINK, WHITE/CREAM, PINK, BLUE, PURPLE, PALE PEACH. Thus assortment totals4pink,2white,2blue,2purple,2peach =12. Show two columns of six matching source, no burgundy/yellow/mint additions. Preserve rose type and colours. Macro close real blue rose petal and green leaf.",
+      "sha256": "bbe0e104b8c9311ed9163fc5331ecbf5b82f07374863d36e01778f5bc62e10e5",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-aef90f2f-b13a-4ef4-ad9e-acd29ed09724.png",
+      "grid_sha256": "3c03cbe13f6f701733d829667dc14139fe999d1c3156b25e7d6d381b820937b4",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crop checked vs original. Full views preserve2cards\u00d76roseclips=12: each pink/white/pink/blue/purple/peach, green leaves and fabric glitter outer petal construction retained. Tight actual blue rose petal detail. Five correct website styles, accurate heading, clean crop boundaries."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-aef90f2f-b13a-4ef4-ad9e-acd29ed09724.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows of512square cells, boundaries x512,x1024,y512; no gutters/borders/labels. Top-left WHITE background full assortment; top-middle lavender/cream styled full assortment; top-right realistic dressing-table lifestyle full assortment; bottom-left standalone tight macro of an actual flower petal/leaf texture, not whole assortment; bottom-middle promotional full assortment with accurate heading Flower Hair Clips; bottom-right blank cream. Entire photographed assortment ONE product. Preserve exact count, rose/flower construction, fabric texture, colours, green leaves, and backing cards. Remove hand, shop and price overlays, no new claims. Full views show exactly TWELVE flower clips on TWO long white cards each with SIX single flowers in one vertical column. All twelve distinct flowers visible, no overlap hiding count. Keep all inside each full-view cell with margin. Photoreal website-ready. Source rose-shaped flower hair clips have soft fabric rose centres and scalloped slightly glittery outer petals with small green fabric leaves. Each card six flowers in exact order: PINK, WHITE/CREAM, PINK, BLUE, PURPLE, PALE PEACH. Thus assortment totals4pink,2white,2blue,2purple,2peach =12. Show two columns of six matching source, no burgundy/yellow/mint additions. Preserve rose type and colours. Macro close real blue rose petal and green leaf.",
+      "sha256": "c28ea9ee6df6c9b7c5e4fc727b71b0f5fcda55db6a5287535a5aa762556dad98",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-aef90f2f-b13a-4ef4-ad9e-acd29ed09724.png",
+      "grid_sha256": "3c03cbe13f6f701733d829667dc14139fe999d1c3156b25e7d6d381b820937b4",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crop checked vs original. Full views preserve2cards\u00d76roseclips=12: each pink/white/pink/blue/purple/peach, green leaves and fabric glitter outer petal construction retained. Tight actual blue rose petal detail. Five correct website styles, accurate heading, clean crop boundaries."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Twelve rose-shaped hair clips on two six-flower cards, pink/white/pink/blue/purple/peach sequence",
+  "original_baseline_verified": true
+}

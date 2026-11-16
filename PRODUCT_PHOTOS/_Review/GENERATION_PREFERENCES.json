@@ -1,0 +1,29 @@
+{
+  "timezone": "Asia/Colombo",
+  "scheduled_start_local_time": "00:05",
+  "processing_order": "descending_numeric_product_id",
+  "standing_instruction": "Latestuserrequest:generate next100products from END of existing repositorylist, highestIDfirst. Supersedes previous top-of-GooglePhotos order for this run.",
+  "current_authorized_queue": "2315down2216 (100existingproducts)",
+  "scope_rule": "Ordering preference does not broaden the authorized product range or imply daily recurrence.",
+  "next_scheduled_start_local": "2026-10-27T00:05:00+05:30",
+  "parallel_dispatch_rule": "Assign nextunassigned IDs in descendingorder, fiveworkers max2activeproducts each. Completion ordermayvary.",
+  "previous_authorized_queue": "0253\u20130352",
+  "previous_frozen_plan": "PRODUCT_PHOTOS/_Review/SCHEDULED_NEXT_100_0253_0352.json",
+  "source_album_url": "https://photos.app.goo.gl/CLPwChWUC2jr9pSGA",
+  "source_access_status": "blocked_workspace_network_HTTP403",
+  "source_access_checked_at": "2026-10-28T21:58:05.385804+00:00",
+  "frozen_plan": "PRODUCT_PHOTOS/_Review/END100_2216_2315_PLAN.json",
+  "generation_workflow": "one_native3x2grid_then_five_crops",
+  "crop_layout": {
+    "columns": 3,
+    "rows": 2,
+    "cells": [
+      "01_White-Background",
+      "02_Styled-Background",
+      "03_Lifestyle",
+      "04_Detail",
+      "05_Promotional",
+      "unused"
+    ]
+  }
+}

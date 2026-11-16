@@ -1,0 +1,233 @@
+{
+  "created_at": "2026-11-12T13:59:38.734237+00:00",
+  "total_products": 11,
+  "price": "1",
+  "currency": "LKR",
+  "price_source": "User standing instruction: price column add1",
+  "stock_quantity": "Blank; not provided",
+  "brand": "Blank; not independently verified",
+  "total_checked_image_urls": 55,
+  "total_verified_image_urls": 55,
+  "image_validation": "All55URLs match live HTTP200 image verification and checked SHA records.",
+  "status": "ready",
+  "excluded": "All earlier exports04\u201329 and all pending, partial or blocked products.",
+  "order": "Descending product ID",
+  "encoding": "UTF-8 BOM",
+  "line_endings": "CRLF",
+  "files": [
+    {
+      "file": "mytradevia-batch-30.csv",
+      "products": 11,
+      "product_ids": [
+        "2531",
+        "2529",
+        "2528",
+        "2527",
+        "2526",
+        "2523",
+        "2522",
+        "2521",
+        "2520",
+        "2519",
+        "2518"
+      ],
+      "sha256": "37299280c5378b73276df25ff2737026812b1807216935216cac9f909356c891"
+    }
+  ],
+  "products": [
+    {
+      "product_id": "2531",
+      "sku": "PEACHES-2531",
+      "name": "Angular Pearl Bow Hair Claw Assortment",
+      "folder": "2531_Clear-Geometric-Claws-1",
+      "name_source": "Actual-subject generation notes and exact original-referenced prompts; unreliable folder labels overridden.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "b6aae64b254366979f5772bdfaa10623d31130d662e94acffba2a4cde2188b1c",
+      "evidence_prompt_excerpt": ",naturalvanitylifestyle. Bottomrowtightstandalone pearl-edge/hinge REALPARTmacro only,promotionalall12plusaccurateheading,unusedblankcream. Exactboundaries512/1024/512,nogutters/borders. Exact2531shapeis angular BOW/BUTTERFLY outline clearhairclaws withmultiplecurvedtriangular/openwings, whitepearls outlining two broad bowloops and smallpearl-covered rectangularhingetab. NOTplaincircles. Preserve originalbowoutline andpearlpatternexactly,eachpair6oncard. Heading 'Pearl Bow Hair Claws'.\n\nCORRECTIVE ONE ALLOWED: previous topfullviewswrongly10(5percard). In EACH TOP CELL make TWO whitecards with SIX pearlbowclawspercard, EXACT6ROWS x2COLUMNS=12. Count6rows explicitly1,2,3,4,5,6; no5rows. Bottomdetailandpromopassedwillbepreserved. Referenceactualoriginal12bows. Allotheridentityrulespreserved.\n",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2531_Clear-Geometric-Claws-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2531_Clear-Geometric-Claws-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2531_Clear-Geometric-Claws-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2531_Clear-Geometric-Claws-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2531_Clear-Geometric-Claws-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2529",
+      "sku": "PEACHES-2529",
+      "name": "Pearl Rectangle Hair Claw Assortment",
+      "folder": "2529_Clear-Rectangle-Claws-1",
+      "name_source": "Actual-subject generation notes and exact original-referenced prompts; unreliable folder labels overridden.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "2ae0e65b6879d81fbdf2e0617037538f5f53fcf0a5a4e4771460e134761a2f40",
+      "evidence_prompt_excerpt": "acro;cell5bottom-middlePROMOTIONALALL12 accurateheading;cell6bottom-rightblankcream. Repeatcomplete12piece assortment ineachfullview,3rows4claws or2rows6,eachseparate,countable. Preserveexactsourceclawmouldshape,colours,identity,clearivorychampagneplasticteethbase,metalcoilhinge,whitepearlrimdecoration. Removehand,plasticbag,warehouse,priceandnumbersticker. No unrelatedstock,Nogenericheartclipreplacement. Original12identicalelongatedRECTANGULARopen-windowhairclaws. Face a longrectangleoutlinedwithsinglelineofmediumwhitepearls, sideendsroundedcorners. SmallcentraluprightRECTANGULARhandle outlineddensetinywhitebeads withvisiblegoldcoilhingeinsidehandlewindow. Exactoriginalclearivorybaseandteeth. Detailmacrorectangularhandlebeads/goldspring/largepearlrim. Heading 'Pearl Rectangle Hair Claws'.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2529_Clear-Rectangle-Claws-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2529_Clear-Rectangle-Claws-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2529_Clear-Rectangle-Claws-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2529_Clear-Rectangle-Claws-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2529_Clear-Rectangle-Claws-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2528",
+      "sku": "PEACHES-2528",
+      "name": "Curved Pearl Frame Hair Claw Assortment",
+      "folder": "2528_Clear-Heart-Claws-1",
+      "name_source": "Actual-subject generation notes and exact original-referenced prompts; unreliable folder labels overridden.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "47f2612a0655febf16842025b3318a6469ee15c75c2e2aa2fc0e865e75be49a5",
+      "evidence_prompt_excerpt": "m-rightblankcream. Repeatcomplete12piece assortment ineachfullview,3rows4claws or2rows6,eachseparate,countable. Preserveexactsourceclawmouldshape,colours,identity,clearivorychampagneplasticteethbase,metalcoilhinge,whitepearlrimdecoration. Removehand,plasticbag,warehouse,priceandnumbersticker. No unrelatedstock,Nogenericheartclipreplacement. Original12identicalelongatedclearivoryhairclaws, openrectangular/bowedoutlineface borderedwhitepearls, longedgegentlycurved sameasreference. CentralsmallRECTANGULARuprighthandle surroundedtinywhitebeads, goldcoilspringinsidehandle. PreserveACTUALgeometrydirectlyfromoriginal, folderheartnameisnotreliable; doNOTinventheart-shapedclips. Keepall12sourceclaws. Detailmacroactualtinybeadedrectangularhandle,goldhingeandwhitepearlrim. Heading 'Pearl Hair Claws'.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2528_Clear-Heart-Claws-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2528_Clear-Heart-Claws-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2528_Clear-Heart-Claws-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2528_Clear-Heart-Claws-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2528_Clear-Heart-Claws-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2527",
+      "sku": "PEACHES-2527",
+      "name": "Plumeria Hair Claw Set Assortment",
+      "folder": "2527_Bright-Flower-Claw-Sets-1",
+      "name_source": "Actual-subject generation notes and exact original-referenced prompts; unreliable folder labels overridden.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "395be10faa9087cfb28ce8ab1c5d8cf9478000f0885d018a723742bf80712f01",
+      "evidence_prompt_excerpt": "ading; blankcream. Keepallproductswithineachcell. Preserve actualvisibleassortment count/identity/shapes/colours, noextras; removehand,shopbackground,outerbag,oldpriceoverlay. ActualvisibleproductSIXwhitecards in2columns3rows, eachcardONElarge+TWOsmall fivepetalplumeriaflowerhairclaws,18flowers total. Sixcardcolours: leftcolumn pale pink,green,magenta; rightcolumn purple,red,skyblue. Everyflower haswhiteinnerpetals/yellowcentre andcolouredpetaltips. Preserveoriginal3flowerspercardwithrealclawteeth/hingesbehind,notlooseflowers. EveryfullviewshowsALL6cards18flowers, not12cards/36flowers. Macro standalone tightactualpinkflowerpetals/yellowcentre andclawhingesection. Promotionalheading \"Plumeria Hair Claw Sets\". Accuratecardcount6; oldwholesaletext12setsnotinstructiontoinventoffscreenproducts.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2527_Bright-Flower-Claw-Sets-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2527_Bright-Flower-Claw-Sets-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2527_Bright-Flower-Claw-Sets-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2527_Bright-Flower-Claw-Sets-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2527_Bright-Flower-Claw-Sets-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2526",
+      "sku": "PEACHES-2526",
+      "name": "Gold Fleck Flower Hair Claw Assortment",
+      "folder": "2526_Colourful-Daisy-Claws-1",
+      "name_source": "Actual-subject generation notes and exact original-referenced prompts; unreliable folder labels overridden.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "229d3f419aa25ce9a4d923b93a11cfadbc9fb9ea27a5703149537436ddd5e8c7",
+      "evidence_prompt_excerpt": "macro; fullassortment promotionalaccurateheading; blankcream. Keepallproductswithineachcell. Preserve actualvisibleassortment count/identity/shapes/colours, noextras; removehand,shopbackground,outerbag,oldpriceoverlay. ActualproductTWELVElargeclearresinplumeriaflowerhairclaws,2columns6rows, goldfleckswithintransparentfivepetals andcolouredcentres. Exactoriginalleftcoltopbottom:blue,blue,magenta,magenta,limegreen,limegreen. Rightcoltopbottom:yellow,yellow,red,red,purple,purple. Sixcolourpairs,12flowers total; preserveoriginalfivepetaloutline, goldflecks,clearclawteeth/hinges. No opaqueplasticorwhiteflowers. Macro tightactualtransparentflowerpetalgoldflecksandcolourcentre, notwholeassortment. Promotionalheading \"Gold Fleck Flower Hair Claws\". Do notinventgoldplatingclaims; goldflecksvisible.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2526_Colourful-Daisy-Claws-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2526_Colourful-Daisy-Claws-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2526_Colourful-Daisy-Claws-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2526_Colourful-Daisy-Claws-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2526_Colourful-Daisy-Claws-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2523",
+      "sku": "PEACHES-2523",
+      "name": "Pastel Plumeria Hair Claw Assortment",
+      "folder": "2523_Pastel-Flower-Claws-1",
+      "name_source": "Actual-subject generation notes and exact original-referenced prompts; unreliable folder labels overridden.",
+      "actual_subject": "Twelve two-tone pastel five-petal plumeria flower hair claw clips",
+      "evidence_prompt_sha256": "913c4fc3606695b7c971f14d801e8dea826f165207f1cd4e4159437f37c27353",
+      "evidence_prompt_excerpt": "k/cream,2mint/cream,2blue/cream,2purple/pink =12. Originalshows2six-clipwhitecards. Preserve5petalsperflower,two-tonegradientidentity, no flowercentre bead. Macro tight actualglossyfivepetal edge/two-tonefinish+smallclawpart. Heading Pastel Flower Hair Claws. CORRECTION: Match EXACT two vertical sixclip columns. LEFT column fromtop1PINK/CREAM,2PINK/CREAM,3MINT/CREAM,4MINT/CREAM,5BLUE/CREAM,6BLUE/CREAM. RIGHTcolumn fromtop1BLUE/PINK,2BLUE/PINK,3PINK/CREAM,4PINK/CREAM,5PURPLE/PINK,6PURPLE/PINK. Exactly12total,4pinkcream+2mintcream+2bluecream+2bluepink+2purplepink. Do not substitute a thirdpink for mint. Purple flowers must have PINK petalgradient visible, notsolidpurple. No tinydecorative extra flower icon inpromo; only12products. Allfourfullviews useexactsame12withcorrectcolourdistribution.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2523_Pastel-Flower-Claws-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2523_Pastel-Flower-Claws-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2523_Pastel-Flower-Claws-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2523_Pastel-Flower-Claws-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2523_Pastel-Flower-Claws-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2522",
+      "sku": "PEACHES-2522",
+      "name": "Pastel Butterfly Hair Claw Assortment",
+      "folder": "2522_Pastel-Butterfly-Claws-1",
+      "name_source": "Actual-subject generation notes and exact original-referenced prompts; unreliable folder labels overridden.",
+      "actual_subject": "Twelve two-tone pastel ribbed-wing butterfly hair claw clips",
+      "evidence_prompt_sha256": "7ce3203be4e2df4ad3b1ac2720efc10f80fa89034742d6a108083b81499e8e7e",
+      "evidence_prompt_excerpt": "TwoeachofSIXtwo-tonecolourways:cream/lightblue,pale-yellow/pink,pale-yellow/mint,palecream/pink,purple/periwinkle,blue/pink =12. Preserve two-tonegradients and wingveinribbing, notbows orflowers. Originaltwo6clipwhitecards. Fullviews show12butterflies, no extra shape. Macro tight real ribbedwing texture and segmentedbody section. Heading Pastel Butterfly Hair Claws. CORRECTION CRITICAL: Top THREEfullviewcells must show EXACTLY12 individualbutterflies. ArrangeTWO HORIZONTAL ROWS OF SIX, notfive percolumn. Toprow:creamblue,creamblue,yellowpink,yellowpink,yellowmint,yellowmint. Bottomrow:creampink,creampink,purpleperiwinkle,purpleperiwinkle,bluepink,bluepink. Make each smaller tofit, six clearlyvisiblebutterfliesperrow. Never10. Original12colourpairs preserved. No extra props resemblingclips.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2522_Pastel-Butterfly-Claws-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2522_Pastel-Butterfly-Claws-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2522_Pastel-Butterfly-Claws-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2522_Pastel-Butterfly-Claws-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2522_Pastel-Butterfly-Claws-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2521",
+      "sku": "PEACHES-2521",
+      "name": "Two Tone Open Handle Hair Claw Assortment",
+      "folder": "2521_Neutral-Outline-Claws-1",
+      "name_source": "Actual-subject generation notes and exact original-referenced prompts; unreliable folder labels overridden.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "79fbdb27247b710f5b001be1e96595e6c253a38ad6c18a8717e2c4b6e5455145",
+      "evidence_prompt_excerpt": "SSERALL12;cell4bottom-leftstandalonetightrealpartmacro;cell5bottom-middlePROMOTIONALALL12 accurateheading;cell6bottom-rightblankcream. Repeatcomplete12piece assortment ineachfullview,3rows4claws or2rows6,eachseparate,countable. Preserveexactsourcegeometry,colours,identity,teeth,metalcoilhinge. Removehand,plasticbag,shop,priceoverlay. Noextra/missingpieces. Actualsource12small matteoutlinehairclaws, eachhandlelargeovalopencutout abovehorizontalbar, simplecurvedteeth. Two-tonepairedjaws:2beige/lightivory,2sagegreen/beige,2palelemonivory/sagegreen,2white/black,2dustypink/cobaltblue,2palelemonivory/burgundy. Preservebothjawcolours whenvisible, originalmatteplastic. ShapeNOTbutterfly/heart, sourceovalopenhandleandbar. Detailmacro sagegreenovalhandle/goldcoilhinge. Heading 'Two-Tone Hair Claws'.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2521_Neutral-Outline-Claws-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2521_Neutral-Outline-Claws-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2521_Neutral-Outline-Claws-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2521_Neutral-Outline-Claws-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2521_Neutral-Outline-Claws-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2520",
+      "sku": "PEACHES-2520",
+      "name": "Large White Plumeria Hair Claw Assortment",
+      "folder": "2520_Large-Daisy-Claws-1",
+      "name_source": "Actual-subject generation notes and exact original-referenced prompts; unreliable folder labels overridden.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "942a555fbdf5b7fed91e6b25a5243644b937afd7d4b9f62eceeff4dc6cbe9d95",
+      "evidence_prompt_excerpt": "VENDER/CREAMSTYLEDALL12;cell3top-rightLIFESTYLEDRESSERALL12;cell4bottom-leftstandalonetightrealpartmacro;cell5bottom-middlePROMOTIONALALL12 accurateheading;cell6bottom-rightblankcream. Repeatcomplete12piece assortment ineachfullview,3rows4claws or2rows6,eachseparate,countable. Preserveexactsourcegeometry,colours,identity,teeth,metalcoilhinge. Removehand,plasticbag,shop,priceoverlay. Noextra/missingpieces. Actualsource12identical large translucentmilkywhitePLUMERIAFLOWERhairclaws, eachflowerEXACT5smoothroundedelongatedpetals withYELLOWORANGEshadedcentralstar andradiatingfinegrooves. Clear/whiteplasticclawbehindflower. NOTdaisywithmanypetals. All12samewhite-yellowflowerdesign. Preservetranslucency,size,shape. Detailmacroactualyellowcentre/whitepetaltexture. Heading 'White Flower Hair Claws'.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2520_Large-Daisy-Claws-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2520_Large-Daisy-Claws-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2520_Large-Daisy-Claws-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2520_Large-Daisy-Claws-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2520_Large-Daisy-Claws-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2519",
+      "sku": "PEACHES-2519",
+      "name": "White Frangipani Hair Claw Assortment",
+      "folder": "2519_White-Daisy-Claws-1",
+      "name_source": "Actual-subject generation notes and exact original-referenced prompts; unreliable folder labels overridden.",
+      "actual_subject": "Twelve milkywhite/yellow-centre five-petal frangipani flower hairclaws on twostrips ofsix",
+      "evidence_prompt_sha256": "7acefe275cc3df60d960531a2216886e17ae18bf25342b18cac77fb2d39b6cab",
+      "evidence_prompt_excerpt": "roducts. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actual assortment TWELVE glossyFRANGIPANI/PLUMERIA flowerhairclaws, two longstripsSIXflowers each. Eachflower exactlyFIVE roundedslightlyoverlapping broadpetals withMILKYWHITEedges fadingintoGOLDENYELLOWcentre, clearplasticjaws andmetalspringbehind. Notmanypetal daisies despitefoldername. Preserveall12sourcefivepetalflowerclaws; in eachfullview1/2/3/5 TWOcolumns SIXrows fullyvisible,12countableflowers, not10. Samewhite-yellowcolourall12. Removehand/priceoverlay/shopclutter. Detail standalone tightmacroofactualwhite-yellowpetal/flowercentrejunction andclearclawhinge, notfullflower. AccurateheadingWhite Frangipani Hair Claws.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2519_White-Daisy-Claws-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2519_White-Daisy-Claws-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2519_White-Daisy-Claws-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2519_White-Daisy-Claws-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2519_White-Daisy-Claws-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2518",
+      "sku": "PEACHES-2518",
+      "name": "Mixed Frangipani Hair Claw Set Assortment",
+      "folder": "2518_Mixed-Flower-Claw-Sets-1",
+      "name_source": "Actual-subject generation notes and exact original-referenced prompts; unreliable folder labels overridden.",
+      "actual_subject": "Six colourcards of frangipani hairclaw sets, each two large and two small matchingflowers;24claws total",
+      "evidence_prompt_sha256": "9177deca002e0c951f2e8f6169501167db9306e2478767075087765e90e98da8",
+      "evidence_prompt_excerpt": "lowerhairclaws. Eachcardhas FOURclips: TWOlargeflowerclaws plusTWOsmallmatchingflowerclaws, total24clips. In sourceoneoftwolargeflowersonsomecardsishiddenpartlybycardheader; preservebothlargeones. SIXcolours exactly:CORALRED,PALEYELLOW,ORANGE,PALELAVENDER,HOTPINK,BRIGHTBLUEwithgreenishcentre. Eachglossyfivebroadpetalflowerhasintensecolouredcentre fadingtolighteredges andclearplasticclawbehind. Fullviews1/2/3/5 show ALLSIXcolourcards TOGETHER, 2columns3rows or3columns2rowswithin eachcell; EACHcard's2large+2smallflowerscountable. Do notomitcards,donotshowonly6singleflowers. Keepcolourgroupsandlargesmallsizecontrastsource. Removehand/pricebanner/shop. Detail standalone tightmacroofactualBLUEpetalandgreenishflowercentre/hinge, notwholeassortment. AccurateheadingMixed Frangipani Hair Claw Sets.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2518_Mixed-Flower-Claw-Sets-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2518_Mixed-Flower-Claw-Sets-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2518_Mixed-Flower-Claw-Sets-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2518_Mixed-Flower-Claw-Sets-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2518_Mixed-Flower-Claw-Sets-1/New/05_Promotional.png"
+      ]
+    }
+  ],
+  "prior_exports_preserved_sha256": {
+    "mytradevia-batch-26.csv": "313c8adc079d2285d781ee283f53d6999e0e5741d77790288bace397cda2dadd",
+    "mytradevia-batch-27.csv": "90beab93a8373cd6af00739b9f66d10aa27fa668a395a08ca443725a19503e1e",
+    "mytradevia-batch-28.csv": "e2f15ad86e6da61da5fd67fb50696b433433448f2d9bdb5cdf7b75e1f94b134e",
+    "mytradevia-batch-29.csv": "6f5f4139132bb88c2fd4384419d265922da5b809ab783e3aa93c7c6a2269da4a",
+    "mytradevia-batches-26-29-price-1.zip": "115865dcb08d30c5f824e32afd7adb434c5d380d9e2307d04d75bb46ae0d0027"
+  }
+}

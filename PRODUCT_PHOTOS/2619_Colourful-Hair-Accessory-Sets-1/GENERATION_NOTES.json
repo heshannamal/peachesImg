@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0362.jpg": "d8ff53e48c398fff4ac667a844f5fe9da832ae0ee7ae88f2ac1d02bd61a2ada3"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-3f2368fb-a1c8-4df3-83b5-db49bccac929.png",
+      "source_output": "/workspace/generated_images/exec-3f2368fb-a1c8-4df3-83b5-db49bccac929.png",
+      "sha256": "e1504109317c948e51f9f5f1e77b2198d427b755dbf33c1fa90e28a7df5cba2a",
+      "prompt": "Create ONE website-ready landscape1536x1024 image EXACT3columns by2rows of512x512cells. STRICT horizontal boundary at y512. No gutters/borders/panellabels; no crosscellcontent. Native edit referenced original actualproduct only. Cells readingorder:1 entire original assortment white;2 entire assortment lavender/cream styled;3 entire assortment vanity lifestyle;4 standalone tight macro ofactualrealpart;5 entire assortment promotional with heading COLOURFUL SUMMER ACCESSORY SETS, heading wellinsidethiscell at y560orbelow;6 blankcream. Fit whole assortment within each fullview withmargin. Preserve exact visiblecount/identity/shapes/colours/packaging/overlap. Remove hand/shop/externalpricequantityoverlay; no newclaims. Website qualitysufficient. Actual SIX retail cards arranged original2columns3rows in clearpackaging, EACHcard has ONE pair of bear-earshaped gradient sunglasses plusTWO hairclips. TOTAL6sunglasses and12clips across6cards. Preserve original order: lefttop yellowflowerclips with redcentres+orange/yellowsunglasses; leftmiddle lavenderbows+purplegradientglasses; leftbottom blushpinkbows+browngradientglasses; righttop tealbowswithorangecentres+grey/pinkglasses; rightmiddle pinkflowersbluecentres+pinkglasses; rightbottom blueflowersyellowcentres+bluepinkglasses. Original sunglasses bear-earlobe frame silhouette with joinedtwo lenses; do not create extra sunglasses or omitcards. Macro actual fabricflowerclip and sunglasses edge.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-3f2368fb-a1c8-4df3-83b5-db49bccac929.png",
+      "prompt": "Create ONE website-ready landscape1536x1024 image EXACT3columns by2rows of512x512cells. STRICT horizontal boundary at y512. No gutters/borders/panellabels; no crosscellcontent. Native edit referenced original actualproduct only. Cells readingorder:1 entire original assortment white;2 entire assortment lavender/cream styled;3 entire assortment vanity lifestyle;4 standalone tight macro ofactualrealpart;5 entire assortment promotional with heading COLOURFUL SUMMER ACCESSORY SETS, heading wellinsidethiscell at y560orbelow;6 blankcream. Fit whole assortment within each fullview withmargin. Preserve exact visiblecount/identity/shapes/colours/packaging/overlap. Remove hand/shop/externalpricequantityoverlay; no newclaims. Website qualitysufficient. Actual SIX retail cards arranged original2columns3rows in clearpackaging, EACHcard has ONE pair of bear-earshaped gradient sunglasses plusTWO hairclips. TOTAL6sunglasses and12clips across6cards. Preserve original order: lefttop yellowflowerclips with redcentres+orange/yellowsunglasses; leftmiddle lavenderbows+purplegradientglasses; leftbottom blushpinkbows+browngradientglasses; righttop tealbowswithorangecentres+grey/pinkglasses; rightmiddle pinkflowersbluecentres+pinkglasses; rightbottom blueflowersyellowcentres+bluepinkglasses. Original sunglasses bear-earlobe frame silhouette with joinedtwo lenses; do not create extra sunglasses or omitcards. Macro actual fabricflowerclip and sunglasses edge.",
+      "sha256": "a93a6098f71948fb971fe249ec28827556476250a6acfd86e69f1041f501f171",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3f2368fb-a1c8-4df3-83b5-db49bccac929.png",
+      "grid_sha256": "e1504109317c948e51f9f5f1e77b2198d427b755dbf33c1fa90e28a7df5cba2a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Inspected actual saved crop against original and grid: Six accessory cards, one sunglasses pair and two clips each:6glasses/12clips total. Original2columns3rows and colour pairings/flower-vs-bow shapes preserved. Standalone macro actual yellowflower clip plus orangeglass edge. Correct requested view/background, clean crop boundaries, accurate legible promotional heading; no new claims. Minor surface/packaging print differences accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-3f2368fb-a1c8-4df3-83b5-db49bccac929.png",
+      "prompt": "Create ONE website-ready landscape1536x1024 image EXACT3columns by2rows of512x512cells. STRICT horizontal boundary at y512. No gutters/borders/panellabels; no crosscellcontent. Native edit referenced original actualproduct only. Cells readingorder:1 entire original assortment white;2 entire assortment lavender/cream styled;3 entire assortment vanity lifestyle;4 standalone tight macro ofactualrealpart;5 entire assortment promotional with heading COLOURFUL SUMMER ACCESSORY SETS, heading wellinsidethiscell at y560orbelow;6 blankcream. Fit whole assortment within each fullview withmargin. Preserve exact visiblecount/identity/shapes/colours/packaging/overlap. Remove hand/shop/externalpricequantityoverlay; no newclaims. Website qualitysufficient. Actual SIX retail cards arranged original2columns3rows in clearpackaging, EACHcard has ONE pair of bear-earshaped gradient sunglasses plusTWO hairclips. TOTAL6sunglasses and12clips across6cards. Preserve original order: lefttop yellowflowerclips with redcentres+orange/yellowsunglasses; leftmiddle lavenderbows+purplegradientglasses; leftbottom blushpinkbows+browngradientglasses; righttop tealbowswithorangecentres+grey/pinkglasses; rightmiddle pinkflowersbluecentres+pinkglasses; rightbottom blueflowersyellowcentres+bluepinkglasses. Original sunglasses bear-earlobe frame silhouette with joinedtwo lenses; do not create extra sunglasses or omitcards. Macro actual fabricflowerclip and sunglasses edge.",
+      "sha256": "d8c64cae5f1ef61ee4d00e47df44c09cc6a21e1f8c07cd89379cf13f5df4617d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3f2368fb-a1c8-4df3-83b5-db49bccac929.png",
+      "grid_sha256": "e1504109317c948e51f9f5f1e77b2198d427b755dbf33c1fa90e28a7df5cba2a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Inspected actual saved crop against original and grid: Six accessory cards, one sunglasses pair and two clips each:6glasses/12clips total. Original2columns3rows and colour pairings/flower-vs-bow shapes preserved. Standalone macro actual yellowflower clip plus orangeglass edge. Correct requested view/background, clean crop boundaries, accurate legible promotional heading; no new claims. Minor surface/packaging print differences accepted."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-3f2368fb-a1c8-4df3-83b5-db49bccac929.png",
+      "prompt": "Create ONE website-ready landscape1536x1024 image EXACT3columns by2rows of512x512cells. STRICT horizontal boundary at y512. No gutters/borders/panellabels; no crosscellcontent. Native edit referenced original actualproduct only. Cells readingorder:1 entire original assortment white;2 entire assortment lavender/cream styled;3 entire assortment vanity lifestyle;4 standalone tight macro ofactualrealpart;5 entire assortment promotional with heading COLOURFUL SUMMER ACCESSORY SETS, heading wellinsidethiscell at y560orbelow;6 blankcream. Fit whole assortment within each fullview withmargin. Preserve exact visiblecount/identity/shapes/colours/packaging/overlap. Remove hand/shop/externalpricequantityoverlay; no newclaims. Website qualitysufficient. Actual SIX retail cards arranged original2columns3rows in clearpackaging, EACHcard has ONE pair of bear-earshaped gradient sunglasses plusTWO hairclips. TOTAL6sunglasses and12clips across6cards. Preserve original order: lefttop yellowflowerclips with redcentres+orange/yellowsunglasses; leftmiddle lavenderbows+purplegradientglasses; leftbottom blushpinkbows+browngradientglasses; righttop tealbowswithorangecentres+grey/pinkglasses; rightmiddle pinkflowersbluecentres+pinkglasses; rightbottom blueflowersyellowcentres+bluepinkglasses. Original sunglasses bear-earlobe frame silhouette with joinedtwo lenses; do not create extra sunglasses or omitcards. Macro actual fabricflowerclip and sunglasses edge.",
+      "sha256": "8a6c234fca71e64129abe65b3af078550dd9fe377addb69631cf50c890bf2d7a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3f2368fb-a1c8-4df3-83b5-db49bccac929.png",
+      "grid_sha256": "e1504109317c948e51f9f5f1e77b2198d427b755dbf33c1fa90e28a7df5cba2a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Inspected actual saved crop against original and grid: Six accessory cards, one sunglasses pair and two clips each:6glasses/12clips total. Original2columns3rows and colour pairings/flower-vs-bow shapes preserved. Standalone macro actual yellowflower clip plus orangeglass edge. Correct requested view/background, clean crop boundaries, accurate legible promotional heading; no new claims. Minor surface/packaging print differences accepted."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-3f2368fb-a1c8-4df3-83b5-db49bccac929.png",
+      "prompt": "Create ONE website-ready landscape1536x1024 image EXACT3columns by2rows of512x512cells. STRICT horizontal boundary at y512. No gutters/borders/panellabels; no crosscellcontent. Native edit referenced original actualproduct only. Cells readingorder:1 entire original assortment white;2 entire assortment lavender/cream styled;3 entire assortment vanity lifestyle;4 standalone tight macro ofactualrealpart;5 entire assortment promotional with heading COLOURFUL SUMMER ACCESSORY SETS, heading wellinsidethiscell at y560orbelow;6 blankcream. Fit whole assortment within each fullview withmargin. Preserve exact visiblecount/identity/shapes/colours/packaging/overlap. Remove hand/shop/externalpricequantityoverlay; no newclaims. Website qualitysufficient. Actual SIX retail cards arranged original2columns3rows in clearpackaging, EACHcard has ONE pair of bear-earshaped gradient sunglasses plusTWO hairclips. TOTAL6sunglasses and12clips across6cards. Preserve original order: lefttop yellowflowerclips with redcentres+orange/yellowsunglasses; leftmiddle lavenderbows+purplegradientglasses; leftbottom blushpinkbows+browngradientglasses; righttop tealbowswithorangecentres+grey/pinkglasses; rightmiddle pinkflowersbluecentres+pinkglasses; rightbottom blueflowersyellowcentres+bluepinkglasses. Original sunglasses bear-earlobe frame silhouette with joinedtwo lenses; do not create extra sunglasses or omitcards. Macro actual fabricflowerclip and sunglasses edge.",
+      "sha256": "689c0e7a9b491b986d8d402ecdb1354320da6fde129031e77a2b6c0b11facda5",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3f2368fb-a1c8-4df3-83b5-db49bccac929.png",
+      "grid_sha256": "e1504109317c948e51f9f5f1e77b2198d427b755dbf33c1fa90e28a7df5cba2a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Inspected actual saved crop against original and grid: Six accessory cards, one sunglasses pair and two clips each:6glasses/12clips total. Original2columns3rows and colour pairings/flower-vs-bow shapes preserved. Standalone macro actual yellowflower clip plus orangeglass edge. Correct requested view/background, clean crop boundaries, accurate legible promotional heading; no new claims. Minor surface/packaging print differences accepted."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-3f2368fb-a1c8-4df3-83b5-db49bccac929.png",
+      "prompt": "Create ONE website-ready landscape1536x1024 image EXACT3columns by2rows of512x512cells. STRICT horizontal boundary at y512. No gutters/borders/panellabels; no crosscellcontent. Native edit referenced original actualproduct only. Cells readingorder:1 entire original assortment white;2 entire assortment lavender/cream styled;3 entire assortment vanity lifestyle;4 standalone tight macro ofactualrealpart;5 entire assortment promotional with heading COLOURFUL SUMMER ACCESSORY SETS, heading wellinsidethiscell at y560orbelow;6 blankcream. Fit whole assortment within each fullview withmargin. Preserve exact visiblecount/identity/shapes/colours/packaging/overlap. Remove hand/shop/externalpricequantityoverlay; no newclaims. Website qualitysufficient. Actual SIX retail cards arranged original2columns3rows in clearpackaging, EACHcard has ONE pair of bear-earshaped gradient sunglasses plusTWO hairclips. TOTAL6sunglasses and12clips across6cards. Preserve original order: lefttop yellowflowerclips with redcentres+orange/yellowsunglasses; leftmiddle lavenderbows+purplegradientglasses; leftbottom blushpinkbows+browngradientglasses; righttop tealbowswithorangecentres+grey/pinkglasses; rightmiddle pinkflowersbluecentres+pinkglasses; rightbottom blueflowersyellowcentres+bluepinkglasses. Original sunglasses bear-earlobe frame silhouette with joinedtwo lenses; do not create extra sunglasses or omitcards. Macro actual fabricflowerclip and sunglasses edge.",
+      "sha256": "f39909faf22b624ff0ece9072c96f7df42978fb5a188fd6b6d431b8d08d6d76b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3f2368fb-a1c8-4df3-83b5-db49bccac929.png",
+      "grid_sha256": "e1504109317c948e51f9f5f1e77b2198d427b755dbf33c1fa90e28a7df5cba2a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Inspected actual saved crop against original and grid: Six accessory cards, one sunglasses pair and two clips each:6glasses/12clips total. Original2columns3rows and colour pairings/flower-vs-bow shapes preserved. Standalone macro actual yellowflower clip plus orangeglass edge. Correct requested view/background, clean crop boundaries, accurate legible promotional heading; no new claims. Minor surface/packaging print differences accepted."
+    }
+  ],
+  "status": "complete",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baselines_verified": true,
+  "all_five_output_hashes_verified": true
+}

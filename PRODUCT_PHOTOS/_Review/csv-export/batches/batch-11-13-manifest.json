@@ -1,0 +1,90 @@
+{
+  "scope": "Completed scheduled0153\u20130252 products only",
+  "total_products": 59,
+  "total_verified_image_urls": 295,
+  "price_and_stock": "Blank because not verified; set before publishing if required by importer.",
+  "excluded": "All partial, pending and blocked products; all previously exported IDs.",
+  "names": "Based on actual subjects in generation source/review notes; folder labels may be inaccurate.",
+  "files": [
+    {
+      "file": "mytradevia-batch-11.csv",
+      "products": 20,
+      "product_ids": [
+        "0153",
+        "0154",
+        "0155",
+        "0156",
+        "0157",
+        "0158",
+        "0159",
+        "0160",
+        "0161",
+        "0162",
+        "0163",
+        "0164",
+        "0165",
+        "0166",
+        "0173",
+        "0174",
+        "0175",
+        "0177",
+        "0178",
+        "0179"
+      ],
+      "sha256": "160919d3519ca8f0fc36971e1439cfb106b1501fb04261239a96359102b0f078"
+    },
+    {
+      "file": "mytradevia-batch-12.csv",
+      "products": 20,
+      "product_ids": [
+        "0180",
+        "0181",
+        "0182",
+        "0183",
+        "0184",
+        "0185",
+        "0193",
+        "0194",
+        "0195",
+        "0196",
+        "0197",
+        "0198",
+        "0199",
+        "0201",
+        "0202",
+        "0204",
+        "0205",
+        "0213",
+        "0214",
+        "0215"
+      ],
+      "sha256": "810dbd38558db6da0e5d5a847f6868f0853b07290e0b4d7c5a8d28feaf1cfc83"
+    },
+    {
+      "file": "mytradevia-batch-13.csv",
+      "products": 19,
+      "product_ids": [
+        "0216",
+        "0217",
+        "0219",
+        "0220",
+        "0221",
+        "0233",
+        "0234",
+        "0235",
+        "0236",
+        "0237",
+        "0238",
+        "0239",
+        "0240",
+        "0241",
+        "0242",
+        "0243",
+        "0244",
+        "0245",
+        "0246"
+      ],
+      "sha256": "831422ec5e982cdd31e74cb8f20f4e2ffd1e7c1c811b0a358f51292b2551a929"
+    }
+  ]
+}

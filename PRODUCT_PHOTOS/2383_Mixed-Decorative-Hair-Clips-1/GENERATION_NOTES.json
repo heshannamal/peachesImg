@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260907-WA0188.jpg": "4ebc5b73899bc4cbd71217647965f3b93729d256ccd92b3f121cd0de3dc9c9a3"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-5db86990-7c13-4130-a2cc-e82350fe3324.png",
+      "source_output": "/workspace/generated_images/exec-5db86990-7c13-4130-a2cc-e82350fe3324.png",
+      "sha256": "393f9a041028e83d154e18e5c051ef8d5d9d5410b3e19b8058dc82d9f73ee9a2",
+      "prompt": "EDIT referenced original faithfully into1536x1024 website sheet exactly3columns2rows x512/1024y512. Five independent panels top full assortment white, full assortment lavendercreamstyled, full assortment dressing-table lifestyle; bottom standalone tight REALPART macro, full assortment promo heading, blankcream. Product ONE assortment SIX white cards each TWO horizontal hair barrettes=TWELVE clips total. Each barrette has THREE small butterfly ornaments in a row, not one butterfly clip. Preserve all six cards/twelve clips/36butterflies, gold clip backs and exact colour combinations/shapes. Arrange six cards as2columns3rows to fit each full-product square with margins. Remove hand/shop/priceoverlay, no stock substitutes. Actual butterflies have pointed veined wings, multicolour metallic finish: card1 blue, card2 pink/yellow, card3 smokyblack/silver, card4 red/yellow/green, card5 pink/yellow, card6 red/yellow/green. Preserve source order and repeated colours. Macro tight ONE actual blue veined butterfly ornament and gold barrette attachment. Heading 'Butterfly Hair Clip Assortment'.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-5db86990-7c13-4130-a2cc-e82350fe3324.png",
+      "prompt": "EDIT referenced original faithfully into1536x1024 website sheet exactly3columns2rows x512/1024y512. Five independent panels top full assortment white, full assortment lavendercreamstyled, full assortment dressing-table lifestyle; bottom standalone tight REALPART macro, full assortment promo heading, blankcream. Product ONE assortment SIX white cards each TWO horizontal hair barrettes=TWELVE clips total. Each barrette has THREE small butterfly ornaments in a row, not one butterfly clip. Preserve all six cards/twelve clips/36butterflies, gold clip backs and exact colour combinations/shapes. Arrange six cards as2columns3rows to fit each full-product square with margins. Remove hand/shop/priceoverlay, no stock substitutes. Actual butterflies have pointed veined wings, multicolour metallic finish: card1 blue, card2 pink/yellow, card3 smokyblack/silver, card4 red/yellow/green, card5 pink/yellow, card6 red/yellow/green. Preserve source order and repeated colours. Macro tight ONE actual blue veined butterfly ornament and gold barrette attachment. Heading 'Butterfly Hair Clip Assortment'.",
+      "sha256": "0062fd14f0e2749bd861a12e1ef70fbfe47293a7cb0860adf9ef76e54ee20dcf",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5db86990-7c13-4130-a2cc-e82350fe3324.png",
+      "grid_sha256": "393f9a041028e83d154e18e5c051ef8d5d9d5410b3e19b8058dc82d9f73ee9a2",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected: six cards, two barrettes per card, three butterflies per barrette, source blue/pinkyellow/smoky/greenred repeated colour order and veined pointed wing identity preserved. Correct independent view, actual blue ornament tight detail, accurate heading."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-5db86990-7c13-4130-a2cc-e82350fe3324.png",
+      "prompt": "EDIT referenced original faithfully into1536x1024 website sheet exactly3columns2rows x512/1024y512. Five independent panels top full assortment white, full assortment lavendercreamstyled, full assortment dressing-table lifestyle; bottom standalone tight REALPART macro, full assortment promo heading, blankcream. Product ONE assortment SIX white cards each TWO horizontal hair barrettes=TWELVE clips total. Each barrette has THREE small butterfly ornaments in a row, not one butterfly clip. Preserve all six cards/twelve clips/36butterflies, gold clip backs and exact colour combinations/shapes. Arrange six cards as2columns3rows to fit each full-product square with margins. Remove hand/shop/priceoverlay, no stock substitutes. Actual butterflies have pointed veined wings, multicolour metallic finish: card1 blue, card2 pink/yellow, card3 smokyblack/silver, card4 red/yellow/green, card5 pink/yellow, card6 red/yellow/green. Preserve source order and repeated colours. Macro tight ONE actual blue veined butterfly ornament and gold barrette attachment. Heading 'Butterfly Hair Clip Assortment'.",
+      "sha256": "11486876d8264931e0f2227bd13d9c009799ee67920c32dd776ee7ed8fb46907",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5db86990-7c13-4130-a2cc-e82350fe3324.png",
+      "grid_sha256": "393f9a041028e83d154e18e5c051ef8d5d9d5410b3e19b8058dc82d9f73ee9a2",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected: six cards, two barrettes per card, three butterflies per barrette, source blue/pinkyellow/smoky/greenred repeated colour order and veined pointed wing identity preserved. Correct independent view, actual blue ornament tight detail, accurate heading."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-5db86990-7c13-4130-a2cc-e82350fe3324.png",
+      "prompt": "EDIT referenced original faithfully into1536x1024 website sheet exactly3columns2rows x512/1024y512. Five independent panels top full assortment white, full assortment lavendercreamstyled, full assortment dressing-table lifestyle; bottom standalone tight REALPART macro, full assortment promo heading, blankcream. Product ONE assortment SIX white cards each TWO horizontal hair barrettes=TWELVE clips total. Each barrette has THREE small butterfly ornaments in a row, not one butterfly clip. Preserve all six cards/twelve clips/36butterflies, gold clip backs and exact colour combinations/shapes. Arrange six cards as2columns3rows to fit each full-product square with margins. Remove hand/shop/priceoverlay, no stock substitutes. Actual butterflies have pointed veined wings, multicolour metallic finish: card1 blue, card2 pink/yellow, card3 smokyblack/silver, card4 red/yellow/green, card5 pink/yellow, card6 red/yellow/green. Preserve source order and repeated colours. Macro tight ONE actual blue veined butterfly ornament and gold barrette attachment. Heading 'Butterfly Hair Clip Assortment'.",
+      "sha256": "173454ab1ea38909f88d694ff4ff9517b8ed097f6a8af721f9a7be8d3e58b0ca",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5db86990-7c13-4130-a2cc-e82350fe3324.png",
+      "grid_sha256": "393f9a041028e83d154e18e5c051ef8d5d9d5410b3e19b8058dc82d9f73ee9a2",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected: six cards, two barrettes per card, three butterflies per barrette, source blue/pinkyellow/smoky/greenred repeated colour order and veined pointed wing identity preserved. Correct independent view, actual blue ornament tight detail, accurate heading."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-5db86990-7c13-4130-a2cc-e82350fe3324.png",
+      "prompt": "EDIT referenced original faithfully into1536x1024 website sheet exactly3columns2rows x512/1024y512. Five independent panels top full assortment white, full assortment lavendercreamstyled, full assortment dressing-table lifestyle; bottom standalone tight REALPART macro, full assortment promo heading, blankcream. Product ONE assortment SIX white cards each TWO horizontal hair barrettes=TWELVE clips total. Each barrette has THREE small butterfly ornaments in a row, not one butterfly clip. Preserve all six cards/twelve clips/36butterflies, gold clip backs and exact colour combinations/shapes. Arrange six cards as2columns3rows to fit each full-product square with margins. Remove hand/shop/priceoverlay, no stock substitutes. Actual butterflies have pointed veined wings, multicolour metallic finish: card1 blue, card2 pink/yellow, card3 smokyblack/silver, card4 red/yellow/green, card5 pink/yellow, card6 red/yellow/green. Preserve source order and repeated colours. Macro tight ONE actual blue veined butterfly ornament and gold barrette attachment. Heading 'Butterfly Hair Clip Assortment'.",
+      "sha256": "9c8e90dc57a44195fdecfc513e66be6d9d1079a67bf47af2cbdfa625ab23331f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5db86990-7c13-4130-a2cc-e82350fe3324.png",
+      "grid_sha256": "393f9a041028e83d154e18e5c051ef8d5d9d5410b3e19b8058dc82d9f73ee9a2",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crop inspected: six cards, two barrettes per card, three butterflies per barrette, source blue/pinkyellow/smoky/greenred repeated colour order and veined pointed wing identity preserved. Correct independent view, actual blue ornament tight detail, accurate heading."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-5db86990-7c13-4130-a2cc-e82350fe3324.png",
+      "prompt": "EDIT referenced original faithfully into1536x1024 website sheet exactly3columns2rows x512/1024y512. Five independent panels top full assortment white, full assortment lavendercreamstyled, full assortment dressing-table lifestyle; bottom standalone tight REALPART macro, full assortment promo heading, blankcream. Product ONE assortment SIX white cards each TWO horizontal hair barrettes=TWELVE clips total. Each barrette has THREE small butterfly ornaments in a row, not one butterfly clip. Preserve all six cards/twelve clips/36butterflies, gold clip backs and exact colour combinations/shapes. Arrange six cards as2columns3rows to fit each full-product square with margins. Remove hand/shop/priceoverlay, no stock substitutes. Actual butterflies have pointed veined wings, multicolour metallic finish: card1 blue, card2 pink/yellow, card3 smokyblack/silver, card4 red/yellow/green, card5 pink/yellow, card6 red/yellow/green. Preserve source order and repeated colours. Macro tight ONE actual blue veined butterfly ornament and gold barrette attachment. Heading 'Butterfly Hair Clip Assortment'.",
+      "sha256": "bab3bd22eb93505a8e6ba07586e8a63e1870671142ddf99320d02cf5425584e0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-5db86990-7c13-4130-a2cc-e82350fe3324.png",
+      "grid_sha256": "393f9a041028e83d154e18e5c051ef8d5d9d5410b3e19b8058dc82d9f73ee9a2",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crop inspected: six cards, two barrettes per card, three butterflies per barrette, source blue/pinkyellow/smoky/greenred repeated colour order and veined pointed wing identity preserved. Correct independent view, actual blue ornament tight detail, accurate heading."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baselines_verified": true
+}

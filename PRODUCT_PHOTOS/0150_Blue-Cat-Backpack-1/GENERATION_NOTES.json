@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250207-WA0260.jpg": "d20262ad15f4046fbf5ec4ac3a697061fe9b48c3db5f2a4dd720da64bbe9e4c4"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-ab9e874d-df8a-4adb-b6a6-6af2c0ecf609.png",
+      "prompt": "Edit reference into website-ready product photo. One navy blue fabric backpack printed with various illustrated cats and tiny breed names, CAT COLLECTION text, rounded rectangular body, navy straps, zippered front pocket with gold pull. Preserve form and cat print. Preserve identity shape colors and main count. Entire product/assortment isolated neatly on pure white seamless studio background, realistic soft shadow, no added text. Remove hands, shop, people, price overlays and old stickers. One square photograph.",
+      "sha256": "757d1e7e646cb259c38472c4b47ab98dfa31bba3d8a2d1cd25edbb5f73826bc7",
+      "checked": true,
+      "visual_review": "Visually reviewed: website-ready, correct source subject, form, colors and assortment identity; no hand, shop or old price overlay."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-d081bf0a-93e2-4541-a444-f4f706f3f432.png",
+      "prompt": "Faithfully edit reference for website product photography. Single navy blue illustrated cat print backpack with CAT COLLECTION text and tiny breed labels, front zipped pocket, gold zipper pull and navy straps. Preserve exact subject, shape colors and original visible stock density. Whole assortment/product on simple lavender and cream studio surface with soft shadows, no added text. Remove hands, shop, unrelated stock and old price overlays. One square image.",
+      "sha256": "b991ad1d4268b4770be6999e7035ed73d6724830df5ae0ee6b3917b6f509f03d",
+      "checked": true,
+      "visual_review": "Visually reviewed: correct subject, shape/colors and dense assortment retained, suitable website image. No hand, shop or price overlay. Detail crop count not applicable."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-9e679071-3bcf-4ef0-ad5f-7c10fb1c472d.png",
+      "prompt": "Faithfully edit reference for website product photography. Single navy blue illustrated cat print backpack with CAT COLLECTION text and tiny breed labels, front zipped pocket, gold zipper pull and navy straps. Preserve exact subject, shape colors and original visible stock density. Whole assortment/product on a clean cream desk or vanity with subtle contextual props, soft daylight, no people, no added text. Remove hands, shop, unrelated stock and old price overlays. One square image.",
+      "sha256": "a15650b6df7cccafb9b0012bf67e9d54956110e9b41dffa973dca90f0fb82e79",
+      "checked": true,
+      "visual_review": "Visually reviewed: correct subject, shape/colors and dense assortment retained, suitable website image. No hand, shop or price overlay. Detail crop count not applicable."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-9213e1d1-2b6e-4953-90e8-c11d63657cc3.png",
+      "prompt": "Faithfully edit reference for website product photography. Reference subject Single navy blue illustrated cat print backpack with CAT COLLECTION text and tiny breed labels, front zipped pocket, gold zipper pull and navy straps. DETAIL VIEW: Tight macro crop of a small existing material/detail portion of one item, do not show whole pack or whole product. No text overlays. Preserve real product texture shape colors and existing details. Remove hands, shop, unrelated stock and old price overlays. One square image.",
+      "sha256": "624ab7a2d387e6d8fdfbcc6944e0812b706106ab865daa273d833da37e72a69d",
+      "checked": true,
+      "visual_review": "Visually reviewed: correct subject, shape/colors and dense assortment retained, suitable website image. No hand, shop or price overlay. Detail crop count not applicable."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-137089d8-9a98-4473-bd96-9da861a59d84.png",
+      "prompt": "Faithfully edit reference for website promotional product photography. Single navy blue illustrated cat print backpack with CAT COLLECTION text and tiny breed labels, front zipped pocket, gold zipper pull and navy straps. Preserve subject shape colors and dense stock quantity. Whole assortment/product on simple lavender and cream backdrop, compact descriptive title Blue Cat Backpack and smaller PRODUCT COLLECTION. Remove hands, shop, unrelated stock and old price overlays. One square image.",
+      "sha256": "ba3fc56e7a59a3749a6a27596782f5b5d183052143ba1b50de3337bc12fd5805",
+      "checked": true,
+      "visual_review": "Visually reviewed: correct subject, shape/colors and dense assortment retained, suitable website image. No hand, shop or price overlay. Detail crop count not applicable."
+    }
+  ],
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true
+}

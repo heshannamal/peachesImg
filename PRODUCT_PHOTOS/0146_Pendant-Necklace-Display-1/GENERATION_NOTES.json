@@ -1,0 +1,63 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250207-WA0012.jpg": "2a314ee91500626c203a7f3f83128db00a8e41b6d1708ca518809eab39e6ee77"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-27e43625-d663-4054-bd38-c2909c4dab61.png",
+      "prompt": "Faithful photo edit of source, not redesign. Keep the ENTIRE original black bobby pin card display with roughly sixty cards in three rows, about twenty narrow cards per row, in original tray grid and density. Do not reduce to 24 or enlarge individual cards. Remove unrelated upper shelf stock, price stickers and shop background. Isolate full dense display on white seamless background, realistic soft shadows, square website product photo. Preserve all cards, black pins, cream illustrated packaging and original colors.",
+      "sha256": "66b646a6eb8edba4b1e896ed4cf5693688ec5957328dce45146e4cbd5bcc4005",
+      "checked": true,
+      "visual_review": "Visually reviewed: correct subject, shape/colors and dense assortment retained, suitable website image. No hand, shop or price overlay. Detail crop count not applicable. Dense three-row card display retained; 48 fully rendered cards in white image, source edge cards partially cropped and exact full count ambiguous; not exact count verified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-916de797-2f63-4cc3-8ed2-41ad8444c3c1.png",
+      "prompt": "Faithfully edit reference for website product photography. Dense black bobby hair pin stock display on cream rounded printed cards in rectangular trays, three rows and about twenty narrow cards per row, roughly sixty visible cards total including cropped edge cards. Preserve dense sixty-card scale: NEVER simplify to 24 cards. Preserve exact subject, shape colors and original visible stock density. Whole assortment/product on simple lavender and cream studio surface with soft shadows, no added text. Remove hands, shop, unrelated stock and old price overlays. One square image.",
+      "sha256": "953ba18c433e6c90e0a3c00886a90a3121415e3ec07de95ca90b2a5d663f070c",
+      "checked": true,
+      "visual_review": "Visually reviewed: correct subject, shape/colors and dense assortment retained, suitable website image. No hand, shop or price overlay. Detail crop count not applicable. Dense three-row card display retained; 48 fully rendered cards in white image, source edge cards partially cropped and exact full count ambiguous; not exact count verified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-1e7b5914-4504-454c-b37a-08947effdb77.png",
+      "prompt": "Faithfully edit reference for website product photography. Dense black bobby hair pin card stock display: three tray rows of about seventeen narrow cream illustrated cards each including partially cropped edge cards, roughly51 visible. Preserve three dense rows, original card identity and black pins. Do not simplify stock quantity. Preserve exact subject, shape colors and original visible stock density. Whole assortment/product on a clean cream desk or vanity with subtle contextual props, soft daylight, no people, no added text. Remove hands, shop, unrelated stock and old price overlays. One square image.",
+      "sha256": "806c04f9cbe1956b9a6f75612bb4c0861bcdc64fca866fedac3c042bdc2bc24f",
+      "checked": true,
+      "visual_review": "Visually reviewed: correct subject, shape/colors and dense assortment retained, suitable website image. No hand, shop or price overlay. Detail crop count not applicable. Dense three-row card display retained; 48 fully rendered cards in white image, source edge cards partially cropped and exact full count ambiguous; not exact count verified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-47d1c43f-5b2a-49e0-8e9b-f0eca0b5fd57.png",
+      "prompt": "Faithfully edit reference for website product photography. Reference subject Dense black bobby hair pin card stock display: three tray rows of about seventeen narrow cream illustrated cards each including partially cropped edge cards, roughly51 visible. Preserve three dense rows, original card identity and black pins. Do not simplify stock quantity. DETAIL VIEW: Tight macro crop of a small existing material/detail portion of one item, do not show whole pack or whole product. No text overlays. Preserve real product texture shape colors and existing details. Remove hands, shop, unrelated stock and old price overlays. One square image.",
+      "sha256": "dbce423623c9a855f00e139be9fb444f90e3302eaf1d1c196b418886deb8ea90",
+      "checked": true,
+      "visual_review": "Visually reviewed: correct subject, shape/colors and dense assortment retained, suitable website image. No hand, shop or price overlay. Detail crop count not applicable. Dense three-row card display retained; 48 fully rendered cards in white image, source edge cards partially cropped and exact full count ambiguous; not exact count verified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-0fd28d4e-9fcd-41d6-9ea7-6cf44e45c6af.png",
+      "prompt": "Faithfully edit reference for website promotional product photography. Dense black bobby hair pin card stock display: three tray rows of about seventeen narrow cream illustrated cards each including partially cropped edge cards, roughly51 visible. Preserve three dense rows, original card identity and black pins. Do not simplify stock quantity. Preserve subject shape colors and dense stock quantity. Whole assortment/product on simple lavender and cream backdrop, compact descriptive title Black Bobby Pins and smaller PRODUCT COLLECTION. Remove hands, shop, unrelated stock and old price overlays. One square image.",
+      "sha256": "4e544b6dcf604f3a7c68d7768ac5f22537628721e3ef5d882567680bc7a7689d",
+      "checked": true,
+      "visual_review": "Visually reviewed: correct subject, shape/colors and dense assortment retained, suitable website image. No hand, shop or price overlay. Detail crop count not applicable. Dense three-row card display retained; 48 fully rendered cards in white image, source edge cards partially cropped and exact full count ambiguous; not exact count verified."
+    }
+  ],
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true,
+  "rejected_records": [
+    {
+      "saved_file": "Rejected/01_White-Background-count-loss.png",
+      "source_output": "/workspace/generated_images/exec-7e0ea475-25aa-41c2-959d-59e98543b764.png",
+      "prompt": "Edit reference into website-ready product photo. Black bobby hair pins bundled on cream narrow rounded-top printed cards arranged in shallow rectangular display boxes. Preserve whole visible densely packed card assortment in three rows of boxes and black pin forms, remove unrelated top shelf stock. Preserve identity shape colors and main count. Entire product/assortment isolated neatly on pure white seamless studio background, realistic soft shadow, no added text. Remove hands, shop, people, price overlays and old stickers. One square photograph.",
+      "sha256": "e4d22ae60ab8f397ee5bf440f4dece5af3a6dceb1377a120aa2ed906bd3773f3",
+      "checked": false,
+      "visual_review": "Review needed: materially reduced visible card count (source roughly 60, generated 24). Retained for recovery, not approved.",
+      "rejected": true
+    }
+  ]
+}

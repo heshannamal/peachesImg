@@ -1,0 +1,51 @@
+{
+  "tool": "built-in image_gen",
+  "status": "five images generated and visually checked",
+  "original_hashes": {
+    "Originals/IMG-20250205-WA0852.jpg": "c5d21491fe8fa11553048da301ee0a64ae5ec73941b01a21d4f89cc75ac42f15"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-e1446f3f-3461-4a99-833e-b8158e23192f.png",
+      "prompt": "Edit reference into ONE clean realistic ecommerce product photo. Twelve glossy metallic five-petal flower hair claws in4rows3columns: top3gold-tone,next3rose-gold/bronze,next3dark gunmetal,bottom3silver. Preserve hollow cup-shaped pointed petals,engraved/stippled reflective texture and visible original claw teeth. Exact12count and arrangement. Whole assortment ONE product. Pure white seamless background, soft contact shadows, full assortment inside frame, natural front view. Remove hand,shop,price overlays,ruler and handwritten notes. Preserve identity,count,shape,material,colours and arrangement. No extra products,parts or imagined reverse views.",
+      "sha256": "289168f76ca75798a85dc8ceeecbcb114ea6ae040da935100a42bd0aea811607",
+      "checked": true,
+      "visual_review": "Twelve five-petal metal flower claws retain4by3arrangement and gold,bronze,gunmetal,silver row colours."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-12866966-ce9a-45c1-9f1d-d186cc348e67.png",
+      "prompt": "ONE realistic website styled-background product photo of exact reference. Twelve glossy metallic five-petal flower hair claws in4rows3columns: top3gold-tone,next3rose-gold/bronze,next3dark gunmetal,bottom3silver. Preserve hollow cup-shaped pointed petals,engraved/stippled reflective texture and visible original claw teeth. Exact12count and arrangement. Entire assortment ONE product. Full product within frame on warm cream surface with lavender cloth accents outside product. Preserve count,identity,shape,colour,material,package and arrangement. Remove hand,shop,price,ruler/notes. No extra products or invented parts/views.",
+      "sha256": "1cd7d1bdbf0bddae4d30c460fb0930460b2fb40df74678a63ddfded7eb285bd0",
+      "checked": true,
+      "visual_review": "Twelve five-petal metal flower claws retain4by3arrangement and gold,bronze,gunmetal,silver row colours. Cream lavender styling checked; website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-36fad827-6c73-44c2-98dc-0b763ac0c525.png",
+      "prompt": "ONE realistic website lifestyle product photo of exact reference. Twelve glossy metallic five-petal flower hair claws,4rows3columns: gold top,rose-gold second,dark gunmetal third,silver bottom. Preserve hollow pointed petals,stippled reflections,visible original claw teeth,12count and arrangement. Entire assortment ONE product,full set visible on cream vanity with lavender linen and closed book well beyond product edges,soft daylight. Preserve count,identity,shape,colour,material,package and arrangement. Remove hand,shop,price,ruler/notes. No people,extra products,invented parts or reverse views.",
+      "sha256": "17af1d65c2f9eb755007b3910b56dc4a34a305c503b675f6fc8fd494ce22efd4",
+      "checked": true,
+      "visual_review": "Twelve five-petal flowers retain4by3arrangement and gold,rose,gumetal,silver colours in clear lifestyle setting."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-2d1502e6-dbb6-40ac-9441-7e62aabaf11a.png",
+      "prompt": "ONE realistic TIGHT MACRO product-detail photograph of exact reference. Twelve glossy metallic five-petal flower hair claws,4rows3columns: gold top,rose-gold second,dark gunmetal third,silver bottom. Preserve hollow pointed petals,stippled reflections,visible original claw teeth,12count and arrangement. DETAILONLY zoom tightly on one gold metallic flower claw with original petal texture. Crop most of full assortment out; must be closeup detail not full pack. Preserve original visible material,shape,colour,construction. No extra products,parts,imagined backs. Remove hand,shop,price,ruler/notes,soft cream light.",
+      "sha256": "199ecf32988606edea17c767d684099aea7513ff1c7b9bc081347484a0c8953a",
+      "checked": true,
+      "visual_review": "Tight detail viewed against reference: one gold metallic flower claw with original petal texture retains original visible shape,colour and material. Not a full-assortment image."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-19d83e9b-bc58-40f9-8d66-ce7f9525ee5d.png",
+      "prompt": "ONE realistic promotional website product photograph of exact reference. Twelve glossy metallic five-petal flower hair claws,4rows3columns: gold top,rose-gold second,dark gunmetal third,silver bottom. Preserve hollow pointed petals,stippled reflections,visible original claw teeth,12count and arrangement. Entire assortment ONE product,full set comfortably visible on cream/lavender background. Compact dark plum heading 'Metallic Flower Hair Claws' and smaller 'PRODUCT COLLECTION' without obscuring products. Preserve original count,identity,shape,colours,material,arrangement and packaging. Remove hand,shop,price,ruler/notes. No extra products,parts,imagined reverse views or sale claims.",
+      "sha256": "75f376ef4d669d2f78394df9ecd3c9eeb4c3f1a30386fa8bcf5637adf50daa29",
+      "checked": true,
+      "visual_review": "Twelve metallic five-petal claws retain4x3count and gold/rose/gunmetal/silver rows; heading readable, products unobscured."
+    }
+  ],
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "original_hashes_verified": true
+}

@@ -1,0 +1,20 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261007-WA0307.jpg": "74aed572c999c40ff1e66eeb0a9501a609cf84568c32f0b84cfe965660fc9ed5"
+  },
+  "records": [],
+  "status": "blocked_moderation",
+  "blocker": {
+    "code": "moderation_blocked",
+    "stage": "output",
+    "category": "other",
+    "request_id": "a307a23c-b3a7-4d09-8f56-5992e2df2150"
+  },
+  "attempted_prompt": "ONE landscape1536x1024 image EXACT3columns2rows SIXEQUAL cells with NO gutters,borders,separators or panel labels. Each view whollyinsideitscell withmargin, no crossingboundaries. TopLEFT01full originalassortment purewhite seamless; topMIDDLE02same fullassortment lavendercreamstudio; topRIGHT03samefullassortment oncreamdesk softlyblurredlavenderroom; bottomLEFT04standalone TIGHT REALPART MACRO of ONE originalbluecharacter lidtopper face/ears and adjoiningcreamclosedlid seam, ONLYvisiblepart NOTfullassortment; bottomMIDDLE05sameFULLassortment and smallaccurateheading Character Tumbler Collection; bottomRIGHT06blankcream. Sourceidentity/count/shapes/colours/materials unchanged throughallfullviews, realisticproductphoto softnaturalshadow. FOUR DISTINCT original cream cylindrical character tumblers as ONEwhole assortment, arrange2x2 insideeachfullview. Allfourclosed creamlids with navyoval lidtab and original smallblue long-eared cartoonfigurine withpinkinner ears on top, original white fabricCOFFEEwriststrap/roundnavytag wherevisible. Preserve FOUR DISTINCT printeddesigns exactly: puzzlepieces+bluepinkcouple, pinkheartlollipop bluecharacter, bluecharacterwithroses/XOXOhearts, bluefacewithpinkflowercrown/largepinkletters. Do NOT mistake fourcataloguephotos as onecup repeated; fourdifferentdesigns. Keep actual cup/lid/body proportions and each original visible print,colours,topper,strap, no invented straw or opening/back. Wholefour ONEproduct. Remove price/qualityoverlay, tilewall andcatalogueborders only, no extra cups/claims. No addedproducts/hands/claims/imaginedhiddenparts. Website-ready.",
+  "source_references": [
+    "Originals/IMG-20261007-WA0307.jpg"
+  ],
+  "review": "No successful output for2800; skippedwithoutretry after native output moderation. Parallel2801result was safelysaved."
+}

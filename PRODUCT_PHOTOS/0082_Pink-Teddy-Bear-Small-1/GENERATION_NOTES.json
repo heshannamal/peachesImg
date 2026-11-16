@@ -1,0 +1,58 @@
+{
+  "tool": "built-in image_gen",
+  "status": "five images generated and visually checked",
+  "original_hashes": {
+    "Originals/IMG-20250127-WA0280.jpg": "32ad855003c09cf9cf63897ee15938a3b3d35f18e319615cc422136f9510507b"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source": "/workspace/generated_images/exec-d7bb75ef-c8c4-4f33-bb12-d418cac8394e.png",
+      "prompt": "Edit reference into one premium photoreal ecommerce photo. One small bright hot pink long-pile plush teddy bear with round ears, black eyes and triangular shiny black nose, lighter pink muzzle with embroidered black smile, dark burgundy sheer ribbon bow at neck, pink felt oval foot pads, original outstretched arms and seated leg pose. Preserve face, fur length, body proportions and all original features. Entire assortment is ONE product. Retain exact geometry, original count, colours, material, package details, proportions and arrangement. Pure white seamless background, soft contact shadows, whole product sharp and inside frame. Remove price overlays, hands and shop. No added products, backs, parts, or text.",
+      "sha256": "a96bfe8e81edc8b1a4b020bff3e2e4b9fbdf1e06dc9efba7134d8221bef22233",
+      "checked": true,
+      "visual_review": "Visually compared exact count and colour arrangement of earrings; teddy face, fur, bow, foot pads and pose retained. White background clean, original overlays removed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-88818feb-b875-44c6-8c5e-1b60ad92f42f.png",
+      "sha256": "6bcca14ceb7a1a420f3061344f7947625f3ea7d6ca811067ed16547bb9843d03",
+      "checked": true,
+      "visual_review": "Pink teddy face, bow, fur and seated pose match source.",
+      "recovered_after_worker_limit": true
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source": "/workspace/generated_images/exec-88818feb-b875-44c6-8c5e-1b60ad92f42f.png",
+      "prompt": "One premium photoreal ecommerce styled-background photograph of exact reference. One small bright hot pink long-pile plush teddy bear with round ears, black eyes and triangular shiny black nose, lighter pink muzzle with embroidered black smile, dark burgundy sheer ribbon bow at neck, pink felt oval foot pads, original outstretched arms and seated leg pose. Preserve face, fur length, body proportions and all original features. Entire assortment ONE product. Preserve original count, positions, geometry, shape, material, colours, markings and packaging. Warm cream surface with pale lavender fabric accents beyond edges, soft contact shadows. Entire product sharp, frame comfortably around full assortment. Remove price, shop, hands. No invented hidden objects, parts, or product views. No text overlay.",
+      "sha256": "6bcca14ceb7a1a420f3061344f7947625f3ea7d6ca811067ed16547bb9843d03",
+      "checked": true,
+      "visual_review": "Compared reference and output: butterfly card retains24earrings in12pairs with exact6row colour sequence; pink teddy retains long pink fur, burgundy bow, black eyes/nose and pink foot pads. Cream lavender styling unobscured."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-83e4d139-f026-414a-b898-b8a43be961c5.png",
+      "prompt": "Create ONE clean website product photograph from actual reference. Subject: Single bright pink shaggy teddy bear, burgundy sheer bow, smooth pink muzzle, black nose and stitched smile, seated legs and outstretched arms. Preserve actual product count, shape, colours and materials. Remove hand, shop, old price overlay and unrelated background products. No invented reverse sides or extra products. Full bear on cream blanket near a window; no people.",
+      "sha256": "8285c620f2ffdf6933995d4bbbc41f206de83fb2649b8555a801240bd5f7b7cf",
+      "checked": true,
+      "visual_review": "Compared with actual reference: visible product identity, shapes, colours and material retained; website-ready composition."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-f99652ac-a080-4f13-b7e9-405645c1f93a.png",
+      "prompt": "ONE clean website product photo edited from actual reference. Subject: Single bright pink shaggy teddy bear, burgundy sheer bow, smooth pink muzzle, black nose and stitched smile, seated legs and outstretched arms. Keep actual shapes, colours, materials and visible count. Remove hand, shop and old price overlay. No extra products or invented reverse views. TIGHT MACRO crop of only existing pink teddy muzzle, black nose, stitched smile and burgundy bow. Fur fills frame; no whole bear or collage.",
+      "sha256": "b9dabd9d359620f4b76138146d89eaaf9a1de433a8cb776160033d11df4d3042",
+      "checked": true,
+      "visual_review": "Compared with original: visible product shape, colour and material retained; suitable detail or lifestyle view for website."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-abe158c5-2611-4a49-b725-ff2f478a4c91.png",
+      "prompt": "Make ONE simple clean website promotional product photo from actual reference. Subject: Single bright pink shaggy teddy bear, burgundy sheer bow, smooth pink muzzle, black nose and stitched smile, seated legs and outstretched arms. Keep actual product count, shapes, colours and material. Remove hand/shop/old price overlays/unrelated background products. Whole subject centred with margins on pale lavender and cream studio background. Compact dark plum heading 'PINK TEDDY BEAR', smaller 'PRODUCT COLLECTION'. No claims, extra items or invented reverse views.",
+      "sha256": "944d9e04c610335a3848458d0484b5472bc2ba7b3d2141d81cfc32bf9ef077a6",
+      "checked": true,
+      "visual_review": "Compared with original: main product count, arrangement, colours and shape preserved; clear website promotional composition."
+    }
+  ],
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0192.jpg": "b86a6f82441d8620b31ea26f3a8521e060a9c77efa5719a9f04491291eb42e4b"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-43620503-c7fb-413f-8575-87201d5e8c0f.png",
+      "source_output": "/workspace/generated_images/exec-43620503-c7fb-413f-8575-87201d5e8c0f.png",
+      "sha256": "9c62fb959745a9a5034dfe428175873b2bdcffeaeaa397c2b715563ef2d322c2",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows of512square cells, boundaries x512,x1024,y512; no gutters/borders/labels. Top-left WHITE background full assortment; top-middle lavender/cream styled full assortment; top-right realistic dressing-table lifestyle full assortment; bottom-left standalone tight macro of an actual flower petal/leaf texture, not whole assortment; bottom-middle promotional full assortment with accurate heading Flower Hair Clips; bottom-right blank cream. Entire photographed assortment ONE product. Preserve exact count, rose/flower construction, fabric texture, colours, green leaves, and backing cards. Remove hand, shop and price overlays, no new claims. Full views show exactly TWELVE flower clips on TWO long white cards each with SIX single flowers in one vertical column. All twelve distinct flowers visible, no overlap hiding count. Keep all inside each full-view cell with margin. Photoreal website-ready. Source has soft ruffled fabric flower hair clips, rounded broad layered petal flowers with crinkled texture (not tightly coiled roses). Each long card SIX flowers in order PINK, BURGUNDY RED, PALE WHITE/PINK, MINT GREEN, YELLOW, CREAM/BLUSH. Two same-colour sequences across two cards yields exactly TWO of each colour and12flowers total. Preserve rounded layered fabric construction and source colours; no blue/purple additions. Macro tight actual pink ruffled petal texture.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-43620503-c7fb-413f-8575-87201d5e8c0f.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows of512square cells, boundaries x512,x1024,y512; no gutters/borders/labels. Top-left WHITE background full assortment; top-middle lavender/cream styled full assortment; top-right realistic dressing-table lifestyle full assortment; bottom-left standalone tight macro of an actual flower petal/leaf texture, not whole assortment; bottom-middle promotional full assortment with accurate heading Flower Hair Clips; bottom-right blank cream. Entire photographed assortment ONE product. Preserve exact count, rose/flower construction, fabric texture, colours, green leaves, and backing cards. Remove hand, shop and price overlays, no new claims. Full views show exactly TWELVE flower clips on TWO long white cards each with SIX single flowers in one vertical column. All twelve distinct flowers visible, no overlap hiding count. Keep all inside each full-view cell with margin. Photoreal website-ready. Source has soft ruffled fabric flower hair clips, rounded broad layered petal flowers with crinkled texture (not tightly coiled roses). Each long card SIX flowers in order PINK, BURGUNDY RED, PALE WHITE/PINK, MINT GREEN, YELLOW, CREAM/BLUSH. Two same-colour sequences across two cards yields exactly TWO of each colour and12flowers total. Preserve rounded layered fabric construction and source colours; no blue/purple additions. Macro tight actual pink ruffled petal texture.",
+      "sha256": "64a10e2abe5835005a14188e469801f7a1b18ef694eb1b1b9d50c79c4abe4208",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-43620503-c7fb-413f-8575-87201d5e8c0f.png",
+      "grid_sha256": "9c62fb959745a9a5034dfe428175873b2bdcffeaeaa397c2b715563ef2d322c2",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crop checked vs original. Full views preserve2cards\u00d76ruffledfabricflowers=12: each pink/burgundy/palewhitepink/mint/yellow/creamblush, broad layered fabric construction retained. Tight pink fabric-petal macro. Correct five website styles, accurate heading and clean crop boundaries. Website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-43620503-c7fb-413f-8575-87201d5e8c0f.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows of512square cells, boundaries x512,x1024,y512; no gutters/borders/labels. Top-left WHITE background full assortment; top-middle lavender/cream styled full assortment; top-right realistic dressing-table lifestyle full assortment; bottom-left standalone tight macro of an actual flower petal/leaf texture, not whole assortment; bottom-middle promotional full assortment with accurate heading Flower Hair Clips; bottom-right blank cream. Entire photographed assortment ONE product. Preserve exact count, rose/flower construction, fabric texture, colours, green leaves, and backing cards. Remove hand, shop and price overlays, no new claims. Full views show exactly TWELVE flower clips on TWO long white cards each with SIX single flowers in one vertical column. All twelve distinct flowers visible, no overlap hiding count. Keep all inside each full-view cell with margin. Photoreal website-ready. Source has soft ruffled fabric flower hair clips, rounded broad layered petal flowers with crinkled texture (not tightly coiled roses). Each long card SIX flowers in order PINK, BURGUNDY RED, PALE WHITE/PINK, MINT GREEN, YELLOW, CREAM/BLUSH. Two same-colour sequences across two cards yields exactly TWO of each colour and12flowers total. Preserve rounded layered fabric construction and source colours; no blue/purple additions. Macro tight actual pink ruffled petal texture.",
+      "sha256": "0ded43dd045c51b7cd2cd4707266766692c467e3bc2a89cc8e44cba66c9d8985",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-43620503-c7fb-413f-8575-87201d5e8c0f.png",
+      "grid_sha256": "9c62fb959745a9a5034dfe428175873b2bdcffeaeaa397c2b715563ef2d322c2",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crop checked vs original. Full views preserve2cards\u00d76ruffledfabricflowers=12: each pink/burgundy/palewhitepink/mint/yellow/creamblush, broad layered fabric construction retained. Tight pink fabric-petal macro. Correct five website styles, accurate heading and clean crop boundaries. Website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-43620503-c7fb-413f-8575-87201d5e8c0f.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows of512square cells, boundaries x512,x1024,y512; no gutters/borders/labels. Top-left WHITE background full assortment; top-middle lavender/cream styled full assortment; top-right realistic dressing-table lifestyle full assortment; bottom-left standalone tight macro of an actual flower petal/leaf texture, not whole assortment; bottom-middle promotional full assortment with accurate heading Flower Hair Clips; bottom-right blank cream. Entire photographed assortment ONE product. Preserve exact count, rose/flower construction, fabric texture, colours, green leaves, and backing cards. Remove hand, shop and price overlays, no new claims. Full views show exactly TWELVE flower clips on TWO long white cards each with SIX single flowers in one vertical column. All twelve distinct flowers visible, no overlap hiding count. Keep all inside each full-view cell with margin. Photoreal website-ready. Source has soft ruffled fabric flower hair clips, rounded broad layered petal flowers with crinkled texture (not tightly coiled roses). Each long card SIX flowers in order PINK, BURGUNDY RED, PALE WHITE/PINK, MINT GREEN, YELLOW, CREAM/BLUSH. Two same-colour sequences across two cards yields exactly TWO of each colour and12flowers total. Preserve rounded layered fabric construction and source colours; no blue/purple additions. Macro tight actual pink ruffled petal texture.",
+      "sha256": "261ff96eaa0c436d7c6fcc0a9c64917f98ba09484cb86af82260e515092d5b71",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-43620503-c7fb-413f-8575-87201d5e8c0f.png",
+      "grid_sha256": "9c62fb959745a9a5034dfe428175873b2bdcffeaeaa397c2b715563ef2d322c2",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crop checked vs original. Full views preserve2cards\u00d76ruffledfabricflowers=12: each pink/burgundy/palewhitepink/mint/yellow/creamblush, broad layered fabric construction retained. Tight pink fabric-petal macro. Correct five website styles, accurate heading and clean crop boundaries. Website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-43620503-c7fb-413f-8575-87201d5e8c0f.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows of512square cells, boundaries x512,x1024,y512; no gutters/borders/labels. Top-left WHITE background full assortment; top-middle lavender/cream styled full assortment; top-right realistic dressing-table lifestyle full assortment; bottom-left standalone tight macro of an actual flower petal/leaf texture, not whole assortment; bottom-middle promotional full assortment with accurate heading Flower Hair Clips; bottom-right blank cream. Entire photographed assortment ONE product. Preserve exact count, rose/flower construction, fabric texture, colours, green leaves, and backing cards. Remove hand, shop and price overlays, no new claims. Full views show exactly TWELVE flower clips on TWO long white cards each with SIX single flowers in one vertical column. All twelve distinct flowers visible, no overlap hiding count. Keep all inside each full-view cell with margin. Photoreal website-ready. Source has soft ruffled fabric flower hair clips, rounded broad layered petal flowers with crinkled texture (not tightly coiled roses). Each long card SIX flowers in order PINK, BURGUNDY RED, PALE WHITE/PINK, MINT GREEN, YELLOW, CREAM/BLUSH. Two same-colour sequences across two cards yields exactly TWO of each colour and12flowers total. Preserve rounded layered fabric construction and source colours; no blue/purple additions. Macro tight actual pink ruffled petal texture.",
+      "sha256": "3de59104d9355e6780c133f976c2a7003f7fe67d5ae1be806583396c7b8a7b33",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-43620503-c7fb-413f-8575-87201d5e8c0f.png",
+      "grid_sha256": "9c62fb959745a9a5034dfe428175873b2bdcffeaeaa397c2b715563ef2d322c2",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crop checked vs original. Full views preserve2cards\u00d76ruffledfabricflowers=12: each pink/burgundy/palewhitepink/mint/yellow/creamblush, broad layered fabric construction retained. Tight pink fabric-petal macro. Correct five website styles, accurate heading and clean crop boundaries. Website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-43620503-c7fb-413f-8575-87201d5e8c0f.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows of512square cells, boundaries x512,x1024,y512; no gutters/borders/labels. Top-left WHITE background full assortment; top-middle lavender/cream styled full assortment; top-right realistic dressing-table lifestyle full assortment; bottom-left standalone tight macro of an actual flower petal/leaf texture, not whole assortment; bottom-middle promotional full assortment with accurate heading Flower Hair Clips; bottom-right blank cream. Entire photographed assortment ONE product. Preserve exact count, rose/flower construction, fabric texture, colours, green leaves, and backing cards. Remove hand, shop and price overlays, no new claims. Full views show exactly TWELVE flower clips on TWO long white cards each with SIX single flowers in one vertical column. All twelve distinct flowers visible, no overlap hiding count. Keep all inside each full-view cell with margin. Photoreal website-ready. Source has soft ruffled fabric flower hair clips, rounded broad layered petal flowers with crinkled texture (not tightly coiled roses). Each long card SIX flowers in order PINK, BURGUNDY RED, PALE WHITE/PINK, MINT GREEN, YELLOW, CREAM/BLUSH. Two same-colour sequences across two cards yields exactly TWO of each colour and12flowers total. Preserve rounded layered fabric construction and source colours; no blue/purple additions. Macro tight actual pink ruffled petal texture.",
+      "sha256": "e72ef33306c19d312413cad7410cfa9d40405313c76624a1274b2a3f73b1e149",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-43620503-c7fb-413f-8575-87201d5e8c0f.png",
+      "grid_sha256": "9c62fb959745a9a5034dfe428175873b2bdcffeaeaa397c2b715563ef2d322c2",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crop checked vs original. Full views preserve2cards\u00d76ruffledfabricflowers=12: each pink/burgundy/palewhitepink/mint/yellow/creamblush, broad layered fabric construction retained. Tight pink fabric-petal macro. Correct five website styles, accurate heading and clean crop boundaries. Website-ready."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Twelve ruffled fabric flower clips on two six-flower cards, pink/burgundy/white/mint/yellow/cream",
+  "original_baseline_verified": true
+}

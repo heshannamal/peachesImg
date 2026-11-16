@@ -1,0 +1,60 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250408-WA0128.jpg": "ea70ec7ed6c731bc9109f538452c86d9ca150d5115c38c701fb882748a08213a"
+  },
+  "records": [
+    {
+      "saved_file": "Rejected/01_White-Background-expanded-rear-bottles.png",
+      "source_output": "/workspace/generated_images/exec-5846eb45-acad-4334-8c6f-27c7e0899514.png",
+      "prompt": "Faithful square ecommerce product photograph of EXACT TWELVE original transparent bottle pendant keyrings hanging from original BLUE header: TWO blue, TWO green, TWO orange/yellow, TWO red, TWO purple, TWO pink cap/rose/beadcolourgroups. Original staggered front/back bottle overlaps retained, rearbottles staypartiallyoccluded, do not invent hiddencontents. Eachbottle original smallrose and matchingroundbeads, silverchain and splitring. Preserve12count, exact source bottle/cap/rose shapes, original colourorder, blue support and metalhardware. EntireassortmentONEproduct fullyvisible purewhite seamlessbackground softshadow. Removehand/shop/smallpricesticker only. No newtext/extra keyrings/invented parts.",
+      "sha256": "677b41c776ddccac57c1f512aa6977baf34e4e2c77724e4c3fb43be26061578a",
+      "checked": false,
+      "visual_review": "Materialgeometry/occlusionerror: rearranged staggered originalbottles into expanded display, extrapolated rearcontents/headerproportions. Singlecorrectiveallowed."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-a8980891-f664-4b6f-b387-9076e9aa3d20.png",
+      "prompt": "Conservative exact referencephotoedit. CRITICAL keep ORIGINAL portrait crop, ORIGINAL blueheader width-to-bottle proportions, EXACT original hangingring/chain positions and ORIGINAL front/back staggered bottle overlaps. Do NOT straighten or rearrange or expand rearbottles. Preserve all12visiblekeyrings and existingocclusion, twoeach blue green yellow red purple pink caps/roses/beads. Keep same visible rose/beadcounts in frontbottles, hiddenrearcontents remainhidden. Change ONLY shopbackground towhite andremovehand/price, softlight. Exactoriginal clearbottleshapes, silverhardware andblueheader geometry. No addedparts/new text.",
+      "sha256": "2da98559c6aa4ace39a6234237b0734a1232adb837c9eb12e46221d8624c071f",
+      "checked": true,
+      "visual_review": "Singlecorrection restored originalstaggeredfront/rearbottleocclusion andcompactblueheader proportion.12keyrings twoeach bluegreenyellowredpurplepink, sourcebottles/caps/roses/beads/silverhardware retained; rearcontents remainoccluded. Minorhighlight differences accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-4c15ad53-6b61-4686-b551-00e47718766b.png",
+      "prompt": "Conservative exact referencephotoedit. CRITICAL keep ORIGINAL portrait crop, ORIGINAL blueheader width-to-bottle proportions, EXACT original hangingring/chain positions and ORIGINAL front/back staggered bottle overlaps. Do NOT straighten or rearrange or expand rearbottles. Preserve all12visiblekeyrings and existingocclusion, twoeach blue green yellow red purple pink caps/roses/beads. Keep same visible rose/beadcounts in frontbottles, hiddenrearcontents remainhidden. Change ONLY shopbackground tolavendercreamstudio andremovehand/price, softlight. Secondreference is approved whiteedit for arrangementconfirmation; originalsource governs productdetails. Exactoriginal clearbottleshapes, silverhardware andblueheader geometry. No addedparts/new text.",
+      "sha256": "a13d4a1723dc4d4ab3864fd2e8a3a41bc048319a874f3cf5110fdd7d7ab9d015",
+      "checked": true,
+      "visual_review": "Compared with original and approvedwhite: twelve bottle keyrings, two each blue green yellow red purple pink, same caps/roses/beads, silver chain/rings and blue support; staggered front/rear overlaps retained. Mild straightening/highlight differences accepted for website quality."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-e510f8c7-1c3d-4a1d-ae7b-fbfc115e9576.png",
+      "prompt": "Faithful reference photoedit of exact TWELVE transparent rose-and-bead bottle keyrings on original BLUE hanging header, TWO each blue,green,yellow/orange,red,purple,pink. Keep original bottle/cap/rose shapes, source silver splitrings/chains and original front/back staggered overlap; rear bottle contents remain obscured. Exact12, wholeassortmentONEproduct, no extras/invented backs. Original governs productdetails, secondreference approvedwhite confirms arrangement. Remove hand/shop/price only. Website-ready lifestyle photograph: full original assortment resting/hanging naturally on cream dressingtable with softly blurred lavenderroom, natural daylight, exactheader proportions and original compact arrangement. No people/newtext/extra products.",
+      "sha256": "0f77aa2ab40c23cd8b837aa97d4d3db8125e73fa6ef90785964017aab27a83f1",
+      "checked": true,
+      "visual_review": "Compared actualsource: twelve bottlekeyrings twoeach blue green yellow red purple pink, silverchains/rings and blueheader, clearbottles withrose+beads preserved. Full source staggeredgroup in creamdresser/lavenderroom. Minor highlights/spacing differences accepted websitequality."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-a1102b6f-4bd4-4c30-b16c-2fee09ceaf91.png",
+      "prompt": "Standalone tight macro editing actual original: crop ONLY front green bottle's existing green rose and green beads through clear glass, include adjacent curved bottle edge and tiny gold-green cap edge where actually visible. Preserve existing rose petalform/beadmaterial/green colour and glass geometry. Realpart fillsframe; no fullassortment, no newparts, no text.",
+      "sha256": "3f3c7ace0ff4f73f506821eb05e3751d188cca000a71988ea21fa06d4b149d11",
+      "checked": true,
+      "visual_review": "Standalone tight macro of source frontgreen bottle, existing green rose and green roundbeads through clearbottle with green cap/silverring edge. Sourcepart identity/material/colour preserved, no fullassortment or invented back; minor petalhighlight differences accepted."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-53eb8728-cc43-4b9e-9040-c72d9a511c79.png",
+      "prompt": "Faithful website promotional photograph editing ORIGINAL bottle keyring assortment, with approvedwhite secondreference for arrangementconfirmation. EXACT TWELVE clear bottle keyrings on same compact BLUE header, TWO each blue,green,yellow/orange,red,purple,pink. Preserve source bottle/cap/rose and bead shapes/colours, silverchains/splitrings, original staggered front/back overlaps and obscured rearcontents. WholeassortmentONEproduct, no extra bottles. Entire twelve visible on lavender/cream studio background softshadow with generous margins and small accurate heading ROSE BOTTLE KEYRINGS. Removehand/shop/old price only. No othertext/claims, no rearrangement or hiddenparts.",
+      "sha256": "23ee1be0097e804ee526a7b469781ec8b434d3311367f1cdd2dc1b333feff50c",
+      "checked": true,
+      "visual_review": "Actualoutput reviewed against original: twelve bottlekeyrings twoeach bluegreen yellowred purplepink, original rose/bead/cap colours, clearbottleshapes/silverhardware/blueheader retained, original paired stagger. Accurate ROSE BOTTLE KEYRINGS heading, whole set framed on lavendercream. Minor spacing/lighting variations accepted."
+    }
+  ],
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

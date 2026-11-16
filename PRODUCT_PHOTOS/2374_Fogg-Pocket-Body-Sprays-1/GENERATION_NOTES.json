@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260904-WA0180.jpg": "25f01a3fc30c12977570e77ad5bd0da7b0908076a0433d7f363c07a76f501cb4"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-2ad3318d-6cc8-46c6-a2a2-14b5a99514c1.png",
+      "source_output": "/workspace/generated_images/exec-2ad3318d-6cc8-46c6-a2a2-14b5a99514c1.png",
+      "sha256": "9912aeccb925b65a6d6b1316c6b2e5bb75c53fcd1fbe495747efd700c3de198b",
+      "prompt": "Native EDIT actual original into1536x1024 website3x2sheet x512/1024y512. Independent panels topfull product white, fullproductlavendercreamstyled, fullproductlifestyle; bottom standalone tight real-part macro, fullproductpromo accurateheading, blankcream. Preserve entire actual assortment exact count/identity/material/shapes/colours, no substitutions. Remove source price/shop clutter/surrounding marketing graphics. Full products stay within square panels with margins. Exactly FIVE FOGG25ML pocket body spray bottles, tall slim cylindrical with matching ribbed caps and silver band, brand typography intact. Left-to-right DASH deepmagenta, HAPPY orange, AMAZE black, CHARM brightpink, NICE green. Preserve five distinct variant names and colours. No boxes, no extra bottles. Macro tight real black AMAZE bottle cap/silverband/FOGGlabel section. Lifestyle five bottles on bathroom vanity. Heading 'FOGG Pocket Body Sprays'.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-2ad3318d-6cc8-46c6-a2a2-14b5a99514c1.png",
+      "prompt": "Native EDIT actual original into1536x1024 website3x2sheet x512/1024y512. Independent panels topfull product white, fullproductlavendercreamstyled, fullproductlifestyle; bottom standalone tight real-part macro, fullproductpromo accurateheading, blankcream. Preserve entire actual assortment exact count/identity/material/shapes/colours, no substitutions. Remove source price/shop clutter/surrounding marketing graphics. Full products stay within square panels with margins. Exactly FIVE FOGG25ML pocket body spray bottles, tall slim cylindrical with matching ribbed caps and silver band, brand typography intact. Left-to-right DASH deepmagenta, HAPPY orange, AMAZE black, CHARM brightpink, NICE green. Preserve five distinct variant names and colours. No boxes, no extra bottles. Macro tight real black AMAZE bottle cap/silverband/FOGGlabel section. Lifestyle five bottles on bathroom vanity. Heading 'FOGG Pocket Body Sprays'.",
+      "sha256": "a7d7ac84a87658eff23334133c60bbff20ff27c80bde0569847d23151f51773e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2ad3318d-6cc8-46c6-a2a2-14b5a99514c1.png",
+      "grid_sha256": "9912aeccb925b65a6d6b1316c6b2e5bb75c53fcd1fbe495747efd700c3de198b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected: five FOGG bottles DASH/HAPPY/AMAZE/CHARM/NICE left-right, magenta/orange/black/pink/green colours, cap/silverband/label identity retained. Correct independent views, actual black AMAZE cap/label macro and accurate heading."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-2ad3318d-6cc8-46c6-a2a2-14b5a99514c1.png",
+      "prompt": "Native EDIT actual original into1536x1024 website3x2sheet x512/1024y512. Independent panels topfull product white, fullproductlavendercreamstyled, fullproductlifestyle; bottom standalone tight real-part macro, fullproductpromo accurateheading, blankcream. Preserve entire actual assortment exact count/identity/material/shapes/colours, no substitutions. Remove source price/shop clutter/surrounding marketing graphics. Full products stay within square panels with margins. Exactly FIVE FOGG25ML pocket body spray bottles, tall slim cylindrical with matching ribbed caps and silver band, brand typography intact. Left-to-right DASH deepmagenta, HAPPY orange, AMAZE black, CHARM brightpink, NICE green. Preserve five distinct variant names and colours. No boxes, no extra bottles. Macro tight real black AMAZE bottle cap/silverband/FOGGlabel section. Lifestyle five bottles on bathroom vanity. Heading 'FOGG Pocket Body Sprays'.",
+      "sha256": "999282a77f9a915ef975c2be0683af916a9c53792f435cab24d91ebb2007bae4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2ad3318d-6cc8-46c6-a2a2-14b5a99514c1.png",
+      "grid_sha256": "9912aeccb925b65a6d6b1316c6b2e5bb75c53fcd1fbe495747efd700c3de198b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected: five FOGG bottles DASH/HAPPY/AMAZE/CHARM/NICE left-right, magenta/orange/black/pink/green colours, cap/silverband/label identity retained. Correct independent views, actual black AMAZE cap/label macro and accurate heading."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-2ad3318d-6cc8-46c6-a2a2-14b5a99514c1.png",
+      "prompt": "Native EDIT actual original into1536x1024 website3x2sheet x512/1024y512. Independent panels topfull product white, fullproductlavendercreamstyled, fullproductlifestyle; bottom standalone tight real-part macro, fullproductpromo accurateheading, blankcream. Preserve entire actual assortment exact count/identity/material/shapes/colours, no substitutions. Remove source price/shop clutter/surrounding marketing graphics. Full products stay within square panels with margins. Exactly FIVE FOGG25ML pocket body spray bottles, tall slim cylindrical with matching ribbed caps and silver band, brand typography intact. Left-to-right DASH deepmagenta, HAPPY orange, AMAZE black, CHARM brightpink, NICE green. Preserve five distinct variant names and colours. No boxes, no extra bottles. Macro tight real black AMAZE bottle cap/silverband/FOGGlabel section. Lifestyle five bottles on bathroom vanity. Heading 'FOGG Pocket Body Sprays'.",
+      "sha256": "0b8a4e2c39bd1aea9a26d8ecf426dfadca652dae98150ce8a6511242850829ff",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2ad3318d-6cc8-46c6-a2a2-14b5a99514c1.png",
+      "grid_sha256": "9912aeccb925b65a6d6b1316c6b2e5bb75c53fcd1fbe495747efd700c3de198b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected: five FOGG bottles DASH/HAPPY/AMAZE/CHARM/NICE left-right, magenta/orange/black/pink/green colours, cap/silverband/label identity retained. Correct independent views, actual black AMAZE cap/label macro and accurate heading."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-2ad3318d-6cc8-46c6-a2a2-14b5a99514c1.png",
+      "prompt": "Native EDIT actual original into1536x1024 website3x2sheet x512/1024y512. Independent panels topfull product white, fullproductlavendercreamstyled, fullproductlifestyle; bottom standalone tight real-part macro, fullproductpromo accurateheading, blankcream. Preserve entire actual assortment exact count/identity/material/shapes/colours, no substitutions. Remove source price/shop clutter/surrounding marketing graphics. Full products stay within square panels with margins. Exactly FIVE FOGG25ML pocket body spray bottles, tall slim cylindrical with matching ribbed caps and silver band, brand typography intact. Left-to-right DASH deepmagenta, HAPPY orange, AMAZE black, CHARM brightpink, NICE green. Preserve five distinct variant names and colours. No boxes, no extra bottles. Macro tight real black AMAZE bottle cap/silverband/FOGGlabel section. Lifestyle five bottles on bathroom vanity. Heading 'FOGG Pocket Body Sprays'.",
+      "sha256": "a7edc81cd5e12584ed5f855e6e70d00dfd968d4d612e81d01408af8ae1463dde",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2ad3318d-6cc8-46c6-a2a2-14b5a99514c1.png",
+      "grid_sha256": "9912aeccb925b65a6d6b1316c6b2e5bb75c53fcd1fbe495747efd700c3de198b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crop inspected: five FOGG bottles DASH/HAPPY/AMAZE/CHARM/NICE left-right, magenta/orange/black/pink/green colours, cap/silverband/label identity retained. Correct independent views, actual black AMAZE cap/label macro and accurate heading."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-2ad3318d-6cc8-46c6-a2a2-14b5a99514c1.png",
+      "prompt": "Native EDIT actual original into1536x1024 website3x2sheet x512/1024y512. Independent panels topfull product white, fullproductlavendercreamstyled, fullproductlifestyle; bottom standalone tight real-part macro, fullproductpromo accurateheading, blankcream. Preserve entire actual assortment exact count/identity/material/shapes/colours, no substitutions. Remove source price/shop clutter/surrounding marketing graphics. Full products stay within square panels with margins. Exactly FIVE FOGG25ML pocket body spray bottles, tall slim cylindrical with matching ribbed caps and silver band, brand typography intact. Left-to-right DASH deepmagenta, HAPPY orange, AMAZE black, CHARM brightpink, NICE green. Preserve five distinct variant names and colours. No boxes, no extra bottles. Macro tight real black AMAZE bottle cap/silverband/FOGGlabel section. Lifestyle five bottles on bathroom vanity. Heading 'FOGG Pocket Body Sprays'.",
+      "sha256": "2019843ddbfcc7024b0fcc53aa0cfb4f29dbd820956bd69d137d120a56c0e465",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2ad3318d-6cc8-46c6-a2a2-14b5a99514c1.png",
+      "grid_sha256": "9912aeccb925b65a6d6b1316c6b2e5bb75c53fcd1fbe495747efd700c3de198b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crop inspected: five FOGG bottles DASH/HAPPY/AMAZE/CHARM/NICE left-right, magenta/orange/black/pink/green colours, cap/silverband/label identity retained. Correct independent views, actual black AMAZE cap/label macro and accurate heading."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baselines_verified": true
+}

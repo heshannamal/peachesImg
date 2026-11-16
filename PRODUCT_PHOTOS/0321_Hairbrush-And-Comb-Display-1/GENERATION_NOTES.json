@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250405-WA0332.jpg": "8bb9b122b70927a059ebe37ca611a701c632b55fe82a550334eb861e82a3bb6c"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-3914c5fc-12e4-49d4-8545-07bb93dcccda.png",
+      "prompt": "Faithful website productphoto edit of original ENTIRE stationery display as ONE assortment: left stacked white displayboxes filled character-topped extensible pencils, right three stacked pink pastel PUSH THE ERASER displayboxes with transparent bear-topped push eraser pens in purple,yellow,blue,pink. Preserve EXACT original visible quantities,overlap,croppededges,arrangement,character shapes,colours,boxlabels, no inventing obscured inventory. This is stationery NOT hairbrushes. Remove only shop background and floating75/90 price tags. Clean white seamlessbackground, original displaygeometry, no addedtext.",
+      "sha256": "036d15814d36958855a8499e02359d4b3dca074e70a6027067671a0b7fe6bd2f",
+      "checked": true,
+      "visual_review": "Actual stationerydisplay retained: two left pencilboxes and three right push-eraserboxes, eight frontcolumns and sourcecharacter/colourgroups. Dense back inventory occluded as source; no exacthiddenpiececount claimed. White/backgroundprice removed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-d5741e22-d16f-4252-8da3-4d8e23f34dc9.png",
+      "prompt": "Faithful square website product photograph editing reference. Exact ENTIRE stationery counter display ONE product, TWO stacked white character-topped extensible-pencil boxes at left and THREE stacked pink PUSH THE ERASER boxes at right, existing visible rows, eight front columns per tray, same original fanned character shapes and colours, transparent bear-topped eraser pens in purple yellow blue pink, white/pink printed trays, all original overlap/croppededges. Do not expand obscured inventory or simplify. Styled clean lavender and cream studio surround with soft shadows, same display geometry. Remove shop background and floating75/90 prices only. No added text or objects.",
+      "sha256": "474746baf71da0a323c111ad809320dde6856bd6a9e12d4bdbd01add0d3e8daa",
+      "checked": true,
+      "visual_review": "Compared with original: two left character-pencil trays and three right bear-top eraser trays retained, visible eight front columns, source colour groups and layered original occlusion. Lavender/cream styled surround. Hidden inventory count not invented or asserted."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-36f089bb-4b0b-485c-b58c-38cd4e025569.png",
+      "prompt": "Faithful square single website lifestyle photograph of exact ENTIRE original stationery display ONE assortment: two stacked white character-pencil trays left and three stacked pink PUSH THE ERASER trays right. Preserve original frontview entire display geometry, all original visible quantities/overlap, eight frontcolumns per tray, characters, purple yellow blue pink transparent bear erasers and original packaging/printed labels. No extra stock or inventions. Set entire display on cream study desk with softly blurred lavender wall, daylight, no other stationery/props/hands. Remove floating75/90prices and shop shelves only. No addedtext or collage.",
+      "sha256": "ab8412168ede3a65bdff967fadf839349d90bee9855f3dc2228c513070c460fc",
+      "checked": true,
+      "visual_review": "Two left pencil trays and three right bear-eraser trays retained; original colour groups and eight frontcolumns preserved. Single lifestyle desk view, no added inventory."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-a09bbb42-362f-4991-9f3c-34c085b48bf3.png",
+      "prompt": "Standalone square tight real-part macro crop of the FRONT TWO PURPLE transparent bear-shaped toppers and adjoining lavender push buttons/barrels on original right eraser display. Preserve visible translucent bear moulded ears/face shape and lavender plastic, real part geometry. Only that source region fills image, no full assortment, no new parts, no other products, no collage or text. Soft lavender cream blur background website detail photograph. Remove price overlays.",
+      "sha256": "d9a46f9c44aaa5e9586d94714e821c695672f63c0d18a56c6b4c60c0418fb305",
+      "checked": true,
+      "visual_review": "Standalone tight macro of two original purple transparent bear toppers with adjoining lavender collars/buttons, main moulded bear shape and translucent colour retained; no whole display."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-9bd754f7-e232-495a-be96-899a401e1b23.png",
+      "prompt": "Faithful square website promotional productphoto. Exact ENTIRE original stationery display oneassortment: TWO white character-pencil trays at left, THREE pink bear-top PUSH THE ERASER trays right. Preserve original arrangement/count/overlap, eight frontcolumns per tray, visible characters/colours/printedboxes, no hidden stock inventions. Whole display reduced inframe with margins on lavendercream studio background. Accurate small plum heading STATIONERY COLLECTION above. Remove floating75/90price and shop only. No other claims/prices/new products/collage.",
+      "sha256": "30baa62598f63eba625f128252a44aef2ab5c326f325b43258d722d3e0514068",
+      "checked": true,
+      "visual_review": "Two left pencil trays and three right bear-eraser trays with original colour groups and eight frontcolumns retained; exact hidden stock count not claimed. Accurate STATIONERY COLLECTION heading. Lower-left backingcard print is more exposed than source; accepted cosmetic display-card difference, main assortment geometry unchanged."
+    }
+  ],
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

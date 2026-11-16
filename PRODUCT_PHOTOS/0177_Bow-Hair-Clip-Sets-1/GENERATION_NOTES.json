@@ -1,0 +1,53 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250212-WA0036.jpg": "4256f9b33d23857de7a888127c561b0a6daa9653701711ef7342563c951c2c89"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-969cb19d-6def-4d3c-91dd-a9605162cd46.png",
+      "prompt": "Edit original into website-ready ecommerce white seamless photo soft shadows. Exact entire assortment oneproduct: TWELVE white FashionJewelry cards in3columns4rows inside clearouterbag, each with ONE plushvelvet bow clip embellished smallwhite pearls and matching fabric hairties behind. Original top2rows pale pink/lilac bows, third burgundy, bottom darkpurpleblue. Keep12bowcards, exact overlapped arrangement, visible shapes/colours/pearlplacement/materials/packaging and ties. Remove hand/shop/1200Rs overlay/stocksticker only. No invented backparts/extra products/text.",
+      "sha256": "22574dc25449d1059e4f04148e79426d5942addada9b3719b8f609bd32bb2132",
+      "checked": true,
+      "visual_check": "Basic check12bows3columns4rows top6pink then3burgundy3purpleblue, pearl accents/ties/cards/bag retained, no hand/price."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-b4ef8810-ef7f-45ac-921a-e580b2509335.png",
+      "prompt": "Edit original into website-ready ecommerce white seamless photo soft shadows. Exact entire assortment oneproduct: TWELVE white FashionJewelry cards in3columns4rows inside clearouterbag, each with ONE plushvelvet bow clip embellished smallwhite pearls and matching fabric hairties behind. Original top2rows pale pink/lilac bows, third burgundy, bottom darkpurpleblue. Keep12bowcards, exact overlapped arrangement, visible shapes/colours/pearlplacement/materials/packaging and ties. Remove hand/shop/1200Rs overlay/stocksticker only. No invented backparts/extra products/text. Backgroundoverride lavendercream studio softlight same exact whole12cardassortment no extra props/text.",
+      "sha256": "6068497dacd7cf774ae26a153d6bc851d531b71dad6cd3b410e7006cf4ba87ad",
+      "checked": true,
+      "visual_check": "Basic check12bows3x4 same pink burgundy bluepurple colourgroups pearls/ties/cards/sleeve, lavender backdrop. Minor print omission accepted."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-5065d235-ca05-47ed-8b46-fd1cce8aef42.png",
+      "prompt": "Edit original into website-ready ecommerce white seamless photo soft shadows. Exact entire assortment oneproduct: TWELVE white FashionJewelry cards in3columns4rows inside clearouterbag, each with ONE plushvelvet bow clip embellished smallwhite pearls and matching fabric hairties behind. Original top2rows pale pink/lilac bows, third burgundy, bottom darkpurpleblue. Keep12bowcards, exact overlapped arrangement, visible shapes/colours/pearlplacement/materials/packaging and ties. Remove hand/shop/1200Rs overlay/stocksticker only. No invented backparts/extra products/text. Backgroundoverride lifestyle fullunchangedpackaged12bow assortment on cream vanitytable softlyblurred lavender dressingroom, no humans/newproducts/text.",
+      "sha256": "e2694b03c45933d41fc610ae5c8e62ac2b1b0c9b979744432930199052e69a1a",
+      "checked": true,
+      "visual_check": "Basic check12bows source3x4 pink burgundy bluepurple pearls/ties/cards/package on creamvanity, no hand/price."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-d4d18560-8567-4a1b-842a-7acbff626d80.png",
+      "prompt": "Standalone website-ready TIGHT MACRO DETAIL edit original pale pink velvetbow. Crop to existing bow centerband and pleated loop with small white pearl embellishments underclearplastic, original pinkpile texture folds/colour. No fullset/nobackclip invention/no hand/shop/price/text. Soft lavendercream defocus.",
+      "sha256": "dc867e993c80ba6b5d98566308e0bea4c18397a8a3fa2b54c19eb3dca3c3fe71",
+      "checked": true,
+      "visual_check": "Basiccheck tight pinkbow centerband/pleats pearls underclearplastic, original material/colour no fullset."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-cdf35814-f814-4d73-a76c-8bcfb95f4c4f.png",
+      "prompt": "Edit original into website-ready ecommerce white seamless photo soft shadows. Exact entire assortment oneproduct: TWELVE white FashionJewelry cards in3columns4rows inside clearouterbag, each with ONE plushvelvet bow clip embellished smallwhite pearls and matching fabric hairties behind. Original top2rows pale pink/lilac bows, third burgundy, bottom darkpurpleblue. Keep12bowcards, exact overlapped arrangement, visible shapes/colours/pearlplacement/materials/packaging and ties. Remove hand/shop/1200Rs overlay/stocksticker only. No invented backparts/extra products/text. Designoverride lavendercream promotionalphoto full12cardassortment below compactdarkplum heading 'Pearl Bow Hair Clip Sets', small 'PRODUCT COLLECTION', no price/claims/textoverproducts.",
+      "sha256": "3f712ef6baa93eecc2ff11ef438be756b07ebd56938504859235cc16e6f93963",
+      "checked": true,
+      "visual_check": "Basiccheck12bows3x4 source pink burgundy bluepurple pearls/ties/cardbag and readableheading PRODUCT COLLECTION lavendercream no prices."
+    }
+  ],
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "generation_complete": true,
+  "originals_unchanged": true
+}

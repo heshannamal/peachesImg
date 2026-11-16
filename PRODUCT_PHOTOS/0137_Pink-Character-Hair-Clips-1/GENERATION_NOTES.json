@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250205-WA0731.jpg": "e6737a368d318289c812697befb15f6dcfd0920dfb1da66b58e7ff8038123b99"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-cabec669-09ce-478b-8494-7e730d3343bd.png",
+      "prompt": "Edit reference into website-ready product photograph. Exactly twenty rectangular fluffy snap hair clips in two strips of ten. Each clip has two colorful small pom poms on the left and a smiling bunny-suit child charm on right. Preserve arrangement and colors: rows of rose pink, cream beige, pale blue, fuchsia, light pink; purple, pink, blue bunny charms as source. Entire twenty-clip assortment as ONE product. Clean pure white seamless studio background, isolated entire assortment laid neatly flat, soft real shadows. No text. Remove hand, shop, old price overlays and stickers. One square photo.",
+      "sha256": "04ccc538a346ee313286a455500bac0d88bd23099f4a946afbea1ff79e322e7c",
+      "checked": true,
+      "visual_review": "Visually checked: source subject, assortment count and colors preserved with minor cosmetic variations; website-ready. Detail shows close crop; promo title legible; no hands, shop or price overlay."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-cd669265-e2ba-4eba-a1da-460a8c1fb5c9.png",
+      "prompt": "Edit reference into website-ready product photograph. Exactly twenty rectangular fluffy snap hair clips in two strips of ten. Each clip has two colorful small pom poms on the left and a smiling bunny-suit child charm on right. Preserve arrangement and colors: rows of rose pink, cream beige, pale blue, fuchsia, light pink; purple, pink, blue bunny charms as source. Entire twenty-clip assortment as ONE product. Simple lavender and cream studio arrangement, entire assortment, soft shadows, no text. Remove hand, shop, old price overlays and stickers. One square photo.",
+      "sha256": "3e7259073e08aedf737b1fd98672d5613a1b39cced985824fcc3f551ee2bc5a6",
+      "checked": true,
+      "visual_review": "Visually checked: source subject, assortment count and colors preserved with minor cosmetic variations; website-ready. Detail shows close crop; promo title legible; no hands, shop or price overlay."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-00f955a0-8e55-4cb3-a99c-4397bbfce0cf.png",
+      "prompt": "Edit reference into website-ready product photograph. Exactly twenty rectangular fluffy snap hair clips in two strips of ten. Each clip has two colorful small pom poms on the left and a smiling bunny-suit child charm on right. Preserve arrangement and colors: rows of rose pink, cream beige, pale blue, fuchsia, light pink; purple, pink, blue bunny charms as source. Entire twenty-clip assortment as ONE product. Entire assortment arranged on a cream bedroom vanity beside a subtle mirror and folded linen, daylight, no people or hands, no text. Remove hand, shop, old price overlays and stickers. One square photo.",
+      "sha256": "dfe247849687307d40f713d7bd63383ae3a6bd5ded6551ea2d58057b3fdd09c0",
+      "checked": true,
+      "visual_review": "Visually checked: source subject, assortment count and colors preserved with minor cosmetic variations; website-ready. Detail shows close crop; promo title legible; no hands, shop or price overlay."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-ee539696-68ba-4d2e-b9dd-54aef51d0271.png",
+      "prompt": "Edit reference into website-ready photograph. Source subject: Exactly twenty rectangular fluffy snap hair clips in two strips of ten. Each clip has two colorful small pom poms on the left and a smiling bunny-suit child charm on right. Preserve arrangement and colors: rows of rose pink, cream beige, pale blue, fuchsia, light pink; purple, pink, blue bunny charms as source. Entire twenty-clip assortment as ONE product. DETAIL exception: Very tight macro crop of existing product surface and decoration, show only part of one existing item with realistic detail. Do not show whole assortment or full packaging. No text. Remove hand, shop, old price overlays and stickers. One square photo.",
+      "sha256": "1aeb1d07b128bd441d2de9a6b6b2e4986f0ec6609a7155017d1d4d7be8ffcf68",
+      "checked": true,
+      "visual_review": "Visually checked: source subject, assortment count and colors preserved with minor cosmetic variations; website-ready. Detail shows close crop; promo title legible; no hands, shop or price overlay."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-297f6d0b-0217-43d8-a83d-2cf087204b11.png",
+      "prompt": "Create a website-ready promotional product photograph from reference. Twenty rectangular fluffy hair clips in two strips of ten, rose pink cream pale blue fuchsia and light pink, each with two colored pom poms left and smiling bunny child charm right. Preserve reference assortment count shape and colors. Show whole assortment as one product on simple lavender and cream background, compact descriptive title \"Fluffy Bunny Hair Clips\" with smaller \"PRODUCT COLLECTION\". Remove hands, shop and price overlay. Clean simple composition, one square photo.",
+      "sha256": "a5996592fa4302e6bfebbeaa720eafcd5b9f98753f3288ecf61ed9112fd7ed15",
+      "checked": true,
+      "visual_review": "Visually checked: source subject, assortment count and colors preserved with minor cosmetic variations; website-ready. Detail shows close crop; promo title legible; no hands, shop or price overlay."
+    }
+  ],
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true
+}

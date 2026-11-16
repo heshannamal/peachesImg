@@ -1,0 +1,160 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260907-WA0172.jpg": "8147a19bcda98d7dad64247b1b90201a0f8a2111ecf1c7a1e51b176b6c81d481"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-383a6c92-bcaa-496e-a81b-3db222cdec4c.png",
+      "source_output": "/workspace/generated_images/exec-383a6c92-bcaa-496e-a81b-3db222cdec4c.png",
+      "sha256": "d05f0206e9443580878c80d50107ea120cf84409f8d32b20454b0a50ccdbd115",
+      "prompt": "Native edit referenced actualsource into1536x1024grid 3columns2rows512cells. Top:WHITEbackground;lavendercreamstyled;lifestylehairaccessoryvanity. Bottom:TIGHTstandalone realpartmacro ofONEdecorativemotif andgoldbarattachment;promotional withheading \"Flower Hair Clip Assortment\";blankcream. Source SIXwhitecards each TWO horizontal elongatedgoldtonehairbarrettes, totalTWELVEhairclips. Everyfullview01/02/03/05 showALLSIXwholecards+ALL12clips arranged2columns3rows. Preserveactualdecorativemotifshapes/colours/countperbar asreference; not singlemotifindividualclips. Eachbar adornedrowofoutlinedgoldflowers with roundpearl-likebrightcentres. Sixcardpalette sourcetoptobottom: purple,mixedblueorangevioletpink,hotpink,coralorange,lightblue,palepink. Preservegoldflowerpetaloutlines and roundcentres. Removehand/store/plasticglare/pricebanner. WholeassortmentONEproduct, preserve12barrettes not12cards. Lifestyleall6cardslaidoutonvanity, no hairwearsingleclip substitute. Promoaccurateheadingandallsixcards. Tightmacro notwholeassortment. Websitequality.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-383a6c92-bcaa-496e-a81b-3db222cdec4c.png",
+      "prompt": "Native edit referenced actualsource into1536x1024grid 3columns2rows512cells. Top:WHITEbackground;lavendercreamstyled;lifestylehairaccessoryvanity. Bottom:TIGHTstandalone realpartmacro ofONEdecorativemotif andgoldbarattachment;promotional withheading \"Flower Hair Clip Assortment\";blankcream. Source SIXwhitecards each TWO horizontal elongatedgoldtonehairbarrettes, totalTWELVEhairclips. Everyfullview01/02/03/05 showALLSIXwholecards+ALL12clips arranged2columns3rows. Preserveactualdecorativemotifshapes/colours/countperbar asreference; not singlemotifindividualclips. Eachbar adornedrowofoutlinedgoldflowers with roundpearl-likebrightcentres. Sixcardpalette sourcetoptobottom: purple,mixedblueorangevioletpink,hotpink,coralorange,lightblue,palepink. Preservegoldflowerpetaloutlines and roundcentres. Removehand/store/plasticglare/pricebanner. WholeassortmentONEproduct, preserve12barrettes not12cards. Lifestyleall6cardslaidoutonvanity, no hairwearsingleclip substitute. Promoaccurateheadingandallsixcards. Tightmacro notwholeassortment. Websitequality.",
+      "sha256": "06c1fe5274b092e5c3ebf8e0f1cf6524b10decdc50de94ef2911d0f60498104d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-383a6c92-bcaa-496e-a81b-3db222cdec4c.png",
+      "grid_sha256": "d05f0206e9443580878c80d50107ea120cf84409f8d32b20454b0a50ccdbd115",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        634
+      ],
+      "visual_review": "Sixcards eachtwofourmotifbarrettes,12clips actualcolours/forms; correctedtruecellmapping forwhite/styled/lifestyle, standalone mechanicaltightactualmotifmacro."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-383a6c92-bcaa-496e-a81b-3db222cdec4c.png",
+      "prompt": "Native edit referenced actualsource into1536x1024grid 3columns2rows512cells. Top:WHITEbackground;lavendercreamstyled;lifestylehairaccessoryvanity. Bottom:TIGHTstandalone realpartmacro ofONEdecorativemotif andgoldbarattachment;promotional withheading \"Flower Hair Clip Assortment\";blankcream. Source SIXwhitecards each TWO horizontal elongatedgoldtonehairbarrettes, totalTWELVEhairclips. Everyfullview01/02/03/05 showALLSIXwholecards+ALL12clips arranged2columns3rows. Preserveactualdecorativemotifshapes/colours/countperbar asreference; not singlemotifindividualclips. Eachbar adornedrowofoutlinedgoldflowers with roundpearl-likebrightcentres. Sixcardpalette sourcetoptobottom: purple,mixedblueorangevioletpink,hotpink,coralorange,lightblue,palepink. Preservegoldflowerpetaloutlines and roundcentres. Removehand/store/plasticglare/pricebanner. WholeassortmentONEproduct, preserve12barrettes not12cards. Lifestyleall6cardslaidoutonvanity, no hairwearsingleclip substitute. Promoaccurateheadingandallsixcards. Tightmacro notwholeassortment. Websitequality.",
+      "sha256": "ab0fd80c5315f37b9e69ee2bd58e11e53bfa208f4ef271ad511108f9cb63fe3c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-383a6c92-bcaa-496e-a81b-3db222cdec4c.png",
+      "grid_sha256": "d05f0206e9443580878c80d50107ea120cf84409f8d32b20454b0a50ccdbd115",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        516,
+        0,
+        1024,
+        634
+      ],
+      "visual_review": "Sixcards eachtwofourmotifbarrettes,12clips actualcolours/forms; correctedtruecellmapping forwhite/styled/lifestyle, standalone mechanicaltightactualmotifmacro."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-383a6c92-bcaa-496e-a81b-3db222cdec4c.png",
+      "prompt": "Native edit referenced actualsource into1536x1024grid 3columns2rows512cells. Top:WHITEbackground;lavendercreamstyled;lifestylehairaccessoryvanity. Bottom:TIGHTstandalone realpartmacro ofONEdecorativemotif andgoldbarattachment;promotional withheading \"Flower Hair Clip Assortment\";blankcream. Source SIXwhitecards each TWO horizontal elongatedgoldtonehairbarrettes, totalTWELVEhairclips. Everyfullview01/02/03/05 showALLSIXwholecards+ALL12clips arranged2columns3rows. Preserveactualdecorativemotifshapes/colours/countperbar asreference; not singlemotifindividualclips. Eachbar adornedrowofoutlinedgoldflowers with roundpearl-likebrightcentres. Sixcardpalette sourcetoptobottom: purple,mixedblueorangevioletpink,hotpink,coralorange,lightblue,palepink. Preservegoldflowerpetaloutlines and roundcentres. Removehand/store/plasticglare/pricebanner. WholeassortmentONEproduct, preserve12barrettes not12cards. Lifestyleall6cardslaidoutonvanity, no hairwearsingleclip substitute. Promoaccurateheadingandallsixcards. Tightmacro notwholeassortment. Websitequality.",
+      "sha256": "eca7352d942cf49e0caf17528df2bf487d9c59270ea7a1ed0f9306fd3e18d297",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-383a6c92-bcaa-496e-a81b-3db222cdec4c.png",
+      "grid_sha256": "d05f0206e9443580878c80d50107ea120cf84409f8d32b20454b0a50ccdbd115",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1028,
+        0,
+        1536,
+        634
+      ],
+      "visual_review": "Sixcards eachtwofourmotifbarrettes,12clips actualcolours/forms; correctedtruecellmapping forwhite/styled/lifestyle, standalone mechanicaltightactualmotifmacro."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-383a6c92-bcaa-496e-a81b-3db222cdec4c.png",
+      "prompt": "Native edit referenced actualsource into1536x1024grid 3columns2rows512cells. Top:WHITEbackground;lavendercreamstyled;lifestylehairaccessoryvanity. Bottom:TIGHTstandalone realpartmacro ofONEdecorativemotif andgoldbarattachment;promotional withheading \"Flower Hair Clip Assortment\";blankcream. Source SIXwhitecards each TWO horizontal elongatedgoldtonehairbarrettes, totalTWELVEhairclips. Everyfullview01/02/03/05 showALLSIXwholecards+ALL12clips arranged2columns3rows. Preserveactualdecorativemotifshapes/colours/countperbar asreference; not singlemotifindividualclips. Eachbar adornedrowofoutlinedgoldflowers with roundpearl-likebrightcentres. Sixcardpalette sourcetoptobottom: purple,mixedblueorangevioletpink,hotpink,coralorange,lightblue,palepink. Preservegoldflowerpetaloutlines and roundcentres. Removehand/store/plasticglare/pricebanner. WholeassortmentONEproduct, preserve12barrettes not12cards. Lifestyleall6cardslaidoutonvanity, no hairwearsingleclip substitute. Promoaccurateheadingandallsixcards. Tightmacro notwholeassortment. Websitequality.",
+      "sha256": "696ac2be74e6ca3a2149cfa2e04129332182afecfd20224adbefa534fddc3e6b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-383a6c92-bcaa-496e-a81b-3db222cdec4c.png",
+      "grid_sha256": "d05f0206e9443580878c80d50107ea120cf84409f8d32b20454b0a50ccdbd115",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        700,
+        180,
+        925
+      ],
+      "visual_review": "Sixcards eachtwofourmotifbarrettes,12clips actualcolours/forms; correctedtruecellmapping forwhite/styled/lifestyle, standalone mechanicaltightactualmotifmacro."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-383a6c92-bcaa-496e-a81b-3db222cdec4c.png",
+      "prompt": "Native edit referenced actualsource into1536x1024grid 3columns2rows512cells. Top:WHITEbackground;lavendercreamstyled;lifestylehairaccessoryvanity. Bottom:TIGHTstandalone realpartmacro ofONEdecorativemotif andgoldbarattachment;promotional withheading \"Flower Hair Clip Assortment\";blankcream. Source SIXwhitecards each TWO horizontal elongatedgoldtonehairbarrettes, totalTWELVEhairclips. Everyfullview01/02/03/05 showALLSIXwholecards+ALL12clips arranged2columns3rows. Preserveactualdecorativemotifshapes/colours/countperbar asreference; not singlemotifindividualclips. Eachbar adornedrowofoutlinedgoldflowers with roundpearl-likebrightcentres. Sixcardpalette sourcetoptobottom: purple,mixedblueorangevioletpink,hotpink,coralorange,lightblue,palepink. Preservegoldflowerpetaloutlines and roundcentres. Removehand/store/plasticglare/pricebanner. WholeassortmentONEproduct, preserve12barrettes not12cards. Lifestyleall6cardslaidoutonvanity, no hairwearsingleclip substitute. Promoaccurateheadingandallsixcards. Tightmacro notwholeassortment. Websitequality.",
+      "sha256": "969c7d439c550d8ae42dddfbbcb39f99d78234bc8523b0e9869e68be3e7bbfa4",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-383a6c92-bcaa-496e-a81b-3db222cdec4c.png",
+      "grid_sha256": "d05f0206e9443580878c80d50107ea120cf84409f8d32b20454b0a50ccdbd115",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        516,
+        634,
+        1024,
+        1024
+      ],
+      "visual_review": "Promo lacks wholeassortment; onecorrective."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-d77c992b-d6f1-4155-b647-8935a8810bfd.png",
+      "source_output": "/workspace/generated_images/exec-d77c992b-d6f1-4155-b647-8935a8810bfd.png",
+      "sha256": "98e633532997ce930db5f3d6f09dea29f7af83e29a6790afdc2cc1a10c27b730",
+      "prompt": "Native edit referenced actualsource into1536x1024grid 3columns2rows512cells. Top:WHITEbackground;lavendercreamstyled;lifestylehairaccessoryvanity. Bottom:TIGHTstandalone realpartmacro ofONEdecorativemotif andgoldbarattachment;promotional withheading \"Flower Hair Clip Assortment\";blankcream. Source SIXwhitecards each TWO horizontal elongatedgoldtonehairbarrettes, totalTWELVEhairclips. Everyfullview01/02/03/05 showALLSIXwholecards+ALL12clips arranged2columns3rows. Preserveactualdecorativemotifshapes/colours/countperbar asreference; not singlemotifindividualclips. Eachbar adornedrowofoutlinedgoldflowers with roundpearl-likebrightcentres. Sixcardpalette sourcetoptobottom: purple,mixedblueorangevioletpink,hotpink,coralorange,lightblue,palepink. Preservegoldflowerpetaloutlines and roundcentres. Removehand/store/plasticglare/pricebanner. WholeassortmentONEproduct, preserve12barrettes not12cards. Lifestyleall6cardslaidoutonvanity, no hairwearsingleclip substitute. Promoaccurateheadingandallsixcards. Tightmacro notwholeassortment. Websitequality. CRITICAL bottommiddlePROMO mustcontainALLSIXcards12clips PLUSsmallaccurateheading. Notonebarrette/nottextonly. Allotherexistingvalidcropspreserved. Nativegrid same3x2boundaries x512/1024 y512. Focuspromocompleteassortment6cards.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-d77c992b-d6f1-4155-b647-8935a8810bfd.png",
+      "prompt": "Native edit referenced actualsource into1536x1024grid 3columns2rows512cells. Top:WHITEbackground;lavendercreamstyled;lifestylehairaccessoryvanity. Bottom:TIGHTstandalone realpartmacro ofONEdecorativemotif andgoldbarattachment;promotional withheading \"Flower Hair Clip Assortment\";blankcream. Source SIXwhitecards each TWO horizontal elongatedgoldtonehairbarrettes, totalTWELVEhairclips. Everyfullview01/02/03/05 showALLSIXwholecards+ALL12clips arranged2columns3rows. Preserveactualdecorativemotifshapes/colours/countperbar asreference; not singlemotifindividualclips. Eachbar adornedrowofoutlinedgoldflowers with roundpearl-likebrightcentres. Sixcardpalette sourcetoptobottom: purple,mixedblueorangevioletpink,hotpink,coralorange,lightblue,palepink. Preservegoldflowerpetaloutlines and roundcentres. Removehand/store/plasticglare/pricebanner. WholeassortmentONEproduct, preserve12barrettes not12cards. Lifestyleall6cardslaidoutonvanity, no hairwearsingleclip substitute. Promoaccurateheadingandallsixcards. Tightmacro notwholeassortment. Websitequality. CRITICAL bottommiddlePROMO mustcontainALLSIXcards12clips PLUSsmallaccurateheading. Notonebarrette/nottextonly. Allotherexistingvalidcropspreserved. Nativegrid same3x2boundaries x512/1024 y512. Focuspromocompleteassortment6cards.",
+      "sha256": "3b19828962626077590e6d68b84d2ab6f389fc45a052fc917b5421d631f87200",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-d77c992b-d6f1-4155-b647-8935a8810bfd.png",
+      "grid_sha256": "98e633532997ce930db5f3d6f09dea29f7af83e29a6790afdc2cc1a10c27b730",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Sixcards12flowerbars with fourflowers/bar actualcolours plusaccurateheading."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "05_Promotional.png": 1
+  },
+  "originals_verified_against_frozen_plan": true
+}

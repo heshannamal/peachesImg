@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250305-WA0388.jpg": "08fa9af4eff03f579d33204150060dc2522669e4f20b7929990293b66832e1eb"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-184f9973-8420-4ce2-8232-fc60c005c9bc.png",
+      "prompt": "Single website product photograph of exact source packaged SIX four-lobed fabric butterfly/bow hairclips on THREE frontwhitecards, brownleft creamright on eachcard. Ribbedcorduroy with darkpolkadots and small gingham bowcenter, brownblackcheckedleft and blackwhitecheckedright. Preserveexact6clipcount, actual4wingloops, textures, colours, whiteprintedcards/clearbag and originalrearpartialclips/overlap. Remove hand/shop/30CARD sticker only. No extra clips/inventedhiddenparts/newtext. Pure white seamless studio background soft shadow fullpacketvisible.",
+      "sha256": "4fef6bb38af073bfc0ee9eabec837ff4ede087054c8418452ba7b2bc717f2c42",
+      "checked": true,
+      "visual_review": "Actual white output compared original: six frontclips on three cards, cream/brown count/order, four-lobed fabric forms and centredecorations retained; original partialrearcards/package preserved."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-fbe8c78e-b188-46d9-9703-27945231f42c.png",
+      "prompt": "Single website product photograph of exact source packaged SIX four-lobed fabric butterfly/bow hairclips on THREE frontwhitecards, brownleft creamright on eachcard. Ribbedcorduroy with darkpolkadots and small gingham bowcenter, brownblackcheckedleft and blackwhitecheckedright. Preserveexact6clipcount, actual4wingloops, textures, colours, whiteprintedcards/clearbag and originalrearpartialclips/overlap. Remove hand/shop/30CARD sticker only. No extra clips/inventedhiddenparts/newtext. Lavender and cream seamless studio background soft shadow entirepacketvisible. ONEimage no panels.",
+      "sha256": "40a6652e00f9abb9001f3b28dae9e3db02569847c41ad7e6a2d05f341a5c2a82",
+      "checked": true,
+      "visual_review": "Actual styled output viewed: six front clips on three cards and rear partials retained, cream/brown dotted ribbed fabric fourlobes and original flower/gingham centres preserved; lavendercream setting."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-5c973679-3231-451e-8cb9-5dc9a647ff8e.png",
+      "prompt": "Single website product photograph of exact source packaged SIX four-lobed fabric butterfly/bow hairclips on THREE frontwhitecards, brownleft creamright on eachcard. Ribbedcorduroy with darkpolkadots and small gingham bowcenter, brownblackcheckedleft and blackwhitecheckedright. Preserveexact6clipcount, actual4wingloops, textures, colours, whiteprintedcards/clearbag and originalrearpartialclips/overlap. Remove hand/shop/30CARD sticker only. No extra clips/inventedhiddenparts/newtext. Lifestyle photo of whole originalpacket on creamdressingtable with softly blurred lavenderbedroom behind. ONE continuous photograph no collage/panels/duplicate packet.",
+      "sha256": "492998ddf71a908b7567f11bd98e8556d606a8912e2e6a9c17017f7a26b25f7f",
+      "checked": true,
+      "visual_review": "Actual lifestyle output compared source: one packet with six front cream/brown four-lobed fabricclips and original centres, rearpartialclips/cards/clearwrap retained; no duplicated packet or collage."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-34bf5942-3ae2-4e51-aa66-31be0c13660c.png",
+      "prompt": "Standalone tight macro photo of original brown dotted ribbed fabric butterflyhairclip central small brownblack gingham bow and adjoining corduroywingloops. Preserve exact visible material/shape/colour and original backingcard/clearwrap. Croponlyrealpart, nofullassortment/newparts/text.",
+      "sha256": "bf8ceee99a7c2d465fce8dc543ff8feebff5ae57083a461f6cc671d7e011212a",
+      "checked": true,
+      "visual_review": "Actual standalone tightmacro inspected against original visible clip: original corduroy/dot texture, fourlobed form and resinflower/strawberry or ginghambowcentre retained; no invented hiddenparts."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-2bd3d4c3-4ac9-44d6-96a1-333b34e19aa1.png",
+      "prompt": "Single website product photograph of exact source packaged SIX four-lobed fabric butterfly/bow hairclips on THREE frontwhitecards, brownleft creamright on eachcard. Ribbedcorduroy with darkpolkadots and small gingham bowcenter, brownblackcheckedleft and blackwhitecheckedright. Preserveexact6clipcount, actual4wingloops, textures, colours, whiteprintedcards/clearbag and originalrearpartialclips/overlap. Remove hand/shop/30CARD sticker only. No extra clips/inventedhiddenparts/newtext. Promotional photo: wholepacket on lavendercream studio, small heading FABRIC HAIR CLIPS in cleartopmargin, no price. ONEcontinuousimage no panels.",
+      "sha256": "92e26ec5f951ef8d206618418a881e5a8ed5c68aa6057ac4b6ce645a1dfd18f1",
+      "checked": true,
+      "visual_review": "Viewed actual promo compared original: sixfront clips/threecards, colours/dottedcorduroy/centredecorations retained; FABRIC HAIR CLIPS accurateheading."
+    }
+  ],
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

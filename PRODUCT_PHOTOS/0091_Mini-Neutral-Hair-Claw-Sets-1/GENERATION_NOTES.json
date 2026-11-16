@@ -1,0 +1,50 @@
+{
+  "product_id": "0091",
+  "original_hashes": {
+    "Originals/IMG-20250128-WA0333.jpg": "a6721a5f7e1ce56931b8c1b5e2f9e3d562de3931af80e721753a5ba0439f9217"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "cache_source": "/workspace/generated_images/exec-3114e980-9e42-494d-8e09-7fb3a22a0063.png",
+      "sha256": "f1d2d3db22e226466ef4570adc507b1055395d4638e9ea44a29564a3c3a8b4f3",
+      "checked": true,
+      "visual_check": "Passed: twelve cards four rows three each with four mini rectangular claws two-by-two and three ties, correct neutral colour rows and original packaging, no price overlay.",
+      "prompt_source": "_Review/RUN_100_worker_3_PROMPTS.json"
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "cache_source": "/workspace/generated_images/exec-52606819-09a8-44f7-9da8-92f1a4cf2f03.png",
+      "sha256": "d0b16c2c479513f09afe379edf7968d8a966f67af4917d2c0117bd52b7089a3c",
+      "checked": true,
+      "visual_check": "Passed: twelve cards correct four neutral rows, four mini claws and three ties per card original packaging, cream lavender scene no price.",
+      "prompt_source": "_Review/RUN_100_worker_3_PROMPTS.json"
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "cache_source": "/workspace/generated_images/exec-0fec0645-4514-4b09-a825-5d300be7e74a.png",
+      "sha256": "76c99d8707f87df08c6100ebd7006ed1bbe407fbfd181fe6b439d86abed39cd9",
+      "checked": true,
+      "visual_check": "Passed: twelve cards exact four rows three and per-card four claws three ties, neutral colour rows packaging retained, home vanity no hands price or unpacking.",
+      "prompt_source": "_Review/RUN_100_worker_3_PROMPTS.json"
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "cache_source": "/workspace/generated_images/exec-b1194b82-ffb9-4f7c-931b-353b6df0f6b4.png",
+      "sha256": "52a1d7b3fd695efa660e0cbc85a81c15214ccff54853fe0b3c2a47f6005664ab",
+      "checked": true,
+      "visual_check": "Passed tight macro original cream mini rectangular claw set card and brown olive mustard ties, four claws shown same front and material, no invented hidden view or price.",
+      "prompt_source": "_Review/RUN_100_worker_3_PROMPTS.json"
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "cache_source": "/workspace/generated_images/exec-e2565f28-916c-446d-85b7-53e1c69d51aa.png",
+      "sha256": "e182b432b66b98175730a4e131bd14d1d648b3c40bb5e1b8f156c3160817dd35",
+      "checked": true,
+      "visual_check": "Passed twelve complete cards four-by-three each four claws three ties correct neutral rows and packaging, clear plum heading PRODUCT COLLECTION no price.",
+      "prompt_source": "_Review/RUN_100_worker_3_PROMPTS.json"
+    }
+  ],
+  "status": "complete",
+  "original_hashes_verified": true
+}

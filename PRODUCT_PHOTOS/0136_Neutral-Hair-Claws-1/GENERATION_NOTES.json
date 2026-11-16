@@ -1,0 +1,51 @@
+{
+  "tool": "built-in image_gen",
+  "status": "five images generated and visually checked",
+  "original_hashes": {
+    "Originals/IMG-20250205-WA0729.jpg": "2eb99fe54b4951d1ff444dc8d1175972791f69001954e808f6a7ac557b26743b"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-56888777-117d-4f79-baef-0c4f6c0b71fc.png",
+      "prompt": "Edit reference into ONE clean realistic ecommerce product photo. Two long pink-striped Accessory backing cards,10furry triangular snap hair clips on EACH card,20total, inside clear sleeves. Exact original sequence and beige/white/black/brown/dusty-pink colours, original bear,bunny and smiley-flower small charms. These are furry snap clips, NOT hair claws. Preserve exact shapes,count,printing,arrangement and packaging. Whole assortment ONE product. Pure white seamless background, soft contact shadows, full assortment inside frame, natural front view. Remove hand,shop,price overlays,ruler and handwritten notes. Preserve identity,count,shape,material,colours and arrangement. No extra products,parts or imagined reverse views.",
+      "sha256": "33de5c19ee317f7edc1e1cc4e55673f9a6c12c67270d68f21bba6b4aad457321",
+      "checked": true,
+      "visual_review": "Two clear-wrapped cards of furry triangle snap clips with bear,bunny and smiley flower charms retain count and neutral/pink colours."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-223dceb6-68d6-4261-ba0c-517c4a44241c.png",
+      "prompt": "ONE realistic website styled-background product photo of exact reference. Two long pink-striped Accessory backing cards,10furry triangular snap hair clips on EACH card,20total, inside clear sleeves. Exact original sequence and beige/white/black/brown/dusty-pink colours, original bear,bunny and smiley-flower small charms. These are furry snap clips, NOT hair claws. Preserve exact shapes,count,printing,arrangement and packaging. Entire assortment ONE product. Full product within frame on warm cream surface with lavender cloth accents outside product. Preserve count,identity,shape,colour,material,package and arrangement. Remove hand,shop,price,ruler/notes. No extra products or invented parts/views.",
+      "sha256": "5355d0e6c48d950cc28448030c11dacb0a05e93ed55431e4ccc14ee05391ad56",
+      "checked": true,
+      "visual_review": "Two clear-wrapped cards of furry triangle snap clips with bear,bunny and smiley flower charms retain count and neutral/pink colours. Cream lavender styling checked; website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-6d281242-6fb9-40f2-9bc4-a3ef35fa442e.png",
+      "prompt": "ONE realistic website lifestyle product photo of exact reference. Two pink-striped Accessory cards,10furry triangular snap hair clips EACH,20total in clear sleeves. Exact original sequence beige/white/black/brown/dusty-pink colours and bear,bunny,smiley-flower charms. Furry snap clips NOT claws. Preserve shape,count,original arrangement and packaging. Entire assortment ONE product,full set visible on cream vanity with lavender linen and closed book well beyond product edges,soft daylight. Preserve count,identity,shape,colour,material,package and arrangement. Remove hand,shop,price,ruler/notes. No people,extra products,invented parts or reverse views.",
+      "sha256": "b870757b2238062369b334f1b1855a48db3757f46c5358dc2ecb274f4f58f11e",
+      "checked": true,
+      "visual_review": "Two cards retain10furry triangular clips each, original charm subjects and white/neutral/dusty-pink/black colours; lifestyle scene unobscured."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-03f50794-048a-4390-87e3-a082b67bd4a1.png",
+      "prompt": "ONE realistic TIGHT MACRO product-detail photograph of exact reference. Two pink-striped Accessory cards,10furry triangular snap hair clips EACH,20total in clear sleeves. Exact original sequence beige/white/black/brown/dusty-pink colours and bear,bunny,smiley-flower charms. Furry snap clips NOT claws. Preserve shape,count,original arrangement and packaging. DETAILONLY zoom tightly on brown furry triangular clip with smiley flower charm. Crop most of full assortment out; must be closeup detail not full pack. Preserve original visible material,shape,colour,construction. No extra products,parts,imagined backs. Remove hand,shop,price,ruler/notes,soft cream light.",
+      "sha256": "dec9b764e7525113995cc5abd6537adb6054e08859942a71a73ad7ae590f2aa2",
+      "checked": true,
+      "visual_review": "Tight detail viewed against reference: brown furry triangular clip with smiley flower charm retains original visible shape,colour and material. Not a full-assortment image."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-e50c8cd4-486b-4fcf-9efc-a35adc01e0b1.png",
+      "prompt": "Promotional exact original entire furry clip assortment on cream lavender, compact dark plum actual product heading and PRODUCT COLLECTION, preserve count shape colour material packaging; remove hand shop price.",
+      "sha256": "08f488dd74d9b2f60b1f6c12eb599b5a58e7e0f07fa99f2b95a3948921bd450f",
+      "checked": true,
+      "visual_review": "Two cards retain10furry triangular snap clips each, original neutral/dusty-pink colours and charm subjects; promotional heading clear."
+    }
+  ],
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "original_hashes_verified": true
+}

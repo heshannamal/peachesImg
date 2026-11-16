@@ -1,0 +1,51 @@
+{
+  "status": "finished_with_review_and_moderation_blockers",
+  "started_at": "2026-11-10T03:20:32.478660+00:00",
+  "max_active_products": 10,
+  "processing_order": "descending_numeric_product_id",
+  "generation_workflow": "one_native3x2grid_then_five_crops",
+  "updated_at": "2026-11-12T13:57:50.956165+00:00",
+  "target_products": 100,
+  "target_images": 500,
+  "completed_products": 88,
+  "partial_products": 8,
+  "pending_products": 0,
+  "blocked_products": 4,
+  "saved_images": 480,
+  "checked_images": 452,
+  "paused_at": "2026-11-10T12:39:17.312513+00:00",
+  "in_flight_calls": 0,
+  "active_products": 0,
+  "resume_rule": "Queueexhausted; no pendingproducts. Preserve88complete. Eightpartialproducts havespentcorrectives;4moderationblocks no retry. Newqueue requiresnextauthorizedscope.",
+  "spent_corrective_product_ids": [
+    "2618",
+    "2614",
+    "2606",
+    "2571",
+    "2566",
+    "2563",
+    "2539",
+    "2530"
+  ],
+  "recovered_cache_products": [
+    "2607",
+    "2606",
+    "2603"
+  ],
+  "resumed_at": "2026-11-12T13:44:13.797244+00:00",
+  "prompt_recovery_update": "2607 exact corrective prompt recovered and recorded in all matching records.",
+  "previous_blocker": {
+    "type": "worker_model_usage_limit",
+    "observed_error": "You have hit your usage limit. Try again at11:13AM.",
+    "timezone_unspecified": true,
+    "native_image429_observed": false
+  },
+  "native_availability_probe": "2531 freshnativecall succeeded Nov12;5workersresumed",
+  "finished_at": "2026-11-12T13:58:33.607049+00:00",
+  "blocked_product_ids": [
+    "2554",
+    "2542",
+    "2525",
+    "2524"
+  ]
+}

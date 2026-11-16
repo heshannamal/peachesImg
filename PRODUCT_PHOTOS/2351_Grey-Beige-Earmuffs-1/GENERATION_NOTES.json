@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260820-WA0335.jpg": "d2e74141ce52d5e390e70d1f50a64b922a2b60e042324b1782ca9c58308cd214"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-cb2ea9e0-8202-404e-8f0f-fb1ffdae82da.png",
+      "source_output": "/workspace/generated_images/exec-cb2ea9e0-8202-404e-8f0f-fb1ffdae82da.png",
+      "sha256": "d87728e578f3bf4ffa608fd96746972b7f484b0419f1175953a6807ed7faecef",
+      "prompt": "Native original-referenced product edit only. NEW website realistic photography1536x1024landscape exact3columns x2rows equal512squarecells no gutters/borders/labels. Top-left exactwhole6earmuffassortment white. Top-middle same6 lavender/cream styled. Top-right same6 on winteraccessorytable lifestyle no extra earmuffs. Bottom-left standalone TIGHT actual fluffy earcup/embroideredfacepart macro notwholeassortment. Bottom-middle same6 promo accurateheading 'Soft Earmuff Collection'. Bottom-right blankcream unused. Preserve EXACT SIX separate earmuffsets eachheadband+2earcups, sourcecolours/faceprints/poses. Three plainpairs inbackrow with uprightarchedheadbands, three embroideredfacepairs frontrow with lowfoldedheadbands. Do not turntheseinto12 individualsets, no extras/missing, no invented faces on plainones. Sourceis marketingposter remove headings/price/claims/icons outsideproducts. Allsixfullyinframe eachfullview. Preserve fluffytexture.\nBackrow leftCREAM/WHITE plain,centreBEIGE plain,rightPALEPINK plain. Frontrow leftDUSTYBLUE with embroideredbigeyes/smilingfaceand small paleyellowfloralpatches,centreveryPALEBLUSHPINK facepair,rightPALEPINK facepair. Preserve original subtlepinkshades and sourceearcuporientation.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-cb2ea9e0-8202-404e-8f0f-fb1ffdae82da.png",
+      "prompt": "Native original-referenced product edit only. NEW website realistic photography1536x1024landscape exact3columns x2rows equal512squarecells no gutters/borders/labels. Top-left exactwhole6earmuffassortment white. Top-middle same6 lavender/cream styled. Top-right same6 on winteraccessorytable lifestyle no extra earmuffs. Bottom-left standalone TIGHT actual fluffy earcup/embroideredfacepart macro notwholeassortment. Bottom-middle same6 promo accurateheading 'Soft Earmuff Collection'. Bottom-right blankcream unused. Preserve EXACT SIX separate earmuffsets eachheadband+2earcups, sourcecolours/faceprints/poses. Three plainpairs inbackrow with uprightarchedheadbands, three embroideredfacepairs frontrow with lowfoldedheadbands. Do not turntheseinto12 individualsets, no extras/missing, no invented faces on plainones. Sourceis marketingposter remove headings/price/claims/icons outsideproducts. Allsixfullyinframe eachfullview. Preserve fluffytexture.\nBackrow leftCREAM/WHITE plain,centreBEIGE plain,rightPALEPINK plain. Frontrow leftDUSTYBLUE with embroideredbigeyes/smilingfaceand small paleyellowfloralpatches,centreveryPALEBLUSHPINK facepair,rightPALEPINK facepair. Preserve original subtlepinkshades and sourceearcuporientation.",
+      "sha256": "de0fc43460f96dabc1c1025f147efb8eea38772d456a86d71a441775b2b38aa8",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-cb2ea9e0-8202-404e-8f0f-fb1ffdae82da.png",
+      "grid_sha256": "d87728e578f3bf4ffa608fd96746972b7f484b0419f1175953a6807ed7faecef",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual five saved crops inspected: six original earmuffsets, source3back/3front arrangement, distinctcolours and embroideredfrontfaces retained. Entireassortment inwhite/lavendercream/wintertable/promo, tightactualfluffy embroideredearcuppart macro. Accurateheading, correct512boundaries."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-cb2ea9e0-8202-404e-8f0f-fb1ffdae82da.png",
+      "prompt": "Native original-referenced product edit only. NEW website realistic photography1536x1024landscape exact3columns x2rows equal512squarecells no gutters/borders/labels. Top-left exactwhole6earmuffassortment white. Top-middle same6 lavender/cream styled. Top-right same6 on winteraccessorytable lifestyle no extra earmuffs. Bottom-left standalone TIGHT actual fluffy earcup/embroideredfacepart macro notwholeassortment. Bottom-middle same6 promo accurateheading 'Soft Earmuff Collection'. Bottom-right blankcream unused. Preserve EXACT SIX separate earmuffsets eachheadband+2earcups, sourcecolours/faceprints/poses. Three plainpairs inbackrow with uprightarchedheadbands, three embroideredfacepairs frontrow with lowfoldedheadbands. Do not turntheseinto12 individualsets, no extras/missing, no invented faces on plainones. Sourceis marketingposter remove headings/price/claims/icons outsideproducts. Allsixfullyinframe eachfullview. Preserve fluffytexture.\nBackrow leftCREAM/WHITE plain,centreBEIGE plain,rightPALEPINK plain. Frontrow leftDUSTYBLUE with embroideredbigeyes/smilingfaceand small paleyellowfloralpatches,centreveryPALEBLUSHPINK facepair,rightPALEPINK facepair. Preserve original subtlepinkshades and sourceearcuporientation.",
+      "sha256": "c887d5020f21745fe75255b14aee81b029e25161cdd558f661d784ff907c0fd9",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-cb2ea9e0-8202-404e-8f0f-fb1ffdae82da.png",
+      "grid_sha256": "d87728e578f3bf4ffa608fd96746972b7f484b0419f1175953a6807ed7faecef",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual five saved crops inspected: six original earmuffsets, source3back/3front arrangement, distinctcolours and embroideredfrontfaces retained. Entireassortment inwhite/lavendercream/wintertable/promo, tightactualfluffy embroideredearcuppart macro. Accurateheading, correct512boundaries."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-cb2ea9e0-8202-404e-8f0f-fb1ffdae82da.png",
+      "prompt": "Native original-referenced product edit only. NEW website realistic photography1536x1024landscape exact3columns x2rows equal512squarecells no gutters/borders/labels. Top-left exactwhole6earmuffassortment white. Top-middle same6 lavender/cream styled. Top-right same6 on winteraccessorytable lifestyle no extra earmuffs. Bottom-left standalone TIGHT actual fluffy earcup/embroideredfacepart macro notwholeassortment. Bottom-middle same6 promo accurateheading 'Soft Earmuff Collection'. Bottom-right blankcream unused. Preserve EXACT SIX separate earmuffsets eachheadband+2earcups, sourcecolours/faceprints/poses. Three plainpairs inbackrow with uprightarchedheadbands, three embroideredfacepairs frontrow with lowfoldedheadbands. Do not turntheseinto12 individualsets, no extras/missing, no invented faces on plainones. Sourceis marketingposter remove headings/price/claims/icons outsideproducts. Allsixfullyinframe eachfullview. Preserve fluffytexture.\nBackrow leftCREAM/WHITE plain,centreBEIGE plain,rightPALEPINK plain. Frontrow leftDUSTYBLUE with embroideredbigeyes/smilingfaceand small paleyellowfloralpatches,centreveryPALEBLUSHPINK facepair,rightPALEPINK facepair. Preserve original subtlepinkshades and sourceearcuporientation.",
+      "sha256": "66f657efba189ad7e71a9aacf79b293ee3e97844eb9967313a0aee18dc4346a1",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-cb2ea9e0-8202-404e-8f0f-fb1ffdae82da.png",
+      "grid_sha256": "d87728e578f3bf4ffa608fd96746972b7f484b0419f1175953a6807ed7faecef",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual five saved crops inspected: six original earmuffsets, source3back/3front arrangement, distinctcolours and embroideredfrontfaces retained. Entireassortment inwhite/lavendercream/wintertable/promo, tightactualfluffy embroideredearcuppart macro. Accurateheading, correct512boundaries."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-cb2ea9e0-8202-404e-8f0f-fb1ffdae82da.png",
+      "prompt": "Native original-referenced product edit only. NEW website realistic photography1536x1024landscape exact3columns x2rows equal512squarecells no gutters/borders/labels. Top-left exactwhole6earmuffassortment white. Top-middle same6 lavender/cream styled. Top-right same6 on winteraccessorytable lifestyle no extra earmuffs. Bottom-left standalone TIGHT actual fluffy earcup/embroideredfacepart macro notwholeassortment. Bottom-middle same6 promo accurateheading 'Soft Earmuff Collection'. Bottom-right blankcream unused. Preserve EXACT SIX separate earmuffsets eachheadband+2earcups, sourcecolours/faceprints/poses. Three plainpairs inbackrow with uprightarchedheadbands, three embroideredfacepairs frontrow with lowfoldedheadbands. Do not turntheseinto12 individualsets, no extras/missing, no invented faces on plainones. Sourceis marketingposter remove headings/price/claims/icons outsideproducts. Allsixfullyinframe eachfullview. Preserve fluffytexture.\nBackrow leftCREAM/WHITE plain,centreBEIGE plain,rightPALEPINK plain. Frontrow leftDUSTYBLUE with embroideredbigeyes/smilingfaceand small paleyellowfloralpatches,centreveryPALEBLUSHPINK facepair,rightPALEPINK facepair. Preserve original subtlepinkshades and sourceearcuporientation.",
+      "sha256": "ee549e72950f5b0381e46c91b9c0b6fac039a1951043deef39add2ef6e6017ae",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-cb2ea9e0-8202-404e-8f0f-fb1ffdae82da.png",
+      "grid_sha256": "d87728e578f3bf4ffa608fd96746972b7f484b0419f1175953a6807ed7faecef",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual five saved crops inspected: six original earmuffsets, source3back/3front arrangement, distinctcolours and embroideredfrontfaces retained. Entireassortment inwhite/lavendercream/wintertable/promo, tightactualfluffy embroideredearcuppart macro. Accurateheading, correct512boundaries."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-cb2ea9e0-8202-404e-8f0f-fb1ffdae82da.png",
+      "prompt": "Native original-referenced product edit only. NEW website realistic photography1536x1024landscape exact3columns x2rows equal512squarecells no gutters/borders/labels. Top-left exactwhole6earmuffassortment white. Top-middle same6 lavender/cream styled. Top-right same6 on winteraccessorytable lifestyle no extra earmuffs. Bottom-left standalone TIGHT actual fluffy earcup/embroideredfacepart macro notwholeassortment. Bottom-middle same6 promo accurateheading 'Soft Earmuff Collection'. Bottom-right blankcream unused. Preserve EXACT SIX separate earmuffsets eachheadband+2earcups, sourcecolours/faceprints/poses. Three plainpairs inbackrow with uprightarchedheadbands, three embroideredfacepairs frontrow with lowfoldedheadbands. Do not turntheseinto12 individualsets, no extras/missing, no invented faces on plainones. Sourceis marketingposter remove headings/price/claims/icons outsideproducts. Allsixfullyinframe eachfullview. Preserve fluffytexture.\nBackrow leftCREAM/WHITE plain,centreBEIGE plain,rightPALEPINK plain. Frontrow leftDUSTYBLUE with embroideredbigeyes/smilingfaceand small paleyellowfloralpatches,centreveryPALEBLUSHPINK facepair,rightPALEPINK facepair. Preserve original subtlepinkshades and sourceearcuporientation.",
+      "sha256": "88c37be8b6acc36a3d33c5665dea7400a3fc2c50b387021281267cc5fd0bd746",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-cb2ea9e0-8202-404e-8f0f-fb1ffdae82da.png",
+      "grid_sha256": "d87728e578f3bf4ffa608fd96746972b7f484b0419f1175953a6807ed7faecef",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual five saved crops inspected: six original earmuffsets, source3back/3front arrangement, distinctcolours and embroideredfrontfaces retained. Entireassortment inwhite/lavendercream/wintertable/promo, tightactualfluffy embroideredearcuppart macro. Accurateheading, correct512boundaries."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Six fluffy earmuffs;backcream/beige/pink,frontblueface/palepinkface/pinkface",
+  "original_baseline_verified": true
+}

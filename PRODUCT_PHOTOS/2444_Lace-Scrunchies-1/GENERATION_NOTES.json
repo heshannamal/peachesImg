@@ -1,0 +1,126 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260919-WA0168.jpg": "1931a5ff43999234d01cca98c1c9a52fe2ff0ee96a3801e095ee26c29e455241"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-1a111a0b-d848-416a-b051-df280550e17e.png",
+      "source_output": "/workspace/generated_images/exec-1a111a0b-d848-416a-b051-df280550e17e.png",
+      "sha256": "b2b15f4f32c41a9aaff3ad929e4293724625f974c6d01b8b2d48fb59f572a983",
+      "prompt": "Native faithful edit of supplied actual product photo into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells; exactsplitx512,x1024,y512. WHOLEassortment ONEproduct,preserve originalcount/identity/shapes/colours/texture. Removehand,store,cardboard,floatingpriceoverlay only. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightREALPARTmacro only,promofullassortmentaccurateheading,blankcreamunused. No missing/addedunits orstocksubstitutes. Actualoriginalbundledruffledorganza/chiffonscrunchiehairties withtinycrystaldots,matchingelasticloops andattachediridescentroundbeads. Preserve24-pack visiblebundle and6colourgroups WHITE,PALEPINK,SKYBLUE,LAVENDER,BURGUNDY,BLACK. UnlikeotherassortmentNOlimegreen. Keep originalvisiblefolds/loop/beadarrangement,don'tinventhiddenunitsorconvertplainhairties. Showentirebundleall6coloursinfullcells. Detailtightactualwhiteorganza/crystal/bead/elasticpart. Heading 'Beaded Ruffle Scrunchies'.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-1a111a0b-d848-416a-b051-df280550e17e.png",
+      "prompt": "Native faithful edit of supplied actual product photo into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells; exactsplitx512,x1024,y512. WHOLEassortment ONEproduct,preserve originalcount/identity/shapes/colours/texture. Removehand,store,cardboard,floatingpriceoverlay only. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightREALPARTmacro only,promofullassortmentaccurateheading,blankcreamunused. No missing/addedunits orstocksubstitutes. Actualoriginalbundledruffledorganza/chiffonscrunchiehairties withtinycrystaldots,matchingelasticloops andattachediridescentroundbeads. Preserve24-pack visiblebundle and6colourgroups WHITE,PALEPINK,SKYBLUE,LAVENDER,BURGUNDY,BLACK. UnlikeotherassortmentNOlimegreen. Keep originalvisiblefolds/loop/beadarrangement,don'tinventhiddenunitsorconvertplainhairties. Showentirebundleall6coloursinfullcells. Detailtightactualwhiteorganza/crystal/bead/elasticpart. Heading 'Beaded Ruffle Scrunchies'.\n",
+      "sha256": "59fb973faffd39b9c1eecc90054a4eb11c27871c5c36b8e853371e163c339064",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1a111a0b-d848-416a-b051-df280550e17e.png",
+      "grid_sha256": "b2b15f4f32c41a9aaff3ad929e4293724625f974c6d01b8b2d48fb59f572a983",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Pass: sourcebundle6colourgroups white/pink/blue/lavender/burgundy/black retainedwithruffledorganza/crystaldots/elasticloops/iridescentbeads. Individual24tiesoccludedinbothsource/output;claimfromsourceoverlaynotindependentlycountable. Noadded/missingvisiblecolourcluster. Tightwhitefabric/beadmacro,accurateheading,clean512crops;frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-1a111a0b-d848-416a-b051-df280550e17e.png",
+      "prompt": "Native faithful edit of supplied actual product photo into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells; exactsplitx512,x1024,y512. WHOLEassortment ONEproduct,preserve originalcount/identity/shapes/colours/texture. Removehand,store,cardboard,floatingpriceoverlay only. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightREALPARTmacro only,promofullassortmentaccurateheading,blankcreamunused. No missing/addedunits orstocksubstitutes. Actualoriginalbundledruffledorganza/chiffonscrunchiehairties withtinycrystaldots,matchingelasticloops andattachediridescentroundbeads. Preserve24-pack visiblebundle and6colourgroups WHITE,PALEPINK,SKYBLUE,LAVENDER,BURGUNDY,BLACK. UnlikeotherassortmentNOlimegreen. Keep originalvisiblefolds/loop/beadarrangement,don'tinventhiddenunitsorconvertplainhairties. Showentirebundleall6coloursinfullcells. Detailtightactualwhiteorganza/crystal/bead/elasticpart. Heading 'Beaded Ruffle Scrunchies'.\n",
+      "sha256": "fcefa1f10563f2d01163428e3c88c4ebd19a09338d368f5559389d271f279c52",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1a111a0b-d848-416a-b051-df280550e17e.png",
+      "grid_sha256": "b2b15f4f32c41a9aaff3ad929e4293724625f974c6d01b8b2d48fb59f572a983",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Pass: sourcebundle6colourgroups white/pink/blue/lavender/burgundy/black retainedwithruffledorganza/crystaldots/elasticloops/iridescentbeads. Individual24tiesoccludedinbothsource/output;claimfromsourceoverlaynotindependentlycountable. Noadded/missingvisiblecolourcluster. Tightwhitefabric/beadmacro,accurateheading,clean512crops;frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-1a111a0b-d848-416a-b051-df280550e17e.png",
+      "prompt": "Native faithful edit of supplied actual product photo into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells; exactsplitx512,x1024,y512. WHOLEassortment ONEproduct,preserve originalcount/identity/shapes/colours/texture. Removehand,store,cardboard,floatingpriceoverlay only. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightREALPARTmacro only,promofullassortmentaccurateheading,blankcreamunused. No missing/addedunits orstocksubstitutes. Actualoriginalbundledruffledorganza/chiffonscrunchiehairties withtinycrystaldots,matchingelasticloops andattachediridescentroundbeads. Preserve24-pack visiblebundle and6colourgroups WHITE,PALEPINK,SKYBLUE,LAVENDER,BURGUNDY,BLACK. UnlikeotherassortmentNOlimegreen. Keep originalvisiblefolds/loop/beadarrangement,don'tinventhiddenunitsorconvertplainhairties. Showentirebundleall6coloursinfullcells. Detailtightactualwhiteorganza/crystal/bead/elasticpart. Heading 'Beaded Ruffle Scrunchies'.\n",
+      "sha256": "609db44115bbb0733a7681a5adf5d03a3127589832199053047d2b9c98ed879e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1a111a0b-d848-416a-b051-df280550e17e.png",
+      "grid_sha256": "b2b15f4f32c41a9aaff3ad929e4293724625f974c6d01b8b2d48fb59f572a983",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Pass: sourcebundle6colourgroups white/pink/blue/lavender/burgundy/black retainedwithruffledorganza/crystaldots/elasticloops/iridescentbeads. Individual24tiesoccludedinbothsource/output;claimfromsourceoverlaynotindependentlycountable. Noadded/missingvisiblecolourcluster. Tightwhitefabric/beadmacro,accurateheading,clean512crops;frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-1a111a0b-d848-416a-b051-df280550e17e.png",
+      "prompt": "Native faithful edit of supplied actual product photo into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells; exactsplitx512,x1024,y512. WHOLEassortment ONEproduct,preserve originalcount/identity/shapes/colours/texture. Removehand,store,cardboard,floatingpriceoverlay only. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightREALPARTmacro only,promofullassortmentaccurateheading,blankcreamunused. No missing/addedunits orstocksubstitutes. Actualoriginalbundledruffledorganza/chiffonscrunchiehairties withtinycrystaldots,matchingelasticloops andattachediridescentroundbeads. Preserve24-pack visiblebundle and6colourgroups WHITE,PALEPINK,SKYBLUE,LAVENDER,BURGUNDY,BLACK. UnlikeotherassortmentNOlimegreen. Keep originalvisiblefolds/loop/beadarrangement,don'tinventhiddenunitsorconvertplainhairties. Showentirebundleall6coloursinfullcells. Detailtightactualwhiteorganza/crystal/bead/elasticpart. Heading 'Beaded Ruffle Scrunchies'.\n",
+      "sha256": "f55fd62e1704034400a324975695d163fb750320df6a812d27957b8d29add5d2",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1a111a0b-d848-416a-b051-df280550e17e.png",
+      "grid_sha256": "b2b15f4f32c41a9aaff3ad929e4293724625f974c6d01b8b2d48fb59f572a983",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Pass: sourcebundle6colourgroups white/pink/blue/lavender/burgundy/black retainedwithruffledorganza/crystaldots/elasticloops/iridescentbeads. Individual24tiesoccludedinbothsource/output;claimfromsourceoverlaynotindependentlycountable. Noadded/missingvisiblecolourcluster. Tightwhitefabric/beadmacro,accurateheading,clean512crops;frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-1a111a0b-d848-416a-b051-df280550e17e.png",
+      "prompt": "Native faithful edit of supplied actual product photo into ONEwebsite-ready landscape1536x1024 borderless3columns2rows equal512squarecells; exactsplitx512,x1024,y512. WHOLEassortment ONEproduct,preserve originalcount/identity/shapes/colours/texture. Removehand,store,cardboard,floatingpriceoverlay only. Toprowwhite fullassortment,lavendercreamstyled fullassortment,naturalvanity fullassortment. Bottomrowstandalone tightREALPARTmacro only,promofullassortmentaccurateheading,blankcreamunused. No missing/addedunits orstocksubstitutes. Actualoriginalbundledruffledorganza/chiffonscrunchiehairties withtinycrystaldots,matchingelasticloops andattachediridescentroundbeads. Preserve24-pack visiblebundle and6colourgroups WHITE,PALEPINK,SKYBLUE,LAVENDER,BURGUNDY,BLACK. UnlikeotherassortmentNOlimegreen. Keep originalvisiblefolds/loop/beadarrangement,don'tinventhiddenunitsorconvertplainhairties. Showentirebundleall6coloursinfullcells. Detailtightactualwhiteorganza/crystal/bead/elasticpart. Heading 'Beaded Ruffle Scrunchies'.\n",
+      "sha256": "f83bfeef8896227dbecf226626e1705b5afae5848fabe024dca691e83d3d2b2c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1a111a0b-d848-416a-b051-df280550e17e.png",
+      "grid_sha256": "b2b15f4f32c41a9aaff3ad929e4293724625f974c6d01b8b2d48fb59f572a983",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Pass: sourcebundle6colourgroups white/pink/blue/lavender/burgundy/black retainedwithruffledorganza/crystaldots/elasticloops/iridescentbeads. Individual24tiesoccludedinbothsource/output;claimfromsourceoverlaynotindependentlycountable. Noadded/missingvisiblecolourcluster. Tightwhitefabric/beadmacro,accurateheading,clean512crops;frozenoriginal/outputSHAverified."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

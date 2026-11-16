@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260907-WA0170.jpg": "12e0af83160631eecd263ef16a006514483960bde9ff27da0d75d5bb0ce6f319",
+    "Originals/IMG-20260907-WA0171.jpg": "f9d30c7000dbc43c9512200bd52499698f68807f294ced74447ff7b6299ca5ac"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-0d25fa9f-ca04-473a-a6b0-8435fa300d64.png",
+      "source_output": "/workspace/generated_images/exec-0d25fa9f-ca04-473a-a6b0-8435fa300d64.png",
+      "sha256": "7fb9a39c7598c1f8cdb3f9a9ab940746b28859fe4cbd3f314e68ed4d73d4c844",
+      "prompt": "Native EDIT actual original into1536x1024 website3x2sheet x512/1024y512. Independent panels topfull product white, fullproductlavendercreamstyled, fullproductlifestyle; bottom standalone tight real-part macro, fullproductpromo accurateheading, blankcream. Preserve entire actual assortment exact count/identity/material/shapes/colours, no substitutions. Remove source price/shop clutter/surrounding marketing graphics. Full products stay within square panels with margins. ONE open rectangular transparent plastic box, hinged clear lid opening left, containing THREE horizontal rows of tightly packed thin glass bangles in repeating red green purple yellow cyan magenta colours with gold glitter borders as shown. Both sources are same box identical view, nottwo boxes. Preserve all visible thin rings and exact packed stripe order in all three rows; do not replace with loose stacks or reduce count. Macro tight actual cyan/magenta glass bangle edges and gold glitter texture, no whole assortment needed. Lifestyle on dressing table. Heading 'Colourful Glass Bangle Box'.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-0d25fa9f-ca04-473a-a6b0-8435fa300d64.png",
+      "prompt": "Native EDIT actual original into1536x1024 website3x2sheet x512/1024y512. Independent panels topfull product white, fullproductlavendercreamstyled, fullproductlifestyle; bottom standalone tight real-part macro, fullproductpromo accurateheading, blankcream. Preserve entire actual assortment exact count/identity/material/shapes/colours, no substitutions. Remove source price/shop clutter/surrounding marketing graphics. Full products stay within square panels with margins. ONE open rectangular transparent plastic box, hinged clear lid opening left, containing THREE horizontal rows of tightly packed thin glass bangles in repeating red green purple yellow cyan magenta colours with gold glitter borders as shown. Both sources are same box identical view, nottwo boxes. Preserve all visible thin rings and exact packed stripe order in all three rows; do not replace with loose stacks or reduce count. Macro tight actual cyan/magenta glass bangle edges and gold glitter texture, no whole assortment needed. Lifestyle on dressing table. Heading 'Colourful Glass Bangle Box'.",
+      "sha256": "62a32039898d835ce78f6b4b3f01fa81fd04dbec9d1ce810b9e76035f376b757",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0d25fa9f-ca04-473a-a6b0-8435fa300d64.png",
+      "grid_sha256": "7fb9a39c7598c1f8cdb3f9a9ab940746b28859fe4cbd3f314e68ed4d73d4c844",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected: one same transparent hinged box, three densely packed rows of thin source-colour glass bangles and gold glitter borders retained. Two originals duplicate same box, not extra product. Actual cyan/magenta/gold edge macro and accurate heading."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-0d25fa9f-ca04-473a-a6b0-8435fa300d64.png",
+      "prompt": "Native EDIT actual original into1536x1024 website3x2sheet x512/1024y512. Independent panels topfull product white, fullproductlavendercreamstyled, fullproductlifestyle; bottom standalone tight real-part macro, fullproductpromo accurateheading, blankcream. Preserve entire actual assortment exact count/identity/material/shapes/colours, no substitutions. Remove source price/shop clutter/surrounding marketing graphics. Full products stay within square panels with margins. ONE open rectangular transparent plastic box, hinged clear lid opening left, containing THREE horizontal rows of tightly packed thin glass bangles in repeating red green purple yellow cyan magenta colours with gold glitter borders as shown. Both sources are same box identical view, nottwo boxes. Preserve all visible thin rings and exact packed stripe order in all three rows; do not replace with loose stacks or reduce count. Macro tight actual cyan/magenta glass bangle edges and gold glitter texture, no whole assortment needed. Lifestyle on dressing table. Heading 'Colourful Glass Bangle Box'.",
+      "sha256": "04f3b3ff295f31b65e057ace2e256d1ab1a11f93a57c1dc64da18b7e6910716f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0d25fa9f-ca04-473a-a6b0-8435fa300d64.png",
+      "grid_sha256": "7fb9a39c7598c1f8cdb3f9a9ab940746b28859fe4cbd3f314e68ed4d73d4c844",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected: one same transparent hinged box, three densely packed rows of thin source-colour glass bangles and gold glitter borders retained. Two originals duplicate same box, not extra product. Actual cyan/magenta/gold edge macro and accurate heading."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-0d25fa9f-ca04-473a-a6b0-8435fa300d64.png",
+      "prompt": "Native EDIT actual original into1536x1024 website3x2sheet x512/1024y512. Independent panels topfull product white, fullproductlavendercreamstyled, fullproductlifestyle; bottom standalone tight real-part macro, fullproductpromo accurateheading, blankcream. Preserve entire actual assortment exact count/identity/material/shapes/colours, no substitutions. Remove source price/shop clutter/surrounding marketing graphics. Full products stay within square panels with margins. ONE open rectangular transparent plastic box, hinged clear lid opening left, containing THREE horizontal rows of tightly packed thin glass bangles in repeating red green purple yellow cyan magenta colours with gold glitter borders as shown. Both sources are same box identical view, nottwo boxes. Preserve all visible thin rings and exact packed stripe order in all three rows; do not replace with loose stacks or reduce count. Macro tight actual cyan/magenta glass bangle edges and gold glitter texture, no whole assortment needed. Lifestyle on dressing table. Heading 'Colourful Glass Bangle Box'.",
+      "sha256": "9ad6b82dd4d9c22ee1e78eccb17db8c362a53e627e0396cdc6020bd5a3caff90",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0d25fa9f-ca04-473a-a6b0-8435fa300d64.png",
+      "grid_sha256": "7fb9a39c7598c1f8cdb3f9a9ab940746b28859fe4cbd3f314e68ed4d73d4c844",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crop inspected: one same transparent hinged box, three densely packed rows of thin source-colour glass bangles and gold glitter borders retained. Two originals duplicate same box, not extra product. Actual cyan/magenta/gold edge macro and accurate heading."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-0d25fa9f-ca04-473a-a6b0-8435fa300d64.png",
+      "prompt": "Native EDIT actual original into1536x1024 website3x2sheet x512/1024y512. Independent panels topfull product white, fullproductlavendercreamstyled, fullproductlifestyle; bottom standalone tight real-part macro, fullproductpromo accurateheading, blankcream. Preserve entire actual assortment exact count/identity/material/shapes/colours, no substitutions. Remove source price/shop clutter/surrounding marketing graphics. Full products stay within square panels with margins. ONE open rectangular transparent plastic box, hinged clear lid opening left, containing THREE horizontal rows of tightly packed thin glass bangles in repeating red green purple yellow cyan magenta colours with gold glitter borders as shown. Both sources are same box identical view, nottwo boxes. Preserve all visible thin rings and exact packed stripe order in all three rows; do not replace with loose stacks or reduce count. Macro tight actual cyan/magenta glass bangle edges and gold glitter texture, no whole assortment needed. Lifestyle on dressing table. Heading 'Colourful Glass Bangle Box'.",
+      "sha256": "ceeb8a5c1d79c01ffaf5df10d56a4ae492b36397c461017fa013959ec4d2463b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0d25fa9f-ca04-473a-a6b0-8435fa300d64.png",
+      "grid_sha256": "7fb9a39c7598c1f8cdb3f9a9ab940746b28859fe4cbd3f314e68ed4d73d4c844",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crop inspected: one same transparent hinged box, three densely packed rows of thin source-colour glass bangles and gold glitter borders retained. Two originals duplicate same box, not extra product. Actual cyan/magenta/gold edge macro and accurate heading."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-0d25fa9f-ca04-473a-a6b0-8435fa300d64.png",
+      "prompt": "Native EDIT actual original into1536x1024 website3x2sheet x512/1024y512. Independent panels topfull product white, fullproductlavendercreamstyled, fullproductlifestyle; bottom standalone tight real-part macro, fullproductpromo accurateheading, blankcream. Preserve entire actual assortment exact count/identity/material/shapes/colours, no substitutions. Remove source price/shop clutter/surrounding marketing graphics. Full products stay within square panels with margins. ONE open rectangular transparent plastic box, hinged clear lid opening left, containing THREE horizontal rows of tightly packed thin glass bangles in repeating red green purple yellow cyan magenta colours with gold glitter borders as shown. Both sources are same box identical view, nottwo boxes. Preserve all visible thin rings and exact packed stripe order in all three rows; do not replace with loose stacks or reduce count. Macro tight actual cyan/magenta glass bangle edges and gold glitter texture, no whole assortment needed. Lifestyle on dressing table. Heading 'Colourful Glass Bangle Box'.",
+      "sha256": "2a790f2defb8604928205090a8b4cb282c5fd25da073ff9b17db7b19c819f163",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-0d25fa9f-ca04-473a-a6b0-8435fa300d64.png",
+      "grid_sha256": "7fb9a39c7598c1f8cdb3f9a9ab940746b28859fe4cbd3f314e68ed4d73d4c844",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crop inspected: one same transparent hinged box, three densely packed rows of thin source-colour glass bangles and gold glitter borders retained. Two originals duplicate same box, not extra product. Actual cyan/magenta/gold edge macro and accurate heading."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baselines_verified": true
+}

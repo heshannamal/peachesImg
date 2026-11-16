@@ -1,0 +1,51 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250227-WA0333.jpg": "04fc505623e6c4c4158a17b84c0b8f35cfa6ba820bf994e2752589cb2d80bc54"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-eca79b2b-df46-4f42-a5fb-89113f9ca9d3.png",
+      "prompt": "Clean white seamless website product photo. SINGLE black satin hair bow on small pink/white card, two large folded loops centre band and two exceptionally long broad flowing pointed tails. Preserve length ratio, black satin sheen and actual folded front shape. Card retained, no invented backside clip, remove hand price shop. Preserve originalfrontview fullproduct count shape colours materials no addedtext.",
+      "sha256": "b6493f24b17e8d71f854b5324f1b06ecabb6fb42f26ab19c59211baff918f7b9",
+      "checked": true,
+      "visual_review": "Single black satin bow retains two loops exceptionally long tails and card."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-5e153c8e-0a24-40dd-aff0-f634fbec148e.png",
+      "prompt": "Styled ecommerce photograph on lavender backdrop cream fabric edge. SINGLE black satin hair bow on small pink/white card, two large folded loops centre band and two exceptionally long broad flowing pointed tails. Preserve length ratio, black satin sheen and actual folded front shape. Card retained, no invented backside clip, remove hand price shop. Preserve full original visible product group frontshape colours materials count, noaddedtext.",
+      "sha256": "ab8372677ade380375857d729f44ba88d8c4744ef4101852cf2764f24e982249",
+      "checked": true,
+      "visual_review": "Single black bow retains foldedloop band and exceptionally longtails on lavender."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-4615d38c-0a21-4e4a-9c46-f0a22e170a42.png",
+      "prompt": "Lifestyle product photograph displayed on cream vanity near window with lavender wall minimal contextual props outside product. SINGLE black satin hair bow on small pink/white card, two large folded loops centre band and two exceptionally long broad flowing pointed tails. Preserve length ratio, black satin sheen and actual folded front shape. Card retained, no invented backside clip, remove hand price shop. Samefrontangle actualcountshape coloursmaterials no addedtext.",
+      "sha256": "04028af10fec8db9e32668e2b9e55820bc08d5a9aa931a898573bb5d2513ce9e",
+      "checked": true,
+      "visual_review": "Black satin bow retains frontshape longtailratio card material on vanity."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-324158a9-3e83-466e-b67a-5d94e706be9d.png",
+      "prompt": "STANDALONE TIGHT MACRO photograph of existing black satin bow centreband and gathered loop folds. Fill frame with satin black weave sheen and seam, originalfrontangle. No fullbow, no text or invented clip.",
+      "sha256": "0c909caad3ecb50745dc38a088a35b479f173a8acf94d94e68ce1660fcabb958",
+      "checked": true,
+      "visual_review": "Standalone tight macro black satin centreband gathered folds correctmaterial."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-76f61cd6-1219-40e4-9280-e98285993d13.png",
+      "prompt": "Website promotional photograph lavendercream backdrop compact plum heading 'Black Satin Long-Tail Hair Bow' subtitle 'PRODUCT COLLECTION'. SINGLE black satin hair bow on small pink/white card, two large folded loops centre band and two exceptionally long broad flowing pointed tails. Preserve length ratio, black satin sheen and actual folded front shape. Card retained, no invented backside clip, remove hand price shop. Fulloriginalvisible product group samefrontangle shape count coloursmaterials, noothertext.",
+      "sha256": "1d283e01128f00548ec6195a07ba753b5339e9f50d3a9b142effd32bbd40d73c",
+      "checked": true,
+      "visual_review": "Single black bow frontshape longtails and card retained; promo titlelegible."
+    }
+  ],
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

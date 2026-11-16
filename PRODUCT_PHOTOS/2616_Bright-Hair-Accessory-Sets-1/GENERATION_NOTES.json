@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0351.jpg": "9682fa5ab6c9c9468712f7e2e6614578827c36dd56aaa768a8c40c2e645690b5"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-384ca8f1-7b96-47f3-af30-6dcd30a8b65b.png",
+      "source_output": "/workspace/generated_images/exec-384ca8f1-7b96-47f3-af30-6dcd30a8b65b.png",
+      "sha256": "f49b3c51af921ee05797c97347dfc364eeda2402bc6a84aa9ae557c8beddc07a",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Kids Sunglasses & Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. The actual assortment has SIX sets on six cards, arranged two columns by three rows. Each set has one HEART-shaped sunglasses pair and TWO flower hair clips (total6sunglasses pairs+12clips). Sets: orange fabric daisy clips/yellow centres+brown-pink heart glasses; green printed flower clips/yellow centres+blue-pink glasses; pink fabric flowers/mint centres+pink glasses; yellow gingham heart-shaped flower-embroidered clips+orange-yellow glasses; lavender crocheted flower clips/yellow centres+purple-pink glasses; blue printed fabric flowers/pink centres+blue-pink glasses. Retain these six exact sets; no bow substitution. Detail cell is tight crop of the orange fabric flower and attached clip.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-384ca8f1-7b96-47f3-af30-6dcd30a8b65b.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Kids Sunglasses & Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. The actual assortment has SIX sets on six cards, arranged two columns by three rows. Each set has one HEART-shaped sunglasses pair and TWO flower hair clips (total6sunglasses pairs+12clips). Sets: orange fabric daisy clips/yellow centres+brown-pink heart glasses; green printed flower clips/yellow centres+blue-pink glasses; pink fabric flowers/mint centres+pink glasses; yellow gingham heart-shaped flower-embroidered clips+orange-yellow glasses; lavender crocheted flower clips/yellow centres+purple-pink glasses; blue printed fabric flowers/pink centres+blue-pink glasses. Retain these six exact sets; no bow substitution. Detail cell is tight crop of the orange fabric flower and attached clip.",
+      "sha256": "9581a286c5afda5f90ec26d8ff8cb39d1e9ca6d7d2adc8f5252e23c4fd865833",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-384ca8f1-7b96-47f3-af30-6dcd30a8b65b.png",
+      "grid_sha256": "f49b3c51af921ee05797c97347dfc364eeda2402bc6a84aa9ae557c8beddc07a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Reviewed actual grid and crop: six distinct source sets retained, six sunglasses pairs and paired hair clips, correct colours/shapes. View purpose passed; detail standalone tight real-part closeup and promo heading accurate. Website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-384ca8f1-7b96-47f3-af30-6dcd30a8b65b.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Kids Sunglasses & Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. The actual assortment has SIX sets on six cards, arranged two columns by three rows. Each set has one HEART-shaped sunglasses pair and TWO flower hair clips (total6sunglasses pairs+12clips). Sets: orange fabric daisy clips/yellow centres+brown-pink heart glasses; green printed flower clips/yellow centres+blue-pink glasses; pink fabric flowers/mint centres+pink glasses; yellow gingham heart-shaped flower-embroidered clips+orange-yellow glasses; lavender crocheted flower clips/yellow centres+purple-pink glasses; blue printed fabric flowers/pink centres+blue-pink glasses. Retain these six exact sets; no bow substitution. Detail cell is tight crop of the orange fabric flower and attached clip.",
+      "sha256": "7d9634fd50ea0fcbea127562de1fc3497d4a1f6380458cf3e0c854af31c68c04",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-384ca8f1-7b96-47f3-af30-6dcd30a8b65b.png",
+      "grid_sha256": "f49b3c51af921ee05797c97347dfc364eeda2402bc6a84aa9ae557c8beddc07a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Reviewed actual grid and crop: six distinct source sets retained, six sunglasses pairs and paired hair clips, correct colours/shapes. View purpose passed; detail standalone tight real-part closeup and promo heading accurate. Website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-384ca8f1-7b96-47f3-af30-6dcd30a8b65b.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Kids Sunglasses & Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. The actual assortment has SIX sets on six cards, arranged two columns by three rows. Each set has one HEART-shaped sunglasses pair and TWO flower hair clips (total6sunglasses pairs+12clips). Sets: orange fabric daisy clips/yellow centres+brown-pink heart glasses; green printed flower clips/yellow centres+blue-pink glasses; pink fabric flowers/mint centres+pink glasses; yellow gingham heart-shaped flower-embroidered clips+orange-yellow glasses; lavender crocheted flower clips/yellow centres+purple-pink glasses; blue printed fabric flowers/pink centres+blue-pink glasses. Retain these six exact sets; no bow substitution. Detail cell is tight crop of the orange fabric flower and attached clip.",
+      "sha256": "770a0dedf3ee8346d525e9073df9dce5c7dce788e8cfad1475e6d314c46bd93e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-384ca8f1-7b96-47f3-af30-6dcd30a8b65b.png",
+      "grid_sha256": "f49b3c51af921ee05797c97347dfc364eeda2402bc6a84aa9ae557c8beddc07a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Reviewed actual grid and crop: six distinct source sets retained, six sunglasses pairs and paired hair clips, correct colours/shapes. View purpose passed; detail standalone tight real-part closeup and promo heading accurate. Website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-384ca8f1-7b96-47f3-af30-6dcd30a8b65b.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Kids Sunglasses & Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. The actual assortment has SIX sets on six cards, arranged two columns by three rows. Each set has one HEART-shaped sunglasses pair and TWO flower hair clips (total6sunglasses pairs+12clips). Sets: orange fabric daisy clips/yellow centres+brown-pink heart glasses; green printed flower clips/yellow centres+blue-pink glasses; pink fabric flowers/mint centres+pink glasses; yellow gingham heart-shaped flower-embroidered clips+orange-yellow glasses; lavender crocheted flower clips/yellow centres+purple-pink glasses; blue printed fabric flowers/pink centres+blue-pink glasses. Retain these six exact sets; no bow substitution. Detail cell is tight crop of the orange fabric flower and attached clip.",
+      "sha256": "b755006c5ccc135936da7482a7279f417069514ef0d29cbba259ae47506ea2b7",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-384ca8f1-7b96-47f3-af30-6dcd30a8b65b.png",
+      "grid_sha256": "f49b3c51af921ee05797c97347dfc364eeda2402bc6a84aa9ae557c8beddc07a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Reviewed actual grid and crop: six distinct source sets retained, six sunglasses pairs and paired hair clips, correct colours/shapes. View purpose passed; detail standalone tight real-part closeup and promo heading accurate. Website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-384ca8f1-7b96-47f3-af30-6dcd30a8b65b.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Kids Sunglasses & Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. The actual assortment has SIX sets on six cards, arranged two columns by three rows. Each set has one HEART-shaped sunglasses pair and TWO flower hair clips (total6sunglasses pairs+12clips). Sets: orange fabric daisy clips/yellow centres+brown-pink heart glasses; green printed flower clips/yellow centres+blue-pink glasses; pink fabric flowers/mint centres+pink glasses; yellow gingham heart-shaped flower-embroidered clips+orange-yellow glasses; lavender crocheted flower clips/yellow centres+purple-pink glasses; blue printed fabric flowers/pink centres+blue-pink glasses. Retain these six exact sets; no bow substitution. Detail cell is tight crop of the orange fabric flower and attached clip.",
+      "sha256": "7bac59bf5c8149d4b1012248fc6379e93aa51d7fd75db9d6de13f78db71684d3",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-384ca8f1-7b96-47f3-af30-6dcd30a8b65b.png",
+      "grid_sha256": "f49b3c51af921ee05797c97347dfc364eeda2402bc6a84aa9ae557c8beddc07a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Reviewed actual grid and crop: six distinct source sets retained, six sunglasses pairs and paired hair clips, correct colours/shapes. View purpose passed; detail standalone tight real-part closeup and promo heading accurate. Website-ready."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Six kids sunglasses and paired hair clip sets",
+  "originals_verified_against_frozen_plan": true
+}

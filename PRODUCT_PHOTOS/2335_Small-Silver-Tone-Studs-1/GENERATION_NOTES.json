@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260818-WA0174.jpg": "bf11f5585e48341ba9c8ae968217abbb0df5841b7fdb9292f932d0e3e965eb8d"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-debe902e-de02-420d-b15b-ff19bca98b39.png",
+      "source_output": "/workspace/generated_images/exec-debe902e-de02-420d-b15b-ff19bca98b39.png",
+      "sha256": "b74c3e19fc4e53b911f51aa66e320f582d87552ae90c2afde4c6798776d932cd",
+      "prompt": "Native edit using actualreferencedoriginal only. Create NEW realistic websitephoto landscape1536x1024 exact3columns x2rows equal512squarecells no gutters/borders/labels. Top-left wholeONEcard pureWHITEbackground #FFFFFF NOTsourcegrey. Top-middle samewholecard lavender/creamstyled. Top-right samewholecard dressingtablelifestyle noextra earrings. Bottom-left standalone TIGHT actualBALLSTUD/whitecardpart macro notwholecard. Bottom-middle samewholecard promotional accurateheading 'Silver-Tone Ball Stud Earrings'. Bottom-right blankcream unused. EXACTLY ONE white rectangular texturedTULSI card inclearwrap, TWELVE small rectangularpairpanels in2columns x6rows, EACHpanel TWO ballstuds=TWENTYFOUR STUDS /12PAIRS. Preserve exactcount24, smallroundballs/posts, originalmetalcolour, magentaTULSIheading/cardtexture/clearwrap. No gemstones/pearls/extraearrings. Bottomrowpostbacksvisible asoriginal. All24studs/card fullyinframe everyfullview. Remove hand/greybackground/priceoverlay. Do not collapse6rows to5 or3. Detailonlyrealpart.\nAll24balls polishedSILVER tone exactlyasoriginal; do not changemetalcolour.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-debe902e-de02-420d-b15b-ff19bca98b39.png",
+      "prompt": "Native edit using actualreferencedoriginal only. Create NEW realistic websitephoto landscape1536x1024 exact3columns x2rows equal512squarecells no gutters/borders/labels. Top-left wholeONEcard pureWHITEbackground #FFFFFF NOTsourcegrey. Top-middle samewholecard lavender/creamstyled. Top-right samewholecard dressingtablelifestyle noextra earrings. Bottom-left standalone TIGHT actualBALLSTUD/whitecardpart macro notwholecard. Bottom-middle samewholecard promotional accurateheading 'Silver-Tone Ball Stud Earrings'. Bottom-right blankcream unused. EXACTLY ONE white rectangular texturedTULSI card inclearwrap, TWELVE small rectangularpairpanels in2columns x6rows, EACHpanel TWO ballstuds=TWENTYFOUR STUDS /12PAIRS. Preserve exactcount24, smallroundballs/posts, originalmetalcolour, magentaTULSIheading/cardtexture/clearwrap. No gemstones/pearls/extraearrings. Bottomrowpostbacksvisible asoriginal. All24studs/card fullyinframe everyfullview. Remove hand/greybackground/priceoverlay. Do not collapse6rows to5 or3. Detailonlyrealpart.\nAll24balls polishedSILVER tone exactlyasoriginal; do not changemetalcolour.",
+      "sha256": "4df6309e5a27ede74910e739acc1b22c70dea690b24b2e6f07cbce4b8baf1195",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-debe902e-de02-420d-b15b-ff19bca98b39.png",
+      "grid_sha256": "b74c3e19fc4e53b911f51aa66e320f582d87552ae90c2afde4c6798776d932cd",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Recovered actual saved crops visually inspected against original: correct silver-tone smallballstuds, exactly24studs/12pairpanels arranged2columns x6rows in allfullviews. White TULSIcard/clearwrap/shape preserved. Whitebackground correct, lavendercreamstyled, dressingtablelifestyle, accurateheadingpromo; standalone close actualballstud/texturedcardpart detail. Equal512boundaries verified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-debe902e-de02-420d-b15b-ff19bca98b39.png",
+      "prompt": "Native edit using actualreferencedoriginal only. Create NEW realistic websitephoto landscape1536x1024 exact3columns x2rows equal512squarecells no gutters/borders/labels. Top-left wholeONEcard pureWHITEbackground #FFFFFF NOTsourcegrey. Top-middle samewholecard lavender/creamstyled. Top-right samewholecard dressingtablelifestyle noextra earrings. Bottom-left standalone TIGHT actualBALLSTUD/whitecardpart macro notwholecard. Bottom-middle samewholecard promotional accurateheading 'Silver-Tone Ball Stud Earrings'. Bottom-right blankcream unused. EXACTLY ONE white rectangular texturedTULSI card inclearwrap, TWELVE small rectangularpairpanels in2columns x6rows, EACHpanel TWO ballstuds=TWENTYFOUR STUDS /12PAIRS. Preserve exactcount24, smallroundballs/posts, originalmetalcolour, magentaTULSIheading/cardtexture/clearwrap. No gemstones/pearls/extraearrings. Bottomrowpostbacksvisible asoriginal. All24studs/card fullyinframe everyfullview. Remove hand/greybackground/priceoverlay. Do not collapse6rows to5 or3. Detailonlyrealpart.\nAll24balls polishedSILVER tone exactlyasoriginal; do not changemetalcolour.",
+      "sha256": "c85a53e81a9eeb64278914cfc2f88cbbaea3a725477088948e30dec6a33da1d1",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-debe902e-de02-420d-b15b-ff19bca98b39.png",
+      "grid_sha256": "b74c3e19fc4e53b911f51aa66e320f582d87552ae90c2afde4c6798776d932cd",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Recovered actual saved crops visually inspected against original: correct silver-tone smallballstuds, exactly24studs/12pairpanels arranged2columns x6rows in allfullviews. White TULSIcard/clearwrap/shape preserved. Whitebackground correct, lavendercreamstyled, dressingtablelifestyle, accurateheadingpromo; standalone close actualballstud/texturedcardpart detail. Equal512boundaries verified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-debe902e-de02-420d-b15b-ff19bca98b39.png",
+      "prompt": "Native edit using actualreferencedoriginal only. Create NEW realistic websitephoto landscape1536x1024 exact3columns x2rows equal512squarecells no gutters/borders/labels. Top-left wholeONEcard pureWHITEbackground #FFFFFF NOTsourcegrey. Top-middle samewholecard lavender/creamstyled. Top-right samewholecard dressingtablelifestyle noextra earrings. Bottom-left standalone TIGHT actualBALLSTUD/whitecardpart macro notwholecard. Bottom-middle samewholecard promotional accurateheading 'Silver-Tone Ball Stud Earrings'. Bottom-right blankcream unused. EXACTLY ONE white rectangular texturedTULSI card inclearwrap, TWELVE small rectangularpairpanels in2columns x6rows, EACHpanel TWO ballstuds=TWENTYFOUR STUDS /12PAIRS. Preserve exactcount24, smallroundballs/posts, originalmetalcolour, magentaTULSIheading/cardtexture/clearwrap. No gemstones/pearls/extraearrings. Bottomrowpostbacksvisible asoriginal. All24studs/card fullyinframe everyfullview. Remove hand/greybackground/priceoverlay. Do not collapse6rows to5 or3. Detailonlyrealpart.\nAll24balls polishedSILVER tone exactlyasoriginal; do not changemetalcolour.",
+      "sha256": "2e8b711b6642a0b57ad1ba2c91d6849286cdcfb1b05f25daabdd9528669e784f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-debe902e-de02-420d-b15b-ff19bca98b39.png",
+      "grid_sha256": "b74c3e19fc4e53b911f51aa66e320f582d87552ae90c2afde4c6798776d932cd",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Recovered actual saved crops visually inspected against original: correct silver-tone smallballstuds, exactly24studs/12pairpanels arranged2columns x6rows in allfullviews. White TULSIcard/clearwrap/shape preserved. Whitebackground correct, lavendercreamstyled, dressingtablelifestyle, accurateheadingpromo; standalone close actualballstud/texturedcardpart detail. Equal512boundaries verified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-debe902e-de02-420d-b15b-ff19bca98b39.png",
+      "prompt": "Native edit using actualreferencedoriginal only. Create NEW realistic websitephoto landscape1536x1024 exact3columns x2rows equal512squarecells no gutters/borders/labels. Top-left wholeONEcard pureWHITEbackground #FFFFFF NOTsourcegrey. Top-middle samewholecard lavender/creamstyled. Top-right samewholecard dressingtablelifestyle noextra earrings. Bottom-left standalone TIGHT actualBALLSTUD/whitecardpart macro notwholecard. Bottom-middle samewholecard promotional accurateheading 'Silver-Tone Ball Stud Earrings'. Bottom-right blankcream unused. EXACTLY ONE white rectangular texturedTULSI card inclearwrap, TWELVE small rectangularpairpanels in2columns x6rows, EACHpanel TWO ballstuds=TWENTYFOUR STUDS /12PAIRS. Preserve exactcount24, smallroundballs/posts, originalmetalcolour, magentaTULSIheading/cardtexture/clearwrap. No gemstones/pearls/extraearrings. Bottomrowpostbacksvisible asoriginal. All24studs/card fullyinframe everyfullview. Remove hand/greybackground/priceoverlay. Do not collapse6rows to5 or3. Detailonlyrealpart.\nAll24balls polishedSILVER tone exactlyasoriginal; do not changemetalcolour.",
+      "sha256": "b3a871238542cbf9c6e23af18eafdc523e58a77087c8007a1ab27f5725c2e6a9",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-debe902e-de02-420d-b15b-ff19bca98b39.png",
+      "grid_sha256": "b74c3e19fc4e53b911f51aa66e320f582d87552ae90c2afde4c6798776d932cd",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Recovered actual saved crops visually inspected against original: correct silver-tone smallballstuds, exactly24studs/12pairpanels arranged2columns x6rows in allfullviews. White TULSIcard/clearwrap/shape preserved. Whitebackground correct, lavendercreamstyled, dressingtablelifestyle, accurateheadingpromo; standalone close actualballstud/texturedcardpart detail. Equal512boundaries verified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-debe902e-de02-420d-b15b-ff19bca98b39.png",
+      "prompt": "Native edit using actualreferencedoriginal only. Create NEW realistic websitephoto landscape1536x1024 exact3columns x2rows equal512squarecells no gutters/borders/labels. Top-left wholeONEcard pureWHITEbackground #FFFFFF NOTsourcegrey. Top-middle samewholecard lavender/creamstyled. Top-right samewholecard dressingtablelifestyle noextra earrings. Bottom-left standalone TIGHT actualBALLSTUD/whitecardpart macro notwholecard. Bottom-middle samewholecard promotional accurateheading 'Silver-Tone Ball Stud Earrings'. Bottom-right blankcream unused. EXACTLY ONE white rectangular texturedTULSI card inclearwrap, TWELVE small rectangularpairpanels in2columns x6rows, EACHpanel TWO ballstuds=TWENTYFOUR STUDS /12PAIRS. Preserve exactcount24, smallroundballs/posts, originalmetalcolour, magentaTULSIheading/cardtexture/clearwrap. No gemstones/pearls/extraearrings. Bottomrowpostbacksvisible asoriginal. All24studs/card fullyinframe everyfullview. Remove hand/greybackground/priceoverlay. Do not collapse6rows to5 or3. Detailonlyrealpart.\nAll24balls polishedSILVER tone exactlyasoriginal; do not changemetalcolour.",
+      "sha256": "df9077c896cb11b08aa3d44a34aa84fba78a316faf263f137ccf310171e06932",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-debe902e-de02-420d-b15b-ff19bca98b39.png",
+      "grid_sha256": "b74c3e19fc4e53b911f51aa66e320f582d87552ae90c2afde4c6798776d932cd",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Recovered actual saved crops visually inspected against original: correct silver-tone smallballstuds, exactly24studs/12pairpanels arranged2columns x6rows in allfullviews. White TULSIcard/clearwrap/shape preserved. Whitebackground correct, lavendercreamstyled, dressingtablelifestyle, accurateheadingpromo; standalone close actualballstud/texturedcardpart detail. Equal512boundaries verified."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "One TULSI card twelve pairs/24 silver-tone ball stud earrings",
+  "original_baseline_verified": true
+}

@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260916-WA0160.jpg": "27702f8532ba02e0f7178f3b792746fb41accd049005286dbc9a258966aee77a"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-2545226c-4045-4c6d-a8ae-d15fc52df8bb.png",
+      "source_output": "/workspace/generated_images/exec-2545226c-4045-4c6d-a8ae-d15fc52df8bb.png",
+      "sha256": "43de273de4fb1a543936d76a4498444ab6e1359a542f7493c245df0b8ec30b1b",
+      "prompt": "Native original-referenced faithful product photo edit. Produce ONE landscape 1536x1024 image, exact borderless 3 columns x2 rows equal512square cells. Top row: white background full product; lavender/cream styled full product; lifestyle on cream vanity full product. Bottom row: standalone TIGHT macro of actual charm edge/metal texture only (not complete bangle); full product promotional with accurate heading; unused blank cream. Preserve ONE gold-tone thin round-wire open cuff bangle, TWO large spherical endcaps at back opening, TWO smaller round beads flanking ONE central flat charm on front. Total FOUR spherical beads, ONE charm, ONE continuous cuff. Match source proportions, gold colour and charm silhouette precisely, do not duplicate jewelry or add stones. Remove source price/warranty overlay; no added claims. Website-ready. Central charm is tall open-outline Christian cross, hollow interior cross-shaped cutout, longer lower stem; no stones. Heading 'Cross Charm Cuff'. Detail macro cross edge and one bead.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-2545226c-4045-4c6d-a8ae-d15fc52df8bb.png",
+      "prompt": "Native original-referenced faithful product photo edit. Produce ONE landscape 1536x1024 image, exact borderless 3 columns x2 rows equal512square cells. Top row: white background full product; lavender/cream styled full product; lifestyle on cream vanity full product. Bottom row: standalone TIGHT macro of actual charm edge/metal texture only (not complete bangle); full product promotional with accurate heading; unused blank cream. Preserve ONE gold-tone thin round-wire open cuff bangle, TWO large spherical endcaps at back opening, TWO smaller round beads flanking ONE central flat charm on front. Total FOUR spherical beads, ONE charm, ONE continuous cuff. Match source proportions, gold colour and charm silhouette precisely, do not duplicate jewelry or add stones. Remove source price/warranty overlay; no added claims. Website-ready. Central charm is tall open-outline Christian cross, hollow interior cross-shaped cutout, longer lower stem; no stones. Heading 'Cross Charm Cuff'. Detail macro cross edge and one bead.",
+      "sha256": "5595d526f1645fe20e01579e4e157397a04d6ea7c0f6b48a6ae492a104b5efca",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2545226c-4045-4c6d-a8ae-d15fc52df8bb.png",
+      "grid_sha256": "43de273de4fb1a543936d76a4498444ab6e1359a542f7493c245df0b8ec30b1b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Inspected actual original and all five grid crops. One original gold open cuff retained with four sphere beads and correct central outline cross charm silhouette, colours and proportions; white/styled/vanity/promo views full product; standalone tight real-part detail; accurate heading. Website-ready pass."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-2545226c-4045-4c6d-a8ae-d15fc52df8bb.png",
+      "prompt": "Native original-referenced faithful product photo edit. Produce ONE landscape 1536x1024 image, exact borderless 3 columns x2 rows equal512square cells. Top row: white background full product; lavender/cream styled full product; lifestyle on cream vanity full product. Bottom row: standalone TIGHT macro of actual charm edge/metal texture only (not complete bangle); full product promotional with accurate heading; unused blank cream. Preserve ONE gold-tone thin round-wire open cuff bangle, TWO large spherical endcaps at back opening, TWO smaller round beads flanking ONE central flat charm on front. Total FOUR spherical beads, ONE charm, ONE continuous cuff. Match source proportions, gold colour and charm silhouette precisely, do not duplicate jewelry or add stones. Remove source price/warranty overlay; no added claims. Website-ready. Central charm is tall open-outline Christian cross, hollow interior cross-shaped cutout, longer lower stem; no stones. Heading 'Cross Charm Cuff'. Detail macro cross edge and one bead.",
+      "sha256": "3a344ebb661ddcc701b6cf23b05fc25644ec2dcf80941c61dbf9f8391caeaf6a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2545226c-4045-4c6d-a8ae-d15fc52df8bb.png",
+      "grid_sha256": "43de273de4fb1a543936d76a4498444ab6e1359a542f7493c245df0b8ec30b1b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Inspected actual original and all five grid crops. One original gold open cuff retained with four sphere beads and correct central outline cross charm silhouette, colours and proportions; white/styled/vanity/promo views full product; standalone tight real-part detail; accurate heading. Website-ready pass."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-2545226c-4045-4c6d-a8ae-d15fc52df8bb.png",
+      "prompt": "Native original-referenced faithful product photo edit. Produce ONE landscape 1536x1024 image, exact borderless 3 columns x2 rows equal512square cells. Top row: white background full product; lavender/cream styled full product; lifestyle on cream vanity full product. Bottom row: standalone TIGHT macro of actual charm edge/metal texture only (not complete bangle); full product promotional with accurate heading; unused blank cream. Preserve ONE gold-tone thin round-wire open cuff bangle, TWO large spherical endcaps at back opening, TWO smaller round beads flanking ONE central flat charm on front. Total FOUR spherical beads, ONE charm, ONE continuous cuff. Match source proportions, gold colour and charm silhouette precisely, do not duplicate jewelry or add stones. Remove source price/warranty overlay; no added claims. Website-ready. Central charm is tall open-outline Christian cross, hollow interior cross-shaped cutout, longer lower stem; no stones. Heading 'Cross Charm Cuff'. Detail macro cross edge and one bead.",
+      "sha256": "475bdb7b63e5b1c2e4c81bfb202100a6ffdeee90e2758feec0930f4a22ba605c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2545226c-4045-4c6d-a8ae-d15fc52df8bb.png",
+      "grid_sha256": "43de273de4fb1a543936d76a4498444ab6e1359a542f7493c245df0b8ec30b1b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Inspected actual original and all five grid crops. One original gold open cuff retained with four sphere beads and correct central outline cross charm silhouette, colours and proportions; white/styled/vanity/promo views full product; standalone tight real-part detail; accurate heading. Website-ready pass."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-2545226c-4045-4c6d-a8ae-d15fc52df8bb.png",
+      "prompt": "Native original-referenced faithful product photo edit. Produce ONE landscape 1536x1024 image, exact borderless 3 columns x2 rows equal512square cells. Top row: white background full product; lavender/cream styled full product; lifestyle on cream vanity full product. Bottom row: standalone TIGHT macro of actual charm edge/metal texture only (not complete bangle); full product promotional with accurate heading; unused blank cream. Preserve ONE gold-tone thin round-wire open cuff bangle, TWO large spherical endcaps at back opening, TWO smaller round beads flanking ONE central flat charm on front. Total FOUR spherical beads, ONE charm, ONE continuous cuff. Match source proportions, gold colour and charm silhouette precisely, do not duplicate jewelry or add stones. Remove source price/warranty overlay; no added claims. Website-ready. Central charm is tall open-outline Christian cross, hollow interior cross-shaped cutout, longer lower stem; no stones. Heading 'Cross Charm Cuff'. Detail macro cross edge and one bead.",
+      "sha256": "3087023b41f4e4ef21c09493a572468d4c4250ea9564a583b8f804090c8d66b8",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2545226c-4045-4c6d-a8ae-d15fc52df8bb.png",
+      "grid_sha256": "43de273de4fb1a543936d76a4498444ab6e1359a542f7493c245df0b8ec30b1b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Inspected actual original and all five grid crops. One original gold open cuff retained with four sphere beads and correct central outline cross charm silhouette, colours and proportions; white/styled/vanity/promo views full product; standalone tight real-part detail; accurate heading. Website-ready pass."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-2545226c-4045-4c6d-a8ae-d15fc52df8bb.png",
+      "prompt": "Native original-referenced faithful product photo edit. Produce ONE landscape 1536x1024 image, exact borderless 3 columns x2 rows equal512square cells. Top row: white background full product; lavender/cream styled full product; lifestyle on cream vanity full product. Bottom row: standalone TIGHT macro of actual charm edge/metal texture only (not complete bangle); full product promotional with accurate heading; unused blank cream. Preserve ONE gold-tone thin round-wire open cuff bangle, TWO large spherical endcaps at back opening, TWO smaller round beads flanking ONE central flat charm on front. Total FOUR spherical beads, ONE charm, ONE continuous cuff. Match source proportions, gold colour and charm silhouette precisely, do not duplicate jewelry or add stones. Remove source price/warranty overlay; no added claims. Website-ready. Central charm is tall open-outline Christian cross, hollow interior cross-shaped cutout, longer lower stem; no stones. Heading 'Cross Charm Cuff'. Detail macro cross edge and one bead.",
+      "sha256": "270d3d84ecf9175f182c25c259a4aaa6edb9982712a90e7ae67a6f2e5694d5d4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2545226c-4045-4c6d-a8ae-d15fc52df8bb.png",
+      "grid_sha256": "43de273de4fb1a543936d76a4498444ab6e1359a542f7493c245df0b8ec30b1b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Inspected actual original and all five grid crops. One original gold open cuff retained with four sphere beads and correct central outline cross charm silhouette, colours and proportions; white/styled/vanity/promo views full product; standalone tight real-part detail; accurate heading. Website-ready pass."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

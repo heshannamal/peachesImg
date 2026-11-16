@@ -1,0 +1,22 @@
+{
+  "tool": "built-in image_gen",
+  "status": "blocked_usage_limit_reached",
+  "original_hashes": {
+    "Originals/IMG-20250217-WA0170.jpg": "c2e8cb693677672c74701ca63b8e33f8d1bb4647ffd94f060a90a182f065296f"
+  },
+  "records": [],
+  "blocker": {
+    "type": "usage_limit_reached",
+    "http_status": 429,
+    "resets_at": 1792589598,
+    "resets_in_seconds_at_error": 18168,
+    "no_output_returned": true
+  },
+  "missing_or_unchecked": [
+    "01_White-Background.png",
+    "02_Styled-Background.png",
+    "03_Lifestyle.png",
+    "04_Detail.png",
+    "05_Promotional.png"
+  ]
+}

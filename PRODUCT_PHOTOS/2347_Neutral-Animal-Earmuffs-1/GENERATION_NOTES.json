@@ -1,0 +1,133 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260820-WA0331.jpg": "f7c01f462f8492b624f42cff4c2a0feac92da3ac00d15e9ea595821b12930c68"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-3b34b082-d743-4558-8ec3-247fd1237a15.png",
+      "source_output": "/workspace/generated_images/exec-3b34b082-d743-4558-8ec3-247fd1237a15.png",
+      "sha256": "f36fa232817a7f26504ca226836dc9a3ad4650d02e2412d4e532c8dfe97fc2d4",
+      "prompt": "Edit attached actual original into ONE1536x1024 website image EXACT3x2 grid of512square cells with no border/gutter. Exactly SIX physical plush earmuff sets: back row plain tan, pale blue and grey cups with round plush headbands; front row tan, cream and pink bear-face cups with rounded ears, embroidered black smiling faces and plush headbands. Preserve SIX sets, exact plain versus bear-face differences, colours, shapes and texture. Heading: Plush Earmuff Assortment. Whole assortment ONE product. Top left entire assortment on pure white; top middle same entire assortment lavender/cream styled; top right same entire assortment relevant tabletop lifestyle without extra products; bottom left standalone TIGHT real-part macro of actual material and detail (not entire assortment); bottom middle entire assortment with only accurate heading given, no prices/claims; bottom right blank cream. Remove hand, shop, poster text and original price. Photorealistic website-ready, preserve identity/count/shapes/colours, no crossing cell edges.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-3b34b082-d743-4558-8ec3-247fd1237a15.png",
+      "prompt": "Edit attached actual original into ONE1536x1024 website image EXACT3x2 grid of512square cells with no border/gutter. Exactly SIX physical plush earmuff sets: back row plain tan, pale blue and grey cups with round plush headbands; front row tan, cream and pink bear-face cups with rounded ears, embroidered black smiling faces and plush headbands. Preserve SIX sets, exact plain versus bear-face differences, colours, shapes and texture. Heading: Plush Earmuff Assortment. Whole assortment ONE product. Top left entire assortment on pure white; top middle same entire assortment lavender/cream styled; top right same entire assortment relevant tabletop lifestyle without extra products; bottom left standalone TIGHT real-part macro of actual material and detail (not entire assortment); bottom middle entire assortment with only accurate heading given, no prices/claims; bottom right blank cream. Remove hand, shop, poster text and original price. Photorealistic website-ready, preserve identity/count/shapes/colours, no crossing cell edges.",
+      "sha256": "f0d10c27aff6a69f7b14c51b5c1d7791af196878e259f1db4d8207f480ffb307",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3b34b082-d743-4558-8ec3-247fd1237a15.png",
+      "grid_sha256": "f36fa232817a7f26504ca226836dc9a3ad4650d02e2412d4e532c8dfe97fc2d4",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crops inspected: six earmuff sets, back tan/lightblue/grey plain and front tan/cream/pink bearfaces. Count, plush shape/headbands/colours/embroidery retained. White/lavendercream/tabletop lifestyle, tight actual bear plush/embroidery macro and accurate heading passed. Frozen originals/output SHA verified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-3b34b082-d743-4558-8ec3-247fd1237a15.png",
+      "prompt": "Edit attached actual original into ONE1536x1024 website image EXACT3x2 grid of512square cells with no border/gutter. Exactly SIX physical plush earmuff sets: back row plain tan, pale blue and grey cups with round plush headbands; front row tan, cream and pink bear-face cups with rounded ears, embroidered black smiling faces and plush headbands. Preserve SIX sets, exact plain versus bear-face differences, colours, shapes and texture. Heading: Plush Earmuff Assortment. Whole assortment ONE product. Top left entire assortment on pure white; top middle same entire assortment lavender/cream styled; top right same entire assortment relevant tabletop lifestyle without extra products; bottom left standalone TIGHT real-part macro of actual material and detail (not entire assortment); bottom middle entire assortment with only accurate heading given, no prices/claims; bottom right blank cream. Remove hand, shop, poster text and original price. Photorealistic website-ready, preserve identity/count/shapes/colours, no crossing cell edges.",
+      "sha256": "57036f42dd9fb34570a157e0792377877e265dc80ce0112b30399e3e7818c119",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3b34b082-d743-4558-8ec3-247fd1237a15.png",
+      "grid_sha256": "f36fa232817a7f26504ca226836dc9a3ad4650d02e2412d4e532c8dfe97fc2d4",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crops inspected: six earmuff sets, back tan/lightblue/grey plain and front tan/cream/pink bearfaces. Count, plush shape/headbands/colours/embroidery retained. White/lavendercream/tabletop lifestyle, tight actual bear plush/embroidery macro and accurate heading passed. Frozen originals/output SHA verified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-3b34b082-d743-4558-8ec3-247fd1237a15.png",
+      "prompt": "Edit attached actual original into ONE1536x1024 website image EXACT3x2 grid of512square cells with no border/gutter. Exactly SIX physical plush earmuff sets: back row plain tan, pale blue and grey cups with round plush headbands; front row tan, cream and pink bear-face cups with rounded ears, embroidered black smiling faces and plush headbands. Preserve SIX sets, exact plain versus bear-face differences, colours, shapes and texture. Heading: Plush Earmuff Assortment. Whole assortment ONE product. Top left entire assortment on pure white; top middle same entire assortment lavender/cream styled; top right same entire assortment relevant tabletop lifestyle without extra products; bottom left standalone TIGHT real-part macro of actual material and detail (not entire assortment); bottom middle entire assortment with only accurate heading given, no prices/claims; bottom right blank cream. Remove hand, shop, poster text and original price. Photorealistic website-ready, preserve identity/count/shapes/colours, no crossing cell edges.",
+      "sha256": "23777723e7eb841871233990eb6840670ed409f0c13212819c915f903ffe193e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3b34b082-d743-4558-8ec3-247fd1237a15.png",
+      "grid_sha256": "f36fa232817a7f26504ca226836dc9a3ad4650d02e2412d4e532c8dfe97fc2d4",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crops inspected: six earmuff sets, back tan/lightblue/grey plain and front tan/cream/pink bearfaces. Count, plush shape/headbands/colours/embroidery retained. White/lavendercream/tabletop lifestyle, tight actual bear plush/embroidery macro and accurate heading passed. Frozen originals/output SHA verified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-3b34b082-d743-4558-8ec3-247fd1237a15.png",
+      "prompt": "Edit attached actual original into ONE1536x1024 website image EXACT3x2 grid of512square cells with no border/gutter. Exactly SIX physical plush earmuff sets: back row plain tan, pale blue and grey cups with round plush headbands; front row tan, cream and pink bear-face cups with rounded ears, embroidered black smiling faces and plush headbands. Preserve SIX sets, exact plain versus bear-face differences, colours, shapes and texture. Heading: Plush Earmuff Assortment. Whole assortment ONE product. Top left entire assortment on pure white; top middle same entire assortment lavender/cream styled; top right same entire assortment relevant tabletop lifestyle without extra products; bottom left standalone TIGHT real-part macro of actual material and detail (not entire assortment); bottom middle entire assortment with only accurate heading given, no prices/claims; bottom right blank cream. Remove hand, shop, poster text and original price. Photorealistic website-ready, preserve identity/count/shapes/colours, no crossing cell edges.",
+      "sha256": "46d2dce9872bed4c8f9d396ca7784d4d23849de5d3863634770c27c71063f397",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3b34b082-d743-4558-8ec3-247fd1237a15.png",
+      "grid_sha256": "f36fa232817a7f26504ca226836dc9a3ad4650d02e2412d4e532c8dfe97fc2d4",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crops inspected: six earmuff sets, back tan/lightblue/grey plain and front tan/cream/pink bearfaces. Count, plush shape/headbands/colours/embroidery retained. White/lavendercream/tabletop lifestyle, tight actual bear plush/embroidery macro and accurate heading passed. Frozen originals/output SHA verified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-3b34b082-d743-4558-8ec3-247fd1237a15.png",
+      "prompt": "Edit attached actual original into ONE1536x1024 website image EXACT3x2 grid of512square cells with no border/gutter. Exactly SIX physical plush earmuff sets: back row plain tan, pale blue and grey cups with round plush headbands; front row tan, cream and pink bear-face cups with rounded ears, embroidered black smiling faces and plush headbands. Preserve SIX sets, exact plain versus bear-face differences, colours, shapes and texture. Heading: Plush Earmuff Assortment. Whole assortment ONE product. Top left entire assortment on pure white; top middle same entire assortment lavender/cream styled; top right same entire assortment relevant tabletop lifestyle without extra products; bottom left standalone TIGHT real-part macro of actual material and detail (not entire assortment); bottom middle entire assortment with only accurate heading given, no prices/claims; bottom right blank cream. Remove hand, shop, poster text and original price. Photorealistic website-ready, preserve identity/count/shapes/colours, no crossing cell edges.",
+      "sha256": "7a06496b4f92fb5c4837b2352e1dbb9f9044d49f2bfe2bd7b4e7555ec2a770da",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-3b34b082-d743-4558-8ec3-247fd1237a15.png",
+      "grid_sha256": "f36fa232817a7f26504ca226836dc9a3ad4650d02e2412d4e532c8dfe97fc2d4",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crops inspected: six earmuff sets, back tan/lightblue/grey plain and front tan/cream/pink bearfaces. Count, plush shape/headbands/colours/embroidery retained. White/lavendercream/tabletop lifestyle, tight actual bear plush/embroidery macro and accurate heading passed. Frozen originals/output SHA verified."
+    },
+    {
+      "kind": "exact_prompt_file",
+      "saved_file": "Generation_Prompts/initial.txt",
+      "sha256": "69938a6b9ce14287ee9e6d41965962e11d8925c8c8ac95a1c6e327a5add3ae93",
+      "checked": false
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

@@ -1,0 +1,11 @@
+{
+  "status": "blocked_moderation",
+  "records": [
+    {
+      "prompt": "Faithfully EDIT actual referenced THREE printed white ceramic mugs into1536x1024 website3x2grid x512/1024y512. Top full3mugs white isolation, full3mugs lavendercreamstyled, full3mugs kitchen-table lifestyle. Bottom standalone tight realpart macro ceramic rim/printed surface; full3mugs promo with accurateheading; blankcream. Source shows THREE mugs, source wholesale12pcs text is NOT photographedcount. Preserve exactly3source mug designs, white cylindrical tapered shapes, white interiors/handles and actual printed character artwork/colours/text. No extra mugs or replacement artwork. Remove priceoverlay/shopcounter/background clutter. Keep all3fullmugs within cells, no cross-panel objects. Left mug blue character playing yellow guitar with 'Harmony' lettering; centre blue big-eared character with rainbow/flowers and yellow Stitch lettering; right blue character with pink character, yellow teacups and blue text. Preserve these3distinct prints. Macro actual left mug white rim and yellow guitar print crop. Heading 'Colourful Character Mugs'.",
+      "error": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 10418d4a-7f8c-4b51-91a3-8284313fa6b5.\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"other\\\"\\n      ]\\n    }\\n  }\\n}\")",
+      "checked": false,
+      "visual_review": "Native moderation block, no output, skipped without retry."
+    }
+  ]
+}

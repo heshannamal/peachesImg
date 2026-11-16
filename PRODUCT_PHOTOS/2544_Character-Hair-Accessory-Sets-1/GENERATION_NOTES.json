@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260929-WA0279.jpg": "0839b9e66b7e2d6b629adc2636f4d434d73a1b7bb0fccf2cf0e3fd4de4eec9c2"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-417729d5-1ce1-434b-a20c-b4bed8905390.png",
+      "source_output": "/workspace/generated_images/exec-417729d5-1ce1-434b-a20c-b4bed8905390.png",
+      "sha256": "58ed9be04f9d5416d588e1b8d97f32e8a381d4f0c741e5066df8eaf9e1fbba87",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Printed Star Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actualproduct ONE longwhite ACCESSORIES displaycard holding TWELVE tiny glossySTAR-shaped hairclawclips inTWOcolumnsSIXrows. Eachhasroundedfivepointstarwings with pastelblue/pink/lavenderprintedcartoonanimalfaces matchingactualreference; preserveexactsourceartwork andcolour distribution, smallclearplasticjaws/silversprings, notflowers/notplainstars/not6clips. Fullviews1/2/3/5 show entirewhitecard with ALL12starclips and12countable positions (2columns6rows). Noadditionalcards. Sourceplasticwrappingcanremainclean, removehand/shop/priceoverlay. Detail standalone tightmacro ofoneactualblue/pinkprintedstarclip anditsvisiblehinge, notfullcard. AccurateheadingPrinted Star Hair Clips.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-417729d5-1ce1-434b-a20c-b4bed8905390.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Printed Star Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actualproduct ONE longwhite ACCESSORIES displaycard holding TWELVE tiny glossySTAR-shaped hairclawclips inTWOcolumnsSIXrows. Eachhasroundedfivepointstarwings with pastelblue/pink/lavenderprintedcartoonanimalfaces matchingactualreference; preserveexactsourceartwork andcolour distribution, smallclearplasticjaws/silversprings, notflowers/notplainstars/not6clips. Fullviews1/2/3/5 show entirewhitecard with ALL12starclips and12countable positions (2columns6rows). Noadditionalcards. Sourceplasticwrappingcanremainclean, removehand/shop/priceoverlay. Detail standalone tightmacro ofoneactualblue/pinkprintedstarclip anditsvisiblehinge, notfullcard. AccurateheadingPrinted Star Hair Clips.",
+      "sha256": "d03ffe42d3ad3dd441b21e4e3fcfede330121ea4716096cdc0a819b9e640481c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-417729d5-1ce1-434b-a20c-b4bed8905390.png",
+      "grid_sha256": "58ed9be04f9d5416d588e1b8d97f32e8a381d4f0c741e5066df8eaf9e1fbba87",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual grid/crop compared to source: Twelve pastel printed rounded-star mini hair clawclips, onecard two columns/sixrows. Count12 retained all fullviews, productshapes/colours/materials consistent. Standalone tight real-part macro and accurateheading passed; websitequality sufficient."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-417729d5-1ce1-434b-a20c-b4bed8905390.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Printed Star Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actualproduct ONE longwhite ACCESSORIES displaycard holding TWELVE tiny glossySTAR-shaped hairclawclips inTWOcolumnsSIXrows. Eachhasroundedfivepointstarwings with pastelblue/pink/lavenderprintedcartoonanimalfaces matchingactualreference; preserveexactsourceartwork andcolour distribution, smallclearplasticjaws/silversprings, notflowers/notplainstars/not6clips. Fullviews1/2/3/5 show entirewhitecard with ALL12starclips and12countable positions (2columns6rows). Noadditionalcards. Sourceplasticwrappingcanremainclean, removehand/shop/priceoverlay. Detail standalone tightmacro ofoneactualblue/pinkprintedstarclip anditsvisiblehinge, notfullcard. AccurateheadingPrinted Star Hair Clips.",
+      "sha256": "0a82a3c79670dc5371c916234d7d01a8bc147523d302a3dee298aae3235bb437",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-417729d5-1ce1-434b-a20c-b4bed8905390.png",
+      "grid_sha256": "58ed9be04f9d5416d588e1b8d97f32e8a381d4f0c741e5066df8eaf9e1fbba87",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual grid/crop compared to source: Twelve pastel printed rounded-star mini hair clawclips, onecard two columns/sixrows. Count12 retained all fullviews, productshapes/colours/materials consistent. Standalone tight real-part macro and accurateheading passed; websitequality sufficient."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-417729d5-1ce1-434b-a20c-b4bed8905390.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Printed Star Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actualproduct ONE longwhite ACCESSORIES displaycard holding TWELVE tiny glossySTAR-shaped hairclawclips inTWOcolumnsSIXrows. Eachhasroundedfivepointstarwings with pastelblue/pink/lavenderprintedcartoonanimalfaces matchingactualreference; preserveexactsourceartwork andcolour distribution, smallclearplasticjaws/silversprings, notflowers/notplainstars/not6clips. Fullviews1/2/3/5 show entirewhitecard with ALL12starclips and12countable positions (2columns6rows). Noadditionalcards. Sourceplasticwrappingcanremainclean, removehand/shop/priceoverlay. Detail standalone tightmacro ofoneactualblue/pinkprintedstarclip anditsvisiblehinge, notfullcard. AccurateheadingPrinted Star Hair Clips.",
+      "sha256": "ab3d394d1144280dd20fc2258af6863afd93d345a65dd4cfe0f9d053246a3752",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-417729d5-1ce1-434b-a20c-b4bed8905390.png",
+      "grid_sha256": "58ed9be04f9d5416d588e1b8d97f32e8a381d4f0c741e5066df8eaf9e1fbba87",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual grid/crop compared to source: Twelve pastel printed rounded-star mini hair clawclips, onecard two columns/sixrows. Count12 retained all fullviews, productshapes/colours/materials consistent. Standalone tight real-part macro and accurateheading passed; websitequality sufficient."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-417729d5-1ce1-434b-a20c-b4bed8905390.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Printed Star Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actualproduct ONE longwhite ACCESSORIES displaycard holding TWELVE tiny glossySTAR-shaped hairclawclips inTWOcolumnsSIXrows. Eachhasroundedfivepointstarwings with pastelblue/pink/lavenderprintedcartoonanimalfaces matchingactualreference; preserveexactsourceartwork andcolour distribution, smallclearplasticjaws/silversprings, notflowers/notplainstars/not6clips. Fullviews1/2/3/5 show entirewhitecard with ALL12starclips and12countable positions (2columns6rows). Noadditionalcards. Sourceplasticwrappingcanremainclean, removehand/shop/priceoverlay. Detail standalone tightmacro ofoneactualblue/pinkprintedstarclip anditsvisiblehinge, notfullcard. AccurateheadingPrinted Star Hair Clips.",
+      "sha256": "48e1e0ef5b2d2c231bd03a765ee1c46d58b48448b9d0e138d335ebf5399925b5",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-417729d5-1ce1-434b-a20c-b4bed8905390.png",
+      "grid_sha256": "58ed9be04f9d5416d588e1b8d97f32e8a381d4f0c741e5066df8eaf9e1fbba87",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual grid/crop compared to source: Twelve pastel printed rounded-star mini hair clawclips, onecard two columns/sixrows. Count12 retained all fullviews, productshapes/colours/materials consistent. Standalone tight real-part macro and accurateheading passed; websitequality sufficient."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-417729d5-1ce1-434b-a20c-b4bed8905390.png",
+      "prompt": "Edit the referenced actual product photograph into ONE landscape1536x1024 website photo contact sheet. Exact3columns x2rows, equal512square cells with hard boundaries at x512,1024 and y512; no gutters/borders/cell labels. Cell1top-left white-background clean product photo, cell2top-middle lavender/cream styled surface with restrained decoration, cell3top-right lifestyle tabletop retail display with SAME WHOLE ASSORTMENT (no people), cell4bottom-left standalone tight macro of a real accessory part ONLY (do not show whole assortment), cell5bottom-middle promotional arrangement whole assortment with heading \"Printed Star Hair Clips\", cell6bottom-right completely blank cream. Keep full assortment inside cells1/2/3/5 with generous margins. Remove hand, shop clutter and old price overlay; do not invent items or use unrelated products. Preserve photographed product identity, exact count, shapes, materials and colours. Each whole assortment is ONE product. Website-ready photography sufficient. Actualproduct ONE longwhite ACCESSORIES displaycard holding TWELVE tiny glossySTAR-shaped hairclawclips inTWOcolumnsSIXrows. Eachhasroundedfivepointstarwings with pastelblue/pink/lavenderprintedcartoonanimalfaces matchingactualreference; preserveexactsourceartwork andcolour distribution, smallclearplasticjaws/silversprings, notflowers/notplainstars/not6clips. Fullviews1/2/3/5 show entirewhitecard with ALL12starclips and12countable positions (2columns6rows). Noadditionalcards. Sourceplasticwrappingcanremainclean, removehand/shop/priceoverlay. Detail standalone tightmacro ofoneactualblue/pinkprintedstarclip anditsvisiblehinge, notfullcard. AccurateheadingPrinted Star Hair Clips.",
+      "sha256": "ae71dda5a39c10bae1d9651b98103298c5a3267462c366d0de7bdd9dcbb54a27",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-417729d5-1ce1-434b-a20c-b4bed8905390.png",
+      "grid_sha256": "58ed9be04f9d5416d588e1b8d97f32e8a381d4f0c741e5066df8eaf9e1fbba87",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual grid/crop compared to source: Twelve pastel printed rounded-star mini hair clawclips, onecard two columns/sixrows. Count12 retained all fullviews, productshapes/colours/materials consistent. Standalone tight real-part macro and accurateheading passed; websitequality sufficient."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Twelve pastel printed rounded-star mini hair clawclips, onecard two columns/sixrows",
+  "originals_verified_against_frozen_plan": true
+}

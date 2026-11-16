@@ -1,0 +1,50 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250127-WA0383.jpg": "c6d97517f9fba5242b3ee6c83271986bd8f54bb9dd12e6da9d189c8d28e0fc79"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-a0ff1727-5160-4885-bce5-9501710fbfa8.png",
+      "prompt": "Edit reference into premium clean white seamless ecommerce photograph. Entire foreground assortment of exactly THREE seated soft cloth dolls side by side: left beige patterned outfit, middle light green leaf-patterned outfit, right grey cat/paw-patterned outfit; peach fabric faces with embroidered blue eyes red lips and brown hair, multicolour caps and orange burgundy pink brown striped boots. Preserve their actual outfit prints hats facial features and seated front poses. Background basket dolls are shop inventory and not included. Keep exact original front view, count, arrangement, shapes and colours; do not invent backs or extra items. Remove hand, shop setting, background inventory and old price text overlay. No added text. All actual product visible, soft realistic shadows, sharp material details.",
+      "sha256": "ce73d296e443803f3fc5e0f87ebf91a5ed60136292b3c1ae8acef2252ce0ff9a",
+      "checked": true,
+      "visual_review": "Three foreground dolls retain outfit patterns, cap colours, embroidered faces and striped boots; shop inventory removed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-2d7bdb55-7898-4c16-96dd-afd830406fb3.png",
+      "prompt": "Edit reference into styled premium ecommerce photograph on a pale lavender seamless setting with cream fabric edge outside product. Entire foreground assortment of exactly THREE seated soft cloth dolls side by side: left beige patterned outfit, middle light green leaf-patterned outfit, right grey cat/paw-patterned outfit; peach fabric faces with embroidered blue eyes red lips and brown hair, multicolour caps and orange burgundy pink brown striped boots. Preserve their actual outfit prints hats facial features and seated front poses. Background basket dolls are shop inventory and not included. Preserve exact original front-facing pose and count; no invented product backs, no changed clothes. Remove hand shop background inventory and price overlay. Full product visible with soft shadows, no text.",
+      "sha256": "00914da30f33c0d254ab7684010e73dfaae3faa43dfb844f9e5edd2cb2f8bad5",
+      "checked": true,
+      "visual_review": "Count, seated front pose, actual fabric colours and accessory details retained on lavender/cream background."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-d1694024-f8d7-4d75-ade1-6e3dadce6783.png",
+      "prompt": "Edit reference into realistic lifestyle product photograph on a cream upholstered bench in a softly lit lavender nursery corner. Entire foreground assortment of exactly THREE seated soft cloth dolls side by side: left beige patterned outfit, middle light green leaf-patterned outfit, right grey cat/paw-patterned outfit; peach fabric faces with embroidered blue eyes red lips and brown hair, multicolour caps and orange burgundy pink brown striped boots. Preserve their actual outfit prints hats facial features and seated front poses. Background basket dolls are shop inventory and not included. Keep exact original seated front-facing pose, count and colours. No children or people, no other toys, no invented views or clothes. Remove hand shop setting and price overlay. Whole product visible; background tasteful and minimal.",
+      "sha256": "c56e4059f84d6fa000aa9d2e66fd4a482c8554befe1af84d22909b2572793755",
+      "checked": true,
+      "visual_review": "Seated product configuration, count, colours and fabric details retained; cream bench nursery context checked."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-2c7104e1-7b4b-4c53-a284-c3b7717090b4.png",
+      "prompt": "Tight macro photograph of middle doll's embroidered blue eye, red lips, peach fabric cheek and edge of orange burgundy cap in reference. Fill frame with actual embroidery stitches and fabric texture. Cropped detail only, no whole doll or assortment, no invented features, no text. Preserve actual toy face style.",
+      "sha256": "a6b865ba20e8eb8949295707104061e14c284c9b158ea628a5c3a7ea94b0546a",
+      "checked": true,
+      "visual_review": "Macro face embroidery, blue eye, red lips and peach fabric checked against middle doll."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-ab6b4701-ad13-436c-9173-fa762ec220cd.png",
+      "prompt": "Create promotional ecommerce product photograph with lavender and cream background and compact dark plum heading exactly 'Striped Hat Doll Collection' and subtitle 'PRODUCT COLLECTION'. Entire foreground assortment of exactly THREE seated soft cloth dolls side by side: left beige patterned outfit, middle light green leaf-patterned outfit, right grey cat/paw-patterned outfit; peach fabric faces with embroidered blue eyes red lips and brown hair, multicolour caps and orange burgundy pink brown striped boots. Preserve their actual outfit prints hats facial features and seated front poses. Background basket dolls are shop inventory and not included. Full product visible, preserve original front seated pose, count fabric and colour. Remove hand shop background inventory and price overlay; no added product parts or other text. Refined clean layout with realistic shadow.",
+      "sha256": "1faee07cc001a462ea859d154af0a3c62af19d63aa0834e984894da03de84843",
+      "checked": true,
+      "visual_review": "Product count pose fabric colours and accessories retained; correct plum heading and PRODUCT COLLECTION."
+    }
+  ],
+  "status": "five images saved and visually checked"
+}

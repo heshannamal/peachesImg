@@ -1,0 +1,58 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250205-WA0892.jpg": "3324155e3683612ffc33f233bf2f20e9b9bf3500950b5bad171e91296f62c4e4"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-380a6ff4-e45e-4fa2-aac0-245e02f21381.png",
+      "prompt": "Edit reference into website-ready clean white seamless ecommerce photograph. Whole card of TEN plush snap hair clips stacked vertically in pairs magenta, pink, light pink, pale blue, cream; each has plumeria flower and rabbit-eared doll face decoration. Preserve clear retail sleeve and card, exact count ordering shapes colours. Preserve original front view, actual product identity count shapes colours materials. Remove people hands shop surrounding background and old price overlays. No added text. Full assortment visible, realistic soft lighting.",
+      "sha256": "b0c2baae3b15c195ac263bc20f85e670e879a72af662b939ce21ca441221b6ad",
+      "checked": true,
+      "visual_review": "Ten plush clips retain five pairs and colours, flower/character identity and card."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-17477351-3074-4ac4-991e-3b0ff08d7ced.png",
+      "prompt": "Recovered prior native imagegen styled photograph; exact prompt unavailable.",
+      "sha256": "175391d8e243e0b47f59f748763034316e5fc79534751bde80531ba9b0ac4382",
+      "checked": true,
+      "visual_review": "Ten clips retained in five paired colours with flowers and characters on original sleeve; lavender background."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-69b266fa-78fa-4e35-b50b-ee8b23ac823d.png",
+      "prompt": "Lifestyle product photo on cream vanity table near window with lavender wall, no people. Whole card TEN plush snap hair clips stacked vertically in five pairs: magenta, pink, light pink, pale blue, cream; each clip has plumeria flower and rabbit-eared doll face decoration. Preserve clear retail sleeve card, exact count ordering shapes colours. Preserve original front view identity shape count colours and packaging. Remove hand shop people and price overlay. No new text, no invented parts.",
+      "sha256": "8686e419404c5ed0873f785753f88a4eb1ab12513252df0bdecc88dd7422c2c7",
+      "checked": true,
+      "visual_review": "Website-ready visual check: product group identity, main shape colours materials and front arrangement retained."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-5bd126ef-e7a5-46bd-a810-8e199b4bef1e.png",
+      "prompt": "Tight macro photograph cropped to one magenta plush hair clip's blue plumeria flower and rabbit-eared character decoration in reference. Show plush fibres moulded flower and character, original front view, no whole assortment, no new parts or text.",
+      "sha256": "ebe846390253b0975a3cc783e342e1869691f4435e0c530ab71fbf34ba847fee",
+      "checked": true,
+      "visual_review": "Tight macro retains visible product material and main motif shapes/colours; minor generated detail differences accepted for website use."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-e2feec79-0a5d-4802-8e67-e7a638a5e6b7.png",
+      "prompt": "Promotional website product photograph on lavender/cream backdrop with compact plum heading 'Plush Character Hair Clips' and subtitle 'PRODUCT COLLECTION'. Whole card TEN plush snap hair clips stacked vertically in five pairs: magenta, pink, light pink, pale blue, cream; each clip has plumeria flower and rabbit-eared doll face decoration. Preserve clear retail sleeve card, exact count ordering shapes colours. MUST show TEN clips: positions1magenta2magenta3pink4pink5lightpink6lightpink7blue8blue9cream10cream. Do not omit position6. Same front view identity count geometry and colours. Remove people hand shop prices; no extra products or other text.",
+      "sha256": "3e171964d6de75211d98d138af97302eda4914bf06948cbaaea1ba0660becfda",
+      "checked": true,
+      "visual_review": "TENclips counted, five colour pairs retained in retail sleeve; promo title/subtitle legible."
+    }
+  ],
+  "status": "five images saved and visually checked",
+  "rejected_records": [
+    {
+      "saved_file": "Rejected/05_Promotional-nine-clips.png",
+      "sha256": "e6098b87c16feb84051981aa3cfcbaeafc77e7d8bb8e926cb1c80a5f9e9b09cb",
+      "checked": false,
+      "visual_review": "Only9clips; missing one light pink clip."
+    }
+  ]
+}

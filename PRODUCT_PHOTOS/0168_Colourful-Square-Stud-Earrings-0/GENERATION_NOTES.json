@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250210-WA0625.jpg": "ddafdc303932ad4a79d4837ad6d665b7342738f3ed1cff4e4cbdba8926d37603"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-0a569203-5c42-44fb-a5e4-7d462ddd0b31.png",
+      "prompt": "Square website catalogue photo, preserve exactly12pairs/24 small gold-tone floral star-shaped rhinestone studs with rounded petals, on white card sixrows fourstuds. Rowcolors topbottom black, royalblue, red, oliveyellow, peachorange, purple. Preserve exact shapes and stone arrangement; these are floral stars not square. Exact same quantities, orientation, layout and colors. Remove hand, shop and price overlay. Clean white background and soft shadow, no new objects or text.",
+      "sha256": "ce9ba170ce09f197e36b7634804d4ec9b51fef5b9397a064e060c7915f11eaf0",
+      "checked": true,
+      "visual_review": "Viewed against original: twenty-four studs in six rows of four; main shape and colour sequence retained. Website-ready."
+    }
+  ],
+  "status": "partial: image usage quota reached",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true,
+  "missing_views": [
+    "02_Styled-Background",
+    "03_Lifestyle",
+    "04_Detail",
+    "05_Promotional"
+  ],
+  "subject_correction": "Actual studs are small floral star shapes, not squares as folder name implies."
+}

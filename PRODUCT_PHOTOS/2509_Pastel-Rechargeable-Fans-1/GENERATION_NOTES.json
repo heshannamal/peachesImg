@@ -1,0 +1,126 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260929-WA0130.jpg": "965d45c82481ff7ac9b4a804fab0e258c4368c7d4f982104342b27e75a41d546"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-b411d509-8dd3-4ff4-baa5-497c2dd4de25.png",
+      "source_output": "/workspace/generated_images/exec-b411d509-8dd3-4ff4-baa5-497c2dd4de25.png",
+      "sha256": "d182c62da02e876fc3298362e6b5ce13fbfd4d5ae9a5e4d546248d4efa69ac67",
+      "prompt": "Edit the supplied actual original product photo into ONE website-ready landscape 1536x1024 image: borderless 3 columns \u00d7 2 rows, six equal 512\u00d7512 cells, exact split lines x512,x1024,y512. Preserve photographed product identity, count, colours, shapes and original motifs. Remove floating price/catalogue overlays and surrounding clutter only. Top row: white studio full assortment; lavender/cream styled full assortment; natural desk lifestyle full assortment. Bottom row: standalone tight macro of a real grille/button part only; promotional full assortment with accurate heading; blank cream unused. No stock substitutes, no extra sellable props, no duplicate or missing products. Subject exactly FOUR actual handheld mini fans on stands and THREE retail boxes in front. Keep left-to-right fan colours: purple grille rim/pink grille with black-purple character badge and pink handle; pink rim/turquoise grille with white cat badge and turquoise grip; mint rim/turquoise grille with white floppy-eared badge and turquoise grip; mint rim/pink grille with pink bunny badge and pink grip. Preserve circular radial grilles, one round button, coloured stand bases, and three actual boxes with printed fan image. Each full cell MUST contain four fans plus three boxes. Detail tight actual mint fan grille/button. Promo heading 'Pastel Mini Fans'. Do not invent charging cables unseen in photo.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-b411d509-8dd3-4ff4-baa5-497c2dd4de25.png",
+      "prompt": "Edit the supplied actual original product photo into ONE website-ready landscape 1536x1024 image: borderless 3 columns \u00d7 2 rows, six equal 512\u00d7512 cells, exact split lines x512,x1024,y512. Preserve photographed product identity, count, colours, shapes and original motifs. Remove floating price/catalogue overlays and surrounding clutter only. Top row: white studio full assortment; lavender/cream styled full assortment; natural desk lifestyle full assortment. Bottom row: standalone tight macro of a real grille/button part only; promotional full assortment with accurate heading; blank cream unused. No stock substitutes, no extra sellable props, no duplicate or missing products. Subject exactly FOUR actual handheld mini fans on stands and THREE retail boxes in front. Keep left-to-right fan colours: purple grille rim/pink grille with black-purple character badge and pink handle; pink rim/turquoise grille with white cat badge and turquoise grip; mint rim/turquoise grille with white floppy-eared badge and turquoise grip; mint rim/pink grille with pink bunny badge and pink grip. Preserve circular radial grilles, one round button, coloured stand bases, and three actual boxes with printed fan image. Each full cell MUST contain four fans plus three boxes. Detail tight actual mint fan grille/button. Promo heading 'Pastel Mini Fans'. Do not invent charging cables unseen in photo.\n",
+      "sha256": "1f611f5c05eeb918cd761ce4c2922665cd30ffb972447b118ddc7855fb1010b9",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-b411d509-8dd3-4ff4-baa5-497c2dd4de25.png",
+      "grid_sha256": "d182c62da02e876fc3298362e6b5ce13fbfd4d5ae9a5e4d546248d4efa69ac67",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Pass: fourfullviews preserve4actualfans plus3retailboxes, originalpurple/pink/mint/turquoisevariants andbadgeidentities, roundgrilles/buttons/stands. Tightactualmintgrille/buttonmacro, accurateheading, clean512cellcrops. FrozenoriginalandoutputSHAverified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-b411d509-8dd3-4ff4-baa5-497c2dd4de25.png",
+      "prompt": "Edit the supplied actual original product photo into ONE website-ready landscape 1536x1024 image: borderless 3 columns \u00d7 2 rows, six equal 512\u00d7512 cells, exact split lines x512,x1024,y512. Preserve photographed product identity, count, colours, shapes and original motifs. Remove floating price/catalogue overlays and surrounding clutter only. Top row: white studio full assortment; lavender/cream styled full assortment; natural desk lifestyle full assortment. Bottom row: standalone tight macro of a real grille/button part only; promotional full assortment with accurate heading; blank cream unused. No stock substitutes, no extra sellable props, no duplicate or missing products. Subject exactly FOUR actual handheld mini fans on stands and THREE retail boxes in front. Keep left-to-right fan colours: purple grille rim/pink grille with black-purple character badge and pink handle; pink rim/turquoise grille with white cat badge and turquoise grip; mint rim/turquoise grille with white floppy-eared badge and turquoise grip; mint rim/pink grille with pink bunny badge and pink grip. Preserve circular radial grilles, one round button, coloured stand bases, and three actual boxes with printed fan image. Each full cell MUST contain four fans plus three boxes. Detail tight actual mint fan grille/button. Promo heading 'Pastel Mini Fans'. Do not invent charging cables unseen in photo.\n",
+      "sha256": "dc1c1550bc3712f62c00e42b56e970583b6e3480cfc9e8f2b7fc14892b7f425b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-b411d509-8dd3-4ff4-baa5-497c2dd4de25.png",
+      "grid_sha256": "d182c62da02e876fc3298362e6b5ce13fbfd4d5ae9a5e4d546248d4efa69ac67",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Pass: fourfullviews preserve4actualfans plus3retailboxes, originalpurple/pink/mint/turquoisevariants andbadgeidentities, roundgrilles/buttons/stands. Tightactualmintgrille/buttonmacro, accurateheading, clean512cellcrops. FrozenoriginalandoutputSHAverified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-b411d509-8dd3-4ff4-baa5-497c2dd4de25.png",
+      "prompt": "Edit the supplied actual original product photo into ONE website-ready landscape 1536x1024 image: borderless 3 columns \u00d7 2 rows, six equal 512\u00d7512 cells, exact split lines x512,x1024,y512. Preserve photographed product identity, count, colours, shapes and original motifs. Remove floating price/catalogue overlays and surrounding clutter only. Top row: white studio full assortment; lavender/cream styled full assortment; natural desk lifestyle full assortment. Bottom row: standalone tight macro of a real grille/button part only; promotional full assortment with accurate heading; blank cream unused. No stock substitutes, no extra sellable props, no duplicate or missing products. Subject exactly FOUR actual handheld mini fans on stands and THREE retail boxes in front. Keep left-to-right fan colours: purple grille rim/pink grille with black-purple character badge and pink handle; pink rim/turquoise grille with white cat badge and turquoise grip; mint rim/turquoise grille with white floppy-eared badge and turquoise grip; mint rim/pink grille with pink bunny badge and pink grip. Preserve circular radial grilles, one round button, coloured stand bases, and three actual boxes with printed fan image. Each full cell MUST contain four fans plus three boxes. Detail tight actual mint fan grille/button. Promo heading 'Pastel Mini Fans'. Do not invent charging cables unseen in photo.\n",
+      "sha256": "e5577315cd839a14543f9fcb374de60438119aa9ac164a7762bf67fa6a700f13",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-b411d509-8dd3-4ff4-baa5-497c2dd4de25.png",
+      "grid_sha256": "d182c62da02e876fc3298362e6b5ce13fbfd4d5ae9a5e4d546248d4efa69ac67",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Pass: fourfullviews preserve4actualfans plus3retailboxes, originalpurple/pink/mint/turquoisevariants andbadgeidentities, roundgrilles/buttons/stands. Tightactualmintgrille/buttonmacro, accurateheading, clean512cellcrops. FrozenoriginalandoutputSHAverified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-b411d509-8dd3-4ff4-baa5-497c2dd4de25.png",
+      "prompt": "Edit the supplied actual original product photo into ONE website-ready landscape 1536x1024 image: borderless 3 columns \u00d7 2 rows, six equal 512\u00d7512 cells, exact split lines x512,x1024,y512. Preserve photographed product identity, count, colours, shapes and original motifs. Remove floating price/catalogue overlays and surrounding clutter only. Top row: white studio full assortment; lavender/cream styled full assortment; natural desk lifestyle full assortment. Bottom row: standalone tight macro of a real grille/button part only; promotional full assortment with accurate heading; blank cream unused. No stock substitutes, no extra sellable props, no duplicate or missing products. Subject exactly FOUR actual handheld mini fans on stands and THREE retail boxes in front. Keep left-to-right fan colours: purple grille rim/pink grille with black-purple character badge and pink handle; pink rim/turquoise grille with white cat badge and turquoise grip; mint rim/turquoise grille with white floppy-eared badge and turquoise grip; mint rim/pink grille with pink bunny badge and pink grip. Preserve circular radial grilles, one round button, coloured stand bases, and three actual boxes with printed fan image. Each full cell MUST contain four fans plus three boxes. Detail tight actual mint fan grille/button. Promo heading 'Pastel Mini Fans'. Do not invent charging cables unseen in photo.\n",
+      "sha256": "cfccdbcc24682c45a13e5e1b0a54796ce45a391f58fa8b3114846e069fb346c9",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-b411d509-8dd3-4ff4-baa5-497c2dd4de25.png",
+      "grid_sha256": "d182c62da02e876fc3298362e6b5ce13fbfd4d5ae9a5e4d546248d4efa69ac67",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Pass: fourfullviews preserve4actualfans plus3retailboxes, originalpurple/pink/mint/turquoisevariants andbadgeidentities, roundgrilles/buttons/stands. Tightactualmintgrille/buttonmacro, accurateheading, clean512cellcrops. FrozenoriginalandoutputSHAverified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-b411d509-8dd3-4ff4-baa5-497c2dd4de25.png",
+      "prompt": "Edit the supplied actual original product photo into ONE website-ready landscape 1536x1024 image: borderless 3 columns \u00d7 2 rows, six equal 512\u00d7512 cells, exact split lines x512,x1024,y512. Preserve photographed product identity, count, colours, shapes and original motifs. Remove floating price/catalogue overlays and surrounding clutter only. Top row: white studio full assortment; lavender/cream styled full assortment; natural desk lifestyle full assortment. Bottom row: standalone tight macro of a real grille/button part only; promotional full assortment with accurate heading; blank cream unused. No stock substitutes, no extra sellable props, no duplicate or missing products. Subject exactly FOUR actual handheld mini fans on stands and THREE retail boxes in front. Keep left-to-right fan colours: purple grille rim/pink grille with black-purple character badge and pink handle; pink rim/turquoise grille with white cat badge and turquoise grip; mint rim/turquoise grille with white floppy-eared badge and turquoise grip; mint rim/pink grille with pink bunny badge and pink grip. Preserve circular radial grilles, one round button, coloured stand bases, and three actual boxes with printed fan image. Each full cell MUST contain four fans plus three boxes. Detail tight actual mint fan grille/button. Promo heading 'Pastel Mini Fans'. Do not invent charging cables unseen in photo.\n",
+      "sha256": "0bdb38f58150d960093b0f4de6b8628076d5ce5f457275d21e33ad135deee0d4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-b411d509-8dd3-4ff4-baa5-497c2dd4de25.png",
+      "grid_sha256": "d182c62da02e876fc3298362e6b5ce13fbfd4d5ae9a5e4d546248d4efa69ac67",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Pass: fourfullviews preserve4actualfans plus3retailboxes, originalpurple/pink/mint/turquoisevariants andbadgeidentities, roundgrilles/buttons/stands. Tightactualmintgrille/buttonmacro, accurateheading, clean512cellcrops. FrozenoriginalandoutputSHAverified."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

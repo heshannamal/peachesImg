@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260916-WA0110.jpg": "8e3a8ea864dc2c5b44aade11f517b7247d3dc66baf26f8d8e8409665b558bd52"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-10b1f7e8-453c-47f3-a7fc-12b7dc8d1a59.png",
+      "source_output": "/workspace/generated_images/exec-10b1f7e8-453c-47f3-a7fc-12b7dc8d1a59.png",
+      "sha256": "cbfe125802873d2169152eae282b86752433d5fdbfd3dda94a39da8afbf60fcc",
+      "prompt": "Original-referenced edit ONLY. Make1536x1024 exact3x2equal512cells contact sheet no gutters: topwhitebackground, lavendercreamstyled, lifestyle jewellerytray; bottom TIGHTstandalone realpartmacro, promotional with heading \"Heart Charm Bangle\", blankcream. Actual ONE gold-tone round openwire cuff bangle, two big polishedball terminals atgap, three pairs small roundbeads spacedaroundthinwire, ONE hanging OPEN HEART OUTLINE charm betweenbottombeadpair. Preserve exact source singlebangle, gap, ballends, thinwire, SIXsmallbeads, charmshape andgoldcolour. All4fullviewsonewholebangle+wholecharm, generousmargins; no otherjewellery. Macro tight OPEN HEART OUTLINEcharm/jumpring andtwo smallbeads only, no entirebangle. Lifestyleoncreamvanitywithsubtlecloth, no handneeded. Removeprice/warranty/claims; accurateheadingonlypromo. Do not changecharm toother shapes. Websitequality.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-10b1f7e8-453c-47f3-a7fc-12b7dc8d1a59.png",
+      "prompt": "Original-referenced edit ONLY. Make1536x1024 exact3x2equal512cells contact sheet no gutters: topwhitebackground, lavendercreamstyled, lifestyle jewellerytray; bottom TIGHTstandalone realpartmacro, promotional with heading \"Heart Charm Bangle\", blankcream. Actual ONE gold-tone round openwire cuff bangle, two big polishedball terminals atgap, three pairs small roundbeads spacedaroundthinwire, ONE hanging OPEN HEART OUTLINE charm betweenbottombeadpair. Preserve exact source singlebangle, gap, ballends, thinwire, SIXsmallbeads, charmshape andgoldcolour. All4fullviewsonewholebangle+wholecharm, generousmargins; no otherjewellery. Macro tight OPEN HEART OUTLINEcharm/jumpring andtwo smallbeads only, no entirebangle. Lifestyleoncreamvanitywithsubtlecloth, no handneeded. Removeprice/warranty/claims; accurateheadingonlypromo. Do not changecharm toother shapes. Websitequality.",
+      "sha256": "8d6800138a49049e28db1ee1daf365a91338ec6355ad6bf2824980c68b29bdbd",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-10b1f7e8-453c-47f3-a7fc-12b7dc8d1a59.png",
+      "grid_sha256": "cbfe125802873d2169152eae282b86752433d5fdbfd3dda94a39da8afbf60fcc",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "One whole gold thinwire open cuff preserved with two ballends, six small beads, single accurate heart-outline charm. Correct white/lavender/lifestyle tray settings; macro tight actual charm attachment; accurate promotional heading and margins."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-10b1f7e8-453c-47f3-a7fc-12b7dc8d1a59.png",
+      "prompt": "Original-referenced edit ONLY. Make1536x1024 exact3x2equal512cells contact sheet no gutters: topwhitebackground, lavendercreamstyled, lifestyle jewellerytray; bottom TIGHTstandalone realpartmacro, promotional with heading \"Heart Charm Bangle\", blankcream. Actual ONE gold-tone round openwire cuff bangle, two big polishedball terminals atgap, three pairs small roundbeads spacedaroundthinwire, ONE hanging OPEN HEART OUTLINE charm betweenbottombeadpair. Preserve exact source singlebangle, gap, ballends, thinwire, SIXsmallbeads, charmshape andgoldcolour. All4fullviewsonewholebangle+wholecharm, generousmargins; no otherjewellery. Macro tight OPEN HEART OUTLINEcharm/jumpring andtwo smallbeads only, no entirebangle. Lifestyleoncreamvanitywithsubtlecloth, no handneeded. Removeprice/warranty/claims; accurateheadingonlypromo. Do not changecharm toother shapes. Websitequality.",
+      "sha256": "8b938013f5042c34deb1e967449d0103ffd07e4088cc6c7aae64c4166f6d3cdb",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-10b1f7e8-453c-47f3-a7fc-12b7dc8d1a59.png",
+      "grid_sha256": "cbfe125802873d2169152eae282b86752433d5fdbfd3dda94a39da8afbf60fcc",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "One whole gold thinwire open cuff preserved with two ballends, six small beads, single accurate heart-outline charm. Correct white/lavender/lifestyle tray settings; macro tight actual charm attachment; accurate promotional heading and margins."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-10b1f7e8-453c-47f3-a7fc-12b7dc8d1a59.png",
+      "prompt": "Original-referenced edit ONLY. Make1536x1024 exact3x2equal512cells contact sheet no gutters: topwhitebackground, lavendercreamstyled, lifestyle jewellerytray; bottom TIGHTstandalone realpartmacro, promotional with heading \"Heart Charm Bangle\", blankcream. Actual ONE gold-tone round openwire cuff bangle, two big polishedball terminals atgap, three pairs small roundbeads spacedaroundthinwire, ONE hanging OPEN HEART OUTLINE charm betweenbottombeadpair. Preserve exact source singlebangle, gap, ballends, thinwire, SIXsmallbeads, charmshape andgoldcolour. All4fullviewsonewholebangle+wholecharm, generousmargins; no otherjewellery. Macro tight OPEN HEART OUTLINEcharm/jumpring andtwo smallbeads only, no entirebangle. Lifestyleoncreamvanitywithsubtlecloth, no handneeded. Removeprice/warranty/claims; accurateheadingonlypromo. Do not changecharm toother shapes. Websitequality.",
+      "sha256": "f9e588d2aef2ace18a6a859c91fe6db57f088f77e194fbd6cc7d6df1c1fb8bef",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-10b1f7e8-453c-47f3-a7fc-12b7dc8d1a59.png",
+      "grid_sha256": "cbfe125802873d2169152eae282b86752433d5fdbfd3dda94a39da8afbf60fcc",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "One whole gold thinwire open cuff preserved with two ballends, six small beads, single accurate heart-outline charm. Correct white/lavender/lifestyle tray settings; macro tight actual charm attachment; accurate promotional heading and margins."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-10b1f7e8-453c-47f3-a7fc-12b7dc8d1a59.png",
+      "prompt": "Original-referenced edit ONLY. Make1536x1024 exact3x2equal512cells contact sheet no gutters: topwhitebackground, lavendercreamstyled, lifestyle jewellerytray; bottom TIGHTstandalone realpartmacro, promotional with heading \"Heart Charm Bangle\", blankcream. Actual ONE gold-tone round openwire cuff bangle, two big polishedball terminals atgap, three pairs small roundbeads spacedaroundthinwire, ONE hanging OPEN HEART OUTLINE charm betweenbottombeadpair. Preserve exact source singlebangle, gap, ballends, thinwire, SIXsmallbeads, charmshape andgoldcolour. All4fullviewsonewholebangle+wholecharm, generousmargins; no otherjewellery. Macro tight OPEN HEART OUTLINEcharm/jumpring andtwo smallbeads only, no entirebangle. Lifestyleoncreamvanitywithsubtlecloth, no handneeded. Removeprice/warranty/claims; accurateheadingonlypromo. Do not changecharm toother shapes. Websitequality.",
+      "sha256": "5b9e91c412acb4b2bc11d44656f2b3aa1a94d215585881453b1ece217245c162",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-10b1f7e8-453c-47f3-a7fc-12b7dc8d1a59.png",
+      "grid_sha256": "cbfe125802873d2169152eae282b86752433d5fdbfd3dda94a39da8afbf60fcc",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "One whole gold thinwire open cuff preserved with two ballends, six small beads, single accurate heart-outline charm. Correct white/lavender/lifestyle tray settings; macro tight actual charm attachment; accurate promotional heading and margins."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-10b1f7e8-453c-47f3-a7fc-12b7dc8d1a59.png",
+      "prompt": "Original-referenced edit ONLY. Make1536x1024 exact3x2equal512cells contact sheet no gutters: topwhitebackground, lavendercreamstyled, lifestyle jewellerytray; bottom TIGHTstandalone realpartmacro, promotional with heading \"Heart Charm Bangle\", blankcream. Actual ONE gold-tone round openwire cuff bangle, two big polishedball terminals atgap, three pairs small roundbeads spacedaroundthinwire, ONE hanging OPEN HEART OUTLINE charm betweenbottombeadpair. Preserve exact source singlebangle, gap, ballends, thinwire, SIXsmallbeads, charmshape andgoldcolour. All4fullviewsonewholebangle+wholecharm, generousmargins; no otherjewellery. Macro tight OPEN HEART OUTLINEcharm/jumpring andtwo smallbeads only, no entirebangle. Lifestyleoncreamvanitywithsubtlecloth, no handneeded. Removeprice/warranty/claims; accurateheadingonlypromo. Do not changecharm toother shapes. Websitequality.",
+      "sha256": "d62cd231a320e9d3ed5974638a26429dadf6d6d02075bb3b9d3cc2d0bda489bd",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-10b1f7e8-453c-47f3-a7fc-12b7dc8d1a59.png",
+      "grid_sha256": "cbfe125802873d2169152eae282b86752433d5fdbfd3dda94a39da8afbf60fcc",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "One whole gold thinwire open cuff preserved with two ballends, six small beads, single accurate heart-outline charm. Correct white/lavender/lifestyle tray settings; macro tight actual charm attachment; accurate promotional heading and margins."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "originals_verified_against_frozen_plan": true
+}

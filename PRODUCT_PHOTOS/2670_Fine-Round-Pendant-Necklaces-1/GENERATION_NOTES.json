@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261002-WA0195.jpg": "77a4897386d0d1bb2fc48621e6cbdfaa8f9964ed7814329b8e0965241e9bbf0b"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-58364759-f672-486b-b1cb-522c92a9e967.png",
+      "source_output": "/workspace/generated_images/exec-58364759-f672-486b-b1cb-522c92a9e967.png",
+      "sha256": "597a63284adb59da3cc4d0371bc4a743162574bc67534b2bc3c93e347cf6b24b",
+      "prompt": "Faithful ORIGINAL referenced conservative website product edit. ONE landscape1536x1024 image, exactly3columns x2rows, equal512squarecells, no gutters/borders/panel labels. Readingorder:01 top-left PURE WHITE seamlessbackground completeoriginalassortment;02 top-middle lavender/cream styled completeassortment;03 top-right lifestyle cream jewellerytray softlyblurredlavenderroom completeassortment;04 bottom-left standalone TIGHT MACRO of ONLYactualpart specified, cutthrough realpart not wholeassortment/card;05 bottom-middle promotional completeassortment accurateheading;06 bottom-right BLANKcreamunused. Eachfullview all THREE original clearpackaged white FactoryOutlet cards, exact three necklacecount, originaldiagonaloverlap, shape/colour/material/chain identity and visiblependants retained; do not unpack/rearrange or inventhiddenclasps/backviews/extra jewellery. Remove hand/shop and externallargeadvertisingoverlay only; preserve printedcard text, no new material/warrantyclaims. Clear softlight, realistic pale shadow, fullyframed with safemargin. THREE individually packaged fine gold-tone linked-chain necklaces, each ONE black heart-shaped inset pendant with gold rim, THREE BLACK HEARTS total. Preserve heart pointedbase/twolobes and black glossy infill; not round pendants. Macro only tight actual partial black heart gold-rim/chain junction. Heading BLACK HEART NECKLACE SET.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-58364759-f672-486b-b1cb-522c92a9e967.png",
+      "prompt": "Faithful ORIGINAL referenced conservative website product edit. ONE landscape1536x1024 image, exactly3columns x2rows, equal512squarecells, no gutters/borders/panel labels. Readingorder:01 top-left PURE WHITE seamlessbackground completeoriginalassortment;02 top-middle lavender/cream styled completeassortment;03 top-right lifestyle cream jewellerytray softlyblurredlavenderroom completeassortment;04 bottom-left standalone TIGHT MACRO of ONLYactualpart specified, cutthrough realpart not wholeassortment/card;05 bottom-middle promotional completeassortment accurateheading;06 bottom-right BLANKcreamunused. Eachfullview all THREE original clearpackaged white FactoryOutlet cards, exact three necklacecount, originaldiagonaloverlap, shape/colour/material/chain identity and visiblependants retained; do not unpack/rearrange or inventhiddenclasps/backviews/extra jewellery. Remove hand/shop and externallargeadvertisingoverlay only; preserve printedcard text, no new material/warrantyclaims. Clear softlight, realistic pale shadow, fullyframed with safemargin. THREE individually packaged fine gold-tone linked-chain necklaces, each ONE black heart-shaped inset pendant with gold rim, THREE BLACK HEARTS total. Preserve heart pointedbase/twolobes and black glossy infill; not round pendants. Macro only tight actual partial black heart gold-rim/chain junction. Heading BLACK HEART NECKLACE SET.",
+      "sha256": "8fdca08b1f7cda1179721c3340f109ca83236bce095bd98e1560efe4da7d2af5",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-58364759-f672-486b-b1cb-522c92a9e967.png",
+      "grid_sha256": "597a63284adb59da3cc4d0371bc4a743162574bc67534b2bc3c93e347cf6b24b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual 512px saved crop inspected against original: three packaged gold-tone necklaces, one black heart with gold rim each (three total); count, identity, colour and shape retained. Required white, lavender/cream styled, lifestyle tray, tight real pendant-part macro and accurate promotional heading accepted. Minor printed-card typography accepted for website quality."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-58364759-f672-486b-b1cb-522c92a9e967.png",
+      "prompt": "Faithful ORIGINAL referenced conservative website product edit. ONE landscape1536x1024 image, exactly3columns x2rows, equal512squarecells, no gutters/borders/panel labels. Readingorder:01 top-left PURE WHITE seamlessbackground completeoriginalassortment;02 top-middle lavender/cream styled completeassortment;03 top-right lifestyle cream jewellerytray softlyblurredlavenderroom completeassortment;04 bottom-left standalone TIGHT MACRO of ONLYactualpart specified, cutthrough realpart not wholeassortment/card;05 bottom-middle promotional completeassortment accurateheading;06 bottom-right BLANKcreamunused. Eachfullview all THREE original clearpackaged white FactoryOutlet cards, exact three necklacecount, originaldiagonaloverlap, shape/colour/material/chain identity and visiblependants retained; do not unpack/rearrange or inventhiddenclasps/backviews/extra jewellery. Remove hand/shop and externallargeadvertisingoverlay only; preserve printedcard text, no new material/warrantyclaims. Clear softlight, realistic pale shadow, fullyframed with safemargin. THREE individually packaged fine gold-tone linked-chain necklaces, each ONE black heart-shaped inset pendant with gold rim, THREE BLACK HEARTS total. Preserve heart pointedbase/twolobes and black glossy infill; not round pendants. Macro only tight actual partial black heart gold-rim/chain junction. Heading BLACK HEART NECKLACE SET.",
+      "sha256": "ac35c522347a9ed0d523030ccb3cb73a970f9cca7778ef3517f43462e599f632",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-58364759-f672-486b-b1cb-522c92a9e967.png",
+      "grid_sha256": "597a63284adb59da3cc4d0371bc4a743162574bc67534b2bc3c93e347cf6b24b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual 512px saved crop inspected against original: three packaged gold-tone necklaces, one black heart with gold rim each (three total); count, identity, colour and shape retained. Required white, lavender/cream styled, lifestyle tray, tight real pendant-part macro and accurate promotional heading accepted. Minor printed-card typography accepted for website quality."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-58364759-f672-486b-b1cb-522c92a9e967.png",
+      "prompt": "Faithful ORIGINAL referenced conservative website product edit. ONE landscape1536x1024 image, exactly3columns x2rows, equal512squarecells, no gutters/borders/panel labels. Readingorder:01 top-left PURE WHITE seamlessbackground completeoriginalassortment;02 top-middle lavender/cream styled completeassortment;03 top-right lifestyle cream jewellerytray softlyblurredlavenderroom completeassortment;04 bottom-left standalone TIGHT MACRO of ONLYactualpart specified, cutthrough realpart not wholeassortment/card;05 bottom-middle promotional completeassortment accurateheading;06 bottom-right BLANKcreamunused. Eachfullview all THREE original clearpackaged white FactoryOutlet cards, exact three necklacecount, originaldiagonaloverlap, shape/colour/material/chain identity and visiblependants retained; do not unpack/rearrange or inventhiddenclasps/backviews/extra jewellery. Remove hand/shop and externallargeadvertisingoverlay only; preserve printedcard text, no new material/warrantyclaims. Clear softlight, realistic pale shadow, fullyframed with safemargin. THREE individually packaged fine gold-tone linked-chain necklaces, each ONE black heart-shaped inset pendant with gold rim, THREE BLACK HEARTS total. Preserve heart pointedbase/twolobes and black glossy infill; not round pendants. Macro only tight actual partial black heart gold-rim/chain junction. Heading BLACK HEART NECKLACE SET.",
+      "sha256": "dc1bf86995969b5ae928c6da57e14cb83ebae6ba7d5e8be5432aa1ed69b5d7ff",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-58364759-f672-486b-b1cb-522c92a9e967.png",
+      "grid_sha256": "597a63284adb59da3cc4d0371bc4a743162574bc67534b2bc3c93e347cf6b24b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual 512px saved crop inspected against original: three packaged gold-tone necklaces, one black heart with gold rim each (three total); count, identity, colour and shape retained. Required white, lavender/cream styled, lifestyle tray, tight real pendant-part macro and accurate promotional heading accepted. Minor printed-card typography accepted for website quality."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-58364759-f672-486b-b1cb-522c92a9e967.png",
+      "prompt": "Faithful ORIGINAL referenced conservative website product edit. ONE landscape1536x1024 image, exactly3columns x2rows, equal512squarecells, no gutters/borders/panel labels. Readingorder:01 top-left PURE WHITE seamlessbackground completeoriginalassortment;02 top-middle lavender/cream styled completeassortment;03 top-right lifestyle cream jewellerytray softlyblurredlavenderroom completeassortment;04 bottom-left standalone TIGHT MACRO of ONLYactualpart specified, cutthrough realpart not wholeassortment/card;05 bottom-middle promotional completeassortment accurateheading;06 bottom-right BLANKcreamunused. Eachfullview all THREE original clearpackaged white FactoryOutlet cards, exact three necklacecount, originaldiagonaloverlap, shape/colour/material/chain identity and visiblependants retained; do not unpack/rearrange or inventhiddenclasps/backviews/extra jewellery. Remove hand/shop and externallargeadvertisingoverlay only; preserve printedcard text, no new material/warrantyclaims. Clear softlight, realistic pale shadow, fullyframed with safemargin. THREE individually packaged fine gold-tone linked-chain necklaces, each ONE black heart-shaped inset pendant with gold rim, THREE BLACK HEARTS total. Preserve heart pointedbase/twolobes and black glossy infill; not round pendants. Macro only tight actual partial black heart gold-rim/chain junction. Heading BLACK HEART NECKLACE SET.",
+      "sha256": "ff7b4c285fd097192a5bad07874f096e69708325d0d773832e0931a3e524df86",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-58364759-f672-486b-b1cb-522c92a9e967.png",
+      "grid_sha256": "597a63284adb59da3cc4d0371bc4a743162574bc67534b2bc3c93e347cf6b24b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual 512px saved crop inspected against original: three packaged gold-tone necklaces, one black heart with gold rim each (three total); count, identity, colour and shape retained. Required white, lavender/cream styled, lifestyle tray, tight real pendant-part macro and accurate promotional heading accepted. Minor printed-card typography accepted for website quality."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-58364759-f672-486b-b1cb-522c92a9e967.png",
+      "prompt": "Faithful ORIGINAL referenced conservative website product edit. ONE landscape1536x1024 image, exactly3columns x2rows, equal512squarecells, no gutters/borders/panel labels. Readingorder:01 top-left PURE WHITE seamlessbackground completeoriginalassortment;02 top-middle lavender/cream styled completeassortment;03 top-right lifestyle cream jewellerytray softlyblurredlavenderroom completeassortment;04 bottom-left standalone TIGHT MACRO of ONLYactualpart specified, cutthrough realpart not wholeassortment/card;05 bottom-middle promotional completeassortment accurateheading;06 bottom-right BLANKcreamunused. Eachfullview all THREE original clearpackaged white FactoryOutlet cards, exact three necklacecount, originaldiagonaloverlap, shape/colour/material/chain identity and visiblependants retained; do not unpack/rearrange or inventhiddenclasps/backviews/extra jewellery. Remove hand/shop and externallargeadvertisingoverlay only; preserve printedcard text, no new material/warrantyclaims. Clear softlight, realistic pale shadow, fullyframed with safemargin. THREE individually packaged fine gold-tone linked-chain necklaces, each ONE black heart-shaped inset pendant with gold rim, THREE BLACK HEARTS total. Preserve heart pointedbase/twolobes and black glossy infill; not round pendants. Macro only tight actual partial black heart gold-rim/chain junction. Heading BLACK HEART NECKLACE SET.",
+      "sha256": "59abc78c0e4b11a24ce81ca5552fccd9d1c3459c8ac2e9900534ff1de3fbe38d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-58364759-f672-486b-b1cb-522c92a9e967.png",
+      "grid_sha256": "597a63284adb59da3cc4d0371bc4a743162574bc67534b2bc3c93e347cf6b24b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual 512px saved crop inspected against original: three packaged gold-tone necklaces, one black heart with gold rim each (three total); count, identity, colour and shape retained. Required white, lavender/cream styled, lifestyle tray, tight real pendant-part macro and accurate promotional heading accepted. Minor printed-card typography accepted for website quality."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "plan_original_hashes_verified": true
+}

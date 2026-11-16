@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260929-WA0195.jpg": "efffafa19e8d5140e92a6529253121368f5a76438e7fa3ddd8310e8eceb49117"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-e8de00e8-f242-4e40-bfda-942800695708.png",
+      "source_output": "/workspace/generated_images/exec-e8de00e8-f242-4e40-bfda-942800695708.png",
+      "sha256": "e3528d00b0dad311813c6dfc74f810c8cad980b185878869a1486b7350e6889e",
+      "prompt": "Edit the attached actualoriginal intoONE1536x1024 websitecontactsheet, exactly3columns2rows,512squarecells,no gutters. Toprow: purewhitefullassortment; lavendercreamstyledfullassortment; vanitytablelifestylefullassortment. Bottomrow: standalone tightrealpartmacro; fullassortment promotionalaccurateheading; blankcream. Keepallproductswithineachcell. Preserve actualvisibleassortment count/identity/shapes/colours, noextras; removehand,shopbackground,outerbag,oldpriceoverlay. ActualproductTWELVElargeclearresinplumeriaflowerhairclaws,2columns6rows, goldfleckswithintransparentfivepetals andcolouredcentres. Exactoriginalleftcoltopbottom:blue,blue,magenta,magenta,limegreen,limegreen. Rightcoltopbottom:yellow,yellow,red,red,purple,purple. Sixcolourpairs,12flowers total; preserveoriginalfivepetaloutline, goldflecks,clearclawteeth/hinges. No opaqueplasticorwhiteflowers. Macro tightactualtransparentflowerpetalgoldflecksandcolourcentre, notwholeassortment. Promotionalheading \"Gold Fleck Flower Hair Claws\". Do notinventgoldplatingclaims; goldflecksvisible.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-e8de00e8-f242-4e40-bfda-942800695708.png",
+      "prompt": "Edit the attached actualoriginal intoONE1536x1024 websitecontactsheet, exactly3columns2rows,512squarecells,no gutters. Toprow: purewhitefullassortment; lavendercreamstyledfullassortment; vanitytablelifestylefullassortment. Bottomrow: standalone tightrealpartmacro; fullassortment promotionalaccurateheading; blankcream. Keepallproductswithineachcell. Preserve actualvisibleassortment count/identity/shapes/colours, noextras; removehand,shopbackground,outerbag,oldpriceoverlay. ActualproductTWELVElargeclearresinplumeriaflowerhairclaws,2columns6rows, goldfleckswithintransparentfivepetals andcolouredcentres. Exactoriginalleftcoltopbottom:blue,blue,magenta,magenta,limegreen,limegreen. Rightcoltopbottom:yellow,yellow,red,red,purple,purple. Sixcolourpairs,12flowers total; preserveoriginalfivepetaloutline, goldflecks,clearclawteeth/hinges. No opaqueplasticorwhiteflowers. Macro tightactualtransparentflowerpetalgoldflecksandcolourcentre, notwholeassortment. Promotionalheading \"Gold Fleck Flower Hair Claws\". Do notinventgoldplatingclaims; goldflecksvisible.",
+      "sha256": "2feea21c4dfeaef68354fce33e302b12d88e01b803a9424ea1b27e632b80c599",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e8de00e8-f242-4e40-bfda-942800695708.png",
+      "grid_sha256": "e3528d00b0dad311813c6dfc74f810c8cad980b185878869a1486b7350e6889e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual five savedcrops inspected:12transparentresinfivepetalflowerclaws withgoldflecks,sixcolourpairs exactoriginalorderblue/magenta/limeleft,yellow/red/purpleright. Counts/petalshape/colour/clearclawteethpreserved. White/lavenderstyled/vanitylifestyle valid, tightrealpetalgoldfleckmacro;accuratepromotionalheading,no goldplatingclaim."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-e8de00e8-f242-4e40-bfda-942800695708.png",
+      "prompt": "Edit the attached actualoriginal intoONE1536x1024 websitecontactsheet, exactly3columns2rows,512squarecells,no gutters. Toprow: purewhitefullassortment; lavendercreamstyledfullassortment; vanitytablelifestylefullassortment. Bottomrow: standalone tightrealpartmacro; fullassortment promotionalaccurateheading; blankcream. Keepallproductswithineachcell. Preserve actualvisibleassortment count/identity/shapes/colours, noextras; removehand,shopbackground,outerbag,oldpriceoverlay. ActualproductTWELVElargeclearresinplumeriaflowerhairclaws,2columns6rows, goldfleckswithintransparentfivepetals andcolouredcentres. Exactoriginalleftcoltopbottom:blue,blue,magenta,magenta,limegreen,limegreen. Rightcoltopbottom:yellow,yellow,red,red,purple,purple. Sixcolourpairs,12flowers total; preserveoriginalfivepetaloutline, goldflecks,clearclawteeth/hinges. No opaqueplasticorwhiteflowers. Macro tightactualtransparentflowerpetalgoldflecksandcolourcentre, notwholeassortment. Promotionalheading \"Gold Fleck Flower Hair Claws\". Do notinventgoldplatingclaims; goldflecksvisible.",
+      "sha256": "103b8709a294f553addae63624ecb5f046e45525fb08afda8857b3cb1dd21284",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e8de00e8-f242-4e40-bfda-942800695708.png",
+      "grid_sha256": "e3528d00b0dad311813c6dfc74f810c8cad980b185878869a1486b7350e6889e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual five savedcrops inspected:12transparentresinfivepetalflowerclaws withgoldflecks,sixcolourpairs exactoriginalorderblue/magenta/limeleft,yellow/red/purpleright. Counts/petalshape/colour/clearclawteethpreserved. White/lavenderstyled/vanitylifestyle valid, tightrealpetalgoldfleckmacro;accuratepromotionalheading,no goldplatingclaim."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-e8de00e8-f242-4e40-bfda-942800695708.png",
+      "prompt": "Edit the attached actualoriginal intoONE1536x1024 websitecontactsheet, exactly3columns2rows,512squarecells,no gutters. Toprow: purewhitefullassortment; lavendercreamstyledfullassortment; vanitytablelifestylefullassortment. Bottomrow: standalone tightrealpartmacro; fullassortment promotionalaccurateheading; blankcream. Keepallproductswithineachcell. Preserve actualvisibleassortment count/identity/shapes/colours, noextras; removehand,shopbackground,outerbag,oldpriceoverlay. ActualproductTWELVElargeclearresinplumeriaflowerhairclaws,2columns6rows, goldfleckswithintransparentfivepetals andcolouredcentres. Exactoriginalleftcoltopbottom:blue,blue,magenta,magenta,limegreen,limegreen. Rightcoltopbottom:yellow,yellow,red,red,purple,purple. Sixcolourpairs,12flowers total; preserveoriginalfivepetaloutline, goldflecks,clearclawteeth/hinges. No opaqueplasticorwhiteflowers. Macro tightactualtransparentflowerpetalgoldflecksandcolourcentre, notwholeassortment. Promotionalheading \"Gold Fleck Flower Hair Claws\". Do notinventgoldplatingclaims; goldflecksvisible.",
+      "sha256": "31593198a8d69c0bec2f7f07a617e8a4679ddcc2f466273127859db6d58be450",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e8de00e8-f242-4e40-bfda-942800695708.png",
+      "grid_sha256": "e3528d00b0dad311813c6dfc74f810c8cad980b185878869a1486b7350e6889e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual five savedcrops inspected:12transparentresinfivepetalflowerclaws withgoldflecks,sixcolourpairs exactoriginalorderblue/magenta/limeleft,yellow/red/purpleright. Counts/petalshape/colour/clearclawteethpreserved. White/lavenderstyled/vanitylifestyle valid, tightrealpetalgoldfleckmacro;accuratepromotionalheading,no goldplatingclaim."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-e8de00e8-f242-4e40-bfda-942800695708.png",
+      "prompt": "Edit the attached actualoriginal intoONE1536x1024 websitecontactsheet, exactly3columns2rows,512squarecells,no gutters. Toprow: purewhitefullassortment; lavendercreamstyledfullassortment; vanitytablelifestylefullassortment. Bottomrow: standalone tightrealpartmacro; fullassortment promotionalaccurateheading; blankcream. Keepallproductswithineachcell. Preserve actualvisibleassortment count/identity/shapes/colours, noextras; removehand,shopbackground,outerbag,oldpriceoverlay. ActualproductTWELVElargeclearresinplumeriaflowerhairclaws,2columns6rows, goldfleckswithintransparentfivepetals andcolouredcentres. Exactoriginalleftcoltopbottom:blue,blue,magenta,magenta,limegreen,limegreen. Rightcoltopbottom:yellow,yellow,red,red,purple,purple. Sixcolourpairs,12flowers total; preserveoriginalfivepetaloutline, goldflecks,clearclawteeth/hinges. No opaqueplasticorwhiteflowers. Macro tightactualtransparentflowerpetalgoldflecksandcolourcentre, notwholeassortment. Promotionalheading \"Gold Fleck Flower Hair Claws\". Do notinventgoldplatingclaims; goldflecksvisible.",
+      "sha256": "9ff91e7abee1ac5c3bda9163d3a61b5ce5799a52507dab18cdce3f1e65fe0b06",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e8de00e8-f242-4e40-bfda-942800695708.png",
+      "grid_sha256": "e3528d00b0dad311813c6dfc74f810c8cad980b185878869a1486b7350e6889e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual five savedcrops inspected:12transparentresinfivepetalflowerclaws withgoldflecks,sixcolourpairs exactoriginalorderblue/magenta/limeleft,yellow/red/purpleright. Counts/petalshape/colour/clearclawteethpreserved. White/lavenderstyled/vanitylifestyle valid, tightrealpetalgoldfleckmacro;accuratepromotionalheading,no goldplatingclaim."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-e8de00e8-f242-4e40-bfda-942800695708.png",
+      "prompt": "Edit the attached actualoriginal intoONE1536x1024 websitecontactsheet, exactly3columns2rows,512squarecells,no gutters. Toprow: purewhitefullassortment; lavendercreamstyledfullassortment; vanitytablelifestylefullassortment. Bottomrow: standalone tightrealpartmacro; fullassortment promotionalaccurateheading; blankcream. Keepallproductswithineachcell. Preserve actualvisibleassortment count/identity/shapes/colours, noextras; removehand,shopbackground,outerbag,oldpriceoverlay. ActualproductTWELVElargeclearresinplumeriaflowerhairclaws,2columns6rows, goldfleckswithintransparentfivepetals andcolouredcentres. Exactoriginalleftcoltopbottom:blue,blue,magenta,magenta,limegreen,limegreen. Rightcoltopbottom:yellow,yellow,red,red,purple,purple. Sixcolourpairs,12flowers total; preserveoriginalfivepetaloutline, goldflecks,clearclawteeth/hinges. No opaqueplasticorwhiteflowers. Macro tightactualtransparentflowerpetalgoldflecksandcolourcentre, notwholeassortment. Promotionalheading \"Gold Fleck Flower Hair Claws\". Do notinventgoldplatingclaims; goldflecksvisible.",
+      "sha256": "49dffed71ff1de02aed0518921be150c6f19103906c29f8296666504cd333315",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e8de00e8-f242-4e40-bfda-942800695708.png",
+      "grid_sha256": "e3528d00b0dad311813c6dfc74f810c8cad980b185878869a1486b7350e6889e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual five savedcrops inspected:12transparentresinfivepetalflowerclaws withgoldflecks,sixcolourpairs exactoriginalorderblue/magenta/limeleft,yellow/red/purpleright. Counts/petalshape/colour/clearclawteethpreserved. White/lavenderstyled/vanitylifestyle valid, tightrealpetalgoldfleckmacro;accuratepromotionalheading,no goldplatingclaim."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

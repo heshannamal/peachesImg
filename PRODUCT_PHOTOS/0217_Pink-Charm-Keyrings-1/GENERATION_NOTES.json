@@ -1,0 +1,51 @@
+{
+  "tool": "built-in image_gen",
+  "status": "five images generated and visually checked",
+  "original_hashes": {
+    "Originals/IMG-20250217-WA0113.jpg": "2af71c15528c29878409216727b0180ada4b0977353ab0ddbd1f93043002116e"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-87dd6fef-1091-40dd-af06-b6fdcba61675.png",
+      "prompt": "Edit exact reference into ONE realistic clean website product photo. Twelve pink charm keyrings in original overlapping arrangement,individual clear wrappers attached silver split rings/chains on red KEYCHAIN header. Preserve original mixture of pink heart shapes with Barbie lettering/profile and round/bow pink charms,front/back orientations exactly visible. Keep exact12rings,charms,chains,colours,size and package; do not invent hidden charm fronts. Entire assortment ONE product,preserve identity/count/shape/material/colour/packaging. Pure white seamless background,soft contact shadows,whole assortment inside frame. Remove hand,shop,old price overlays. No extra products,parts or imagined reverse views.",
+      "sha256": "cfbdcd9483eb552094d891c3500ca89fa1db2970898522b3dd490c529cb8c9ce",
+      "checked": true,
+      "visual_review": "Pink heart keyring assortment retains visible overlapping arrangement,Barbie lettering/profile,pink bows,silver rings/chains and red header. Overlap prevents independent exact charm count; no obvious missing section."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-462f47b9-a2b8-4ea6-8439-e36cd8694f83.png",
+      "prompt": "One realistic website styled product photo of exact original pink charm keyring assortment on red KEYCHAIN header,12silver rings/chains and wrapped pink heart/round/bow charms with Barbie lettering/profile. Preserve original overlapping arrangement and orientations,actual count,identity,shapes,colours,package. Whole assortment oneproduct on cream backdrop with lavender linen outside edges,no hand/shop/price, no invented hidden views.",
+      "sha256": "524c496c5d1781b5491755a88306d2011974f11757e91e65626c2ae04a531e4d",
+      "checked": true,
+      "visual_review": "Styled image retains original overlapping pink heart/round charm keyrings,lettering and silhouette details,red header,silver chains; count partly obscured as source."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-cc5b4f58-47a7-4f79-a8db-6766adf20ee4.png",
+      "prompt": "One realistic lifestyle website photo of exact pink charm keyring assortment on original red KEYCHAIN header in wrappers. Preserve original overlapping arrangement,count,orientations,pink heart/round/bow charms,Barbie lettering/profile,silver rings/chains. Whole assortment oneproduct on cream vanity beside lavender linen/closed book outside product. No hand/shop/price/extras/invented hidden fronts.",
+      "sha256": "c5f02e3f6da7adaca1844e4a6c20f0c3862bab509a2d0a703b2c5c94c6a755d0",
+      "checked": true,
+      "visual_review": "Lifestyle retains original pink heart/round/bow charms and overlapping orientations,lettering/profile,silver rings/chains and redheader; no obvious omitted group."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-09757a1a-7cc1-4712-a3c7-b4e1841295d4.png",
+      "prompt": "Standalone tight macro photograph of existing pink heart keyring with Barbie lettering and profile silhouette,raised pink border and a small part of original silver chain. Preserve exact existing pink material,heart shape,lettering/face silhouette. Tight crop detail only,no full pack,hand,shop,price or invented parts.",
+      "sha256": "f9a40c4a8b3c5dd22839edba3c30bec2301ad0e3a7b0639bfd2c97199a0d12f9",
+      "checked": true,
+      "visual_review": "Standalone tight detail of pink heart charm retains raised lettering,profile silhouette,border and original silver chain."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-e1599565-47af-474d-aaaf-4d317e677137.png",
+      "prompt": "One realistic promotional product photo of exact original pink charm keyring assortment,original overlapping arrangement/count/orientations,pink heart/round/bow shapes,Barbie lettering/profile,silver rings/chains,red KEYCHAIN header and clear wrappers. Whole assortmentONEproduct visible on cream lavender,compact dark plum 'Pink Charm Keyrings' plus 'PRODUCT COLLECTION'. Remove hand/shop/price,noextras or imagined hidden fronts.",
+      "sha256": "71f4563e0cd0a488be43f1f409662f9beea121da190208a7a8b321d6fd4688e3",
+      "checked": true,
+      "visual_review": "Promotional retains original pink charm grouping and orientations,raised lettering/profile,pink bows,chains,header/wrappers; title clear,product collection legible."
+    }
+  ],
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "original_plan_sha256_verified": true
+}

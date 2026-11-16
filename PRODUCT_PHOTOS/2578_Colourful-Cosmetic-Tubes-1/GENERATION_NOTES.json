@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260930-WA0337.jpg": "8fe606a81b9e68f09a2b69814fbb332b52956221a8ed046bd5d745faa96b64d7"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-77ebdf59-e3eb-4b2c-9235-b0067f58e8bd.png",
+      "source_output": "/workspace/generated_images/exec-77ebdf59-e3eb-4b2c-9235-b0067f58e8bd.png",
+      "sha256": "4b0a004941b70209ec24563d533308cca479c061056de930c0a68e51e4f0d35d",
+      "prompt": "Edit attached original into ONE1536x1024 website contact sheet exactly3columns2rows square512cells no gutters. Toprow: purewhite fullassortment; lavender/creamstyled fullassortment; clean vanitylifestyle fullassortment. Bottomrow: standalone tight realproductpart macro; fullassortment promotional accurateheading; blankcream. No crossingboundaries, no hands/shopbackground/old wholesaleprice overlays. Preserve exact original productcount/identity/shapes/colours/packaging. Actualproduct ONEoriginal LIDANXIU FruitLipstickChange displaybox holding12cylindrical cosmeticsticks with domedclosedcaps, sixcolours2each: yellow2,skyblue2,red2,orange2,purple2,pink2. Keeporiginal3rows4columns: backrow yellow,yellow,skyblue,skyblue; middlerow red,orange,purple,pink; frontrow red,orange,purple,pink. Exactly12distincttubecaps visible everyfullview; preserve fruitprinted colourpackaging andpink/blueboxwithstrawberrycartoonheader. Do not add lipstickbullets/openproducts. Macro tightactualpinkstrawberrytube cap/printedfruit; promotionalheading \"Fruit Cosmetic Stick Assortment\". Preserveoriginalbrand/fruitprints, noinventedclaims.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-77ebdf59-e3eb-4b2c-9235-b0067f58e8bd.png",
+      "prompt": "Edit attached original into ONE1536x1024 website contact sheet exactly3columns2rows square512cells no gutters. Toprow: purewhite fullassortment; lavender/creamstyled fullassortment; clean vanitylifestyle fullassortment. Bottomrow: standalone tight realproductpart macro; fullassortment promotional accurateheading; blankcream. No crossingboundaries, no hands/shopbackground/old wholesaleprice overlays. Preserve exact original productcount/identity/shapes/colours/packaging. Actualproduct ONEoriginal LIDANXIU FruitLipstickChange displaybox holding12cylindrical cosmeticsticks with domedclosedcaps, sixcolours2each: yellow2,skyblue2,red2,orange2,purple2,pink2. Keeporiginal3rows4columns: backrow yellow,yellow,skyblue,skyblue; middlerow red,orange,purple,pink; frontrow red,orange,purple,pink. Exactly12distincttubecaps visible everyfullview; preserve fruitprinted colourpackaging andpink/blueboxwithstrawberrycartoonheader. Do not add lipstickbullets/openproducts. Macro tightactualpinkstrawberrytube cap/printedfruit; promotionalheading \"Fruit Cosmetic Stick Assortment\". Preserveoriginalbrand/fruitprints, noinventedclaims.",
+      "sha256": "d6e88aab0cf44b843819c873a15e7a1cdeb5fa417260a5ad16bdae2ef9981766",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-77ebdf59-e3eb-4b2c-9235-b0067f58e8bd.png",
+      "grid_sha256": "4b0a004941b70209ec24563d533308cca479c061056de930c0a68e51e4f0d35d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual five crops inspected: original12closed cosmeticsticks, sixcolours2each,3rows4columns, twelvevisiblecaps matchingyellowyellowblueblue/redorangepurplepink/redorangepurplepink. Originalfruitprintedpinkbluecarton preserved. White/lavenderstyled/vanitylifestyle fullassortments countcorrect; tightpinkcap/fruitprintmacro realpart; accuratepromotionalheading. Minorbrandingtypographyaccepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-77ebdf59-e3eb-4b2c-9235-b0067f58e8bd.png",
+      "prompt": "Edit attached original into ONE1536x1024 website contact sheet exactly3columns2rows square512cells no gutters. Toprow: purewhite fullassortment; lavender/creamstyled fullassortment; clean vanitylifestyle fullassortment. Bottomrow: standalone tight realproductpart macro; fullassortment promotional accurateheading; blankcream. No crossingboundaries, no hands/shopbackground/old wholesaleprice overlays. Preserve exact original productcount/identity/shapes/colours/packaging. Actualproduct ONEoriginal LIDANXIU FruitLipstickChange displaybox holding12cylindrical cosmeticsticks with domedclosedcaps, sixcolours2each: yellow2,skyblue2,red2,orange2,purple2,pink2. Keeporiginal3rows4columns: backrow yellow,yellow,skyblue,skyblue; middlerow red,orange,purple,pink; frontrow red,orange,purple,pink. Exactly12distincttubecaps visible everyfullview; preserve fruitprinted colourpackaging andpink/blueboxwithstrawberrycartoonheader. Do not add lipstickbullets/openproducts. Macro tightactualpinkstrawberrytube cap/printedfruit; promotionalheading \"Fruit Cosmetic Stick Assortment\". Preserveoriginalbrand/fruitprints, noinventedclaims.",
+      "sha256": "2bcc3af8e7cd4e8cd2368ca4682854ad7a585610fae53dc4492912f9b45af38e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-77ebdf59-e3eb-4b2c-9235-b0067f58e8bd.png",
+      "grid_sha256": "4b0a004941b70209ec24563d533308cca479c061056de930c0a68e51e4f0d35d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual five crops inspected: original12closed cosmeticsticks, sixcolours2each,3rows4columns, twelvevisiblecaps matchingyellowyellowblueblue/redorangepurplepink/redorangepurplepink. Originalfruitprintedpinkbluecarton preserved. White/lavenderstyled/vanitylifestyle fullassortments countcorrect; tightpinkcap/fruitprintmacro realpart; accuratepromotionalheading. Minorbrandingtypographyaccepted."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-77ebdf59-e3eb-4b2c-9235-b0067f58e8bd.png",
+      "prompt": "Edit attached original into ONE1536x1024 website contact sheet exactly3columns2rows square512cells no gutters. Toprow: purewhite fullassortment; lavender/creamstyled fullassortment; clean vanitylifestyle fullassortment. Bottomrow: standalone tight realproductpart macro; fullassortment promotional accurateheading; blankcream. No crossingboundaries, no hands/shopbackground/old wholesaleprice overlays. Preserve exact original productcount/identity/shapes/colours/packaging. Actualproduct ONEoriginal LIDANXIU FruitLipstickChange displaybox holding12cylindrical cosmeticsticks with domedclosedcaps, sixcolours2each: yellow2,skyblue2,red2,orange2,purple2,pink2. Keeporiginal3rows4columns: backrow yellow,yellow,skyblue,skyblue; middlerow red,orange,purple,pink; frontrow red,orange,purple,pink. Exactly12distincttubecaps visible everyfullview; preserve fruitprinted colourpackaging andpink/blueboxwithstrawberrycartoonheader. Do not add lipstickbullets/openproducts. Macro tightactualpinkstrawberrytube cap/printedfruit; promotionalheading \"Fruit Cosmetic Stick Assortment\". Preserveoriginalbrand/fruitprints, noinventedclaims.",
+      "sha256": "a0964d4daadac2c3e3ae5ccd9581fd24d97e02fb5be8cae29c9eec5109bc4a48",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-77ebdf59-e3eb-4b2c-9235-b0067f58e8bd.png",
+      "grid_sha256": "4b0a004941b70209ec24563d533308cca479c061056de930c0a68e51e4f0d35d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual five crops inspected: original12closed cosmeticsticks, sixcolours2each,3rows4columns, twelvevisiblecaps matchingyellowyellowblueblue/redorangepurplepink/redorangepurplepink. Originalfruitprintedpinkbluecarton preserved. White/lavenderstyled/vanitylifestyle fullassortments countcorrect; tightpinkcap/fruitprintmacro realpart; accuratepromotionalheading. Minorbrandingtypographyaccepted."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-77ebdf59-e3eb-4b2c-9235-b0067f58e8bd.png",
+      "prompt": "Edit attached original into ONE1536x1024 website contact sheet exactly3columns2rows square512cells no gutters. Toprow: purewhite fullassortment; lavender/creamstyled fullassortment; clean vanitylifestyle fullassortment. Bottomrow: standalone tight realproductpart macro; fullassortment promotional accurateheading; blankcream. No crossingboundaries, no hands/shopbackground/old wholesaleprice overlays. Preserve exact original productcount/identity/shapes/colours/packaging. Actualproduct ONEoriginal LIDANXIU FruitLipstickChange displaybox holding12cylindrical cosmeticsticks with domedclosedcaps, sixcolours2each: yellow2,skyblue2,red2,orange2,purple2,pink2. Keeporiginal3rows4columns: backrow yellow,yellow,skyblue,skyblue; middlerow red,orange,purple,pink; frontrow red,orange,purple,pink. Exactly12distincttubecaps visible everyfullview; preserve fruitprinted colourpackaging andpink/blueboxwithstrawberrycartoonheader. Do not add lipstickbullets/openproducts. Macro tightactualpinkstrawberrytube cap/printedfruit; promotionalheading \"Fruit Cosmetic Stick Assortment\". Preserveoriginalbrand/fruitprints, noinventedclaims.",
+      "sha256": "f94291b4952def652978431c0fd69085889ac5d329705102a7c7065041402451",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-77ebdf59-e3eb-4b2c-9235-b0067f58e8bd.png",
+      "grid_sha256": "4b0a004941b70209ec24563d533308cca479c061056de930c0a68e51e4f0d35d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual five crops inspected: original12closed cosmeticsticks, sixcolours2each,3rows4columns, twelvevisiblecaps matchingyellowyellowblueblue/redorangepurplepink/redorangepurplepink. Originalfruitprintedpinkbluecarton preserved. White/lavenderstyled/vanitylifestyle fullassortments countcorrect; tightpinkcap/fruitprintmacro realpart; accuratepromotionalheading. Minorbrandingtypographyaccepted."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-77ebdf59-e3eb-4b2c-9235-b0067f58e8bd.png",
+      "prompt": "Edit attached original into ONE1536x1024 website contact sheet exactly3columns2rows square512cells no gutters. Toprow: purewhite fullassortment; lavender/creamstyled fullassortment; clean vanitylifestyle fullassortment. Bottomrow: standalone tight realproductpart macro; fullassortment promotional accurateheading; blankcream. No crossingboundaries, no hands/shopbackground/old wholesaleprice overlays. Preserve exact original productcount/identity/shapes/colours/packaging. Actualproduct ONEoriginal LIDANXIU FruitLipstickChange displaybox holding12cylindrical cosmeticsticks with domedclosedcaps, sixcolours2each: yellow2,skyblue2,red2,orange2,purple2,pink2. Keeporiginal3rows4columns: backrow yellow,yellow,skyblue,skyblue; middlerow red,orange,purple,pink; frontrow red,orange,purple,pink. Exactly12distincttubecaps visible everyfullview; preserve fruitprinted colourpackaging andpink/blueboxwithstrawberrycartoonheader. Do not add lipstickbullets/openproducts. Macro tightactualpinkstrawberrytube cap/printedfruit; promotionalheading \"Fruit Cosmetic Stick Assortment\". Preserveoriginalbrand/fruitprints, noinventedclaims.",
+      "sha256": "f18b04ccb6ab47aff5336da2df0fdc5bec016dc31baeea95828812aae9d06202",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-77ebdf59-e3eb-4b2c-9235-b0067f58e8bd.png",
+      "grid_sha256": "4b0a004941b70209ec24563d533308cca479c061056de930c0a68e51e4f0d35d",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual five crops inspected: original12closed cosmeticsticks, sixcolours2each,3rows4columns, twelvevisiblecaps matchingyellowyellowblueblue/redorangepurplepink/redorangepurplepink. Originalfruitprintedpinkbluecarton preserved. White/lavenderstyled/vanitylifestyle fullassortments countcorrect; tightpinkcap/fruitprintmacro realpart; accuratepromotionalheading. Minorbrandingtypographyaccepted."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baseline_verified": true
+}

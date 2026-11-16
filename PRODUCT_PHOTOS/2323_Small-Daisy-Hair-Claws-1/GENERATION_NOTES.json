@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260814-WA0038.jpg": "940bcdec3396aa819c6caffb5a41f02d91d8f61be96655914c206d1113d8318f"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-e3268015-992f-4572-a4c9-b5b6558b67fb.png",
+      "source_output": "/workspace/generated_images/exec-e3268015-992f-4572-a4c9-b5b6558b67fb.png",
+      "sha256": "e37a9086c07125222f99b5f005ec63a16a95c1df2a47bb2717a70c2928415f97",
+      "prompt": "Native ORIGINAL REFERENCED edit of actualsuppliedphoto only. Create NEW websitephoto1536x1024landscape exact3columns x2rows equal512squarecells no gutters/borders/panellabels. Top-left completewholeassortment pureWHITEbackground #FFFFFF notsourcegrey. Top-middle sameassortment lavender/creamstyled. Top-right samewholeassortment realisticdressingtablelifestyle noextra products. Bottom-left standalone TIGHT actualrealpartdetail macro NOT wholeassortment. Bottom-middle samewholeassortment promotional accurateheading 'White Plumeria Hair Claws'. Bottom-right blankcream unused. Preserve identity/count/shapes/colours/materials, existingarrangement/visibleparts. Remove hand/supplierprice/shop/background. Allfullviews entireassortmentwithin cell. No invented extras or changedproducts. Website-readyphotorealism.\nExactly TWELVE glossy WHITE FIVE-PETAL PLUMERIA flower hairclaws with YELLOWcentres, on TWO longwhiteclearwrappedstrips eachSIXflowers vertically. Preserve2columns x6flowers, not daisies and not6total. Flowerpetals broadrounded slightlytwistingwhite with yellowgradientcentre; clearwrap and actualclawbackswherevisible. Keep actualoriginal12 in2strips; do not generatefreshflowers. Macro tightactualglossypetal/centre/clawpart.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-e3268015-992f-4572-a4c9-b5b6558b67fb.png",
+      "prompt": "Native ORIGINAL REFERENCED edit of actualsuppliedphoto only. Create NEW websitephoto1536x1024landscape exact3columns x2rows equal512squarecells no gutters/borders/panellabels. Top-left completewholeassortment pureWHITEbackground #FFFFFF notsourcegrey. Top-middle sameassortment lavender/creamstyled. Top-right samewholeassortment realisticdressingtablelifestyle noextra products. Bottom-left standalone TIGHT actualrealpartdetail macro NOT wholeassortment. Bottom-middle samewholeassortment promotional accurateheading 'White Plumeria Hair Claws'. Bottom-right blankcream unused. Preserve identity/count/shapes/colours/materials, existingarrangement/visibleparts. Remove hand/supplierprice/shop/background. Allfullviews entireassortmentwithin cell. No invented extras or changedproducts. Website-readyphotorealism.\nExactly TWELVE glossy WHITE FIVE-PETAL PLUMERIA flower hairclaws with YELLOWcentres, on TWO longwhiteclearwrappedstrips eachSIXflowers vertically. Preserve2columns x6flowers, not daisies and not6total. Flowerpetals broadrounded slightlytwistingwhite with yellowgradientcentre; clearwrap and actualclawbackswherevisible. Keep actualoriginal12 in2strips; do not generatefreshflowers. Macro tightactualglossypetal/centre/clawpart.",
+      "sha256": "676bee46aad66565870e0900718b26798cbf4220eab0f497d61c4a5cd134fc57",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e3268015-992f-4572-a4c9-b5b6558b67fb.png",
+      "grid_sha256": "e37a9086c07125222f99b5f005ec63a16a95c1df2a47bb2717a70c2928415f97",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual savedcrops inspected:exact12claws in2x6, whiteglossypetals/yellowcentres/clearwrap/whiteclawbacks retained. Completeassortment white/lavendercream/vanity/promo and standalone tightrealflower/clawpartdetail. Accurateheading, correct512boundaries."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-e3268015-992f-4572-a4c9-b5b6558b67fb.png",
+      "prompt": "Native ORIGINAL REFERENCED edit of actualsuppliedphoto only. Create NEW websitephoto1536x1024landscape exact3columns x2rows equal512squarecells no gutters/borders/panellabels. Top-left completewholeassortment pureWHITEbackground #FFFFFF notsourcegrey. Top-middle sameassortment lavender/creamstyled. Top-right samewholeassortment realisticdressingtablelifestyle noextra products. Bottom-left standalone TIGHT actualrealpartdetail macro NOT wholeassortment. Bottom-middle samewholeassortment promotional accurateheading 'White Plumeria Hair Claws'. Bottom-right blankcream unused. Preserve identity/count/shapes/colours/materials, existingarrangement/visibleparts. Remove hand/supplierprice/shop/background. Allfullviews entireassortmentwithin cell. No invented extras or changedproducts. Website-readyphotorealism.\nExactly TWELVE glossy WHITE FIVE-PETAL PLUMERIA flower hairclaws with YELLOWcentres, on TWO longwhiteclearwrappedstrips eachSIXflowers vertically. Preserve2columns x6flowers, not daisies and not6total. Flowerpetals broadrounded slightlytwistingwhite with yellowgradientcentre; clearwrap and actualclawbackswherevisible. Keep actualoriginal12 in2strips; do not generatefreshflowers. Macro tightactualglossypetal/centre/clawpart.",
+      "sha256": "5b5af01b663178290b6121c9537ec061a8f65990855d534e7da4636f1f9ca41a",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e3268015-992f-4572-a4c9-b5b6558b67fb.png",
+      "grid_sha256": "e37a9086c07125222f99b5f005ec63a16a95c1df2a47bb2717a70c2928415f97",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual savedcrops inspected:exact12claws in2x6, whiteglossypetals/yellowcentres/clearwrap/whiteclawbacks retained. Completeassortment white/lavendercream/vanity/promo and standalone tightrealflower/clawpartdetail. Accurateheading, correct512boundaries."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-e3268015-992f-4572-a4c9-b5b6558b67fb.png",
+      "prompt": "Native ORIGINAL REFERENCED edit of actualsuppliedphoto only. Create NEW websitephoto1536x1024landscape exact3columns x2rows equal512squarecells no gutters/borders/panellabels. Top-left completewholeassortment pureWHITEbackground #FFFFFF notsourcegrey. Top-middle sameassortment lavender/creamstyled. Top-right samewholeassortment realisticdressingtablelifestyle noextra products. Bottom-left standalone TIGHT actualrealpartdetail macro NOT wholeassortment. Bottom-middle samewholeassortment promotional accurateheading 'White Plumeria Hair Claws'. Bottom-right blankcream unused. Preserve identity/count/shapes/colours/materials, existingarrangement/visibleparts. Remove hand/supplierprice/shop/background. Allfullviews entireassortmentwithin cell. No invented extras or changedproducts. Website-readyphotorealism.\nExactly TWELVE glossy WHITE FIVE-PETAL PLUMERIA flower hairclaws with YELLOWcentres, on TWO longwhiteclearwrappedstrips eachSIXflowers vertically. Preserve2columns x6flowers, not daisies and not6total. Flowerpetals broadrounded slightlytwistingwhite with yellowgradientcentre; clearwrap and actualclawbackswherevisible. Keep actualoriginal12 in2strips; do not generatefreshflowers. Macro tightactualglossypetal/centre/clawpart.",
+      "sha256": "c1ecf8c3abea478cd3a3fbf52a62ac837cd05ace10992f462220eece8747b84b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e3268015-992f-4572-a4c9-b5b6558b67fb.png",
+      "grid_sha256": "e37a9086c07125222f99b5f005ec63a16a95c1df2a47bb2717a70c2928415f97",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual savedcrops inspected:exact12claws in2x6, whiteglossypetals/yellowcentres/clearwrap/whiteclawbacks retained. Completeassortment white/lavendercream/vanity/promo and standalone tightrealflower/clawpartdetail. Accurateheading, correct512boundaries."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-e3268015-992f-4572-a4c9-b5b6558b67fb.png",
+      "prompt": "Native ORIGINAL REFERENCED edit of actualsuppliedphoto only. Create NEW websitephoto1536x1024landscape exact3columns x2rows equal512squarecells no gutters/borders/panellabels. Top-left completewholeassortment pureWHITEbackground #FFFFFF notsourcegrey. Top-middle sameassortment lavender/creamstyled. Top-right samewholeassortment realisticdressingtablelifestyle noextra products. Bottom-left standalone TIGHT actualrealpartdetail macro NOT wholeassortment. Bottom-middle samewholeassortment promotional accurateheading 'White Plumeria Hair Claws'. Bottom-right blankcream unused. Preserve identity/count/shapes/colours/materials, existingarrangement/visibleparts. Remove hand/supplierprice/shop/background. Allfullviews entireassortmentwithin cell. No invented extras or changedproducts. Website-readyphotorealism.\nExactly TWELVE glossy WHITE FIVE-PETAL PLUMERIA flower hairclaws with YELLOWcentres, on TWO longwhiteclearwrappedstrips eachSIXflowers vertically. Preserve2columns x6flowers, not daisies and not6total. Flowerpetals broadrounded slightlytwistingwhite with yellowgradientcentre; clearwrap and actualclawbackswherevisible. Keep actualoriginal12 in2strips; do not generatefreshflowers. Macro tightactualglossypetal/centre/clawpart.",
+      "sha256": "df188c89bd08ed60e97c62946cedf3e2c1c9357fbce054fbe86a8acceede13fd",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e3268015-992f-4572-a4c9-b5b6558b67fb.png",
+      "grid_sha256": "e37a9086c07125222f99b5f005ec63a16a95c1df2a47bb2717a70c2928415f97",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual savedcrops inspected:exact12claws in2x6, whiteglossypetals/yellowcentres/clearwrap/whiteclawbacks retained. Completeassortment white/lavendercream/vanity/promo and standalone tightrealflower/clawpartdetail. Accurateheading, correct512boundaries."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-e3268015-992f-4572-a4c9-b5b6558b67fb.png",
+      "prompt": "Native ORIGINAL REFERENCED edit of actualsuppliedphoto only. Create NEW websitephoto1536x1024landscape exact3columns x2rows equal512squarecells no gutters/borders/panellabels. Top-left completewholeassortment pureWHITEbackground #FFFFFF notsourcegrey. Top-middle sameassortment lavender/creamstyled. Top-right samewholeassortment realisticdressingtablelifestyle noextra products. Bottom-left standalone TIGHT actualrealpartdetail macro NOT wholeassortment. Bottom-middle samewholeassortment promotional accurateheading 'White Plumeria Hair Claws'. Bottom-right blankcream unused. Preserve identity/count/shapes/colours/materials, existingarrangement/visibleparts. Remove hand/supplierprice/shop/background. Allfullviews entireassortmentwithin cell. No invented extras or changedproducts. Website-readyphotorealism.\nExactly TWELVE glossy WHITE FIVE-PETAL PLUMERIA flower hairclaws with YELLOWcentres, on TWO longwhiteclearwrappedstrips eachSIXflowers vertically. Preserve2columns x6flowers, not daisies and not6total. Flowerpetals broadrounded slightlytwistingwhite with yellowgradientcentre; clearwrap and actualclawbackswherevisible. Keep actualoriginal12 in2strips; do not generatefreshflowers. Macro tightactualglossypetal/centre/clawpart.",
+      "sha256": "45700df16f7aeb4f0f99f39b97c7a56891ffd7d99ae41ce8150cbe6da9a3568f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e3268015-992f-4572-a4c9-b5b6558b67fb.png",
+      "grid_sha256": "e37a9086c07125222f99b5f005ec63a16a95c1df2a47bb2717a70c2928415f97",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual savedcrops inspected:exact12claws in2x6, whiteglossypetals/yellowcentres/clearwrap/whiteclawbacks retained. Completeassortment white/lavendercream/vanity/promo and standalone tightrealflower/clawpartdetail. Accurateheading, correct512boundaries."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Twelve white/yellow fivepetalplumeria hairclaws in two clearwrappedstrips ofsix; folderdaisywrong",
+  "original_baseline_verified": true
+}

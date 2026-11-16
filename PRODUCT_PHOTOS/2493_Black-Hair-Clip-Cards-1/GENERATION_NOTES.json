@@ -1,0 +1,126 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260923-WA0281.jpg": "0eab03ce90c552a394f8a2810dd26be31fdf3dc0f7725c499094a5673ef6574e"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-bd7d31d1-f6e7-4db0-aec1-11365cf4ff70.png",
+      "source_output": "/workspace/generated_images/exec-bd7d31d1-f6e7-4db0-aec1-11365cf4ff70.png",
+      "sha256": "8fa79aeb2af4e1ec679a0aed680dbd3770fad2ac2d2407f497c4cd83975fe590",
+      "prompt": "Native faithful edit of supplied actual photo collage into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Original whole assortment is SIX DISTINCT white Saras retail cards, eachwithSIX horizontal hair barrettes, total36clips. The originalcollage shows sixdifferentstylecards, NOT6views ofonecard. Fullviewcells must show all6cards together in2rows3, sixclips/card; preserve sixoriginalstyle silhouettes, counts,colours,patterns. Remove hand/greywall/oldprice/collageborders only. Toprowwhite full6cardassortment,lavendercreamstyled full6cardassortment,naturalvanitydesk full6cardassortment. Bottomrowtightstandalone REALPARTmacro ofoneclip surface/edgeonly, promotionalall6cardswithaccurateheading,blankcreamunused. Exactsplit512/1024/512,no gutters/borders. All36barrettes GLOSSYBLACK asoriginal. Sixcardstyles match source: broad curvedbarwithwiderroundedends; narrowwaistedbowbar; roundedovalbar; straightsquare-endedrectangularbar; gentlycurvedtaperedbar; elongatedroundcornerpillbar. Keep6ofeachstyleonitsowncard and actualwhitegoldSarasprinting. Do notturn into snapclips orclaws. Detailtightblackglossycurvededge andrealbackclaspedgeifvisible. Heading 'Black Barrette Assortment'.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-bd7d31d1-f6e7-4db0-aec1-11365cf4ff70.png",
+      "prompt": "Native faithful edit of supplied actual photo collage into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Original whole assortment is SIX DISTINCT white Saras retail cards, eachwithSIX horizontal hair barrettes, total36clips. The originalcollage shows sixdifferentstylecards, NOT6views ofonecard. Fullviewcells must show all6cards together in2rows3, sixclips/card; preserve sixoriginalstyle silhouettes, counts,colours,patterns. Remove hand/greywall/oldprice/collageborders only. Toprowwhite full6cardassortment,lavendercreamstyled full6cardassortment,naturalvanitydesk full6cardassortment. Bottomrowtightstandalone REALPARTmacro ofoneclip surface/edgeonly, promotionalall6cardswithaccurateheading,blankcreamunused. Exactsplit512/1024/512,no gutters/borders. All36barrettes GLOSSYBLACK asoriginal. Sixcardstyles match source: broad curvedbarwithwiderroundedends; narrowwaistedbowbar; roundedovalbar; straightsquare-endedrectangularbar; gentlycurvedtaperedbar; elongatedroundcornerpillbar. Keep6ofeachstyleonitsowncard and actualwhitegoldSarasprinting. Do notturn into snapclips orclaws. Detailtightblackglossycurvededge andrealbackclaspedgeifvisible. Heading 'Black Barrette Assortment'.\n",
+      "sha256": "23d97b321a96360e06a2de80dd88b6127df5496ba4fad42fab2a92a3f7a9cdd2",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-bd7d31d1-f6e7-4db0-aec1-11365cf4ff70.png",
+      "grid_sha256": "8fa79aeb2af4e1ec679a0aed680dbd3770fad2ac2d2407f497c4cd83975fe590",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Pass: fullviews all6distinctSarasblackbarrettecards in2rows3,6clipspercard=36. Originalsixsilhouettes glossyblack curved/bow/oval/rectangle/taper/pill retained; tightglossyedge/claspdetail,headingaccurate. Clean512crops;frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-bd7d31d1-f6e7-4db0-aec1-11365cf4ff70.png",
+      "prompt": "Native faithful edit of supplied actual photo collage into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Original whole assortment is SIX DISTINCT white Saras retail cards, eachwithSIX horizontal hair barrettes, total36clips. The originalcollage shows sixdifferentstylecards, NOT6views ofonecard. Fullviewcells must show all6cards together in2rows3, sixclips/card; preserve sixoriginalstyle silhouettes, counts,colours,patterns. Remove hand/greywall/oldprice/collageborders only. Toprowwhite full6cardassortment,lavendercreamstyled full6cardassortment,naturalvanitydesk full6cardassortment. Bottomrowtightstandalone REALPARTmacro ofoneclip surface/edgeonly, promotionalall6cardswithaccurateheading,blankcreamunused. Exactsplit512/1024/512,no gutters/borders. All36barrettes GLOSSYBLACK asoriginal. Sixcardstyles match source: broad curvedbarwithwiderroundedends; narrowwaistedbowbar; roundedovalbar; straightsquare-endedrectangularbar; gentlycurvedtaperedbar; elongatedroundcornerpillbar. Keep6ofeachstyleonitsowncard and actualwhitegoldSarasprinting. Do notturn into snapclips orclaws. Detailtightblackglossycurvededge andrealbackclaspedgeifvisible. Heading 'Black Barrette Assortment'.\n",
+      "sha256": "307439e1a415f4bab56c115f541c1cc81aef01c796963bbe9311edffd9700820",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-bd7d31d1-f6e7-4db0-aec1-11365cf4ff70.png",
+      "grid_sha256": "8fa79aeb2af4e1ec679a0aed680dbd3770fad2ac2d2407f497c4cd83975fe590",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Pass: fullviews all6distinctSarasblackbarrettecards in2rows3,6clipspercard=36. Originalsixsilhouettes glossyblack curved/bow/oval/rectangle/taper/pill retained; tightglossyedge/claspdetail,headingaccurate. Clean512crops;frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-bd7d31d1-f6e7-4db0-aec1-11365cf4ff70.png",
+      "prompt": "Native faithful edit of supplied actual photo collage into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Original whole assortment is SIX DISTINCT white Saras retail cards, eachwithSIX horizontal hair barrettes, total36clips. The originalcollage shows sixdifferentstylecards, NOT6views ofonecard. Fullviewcells must show all6cards together in2rows3, sixclips/card; preserve sixoriginalstyle silhouettes, counts,colours,patterns. Remove hand/greywall/oldprice/collageborders only. Toprowwhite full6cardassortment,lavendercreamstyled full6cardassortment,naturalvanitydesk full6cardassortment. Bottomrowtightstandalone REALPARTmacro ofoneclip surface/edgeonly, promotionalall6cardswithaccurateheading,blankcreamunused. Exactsplit512/1024/512,no gutters/borders. All36barrettes GLOSSYBLACK asoriginal. Sixcardstyles match source: broad curvedbarwithwiderroundedends; narrowwaistedbowbar; roundedovalbar; straightsquare-endedrectangularbar; gentlycurvedtaperedbar; elongatedroundcornerpillbar. Keep6ofeachstyleonitsowncard and actualwhitegoldSarasprinting. Do notturn into snapclips orclaws. Detailtightblackglossycurvededge andrealbackclaspedgeifvisible. Heading 'Black Barrette Assortment'.\n",
+      "sha256": "fdb0edf6b9a5a2c9e66c2854423e0fb51ddddd444e195d4600e9f0e05c44d49f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-bd7d31d1-f6e7-4db0-aec1-11365cf4ff70.png",
+      "grid_sha256": "8fa79aeb2af4e1ec679a0aed680dbd3770fad2ac2d2407f497c4cd83975fe590",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Pass: fullviews all6distinctSarasblackbarrettecards in2rows3,6clipspercard=36. Originalsixsilhouettes glossyblack curved/bow/oval/rectangle/taper/pill retained; tightglossyedge/claspdetail,headingaccurate. Clean512crops;frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-bd7d31d1-f6e7-4db0-aec1-11365cf4ff70.png",
+      "prompt": "Native faithful edit of supplied actual photo collage into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Original whole assortment is SIX DISTINCT white Saras retail cards, eachwithSIX horizontal hair barrettes, total36clips. The originalcollage shows sixdifferentstylecards, NOT6views ofonecard. Fullviewcells must show all6cards together in2rows3, sixclips/card; preserve sixoriginalstyle silhouettes, counts,colours,patterns. Remove hand/greywall/oldprice/collageborders only. Toprowwhite full6cardassortment,lavendercreamstyled full6cardassortment,naturalvanitydesk full6cardassortment. Bottomrowtightstandalone REALPARTmacro ofoneclip surface/edgeonly, promotionalall6cardswithaccurateheading,blankcreamunused. Exactsplit512/1024/512,no gutters/borders. All36barrettes GLOSSYBLACK asoriginal. Sixcardstyles match source: broad curvedbarwithwiderroundedends; narrowwaistedbowbar; roundedovalbar; straightsquare-endedrectangularbar; gentlycurvedtaperedbar; elongatedroundcornerpillbar. Keep6ofeachstyleonitsowncard and actualwhitegoldSarasprinting. Do notturn into snapclips orclaws. Detailtightblackglossycurvededge andrealbackclaspedgeifvisible. Heading 'Black Barrette Assortment'.\n",
+      "sha256": "cc7af8ff255b386b2ac0f324f597d0ae2e6aa303c4ffddb957fe77859aec3f21",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-bd7d31d1-f6e7-4db0-aec1-11365cf4ff70.png",
+      "grid_sha256": "8fa79aeb2af4e1ec679a0aed680dbd3770fad2ac2d2407f497c4cd83975fe590",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Pass: fullviews all6distinctSarasblackbarrettecards in2rows3,6clipspercard=36. Originalsixsilhouettes glossyblack curved/bow/oval/rectangle/taper/pill retained; tightglossyedge/claspdetail,headingaccurate. Clean512crops;frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-bd7d31d1-f6e7-4db0-aec1-11365cf4ff70.png",
+      "prompt": "Native faithful edit of supplied actual photo collage into ONE1536x1024 website-ready borderless3columns2rows equal512squarecells. Original whole assortment is SIX DISTINCT white Saras retail cards, eachwithSIX horizontal hair barrettes, total36clips. The originalcollage shows sixdifferentstylecards, NOT6views ofonecard. Fullviewcells must show all6cards together in2rows3, sixclips/card; preserve sixoriginalstyle silhouettes, counts,colours,patterns. Remove hand/greywall/oldprice/collageborders only. Toprowwhite full6cardassortment,lavendercreamstyled full6cardassortment,naturalvanitydesk full6cardassortment. Bottomrowtightstandalone REALPARTmacro ofoneclip surface/edgeonly, promotionalall6cardswithaccurateheading,blankcreamunused. Exactsplit512/1024/512,no gutters/borders. All36barrettes GLOSSYBLACK asoriginal. Sixcardstyles match source: broad curvedbarwithwiderroundedends; narrowwaistedbowbar; roundedovalbar; straightsquare-endedrectangularbar; gentlycurvedtaperedbar; elongatedroundcornerpillbar. Keep6ofeachstyleonitsowncard and actualwhitegoldSarasprinting. Do notturn into snapclips orclaws. Detailtightblackglossycurvededge andrealbackclaspedgeifvisible. Heading 'Black Barrette Assortment'.\n",
+      "sha256": "f9390e46d25a9e82ea58c408a8166c3a29dda406c7dcaef37f1b68762cb22f53",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-bd7d31d1-f6e7-4db0-aec1-11365cf4ff70.png",
+      "grid_sha256": "8fa79aeb2af4e1ec679a0aed680dbd3770fad2ac2d2407f497c4cd83975fe590",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Pass: fullviews all6distinctSarasblackbarrettecards in2rows3,6clipspercard=36. Originalsixsilhouettes glossyblack curved/bow/oval/rectangle/taper/pill retained; tightglossyedge/claspdetail,headingaccurate. Clean512crops;frozenoriginal/outputSHAverified."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

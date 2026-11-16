@@ -1,0 +1,21 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260723-WA0216.jpg": "2685b9dc9ed2895cdb4514c6e43d7f6dc3e6c421f650652b6d4cb1f6cae3e591",
+    "Originals/IMG-20260723-WA0218.jpg": "4db3e9ce8bb4af6226480e2a88636dbb2dd97cb80ed25da2bd7710668c5f565f"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-ab4097b9-2716-4b73-8577-3ea4f0e908b7.png",
+      "prompt": "Faithful website ecommerce photograph editing original. Exactly ONE OPEN pink book-shaped makeup palette, original front view. Preserve black interior and pink outer edges, hinged right flap, left upper rectangular mirror, left below mirror TWELVE rectangular colour pans in four rows THREE each (red/deepred/darkred; hotpink/coral/red; peach/pink/coral; ivory/shimmerpink/gold). Right side TWENTY-ONE rectangular eyeshadow pans in SEVEN rows THREE each, preserve source colour order (cream/beige/pink; tan/gold/mauve; tan/mauve/orange; orange/mauve/gold; orange/beige/brown; mauve/pink/tan; grey/tan/pink), same black dividers and ONE black double-ended white sponge applicator beneath. Second reference same product, not second palette. Remove shop background, floating1075Rs price and phone/person mirror reflection; neutral grey soft mirror reflection only. Whole actual product preserved fully visible on seamless white background soft shadow. No added pans, applicators, words or hidden parts.",
+      "sha256": "f832aef6dd56903d800c363edd345fc3345051767d374b5cbe3bacc59903fee4",
+      "checked": true,
+      "visual_review": "Compared both original open-palette photos: one open pink/black book, upper-left mirror, twelve left pans in four rows of three, twenty-one right pans in seven rows of three, matching colour order and one double-ended applicator retained. Phone reflection/shop/price removed, white surroundings. Main identity/count/shape/colour preserved; minor cosmetic differences accepted."
+    }
+  ],
+  "status": "partial_one_white_background_saved_and_checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "original_baseline_verified": true
+}

@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260930-WA0287.jpg": "c6e8bb9eccdcd8873a4a7c5c935a83fd0345af2e79ba30632ceafa3b531d04b2"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-2e0fa9c4-02c0-4fb1-bd92-2729dcded027.png",
+      "source_output": "/workspace/generated_images/exec-2e0fa9c4-02c0-4fb1-bd92-2729dcded027.png",
+      "sha256": "9a65831648cfae608c75862bc105d70308db0a5791c56ef9651ca521308d84cf",
+      "prompt": "Edit referenced ORIGINAL PHOTOGRAPH as source identity, DO NOT REDRAW/REINVENT INDIVIDUAL JEWELLERY. Product is the ENTIRE DISPLAY ASSORTMENT shown, every foreground displaycard and all its pins remain together, not a representative selection. Create ONE1536x1024 landscapeimage strict3columns2rows of512square cells. Eachfullview contains entireoriginal assortment like a productphoto inset large enough to see allcards. Cell1top-left cleanwhiteborder/background aroundfullassortment, Cell2top-middle lavender/creamborder/background aroundfullassortment, Cell3top-right lifestyle showroom context aroundfullassortment, Cell4bottom-left standalone tightmacro actualrealbeadedpin fromsource, Cell5bottom-middle fullassortment with heading 'Decorative Saree Pins', Cell6bottom-rightblankcream. Preserve sourcephoto's exactcardcount, pinquantity, pinarrangement, shapes, beadcolours andgoldtonehardware, no inventedcards, noremoval/replacement. Can retainoriginalsupportdisplayframe toavoid changingproducts, crop only peripheral shop clutter. Do not invent cleanreplacementcards, preserve eachprintedcard andsmallpins. No price overlays innewviews. Actualsource is decorativegoldtone sareepins. FIFTEEN foregroundwhitecards: SEVENtopcards ornate colouredgem/rhinestoneclips (floral,spray,butterfly,leaf designs), EIGHTbottomlongcards beadedgoldtonesafetypins in assortedcolours. Preserve7topcardsand8bottomcards together ineachfullview, allpins originalquantityandarrangement. Detailmacro actualbutterflyrhinestonepin fromtoprow.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-2e0fa9c4-02c0-4fb1-bd92-2729dcded027.png",
+      "prompt": "Edit referenced ORIGINAL PHOTOGRAPH as source identity, DO NOT REDRAW/REINVENT INDIVIDUAL JEWELLERY. Product is the ENTIRE DISPLAY ASSORTMENT shown, every foreground displaycard and all its pins remain together, not a representative selection. Create ONE1536x1024 landscapeimage strict3columns2rows of512square cells. Eachfullview contains entireoriginal assortment like a productphoto inset large enough to see allcards. Cell1top-left cleanwhiteborder/background aroundfullassortment, Cell2top-middle lavender/creamborder/background aroundfullassortment, Cell3top-right lifestyle showroom context aroundfullassortment, Cell4bottom-left standalone tightmacro actualrealbeadedpin fromsource, Cell5bottom-middle fullassortment with heading 'Decorative Saree Pins', Cell6bottom-rightblankcream. Preserve sourcephoto's exactcardcount, pinquantity, pinarrangement, shapes, beadcolours andgoldtonehardware, no inventedcards, noremoval/replacement. Can retainoriginalsupportdisplayframe toavoid changingproducts, crop only peripheral shop clutter. Do not invent cleanreplacementcards, preserve eachprintedcard andsmallpins. No price overlays innewviews. Actualsource is decorativegoldtone sareepins. FIFTEEN foregroundwhitecards: SEVENtopcards ornate colouredgem/rhinestoneclips (floral,spray,butterfly,leaf designs), EIGHTbottomlongcards beadedgoldtonesafetypins in assortedcolours. Preserve7topcardsand8bottomcards together ineachfullview, allpins originalquantityandarrangement. Detailmacro actualbutterflyrhinestonepin fromtoprow.",
+      "sha256": "304bb55dac720f94a5ed9a6cf884372aec6c9e4b9cd191c99212fe85461a2a84",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2e0fa9c4-02c0-4fb1-bd92-2729dcded027.png",
+      "grid_sha256": "9a65831648cfae608c75862bc105d70308db0a5791c56ef9651ca521308d84cf",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crop comparedwithoriginal:15foregroundcards(7ornategemclipcardsabove8beadedpinstrips) preservedaswholeassortment, sourcecolour/stylearrays retained. Tightpurple/bluebutterflyrhinestonepinmacro usesactualpart. Accurateheading. Tinyindividualrhinestones notresolvedatwebsitefullviewsize, noobservedmaterialomission."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-2e0fa9c4-02c0-4fb1-bd92-2729dcded027.png",
+      "prompt": "Edit referenced ORIGINAL PHOTOGRAPH as source identity, DO NOT REDRAW/REINVENT INDIVIDUAL JEWELLERY. Product is the ENTIRE DISPLAY ASSORTMENT shown, every foreground displaycard and all its pins remain together, not a representative selection. Create ONE1536x1024 landscapeimage strict3columns2rows of512square cells. Eachfullview contains entireoriginal assortment like a productphoto inset large enough to see allcards. Cell1top-left cleanwhiteborder/background aroundfullassortment, Cell2top-middle lavender/creamborder/background aroundfullassortment, Cell3top-right lifestyle showroom context aroundfullassortment, Cell4bottom-left standalone tightmacro actualrealbeadedpin fromsource, Cell5bottom-middle fullassortment with heading 'Decorative Saree Pins', Cell6bottom-rightblankcream. Preserve sourcephoto's exactcardcount, pinquantity, pinarrangement, shapes, beadcolours andgoldtonehardware, no inventedcards, noremoval/replacement. Can retainoriginalsupportdisplayframe toavoid changingproducts, crop only peripheral shop clutter. Do not invent cleanreplacementcards, preserve eachprintedcard andsmallpins. No price overlays innewviews. Actualsource is decorativegoldtone sareepins. FIFTEEN foregroundwhitecards: SEVENtopcards ornate colouredgem/rhinestoneclips (floral,spray,butterfly,leaf designs), EIGHTbottomlongcards beadedgoldtonesafetypins in assortedcolours. Preserve7topcardsand8bottomcards together ineachfullview, allpins originalquantityandarrangement. Detailmacro actualbutterflyrhinestonepin fromtoprow.",
+      "sha256": "5d4da9fae29475dfe904e75b41020b61ffcb9e22d19d23860fca4c8ae396cbdc",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2e0fa9c4-02c0-4fb1-bd92-2729dcded027.png",
+      "grid_sha256": "9a65831648cfae608c75862bc105d70308db0a5791c56ef9651ca521308d84cf",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crop comparedwithoriginal:15foregroundcards(7ornategemclipcardsabove8beadedpinstrips) preservedaswholeassortment, sourcecolour/stylearrays retained. Tightpurple/bluebutterflyrhinestonepinmacro usesactualpart. Accurateheading. Tinyindividualrhinestones notresolvedatwebsitefullviewsize, noobservedmaterialomission."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-2e0fa9c4-02c0-4fb1-bd92-2729dcded027.png",
+      "prompt": "Edit referenced ORIGINAL PHOTOGRAPH as source identity, DO NOT REDRAW/REINVENT INDIVIDUAL JEWELLERY. Product is the ENTIRE DISPLAY ASSORTMENT shown, every foreground displaycard and all its pins remain together, not a representative selection. Create ONE1536x1024 landscapeimage strict3columns2rows of512square cells. Eachfullview contains entireoriginal assortment like a productphoto inset large enough to see allcards. Cell1top-left cleanwhiteborder/background aroundfullassortment, Cell2top-middle lavender/creamborder/background aroundfullassortment, Cell3top-right lifestyle showroom context aroundfullassortment, Cell4bottom-left standalone tightmacro actualrealbeadedpin fromsource, Cell5bottom-middle fullassortment with heading 'Decorative Saree Pins', Cell6bottom-rightblankcream. Preserve sourcephoto's exactcardcount, pinquantity, pinarrangement, shapes, beadcolours andgoldtonehardware, no inventedcards, noremoval/replacement. Can retainoriginalsupportdisplayframe toavoid changingproducts, crop only peripheral shop clutter. Do not invent cleanreplacementcards, preserve eachprintedcard andsmallpins. No price overlays innewviews. Actualsource is decorativegoldtone sareepins. FIFTEEN foregroundwhitecards: SEVENtopcards ornate colouredgem/rhinestoneclips (floral,spray,butterfly,leaf designs), EIGHTbottomlongcards beadedgoldtonesafetypins in assortedcolours. Preserve7topcardsand8bottomcards together ineachfullview, allpins originalquantityandarrangement. Detailmacro actualbutterflyrhinestonepin fromtoprow.",
+      "sha256": "99ced9d834b0512eb23292effdee08b8155cf24c0f3f270acad36577a2afd33c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2e0fa9c4-02c0-4fb1-bd92-2729dcded027.png",
+      "grid_sha256": "9a65831648cfae608c75862bc105d70308db0a5791c56ef9651ca521308d84cf",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crop comparedwithoriginal:15foregroundcards(7ornategemclipcardsabove8beadedpinstrips) preservedaswholeassortment, sourcecolour/stylearrays retained. Tightpurple/bluebutterflyrhinestonepinmacro usesactualpart. Accurateheading. Tinyindividualrhinestones notresolvedatwebsitefullviewsize, noobservedmaterialomission."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-2e0fa9c4-02c0-4fb1-bd92-2729dcded027.png",
+      "prompt": "Edit referenced ORIGINAL PHOTOGRAPH as source identity, DO NOT REDRAW/REINVENT INDIVIDUAL JEWELLERY. Product is the ENTIRE DISPLAY ASSORTMENT shown, every foreground displaycard and all its pins remain together, not a representative selection. Create ONE1536x1024 landscapeimage strict3columns2rows of512square cells. Eachfullview contains entireoriginal assortment like a productphoto inset large enough to see allcards. Cell1top-left cleanwhiteborder/background aroundfullassortment, Cell2top-middle lavender/creamborder/background aroundfullassortment, Cell3top-right lifestyle showroom context aroundfullassortment, Cell4bottom-left standalone tightmacro actualrealbeadedpin fromsource, Cell5bottom-middle fullassortment with heading 'Decorative Saree Pins', Cell6bottom-rightblankcream. Preserve sourcephoto's exactcardcount, pinquantity, pinarrangement, shapes, beadcolours andgoldtonehardware, no inventedcards, noremoval/replacement. Can retainoriginalsupportdisplayframe toavoid changingproducts, crop only peripheral shop clutter. Do not invent cleanreplacementcards, preserve eachprintedcard andsmallpins. No price overlays innewviews. Actualsource is decorativegoldtone sareepins. FIFTEEN foregroundwhitecards: SEVENtopcards ornate colouredgem/rhinestoneclips (floral,spray,butterfly,leaf designs), EIGHTbottomlongcards beadedgoldtonesafetypins in assortedcolours. Preserve7topcardsand8bottomcards together ineachfullview, allpins originalquantityandarrangement. Detailmacro actualbutterflyrhinestonepin fromtoprow.",
+      "sha256": "0f0ec2687231de4588ecd31f043dda59e29713d08f02b55816778dfea9ac0216",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2e0fa9c4-02c0-4fb1-bd92-2729dcded027.png",
+      "grid_sha256": "9a65831648cfae608c75862bc105d70308db0a5791c56ef9651ca521308d84cf",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crop comparedwithoriginal:15foregroundcards(7ornategemclipcardsabove8beadedpinstrips) preservedaswholeassortment, sourcecolour/stylearrays retained. Tightpurple/bluebutterflyrhinestonepinmacro usesactualpart. Accurateheading. Tinyindividualrhinestones notresolvedatwebsitefullviewsize, noobservedmaterialomission."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-2e0fa9c4-02c0-4fb1-bd92-2729dcded027.png",
+      "prompt": "Edit referenced ORIGINAL PHOTOGRAPH as source identity, DO NOT REDRAW/REINVENT INDIVIDUAL JEWELLERY. Product is the ENTIRE DISPLAY ASSORTMENT shown, every foreground displaycard and all its pins remain together, not a representative selection. Create ONE1536x1024 landscapeimage strict3columns2rows of512square cells. Eachfullview contains entireoriginal assortment like a productphoto inset large enough to see allcards. Cell1top-left cleanwhiteborder/background aroundfullassortment, Cell2top-middle lavender/creamborder/background aroundfullassortment, Cell3top-right lifestyle showroom context aroundfullassortment, Cell4bottom-left standalone tightmacro actualrealbeadedpin fromsource, Cell5bottom-middle fullassortment with heading 'Decorative Saree Pins', Cell6bottom-rightblankcream. Preserve sourcephoto's exactcardcount, pinquantity, pinarrangement, shapes, beadcolours andgoldtonehardware, no inventedcards, noremoval/replacement. Can retainoriginalsupportdisplayframe toavoid changingproducts, crop only peripheral shop clutter. Do not invent cleanreplacementcards, preserve eachprintedcard andsmallpins. No price overlays innewviews. Actualsource is decorativegoldtone sareepins. FIFTEEN foregroundwhitecards: SEVENtopcards ornate colouredgem/rhinestoneclips (floral,spray,butterfly,leaf designs), EIGHTbottomlongcards beadedgoldtonesafetypins in assortedcolours. Preserve7topcardsand8bottomcards together ineachfullview, allpins originalquantityandarrangement. Detailmacro actualbutterflyrhinestonepin fromtoprow.",
+      "sha256": "8b401b57906c1184cab3b86f916ebed7f232ff676bdd5cb3e145f5cb9bcabab2",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-2e0fa9c4-02c0-4fb1-bd92-2729dcded027.png",
+      "grid_sha256": "9a65831648cfae608c75862bc105d70308db0a5791c56ef9651ca521308d84cf",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crop comparedwithoriginal:15foregroundcards(7ornategemclipcardsabove8beadedpinstrips) preservedaswholeassortment, sourcecolour/stylearrays retained. Tightpurple/bluebutterflyrhinestonepinmacro usesactualpart. Accurateheading. Tinyindividualrhinestones notresolvedatwebsitefullviewsize, noobservedmaterialomission."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baselines_verified": true
+}

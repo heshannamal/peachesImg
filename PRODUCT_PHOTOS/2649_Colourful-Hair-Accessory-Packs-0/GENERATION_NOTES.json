@@ -1,0 +1,39 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261002-WA0073.jpg": "65d8ef9f083829c340f9278fbbf5b719fb9efa5f8ecc8326d03154ed05bfa713",
+    "Originals/IMG-20261002-WA0076.jpg": "f8fa7e884a8ad28512cc7e642ed4936041fb8b1935456d7563fdd6e3c89af24e",
+    "Originals/IMG-20261002-WA0078.jpg": "257220c8291050883fe06676caf368b25cea2dd01b31a9e2160632bb5235554c",
+    "Originals/IMG-20261002-WA0081.jpg": "813951be9d395d94702a4ef9b23644fbab6a4f48ba65b2976ab9621605cf9b5f"
+  },
+  "status": "blocked_moderation",
+  "plan_original_hashes_verified": true,
+  "records": [
+    {
+      "kind": "generation_attempt",
+      "prompt": "Create ONE landscape1536x1024 six-cell grid, exactly3equalcolumns by2equalrows, no gutters/borders/panel labels. Each cell512square, keep each complete view inside its cell with margin. Native faithful reference edit using ALL FOUR attached original photographs: these are FOUR ANGLES OF THE SAME ONE clear resealable hair-elastic bag, NOT four products. Exactly ONE transparent soft rectangular pouch with pink zipper strip and pink circular hanging loop, colourful thin small elastic hair bands inside, and original blue long-eared cartoon character printed on clear bag (reverse side shows blue and pink characters). Preserve visible pink zipper shape, clear bag outline, original blue character design/colours and many overlapping multicoloured small elastics without inventing a specific piece count or extra packets. Use front reference IMG-20261002-WA0076 as main complete silhouette; other photos only clarify reverse/angles. Remove hand/shopbackground and external1200Rs/12Bags overlay only. 01topLEFT full SINGLE original bag on purewhite.02topMIDDLE full SAME SINGLE bag on lavender/cream studio.03topRIGHT SAME SINGLE bag on cream vanity in lavender room, no extra hair accessories.04bottomLEFT standalone TIGHT real-part macro of pink zipper/clear seam with nearby coloured elastic loops, no whole bag.05bottomMIDDLE SAME SINGLE bag with legible accurate heading COLOURFUL HAIR ELASTIC PACK, no counts/prices/materialclaims.06bottomRIGHT blankcreamunused. Preserve product identity/shapes/colours, no unrelated stock substitutes, no new character designs, no multiplicated bag.",
+      "source_files": [
+        "Originals/IMG-20261002-WA0073.jpg",
+        "Originals/IMG-20261002-WA0076.jpg",
+        "Originals/IMG-20261002-WA0078.jpg",
+        "Originals/IMG-20261002-WA0081.jpg"
+      ],
+      "checked": false,
+      "error": {
+        "http_status": 400,
+        "code": "moderation_blocked",
+        "message": "Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 3b716a75-b3d2-4267-9e60-cc508a9a233f.",
+        "type": "image_generation_user_error",
+        "param": null,
+        "moderation_details": {
+          "moderation_stage": "output",
+          "categories": [
+            "other"
+          ]
+        }
+      },
+      "visual_review": "All four originals inspected: duplicate angles of one pink-zip clear character-printed elastic hair-band pouch; output moderation blocked, no generated image returned or saved. No retry."
+    }
+  ]
+}

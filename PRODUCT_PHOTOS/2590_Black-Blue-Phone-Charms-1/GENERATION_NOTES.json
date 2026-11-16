@@ -1,0 +1,126 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0222.jpg": "fc839030a5bd965434b274cd7bf720dc40cf8927e219f49538cc53158c14b217"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-e2c23f4a-8cec-42ba-8aff-85d853f159d1.png",
+      "source_output": "/workspace/generated_images/exec-e2c23f4a-8cec-42ba-8aff-85d853f159d1.png",
+      "sha256": "3e37c9d4b1de2966546ee47a9f8448ec711c27710d76af0ea7a8e0e2c55ebc86",
+      "prompt": "Edit actual supplied original into ONE landscape1536x1024 clean website photo-grid exact3columns2rows equal512squarecells. Preserve photographed whole assortment THREE beaded loop phone charms on three slim white display cards, each with one gold round clasp at top, long U-shaped loop and original bead pattern/colours. Remove hand,shop,oldoverlay,outerplasticglare; do not create12items. Four full-view cells always exactly3charms/cards. Toprow white studio, lavender/cream styled, natural desktop lifestyle with all3cards. Bottomrow tight standalone real bead/clasp macro only, promotional assortment accurate heading 'Crystal Bead Phone Charms', blankcream. Exactcellboundaries x512,1024,y512 no gutters/borders. Referencevariant details: left black/white-pearl beads with dark faceted elongated centralbead, middle bright turquoise-blue/white-pearl beads with bluish elongatedcentralbead, right smoky-clear/silverfaceted/white-pearl beads with clear/smoky elongatedcentralbead. Each goldclasp circular. Preservethreecolourvariants and ovalbead-loop style. Detailfocus bluebeads and pearlpatterntightcrop.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-e2c23f4a-8cec-42ba-8aff-85d853f159d1.png",
+      "prompt": "Edit actual supplied original into ONE landscape1536x1024 clean website photo-grid exact3columns2rows equal512squarecells. Preserve photographed whole assortment THREE beaded loop phone charms on three slim white display cards, each with one gold round clasp at top, long U-shaped loop and original bead pattern/colours. Remove hand,shop,oldoverlay,outerplasticglare; do not create12items. Four full-view cells always exactly3charms/cards. Toprow white studio, lavender/cream styled, natural desktop lifestyle with all3cards. Bottomrow tight standalone real bead/clasp macro only, promotional assortment accurate heading 'Crystal Bead Phone Charms', blankcream. Exactcellboundaries x512,1024,y512 no gutters/borders. Referencevariant details: left black/white-pearl beads with dark faceted elongated centralbead, middle bright turquoise-blue/white-pearl beads with bluish elongatedcentralbead, right smoky-clear/silverfaceted/white-pearl beads with clear/smoky elongatedcentralbead. Each goldclasp circular. Preservethreecolourvariants and ovalbead-loop style. Detailfocus bluebeads and pearlpatterntightcrop.\n",
+      "sha256": "36701ec5617f0ef93f022503bbdb394369697d75ce8519ce234b9ac152309a13",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e2c23f4a-8cec-42ba-8aff-85d853f159d1.png",
+      "grid_sha256": "3e37c9d4b1de2966546ee47a9f8448ec711c27710d76af0ea7a8e0e2c55ebc86",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Pass: four fullviews each show3goldclasp U-loop charms/cards, black-pearl,blue-pearl,smoky-pearl with matching large elongated beads. Macro close blue facets/pearls/clasp rather than full assortment. Heading accurate, clean512cell crops; original/outputSHA verified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-e2c23f4a-8cec-42ba-8aff-85d853f159d1.png",
+      "prompt": "Edit actual supplied original into ONE landscape1536x1024 clean website photo-grid exact3columns2rows equal512squarecells. Preserve photographed whole assortment THREE beaded loop phone charms on three slim white display cards, each with one gold round clasp at top, long U-shaped loop and original bead pattern/colours. Remove hand,shop,oldoverlay,outerplasticglare; do not create12items. Four full-view cells always exactly3charms/cards. Toprow white studio, lavender/cream styled, natural desktop lifestyle with all3cards. Bottomrow tight standalone real bead/clasp macro only, promotional assortment accurate heading 'Crystal Bead Phone Charms', blankcream. Exactcellboundaries x512,1024,y512 no gutters/borders. Referencevariant details: left black/white-pearl beads with dark faceted elongated centralbead, middle bright turquoise-blue/white-pearl beads with bluish elongatedcentralbead, right smoky-clear/silverfaceted/white-pearl beads with clear/smoky elongatedcentralbead. Each goldclasp circular. Preservethreecolourvariants and ovalbead-loop style. Detailfocus bluebeads and pearlpatterntightcrop.\n",
+      "sha256": "8ca8f4b3b5cec7cb8e59cf0ac9b9a091fb9bd1671286ce02a2fcbb547f0b1f1f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e2c23f4a-8cec-42ba-8aff-85d853f159d1.png",
+      "grid_sha256": "3e37c9d4b1de2966546ee47a9f8448ec711c27710d76af0ea7a8e0e2c55ebc86",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Pass: four fullviews each show3goldclasp U-loop charms/cards, black-pearl,blue-pearl,smoky-pearl with matching large elongated beads. Macro close blue facets/pearls/clasp rather than full assortment. Heading accurate, clean512cell crops; original/outputSHA verified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-e2c23f4a-8cec-42ba-8aff-85d853f159d1.png",
+      "prompt": "Edit actual supplied original into ONE landscape1536x1024 clean website photo-grid exact3columns2rows equal512squarecells. Preserve photographed whole assortment THREE beaded loop phone charms on three slim white display cards, each with one gold round clasp at top, long U-shaped loop and original bead pattern/colours. Remove hand,shop,oldoverlay,outerplasticglare; do not create12items. Four full-view cells always exactly3charms/cards. Toprow white studio, lavender/cream styled, natural desktop lifestyle with all3cards. Bottomrow tight standalone real bead/clasp macro only, promotional assortment accurate heading 'Crystal Bead Phone Charms', blankcream. Exactcellboundaries x512,1024,y512 no gutters/borders. Referencevariant details: left black/white-pearl beads with dark faceted elongated centralbead, middle bright turquoise-blue/white-pearl beads with bluish elongatedcentralbead, right smoky-clear/silverfaceted/white-pearl beads with clear/smoky elongatedcentralbead. Each goldclasp circular. Preservethreecolourvariants and ovalbead-loop style. Detailfocus bluebeads and pearlpatterntightcrop.\n",
+      "sha256": "e9764e01df8f9b7c841fa8d64f33debaaab23df0dc3066153ebaf0ba4c1f4505",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e2c23f4a-8cec-42ba-8aff-85d853f159d1.png",
+      "grid_sha256": "3e37c9d4b1de2966546ee47a9f8448ec711c27710d76af0ea7a8e0e2c55ebc86",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Pass: four fullviews each show3goldclasp U-loop charms/cards, black-pearl,blue-pearl,smoky-pearl with matching large elongated beads. Macro close blue facets/pearls/clasp rather than full assortment. Heading accurate, clean512cell crops; original/outputSHA verified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-e2c23f4a-8cec-42ba-8aff-85d853f159d1.png",
+      "prompt": "Edit actual supplied original into ONE landscape1536x1024 clean website photo-grid exact3columns2rows equal512squarecells. Preserve photographed whole assortment THREE beaded loop phone charms on three slim white display cards, each with one gold round clasp at top, long U-shaped loop and original bead pattern/colours. Remove hand,shop,oldoverlay,outerplasticglare; do not create12items. Four full-view cells always exactly3charms/cards. Toprow white studio, lavender/cream styled, natural desktop lifestyle with all3cards. Bottomrow tight standalone real bead/clasp macro only, promotional assortment accurate heading 'Crystal Bead Phone Charms', blankcream. Exactcellboundaries x512,1024,y512 no gutters/borders. Referencevariant details: left black/white-pearl beads with dark faceted elongated centralbead, middle bright turquoise-blue/white-pearl beads with bluish elongatedcentralbead, right smoky-clear/silverfaceted/white-pearl beads with clear/smoky elongatedcentralbead. Each goldclasp circular. Preservethreecolourvariants and ovalbead-loop style. Detailfocus bluebeads and pearlpatterntightcrop.\n",
+      "sha256": "920742d5801c6434f67a07787ea87f6b978de7a0d58668d200169c3fdf1ebfb2",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e2c23f4a-8cec-42ba-8aff-85d853f159d1.png",
+      "grid_sha256": "3e37c9d4b1de2966546ee47a9f8448ec711c27710d76af0ea7a8e0e2c55ebc86",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Pass: four fullviews each show3goldclasp U-loop charms/cards, black-pearl,blue-pearl,smoky-pearl with matching large elongated beads. Macro close blue facets/pearls/clasp rather than full assortment. Heading accurate, clean512cell crops; original/outputSHA verified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-e2c23f4a-8cec-42ba-8aff-85d853f159d1.png",
+      "prompt": "Edit actual supplied original into ONE landscape1536x1024 clean website photo-grid exact3columns2rows equal512squarecells. Preserve photographed whole assortment THREE beaded loop phone charms on three slim white display cards, each with one gold round clasp at top, long U-shaped loop and original bead pattern/colours. Remove hand,shop,oldoverlay,outerplasticglare; do not create12items. Four full-view cells always exactly3charms/cards. Toprow white studio, lavender/cream styled, natural desktop lifestyle with all3cards. Bottomrow tight standalone real bead/clasp macro only, promotional assortment accurate heading 'Crystal Bead Phone Charms', blankcream. Exactcellboundaries x512,1024,y512 no gutters/borders. Referencevariant details: left black/white-pearl beads with dark faceted elongated centralbead, middle bright turquoise-blue/white-pearl beads with bluish elongatedcentralbead, right smoky-clear/silverfaceted/white-pearl beads with clear/smoky elongatedcentralbead. Each goldclasp circular. Preservethreecolourvariants and ovalbead-loop style. Detailfocus bluebeads and pearlpatterntightcrop.\n",
+      "sha256": "df671d049461e8a8665f217f7fea0a5807daf3538f316a8c413054fc2b225307",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-e2c23f4a-8cec-42ba-8aff-85d853f159d1.png",
+      "grid_sha256": "3e37c9d4b1de2966546ee47a9f8448ec711c27710d76af0ea7a8e0e2c55ebc86",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Pass: four fullviews each show3goldclasp U-loop charms/cards, black-pearl,blue-pearl,smoky-pearl with matching large elongated beads. Macro close blue facets/pearls/clasp rather than full assortment. Heading accurate, clean512cell crops; original/outputSHA verified."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

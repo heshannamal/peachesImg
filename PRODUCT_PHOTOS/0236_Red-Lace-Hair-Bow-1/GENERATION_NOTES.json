@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250227-WA0315.jpg": "d2bbbc5f08e8dfa87f8c72591553f3925956dd5569fdeef4a819ec4727e07634"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-69a5b7b1-ffec-4e97-b196-cac430fac065.png",
+      "prompt": "Clean white seamless ecommerce product photograph. SINGLE red floral lace hair bow, layered two loops and two broad long pointed tails, red centre ribbon band with ONE white pearl dangling in gold fitting. Preserve red lace flower pattern exact front shape folds material and pearl location. No invented backside clip. Preserve product identity shape count colours. Remove hand shop background, no text, soft light.",
+      "sha256": "6e295c8b138e1e0066e00cae04ce768d26c206d6d92a18883d7aebcd99ded319",
+      "checked": true,
+      "visual_review": "Single red floral lace bow retains loops long pointed tails and onecentral pearl."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-dfdf237e-a856-4e5d-9c68-93f3ad1f8b94.png",
+      "prompt": "Styled ecommerce product photo on lavender ground with cream cloth. SINGLE red floral lace hair bow, layered two loops and two broad long pointed tails, red centre ribbon band with ONE white pearl dangling in gold fitting. Preserve red lace flower pattern exact front shape folds material and pearl location. No invented backside clip. Same front view actualshape colour decorationcount, remove handshop no text.",
+      "sha256": "f2482438e58607c4ec1f323ad8722efbccd0b3f9c739dee398e5b6a6d7071369",
+      "checked": true,
+      "visual_review": "Single red floral lace bow retains loops tails pattern and onecentral pearl on lavender."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-de65b65b-b0e9-4d46-b6c1-d2f7ec974bb0.png",
+      "prompt": "Lifestyle product photograph resting on cream vanity table near window, lavender wall, minimal props outside product, no people. SINGLE red floral lace hair bow, layered two loops and two broad long pointed tails, red centre ribbon band with ONE white pearl dangling in gold fitting. Preserve red lace flower pattern exact front shape folds material and pearl location. No invented backside clip. Same originalfrontview count shape colours materials, no new parts or text, remove handshop.",
+      "sha256": "bad05376f6d97e219cf75c46d38c1b7b1f703d243136ca7532830574d0017855",
+      "checked": true,
+      "visual_review": "Red floral lace bow front shape and central single pearl retained on vanity."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-83d950cc-d6ae-4322-a868-4369e2cdc47c.png",
+      "prompt": "Tight macro crop of red floral lace bow central red ribbon knot and one white pearl with gold fitting, show lace flower weave. Preserve actual visible shape colour material, not fullbow, no new text or invented parts.",
+      "sha256": "ecf3204e3d1e07bcf2d866729432b14850a7e2496ca67ec5ba57763a82ba07f6",
+      "checked": true,
+      "visual_review": "Tight red lace knot goldfitting singlepearl macro matches source motif."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-9d5ef699-3a22-4fd6-a7cc-543535a9f8f0.png",
+      "prompt": "Promotional website product photo lavender/cream backdrop compact plum heading 'Red Floral Lace Hair Bow' and subtitle 'PRODUCT COLLECTION'. SINGLE red floral lace hair bow, layered two loops and two broad long pointed tails, red centre ribbon band with ONE white pearl dangling in gold fitting. Preserve red lace flower pattern exact front shape folds material and pearl location. No invented backside clip. Preserve sourcefrontshape countcolour material. Remove handshop noothertext.",
+      "sha256": "0d90f540a30601f285f998eaf3e1f17df09a213cb6fadb27e2b96faa75cd10b4",
+      "checked": true,
+      "visual_review": "Compared to original: single red floral lace bow with centre pearl pendant, loops and draped tails, correct count/colour/material and heading."
+    }
+  ],
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true
+}

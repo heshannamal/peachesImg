@@ -1,0 +1,62 @@
+{
+  "product_id": "0061",
+  "original_hashes": {
+    "Originals/IMG-20250102-WA0530.jpg": "7573eb60c461bac18d4c2d1e6fed6126cecaa1b5080fe0ac71430ecc8c491a05"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "cache_source": "/workspace/generated_images/exec-3207c902-8317-4712-9462-937f8ca37262.png",
+      "sha256": "2461bb9d79d26563662cf80e1270f44538a365fa64e8452c0d79ad8f99894daa",
+      "prompt": "Full foreground stack assortment retained on seamless white background, shop and old price removed.",
+      "checked": true,
+      "visual_check": "Reviewed entire assortment; overall stack arrangement, wrapping and colour variants retained. Tiny pattern details and exact count of partially occluded cases cannot be verified from this source; keep pending final identity review.",
+      "visible_identity_verified": true,
+      "website_review": "Parent compared original and all five outputs; visible stack layout, packaging and colour assortment retained. Accepted for website use; hidden counts not certified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "cache_source": "/workspace/generated_images/exec-8ddb1dc6-eb36-4b6b-92d7-bb012779475a.png",
+      "sha256": "75c69b9ebe519761ba1bfdefdd9e39fc0874e958eba2dfacc48bb3ee817a1b87",
+      "prompt": "Exact foreground assortment stack arrangement, lavender backdrop cream tabletop, shop and old price removed.",
+      "checked": true,
+      "visual_check": "Reviewed: full assortment, wrapping and broad patterns preserved; exact partly hidden case count/tiny motifs unverified.",
+      "visible_identity_verified": true,
+      "website_review": "Parent compared original and all five outputs; visible stack layout, packaging and colour assortment retained. Accepted for website use; hidden counts not certified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "cache_source": "/workspace/generated_images/exec-89b159ea-ed86-470e-9ed5-76af74c7ec53.png",
+      "sha256": "8d1c6829a0b957d744305b3be7c5cdf9d3485390ccaf3e8e19fd0dace5e04799",
+      "prompt": "Full original foreground stack assortment on sunlit cream linen home craftroom table, no shop price or unpacking.",
+      "checked": true,
+      "visual_check": "Reviewed full arrangement and wrapping retained; exact partly hidden count and tiny pattern fidelity unverified.",
+      "visible_identity_verified": true,
+      "website_review": "Parent compared original and all five outputs; visible stack layout, packaging and colour assortment retained. Accepted for website use; hidden counts not certified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "cache_source": "/workspace/generated_images/exec-621bc864-af75-41f0-b043-5c89511d87a8.png",
+      "sha256": "6443b31bd781f232439f4cf1a37c9c1338f7dcd603d9c6307c7e272752e5620d",
+      "prompt": "Tight macro original visible pastel patterned zip cases and clear wrapping, no invented alternate view.",
+      "checked": true,
+      "visual_check": "Tight macro reviewed: original blue pink cloud-character motif, rounded zip-case shape and clear plastic texture. Tiny motif fidelity remains unverified from low-resolution source.",
+      "visible_identity_verified": true,
+      "website_review": "Parent compared original and all five outputs; visible stack layout, packaging and colour assortment retained. Accepted for website use; hidden counts not certified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "cache_source": "/workspace/generated_images/exec-6b265957-7e81-4b77-8e68-68bfbd178514.png",
+      "sha256": "70829d40273eed8ca2dfe559fa57aa6f8b047b8e366361c97dd9f2fe09fe9644",
+      "checked": true,
+      "visual_check": "Reviewed full assortment overall arrangement/pattern colours and wrapping; plum heading PRODUCT COLLECTION clear. Exact partially hidden case count and tiny motif fidelity unverified.",
+      "prompt_source": "_Review/RUN_100_worker_3_PROMPTS.json:prompt0061_5",
+      "visible_identity_verified": true,
+      "website_review": "Parent compared original and all five outputs; visible stack layout, packaging and colour assortment retained. Accepted for website use; hidden counts not certified."
+    }
+  ],
+  "status": "five images generated and visually checked",
+  "original_hashes_verified": true,
+  "quality_standard": "website-ready per user request; main visible identity, colours and arrangement checked",
+  "review_limitations": "Exact count of occluded cases and tiny printed motif details cannot be verified; source visible stack arrangement and main colours match."
+}

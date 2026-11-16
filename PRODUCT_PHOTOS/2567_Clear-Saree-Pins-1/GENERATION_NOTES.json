@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260930-WA0130.jpg": "65e61f72fc366f61ee3e9deaada8ae520f98b0bd55efafeb8414d46dbc3328e0"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-6399e548-7092-434a-927b-66eb6511597e.png",
+      "source_output": "/workspace/generated_images/exec-6399e548-7092-434a-927b-66eb6511597e.png",
+      "sha256": "93c43f02e11475ac53c3657b9ac236a21df119e48792dc96c88e9208c92fbe6b",
+      "prompt": "Native photo edit based on actual supplied original. Landscape1536x1024 precisely3columns x2rows square512cells, boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full assortment white; top-middle full assortment lavender/cream styled; top-right full assortment on folded cream/lavender sari fabric lifestyle; bottom-left standalone tight macro of actual beads and gold rhinestone-spacer texture, not whole assortment; bottom-middle full assortment promotional with heading Decorative Saree Pins; bottom-right blank cream. Entire photographed assortment ONE product. Remove hand, shop, old price overlay and portrait graphic from packaging, use plain white card. Full views EXACTLY TWELVE decorated gold safety pins in12horizontal rows on ONE long white backing card. Each pin exactlyFOUR round beads separated by small gold/rhinestone spacer rings, gold safety-pin wire loop one end/catchotherend. Preserve source bead type,colours,count. Every pin complete and visible inside full-view cell with margin. Photoreal website-ready. Source12pins alternate SIX reflective GUNMETAL/SILVER-CHROME bead pins and SIX shiny GOLD bead pins down the card. Four metallic round spheres per pin,48beads total. These are reflective metallic coloured bead spheres, NOT transparent crystal beads, not white pearls or matte black. Keep chrome row1,goldrow2 alternating down to goldrow12. Macro of chrome sphere/gold spacer.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-6399e548-7092-434a-927b-66eb6511597e.png",
+      "prompt": "Native photo edit based on actual supplied original. Landscape1536x1024 precisely3columns x2rows square512cells, boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full assortment white; top-middle full assortment lavender/cream styled; top-right full assortment on folded cream/lavender sari fabric lifestyle; bottom-left standalone tight macro of actual beads and gold rhinestone-spacer texture, not whole assortment; bottom-middle full assortment promotional with heading Decorative Saree Pins; bottom-right blank cream. Entire photographed assortment ONE product. Remove hand, shop, old price overlay and portrait graphic from packaging, use plain white card. Full views EXACTLY TWELVE decorated gold safety pins in12horizontal rows on ONE long white backing card. Each pin exactlyFOUR round beads separated by small gold/rhinestone spacer rings, gold safety-pin wire loop one end/catchotherend. Preserve source bead type,colours,count. Every pin complete and visible inside full-view cell with margin. Photoreal website-ready. Source12pins alternate SIX reflective GUNMETAL/SILVER-CHROME bead pins and SIX shiny GOLD bead pins down the card. Four metallic round spheres per pin,48beads total. These are reflective metallic coloured bead spheres, NOT transparent crystal beads, not white pearls or matte black. Keep chrome row1,goldrow2 alternating down to goldrow12. Macro of chrome sphere/gold spacer.",
+      "sha256": "10c9f5a3e7be3a4084abf2364dc7848b80e317fbd44fae21ef03e1f4204f2cae",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6399e548-7092-434a-927b-66eb6511597e.png",
+      "grid_sha256": "93c43f02e11475ac53c3657b9ac236a21df119e48792dc96c88e9208c92fbe6b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crop visually checked vs source.12pins\u00d74metallicspherebeads=48;6gunmetalchrome+6goldpins alternating, goldspacerrings and wire retained. Accurate heading. White/lavender/fabriclifestyle/fullpromo and tight real chromebead/spacer macro all pass. Clean cropboundaries,website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-6399e548-7092-434a-927b-66eb6511597e.png",
+      "prompt": "Native photo edit based on actual supplied original. Landscape1536x1024 precisely3columns x2rows square512cells, boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full assortment white; top-middle full assortment lavender/cream styled; top-right full assortment on folded cream/lavender sari fabric lifestyle; bottom-left standalone tight macro of actual beads and gold rhinestone-spacer texture, not whole assortment; bottom-middle full assortment promotional with heading Decorative Saree Pins; bottom-right blank cream. Entire photographed assortment ONE product. Remove hand, shop, old price overlay and portrait graphic from packaging, use plain white card. Full views EXACTLY TWELVE decorated gold safety pins in12horizontal rows on ONE long white backing card. Each pin exactlyFOUR round beads separated by small gold/rhinestone spacer rings, gold safety-pin wire loop one end/catchotherend. Preserve source bead type,colours,count. Every pin complete and visible inside full-view cell with margin. Photoreal website-ready. Source12pins alternate SIX reflective GUNMETAL/SILVER-CHROME bead pins and SIX shiny GOLD bead pins down the card. Four metallic round spheres per pin,48beads total. These are reflective metallic coloured bead spheres, NOT transparent crystal beads, not white pearls or matte black. Keep chrome row1,goldrow2 alternating down to goldrow12. Macro of chrome sphere/gold spacer.",
+      "sha256": "0d5c5fd2b09c1e2dfb8941dc834edf671e7fe3505ba97935f52b1726b0c1e88c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6399e548-7092-434a-927b-66eb6511597e.png",
+      "grid_sha256": "93c43f02e11475ac53c3657b9ac236a21df119e48792dc96c88e9208c92fbe6b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crop visually checked vs source.12pins\u00d74metallicspherebeads=48;6gunmetalchrome+6goldpins alternating, goldspacerrings and wire retained. Accurate heading. White/lavender/fabriclifestyle/fullpromo and tight real chromebead/spacer macro all pass. Clean cropboundaries,website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-6399e548-7092-434a-927b-66eb6511597e.png",
+      "prompt": "Native photo edit based on actual supplied original. Landscape1536x1024 precisely3columns x2rows square512cells, boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full assortment white; top-middle full assortment lavender/cream styled; top-right full assortment on folded cream/lavender sari fabric lifestyle; bottom-left standalone tight macro of actual beads and gold rhinestone-spacer texture, not whole assortment; bottom-middle full assortment promotional with heading Decorative Saree Pins; bottom-right blank cream. Entire photographed assortment ONE product. Remove hand, shop, old price overlay and portrait graphic from packaging, use plain white card. Full views EXACTLY TWELVE decorated gold safety pins in12horizontal rows on ONE long white backing card. Each pin exactlyFOUR round beads separated by small gold/rhinestone spacer rings, gold safety-pin wire loop one end/catchotherend. Preserve source bead type,colours,count. Every pin complete and visible inside full-view cell with margin. Photoreal website-ready. Source12pins alternate SIX reflective GUNMETAL/SILVER-CHROME bead pins and SIX shiny GOLD bead pins down the card. Four metallic round spheres per pin,48beads total. These are reflective metallic coloured bead spheres, NOT transparent crystal beads, not white pearls or matte black. Keep chrome row1,goldrow2 alternating down to goldrow12. Macro of chrome sphere/gold spacer.",
+      "sha256": "c549f0140b36c9959c7839fdb5e7d889291204fa2a2113fee4ceca16fffa7bb0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6399e548-7092-434a-927b-66eb6511597e.png",
+      "grid_sha256": "93c43f02e11475ac53c3657b9ac236a21df119e48792dc96c88e9208c92fbe6b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crop visually checked vs source.12pins\u00d74metallicspherebeads=48;6gunmetalchrome+6goldpins alternating, goldspacerrings and wire retained. Accurate heading. White/lavender/fabriclifestyle/fullpromo and tight real chromebead/spacer macro all pass. Clean cropboundaries,website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-6399e548-7092-434a-927b-66eb6511597e.png",
+      "prompt": "Native photo edit based on actual supplied original. Landscape1536x1024 precisely3columns x2rows square512cells, boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full assortment white; top-middle full assortment lavender/cream styled; top-right full assortment on folded cream/lavender sari fabric lifestyle; bottom-left standalone tight macro of actual beads and gold rhinestone-spacer texture, not whole assortment; bottom-middle full assortment promotional with heading Decorative Saree Pins; bottom-right blank cream. Entire photographed assortment ONE product. Remove hand, shop, old price overlay and portrait graphic from packaging, use plain white card. Full views EXACTLY TWELVE decorated gold safety pins in12horizontal rows on ONE long white backing card. Each pin exactlyFOUR round beads separated by small gold/rhinestone spacer rings, gold safety-pin wire loop one end/catchotherend. Preserve source bead type,colours,count. Every pin complete and visible inside full-view cell with margin. Photoreal website-ready. Source12pins alternate SIX reflective GUNMETAL/SILVER-CHROME bead pins and SIX shiny GOLD bead pins down the card. Four metallic round spheres per pin,48beads total. These are reflective metallic coloured bead spheres, NOT transparent crystal beads, not white pearls or matte black. Keep chrome row1,goldrow2 alternating down to goldrow12. Macro of chrome sphere/gold spacer.",
+      "sha256": "d0508a0f2f3b53c2cee9a83d00dec93bf1e9f5642acb785d58272935297df3f3",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6399e548-7092-434a-927b-66eb6511597e.png",
+      "grid_sha256": "93c43f02e11475ac53c3657b9ac236a21df119e48792dc96c88e9208c92fbe6b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crop visually checked vs source.12pins\u00d74metallicspherebeads=48;6gunmetalchrome+6goldpins alternating, goldspacerrings and wire retained. Accurate heading. White/lavender/fabriclifestyle/fullpromo and tight real chromebead/spacer macro all pass. Clean cropboundaries,website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-6399e548-7092-434a-927b-66eb6511597e.png",
+      "prompt": "Native photo edit based on actual supplied original. Landscape1536x1024 precisely3columns x2rows square512cells, boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full assortment white; top-middle full assortment lavender/cream styled; top-right full assortment on folded cream/lavender sari fabric lifestyle; bottom-left standalone tight macro of actual beads and gold rhinestone-spacer texture, not whole assortment; bottom-middle full assortment promotional with heading Decorative Saree Pins; bottom-right blank cream. Entire photographed assortment ONE product. Remove hand, shop, old price overlay and portrait graphic from packaging, use plain white card. Full views EXACTLY TWELVE decorated gold safety pins in12horizontal rows on ONE long white backing card. Each pin exactlyFOUR round beads separated by small gold/rhinestone spacer rings, gold safety-pin wire loop one end/catchotherend. Preserve source bead type,colours,count. Every pin complete and visible inside full-view cell with margin. Photoreal website-ready. Source12pins alternate SIX reflective GUNMETAL/SILVER-CHROME bead pins and SIX shiny GOLD bead pins down the card. Four metallic round spheres per pin,48beads total. These are reflective metallic coloured bead spheres, NOT transparent crystal beads, not white pearls or matte black. Keep chrome row1,goldrow2 alternating down to goldrow12. Macro of chrome sphere/gold spacer.",
+      "sha256": "baee99d73e34cc2e2ee132505aea88703e5e5483f50ae22681af7879a175cddc",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6399e548-7092-434a-927b-66eb6511597e.png",
+      "grid_sha256": "93c43f02e11475ac53c3657b9ac236a21df119e48792dc96c88e9208c92fbe6b",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crop visually checked vs source.12pins\u00d74metallicspherebeads=48;6gunmetalchrome+6goldpins alternating, goldspacerrings and wire retained. Accurate heading. White/lavender/fabriclifestyle/fullpromo and tight real chromebead/spacer macro all pass. Clean cropboundaries,website-ready."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Twelve gold saree safety pins with four metallic round beads each, alternating gunmetal chrome and gold rows",
+  "original_baseline_verified": true
+}

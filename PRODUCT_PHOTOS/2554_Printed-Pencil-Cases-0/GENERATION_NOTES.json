@@ -1,0 +1,31 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "status": "blocked_moderation",
+  "actual_subject": "Ten design-group stacks of printed translucent zipper pencil pouches",
+  "original_hashes": {
+    "Originals/IMG-20260930-WA0040.jpg": "086715f28ca06d808894b959ec46f67fdb44cc9579a5e83aabe7de81748cb213"
+  },
+  "records": [],
+  "blocked_attempt": {
+    "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows512squarecells boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full product white; top-middle full product lavender/cream styled; top-right full product realistic relevant lifestyle; bottom-left standalone tight real-part macro not whole product; bottom-middle full product promotional with accurate heading specified; bottom-right blank cream. Preserve photographed product count,identity,shapes,colours,labels/printeddesigns. Remove shop,hand,oldpriceoverlay. Full views wholly inside own cell with margin. Photoreal website-ready. ACTUAL assortment is TEN distinct design-group stacks of translucent rectangular zipped pencil pouches, each group has multiple identical pouches visibly stacked as in reference. Preserve all TEN original groups and prints: astronauts bluezip; mousecharacters bluezip; bluecatrobot bluezip; redcartoonracecars redzip; superheroensemble redzip; iceprincesscharacters greenzip; youngprincess/castle pinkzip; threeprincesses pinkzip; redbluewebsuperhero bluezip; yellowoverallcharacters yellowzip. Reproduce existing printed imagery faithfully from original, do not swap designs. Whole ten-group assortment together in allfullviews, arranged clear3/4/3 or2rows5groups, count TEN stacks not10unrelateddesigns. Keep zip colours and round ring pull shapes. Detail standalone tight actual bluezip/roundring/translucentfabric section. Lifestyle on tidy schooldesk; no extra pouches. Promo heading Printed Pencil Pouches.",
+    "error": "image generation failed: http400BadRequest; request rejected by safety system; typeimage_generation_user_error; codemoderation_blocked; stageoutput; categories[other]",
+    "request_id": "80e33fdd-7365-41c5-a780-8eb6b933d9c2",
+    "retried": false,
+    "raw_error": {
+      "http_status": 400,
+      "error": {
+        "message": "Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 80e33fdd-7365-41c5-a780-8eb6b933d9c2.",
+        "type": "image_generation_user_error",
+        "param": null,
+        "code": "moderation_blocked",
+        "moderation_details": {
+          "moderation_stage": "output",
+          "categories": [
+            "other"
+          ]
+        }
+      }
+    }
+  }
+}

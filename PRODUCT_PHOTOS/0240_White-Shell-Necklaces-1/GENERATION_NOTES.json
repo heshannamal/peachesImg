@@ -1,0 +1,61 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250303-WA0332.jpg": "a770393b2b0e0a528368f78122da27a7bfef2580d67f90490d869302d965c09b"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-a1ec87ad-b92a-43a1-8e75-3497c70cf339.png",
+      "prompt": "Clean white seamless website product photo. Whole dense bundle of WHITE small spiral conch-shell necklaces draped vertically in many adjacent strands over hand. Preserve all visible strands layered arrangement irregular natural small white conical shells, drilled string holes and creamwhite tone; no invented coloured beads or clasps, no simplifying single necklace. Remove hand shop and price overlay. Preserve originalfrontview fullproduct count shape colours materials no addedtext.",
+      "sha256": "3c3679307a35d8b7de4d7a3ed95bbf0aa83009176b177cda9ecc16ccbcb40dd7",
+      "checked": true,
+      "visual_review": "Dense shell necklace bundle retains adjacent white conical shell strands and natural texture."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-1d6c24a7-0485-4638-962d-e7045befce29.png",
+      "prompt": "Styled ecommerce photograph on lavender backdrop cream fabric edge. Whole dense bundle of WHITE small spiral conch-shell necklaces draped vertically in many adjacent strands over hand. Preserve all visible strands layered arrangement irregular natural small white conical shells, drilled string holes and creamwhite tone; no invented coloured beads or clasps, no simplifying single necklace. Remove hand shop and price overlay. Preserve full original visible product group frontshape colours materials count, noaddedtext.",
+      "sha256": "b1dda481f05fa99e7f53a88fd257d2cdb6d5778b8ae04fcf5987eda41cf7859a",
+      "checked": true,
+      "visual_review": "Dense layered shell strands retain white natural conicalshape material on lavender."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-b05d8247-cef4-4581-aed5-a39065bb10a3.png",
+      "prompt": "Lifestyle product photograph displayed on cream vanity near window with lavender wall minimal contextual props outside product. Whole dense bundle of WHITE small spiral conch-shell necklaces draped vertically in many adjacent strands over hand. Preserve all visible strands layered arrangement irregular natural small white conical shells, drilled string holes and creamwhite tone; no invented coloured beads or clasps, no simplifying single necklace. Remove hand shop and price overlay. Samefrontangle actualcountshape coloursmaterials no addedtext.",
+      "sha256": "8d6b7b69eaf315591008b6fe661d18c9524a8359c9bfe52d8ddfe694e208fced",
+      "checked": true,
+      "visual_review": "Shellbundle retains dense adjacent white conical strands on displaystand."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-d2b81dc2-f66f-467c-a069-1aee88935914.png",
+      "prompt": "STANDALONE TIGHT MACRO photograph of existing small white spiral conch shells threaded on string from reference. Fill frame with THREE neighbouring shells showing ridges natural holes and string texture. No full assortment, no hand price text or invented clasps.",
+      "sha256": "9108ef63b389114f9e6096d4df3bfc12b319d98c29a1485ce27f835a881702f4",
+      "checked": true,
+      "visual_review": "Standalone tight macro white conical shells naturalridges holes string correctmaterial."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-7fb8bff2-0b51-4195-b79d-9c93a7d85a45.png",
+      "prompt": "Edit reference for promotional website photo. REMOVE THE ENTIRE HUMAN HAND completely, replace support with invisible stand/cream display roll. Dense full bundle of many white spiral smallconch shell necklaces retains same arrangement naturalwhite material. Lavendercream background, heading 'White Shell Necklace Collection', subtitle 'PRODUCT COLLECTION'. NO SKIN OR FINGERS anywhere. No shop price. Preserve shells notsimplifyonestrand.",
+      "sha256": "f748d8232978e2c3505ca1665bb249f892cafa063565c363108892883b3e83dc",
+      "checked": true,
+      "visual_review": "White shellbundle retained on cream displayroll; hand removed, headinglegible."
+    }
+  ],
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "rejected_records": [
+    {
+      "saved_file": "Rejected/05_Promotional-hand-retained.png",
+      "source_output": "/workspace/generated_images/exec-3be2925c-e7b3-412c-8b63-22cd04582a72.png",
+      "prompt": "Website promotional photograph lavendercream backdrop compact plum heading 'White Shell Necklace Collection' subtitle 'PRODUCT COLLECTION'. Whole dense bundle of WHITE small spiral conch-shell necklaces draped vertically in many adjacent strands over hand. Preserve all visible strands layered arrangement irregular natural small white conical shells, drilled string holes and creamwhite tone; no invented coloured beads or clasps, no simplifying single necklace. Remove hand shop and price overlay. Fulloriginalvisible product group samefrontangle shape count coloursmaterials, noothertext.",
+      "sha256": "750719eb9508ca4fc77cd6da0d85261c59c57227f6e7d759cbe4e978ec01e951",
+      "checked": false,
+      "visual_review": "Hand retained in promotional output; correction required."
+    }
+  ]
+}

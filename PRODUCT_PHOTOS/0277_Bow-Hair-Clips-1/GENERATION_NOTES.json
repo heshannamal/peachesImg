@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250305-WA0375.jpg": "f3a7007c9d370aa33297a5ce8f4bb25ce7efd182d63c49ae64e00a183ec0e719"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-8793a74f-33b5-4f4f-a606-609e272a9c9f.png",
+      "prompt": "Single website product photograph of exact source packaged SIX fabric butterfly/bow hair clips on THREE frontwhite cards2clips each: leftcream ribbedblackdot fabric, righttan ribbedbrowndot fabric. Each four rounded wingloops and glossy resin flower center with tiny redstrawberry/greenleaf; leftivoryflower rightbrownflower. Preserve original6clip count, exact wing shape, dottedcorduroytexture, centredecorations, clearpacket/whiteprintedcards and rearpartialcardglimpses, overlap. Remove hand/shop/30CARD sticker only. No extra clips/invented hiddenparts/newtext. Pure white seamless studio background soft shadow fullpacketvisible.",
+      "sha256": "2cca5bdecfb5667c057529dffc30eb6ca2fa259b6567f64ff5f1c06a5dfe4e50",
+      "checked": true,
+      "visual_review": "Actual white output compared original: six frontclips on three cards, cream/brown count/order, four-lobed fabric forms and centredecorations retained; original partialrearcards/package preserved."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-8adf71af-b328-41a2-99b4-2e8c4b5ecfcd.png",
+      "prompt": "Single website product photograph of exact source packaged SIX fabric butterfly/bow hair clips on THREE frontwhite cards2clips each: leftcream ribbedblackdot fabric, righttan ribbedbrowndot fabric. Each four rounded wingloops and glossy resin flower center with tiny redstrawberry/greenleaf; leftivoryflower rightbrownflower. Preserve original6clip count, exact wing shape, dottedcorduroytexture, centredecorations, clearpacket/whiteprintedcards and rearpartialcardglimpses, overlap. Remove hand/shop/30CARD sticker only. No extra clips/invented hiddenparts/newtext. Lavender and cream seamless studio background soft shadow entirepacketvisible. ONEimage no panels.",
+      "sha256": "d36e87d9acefaa80c2beb1b8345a06bde3d489a8a54de1a1ba9e3f06a1a4aa05",
+      "checked": true,
+      "visual_review": "Actual styled output viewed: six front clips on three cards and rear partials retained, cream/brown dotted ribbed fabric fourlobes and original flower/gingham centres preserved; lavendercream setting."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-b3a4f8f1-25a9-40a3-929c-2d7308284c43.png",
+      "prompt": "Single website product photograph of exact source packaged SIX fabric butterfly/bow hair clips on THREE frontwhite cards2clips each: leftcream ribbedblackdot fabric, righttan ribbedbrowndot fabric. Each four rounded wingloops and glossy resin flower center with tiny redstrawberry/greenleaf; leftivoryflower rightbrownflower. Preserve original6clip count, exact wing shape, dottedcorduroytexture, centredecorations, clearpacket/whiteprintedcards and rearpartialcardglimpses, overlap. Remove hand/shop/30CARD sticker only. No extra clips/invented hiddenparts/newtext. Lifestyle photo of whole originalpacket on creamdressingtable with softly blurred lavenderbedroom behind. ONE continuous photograph no collage/panels/duplicate packet.",
+      "sha256": "7880309f2fb796c83d52ecd7a9964fe4febd90916d774c649822641ac1a08dc4",
+      "checked": true,
+      "visual_review": "Actual lifestyle output compared source: one packet with six front cream/brown four-lobed fabricclips and original centres, rearpartialclips/cards/clearwrap retained; no duplicated packet or collage."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-cf325433-155b-43a2-a545-8858c461fa6c.png",
+      "prompt": "Standalone tight macro photo of original cream dotted ribbed fabric butterflyhairclip central ivory resin flower with small redstrawberry greenleaf, surrounding actual corduroyloops. Preserve exact visible material/shape/colour and original backingcard/clearwrap. Croponlyrealpart, nofullassortment/newparts/text.",
+      "sha256": "76015e1111b178f863f6a54930b0e2d5034bfc90ccee96cd60afad7d1fd8b74d",
+      "checked": true,
+      "visual_review": "Actual standalone tightmacro inspected against original visible clip: original corduroy/dot texture, fourlobed form and resinflower/strawberry or ginghambowcentre retained; no invented hiddenparts."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-80647e3c-17c5-4c8e-ad04-9eac9bfa722b.png",
+      "prompt": "Single website product photograph of exact source packaged SIX fabric butterfly/bow hair clips on THREE frontwhite cards2clips each: leftcream ribbedblackdot fabric, righttan ribbedbrowndot fabric. Each four rounded wingloops and glossy resin flower center with tiny redstrawberry/greenleaf; leftivoryflower rightbrownflower. Preserve original6clip count, exact wing shape, dottedcorduroytexture, centredecorations, clearpacket/whiteprintedcards and rearpartialcardglimpses, overlap. Remove hand/shop/30CARD sticker only. No extra clips/invented hiddenparts/newtext. Promotional photo: wholepacket on lavendercream studio, small heading FABRIC HAIR CLIPS in cleartopmargin, no price. ONEcontinuousimage no panels.",
+      "sha256": "df5789e5eaa19620a352ff42268e93b74683bc15e9b2fad9be7d26ff19b0107b",
+      "checked": true,
+      "visual_review": "Viewed actual promo compared original: sixfront clips/threecards, colours/dottedcorduroy/centredecorations retained; FABRIC HAIR CLIPS accurateheading."
+    }
+  ],
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

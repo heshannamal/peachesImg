@@ -1,0 +1,126 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260929-WA0112.jpg": "aabba4a3727ae24b6e8a2baabada09cc16daa664fa4ff0c41d79bf9e6d900d3c"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-691bdc0e-90c3-44f7-903f-51081dcf1ffe.png",
+      "source_output": "/workspace/generated_images/exec-691bdc0e-90c3-44f7-903f-51081dcf1ffe.png",
+      "sha256": "ffc10803ef4399fa5aa2ac35b02d39d12cb01e3d1c7e951fa07913e020eef85f",
+      "prompt": "Edit the supplied actual original product photo into ONE website-ready landscape1536x1024 borderless3columns2rows equal512squarecells, exactsplit x512,x1024,y512. Preserve actual whole assortment count, identity, shapes, colours and printed/embroidered motifs. Remove floating price overlays and background store clutter only. Toprow white fullassortment,lavender/cream styled fullassortment,natural lifestyle fullassortment. Bottomrow standalone tightrealpartmacro only,promotional wholeassortment accurateheading,blankcreamunused. No extra/missing units or unrelated stock substitutes. Actual assortment FOUR seated roundheaded cartoon CAT plush toys: backleftPALEBLUE,backrightORANGE,frontleftLAVENDER,frontrightLIMEGREEN. Preserve enormouswhiteeye patches, blackroundeyes/orangeirises, twolobedYELLOWnose andtinypinknose top, smallblackwhiskers/stripes, roundedears/body/feet andfur. Allfullcells exactly4cats, no yellowball or shelf/books/flowers required. Detailtightactualbluefur/stitchedwhiteeyeedge/yellownose part. Heading 'Colourful Cat Plush Toys'. Lifestyle all4oncreamlivingroombench.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-691bdc0e-90c3-44f7-903f-51081dcf1ffe.png",
+      "prompt": "Edit the supplied actual original product photo into ONE website-ready landscape1536x1024 borderless3columns2rows equal512squarecells, exactsplit x512,x1024,y512. Preserve actual whole assortment count, identity, shapes, colours and printed/embroidered motifs. Remove floating price overlays and background store clutter only. Toprow white fullassortment,lavender/cream styled fullassortment,natural lifestyle fullassortment. Bottomrow standalone tightrealpartmacro only,promotional wholeassortment accurateheading,blankcreamunused. No extra/missing units or unrelated stock substitutes. Actual assortment FOUR seated roundheaded cartoon CAT plush toys: backleftPALEBLUE,backrightORANGE,frontleftLAVENDER,frontrightLIMEGREEN. Preserve enormouswhiteeye patches, blackroundeyes/orangeirises, twolobedYELLOWnose andtinypinknose top, smallblackwhiskers/stripes, roundedears/body/feet andfur. Allfullcells exactly4cats, no yellowball or shelf/books/flowers required. Detailtightactualbluefur/stitchedwhiteeyeedge/yellownose part. Heading 'Colourful Cat Plush Toys'. Lifestyle all4oncreamlivingroombench.\n",
+      "sha256": "f08e88d6c53ea75662a7f4b1db6a4eeb509f024acac3aea2bcda64bcf243e1e3",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-691bdc0e-90c3-44f7-903f-51081dcf1ffe.png",
+      "grid_sha256": "ffc10803ef4399fa5aa2ac35b02d39d12cb01e3d1c7e951fa07913e020eef85f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Pass: fullviews fourseatedcatplush correctpaleblue/orange/lavender/limegreen, largewhiteeyepatches/blackeyes/orangeirises/yellownose/smallblackwhiskers/bodyshape. Tightactualbluefacefurmacro,headingaccurate,clean512cellcrops. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-691bdc0e-90c3-44f7-903f-51081dcf1ffe.png",
+      "prompt": "Edit the supplied actual original product photo into ONE website-ready landscape1536x1024 borderless3columns2rows equal512squarecells, exactsplit x512,x1024,y512. Preserve actual whole assortment count, identity, shapes, colours and printed/embroidered motifs. Remove floating price overlays and background store clutter only. Toprow white fullassortment,lavender/cream styled fullassortment,natural lifestyle fullassortment. Bottomrow standalone tightrealpartmacro only,promotional wholeassortment accurateheading,blankcreamunused. No extra/missing units or unrelated stock substitutes. Actual assortment FOUR seated roundheaded cartoon CAT plush toys: backleftPALEBLUE,backrightORANGE,frontleftLAVENDER,frontrightLIMEGREEN. Preserve enormouswhiteeye patches, blackroundeyes/orangeirises, twolobedYELLOWnose andtinypinknose top, smallblackwhiskers/stripes, roundedears/body/feet andfur. Allfullcells exactly4cats, no yellowball or shelf/books/flowers required. Detailtightactualbluefur/stitchedwhiteeyeedge/yellownose part. Heading 'Colourful Cat Plush Toys'. Lifestyle all4oncreamlivingroombench.\n",
+      "sha256": "56fd5c47ad8f5e17aa75e280fb0e8b7cdc530fc15ba26cb27f70cc6f9084fe2b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-691bdc0e-90c3-44f7-903f-51081dcf1ffe.png",
+      "grid_sha256": "ffc10803ef4399fa5aa2ac35b02d39d12cb01e3d1c7e951fa07913e020eef85f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Pass: fullviews fourseatedcatplush correctpaleblue/orange/lavender/limegreen, largewhiteeyepatches/blackeyes/orangeirises/yellownose/smallblackwhiskers/bodyshape. Tightactualbluefacefurmacro,headingaccurate,clean512cellcrops. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-691bdc0e-90c3-44f7-903f-51081dcf1ffe.png",
+      "prompt": "Edit the supplied actual original product photo into ONE website-ready landscape1536x1024 borderless3columns2rows equal512squarecells, exactsplit x512,x1024,y512. Preserve actual whole assortment count, identity, shapes, colours and printed/embroidered motifs. Remove floating price overlays and background store clutter only. Toprow white fullassortment,lavender/cream styled fullassortment,natural lifestyle fullassortment. Bottomrow standalone tightrealpartmacro only,promotional wholeassortment accurateheading,blankcreamunused. No extra/missing units or unrelated stock substitutes. Actual assortment FOUR seated roundheaded cartoon CAT plush toys: backleftPALEBLUE,backrightORANGE,frontleftLAVENDER,frontrightLIMEGREEN. Preserve enormouswhiteeye patches, blackroundeyes/orangeirises, twolobedYELLOWnose andtinypinknose top, smallblackwhiskers/stripes, roundedears/body/feet andfur. Allfullcells exactly4cats, no yellowball or shelf/books/flowers required. Detailtightactualbluefur/stitchedwhiteeyeedge/yellownose part. Heading 'Colourful Cat Plush Toys'. Lifestyle all4oncreamlivingroombench.\n",
+      "sha256": "e5b3d1a7368eadc3588b52c0506645309e3aad05998e0251f5173269b0e30915",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-691bdc0e-90c3-44f7-903f-51081dcf1ffe.png",
+      "grid_sha256": "ffc10803ef4399fa5aa2ac35b02d39d12cb01e3d1c7e951fa07913e020eef85f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Pass: fullviews fourseatedcatplush correctpaleblue/orange/lavender/limegreen, largewhiteeyepatches/blackeyes/orangeirises/yellownose/smallblackwhiskers/bodyshape. Tightactualbluefacefurmacro,headingaccurate,clean512cellcrops. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-691bdc0e-90c3-44f7-903f-51081dcf1ffe.png",
+      "prompt": "Edit the supplied actual original product photo into ONE website-ready landscape1536x1024 borderless3columns2rows equal512squarecells, exactsplit x512,x1024,y512. Preserve actual whole assortment count, identity, shapes, colours and printed/embroidered motifs. Remove floating price overlays and background store clutter only. Toprow white fullassortment,lavender/cream styled fullassortment,natural lifestyle fullassortment. Bottomrow standalone tightrealpartmacro only,promotional wholeassortment accurateheading,blankcreamunused. No extra/missing units or unrelated stock substitutes. Actual assortment FOUR seated roundheaded cartoon CAT plush toys: backleftPALEBLUE,backrightORANGE,frontleftLAVENDER,frontrightLIMEGREEN. Preserve enormouswhiteeye patches, blackroundeyes/orangeirises, twolobedYELLOWnose andtinypinknose top, smallblackwhiskers/stripes, roundedears/body/feet andfur. Allfullcells exactly4cats, no yellowball or shelf/books/flowers required. Detailtightactualbluefur/stitchedwhiteeyeedge/yellownose part. Heading 'Colourful Cat Plush Toys'. Lifestyle all4oncreamlivingroombench.\n",
+      "sha256": "abde376350070d65ccf0588339c93988326ea3e94630455b9ec255b158427433",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-691bdc0e-90c3-44f7-903f-51081dcf1ffe.png",
+      "grid_sha256": "ffc10803ef4399fa5aa2ac35b02d39d12cb01e3d1c7e951fa07913e020eef85f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Pass: fullviews fourseatedcatplush correctpaleblue/orange/lavender/limegreen, largewhiteeyepatches/blackeyes/orangeirises/yellownose/smallblackwhiskers/bodyshape. Tightactualbluefacefurmacro,headingaccurate,clean512cellcrops. Frozenoriginal/outputSHAverified."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-691bdc0e-90c3-44f7-903f-51081dcf1ffe.png",
+      "prompt": "Edit the supplied actual original product photo into ONE website-ready landscape1536x1024 borderless3columns2rows equal512squarecells, exactsplit x512,x1024,y512. Preserve actual whole assortment count, identity, shapes, colours and printed/embroidered motifs. Remove floating price overlays and background store clutter only. Toprow white fullassortment,lavender/cream styled fullassortment,natural lifestyle fullassortment. Bottomrow standalone tightrealpartmacro only,promotional wholeassortment accurateheading,blankcreamunused. No extra/missing units or unrelated stock substitutes. Actual assortment FOUR seated roundheaded cartoon CAT plush toys: backleftPALEBLUE,backrightORANGE,frontleftLAVENDER,frontrightLIMEGREEN. Preserve enormouswhiteeye patches, blackroundeyes/orangeirises, twolobedYELLOWnose andtinypinknose top, smallblackwhiskers/stripes, roundedears/body/feet andfur. Allfullcells exactly4cats, no yellowball or shelf/books/flowers required. Detailtightactualbluefur/stitchedwhiteeyeedge/yellownose part. Heading 'Colourful Cat Plush Toys'. Lifestyle all4oncreamlivingroombench.\n",
+      "sha256": "6a785b4c4ca46fc667af9f7bcbe5e74774f1f44326868e19ad395d91a95ae616",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-691bdc0e-90c3-44f7-903f-51081dcf1ffe.png",
+      "grid_sha256": "ffc10803ef4399fa5aa2ac35b02d39d12cb01e3d1c7e951fa07913e020eef85f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Pass: fullviews fourseatedcatplush correctpaleblue/orange/lavender/limegreen, largewhiteeyepatches/blackeyes/orangeirises/yellownose/smallblackwhiskers/bodyshape. Tightactualbluefacefurmacro,headingaccurate,clean512cellcrops. Frozenoriginal/outputSHAverified."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

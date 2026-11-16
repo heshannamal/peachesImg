@@ -1,0 +1,27 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "status": "blocked_moderation",
+  "original_hashes": {
+    "Originals/IMG-20260929-WA0128.jpg": "4eba1c55bb2f14ab11d58c79a9b24b5b2e2f8a066c4c238a13b0efe86ad90d6c"
+  },
+  "records": [],
+  "blocked_attempt": {
+    "prompt": "Native photographic edit referencedactualoriginal intoONE1536x1024strict3columns2rows contact sheet,equal512squarecells,nogutters. WholeassortmentONEproduct. Cell1top-leftWHITEfullassortment;cell2top-middleLAVENDER/CREAMstyledfullassortment;cell3top-rightLIFESTYLEfullassortment;cell4bottom-leftstandalonetightrealpartmacro;cell5bottom-middlePROMOTIONALfullassortmentaccurateheading;cell6bottom-rightblankcream. Preserveactualcount/identity/shapes/colours/printeddesigns. Removeexternalprice/catalogueclutter; keepactualproductidentity. Fullassortmentrepeatedineachfullview, neveroneitempercell.Actualsource EXACTTWO rechargeablehandheldfans, ONEBLUEandONEPINK, roundradialgrillewithlongcharacter-earsprotrudingonsides, centralcartoonface, printedblue/pinkcylindricalhandle, matchingstandbase. Bluefanbluegrillewithblueface;pinkfanpinkgrillewithpinkface, exactlysourceStitch/Angelidentity. No keyrings despitefoldername. Pairtogethereachfullview,lifestylecreamdesk. Detailmacrobluegrille/centralface/plasticpart notwholepair. Heading 'Rechargeable Character Fans'. DoNOTshowcableunlessactuallysourcevisible; avoidcapacity/powerclaims.",
+    "referenced_image_paths": [
+      "/workspace/peachesImg/PRODUCT_PHOTOS/2507_Character-Keyring-Fans-0/Originals/IMG-20260929-WA0128.jpg"
+    ],
+    "error": "HTTP400BadRequest: Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 3e4d0f9b-ed66-44ae-83d1-ec1fe0e2b71b.",
+    "type": "image_generation_user_error",
+    "code": "moderation_blocked",
+    "moderation_details": {
+      "moderation_stage": "output",
+      "categories": [
+        "other"
+      ]
+    },
+    "request_id": "3e4d0f9b-ed66-44ae-83d1-ec1fe0e2b71b",
+    "retries": 0
+  },
+  "visual_review": "No output returned; moderationblocked withoutretry."
+}

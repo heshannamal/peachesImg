@@ -1,0 +1,114 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/PXL_20250306_074939339.PORTRAIT.jpg": "32e26b25403e678028e42b5cd22c655b8933fa6df5d90f73ad8cfd0a113ee080"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-bae0fb39-8f56-48fc-b9a9-302fc424287d.png",
+      "prompt": "Faithful website catalogue photo edit of reference. Exact TWELVE glossy plastic flower hairclaws in TWO clear sleeves SIX each. Each sleeve topTWO blackjaws withivory5petalflowers, middleTWO taupejaws withtranslucentbrown5petalflowers, bottomTWO darkbrown/blackjaws withblack5petalflowers. Each flower hasgoldstarsetting withoneclear facetedroundcentre. Preserve original staggered2column6row layout, exact12count, jaws/teeth/goldsprings, plasticgloss, transparentwrappers and originaloverlaps. WholeassortmentONEproduct. Pure white seamless surroundings, soft contact shadows, entireoriginalvisibleassortment inframe. Preserve original product identity/count/shape/colour/material/packaging, no invented hiddenparts or rearranging. Remove hand/shop/oldprice/stocknumberoverlay only, no newtext/props/extraitems.",
+      "sha256": "415d3ee11485bcbe5dc7ef1e8b82582afaae017bf0d3739e7baca31423ae56e7",
+      "checked": true,
+      "visual_review": "Compared original: twelve flower claws retained in2sixclip sleeves, ivory/taupe/black colour groups, fivepetal flowers with gold/clear centers and jaw/spring shapes preserved. Main count/identity/colours/material/packaging match; original hashes verified."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-659f810d-d5a7-4db3-a0ec-b7d645f4da5f.png",
+      "source_output": "/workspace/generated_images/exec-659f810d-d5a7-4db3-a0ec-b7d645f4da5f.png",
+      "sha256": "699399c48edc3699add39eeeda5667d1192dab289df20b522da43658464c0aac",
+      "prompt": "ONE LANDSCAPE image EXACT1536x1024pixels STRICT3equalcolumns by2equalrows, SIX square512x512cells, no gutters/borders/panellabels. Native faithful productphoto edit reference. Exact TWELVE glossy plastic flower hairclaws in TWO clear sleeves SIX each. Each sleeve topTWO blackjaws withivory5petalflowers, middleTWO taupejaws withtranslucentbrown5petalflowers, bottomTWO darkbrown/blackjaws withblack5petalflowers. Each flower hasgoldstarsetting withoneclear facetedroundcentre. Preserve original staggered2column6row layout, exact12count, jaws/teeth/goldsprings, plasticgloss, transparentwrappers and originaloverlaps. WholeassortmentONEproduct. Each view independentlysquareframed fully inside itscell with smallmargins, nothingcrossescellboundaries. TOPLEFT pureWHITE studio full12assortment. TOPMIDDLE lavender/creamstyled full12assortment. TOPRIGHT cream dressingtable lifestyle full12assortment with softlavenderroomblur. BOTTOMLEFT standalone TIGHT MACRO ONLY oneoriginal ivoryfivepetalflower goldstarsetting clearfacetedcentre, notfullassortment and no unseenparts. BOTTOMMIDDLE full12assortment promotional lavendercream with accurate smallheading FLOWER HAIR CLAW SET. BOTTOMRIGHT entirelyblankcreamunused. EXACT12claws per fullview, EACH two stripsSIX countpositions1,2,3,4,5,6, same originalorder andpackaging, no hidden extras or inventions. Preserve allactualidentities mainshapes/material/colours. Removehand/shop/oldprice/stocknumberonly; no invented extra products or addedlabels.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-659f810d-d5a7-4db3-a0ec-b7d645f4da5f.png",
+      "prompt": "ONE LANDSCAPE image EXACT1536x1024pixels STRICT3equalcolumns by2equalrows, SIX square512x512cells, no gutters/borders/panellabels. Native faithful productphoto edit reference. Exact TWELVE glossy plastic flower hairclaws in TWO clear sleeves SIX each. Each sleeve topTWO blackjaws withivory5petalflowers, middleTWO taupejaws withtranslucentbrown5petalflowers, bottomTWO darkbrown/blackjaws withblack5petalflowers. Each flower hasgoldstarsetting withoneclear facetedroundcentre. Preserve original staggered2column6row layout, exact12count, jaws/teeth/goldsprings, plasticgloss, transparentwrappers and originaloverlaps. WholeassortmentONEproduct. Each view independentlysquareframed fully inside itscell with smallmargins, nothingcrossescellboundaries. TOPLEFT pureWHITE studio full12assortment. TOPMIDDLE lavender/creamstyled full12assortment. TOPRIGHT cream dressingtable lifestyle full12assortment with softlavenderroomblur. BOTTOMLEFT standalone TIGHT MACRO ONLY oneoriginal ivoryfivepetalflower goldstarsetting clearfacetedcentre, notfullassortment and no unseenparts. BOTTOMMIDDLE full12assortment promotional lavendercream with accurate smallheading FLOWER HAIR CLAW SET. BOTTOMRIGHT entirelyblankcreamunused. EXACT12claws per fullview, EACH two stripsSIX countpositions1,2,3,4,5,6, same originalorder andpackaging, no hidden extras or inventions. Preserve allactualidentities mainshapes/material/colours. Removehand/shop/oldprice/stocknumberonly; no invented extra products or addedlabels.\n",
+      "sha256": "b01066a2829d30d5e52894c7ea879ae9b260770bb5dfc94fd3a0b189fecbd6c4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-659f810d-d5a7-4db3-a0ec-b7d645f4da5f.png",
+      "grid_sha256": "699399c48edc3699add39eeeda5667d1192dab289df20b522da43658464c0aac",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Reviewedactual512squarecrop againstoriginal: EXACT12claws in2sixclip strips,2ivory/2brown/2black flowers perstrip, matching jaw colours/goldclearcentres/packaging; correct requestedstyle and fullassortment entirelyinsidecell. No crosspanelcontent; promotionalheading accurate wherepresent; websitequalityaccepted."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-659f810d-d5a7-4db3-a0ec-b7d645f4da5f.png",
+      "prompt": "ONE LANDSCAPE image EXACT1536x1024pixels STRICT3equalcolumns by2equalrows, SIX square512x512cells, no gutters/borders/panellabels. Native faithful productphoto edit reference. Exact TWELVE glossy plastic flower hairclaws in TWO clear sleeves SIX each. Each sleeve topTWO blackjaws withivory5petalflowers, middleTWO taupejaws withtranslucentbrown5petalflowers, bottomTWO darkbrown/blackjaws withblack5petalflowers. Each flower hasgoldstarsetting withoneclear facetedroundcentre. Preserve original staggered2column6row layout, exact12count, jaws/teeth/goldsprings, plasticgloss, transparentwrappers and originaloverlaps. WholeassortmentONEproduct. Each view independentlysquareframed fully inside itscell with smallmargins, nothingcrossescellboundaries. TOPLEFT pureWHITE studio full12assortment. TOPMIDDLE lavender/creamstyled full12assortment. TOPRIGHT cream dressingtable lifestyle full12assortment with softlavenderroomblur. BOTTOMLEFT standalone TIGHT MACRO ONLY oneoriginal ivoryfivepetalflower goldstarsetting clearfacetedcentre, notfullassortment and no unseenparts. BOTTOMMIDDLE full12assortment promotional lavendercream with accurate smallheading FLOWER HAIR CLAW SET. BOTTOMRIGHT entirelyblankcreamunused. EXACT12claws per fullview, EACH two stripsSIX countpositions1,2,3,4,5,6, same originalorder andpackaging, no hidden extras or inventions. Preserve allactualidentities mainshapes/material/colours. Removehand/shop/oldprice/stocknumberonly; no invented extra products or addedlabels.\n",
+      "sha256": "b4044054fb8a8f91479a46ed8676f4c6785bf4961b7270392d9d75279d849272",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-659f810d-d5a7-4db3-a0ec-b7d645f4da5f.png",
+      "grid_sha256": "699399c48edc3699add39eeeda5667d1192dab289df20b522da43658464c0aac",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Reviewedactual512squarecrop againstoriginal: EXACT12claws in2sixclip strips,2ivory/2brown/2black flowers perstrip, matching jaw colours/goldclearcentres/packaging; correct requestedstyle and fullassortment entirelyinsidecell. No crosspanelcontent; promotionalheading accurate wherepresent; websitequalityaccepted."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-659f810d-d5a7-4db3-a0ec-b7d645f4da5f.png",
+      "prompt": "ONE LANDSCAPE image EXACT1536x1024pixels STRICT3equalcolumns by2equalrows, SIX square512x512cells, no gutters/borders/panellabels. Native faithful productphoto edit reference. Exact TWELVE glossy plastic flower hairclaws in TWO clear sleeves SIX each. Each sleeve topTWO blackjaws withivory5petalflowers, middleTWO taupejaws withtranslucentbrown5petalflowers, bottomTWO darkbrown/blackjaws withblack5petalflowers. Each flower hasgoldstarsetting withoneclear facetedroundcentre. Preserve original staggered2column6row layout, exact12count, jaws/teeth/goldsprings, plasticgloss, transparentwrappers and originaloverlaps. WholeassortmentONEproduct. Each view independentlysquareframed fully inside itscell with smallmargins, nothingcrossescellboundaries. TOPLEFT pureWHITE studio full12assortment. TOPMIDDLE lavender/creamstyled full12assortment. TOPRIGHT cream dressingtable lifestyle full12assortment with softlavenderroomblur. BOTTOMLEFT standalone TIGHT MACRO ONLY oneoriginal ivoryfivepetalflower goldstarsetting clearfacetedcentre, notfullassortment and no unseenparts. BOTTOMMIDDLE full12assortment promotional lavendercream with accurate smallheading FLOWER HAIR CLAW SET. BOTTOMRIGHT entirelyblankcreamunused. EXACT12claws per fullview, EACH two stripsSIX countpositions1,2,3,4,5,6, same originalorder andpackaging, no hidden extras or inventions. Preserve allactualidentities mainshapes/material/colours. Removehand/shop/oldprice/stocknumberonly; no invented extra products or addedlabels.\n",
+      "sha256": "26264603e4e906c2542c9d3d1908eb6137e977630a73f6fcaa9ae4a42cc9730e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-659f810d-d5a7-4db3-a0ec-b7d645f4da5f.png",
+      "grid_sha256": "699399c48edc3699add39eeeda5667d1192dab289df20b522da43658464c0aac",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Reviewedactual512squarecrop: true original ivoryfivepetalflower goldstarsetting clearfacetedroundcentre macro only, no invented hiddenparts; cropboundary correct and no neighbouringcell. Mainshape/colour/material retained."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-659f810d-d5a7-4db3-a0ec-b7d645f4da5f.png",
+      "prompt": "ONE LANDSCAPE image EXACT1536x1024pixels STRICT3equalcolumns by2equalrows, SIX square512x512cells, no gutters/borders/panellabels. Native faithful productphoto edit reference. Exact TWELVE glossy plastic flower hairclaws in TWO clear sleeves SIX each. Each sleeve topTWO blackjaws withivory5petalflowers, middleTWO taupejaws withtranslucentbrown5petalflowers, bottomTWO darkbrown/blackjaws withblack5petalflowers. Each flower hasgoldstarsetting withoneclear facetedroundcentre. Preserve original staggered2column6row layout, exact12count, jaws/teeth/goldsprings, plasticgloss, transparentwrappers and originaloverlaps. WholeassortmentONEproduct. Each view independentlysquareframed fully inside itscell with smallmargins, nothingcrossescellboundaries. TOPLEFT pureWHITE studio full12assortment. TOPMIDDLE lavender/creamstyled full12assortment. TOPRIGHT cream dressingtable lifestyle full12assortment with softlavenderroomblur. BOTTOMLEFT standalone TIGHT MACRO ONLY oneoriginal ivoryfivepetalflower goldstarsetting clearfacetedcentre, notfullassortment and no unseenparts. BOTTOMMIDDLE full12assortment promotional lavendercream with accurate smallheading FLOWER HAIR CLAW SET. BOTTOMRIGHT entirelyblankcreamunused. EXACT12claws per fullview, EACH two stripsSIX countpositions1,2,3,4,5,6, same originalorder andpackaging, no hidden extras or inventions. Preserve allactualidentities mainshapes/material/colours. Removehand/shop/oldprice/stocknumberonly; no invented extra products or addedlabels.\n",
+      "sha256": "ba37f548df92bea708042d8b3730fce7701cc3df409c0883093ab7c29367d9f9",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-659f810d-d5a7-4db3-a0ec-b7d645f4da5f.png",
+      "grid_sha256": "699399c48edc3699add39eeeda5667d1192dab289df20b522da43658464c0aac",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Reviewedactual512squarecrop againstoriginal: EXACT12claws in2sixclip strips,2ivory/2brown/2black flowers perstrip, matching jaw colours/goldclearcentres/packaging; correct requestedstyle and fullassortment entirelyinsidecell. No crosspanelcontent; promotionalheading accurate wherepresent; websitequalityaccepted."
+    }
+  ],
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "plan_original_hashes_verified": true,
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved"
+}

@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250402-WA0289.jpg": "45041ff0ffc25c2ce2119c605958dc4e1cd8eb225fce7f84b63b13d3a63dfbc2"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-c0f0d658-07ce-4244-a9d7-5c19506fa14c.png",
+      "prompt": "Faithful website catalogue edit of entire original Mader coloured-pencil counter display as ONE assortment. Preserve all original transparent pencil tubes arranged overlapping rows SIX columns with visible pencil tips inside each tube, red blue red pink green blue front sleeves, coloured rear sleeves, original red cardboard display backing and chameleon printed front tray YH8812. Preserve exact visible tube count, row geometry, occlusion, colours, packaging and existing print without inventing hidden products. Do not simplify to one tube. Remove hand/shop/price overlay only. Entire original display clean white seamless background softshadow, no extra text or parts.",
+      "sha256": "934cd547f5939eed137deb5b3e0b24a053e675fa9542d13be6d0a4494652bde5",
+      "checked": true,
+      "visual_check": "Passed six-column layered tube display with original row arrangement, front sleeve colour order, red Mader backing and chameleon tray; minor label print variations accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-1dd67720-b3a7-4a6f-8011-cb33cccc8ae5.png",
+      "prompt": "Faithful website catalogue edit of entire original Mader coloured-pencil counter display as ONE assortment. Preserve all original transparent pencil tubes arranged overlapping rows SIX columns with visible pencil tips inside each tube, red blue red pink green blue front sleeves, coloured rear sleeves, original red cardboard display backing and chameleon printed front tray YH8812. Preserve exact visible tube count, row geometry, occlusion, colours, packaging and existing print without inventing hidden products. Do not simplify to one tube. Remove hand/shop/price overlay only. Entire original display on cream and lavender studio background softshadow, no extra text or parts.",
+      "sha256": "eaeedad0a4abb7e12d88db413fb8b2477a37c19f5dfd19b1095573b8915da2b0",
+      "checked": true,
+      "visual_check": "Passed same six-column layered tube display/source front sleeveorder, red Mader card and chameleon tray; cream lavender background. Minor packaging print variations accepted."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-84e5dadc-4829-4fc1-920f-6e373b4a8b24.png",
+      "prompt": "Faithful lifestyle website edit of entire original Mader coloured-pencil counter display as ONE assortment. Preserve all original transparent pencil tubes arranged overlapping rows SIX columns with visible pencil tips inside each tube, red blue red pink green blue front sleeves, coloured rear sleeves, original red cardboard display backing and chameleon printed front tray YH8812. Preserve exact visible tube count, row geometry, occlusion, colours, packaging and existing print without inventing hidden products. Do not simplify to one tube. Remove hand/shop/price overlay only. Entire display on bright cream study desk with softlyblurred lavender wall and bookshelf, daylight. No additional pencil products or text.",
+      "sha256": "8699ab9684252b4026e921317bd7ebe5d7d7c66fc1a54f6172ceca90c8de26f0",
+      "checked": true,
+      "visual_check": "Passed same layered sixcolumn tube assortment/cardboardtray, original frontcolourorder retained in creamstudy setting."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-597ae2a1-5c14-4d68-a727-5386bd2ed8d4.png",
+      "prompt": "Tight MACRO website detail crop ONLY existing coloured pencil sharpened tips through transparent clear tube cap from source. Show actual wood grain and pink yellow blue green red leads, plastic lip reflections, original visible parts only. Most cardboarddisplay and assortment croppedaway. No extra pencils invented, no addedtext, no hand/shop/price.",
+      "sha256": "58014e7cff58772498286ac7248445c8bcaa86edf4fdb53194027cdc26077a4d",
+      "checked": true,
+      "visual_check": "Passed tight actual pencil-tip and clear tube/cap macro, wood and colouredlead texture source preserved, assortment croppedaway."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-0d4ea525-268a-40d3-baf6-f92c335a908b.png",
+      "prompt": "Faithful website promotional edit of entire original Mader coloured-pencil counter display as ONE assortment. Preserve all original transparent pencil tubes arranged overlapping rows SIX columns with visible pencil tips inside each tube, red blue red pink green blue front sleeves, coloured rear sleeves, original red cardboard display backing and chameleon printed front tray YH8812. Preserve exact visible tube count, row geometry, occlusion, colours, packaging and existing print without inventing hidden products. Do not simplify to one tube. Remove hand/shop/oldprice overlay only. Entire display lavendercream layout with small dark plum accurate heading COLOUR PENCIL COLLECTION and PRODUCT COLLECTION subtitle. No extra products or claims.",
+      "sha256": "8e1920098daae425e843a55ddee2e99a206c2337f420ccc7cfd425a02532b656",
+      "checked": true,
+      "visual_check": "Passed whole source sixcolumn layered pencil tube display, original packaging/frontcolourorder retained, accurateheading and subtitle."
+    }
+  ],
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true
+}

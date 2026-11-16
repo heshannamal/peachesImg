@@ -1,0 +1,60 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250213-WA0506.jpg": "383eba95e9fe8d67876849299d55b4880dca04a465f8277f6ddf49778da9f311"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-ea5d0829-1292-464c-a400-4aee803a94d0.png",
+      "prompt": "Edit reference into website-ready photo of exact ONE packaged earring card assortment: TWELVE pairs of small sculpted flower stud earrings,24studs total, arranged six rows of two outlined pair boxes. Preserve every pair colour order orange/pale-blue; yellow/mint; tan/grey-blue; lavender/ivory; green/pale-pink; pale-blue/yellow, contrasting flower centers, original white Fashion Jewellery card and clear bag/header. Preserve actual shapes material arrangement. Remove hand/shop only. Full entire packaged card visible, pure white studio background soft shadows no added text.",
+      "sha256": "f77d9b699e4658cd902614c0fd269f1dbe49c933deee57c2afbd59f48b372caf",
+      "checked": true,
+      "visual_check": "Passed twelve flower stud pairs six rows two correct colours original card and bag full view no hand shop."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-6ab0dfc2-a560-4af6-a5a9-b5fdfa9c8a0d.png",
+      "prompt": "Edit reference into website-ready photo of exact ONE packaged earring card assortment: TWELVE pairs of small sculpted flower stud earrings,24studs total, arranged six rows of two outlined pair boxes. Preserve every pair colour order orange/pale-blue; yellow/mint; tan/grey-blue; lavender/ivory; green/pale-pink; pale-blue/yellow, contrasting flower centers, original white Fashion Jewellery card and clear bag/header. Preserve actual shapes material arrangement. Remove hand/shop only. Full packaged assortment visible on cream linen surface soft lavender studio backdrop soft shadows no new text.",
+      "sha256": "a8298ba9b80a9f1f5fd09f854d3bb03a5fb3e5552db291e24459c2a2a39f4399",
+      "checked": true,
+      "visual_check": "Passed twelve flower stud pairs six rows two correct source colour rows card and bag lavender cream full frame."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-39e908b8-3c29-4e2f-9985-55a7ddc7e1dc.png",
+      "prompt": "Edit reference into website-ready photo of exact ONE packaged earring card assortment: TWELVE pairs of small sculpted flower stud earrings,24studs total, arranged six rows of two outlined pair boxes. Preserve every pair colour order orange/pale-blue; yellow/mint; tan/grey-blue; lavender/ivory; green/pale-pink; pale-blue/yellow, contrasting flower centers, original white Fashion Jewellery card and clear bag/header. Preserve actual shapes material arrangement. Remove hand/shop only. Entire original assortment visible on sunlit cream home vanity with distant softly blurred mirror, no hands, no wearing or unpacking no new words.",
+      "sha256": "86444845f35a502d72fbad792ca7270cf7597a51d6574452b4409ff3e4845917",
+      "checked": true,
+      "visual_check": "Passed all twelve pairs correct flower shape colours original card bag full view sunlit vanity no hand."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-9cba071d-b714-4088-815b-9b9648103afd.png",
+      "prompt": "TIGHT MACRO photograph of just the orange flower stud earring pair at upper left of supplied original. Frame ONLY those two orange flowers and small area of white card behind them, each flower filling about40percent of image width, show petal relief and yellow centers through clear plastic. Do not show other earring pairs or entire package or header. Preserve actual original flower design colour material existing visible front. No invented rear or extra parts no text no hand shop. Tight macro crop only.",
+      "sha256": "a5a3a63224a1b19d2010ceb9fe45ab28dfe2ba01e15a9fc86732b3d229059327",
+      "checked": true,
+      "visual_check": "Passed tight macro original orange flower stud pair petal relief yellow centers and bag/card visible no invented rear."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-bf6f956d-e5c8-4959-b011-cae7dbfdd3af.png",
+      "prompt": "Recovered existing promotional output from interrupted worker; original submitted prompt unavailable here. Colourful Flower Stud Earrings, twelve pairs on original card, lavender cream promotional setting.",
+      "sha256": "d688b3e40261afdfa0e1c480916486f7b25c55894c78ca361e56933a29587b41",
+      "checked": true,
+      "visual_review": "Compared to original: twelve pairs of flower stud earrings, six rows/two columns, matching colours/card/package; title accurate. Website-ready."
+    }
+  ],
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true,
+  "rejected_outputs": [
+    {
+      "file": "Rejected/04_Detail-too-wide.png",
+      "cache_source": "/workspace/generated_images/exec-49dc7520-a507-4935-b391-aeee4166c643.png",
+      "sha256": "5abac8423c4a4cc858b6df90a994564d1538a4e7d56825bb4da3853c785dff46",
+      "reason": "Detail output shows whole assortment, fails tight macro requirement"
+    }
+  ]
+}

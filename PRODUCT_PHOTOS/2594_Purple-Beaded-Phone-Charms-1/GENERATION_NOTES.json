@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0232.jpg": "bbbf7b9454ca3af185ee65b29057ac46292b54df83805b66b4197cd9c9578ccd"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-92474b10-3010-4e27-a90e-ace41764ca7f.png",
+      "source_output": "/workspace/generated_images/exec-92474b10-3010-4e27-a90e-ace41764ca7f.png",
+      "sha256": "39b43a5b78f90beaf7cb5974d9b6d2aca4cef17e9dd5ec8558d26add49a785b3",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows of512square cells, no gutters/borders/labels. Top-left WHITE background full assortment; top-middle lavender/cream styled full assortment; top-right realistic tidy desk lifestyle full assortment; bottom-left standalone tight macro of one actual beaded part, not whole assortment; bottom-middle promotional full assortment with accurate heading Crystal Bead Phone Charms; bottom-right blank cream. Entire photographed assortment ONE product. Preserve exact count, identity, shapes, colourways, metal gold round spring clasp rings and white display cards. Remove hand, shop and price overlays, no new claims. Full views show exactly THREE complete loop straps on THREE cards, with margin inside each cell. Photoreal website-ready. Three crystal bead phone charm straps: first purple/pink small faceted rounds alternating with dark charcoal-grey faceted beads and champagne-gold crystals; second pale PEACH/champagne and clear faceted beads; third smoky GREY plus champagne-gold beads. All three have a large flat faceted iridescent round disc bead at bottom of each loop, gold round spring clasp at top. Preserve original sequences/large flat round pendant-like bead shape, not pearls. Detail of purple/grey faceted beads and gold clasp.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-92474b10-3010-4e27-a90e-ace41764ca7f.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows of512square cells, no gutters/borders/labels. Top-left WHITE background full assortment; top-middle lavender/cream styled full assortment; top-right realistic tidy desk lifestyle full assortment; bottom-left standalone tight macro of one actual beaded part, not whole assortment; bottom-middle promotional full assortment with accurate heading Crystal Bead Phone Charms; bottom-right blank cream. Entire photographed assortment ONE product. Preserve exact count, identity, shapes, colourways, metal gold round spring clasp rings and white display cards. Remove hand, shop and price overlays, no new claims. Full views show exactly THREE complete loop straps on THREE cards, with margin inside each cell. Photoreal website-ready. Three crystal bead phone charm straps: first purple/pink small faceted rounds alternating with dark charcoal-grey faceted beads and champagne-gold crystals; second pale PEACH/champagne and clear faceted beads; third smoky GREY plus champagne-gold beads. All three have a large flat faceted iridescent round disc bead at bottom of each loop, gold round spring clasp at top. Preserve original sequences/large flat round pendant-like bead shape, not pearls. Detail of purple/grey faceted beads and gold clasp.",
+      "sha256": "aa7652b6c19ffb33fffb0daf51ccabf148610a7b83174dab8525632bbaa1be1e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-92474b10-3010-4e27-a90e-ace41764ca7f.png",
+      "grid_sha256": "39b43a5b78f90beaf7cb5974d9b6d2aca4cef17e9dd5ec8558d26add49a785b3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crop checked against original: three crystal loop straps distinct purple/grey/champagne, peach/champagne and grey/champagne; large flat faceted round disc at each lowerloop, gold springrings. Count3/identity/colours and white/lavender/lifestyle/promo pass; standalone tight actual bead/clasp macro. Heading accurate and boundaries clean. Website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-92474b10-3010-4e27-a90e-ace41764ca7f.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows of512square cells, no gutters/borders/labels. Top-left WHITE background full assortment; top-middle lavender/cream styled full assortment; top-right realistic tidy desk lifestyle full assortment; bottom-left standalone tight macro of one actual beaded part, not whole assortment; bottom-middle promotional full assortment with accurate heading Crystal Bead Phone Charms; bottom-right blank cream. Entire photographed assortment ONE product. Preserve exact count, identity, shapes, colourways, metal gold round spring clasp rings and white display cards. Remove hand, shop and price overlays, no new claims. Full views show exactly THREE complete loop straps on THREE cards, with margin inside each cell. Photoreal website-ready. Three crystal bead phone charm straps: first purple/pink small faceted rounds alternating with dark charcoal-grey faceted beads and champagne-gold crystals; second pale PEACH/champagne and clear faceted beads; third smoky GREY plus champagne-gold beads. All three have a large flat faceted iridescent round disc bead at bottom of each loop, gold round spring clasp at top. Preserve original sequences/large flat round pendant-like bead shape, not pearls. Detail of purple/grey faceted beads and gold clasp.",
+      "sha256": "bb0f9adfc769b39815b533d1cfb741463c721643022646089aed4a05230a6992",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-92474b10-3010-4e27-a90e-ace41764ca7f.png",
+      "grid_sha256": "39b43a5b78f90beaf7cb5974d9b6d2aca4cef17e9dd5ec8558d26add49a785b3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crop checked against original: three crystal loop straps distinct purple/grey/champagne, peach/champagne and grey/champagne; large flat faceted round disc at each lowerloop, gold springrings. Count3/identity/colours and white/lavender/lifestyle/promo pass; standalone tight actual bead/clasp macro. Heading accurate and boundaries clean. Website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-92474b10-3010-4e27-a90e-ace41764ca7f.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows of512square cells, no gutters/borders/labels. Top-left WHITE background full assortment; top-middle lavender/cream styled full assortment; top-right realistic tidy desk lifestyle full assortment; bottom-left standalone tight macro of one actual beaded part, not whole assortment; bottom-middle promotional full assortment with accurate heading Crystal Bead Phone Charms; bottom-right blank cream. Entire photographed assortment ONE product. Preserve exact count, identity, shapes, colourways, metal gold round spring clasp rings and white display cards. Remove hand, shop and price overlays, no new claims. Full views show exactly THREE complete loop straps on THREE cards, with margin inside each cell. Photoreal website-ready. Three crystal bead phone charm straps: first purple/pink small faceted rounds alternating with dark charcoal-grey faceted beads and champagne-gold crystals; second pale PEACH/champagne and clear faceted beads; third smoky GREY plus champagne-gold beads. All three have a large flat faceted iridescent round disc bead at bottom of each loop, gold round spring clasp at top. Preserve original sequences/large flat round pendant-like bead shape, not pearls. Detail of purple/grey faceted beads and gold clasp.",
+      "sha256": "18d522f29cf170507f2a7bd7324d4f6179fb5f941e0283af040c2ec27e4ba135",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-92474b10-3010-4e27-a90e-ace41764ca7f.png",
+      "grid_sha256": "39b43a5b78f90beaf7cb5974d9b6d2aca4cef17e9dd5ec8558d26add49a785b3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crop checked against original: three crystal loop straps distinct purple/grey/champagne, peach/champagne and grey/champagne; large flat faceted round disc at each lowerloop, gold springrings. Count3/identity/colours and white/lavender/lifestyle/promo pass; standalone tight actual bead/clasp macro. Heading accurate and boundaries clean. Website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-92474b10-3010-4e27-a90e-ace41764ca7f.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows of512square cells, no gutters/borders/labels. Top-left WHITE background full assortment; top-middle lavender/cream styled full assortment; top-right realistic tidy desk lifestyle full assortment; bottom-left standalone tight macro of one actual beaded part, not whole assortment; bottom-middle promotional full assortment with accurate heading Crystal Bead Phone Charms; bottom-right blank cream. Entire photographed assortment ONE product. Preserve exact count, identity, shapes, colourways, metal gold round spring clasp rings and white display cards. Remove hand, shop and price overlays, no new claims. Full views show exactly THREE complete loop straps on THREE cards, with margin inside each cell. Photoreal website-ready. Three crystal bead phone charm straps: first purple/pink small faceted rounds alternating with dark charcoal-grey faceted beads and champagne-gold crystals; second pale PEACH/champagne and clear faceted beads; third smoky GREY plus champagne-gold beads. All three have a large flat faceted iridescent round disc bead at bottom of each loop, gold round spring clasp at top. Preserve original sequences/large flat round pendant-like bead shape, not pearls. Detail of purple/grey faceted beads and gold clasp.",
+      "sha256": "12e87833a2c1fe5ef2b57b21624bcb2064d96a0954877c75f531abe99619334f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-92474b10-3010-4e27-a90e-ace41764ca7f.png",
+      "grid_sha256": "39b43a5b78f90beaf7cb5974d9b6d2aca4cef17e9dd5ec8558d26add49a785b3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crop checked against original: three crystal loop straps distinct purple/grey/champagne, peach/champagne and grey/champagne; large flat faceted round disc at each lowerloop, gold springrings. Count3/identity/colours and white/lavender/lifestyle/promo pass; standalone tight actual bead/clasp macro. Heading accurate and boundaries clean. Website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-92474b10-3010-4e27-a90e-ace41764ca7f.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows of512square cells, no gutters/borders/labels. Top-left WHITE background full assortment; top-middle lavender/cream styled full assortment; top-right realistic tidy desk lifestyle full assortment; bottom-left standalone tight macro of one actual beaded part, not whole assortment; bottom-middle promotional full assortment with accurate heading Crystal Bead Phone Charms; bottom-right blank cream. Entire photographed assortment ONE product. Preserve exact count, identity, shapes, colourways, metal gold round spring clasp rings and white display cards. Remove hand, shop and price overlays, no new claims. Full views show exactly THREE complete loop straps on THREE cards, with margin inside each cell. Photoreal website-ready. Three crystal bead phone charm straps: first purple/pink small faceted rounds alternating with dark charcoal-grey faceted beads and champagne-gold crystals; second pale PEACH/champagne and clear faceted beads; third smoky GREY plus champagne-gold beads. All three have a large flat faceted iridescent round disc bead at bottom of each loop, gold round spring clasp at top. Preserve original sequences/large flat round pendant-like bead shape, not pearls. Detail of purple/grey faceted beads and gold clasp.",
+      "sha256": "176cde6dc8a613a1f2597f3ed2bd788310fffce306d91d91cf879845539829dc",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-92474b10-3010-4e27-a90e-ace41764ca7f.png",
+      "grid_sha256": "39b43a5b78f90beaf7cb5974d9b6d2aca4cef17e9dd5ec8558d26add49a785b3",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crop checked against original: three crystal loop straps distinct purple/grey/champagne, peach/champagne and grey/champagne; large flat faceted round disc at each lowerloop, gold springrings. Count3/identity/colours and white/lavender/lifestyle/promo pass; standalone tight actual bead/clasp macro. Heading accurate and boundaries clean. Website-ready."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Three crystal phone straps with flat faceted iridescent disc beads; purple/grey, peach and grey/champagne",
+  "original_baseline_verified": true
+}

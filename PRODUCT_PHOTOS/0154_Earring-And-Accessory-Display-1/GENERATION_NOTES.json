@@ -1,0 +1,62 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250207-WA0923.jpg": "10e0ce171a8a528bad8bf1262193e930dba51a5a40ec7838cd78e67f7f44eb7e"
+  },
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "rejected_outputs": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-8a0a0f35-5a9e-4c64-a203-2f397ae041ad.png",
+      "prompt": "Square website product photograph of EXACT entire earring and accessory display from reference. Preserve all visible original jewellery cards and earrings, shapes, colours, styles, arrangement and original overlaps/cropping. Treat entire display as single assortment. Clean neutral white studio surroundings and improved even lighting, remove shop distractions, keep display support. Don't invent obscured items or alter quantity. No new text.",
+      "sha256": "dbb3e5124f376502a06aa9c600d95fa9b564706be3024ff9e0aac05c87d10413",
+      "checked": false,
+      "visual_review": "REJECT review-needed: generated7top cards versus6visible in original, dense display count fidelity failed."
+    }
+  ],
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-26260856-babc-4645-a762-e610249a47f0.png",
+      "prompt": "Faithful square product photo edit. KEEP THE EXACT ORIGINAL CROP and original arrangement of EVERY jewellery card; SIX fully visible cards across TOP ROW, with ONLY original clipped sliver at right edge. DO NOT extrapolate additional cards or complete partial cards. Keep remaining original rows/cards/jewellery counts precisely unchanged, preserve original overlaps. Change ONLY ambient lighting and neutral white margins outside entire original display. No new or repeated products, no rearranging, no new text.",
+      "sha256": "60738b7bc31a5c18d5035fd37a2a326cd3fed995d7e53b54dc1d539064c29ff5",
+      "checked": true,
+      "visual_review": "Visible count/main geometry/colours compared with original and retained;0154corrected six topcards and original clipped edges."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-c3b9003c-faac-40be-a592-f44523f6b2d5.png",
+      "prompt": "Faithful product photo edit keep EXACT original crop and arrangement EVERY jewellery card unchanged, SIX visible top cards and original clipped sliver on right, lower rows same count, no invented or repeated cards. Only add soft lavender cream studio background outside rack and improve light. Keep full original cropped display unchanged. No new text.",
+      "sha256": "e22d30d7dc1c07d743cc3dff3af7fbb9adcfbccde5957d2fcae0ad2e42f05312",
+      "checked": true,
+      "visual_review": "Reviewed full product assortment against original; visible main count/shape/colour retained."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-96dc3cb5-151d-47e5-844e-1362223012f0.png",
+      "prompt": "Faithful product photo edit keep EXACT original crop and arrangement EVERY jewellery card unchanged, SIX visible top cards and original clipped right edge, all original lower rows same count, no invented/repeated cards. Add softly blurred boutique vanity context only beyond display edges, cream lavender daylight. Keep entire original cropped display unchanged. No new text.",
+      "sha256": "0d3aab0c53d720473dee14ed25d0066dd41d74f02085045d4840757f3ad8a41a",
+      "checked": true,
+      "visual_review": "Original six topcards, lower row arrangement and clippededges retained, main jewellery identity/colours preserved."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-e5bbf1b6-8177-4529-a791-b1d57d9f6e22.png",
+      "prompt": "Square tight macro crop ONLY a small central section of the original lower-row round pearl and black stud earring cards from reference. Keep actual stud arrangement, shapes,colours,clear plastic packaging and original cards. No entire rack, no invented items/new text, realistic website detail photograph.",
+      "sha256": "db11aca1f56926ab9ee9bcc37a971170cd8f012fba92c62c789c26a3d415d94a",
+      "checked": true,
+      "visual_review": "Macro of original visible pearl/blackstud section, main shapes/colours/material retained."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-a267fd45-e8ed-4d04-9637-40353f99dfe4.png",
+      "prompt": "Website promotional photo. Keep EXACT original crop of entire jewellery rack: SIX top cards and original right clippedsliver, same lowercard counts/arrangement/earring shapes,colours/materials, no extrapolating/repeating cards. Add lavender cream outer margins with small darkplum heading Earring & Accessory Collection and PRODUCT COLLECTION. Preserve original cropped product rectangle exactly unchanged. No extra products.",
+      "sha256": "43490d29f5d387d4e9d6e83ac5f8b9b5c85a8032b98cea93dd7842e1049f59a9",
+      "checked": true,
+      "visual_review": "Original cropped display and visible card counts retained; main jewellery identity/shape/colour preserved."
+    }
+  ],
+  "plan_original_hashes_verified": true
+}

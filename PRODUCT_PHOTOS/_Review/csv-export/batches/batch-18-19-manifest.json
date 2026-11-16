@@ -1,0 +1,46 @@
+{
+  "total_products": 24,
+  "total_image_urls": 120,
+  "excluded": "All prior exports through17 and all incomplete products",
+  "price_stock": "Blank; not verified",
+  "files": [
+    {
+      "file": "mytradevia-batch-18.csv",
+      "products": 20,
+      "product_ids": [
+        "0266",
+        "0267",
+        "0268",
+        "0269",
+        "0270",
+        "0283",
+        "0284",
+        "0285",
+        "0286",
+        "0304",
+        "0305",
+        "0306",
+        "0307",
+        "0308",
+        "0325",
+        "0326",
+        "0327",
+        "0328",
+        "0345",
+        "0346"
+      ],
+      "sha256": "842446e231596a5170e36be4cab88c00ef09103be07d46ca6e9c811c8dbacd87"
+    },
+    {
+      "file": "mytradevia-batch-19.csv",
+      "products": 4,
+      "product_ids": [
+        "0347",
+        "0348",
+        "0349",
+        "0350"
+      ],
+      "sha256": "2c44b6aaddf020a40c73d12b4f50ebd8f755273a472c0ec6e32a97ab5c1aba94"
+    }
+  ]
+}

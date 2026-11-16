@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0409.jpg": "4b0cd4a3f986bcfff113ce11bc83f5423287a9be7e71925c36f24191ed165e92"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-1c426573-f174-4436-8ba5-732cb56b1c82.png",
+      "source_output": "/workspace/generated_images/exec-1c426573-f174-4436-8ba5-732cb56b1c82.png",
+      "sha256": "a4ab796f5033129cbf05996727bb0881dc2b5661d154da32bb8b8eb5dc7092e4",
+      "prompt": "Native original-referenced product photo edit. ONE1536x1024 landscape image STRICT3columns2rows sixequal512squarecells no gutters labels borders. Preserve ONE whole original assortment of24goldtone studs=12pairs ononewhite displaycard, arranged4across6rows, exact source silhouettes size colour andcount. Remove hand/plastic/shop/price/warranty/sticker; no material claims. Fullcard entirely inside eachfullcell margin. TOPLEFT01 whole24studcard onpurewhite. TOPMIDDLE02 whole24studcard lavendercreamstudio. TOPRIGHT03 whole24studcard creamvanity blurredlavenderroom with nootherjewellery. BOTTOMLEFT04 standalone verytightmacro ofONEactual source stud showing realpart shape only, notfullcard. BOTTOMMIDDLE05 whole24studcard withaccurateheading FLOWER STUD EARRINGS. BOTTOMRIGHT06 unusedblankcream. Website-ready realistic product photography. Original studs are SOLID FIVEPETAL FLOWER silhouettes, NOT stars. Preserve rounded narrow petals and tinycentralhub, 24 identical fivepetalflowerstuds.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-1c426573-f174-4436-8ba5-732cb56b1c82.png",
+      "prompt": "Native original-referenced product photo edit. ONE1536x1024 landscape image STRICT3columns2rows sixequal512squarecells no gutters labels borders. Preserve ONE whole original assortment of24goldtone studs=12pairs ononewhite displaycard, arranged4across6rows, exact source silhouettes size colour andcount. Remove hand/plastic/shop/price/warranty/sticker; no material claims. Fullcard entirely inside eachfullcell margin. TOPLEFT01 whole24studcard onpurewhite. TOPMIDDLE02 whole24studcard lavendercreamstudio. TOPRIGHT03 whole24studcard creamvanity blurredlavenderroom with nootherjewellery. BOTTOMLEFT04 standalone verytightmacro ofONEactual source stud showing realpart shape only, notfullcard. BOTTOMMIDDLE05 whole24studcard withaccurateheading FLOWER STUD EARRINGS. BOTTOMRIGHT06 unusedblankcream. Website-ready realistic product photography. Original studs are SOLID FIVEPETAL FLOWER silhouettes, NOT stars. Preserve rounded narrow petals and tinycentralhub, 24 identical fivepetalflowerstuds.",
+      "sha256": "a81e6b5978733ba2bc385d5e4ef275a9c2c04eb992b1fcae97f462d63905b6c0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1c426573-f174-4436-8ba5-732cb56b1c82.png",
+      "grid_sha256": "a4ab796f5033129cbf05996727bb0881dc2b5661d154da32bb8b8eb5dc7092e4",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Inspected actual original, generated grid and saved crop.24 goldtone five-petal flower studs retained (4columns6rows), source shape/colour preserved; folder star name inaccurate. Clean square crop, correct style; macro actual five-petal detail; promotional flower heading accurate. Original printed card stainless-steel wording preserved. Website-quality accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-1c426573-f174-4436-8ba5-732cb56b1c82.png",
+      "prompt": "Native original-referenced product photo edit. ONE1536x1024 landscape image STRICT3columns2rows sixequal512squarecells no gutters labels borders. Preserve ONE whole original assortment of24goldtone studs=12pairs ononewhite displaycard, arranged4across6rows, exact source silhouettes size colour andcount. Remove hand/plastic/shop/price/warranty/sticker; no material claims. Fullcard entirely inside eachfullcell margin. TOPLEFT01 whole24studcard onpurewhite. TOPMIDDLE02 whole24studcard lavendercreamstudio. TOPRIGHT03 whole24studcard creamvanity blurredlavenderroom with nootherjewellery. BOTTOMLEFT04 standalone verytightmacro ofONEactual source stud showing realpart shape only, notfullcard. BOTTOMMIDDLE05 whole24studcard withaccurateheading FLOWER STUD EARRINGS. BOTTOMRIGHT06 unusedblankcream. Website-ready realistic product photography. Original studs are SOLID FIVEPETAL FLOWER silhouettes, NOT stars. Preserve rounded narrow petals and tinycentralhub, 24 identical fivepetalflowerstuds.",
+      "sha256": "1c40fa0de702945b964acd8ed512df185c044a6a9e43fe200538b1c684a07d89",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1c426573-f174-4436-8ba5-732cb56b1c82.png",
+      "grid_sha256": "a4ab796f5033129cbf05996727bb0881dc2b5661d154da32bb8b8eb5dc7092e4",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Inspected actual original, generated grid and saved crop.24 goldtone five-petal flower studs retained (4columns6rows), source shape/colour preserved; folder star name inaccurate. Clean square crop, correct style; macro actual five-petal detail; promotional flower heading accurate. Original printed card stainless-steel wording preserved. Website-quality accepted."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-1c426573-f174-4436-8ba5-732cb56b1c82.png",
+      "prompt": "Native original-referenced product photo edit. ONE1536x1024 landscape image STRICT3columns2rows sixequal512squarecells no gutters labels borders. Preserve ONE whole original assortment of24goldtone studs=12pairs ononewhite displaycard, arranged4across6rows, exact source silhouettes size colour andcount. Remove hand/plastic/shop/price/warranty/sticker; no material claims. Fullcard entirely inside eachfullcell margin. TOPLEFT01 whole24studcard onpurewhite. TOPMIDDLE02 whole24studcard lavendercreamstudio. TOPRIGHT03 whole24studcard creamvanity blurredlavenderroom with nootherjewellery. BOTTOMLEFT04 standalone verytightmacro ofONEactual source stud showing realpart shape only, notfullcard. BOTTOMMIDDLE05 whole24studcard withaccurateheading FLOWER STUD EARRINGS. BOTTOMRIGHT06 unusedblankcream. Website-ready realistic product photography. Original studs are SOLID FIVEPETAL FLOWER silhouettes, NOT stars. Preserve rounded narrow petals and tinycentralhub, 24 identical fivepetalflowerstuds.",
+      "sha256": "b13e08dba5a579f6f52ec2eec52670b694f9690c544d1ae85370002de4d763a8",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1c426573-f174-4436-8ba5-732cb56b1c82.png",
+      "grid_sha256": "a4ab796f5033129cbf05996727bb0881dc2b5661d154da32bb8b8eb5dc7092e4",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Inspected actual original, generated grid and saved crop.24 goldtone five-petal flower studs retained (4columns6rows), source shape/colour preserved; folder star name inaccurate. Clean square crop, correct style; macro actual five-petal detail; promotional flower heading accurate. Original printed card stainless-steel wording preserved. Website-quality accepted."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-1c426573-f174-4436-8ba5-732cb56b1c82.png",
+      "prompt": "Native original-referenced product photo edit. ONE1536x1024 landscape image STRICT3columns2rows sixequal512squarecells no gutters labels borders. Preserve ONE whole original assortment of24goldtone studs=12pairs ononewhite displaycard, arranged4across6rows, exact source silhouettes size colour andcount. Remove hand/plastic/shop/price/warranty/sticker; no material claims. Fullcard entirely inside eachfullcell margin. TOPLEFT01 whole24studcard onpurewhite. TOPMIDDLE02 whole24studcard lavendercreamstudio. TOPRIGHT03 whole24studcard creamvanity blurredlavenderroom with nootherjewellery. BOTTOMLEFT04 standalone verytightmacro ofONEactual source stud showing realpart shape only, notfullcard. BOTTOMMIDDLE05 whole24studcard withaccurateheading FLOWER STUD EARRINGS. BOTTOMRIGHT06 unusedblankcream. Website-ready realistic product photography. Original studs are SOLID FIVEPETAL FLOWER silhouettes, NOT stars. Preserve rounded narrow petals and tinycentralhub, 24 identical fivepetalflowerstuds.",
+      "sha256": "e11a8da8e525a7d8205151c253a2bcfd9dab1640b15a4fe3e3d1cf2f11a11a89",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1c426573-f174-4436-8ba5-732cb56b1c82.png",
+      "grid_sha256": "a4ab796f5033129cbf05996727bb0881dc2b5661d154da32bb8b8eb5dc7092e4",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Inspected actual original, generated grid and saved crop.24 goldtone five-petal flower studs retained (4columns6rows), source shape/colour preserved; folder star name inaccurate. Clean square crop, correct style; macro actual five-petal detail; promotional flower heading accurate. Original printed card stainless-steel wording preserved. Website-quality accepted."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-1c426573-f174-4436-8ba5-732cb56b1c82.png",
+      "prompt": "Native original-referenced product photo edit. ONE1536x1024 landscape image STRICT3columns2rows sixequal512squarecells no gutters labels borders. Preserve ONE whole original assortment of24goldtone studs=12pairs ononewhite displaycard, arranged4across6rows, exact source silhouettes size colour andcount. Remove hand/plastic/shop/price/warranty/sticker; no material claims. Fullcard entirely inside eachfullcell margin. TOPLEFT01 whole24studcard onpurewhite. TOPMIDDLE02 whole24studcard lavendercreamstudio. TOPRIGHT03 whole24studcard creamvanity blurredlavenderroom with nootherjewellery. BOTTOMLEFT04 standalone verytightmacro ofONEactual source stud showing realpart shape only, notfullcard. BOTTOMMIDDLE05 whole24studcard withaccurateheading FLOWER STUD EARRINGS. BOTTOMRIGHT06 unusedblankcream. Website-ready realistic product photography. Original studs are SOLID FIVEPETAL FLOWER silhouettes, NOT stars. Preserve rounded narrow petals and tinycentralhub, 24 identical fivepetalflowerstuds.",
+      "sha256": "bdb8811f4205f106024fe172d2e361aae7803ef8a2ede30b4ff7831754c198bb",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-1c426573-f174-4436-8ba5-732cb56b1c82.png",
+      "grid_sha256": "a4ab796f5033129cbf05996727bb0881dc2b5661d154da32bb8b8eb5dc7092e4",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Inspected actual original, generated grid and saved crop.24 goldtone five-petal flower studs retained (4columns6rows), source shape/colour preserved; folder star name inaccurate. Clean square crop, correct style; macro actual five-petal detail; promotional flower heading accurate. Original printed card stainless-steel wording preserved. Website-quality accepted."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "plan_original_hashes_verified": true
+}

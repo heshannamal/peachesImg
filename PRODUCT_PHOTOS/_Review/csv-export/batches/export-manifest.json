@@ -1,0 +1,105 @@
+{
+  "batches": [
+    {
+      "file": "mytradevia-batch-04.csv",
+      "products": 20,
+      "skus": [
+        "PEACHES-0053",
+        "PEACHES-0054",
+        "PEACHES-0055",
+        "PEACHES-0056",
+        "PEACHES-0057",
+        "PEACHES-0058",
+        "PEACHES-0059",
+        "PEACHES-0060",
+        "PEACHES-0061",
+        "PEACHES-0062",
+        "PEACHES-0063",
+        "PEACHES-0064",
+        "PEACHES-0065",
+        "PEACHES-0066",
+        "PEACHES-0067",
+        "PEACHES-0068",
+        "PEACHES-0069",
+        "PEACHES-0070",
+        "PEACHES-0071",
+        "PEACHES-0072"
+      ]
+    },
+    {
+      "file": "mytradevia-batch-05.csv",
+      "products": 20,
+      "skus": [
+        "PEACHES-0073",
+        "PEACHES-0074",
+        "PEACHES-0075",
+        "PEACHES-0076",
+        "PEACHES-0077",
+        "PEACHES-0078",
+        "PEACHES-0079",
+        "PEACHES-0080",
+        "PEACHES-0081",
+        "PEACHES-0082",
+        "PEACHES-0083",
+        "PEACHES-0084",
+        "PEACHES-0085",
+        "PEACHES-0086",
+        "PEACHES-0087",
+        "PEACHES-0088",
+        "PEACHES-0089",
+        "PEACHES-0090",
+        "PEACHES-0091",
+        "PEACHES-0092"
+      ]
+    },
+    {
+      "file": "mytradevia-batch-06.csv",
+      "products": 20,
+      "skus": [
+        "PEACHES-0093",
+        "PEACHES-0094",
+        "PEACHES-0095",
+        "PEACHES-0096",
+        "PEACHES-0097",
+        "PEACHES-0098",
+        "PEACHES-0099",
+        "PEACHES-0100",
+        "PEACHES-0101",
+        "PEACHES-0102",
+        "PEACHES-0103",
+        "PEACHES-0104",
+        "PEACHES-0105",
+        "PEACHES-0106",
+        "PEACHES-0108",
+        "PEACHES-0109",
+        "PEACHES-0110",
+        "PEACHES-0111",
+        "PEACHES-0115",
+        "PEACHES-0116"
+      ]
+    },
+    {
+      "file": "mytradevia-batch-07.csv",
+      "products": 3,
+      "skus": [
+        "PEACHES-0121",
+        "PEACHES-0147",
+        "PEACHES-0152"
+      ]
+    }
+  ],
+  "total_products": 63,
+  "missing_prices": [
+    "PEACHES-0058",
+    "PEACHES-0059",
+    "PEACHES-0060",
+    "PEACHES-0065",
+    "PEACHES-0096",
+    "PEACHES-0110",
+    "PEACHES-0116"
+  ],
+  "image_upload_required": false,
+  "image_urls_verified": 315,
+  "upload_commit": "5a7715b",
+  "repository": "https://github.com/heshannamal/peachesImg"
+}

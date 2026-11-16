@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261001-WA0211.jpg": "8b62fbce47483b85a34249e2ebbf229d5b2605f0fc953e62053a57c5b6bc0a23"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-8ce94950-e4ac-48fb-90d7-2308131a35d2.png",
+      "source_output": "/workspace/generated_images/exec-8ce94950-e4ac-48fb-90d7-2308131a35d2.png",
+      "sha256": "ee289baae9c54e375c601856c2b6410464d4fc08ef4e55a6261fb96d743f4076",
+      "prompt": "Native photographic edit referenced actualoriginal into ONE1536x1024contactsheet, strict3columns2rows equal512squarecells no gutters. WHOLEASSORTMENT is ONEproduct. Repeat ENTIRE THREEITEM assortment in EACH fullview: cell1top-left WHITEALL3;cell2top-middle LAVENDER/CREAMSTYLEDALL3;cell3top-right DRESSERLIFESTYLEALL3;cell4bottom-left standalone tightmacrorealpart;cell5bottom-middle PROMOTIONALALL3 heading 'Crystal Bead Phone Charms';cell6bottom-rightblankcream. Each512square fullview contains ALL THREE sourcephonecharms onwhitecards, neveroneitempercell. Preserve exactcount3,identity,beadpattern,shapes,colours,goldhardwareandloopshape. Removehand,shop,plasticbags,priceoverlay. Eachloopattachedtogoldkeyring throughsourcefittings. The3actualloops:1SMOKYGRAYsmallfacetedbeads andlargerroundcleargraybeads,2PALEPINKsmallfacetedbeads andlargerroundpalelemontranslucentbeads,3PURPLEsmallfacetedbeads andlargerrounddarkiridescentgreenbluebeads. Delicategoldtinyspacers. Preserveallthreecolourwaysandbeadsizes/patterns. Nopearls,noheart,noaddedpendants. Detailmacro purplecrystalsandlargerroundiridescentbluegreenbead.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-8ce94950-e4ac-48fb-90d7-2308131a35d2.png",
+      "prompt": "Native photographic edit referenced actualoriginal into ONE1536x1024contactsheet, strict3columns2rows equal512squarecells no gutters. WHOLEASSORTMENT is ONEproduct. Repeat ENTIRE THREEITEM assortment in EACH fullview: cell1top-left WHITEALL3;cell2top-middle LAVENDER/CREAMSTYLEDALL3;cell3top-right DRESSERLIFESTYLEALL3;cell4bottom-left standalone tightmacrorealpart;cell5bottom-middle PROMOTIONALALL3 heading 'Crystal Bead Phone Charms';cell6bottom-rightblankcream. Each512square fullview contains ALL THREE sourcephonecharms onwhitecards, neveroneitempercell. Preserve exactcount3,identity,beadpattern,shapes,colours,goldhardwareandloopshape. Removehand,shop,plasticbags,priceoverlay. Eachloopattachedtogoldkeyring throughsourcefittings. The3actualloops:1SMOKYGRAYsmallfacetedbeads andlargerroundcleargraybeads,2PALEPINKsmallfacetedbeads andlargerroundpalelemontranslucentbeads,3PURPLEsmallfacetedbeads andlargerrounddarkiridescentgreenbluebeads. Delicategoldtinyspacers. Preserveallthreecolourwaysandbeadsizes/patterns. Nopearls,noheart,noaddedpendants. Detailmacro purplecrystalsandlargerroundiridescentbluegreenbead.",
+      "sha256": "78c97b8e72999ccfb09372cc863fd71cf383019bbc3fd16f634639eeae646680",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-8ce94950-e4ac-48fb-90d7-2308131a35d2.png",
+      "grid_sha256": "ee289baae9c54e375c601856c2b6410464d4fc08ef4e55a6261fb96d743f4076",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crops reviewed: 3loops gray/clearlargebeads,palepink/lemonlargebeads,purple/iridescentgreenbluelargebeads accuratelypreserved ineachfullview withgoldrings; tightpurple/iridescentbeadmacro; headingaccurate."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-8ce94950-e4ac-48fb-90d7-2308131a35d2.png",
+      "prompt": "Native photographic edit referenced actualoriginal into ONE1536x1024contactsheet, strict3columns2rows equal512squarecells no gutters. WHOLEASSORTMENT is ONEproduct. Repeat ENTIRE THREEITEM assortment in EACH fullview: cell1top-left WHITEALL3;cell2top-middle LAVENDER/CREAMSTYLEDALL3;cell3top-right DRESSERLIFESTYLEALL3;cell4bottom-left standalone tightmacrorealpart;cell5bottom-middle PROMOTIONALALL3 heading 'Crystal Bead Phone Charms';cell6bottom-rightblankcream. Each512square fullview contains ALL THREE sourcephonecharms onwhitecards, neveroneitempercell. Preserve exactcount3,identity,beadpattern,shapes,colours,goldhardwareandloopshape. Removehand,shop,plasticbags,priceoverlay. Eachloopattachedtogoldkeyring throughsourcefittings. The3actualloops:1SMOKYGRAYsmallfacetedbeads andlargerroundcleargraybeads,2PALEPINKsmallfacetedbeads andlargerroundpalelemontranslucentbeads,3PURPLEsmallfacetedbeads andlargerrounddarkiridescentgreenbluebeads. Delicategoldtinyspacers. Preserveallthreecolourwaysandbeadsizes/patterns. Nopearls,noheart,noaddedpendants. Detailmacro purplecrystalsandlargerroundiridescentbluegreenbead.",
+      "sha256": "f153a0dae3cdf5ce14df6b994e6f58999261ea93715b9b4fb2eb258c7c01d6fa",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-8ce94950-e4ac-48fb-90d7-2308131a35d2.png",
+      "grid_sha256": "ee289baae9c54e375c601856c2b6410464d4fc08ef4e55a6261fb96d743f4076",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crops reviewed: 3loops gray/clearlargebeads,palepink/lemonlargebeads,purple/iridescentgreenbluelargebeads accuratelypreserved ineachfullview withgoldrings; tightpurple/iridescentbeadmacro; headingaccurate."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-8ce94950-e4ac-48fb-90d7-2308131a35d2.png",
+      "prompt": "Native photographic edit referenced actualoriginal into ONE1536x1024contactsheet, strict3columns2rows equal512squarecells no gutters. WHOLEASSORTMENT is ONEproduct. Repeat ENTIRE THREEITEM assortment in EACH fullview: cell1top-left WHITEALL3;cell2top-middle LAVENDER/CREAMSTYLEDALL3;cell3top-right DRESSERLIFESTYLEALL3;cell4bottom-left standalone tightmacrorealpart;cell5bottom-middle PROMOTIONALALL3 heading 'Crystal Bead Phone Charms';cell6bottom-rightblankcream. Each512square fullview contains ALL THREE sourcephonecharms onwhitecards, neveroneitempercell. Preserve exactcount3,identity,beadpattern,shapes,colours,goldhardwareandloopshape. Removehand,shop,plasticbags,priceoverlay. Eachloopattachedtogoldkeyring throughsourcefittings. The3actualloops:1SMOKYGRAYsmallfacetedbeads andlargerroundcleargraybeads,2PALEPINKsmallfacetedbeads andlargerroundpalelemontranslucentbeads,3PURPLEsmallfacetedbeads andlargerrounddarkiridescentgreenbluebeads. Delicategoldtinyspacers. Preserveallthreecolourwaysandbeadsizes/patterns. Nopearls,noheart,noaddedpendants. Detailmacro purplecrystalsandlargerroundiridescentbluegreenbead.",
+      "sha256": "e54c4ccd92af2cd35786f019a50013159b1d8e4c5ec9f98db2bdc11e82883b50",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-8ce94950-e4ac-48fb-90d7-2308131a35d2.png",
+      "grid_sha256": "ee289baae9c54e375c601856c2b6410464d4fc08ef4e55a6261fb96d743f4076",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crops reviewed: 3loops gray/clearlargebeads,palepink/lemonlargebeads,purple/iridescentgreenbluelargebeads accuratelypreserved ineachfullview withgoldrings; tightpurple/iridescentbeadmacro; headingaccurate."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-8ce94950-e4ac-48fb-90d7-2308131a35d2.png",
+      "prompt": "Native photographic edit referenced actualoriginal into ONE1536x1024contactsheet, strict3columns2rows equal512squarecells no gutters. WHOLEASSORTMENT is ONEproduct. Repeat ENTIRE THREEITEM assortment in EACH fullview: cell1top-left WHITEALL3;cell2top-middle LAVENDER/CREAMSTYLEDALL3;cell3top-right DRESSERLIFESTYLEALL3;cell4bottom-left standalone tightmacrorealpart;cell5bottom-middle PROMOTIONALALL3 heading 'Crystal Bead Phone Charms';cell6bottom-rightblankcream. Each512square fullview contains ALL THREE sourcephonecharms onwhitecards, neveroneitempercell. Preserve exactcount3,identity,beadpattern,shapes,colours,goldhardwareandloopshape. Removehand,shop,plasticbags,priceoverlay. Eachloopattachedtogoldkeyring throughsourcefittings. The3actualloops:1SMOKYGRAYsmallfacetedbeads andlargerroundcleargraybeads,2PALEPINKsmallfacetedbeads andlargerroundpalelemontranslucentbeads,3PURPLEsmallfacetedbeads andlargerrounddarkiridescentgreenbluebeads. Delicategoldtinyspacers. Preserveallthreecolourwaysandbeadsizes/patterns. Nopearls,noheart,noaddedpendants. Detailmacro purplecrystalsandlargerroundiridescentbluegreenbead.",
+      "sha256": "73fc365b96137de190d4a8a4dfc4af02c0ac2dfc7ef36e4c583b0f9cb66aab42",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-8ce94950-e4ac-48fb-90d7-2308131a35d2.png",
+      "grid_sha256": "ee289baae9c54e375c601856c2b6410464d4fc08ef4e55a6261fb96d743f4076",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crops reviewed: 3loops gray/clearlargebeads,palepink/lemonlargebeads,purple/iridescentgreenbluelargebeads accuratelypreserved ineachfullview withgoldrings; tightpurple/iridescentbeadmacro; headingaccurate."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-8ce94950-e4ac-48fb-90d7-2308131a35d2.png",
+      "prompt": "Native photographic edit referenced actualoriginal into ONE1536x1024contactsheet, strict3columns2rows equal512squarecells no gutters. WHOLEASSORTMENT is ONEproduct. Repeat ENTIRE THREEITEM assortment in EACH fullview: cell1top-left WHITEALL3;cell2top-middle LAVENDER/CREAMSTYLEDALL3;cell3top-right DRESSERLIFESTYLEALL3;cell4bottom-left standalone tightmacrorealpart;cell5bottom-middle PROMOTIONALALL3 heading 'Crystal Bead Phone Charms';cell6bottom-rightblankcream. Each512square fullview contains ALL THREE sourcephonecharms onwhitecards, neveroneitempercell. Preserve exactcount3,identity,beadpattern,shapes,colours,goldhardwareandloopshape. Removehand,shop,plasticbags,priceoverlay. Eachloopattachedtogoldkeyring throughsourcefittings. The3actualloops:1SMOKYGRAYsmallfacetedbeads andlargerroundcleargraybeads,2PALEPINKsmallfacetedbeads andlargerroundpalelemontranslucentbeads,3PURPLEsmallfacetedbeads andlargerrounddarkiridescentgreenbluebeads. Delicategoldtinyspacers. Preserveallthreecolourwaysandbeadsizes/patterns. Nopearls,noheart,noaddedpendants. Detailmacro purplecrystalsandlargerroundiridescentbluegreenbead.",
+      "sha256": "cda52619118fdf868728b6a062648cb28c9690e7e764f13b6b9cdd8e9d6ee3fb",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-8ce94950-e4ac-48fb-90d7-2308131a35d2.png",
+      "grid_sha256": "ee289baae9c54e375c601856c2b6410464d4fc08ef4e55a6261fb96d743f4076",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crops reviewed: 3loops gray/clearlargebeads,palepink/lemonlargebeads,purple/iridescentgreenbluelargebeads accuratelypreserved ineachfullview withgoldrings; tightpurple/iridescentbeadmacro; headingaccurate."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "original_baselines_verified": true
+}

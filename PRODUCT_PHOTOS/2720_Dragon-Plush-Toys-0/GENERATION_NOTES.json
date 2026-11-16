@@ -1,0 +1,26 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261002-WA0633.jpg": "f3a817bebe293b2598dc90fdeca47ee4ac9201112823fff53d5b14801db6f531"
+  },
+  "records": [],
+  "status": "blocked_moderation",
+  "blocker": {
+    "type": "moderation_blocked",
+    "stage": "output",
+    "category": "other",
+    "request_id": "63ba6a7e-24e9-4bb0-b9f8-95af029ee978",
+    "retry_policy": "Skipped without retry as instructed"
+  },
+  "attempts": [
+    {
+      "prompt": "Faithful reference edit ONE1536x1024LANDSCAPE contact sheet EXACT3equalcolumns TWOequalrows,six512squarecells, nogutters/borders/panellabels. Readingorder01WHITE entiretrio,02LAVENDER/CREAM entiretrio,03LIFESTYLE entiretrio on cream bedroom shelf,04STANDALONE TIGHT MACRO actual LEFTblackdragon greenembroideredeye and fluffyblackfur ONLY,05PROMO entiretrio heading PLUSH DRAGON TRIO,06BLANKcreamunused. Everyview selfcontained with safemargins. EXACT THREE original plush dragons in identical arrangement/orientations: LEFT blackdragon facingfront large roundhead/greenembroideredeyes, MIDDLE whitedragon facingfront largeblueembroideredeyes/uprightears, RIGHT blackdragon SIDE PROFILE facingLEFT with longsnout and longtail extendingRIGHT. Preserve exactsource distinctive face/eye/ear/body/leg/tail shapes, fuzzy material, sizes/overlaps and THREE count. DoNOTrotate rightdragon tofront, addwings, duplicatefrontdragon, turnwhite toblack, invent unseenparts or addcharacters. All3seated same sourcefrontview; replace cardboard/shop background with eachrequiredsetting preserving originalvisible geometry. Remove oldpriceoverlay only, no newlogos/claims or invented accessories. Macroonlyrealvisiblegreeneye/furpart nowholetrio. Websitequalitysufficient softnatural shadows, fulltrio with margins in4fullviews.\n",
+      "referenced_image_paths": [
+        "/workspace/peachesImg/PRODUCT_PHOTOS/2720_Dragon-Plush-Toys-0/Originals/IMG-20261002-WA0633.jpg"
+      ],
+      "result": "No image returned; native output moderation rejected generation."
+    }
+  ],
+  "plan_original_hashes_verified": true
+}

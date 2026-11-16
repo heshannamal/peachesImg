@@ -1,0 +1,49 @@
+{
+  "tool": "built-in image_gen",
+  "status": "five images generated and visually checked",
+  "original_hashes": {
+    "Originals/IMG-20250128-WA0335.jpg": "5beba2dfbc45769620e3c08d4a086370c8d3649cd86606eeb7af0b107b819d33"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source": "/workspace/generated_images/exec-ca33feaf-4c9f-41ba-b6f1-1be5a0562a46.png",
+      "prompt": "Edit reference into one clean photoreal website product photograph. Twelve white retail cards in4rows x3columns, each one curved hair claw with five round discs along outer edge plus3fabric ties. Row1taupe,row2cream,row3darkgray,row4black. Preserve exact five-disc claw geometry, springs, original card/tie arrangement and neutral colour combinations. Entire assortment is ONE product. Retain original count, shape, colours, material, package, proportions and arrangement. Pure white background, soft shadows, full assortment inside frame. Remove shop, hands and price overlays. No added products, parts or invented back views. No added text.",
+      "sha256": "7013af8bcf4370b3b2edc6145ce486c52b4fcf9d44d302184949c715503b5780",
+      "checked": true,
+      "visual_review": "Twelve cards retain four rows of three, taupe/cream/darkgray/black claw colours, five-disc shape and three ties on each card. Basic website suitability checked; white background clean."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source": "/workspace/generated_images/exec-87af4f24-744d-4d7a-870c-5af6677cf9a4.png",
+      "prompt": "One clean realistic website styled-background product photo of exact reference. Twelve white retail cards in4rows x3columns, each one curved hair claw with five round discs along outer edge plus3fabric ties. Row1taupe,row2cream,row3darkgray,row4black. Preserve exact five-disc claw geometry, springs, original card/tie arrangement and neutral colour combinations. Whole assortment ONE product. Preserve count, shape, material, colours and arrangement. Warm cream background with lavender fabric outside product, natural shadows. Full assortment visible. Remove old price, hands, shop. No extra products, parts, text or new views.",
+      "sha256": "fa106dd129c891adfd61efb26ca41b264d79320e74ea622f4a88d6b21bcd03f6",
+      "checked": true,
+      "visual_review": "Twelve cards retain four rows of three, taupe/cream/darkgray/black claw colours, five-disc shape and three ties on each card. Basic check passed with cream lavender setting."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source": "/workspace/generated_images/exec-e4aee481-5209-49d3-8353-a91d2603fbd0.png",
+      "prompt": "One clean realistic website lifestyle product photo of exact reference. Twelve white retail cards in4rows x3columns, each one curved hair claw with five round discs along outer edge plus3fabric ties. Row1taupe,row2cream,row3darkgray,row4black. Preserve exact five-disc claw geometry, springs, original card/tie arrangement and neutral colour combinations. Preserve count, colours, shape, material and arrangement. Full assortment on tidy cream bedroom surface beside lavender linen and closed book well beyond product. Soft daylight, whole set inside frame. No people, hands, old prices, shop, extra toys/accessories or invented parts. No text.",
+      "sha256": "49ec3d462ff9b4eef08639f70bac00e5249187d4b934170a78d692f44479956b",
+      "checked": true,
+      "visual_review": "Twelve cards retain four rows of three, taupe/cream/darkgray/black claw colours, five-disc shape and three ties on each card. Lifestyle setting checked; products visible, minor cosmetic package lettering accepted."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source": "/workspace/generated_images/exec-42435645-e66b-4e6c-be45-ee4144d02a39.png",
+      "prompt": "One realistic tight macro detail crop of exact reference product. Twelve white retail cards in4rows x3columns, each one curved hair claw with five round discs along outer edge plus3fabric ties. Row1taupe,row2cream,row3darkgray,row4black. Preserve exact five-disc claw geometry, springs, original card/tie arrangement and neutral colour combinations. DETAIL ONLY tightly zoom on a taupe five-disc hair claw and neighboring fabric ties on original card. Crop most of full assortment out. Preserve visible original geometry, material, colour and construction. No invented backs, no new parts or accessories. Remove shop, hand, price. Clean soft cream lighting, usable website detail photo.",
+      "sha256": "97e9103bc4460d733725c43f2ccebb3ba4142ced35abd8208ed5b644b0323821",
+      "checked": true,
+      "visual_review": "Macro checked against source: a taupe five-disc hair claw and neighboring fabric ties on original card retains original visible shape, colour and material."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source": "/workspace/generated_images/exec-5170dc8e-1b82-4f83-9b61-4969f40f98ca.png",
+      "prompt": "One clean realistic promotional website product photo of exact reference. Twelve white retail cards in4rows x3columns, each one curved hair claw with five round discs along outer edge plus3fabric ties. Row1taupe,row2cream,row3darkgray,row4black. Preserve exact five-disc claw geometry, springs, original card/tie arrangement and neutral colour combinations. Whole assortment ONE product; preserve count, colours, shapes and arrangement. Full assortment visible on cream and lavender background with compact dark plum heading 'Rounded Neutral Hair Claw Sets' and smaller 'PRODUCT COLLECTION'. No price, sale claims, shop, hands, extra products or invented parts.",
+      "sha256": "3f1e3bbab985d1b73264b763d1bf666edc677a3abafbf2896534c5cdb38b56e4",
+      "checked": true,
+      "visual_review": "Twelve cards retain four rows of three, taupe/cream/darkgray/black claw colours, five-disc shape and three ties on each card. Promotional heading readable, product unobscured; website-ready basic check."
+    }
+  ]
+}

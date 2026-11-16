@@ -1,0 +1,50 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250206-WA0625.jpg": "05eabc94a3c712350c779d6b93dd493f1d5eeca07a3d96de421c4d6f366f8ed5"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-5469e685-fec0-4996-b09e-469bd6c6213a.png",
+      "prompt": "Edit reference into website-ready clean white seamless ecommerce photograph. Single dark chocolate brown faux-leather tote bag, two long narrow handles, horizontal front zip pocket with gold zip pull, large white daisy yellow centre and white flourish print below. Preserve actual front shape material seams print and handles; remove man holding bag and both price overlays, do not invent backside or extra pockets. Preserve original front view, actual product identity count shapes colours materials. Remove people hands shop surrounding background and old price overlays. No added text. Full assortment visible, realistic soft lighting.",
+      "sha256": "3bc6ef072558156fd4a53f396a1e3d18d03a7a77f663a9a7e495fe8c51515328",
+      "checked": true,
+      "visual_review": "Single brown daisy tote retains front zip, long handles, white/yellow print and shape."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-d2083b03-cd6c-4264-847f-e6734033c308.png",
+      "prompt": "Styled ecommerce photograph on pale lavender ground with cream fabric. SINGLE chocolate brown faux-leather tote bag, two long narrow handles, horizontal front zip with gold pull, large white daisy yellow centre and white flourish below. Preserve actual front shape material seams print handles; remove man and prices, do not invent backside/pockets. Preserve original front view identity shape count colours and packaging. Remove hand shop people and price overlay. No new text, no invented parts.",
+      "sha256": "63668c12abc2541015d3e2361df6f449acc7bcca469202aa635dda97b15d0c43",
+      "checked": true,
+      "visual_review": "Website-ready visual check: product group identity, main shape colours materials and front arrangement retained."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-53af48ac-11f2-4bdb-9572-9a1fc56aae4a.png",
+      "prompt": "Lifestyle product photograph on cream table beside lavender wall and soft window light, no people. SINGLE chocolate brown faux-leather tote bag, two long narrow handles, horizontal front zip with gold pull, large white daisy yellow centre and white flourish below. Preserve actual front shape material seams print handles; remove man and prices, do not invent backside/pockets. Preserve original front geometry count colours and material. Remove people hand shop price overlays; no added text.",
+      "sha256": "fbefacd3d18a3b5859f263f3364424375421c6f2254733cbe5258f9cfac32e75",
+      "checked": true,
+      "visual_review": "Single brown tote retains daisy print, zip, long handles and front shape in lifestyle setting."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-77cfa584-8cf1-4f13-be0a-064bb2c1a92c.png",
+      "prompt": "Tight macro photograph of the brown tote's white daisy yellow centre print and faux-leather grain, with edge of front zip stitching. Crop to texture only, not full bag. Preserve actual print and brown material, no new parts, no text.",
+      "sha256": "57dcfac87c2fb9714d8f2888e338e1d1e4b1e28f3910658aa7327d6bafa5d56e",
+      "checked": true,
+      "visual_review": "Macro shows brown leather grain and white/yellow daisy print with front seam."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-77025594-025a-496c-83c4-e49a6a246d93.png",
+      "prompt": "Promotional website product photograph on lavender/cream backdrop with compact plum heading 'Daisy Tote Bag' and subtitle 'PRODUCT COLLECTION'. SINGLE chocolate brown faux-leather tote bag, two long narrow handles, horizontal front zip with gold pull, large white daisy yellow centre and white flourish below. Preserve actual front shape material seams print handles; remove man and prices, do not invent backside/pockets. Same front view identity count geometry and colours. Remove people hand shop prices; no extra products or other text.",
+      "sha256": "622f8d2f5364f9b447c51f9a2af3ff5e6452d1ea049ecd4636171354b3c76ad2",
+      "checked": true,
+      "visual_review": "Brown tote retains daisy print long handles and front zip; promotional title/subtitle legible."
+    }
+  ],
+  "status": "five images saved and visually checked"
+}

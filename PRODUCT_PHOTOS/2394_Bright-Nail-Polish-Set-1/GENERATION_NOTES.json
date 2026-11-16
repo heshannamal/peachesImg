@@ -1,0 +1,182 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260912-WA0008.jpg": "1746c3685185bb23da528ba444f9a917a7b5a31fc6d08f067100d6f3a6176938"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-a3dbd42f-b40e-4bcd-9e93-c41f6ef8a883.png",
+      "source_output": "/workspace/generated_images/exec-a3dbd42f-b40e-4bcd-9e93-c41f6ef8a883.png",
+      "sha256": "860008c153845812814485466a36bd70d99e8b200d3184e0fbc6cc09b774184a",
+      "prompt": "Edit original referenced actual nailpolish product into ONE1536x1024 3x2equal512cellsgrid: topwhitebackground, lavendercreamstyled, lifestyle manicuredesk; bottomstandalone TIGHTREALPARTMACROofoneactualbottle glass/label/cap edge ONLY notfullbottle, promotional heading \"Colour Nail Polish Collection\", blankcream. Actual24distinct squareglass nailpolishbottles withlongcylindricalcolourmatchedcaps, palegold squarelabels reading GEL EFFECT; preserveexactsourcebottleshape labelidentity colours. FULLVIEWS must show ALL24WHOLEBOTTLES inFOURROWSofSIX, no missing/extra, no sourcecollagerepetition. Use sourcebottom four rows as exact24colour inventory. Exact24colour rows lefttoright: peach,lilac,coralpink,dustypink,black,red; deepred,cyan,mauve,lightpink,violet,deeppurple;teal,plum,white,orange,maroon,darkgrey;lightblue,redorange,hotpink,darkteal,mustardyellow,royalblue. Removeadvertisingwoman/extra bottle illustrations/price/claims; product24bottles only, no invented25thdisplaybottle. Matching24caps and24bottles. WholeassortmentONEproduct, websitequality. Accurateheadingpromo only.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-a3dbd42f-b40e-4bcd-9e93-c41f6ef8a883.png",
+      "prompt": "Edit original referenced actual nailpolish product into ONE1536x1024 3x2equal512cellsgrid: topwhitebackground, lavendercreamstyled, lifestyle manicuredesk; bottomstandalone TIGHTREALPARTMACROofoneactualbottle glass/label/cap edge ONLY notfullbottle, promotional heading \"Colour Nail Polish Collection\", blankcream. Actual24distinct squareglass nailpolishbottles withlongcylindricalcolourmatchedcaps, palegold squarelabels reading GEL EFFECT; preserveexactsourcebottleshape labelidentity colours. FULLVIEWS must show ALL24WHOLEBOTTLES inFOURROWSofSIX, no missing/extra, no sourcecollagerepetition. Use sourcebottom four rows as exact24colour inventory. Exact24colour rows lefttoright: peach,lilac,coralpink,dustypink,black,red; deepred,cyan,mauve,lightpink,violet,deeppurple;teal,plum,white,orange,maroon,darkgrey;lightblue,redorange,hotpink,darkteal,mustardyellow,royalblue. Removeadvertisingwoman/extra bottle illustrations/price/claims; product24bottles only, no invented25thdisplaybottle. Matching24caps and24bottles. WholeassortmentONEproduct, websitequality. Accurateheadingpromo only.",
+      "sha256": "1092121ee178efedbccff870f852f579c8fd0bab2f7f029f096190e77fd0b788",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a3dbd42f-b40e-4bcd-9e93-c41f6ef8a883.png",
+      "grid_sha256": "860008c153845812814485466a36bd70d99e8b200d3184e0fbc6cc09b774184a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        630
+      ],
+      "visual_review": "24 actual coloured bottles in4rows6, sourceidentity colours preserved; correct website setting and accurateheading; actual tightglass/cap macro retained."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-a3dbd42f-b40e-4bcd-9e93-c41f6ef8a883.png",
+      "prompt": "Edit original referenced actual nailpolish product into ONE1536x1024 3x2equal512cellsgrid: topwhitebackground, lavendercreamstyled, lifestyle manicuredesk; bottomstandalone TIGHTREALPARTMACROofoneactualbottle glass/label/cap edge ONLY notfullbottle, promotional heading \"Colour Nail Polish Collection\", blankcream. Actual24distinct squareglass nailpolishbottles withlongcylindricalcolourmatchedcaps, palegold squarelabels reading GEL EFFECT; preserveexactsourcebottleshape labelidentity colours. FULLVIEWS must show ALL24WHOLEBOTTLES inFOURROWSofSIX, no missing/extra, no sourcecollagerepetition. Use sourcebottom four rows as exact24colour inventory. Exact24colour rows lefttoright: peach,lilac,coralpink,dustypink,black,red; deepred,cyan,mauve,lightpink,violet,deeppurple;teal,plum,white,orange,maroon,darkgrey;lightblue,redorange,hotpink,darkteal,mustardyellow,royalblue. Removeadvertisingwoman/extra bottle illustrations/price/claims; product24bottles only, no invented25thdisplaybottle. Matching24caps and24bottles. WholeassortmentONEproduct, websitequality. Accurateheadingpromo only.",
+      "sha256": "29fa5319a86858faa6965d6444a2bfeff1630ce6a5cab147773ca8fd89dae516",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a3dbd42f-b40e-4bcd-9e93-c41f6ef8a883.png",
+      "grid_sha256": "860008c153845812814485466a36bd70d99e8b200d3184e0fbc6cc09b774184a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        630
+      ],
+      "visual_review": "24 actual coloured bottles in4rows6, sourceidentity colours preserved; correct website setting and accurateheading; actual tightglass/cap macro retained."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-a3dbd42f-b40e-4bcd-9e93-c41f6ef8a883.png",
+      "prompt": "Edit original referenced actual nailpolish product into ONE1536x1024 3x2equal512cellsgrid: topwhitebackground, lavendercreamstyled, lifestyle manicuredesk; bottomstandalone TIGHTREALPARTMACROofoneactualbottle glass/label/cap edge ONLY notfullbottle, promotional heading \"Colour Nail Polish Collection\", blankcream. Actual24distinct squareglass nailpolishbottles withlongcylindricalcolourmatchedcaps, palegold squarelabels reading GEL EFFECT; preserveexactsourcebottleshape labelidentity colours. FULLVIEWS must show ALL24WHOLEBOTTLES inFOURROWSofSIX, no missing/extra, no sourcecollagerepetition. Use sourcebottom four rows as exact24colour inventory. Exact24colour rows lefttoright: peach,lilac,coralpink,dustypink,black,red; deepred,cyan,mauve,lightpink,violet,deeppurple;teal,plum,white,orange,maroon,darkgrey;lightblue,redorange,hotpink,darkteal,mustardyellow,royalblue. Removeadvertisingwoman/extra bottle illustrations/price/claims; product24bottles only, no invented25thdisplaybottle. Matching24caps and24bottles. WholeassortmentONEproduct, websitequality. Accurateheadingpromo only.",
+      "sha256": "43243c9e952232167d4fc101ed8088e110740b07d58947735b30ac6253cbd440",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a3dbd42f-b40e-4bcd-9e93-c41f6ef8a883.png",
+      "grid_sha256": "860008c153845812814485466a36bd70d99e8b200d3184e0fbc6cc09b774184a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        630
+      ],
+      "visual_review": "Material failure: incomplete assortment or no product present."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-a3dbd42f-b40e-4bcd-9e93-c41f6ef8a883.png",
+      "prompt": "Edit original referenced actual nailpolish product into ONE1536x1024 3x2equal512cellsgrid: topwhitebackground, lavendercreamstyled, lifestyle manicuredesk; bottomstandalone TIGHTREALPARTMACROofoneactualbottle glass/label/cap edge ONLY notfullbottle, promotional heading \"Colour Nail Polish Collection\", blankcream. Actual24distinct squareglass nailpolishbottles withlongcylindricalcolourmatchedcaps, palegold squarelabels reading GEL EFFECT; preserveexactsourcebottleshape labelidentity colours. FULLVIEWS must show ALL24WHOLEBOTTLES inFOURROWSofSIX, no missing/extra, no sourcecollagerepetition. Use sourcebottom four rows as exact24colour inventory. Exact24colour rows lefttoright: peach,lilac,coralpink,dustypink,black,red; deepred,cyan,mauve,lightpink,violet,deeppurple;teal,plum,white,orange,maroon,darkgrey;lightblue,redorange,hotpink,darkteal,mustardyellow,royalblue. Removeadvertisingwoman/extra bottle illustrations/price/claims; product24bottles only, no invented25thdisplaybottle. Matching24caps and24bottles. WholeassortmentONEproduct, websitequality. Accurateheadingpromo only.",
+      "sha256": "e2d21b24cb1b048bef00a805e37eefd99c3f318a59dd4d5dbb3bef2690a72c4b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a3dbd42f-b40e-4bcd-9e93-c41f6ef8a883.png",
+      "grid_sha256": "860008c153845812814485466a36bd70d99e8b200d3184e0fbc6cc09b774184a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        630,
+        512,
+        1024
+      ],
+      "visual_review": "24 actual coloured bottles in4rows6, sourceidentity colours preserved; correct website setting and accurateheading; actual tightglass/cap macro retained."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-a3dbd42f-b40e-4bcd-9e93-c41f6ef8a883.png",
+      "prompt": "Edit original referenced actual nailpolish product into ONE1536x1024 3x2equal512cellsgrid: topwhitebackground, lavendercreamstyled, lifestyle manicuredesk; bottomstandalone TIGHTREALPARTMACROofoneactualbottle glass/label/cap edge ONLY notfullbottle, promotional heading \"Colour Nail Polish Collection\", blankcream. Actual24distinct squareglass nailpolishbottles withlongcylindricalcolourmatchedcaps, palegold squarelabels reading GEL EFFECT; preserveexactsourcebottleshape labelidentity colours. FULLVIEWS must show ALL24WHOLEBOTTLES inFOURROWSofSIX, no missing/extra, no sourcecollagerepetition. Use sourcebottom four rows as exact24colour inventory. Exact24colour rows lefttoright: peach,lilac,coralpink,dustypink,black,red; deepred,cyan,mauve,lightpink,violet,deeppurple;teal,plum,white,orange,maroon,darkgrey;lightblue,redorange,hotpink,darkteal,mustardyellow,royalblue. Removeadvertisingwoman/extra bottle illustrations/price/claims; product24bottles only, no invented25thdisplaybottle. Matching24caps and24bottles. WholeassortmentONEproduct, websitequality. Accurateheadingpromo only.",
+      "sha256": "7d882ac68a66303c508fcc15c3d47a14e41322a9f5abe6e3124edfcd8fbc12a5",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a3dbd42f-b40e-4bcd-9e93-c41f6ef8a883.png",
+      "grid_sha256": "860008c153845812814485466a36bd70d99e8b200d3184e0fbc6cc09b774184a",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        630,
+        1024,
+        1024
+      ],
+      "visual_review": "Material failure: incomplete assortment or no product present."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-ce02e404-d606-485c-b393-bcf9e3990072.png",
+      "source_output": "/workspace/generated_images/exec-ce02e404-d606-485c-b393-bcf9e3990072.png",
+      "sha256": "1753678ed95478fdc30ab571f1d27a9a3989638fe08c071085b3339b705daada",
+      "prompt": "Edit original referenced actual nailpolish product into ONE1536x1024 3x2equal512cellsgrid: topwhitebackground, lavendercreamstyled, lifestyle manicuredesk; bottomstandalone TIGHTREALPARTMACROofoneactualbottle glass/label/cap edge ONLY notfullbottle, promotional heading \"Colour Nail Polish Collection\", blankcream. Actual24distinct squareglass nailpolishbottles withlongcylindricalcolourmatchedcaps, palegold squarelabels reading GEL EFFECT; preserveexactsourcebottleshape labelidentity colours. FULLVIEWS must show ALL24WHOLEBOTTLES inFOURROWSofSIX, no missing/extra, no sourcecollagerepetition. Use sourcebottom four rows as exact24colour inventory. Exact24colour rows lefttoright: peach,lilac,coralpink,dustypink,black,red; deepred,cyan,mauve,lightpink,violet,deeppurple;teal,plum,white,orange,maroon,darkgrey;lightblue,redorange,hotpink,darkteal,mustardyellow,royalblue. Removeadvertisingwoman/extra bottle illustrations/price/claims; product24bottles only, no invented25thdisplaybottle. Matching24caps and24bottles. WholeassortmentONEproduct, websitequality. Accurateheadingpromo only. CRITICAL CORRECTION: top3fullviews AND bottommiddlePROMO MUST EACH SHOW ALL24 PHYSICAL BOTTLES in4ROWS6. Lifestyle includesALL24WHOLEBOTTLES onmanicuredesk NOTjusthands. Promotional includesALL24WHOLEBOTTLES plusSMALLheading, NOTTEXTONLY. Exactequal512cells y512, not y630. Count24inWHITE/STYLED/LIFESTYLE/PROMO, fourrows6 mandatory. No missingfourthrow.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-ce02e404-d606-485c-b393-bcf9e3990072.png",
+      "prompt": "Edit original referenced actual nailpolish product into ONE1536x1024 3x2equal512cellsgrid: topwhitebackground, lavendercreamstyled, lifestyle manicuredesk; bottomstandalone TIGHTREALPARTMACROofoneactualbottle glass/label/cap edge ONLY notfullbottle, promotional heading \"Colour Nail Polish Collection\", blankcream. Actual24distinct squareglass nailpolishbottles withlongcylindricalcolourmatchedcaps, palegold squarelabels reading GEL EFFECT; preserveexactsourcebottleshape labelidentity colours. FULLVIEWS must show ALL24WHOLEBOTTLES inFOURROWSofSIX, no missing/extra, no sourcecollagerepetition. Use sourcebottom four rows as exact24colour inventory. Exact24colour rows lefttoright: peach,lilac,coralpink,dustypink,black,red; deepred,cyan,mauve,lightpink,violet,deeppurple;teal,plum,white,orange,maroon,darkgrey;lightblue,redorange,hotpink,darkteal,mustardyellow,royalblue. Removeadvertisingwoman/extra bottle illustrations/price/claims; product24bottles only, no invented25thdisplaybottle. Matching24caps and24bottles. WholeassortmentONEproduct, websitequality. Accurateheadingpromo only. CRITICAL CORRECTION: top3fullviews AND bottommiddlePROMO MUST EACH SHOW ALL24 PHYSICAL BOTTLES in4ROWS6. Lifestyle includesALL24WHOLEBOTTLES onmanicuredesk NOTjusthands. Promotional includesALL24WHOLEBOTTLES plusSMALLheading, NOTTEXTONLY. Exactequal512cells y512, not y630. Count24inWHITE/STYLED/LIFESTYLE/PROMO, fourrows6 mandatory. No missingfourthrow.",
+      "sha256": "fac03a345dc4e76f2140d8c4a631fa930528d660fa28eac6794a21ab99d556f4",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ce02e404-d606-485c-b393-bcf9e3990072.png",
+      "grid_sha256": "1753678ed95478fdc30ab571f1d27a9a3989638fe08c071085b3339b705daada",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        548
+      ],
+      "visual_review": "24 actual coloured bottles in4rows6, sourceidentity colours preserved; correct website setting and accurateheading; actual tightglass/cap macro retained."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-ce02e404-d606-485c-b393-bcf9e3990072.png",
+      "prompt": "Edit original referenced actual nailpolish product into ONE1536x1024 3x2equal512cellsgrid: topwhitebackground, lavendercreamstyled, lifestyle manicuredesk; bottomstandalone TIGHTREALPARTMACROofoneactualbottle glass/label/cap edge ONLY notfullbottle, promotional heading \"Colour Nail Polish Collection\", blankcream. Actual24distinct squareglass nailpolishbottles withlongcylindricalcolourmatchedcaps, palegold squarelabels reading GEL EFFECT; preserveexactsourcebottleshape labelidentity colours. FULLVIEWS must show ALL24WHOLEBOTTLES inFOURROWSofSIX, no missing/extra, no sourcecollagerepetition. Use sourcebottom four rows as exact24colour inventory. Exact24colour rows lefttoright: peach,lilac,coralpink,dustypink,black,red; deepred,cyan,mauve,lightpink,violet,deeppurple;teal,plum,white,orange,maroon,darkgrey;lightblue,redorange,hotpink,darkteal,mustardyellow,royalblue. Removeadvertisingwoman/extra bottle illustrations/price/claims; product24bottles only, no invented25thdisplaybottle. Matching24caps and24bottles. WholeassortmentONEproduct, websitequality. Accurateheadingpromo only. CRITICAL CORRECTION: top3fullviews AND bottommiddlePROMO MUST EACH SHOW ALL24 PHYSICAL BOTTLES in4ROWS6. Lifestyle includesALL24WHOLEBOTTLES onmanicuredesk NOTjusthands. Promotional includesALL24WHOLEBOTTLES plusSMALLheading, NOTTEXTONLY. Exactequal512cells y512, not y630. Count24inWHITE/STYLED/LIFESTYLE/PROMO, fourrows6 mandatory. No missingfourthrow.",
+      "sha256": "53b04cd57f0e10f908ce28f2c422575b3a243337e087353887e22f31c5178e15",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-ce02e404-d606-485c-b393-bcf9e3990072.png",
+      "grid_sha256": "1753678ed95478fdc30ab571f1d27a9a3989638fe08c071085b3339b705daada",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        548,
+        1024,
+        1024
+      ],
+      "visual_review": "24 actual coloured bottles in4rows6, sourceidentity colours preserved; correct website setting and accurateheading; actual tightglass/cap macro retained."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "03_Lifestyle.png": 1,
+    "05_Promotional.png": 1
+  },
+  "originals_verified_against_frozen_plan": true
+}

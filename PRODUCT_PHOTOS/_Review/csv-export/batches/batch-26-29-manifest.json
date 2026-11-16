@@ -1,0 +1,1511 @@
+{
+  "created_at": "2026-11-12T13:48:25.314308+00:00",
+  "frozen_snapshot": "77 completed products, IDs2617\u20132532 with gaps; excludes newly generated2531down2518 and all partial/blocked records.",
+  "total_products": 77,
+  "price": "1",
+  "currency": "LKR",
+  "price_source": "User standing instruction: price column add1",
+  "stock_quantity": "Blank; not provided",
+  "brand": "Blank; branded packaging names retained in product titles only where confirmed in notes.",
+  "total_verified_image_urls": 385,
+  "image_validation": "385 URLs match existing HTTP200 image verification report, and every file SHA matches a checked generation record.",
+  "excluded": "All earlier CSV exports; partial, blocked and pending products; completions after this frozen snapshot.",
+  "order": "Descending product ID",
+  "encoding": "UTF-8 BOM",
+  "line_endings": "CRLF",
+  "files": [
+    {
+      "file": "mytradevia-batch-26.csv",
+      "products": 20,
+      "product_ids": [
+        "2617",
+        "2616",
+        "2615",
+        "2613",
+        "2612",
+        "2611",
+        "2610",
+        "2609",
+        "2608",
+        "2607",
+        "2605",
+        "2604",
+        "2603",
+        "2602",
+        "2601",
+        "2600",
+        "2599",
+        "2598",
+        "2597",
+        "2596"
+      ],
+      "sha256": "313c8adc079d2285d781ee283f53d6999e0e5741d77790288bace397cda2dadd"
+    },
+    {
+      "file": "mytradevia-batch-27.csv",
+      "products": 20,
+      "product_ids": [
+        "2595",
+        "2594",
+        "2593",
+        "2592",
+        "2591",
+        "2590",
+        "2589",
+        "2588",
+        "2587",
+        "2586",
+        "2585",
+        "2584",
+        "2583",
+        "2582",
+        "2581",
+        "2579",
+        "2578",
+        "2577",
+        "2576",
+        "2575"
+      ],
+      "sha256": "90beab93a8373cd6af00739b9f66d10aa27fa668a395a08ca443725a19503e1e"
+    },
+    {
+      "file": "mytradevia-batch-28.csv",
+      "products": 20,
+      "product_ids": [
+        "2574",
+        "2573",
+        "2572",
+        "2570",
+        "2569",
+        "2568",
+        "2567",
+        "2565",
+        "2564",
+        "2562",
+        "2561",
+        "2560",
+        "2559",
+        "2558",
+        "2557",
+        "2556",
+        "2555",
+        "2553",
+        "2552",
+        "2551"
+      ],
+      "sha256": "e2f15ad86e6da61da5fd67fb50696b433433448f2d9bdb5cdf7b75e1f94b134e"
+    },
+    {
+      "file": "mytradevia-batch-29.csv",
+      "products": 17,
+      "product_ids": [
+        "2550",
+        "2549",
+        "2548",
+        "2547",
+        "2546",
+        "2545",
+        "2544",
+        "2543",
+        "2541",
+        "2540",
+        "2538",
+        "2537",
+        "2536",
+        "2535",
+        "2534",
+        "2533",
+        "2532"
+      ],
+      "sha256": "6f5f4139132bb88c2fd4384419d265922da5b809ab783e3aa93c7c6a2269da4a"
+    }
+  ],
+  "products": [
+    {
+      "product_id": "2617",
+      "sku": "PEACHES-2617",
+      "name": "Pastel Sunglasses and Hair Clip Set Assortment",
+      "category": "Hair Accessories",
+      "folder": "2617_Pastel-Flower-Accessory-Sets-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "f80baa5cc8a084754bc268fad294cee8d6e53f9e4047de836ebaa19a7f86a5e8",
+      "evidence_prompt_excerpt": "rds within that512square cell. Sixcards repeated4times, one complete assortment in EACHfullview. Sourcecards:1pinkmeshHEARTclips andpinkclear glasses,2orangequilteddaisyclipspaleyellowcentres brownglasses,3yellowginghambows orangeyellowglasses,4lavenderginghambows purplepinkglasses,5whitepearledgedbows bluepinkglasses,6mintgreengingham bows bluepinkglasses. Eachcard has TWO separate clips plus ONE sunglasses pair; do not add randomflowers/bows onpinkcard, sourcepinkmeshheartclips only. Preserve trueidentity,count,shapes,colours. Remove originalhand,shop,price,plasticbag. Keep sourcecardprint. Entire SIXcard assortment is ONEproduct; noindividualcardproductphotos. Photographic websitequality.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2617_Pastel-Flower-Accessory-Sets-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2617_Pastel-Flower-Accessory-Sets-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2617_Pastel-Flower-Accessory-Sets-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2617_Pastel-Flower-Accessory-Sets-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2617_Pastel-Flower-Accessory-Sets-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2616",
+      "sku": "PEACHES-2616",
+      "name": "Heart Sunglasses and Flower Hair Clip Set Assortment",
+      "category": "Hair Accessories",
+      "folder": "2616_Bright-Hair-Accessory-Sets-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Six kids sunglasses and paired hair clip sets",
+      "evidence_prompt_sha256": "e0301d471d3e807560d1f690fbcd4355877780a1267778a16433b552b90d3150",
+      "evidence_prompt_excerpt": ". The actual assortment has SIX sets on six cards, arranged two columns by three rows. Each set has one HEART-shaped sunglasses pair and TWO flower hair clips (total6sunglasses pairs+12clips). Sets: orange fabric daisy clips/yellow centres+brown-pink heart glasses; green printed flower clips/yellow centres+blue-pink glasses; pink fabric flowers/mint centres+pink glasses; yellow gingham heart-shaped flower-embroidered clips+orange-yellow glasses; lavender crocheted flower clips/yellow centres+purple-pink glasses; blue printed fabric flowers/pink centres+blue-pink glasses. Retain these six exact sets; no bow substitution. Detail cell is tight crop of the orange fabric flower and attached clip.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2616_Bright-Hair-Accessory-Sets-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2616_Bright-Hair-Accessory-Sets-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2616_Bright-Hair-Accessory-Sets-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2616_Bright-Hair-Accessory-Sets-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2616_Bright-Hair-Accessory-Sets-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2615",
+      "sku": "PEACHES-2615",
+      "name": "Round Sunglasses and Bow Hair Clip Set Assortment",
+      "category": "Hair Accessories",
+      "folder": "2615_Neutral-Hair-Accessory-Sets-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Six kids sunglasses and paired hair clip sets",
+      "evidence_prompt_sha256": "6f1d0505b4938772dff79440ff654519ea045ec829ae4f1312812479b8a3ba5a",
+      "evidence_prompt_excerpt": "otography sufficient. The actual assortment has SIX sets on six cards, arranged two columns by three rows. Each set has one ROUND sunglasses pair with tiny rounded ear-like upper frame tabs and TWO BOW hair clips (total6sunglasses pairs+12bowclips). Sets: pale cream mesh bows+brown-pink round glasses; blue mesh bows+blue-pink round glasses; pink mesh bows+pink round glasses; yellow green patterned sheer bows+orange-yellow glasses; lavender mesh bows+purple-pink glasses; turquoise sheer printed pearl-centred bows+blue-pink glasses. Preserve6distinct sets and all12bows; not flowerclips, not heart-shaped lenses. Detail cell is close macro of the actual turquoise pearl-centred printed sheer bow.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2615_Neutral-Hair-Accessory-Sets-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2615_Neutral-Hair-Accessory-Sets-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2615_Neutral-Hair-Accessory-Sets-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2615_Neutral-Hair-Accessory-Sets-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2615_Neutral-Hair-Accessory-Sets-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2613",
+      "sku": "PEACHES-2613",
+      "name": "Colourful Hair Elastic Tube Assortment",
+      "category": "Hair Accessories",
+      "folder": "2613_Printed-Hair-Elastic-Tubes-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Twelve clear black-lid hair elastic tubes, assorted pastel and vivid colours",
+      "evidence_prompt_sha256": "63afb7fc6f044c9384362fd0213be475d51a537b6fb3cc6fdda235a7b8a422c1",
+      "evidence_prompt_excerpt": "alistic, no beautification changes. Subject is exactly TWELVE clear cylindrical plastic tubes with black round screw lids, all densely filled with small circular fabric-covered hair elastics. Source has two rows of six tubes each. Preserve the entire twelve-tube assortment, including pastel pink/blue/mint/yellow/beige elastics and bright red/yellow/green/blue/purple elastics. These are hair elastic storage tubes, not drinks. Full views show exactly TWELVE tubes arranged two rows of six, lids facing up or visible. Preserve label style without inventing claims or piece counts. Detail is tight real macro of colourful fabric hair elastics visible through a tube. Heading: Colourful Hair Elastics.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2613_Printed-Hair-Elastic-Tubes-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2613_Printed-Hair-Elastic-Tubes-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2613_Printed-Hair-Elastic-Tubes-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2613_Printed-Hair-Elastic-Tubes-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2613_Printed-Hair-Elastic-Tubes-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2612",
+      "sku": "PEACHES-2612",
+      "name": "Bright Hair Elastic Tube Assortment",
+      "category": "Hair Accessories",
+      "folder": "2612_Colourful-Hair-Elastic-Tubes-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "12clearblacklidtubes of fabric hair elastics, six paired colour groups",
+      "evidence_prompt_sha256": "a2114ed2ca07a9d287179462a62d0c0ecdc0052150dacb85dc8c9c965b9d5dea",
+      "evidence_prompt_excerpt": "ent; bottom-middle promotional full assortment with heading \"Hair Elastic Tube Assortment\"; bottom-right plain blank cream. Every full-assortment cell must include ALL12 original clear cylindrical black-lid tubes and original label design; preserve actual elastic colours/thickness/count distribution. Remove hand, plastic outer carrier and old wholesale price overlay. Do not invent products, extra bottles, hair clips or unrelated props. Keep all objects within each squarecell without any crossing boundaries. The12 tubes are two blue mixes,two green/turquoise mixes,two lavender/purple mixes,two brown/beige/black mixes,two pink mixes,two yellow/orange mixes. Preserve original entire assortment.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2612_Colourful-Hair-Elastic-Tubes-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2612_Colourful-Hair-Elastic-Tubes-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2612_Colourful-Hair-Elastic-Tubes-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2612_Colourful-Hair-Elastic-Tubes-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2612_Colourful-Hair-Elastic-Tubes-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2611",
+      "sku": "PEACHES-2611",
+      "name": "Dark and Muted Hair Elastic Tube Assortment",
+      "category": "Hair Accessories",
+      "folder": "2611_Dark-Hair-Elastic-Tubes-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "12 clear blacklid tubes of fabric hair elastics in dark/white/red/muted assortments",
+      "evidence_prompt_sha256": "3403e51f9efc54e0e67abb441a5166866f0bda354235e64f8f5a49f47e204a5c",
+      "evidence_prompt_excerpt": "th heading \"Hair Elastic Tube Assortment\"; bottom-right plain blank cream. Every full-assortment cell must include ALL12 original clear cylindrical black-lid tubes and original label design; preserve actual elastic colours/thickness/count distribution. Remove hand, plastic outer carrier and old wholesale price overlay. Do not invent products, extra bottles, hair clips or unrelated props. Keep all objects within each squarecell without any crossing boundaries. The12 tubes contain the actual dark elastic assortment: black/white mixes, navy/red/white mixes and muted mauve/dustyblue/brown mixes. Match original exact twelve-tube layout and colour distribution; preserve original entire assortment.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2611_Dark-Hair-Elastic-Tubes-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2611_Dark-Hair-Elastic-Tubes-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2611_Dark-Hair-Elastic-Tubes-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2611_Dark-Hair-Elastic-Tubes-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2611_Dark-Hair-Elastic-Tubes-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2610",
+      "sku": "PEACHES-2610",
+      "name": "Transparent Window Gift Bag Assortment",
+      "category": "Bags & Wallets",
+      "folder": "2610_Medium-Transparent-Gift-Bags-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "f57793aa43b086352d13c15fcf0f69d138d0ca5cad3a6d938bac6020ee3935f7",
+      "evidence_prompt_excerpt": "e overlay,shop clutter,plastic outer wrap. Each full-view cell shows all FIVE bags together and same colours. Top left white studio;top middle pale lavender/cream styled background;top right natural gift-wrapping desk lifestyle without added sellable products. Bottom left standalone tight macro of actual pink ribbon/transparent-window seam only, not full assortment. Bottom middle promotional image all5 bags heading 'Transparent Gift Bags'. Bottom right entirely blank cream. Exact vertical cell edges x512,1024, horizontal y512, no borders,gutters or captions outside promotional cell. Faithful product edit,no stock substitutions. Do not claim12bags; show only the FIVE visible colour variants.\n",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2610_Medium-Transparent-Gift-Bags-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2610_Medium-Transparent-Gift-Bags-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2610_Medium-Transparent-Gift-Bags-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2610_Medium-Transparent-Gift-Bags-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2610_Medium-Transparent-Gift-Bags-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2609",
+      "sku": "PEACHES-2609",
+      "name": "Eyeliner and Seal Pack Assortment",
+      "category": "Beauty & Personal Care",
+      "folder": "2609_Eyeliner-Tattoo-Seal-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "78c900c5fb97d743fd1c173404730c369296bc8218d9a1ffeec9225a08384510",
+      "evidence_prompt_excerpt": "ages and accurate black/white/magenta colours, proportions, identity and printed design; exclude cropped background store stock, price overlay and shelf clutter. Each full-view cell shows TWO packages together. Top left white studio;top middle lavender/cream styled background;top right clean makeup vanity lifestyle with both boxed products, no unrelated cosmetics. Bottom left tight standalone macro of real printed eyeliner graphic/packaging lettering, do not invent an opened pen. Bottom middle same two packs with accurate heading 'Eyeliner + Seal Duo'. Bottom right blank cream. Exact edges x512,x1024,y512, no borders/gutters/collage text outsidepromo. Website-ready faithful referenced edit.\n",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2609_Eyeliner-Tattoo-Seal-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2609_Eyeliner-Tattoo-Seal-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2609_Eyeliner-Tattoo-Seal-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2609_Eyeliner-Tattoo-Seal-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2609_Eyeliner-Tattoo-Seal-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2608",
+      "sku": "PEACHES-2608",
+      "name": "Vitamin C Lip Gloss Display Set",
+      "category": "Beauty & Personal Care",
+      "folder": "2608_Vitamin-C-Lip-Gloss-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Miss Look VC lip gloss twelve-tube tray",
+      "evidence_prompt_sha256": "659955b0c5c0f4d29632906084f0ffe7f8e28e2c7ca322526e801375b55c9efe",
+      "evidence_prompt_excerpt": "ach whole assortment is ONE product. Website-ready photography sufficient. Actual product one Miss Look VC Lip Gloss hanging display tray with TWELVE slender cylindrical lip gloss tubes, all12goldcaps and roundedclear bases. Twelveparallel horizontal slots stackedvertically. Top-to-bottom liquid colours: clear,paleyellow,red,purple,blue,orange-red,green,orange,red,magenta,amber,purple. Preserve goldmetalliccaps and clearprinted tubes; tray orange-citrus VC header. No background wallets/characters/hand/priceoverlay. Cells1/2/3/5 must each show exactly12tubes, not11or13; countslots carefully. Detail cell close macro of one real clear tube/barrel goldcap junction, no unsupported efficacy claim.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2608_Vitamin-C-Lip-Gloss-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2608_Vitamin-C-Lip-Gloss-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2608_Vitamin-C-Lip-Gloss-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2608_Vitamin-C-Lip-Gloss-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2608_Vitamin-C-Lip-Gloss-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2607",
+      "sku": "PEACHES-2607",
+      "name": "Mini Flower Hair Claw Clip Assortment",
+      "category": "Hair Accessories",
+      "folder": "2607_Bright-Floral-Hair-Clips-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "96661bff280b0781fbab6a7341a847288baf89be49907838f4ac0a574be65430",
+      "evidence_prompt_excerpt": "pear fully in cells1/2/3/5 (2columns6rows), TENclips evenlyaroundedgeeachcard. No added largeflowerbarrettes; not earrings; no hand/shop/priceoverlay. Detail close macro of ONE actual tiny pinkflower clawclip and silver spring; standalone productpart crop. Keep same cardgraphics and sourcecolours. CORRECTIVE LAST ATTEMPT: Prior grid hid too many clips. Spread out EACH of all TWELVE bunnycards entirely separated and not overlapping in a 3columns4rows arrangement WITHIN each full-assortment cell. Each card exactlyTEN mini clawclips, five left/five right, total120. All12bunnyheads visible. Do not simply create two longcards with fewclips. Detail can remain one mini clip. Count before rendering.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2607_Bright-Floral-Hair-Clips-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2607_Bright-Floral-Hair-Clips-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2607_Bright-Floral-Hair-Clips-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2607_Bright-Floral-Hair-Clips-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2607_Bright-Floral-Hair-Clips-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2605",
+      "sku": "PEACHES-2605",
+      "name": "Black Pink and Red Crystal Phone Charm Assortment",
+      "category": "Accessories",
+      "folder": "2605_Red-Pink-Phone-Charms-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Three crystal beaded phone charms black/blush/red",
+      "evidence_prompt_sha256": "52b9d67ff3deedf323f7c8034f483cf925f11bfb163e4d0aa510331f13f7b30e",
+      "evidence_prompt_excerpt": "ies, no old price text/hands/shopbackground. Preserve actual identity/count/shape/colour. Actual product is exactlyTHREE crystal-beaded phone wrist charms on individual white cards: left black/crystal/white pearlyoval bead loop, middle blushpink/crystal/white pearlyoval loop, right brightred/crystal/white pearlyoval loop. Each has gold-tone round clasp and clearphonecover attachmenttab. Include exactly3originalcharms together in all4fullviews. Preserve beads and original loop shapes, do not add charms. Macro tight closeup real redcrystal beads + whiteoval + goldspacer from rightcharm. Promotional heading \"Crystal Beaded Phone Charms\". Remove priceand677-6sticker; retain cards and goldclasps.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2605_Red-Pink-Phone-Charms-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2605_Red-Pink-Phone-Charms-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2605_Red-Pink-Phone-Charms-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2605_Red-Pink-Phone-Charms-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2605_Red-Pink-Phone-Charms-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2604",
+      "sku": "PEACHES-2604",
+      "name": "Crystal and Oval Bead Phone Charm Assortment",
+      "category": "Accessories",
+      "folder": "2604_White-Black-Phone-Charms-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Three crystal phone charm loop straps: black, pink/purple, red with champagne oval beads and gold round clasps",
+      "evidence_prompt_sha256": "63eeddddd5bcc40a9d920a116ee747e026260dc649e37e70f1a0d8bda5d50210",
+      "evidence_prompt_excerpt": "ht blank cream. Keep all full-view products within their own cell with margin. Do not add other phone straps or claims. Photorealistic website-ready. Exactly THREE looped phone charm wrist straps displayed on three separate white backing cards: one BLACK faceted crystal beads with frosted/translucent white beads and champagne-gold oval beads; one PINK/PURPLE crystal version; one RED crystal version. All have gold round spring-clasp rings and occasional large clear iridescent bead. Preserve these three distinct source colourways and the source bead-sequence character. Full views show exactly THREE complete loop straps on three cards. Tight detail of black crystal/white bead/gold ring texture.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2604_White-Black-Phone-Charms-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2604_White-Black-Phone-Charms-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2604_White-Black-Phone-Charms-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2604_White-Black-Phone-Charms-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2604_White-Black-Phone-Charms-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2603",
+      "sku": "PEACHES-2603",
+      "name": "Clear Blue and Red Pearl Phone Charm Assortment",
+      "category": "Accessories",
+      "folder": "2603_White-Red-Phone-Charms-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "2bcb2f32b50833e371d52b2242463764650b0ffb6db56a6c2941fdfde8a7591a",
+      "evidence_prompt_excerpt": "-view products within their own cell with margin. Do not add other phone straps or claims. Photorealistic website-ready. Exactly THREE looped phone charm wrist straps on three white backing cards: one silver/clear crystal plus round WHITE PEARLS, one BLUE crystals plus WHITE PEARLS, one RED crystals plus WHITE PEARLS. Each has gold round spring clasp ring and an accent cluster near the bottom consisting of large white pearl and faceted warm golden translucent round bead. Preserve all three distinct source pearl/crystal colourways and the source bead arrangement. Full views show exactly THREE complete loop straps on three cards. Tight detail of blue crystals, round white pearl and gold clasp.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2603_White-Red-Phone-Charms-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2603_White-Red-Phone-Charms-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2603_White-Red-Phone-Charms-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2603_White-Red-Phone-Charms-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2603_White-Red-Phone-Charms-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2602",
+      "sku": "PEACHES-2602",
+      "name": "Black Blue and Grey Pearl Phone Charm Assortment",
+      "category": "Accessories",
+      "folder": "2602_Blue-Black-Phone-Charms-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "69432a7f8a21ba88fc1ddc6f53d5c2b94726963879adb48b1bfb5cbad04b0f25",
+      "evidence_prompt_excerpt": "tom-rightblankcream. No oneitempercell. Allthree sourceitems together inside each512squarefullview. Preserve originalidentity,count,shape,colours/materials. Removehand/shop/price/plasticbags; retain sourcewhitecards, removeinventorycodesticker. Source exactlyTHREE beaded loop phonecharms on3whitecards, eachgoldkeyring/lobsterattachment, fauxwhitepearls alternating paired smallfacetedcrystals and occasionalcleariridescentcubebeads. OneBLACKcrystal+pearl loop, oneBRIGHTTURQUOISEBLUEcrystal+pearl loop, oneSMOKYGRAYcrystal+pearl loop. Preserve beadedpattern, loopshape,keyring hardware. Detailmacrobluefacetedcrystals alternatingwhitepearls/iridescentcube. Heading ONLY 'Crystal Bead Phone Charms'.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2602_Blue-Black-Phone-Charms-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2602_Blue-Black-Phone-Charms-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2602_Blue-Black-Phone-Charms-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2602_Blue-Black-Phone-Charms-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2602_Blue-Black-Phone-Charms-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2601",
+      "sku": "PEACHES-2601",
+      "name": "Flower Gem Pendant Necklace Assortment",
+      "category": "Jewellery",
+      "folder": "2601_Flower-Pendant-Necklaces-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "a8790f3b2233944cff6667e0ca7fc07c91b841705b3198c53c2d0c859b37859a",
+      "evidence_prompt_excerpt": "ell5bottom-middle promotional ALL3ITEMS accurateheading;cell6bottom-rightblankcream. No oneitempercell. Allthree sourceitems together inside each512squarefullview. Preserve originalidentity,count,shape,colours/materials. Removehand/shop/price/plasticbags; retain sourcewhitecards, removeinventorycodesticker. ExactlyTHREE separategoldfinechain necklaces onthreewhitecards. Eachpendant five roundedtranslucentgem petals outlinedingold withonewhitepearlcenter. Petalcolours:1mauvepink/lilac,2rubyred,3deepcobaltblue. FIVE petals each, delicategoldchains. All3necklaces visible entirety in eachfullview. Detailmacrobluefivepetalflowergoldoutlinewhitepearlcenter. Heading ONLY 'Flower Pendant Necklaces'.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2601_Flower-Pendant-Necklaces-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2601_Flower-Pendant-Necklaces-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2601_Flower-Pendant-Necklaces-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2601_Flower-Pendant-Necklaces-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2601_Flower-Pendant-Necklaces-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2600",
+      "sku": "PEACHES-2600",
+      "name": "Shooting Star Pendant Necklace Assortment",
+      "category": "Jewellery",
+      "folder": "2600_Round-Pendant-Necklaces-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "06634ca6207c2029183cfe55c797ff0fcfd0f252c7495dc08e3fbcca232ba546",
+      "evidence_prompt_excerpt": "row:whitebackground;lavender/creamstyled;background;naturaljewelryvanity lifestyle. Bottomrow:standalone tightrealpart pendant macro;promotional full assortment with accurateheading;blankcream unused. Exactboundaries x512,1024,y512, nogutters/borders. Actualsubject THREE gold-tone SHOOTING STAR necklaces: left pink iridescent star gem, middle brightred star gem, right black star gem; each star has small clear rhinestone perimeter and gold curved shooting tail with tiny star ends. Preserve these3variants and asymmetrical star-tail shape, linkedfinegoldchains. Detail focuses pink star+tail closeup. Promotional heading 'Shooting Star Necklaces'. Folder says round but follow actualstaroriginal.\n",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2600_Round-Pendant-Necklaces-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2600_Round-Pendant-Necklaces-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2600_Round-Pendant-Necklaces-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2600_Round-Pendant-Necklaces-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2600_Round-Pendant-Necklaces-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2599",
+      "sku": "PEACHES-2599",
+      "name": "Clover Frame Gem Pendant Necklace Assortment",
+      "category": "Jewellery",
+      "folder": "2599_Pastel-Pendant-Necklaces-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "994d9d849dd650dfb5f3162d17c7a0ad9fff763bfdb32d60d199fef969446510",
+      "evidence_prompt_excerpt": "ces/cards together,never12 despite oldoverlay. Toprow:whitebackground;lavender/creamstyled;background;naturaljewelryvanity lifestyle. Bottomrow:standalone tightrealpart pendant macro;promotional full assortment with accurateheading;blankcream unused. Exactboundaries x512,1024,y512, nogutters/borders. Actualsubject THREE gold-tone ROUND/FOUR-LOBE jewel pendant necklaces: left iridescent lightblue oval roundgem, middle ruby-red roundgem, right iridescent palegreen roundgem; each centre set inside rounded four-lobe/clover goldframe with tiny clear rhinestones. Preserve3colours/3cards/exactframe, linkedfinegoldchains. Detailfocus blue pendant closeup. Promotionalheading 'Gem Pendant Necklaces'.\n",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2599_Pastel-Pendant-Necklaces-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2599_Pastel-Pendant-Necklaces-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2599_Pastel-Pendant-Necklaces-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2599_Pastel-Pendant-Necklaces-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2599_Pastel-Pendant-Necklaces-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2598",
+      "sku": "PEACHES-2598",
+      "name": "Heart Gem Pendant Necklace Assortment",
+      "category": "Jewellery",
+      "folder": "2598_Dark-Pendant-Necklaces-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "ddc60f0037a04adc46a1a9a6ae7fa50bbb2ecb6ef1c63122fcd18a520c832646",
+      "evidence_prompt_excerpt": "eft tightstandalone macrorealpart;cell5bottom-middle promotional ALL3ITEMS accurateheading;cell6bottom-rightblankcream. Never oneitempercell. Allthree sourceitems together inside each512squarefullview. Preserve originalidentity,count,shape,colours/materials. Removehand/shop/price/plasticbags; retain sourcewhitecards. ExactlyTHREE goldfinechain necklaces, each ononewhitecard. Pendants heartshaped facetedgems, goldscroll/flourish at upperleft andsmallclear-rhinestoneedge. Colours1lavenderpurple,2rubyred,3black. All3hearts same actualsourcecut/design, preservefinechains, noflowers. Detailmacro purplefacetedheartpendant withgoldflourishandclearsparkleedge. Heading ONLY 'Heart Pendant Necklaces'.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2598_Dark-Pendant-Necklaces-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2598_Dark-Pendant-Necklaces-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2598_Dark-Pendant-Necklaces-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2598_Dark-Pendant-Necklaces-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2598_Dark-Pendant-Necklaces-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2597",
+      "sku": "PEACHES-2597",
+      "name": "Heart Accent Beaded Phone Charm Assortment",
+      "category": "Accessories",
+      "folder": "2597_Pink-Purple-Phone-Charms-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "58ec19fb446dc8cedd04389b4444b1fc97bfe87d3cd9a22cb10cbc94674f5114",
+      "evidence_prompt_excerpt": "tom-rightblankcream. Never oneitempercell. Allthree sourceitems together inside each512squarefullview. Preserve originalidentity,count,shape,colours/materials. Removehand/shop/price/plasticbags; retain sourcewhitecards. ExactlyTHREE beadedloopphonecharms on3whitecards withgoldkeyrings. Oneblackfacetedbeads+milkywhiteovalbeads loop andtranslucentblackheartaccent, onepinkredfacetedbeads+milkywhiteovalbeads loop andtransparentpinkheartaccent, onepurplefacetedbeads+milkywhiteovalbeads loop andtransparentpurpleheartaccent. Tinygoldspacers. Preserveexistingloopshapes,keyrings,heartbeadshapesandcolours. Detailmacro purplebeadandtransparentpurpleheartaccent. Heading ONLY 'Crystal Bead Phone Charms'.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2597_Pink-Purple-Phone-Charms-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2597_Pink-Purple-Phone-Charms-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2597_Pink-Purple-Phone-Charms-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2597_Pink-Purple-Phone-Charms-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2597_Pink-Purple-Phone-Charms-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2596",
+      "sku": "PEACHES-2596",
+      "name": "Black Red and Blue Crystal Phone Charm Assortment",
+      "category": "Accessories",
+      "folder": "2596_Red-Black-Phone-Charms-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Three crystal-beaded phone charms",
+      "evidence_prompt_sha256": "ccf10d74c4b0b9bcf68fae42d2513a993a4bc61c051e6e5f8609676b7c54e3d9",
+      "evidence_prompt_excerpt": "ment EXACTLY THREE separate crystal-beaded phone wriststraps/charms on THREE white hangingcards, each has ONE GOLD round keyring and U-shaped beaded loop with one larger faceted glass bead near bottom. Colours: black/charcoalsmallfacetedbeads+champagnegoldspacers+largeblackfacetedbead; redsmallfacetedbeads+champagnespacers+largered/goldfacetedbead; brightturquoisebluebeads+champagnespacers+largegreen-bluefacetedbead. Retain all THREE entire different colouredstraps together in cells1/2/3/5. Not necklaces. No extra wriststraps. Clear phone-cover tags and exactgoldkeyring hardware retained. Remove hand/shop/pricebanner. Detail tight realpartmacro of blackfacetedbead and adjacentchampagnebeads.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2596_Red-Black-Phone-Charms-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2596_Red-Black-Phone-Charms-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2596_Red-Black-Phone-Charms-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2596_Red-Black-Phone-Charms-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2596_Red-Black-Phone-Charms-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2595",
+      "sku": "PEACHES-2595",
+      "name": "Faceted Heart Bead Phone Charm Assortment",
+      "category": "Accessories",
+      "folder": "2595_Pastel-Blue-Phone-Charms-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Three crystal-beaded phone charms",
+      "evidence_prompt_sha256": "9840518af304589ef857908c07cf085e14c82a30fd956ba96f5441f1c4b6617d",
+      "evidence_prompt_excerpt": " on THREE white hangingcards. Eachgoldroundkeyring attaches to one Uloop. Three distinctdesigns: (1) ivoryovalbeads+smallcleargraycrystals+small BLACK heartpendant; (2) turquoiseBLUE smallcloverclusters alternatingclearovalbeads+largertransparent paleBLUE facetedheartpendant; (3) palePINK smallcrystalclusters alternatingclearovalbeads+largertransparent PINK heartpendant. Preserve all THREE whole differentcharms together in cells1/2/3/5; no addedstraps,no duplicatedblueone. Preserve sourceheartshapes,goldrings,ivoryovalbeads and delicateproportions. Remove hand/shop/pricebanner. Detail standalone tight macro of the actual paleBLUE faceted heartbead and adjacentbluecluster, not fullassortment.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2595_Pastel-Blue-Phone-Charms-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2595_Pastel-Blue-Phone-Charms-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2595_Pastel-Blue-Phone-Charms-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2595_Pastel-Blue-Phone-Charms-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2595_Pastel-Blue-Phone-Charms-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2594",
+      "sku": "PEACHES-2594",
+      "name": "Iridescent Disc Bead Phone Charm Assortment",
+      "category": "Accessories",
+      "folder": "2594_Purple-Beaded-Phone-Charms-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Three crystal phone straps with flat faceted iridescent disc beads; purple/grey, peach and grey/champagne",
+      "evidence_prompt_sha256": "923ace60cc5b983c6ba894383562c7a88eb208fca2b795cb3c034f363bdc4ce0",
+      "evidence_prompt_excerpt": "ite display cards. Remove hand, shop and price overlays, no new claims. Full views show exactly THREE complete loop straps on THREE cards, with margin inside each cell. Photoreal website-ready. Three crystal bead phone charm straps: first purple/pink small faceted rounds alternating with dark charcoal-grey faceted beads and champagne-gold crystals; second pale PEACH/champagne and clear faceted beads; third smoky GREY plus champagne-gold beads. All three have a large flat faceted iridescent round disc bead at bottom of each loop, gold round spring clasp at top. Preserve original sequences/large flat round pendant-like bead shape, not pearls. Detail of purple/grey faceted beads and gold clasp.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2594_Purple-Beaded-Phone-Charms-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2594_Purple-Beaded-Phone-Charms-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2594_Purple-Beaded-Phone-Charms-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2594_Purple-Beaded-Phone-Charms-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2594_Purple-Beaded-Phone-Charms-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2593",
+      "sku": "PEACHES-2593",
+      "name": "Black Blue and Pink Crystal Phone Charm Assortment",
+      "category": "Accessories",
+      "folder": "2593_Blue-Pink-Phone-Charms-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Three crystal phone straps black/blue/pink with iridescent accent beads",
+      "evidence_prompt_sha256": "078175458f5b18fcfb47555cf4f651c907b2cd9d8107debf35f108c4f12be215",
+      "evidence_prompt_excerpt": "s and white display cards. Remove hand, shop and price overlays, no new claims. Full views show exactly THREE complete loop straps on THREE cards, with margin inside each cell. Photoreal website-ready. Three crystal bead phone charm straps: BLACK small faceted rounds with iridescent/champagne larger beads; bright BLUE small faceted round crystals with pale-green/champagne larger beads; PINK/PURPLE small faceted round crystals with pale-green/champagne larger beads. Gold round spring clasp rings at top. Preserve original thin loop construction, irregular intervals of slightly larger multicoloured faceted beads, no large pendant disc or pearls. Detail of real blue faceted beads and gold clasp.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2593_Blue-Pink-Phone-Charms-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2593_Blue-Pink-Phone-Charms-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2593_Blue-Pink-Phone-Charms-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2593_Blue-Pink-Phone-Charms-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2593_Blue-Pink-Phone-Charms-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2592",
+      "sku": "PEACHES-2592",
+      "name": "Grey Red and Champagne Crystal Phone Charm Assortment",
+      "category": "Accessories",
+      "folder": "2592_Red-White-Phone-Charms-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "affc80bda6135c37cdc5411521f76cecee90485b1e612b10b0accdc659557586",
+      "evidence_prompt_excerpt": "curateheading \"Crystal Beaded Phone Charms\" / blankcream. All4fullviews include exactlyTHREE original charms on white cards with goldroundclasps and clearphone attachmenttabs. Preserve original product beadshapes/colours/identity/count; removehand,bagglare,shopbackground,priceoverlayand677-4sticker. Do not add or omit charms or invent extra pendants. Originalthree are leftsmokygreycrystal, middlebrightredcrystal with iridescenttranslucentaccentbeads, rightpalechampagnecrystal with subtlypink/greeniridescentaccentbeads. They are slender beaded loop straps as photographed. No whitepearls or oversizedbeads. Detail tightlycrop actual redcrystalbeads and translucentiridescentbead withgoldspacers.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2592_Red-White-Phone-Charms-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2592_Red-White-Phone-Charms-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2592_Red-White-Phone-Charms-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2592_Red-White-Phone-Charms-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2592_Red-White-Phone-Charms-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2591",
+      "sku": "PEACHES-2591",
+      "name": "Champagne Red and Purple Pearl Phone Charm Assortment",
+      "category": "Accessories",
+      "folder": "2591_Pink-Beaded-Phone-Charms-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "03f6b01364820c548adc714d319e8314b9b5bb5e2408dc0bac95685c6286fcb0",
+      "evidence_prompt_excerpt": ". All4fullviews include exactlyTHREE original charms on white cards with goldroundclasps and clearphone attachmenttabs. Preserve original product beadshapes/colours/identity/count; removehand,bagglare,shopbackground,priceoverlayand677-4sticker. Do not add or omit charms or invent extra pendants. Originalthree are champagnecrystal/whitepearl, redcrystal/whitepearl, purplecrystal/whitepearl. Everyloop has small roundwhitepearls separated bygoldspacers and a single larger pointedoval iridescentfocalbead nearbottom. Preserve reference beadsequence and eachoriginal focalbead. Detail tightcrop actual purplecrystalbeads + roundwhitepearls + goldspacers. No extra fourthcharm or giantwhiteovalpearls.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2591_Pink-Beaded-Phone-Charms-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2591_Pink-Beaded-Phone-Charms-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2591_Pink-Beaded-Phone-Charms-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2591_Pink-Beaded-Phone-Charms-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2591_Pink-Beaded-Phone-Charms-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2590",
+      "sku": "PEACHES-2590",
+      "name": "Black Blue and Smoky Pearl Phone Charm Assortment",
+      "category": "Accessories",
+      "folder": "2590_Black-Blue-Phone-Charms-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "555a780c7c782a878df359a599f846f95eac5da961f770358477718fc094313f",
+      "evidence_prompt_excerpt": " always exactly3charms/cards. Toprow white studio, lavender/cream styled, natural desktop lifestyle with all3cards. Bottomrow tight standalone real bead/clasp macro only, promotional assortment accurate heading 'Crystal Bead Phone Charms', blankcream. Exactcellboundaries x512,1024,y512 no gutters/borders. Referencevariant details: left black/white-pearl beads with dark faceted elongated centralbead, middle bright turquoise-blue/white-pearl beads with bluish elongatedcentralbead, right smoky-clear/silverfaceted/white-pearl beads with clear/smoky elongatedcentralbead. Each goldclasp circular. Preservethreecolourvariants and ovalbead-loop style. Detailfocus bluebeads and pearlpatterntightcrop.\n",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2590_Black-Blue-Phone-Charms-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2590_Black-Blue-Phone-Charms-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2590_Black-Blue-Phone-Charms-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2590_Black-Blue-Phone-Charms-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2590_Black-Blue-Phone-Charms-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2589",
+      "sku": "PEACHES-2589",
+      "name": "Black Red and Peach Crystal Phone Charm Assortment",
+      "category": "Accessories",
+      "folder": "2589_Red-Beaded-Phone-Charms-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "561ca05854b153834ec2c580517fee21fd3a46d3f890d36c0bf8603b8eaaacb4",
+      "evidence_prompt_excerpt": "e; do not create12items. Four full-view cells always exactly3charms/cards. Toprow white studio, lavender/cream styled, natural desktop lifestyle with all3cards. Bottomrow tight standalone real bead/clasp macro only, promotional assortment accurate heading 'Crystal Bead Phone Charms', blankcream. Exactcellboundaries x512,1024,y512 no gutters/borders. Referencevariants: left black/champagne-gold facetedbeads, middle cherryred/champagne-gold facetedbeads, right champagne-peach/clearfacetedbeads. Each has small multicolour iridescent round/oval beads along lowerloop, goldroundclasp, Uloopform. Do not substitute pearl/charactermotifs. Detailtightredandchampagne crystalbeads, preserve realfacets.\n",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2589_Red-Beaded-Phone-Charms-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2589_Red-Beaded-Phone-Charms-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2589_Red-Beaded-Phone-Charms-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2589_Red-Beaded-Phone-Charms-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2589_Red-Beaded-Phone-Charms-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2588",
+      "sku": "PEACHES-2588",
+      "name": "Grey Purple and Blue Crystal Phone Charm Assortment",
+      "category": "Accessories",
+      "folder": "2588_Blue-Beaded-Phone-Charms-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "ea992b4ce64ce0feea01ce736fe2766a029b81b25dcebb17e7de27330cb31fdb",
+      "evidence_prompt_excerpt": "h512square fullview contains ALL THREE sourcephonecharms onwhitecards, neveroneitempercell. Preserve exactcount3,identity,beadpattern,shapes,colours,goldhardwareandloopshape. Removehand,shop,plasticbags,priceoverlay. Eachloopattachedtogoldkeyring throughsourcefittings. The 3 actualloops:1smokygrayclear+champagnegold smallfacetedbeads withlargerovaliridescentcleargray accentbeads,2purplepink+champagnegold smallfacetedbeads withlargerovaliridescentclear accentbeads,3turquoiseblue+champagnegold smallfacetedbeads withlargerovaliridescentclear accentbeads. Preserve allthreecolourways. Nopearls,noheart,noaddedpendants. Detailmacro realturquoise/champagnefacetedbeadsequencewithlargeriridescentoval.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2588_Blue-Beaded-Phone-Charms-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2588_Blue-Beaded-Phone-Charms-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2588_Blue-Beaded-Phone-Charms-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2588_Blue-Beaded-Phone-Charms-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2588_Blue-Beaded-Phone-Charms-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2587",
+      "sku": "PEACHES-2587",
+      "name": "Grey Pink and Purple Beaded Phone Charm Assortment",
+      "category": "Accessories",
+      "folder": "2587_Pastel-Beaded-Phone-Charms-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "e176b0e590d85186806d7932af5912f239821ded8a021064e84d980c9199ca6f",
+      "evidence_prompt_excerpt": "ad Phone Charms';cell6bottom-rightblankcream. Each512square fullview contains ALL THREE sourcephonecharms onwhitecards, neveroneitempercell. Preserve exactcount3,identity,beadpattern,shapes,colours,goldhardwareandloopshape. Removehand,shop,plasticbags,priceoverlay. Eachloopattachedtogoldkeyring throughsourcefittings. The3actualloops:1SMOKYGRAYsmallfacetedbeads andlargerroundcleargraybeads,2PALEPINKsmallfacetedbeads andlargerroundpalelemontranslucentbeads,3PURPLEsmallfacetedbeads andlargerrounddarkiridescentgreenbluebeads. Delicategoldtinyspacers. Preserveallthreecolourwaysandbeadsizes/patterns. Nopearls,noheart,noaddedpendants. Detailmacro purplecrystalsandlargerroundiridescentbluegreenbead.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2587_Pastel-Beaded-Phone-Charms-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2587_Pastel-Beaded-Phone-Charms-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2587_Pastel-Beaded-Phone-Charms-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2587_Pastel-Beaded-Phone-Charms-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2587_Pastel-Beaded-Phone-Charms-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2586",
+      "sku": "PEACHES-2586",
+      "name": "Transparent Window Gift Bag Pack Assortment",
+      "category": "Bags & Wallets",
+      "folder": "2586_Large-Transparent-Gift-Bags-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Five flatpacked transparent-window giftbag packs, pink/tan/black/red/white",
+      "evidence_prompt_sha256": "91403a0627b36b2f16ea0b4ef6faedbf128d1e7ba67ad95b5bdeb4972dabacca",
+      "evidence_prompt_excerpt": "RAFT TAN, BLACK, RED, WHITE; onepackeach colour. Each rectangular paper-frame giftbag has bigrounded-rectangle TRANSPARENT plastic window panel and matching satinribbon handles, flatpacked insideclearouterpackaging. Preservefivepacks and sourceflatfolded rectangularform; do not turn into rigidboxes or sixbags. In cells1/2/3/5 ALLFIVE differentcolouredpacks mustbevisible together, no singlebagonly andno duplicatedcolour. Lifestyle flatlay on giftwrappingtable, notfilled/inventedbags. Remove oldpricebanner/storefloor and sticker. Macro closecrop of actualRED satinhandle at redpaperframe/clearwindowjunction. Promotionalheading exactTransparent Gift Bags; no quantityclaim beyondvisiblefivepacks.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2586_Large-Transparent-Gift-Bags-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2586_Large-Transparent-Gift-Bags-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2586_Large-Transparent-Gift-Bags-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2586_Large-Transparent-Gift-Bags-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2586_Large-Transparent-Gift-Bags-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2585",
+      "sku": "PEACHES-2585",
+      "name": "Layered Fabric Flower Hair Clip Assortment",
+      "category": "Hair Accessories",
+      "folder": "2585_Layered-Flower-Hair-Clips-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Twelve layered fabric flower hairclips, two cards of six, source paired colours",
+      "evidence_prompt_sha256": "0ff2488245c075896fc9f59982fdf9724283dbbbbeedbe4bfd0b428830aff3ac",
+      "evidence_prompt_excerpt": "hite hangingcards, SIXflowerspercard. Pairedcolourrows across twocards: top2magenta-purple flowerswithdarkgraygreencentres, next2white-peachflowerswithorangecentres, next2pinkflowersyellowcentres, next2whiteflowerspalepinkcentres, next2deepburgundyflowersyellowcentres, bottom2pinkwhitegradientflowersyellowcentres. Sourcepetals are irregularthinlayeredfabric,daisy/chrysanthemum-like, notplasticroundedflatdaisies. PreserveALLTWELVEflowers together in fullviews1/2/3/5, twowhitecardsand6rows, not6flowers. Eachpairdifferentcolour. Remove hand/shop/pricebanner. Detail standalone tightmacro of realmagenta-layeredpetals/darkgraygreen centre andfabrictexture. AccurateheadingLayered Flower Hair Clips.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2585_Layered-Flower-Hair-Clips-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2585_Layered-Flower-Hair-Clips-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2585_Layered-Flower-Hair-Clips-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2585_Layered-Flower-Hair-Clips-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2585_Layered-Flower-Hair-Clips-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2584",
+      "sku": "PEACHES-2584",
+      "name": "Pastel Rose Hair Clip Assortment",
+      "category": "Hair Accessories",
+      "folder": "2584_Pastel-Flower-Hair-Clips-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Twelve rose-shaped hair clips on two six-flower cards, pink/white/pink/blue/purple/peach sequence",
+      "evidence_prompt_sha256": "490d07382be2e36172451db7743d72e251fdb025a710948f79982e0e5e0ed3d2",
+      "evidence_prompt_excerpt": "ews show exactly TWELVE flower clips on TWO long white cards each with SIX single flowers in one vertical column. All twelve distinct flowers visible, no overlap hiding count. Keep all inside each full-view cell with margin. Photoreal website-ready. Source rose-shaped flower hair clips have soft fabric rose centres and scalloped slightly glittery outer petals with small green fabric leaves. Each card six flowers in exact order: PINK, WHITE/CREAM, PINK, BLUE, PURPLE, PALE PEACH. Thus assortment totals4pink,2white,2blue,2purple,2peach =12. Show two columns of six matching source, no burgundy/yellow/mint additions. Preserve rose type and colours. Macro close real blue rose petal and green leaf.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2584_Pastel-Flower-Hair-Clips-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2584_Pastel-Flower-Hair-Clips-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2584_Pastel-Flower-Hair-Clips-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2584_Pastel-Flower-Hair-Clips-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2584_Pastel-Flower-Hair-Clips-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2583",
+      "sku": "PEACHES-2583",
+      "name": "Ruffled Fabric Flower Hair Clip Assortment",
+      "category": "Hair Accessories",
+      "folder": "2583_Fabric-Flower-Hair-Clips-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Twelve ruffled fabric flower clips on two six-flower cards, pink/burgundy/white/mint/yellow/cream",
+      "evidence_prompt_sha256": "7263d00a8052ca61257c35fdbe80d770b2710e6f0c765047792ca3e521950d8b",
+      "evidence_prompt_excerpt": "ower clips on TWO long white cards each with SIX single flowers in one vertical column. All twelve distinct flowers visible, no overlap hiding count. Keep all inside each full-view cell with margin. Photoreal website-ready. Source has soft ruffled fabric flower hair clips, rounded broad layered petal flowers with crinkled texture (not tightly coiled roses). Each long card SIX flowers in order PINK, BURGUNDY RED, PALE WHITE/PINK, MINT GREEN, YELLOW, CREAM/BLUSH. Two same-colour sequences across two cards yields exactly TWO of each colour and12flowers total. Preserve rounded layered fabric construction and source colours; no blue/purple additions. Macro tight actual pink ruffled petal texture.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2583_Fabric-Flower-Hair-Clips-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2583_Fabric-Flower-Hair-Clips-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2583_Fabric-Flower-Hair-Clips-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2583_Fabric-Flower-Hair-Clips-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2583_Fabric-Flower-Hair-Clips-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2582",
+      "sku": "PEACHES-2582",
+      "name": "Bright Layered Flower Hair Clip Assortment",
+      "category": "Hair Accessories",
+      "folder": "2582_Bright-Flower-Hair-Clips-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "ff23870363941e0306b60ae8a9a03bfa049fa34739342ffcd574c49234171032",
+      "evidence_prompt_excerpt": "aturaldesk lifestyle showing wholeassortment. Bottomrow tightrealpart macroonly, promotional with accurateheading, unusedblankcream. Exactboundaries x512,1024,y512,no gutters/borders. Subject EXACTLY TWELVE large fabric chrysanthemum/dahlia FLOWER HAIRCLIPS on TWO white longcards, SIX on each card. Arrange eachcard verticalsixflowers in original sequence top-to-bottom PINK,PURPLE,PALEYELLOW,PINK,PURPLE,PINK. Totals6pink,4purple,2yellow. Eachflower has pointed layered fabricpetals and subtle yellow/orange centre. Fullviewcells show TWO cards together all12flowers countable, no extras,no altered flowerstyle. Macro tightpink petals/yellowcentre from originalflower. Heading 'Flower Hair Clips'.\n",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2582_Bright-Flower-Hair-Clips-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2582_Bright-Flower-Hair-Clips-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2582_Bright-Flower-Hair-Clips-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2582_Bright-Flower-Hair-Clips-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2582_Bright-Flower-Hair-Clips-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2581",
+      "sku": "PEACHES-2581",
+      "name": "Shaker Keychain Assortment",
+      "category": "Accessories",
+      "folder": "2581_Mixed-Character-Keyrings-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "9f2d7d4d4729af19a381363a273502054b0db9750bc9b1691244e67b556822d7",
+      "evidence_prompt_excerpt": "LVE acrylic liquid-shaker keychains, preserve EACH of12distinct original designs and matching colourful rubberstrap/goldsplitring,one keychainperoriginal grid position. Use4rows3columns in eachfullviewcell, copied source shapes row1pink-square/yellow-star/blue-bear;row2red-rounded-rectangle/multicolour-star/green-crescent;row3pink-circle/pink-small-square/red-donut;row4orange-paw/purple-mousehead/pastel-jar. Preserve these12silhouettes,colourfill,star/glitter/beadmix,matchingstraps. Do not substitute generic unrelated charms or duplicate designs. Detailtightoriginalyellowstaracrylicshell/glitter only. Heading 'Shaker Keychain Assortment'. Avoid oldprice12 claimintext;visible12actualdesigns.\n",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2581_Mixed-Character-Keyrings-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2581_Mixed-Character-Keyrings-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2581_Mixed-Character-Keyrings-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2581_Mixed-Character-Keyrings-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2581_Mixed-Character-Keyrings-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2579",
+      "sku": "PEACHES-2579",
+      "name": "Fruit Lip Balm Display Assortment",
+      "category": "Beauty & Personal Care",
+      "folder": "2579_Character-Hair-Accessories-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "3ab3bf8620ae4640426dd4e42a3fea5d101e5c63c7e66b92b7bdce74b08f8112",
+      "evidence_prompt_excerpt": " exact original productcount/identity/shapes/colours/packaging. Actualproduct is ONE displaycard of18small fruitlipbalm tubes, NOT hairaccessories. Preserve original white quiltedrectangular cardandredyellowheader HIanxin Lipbalm TX3006 with fruitart.18tubes total exactly2columns9rows: leftcolumn top3pinkstrawberry,next3orange,next3yellowpineapple; rightcolumn top3greenapple,next3pinkredcherry,next3purplegrape. Whitecaps, allhorizontal angledslightly asoriginal, sixgroups3each. Everyfullviewmustshow18distincttubes and entireheader. Macro tightcrop realstrawberryprintedlipbalmtube andwhitecap, do not open cap. Promotionalheading \"Fruit Lip Balm Assortment\". No unsupportedbenefitclaims/prices.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2579_Character-Hair-Accessories-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2579_Character-Hair-Accessories-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2579_Character-Hair-Accessories-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2579_Character-Hair-Accessories-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2579_Character-Hair-Accessories-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2578",
+      "sku": "PEACHES-2578",
+      "name": "Fruit Cosmetic Stick Display Assortment",
+      "category": "Beauty & Personal Care",
+      "folder": "2578_Colourful-Cosmetic-Tubes-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "725a3a0baba864f9b19b979029770b4b86ddc7fda2c8b56c18c0e712b3ab3804",
+      "evidence_prompt_excerpt": " productcount/identity/shapes/colours/packaging. Actualproduct ONEoriginal LIDANXIU FruitLipstickChange displaybox holding12cylindrical cosmeticsticks with domedclosedcaps, sixcolours2each: yellow2,skyblue2,red2,orange2,purple2,pink2. Keeporiginal3rows4columns: backrow yellow,yellow,skyblue,skyblue; middlerow red,orange,purple,pink; frontrow red,orange,purple,pink. Exactly12distincttubecaps visible everyfullview; preserve fruitprinted colourpackaging andpink/blueboxwithstrawberrycartoonheader. Do not add lipstickbullets/openproducts. Macro tightactualpinkstrawberrytube cap/printedfruit; promotionalheading \"Fruit Cosmetic Stick Assortment\". Preserveoriginalbrand/fruitprints, noinventedclaims.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2578_Colourful-Cosmetic-Tubes-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2578_Colourful-Cosmetic-Tubes-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2578_Colourful-Cosmetic-Tubes-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2578_Colourful-Cosmetic-Tubes-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2578_Colourful-Cosmetic-Tubes-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2577",
+      "sku": "PEACHES-2577",
+      "name": "Decorative Beaded Saree Pin Display Assortment",
+      "category": "Accessories",
+      "folder": "2577_Hair-Clip-Display-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "1849fc9f457bc1bdcca4c0d2cb8d0e93adeee9af955f8f708c14c7aa8dfbd7a5",
+      "evidence_prompt_excerpt": "urs andgoldtonehardware, no inventedcards, noremoval/replacement. Can retainoriginalsupportdisplayframe toavoid changingproducts, crop only peripheral shop clutter. Do not invent cleanreplacementcards, preserve eachprintedcard andsmallpins. No price overlays innewviews. Actualsource is goldtone decorativebeaded safety/sareepins onSIXTEEN foregroundlongwhitecards, EIGHTtoprow+EIGHTbottomrow. Toprow mixedsmallbeads, pastelpairedtexturedbeads,mixedroundbeads,blackwhitebeads,goldspacers,mixedconebe\u200b\u200bads,tripletheartbeads,mixedovalbeads; bottomrow assortedrhinestonepins andbeadedsafetypins. Keep all16cards together ineachfullview. Detailmacro sourcepinwiththreepinkheartbeads fromtoprownear-right.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2577_Hair-Clip-Display-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2577_Hair-Clip-Display-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2577_Hair-Clip-Display-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2577_Hair-Clip-Display-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2577_Hair-Clip-Display-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2576",
+      "sku": "PEACHES-2576",
+      "name": "Gem and Beaded Saree Pin Display Assortment",
+      "category": "Accessories",
+      "folder": "2576_Saree-Pin-Display-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "d95855fa9087f2431beba72a98ac22ae6bdb18a38e025aee6157fc7d008e85cb",
+      "evidence_prompt_excerpt": "nt, pinquantity, pinarrangement, shapes, beadcolours andgoldtonehardware, no inventedcards, noremoval/replacement. Can retainoriginalsupportdisplayframe toavoid changingproducts, crop only peripheral shop clutter. Do not invent cleanreplacementcards, preserve eachprintedcard andsmallpins. No price overlays innewviews. Actualsource is decorativegoldtone sareepins. FIFTEEN foregroundwhitecards: SEVENtopcards ornate colouredgem/rhinestoneclips (floral,spray,butterfly,leaf designs), EIGHTbottomlongcards beadedgoldtonesafetypins in assortedcolours. Preserve7topcardsand8bottomcards together ineachfullview, allpins originalquantityandarrangement. Detailmacro actualbutterflyrhinestonepin fromtoprow.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2576_Saree-Pin-Display-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2576_Saree-Pin-Display-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2576_Saree-Pin-Display-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2576_Saree-Pin-Display-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2576_Saree-Pin-Display-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2575",
+      "sku": "PEACHES-2575",
+      "name": "Triple Heart Bead Saree and Abaya Pin Assortment",
+      "category": "Accessories",
+      "folder": "2575_Bright-Flower-Saree-Pins-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Twelve heart-bead saree/abaya safety pins",
+      "evidence_prompt_sha256": "4b9a61456935fd13236a55deaaf846d665bd10287871cbf4ef6194bda84a28d2",
+      "evidence_prompt_excerpt": "3heartsperpin, goldsafety-pin wire/curvedclasp shape. Fullviews1/2/3/5 show ALLTWELVE entirepins together, cardcanbe laid horizontal forfit but all12countable, no flowerbrooch substitution. Retain sourcebeadcolours. Remove hand/priceoverlay. Detail tight standalone crop of theactualREDheartbead and rhinestonespacers on goldwire. CORRECTIVE LAST ATTEMPT only promotional cell: prior bottom-middle had11pins not12. Bottom-middle mustshow TWELVE pins with SIX colourgroups, TWO pinseach colour; specifically twoopalTURQUOISE pins, twopalepink,twoiridescentblack,twolavender,twoblue,twored. Arrange12rows vertically nothorizontal to avoid droppingone. Exactly12goldclasps36hearts. Keep accurateheading.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2575_Bright-Flower-Saree-Pins-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2575_Bright-Flower-Saree-Pins-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2575_Bright-Flower-Saree-Pins-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2575_Bright-Flower-Saree-Pins-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2575_Bright-Flower-Saree-Pins-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2574",
+      "sku": "PEACHES-2574",
+      "name": "Heart and Pearl Saree and Abaya Pin Assortment",
+      "category": "Accessories",
+      "folder": "2574_Flower-Saree-Pins-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Twelve heart-bead saree/abaya safety pins",
+      "evidence_prompt_sha256": "343bf2f827af124ef8481c496b0d7dcd73dab5b5d4a082794ae3d636ae272e4e",
+      "evidence_prompt_excerpt": "al product TWELVE gold-tone decorative safety-pins for saree/abaya on ONE longwhite card. EVERY pin has ONE large translucent faceted HEART-shaped central bead flanked by TWO small white-iridescent roundPEARLbeads and goldspacers. Source12heartcolours fromtop:clear,black,red,red,darkolivebrown,darkolivebrown,amber,amber,purple,purple,amber,amber. Fullviews1/2/3/5 must show allTWELVE wholepins together with all12goldcurvedclasps/heartcentres/24pearls; neatly space oncard nooverlap, no flowersorhairclips. Preserve heartfacets,sourcecolours and pearlarrangement. Remove hand/priceoverlay. Detail tightstandalone macro of oneactualamberfacetedheart with adjacentiridescentwhitepearl and goldspacer.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2574_Flower-Saree-Pins-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2574_Flower-Saree-Pins-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2574_Flower-Saree-Pins-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2574_Flower-Saree-Pins-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2574_Flower-Saree-Pins-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2573",
+      "sku": "PEACHES-2573",
+      "name": "Pearlescent Cube Bead Saree Pin Assortment",
+      "category": "Accessories",
+      "folder": "2573_White-Saree-Pins-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Twelve gold saree/abaya safety pins with three pearlescent rounded-cube beads and gold rhinestone spacers each",
+      "evidence_prompt_sha256": "624581749cd2232d7dece6fa0be6c7c267fd7dd19c1b6a73246d29ca09c81b4c",
+      "evidence_prompt_excerpt": "n white backing card, every pin visible and complete inside own cell. Each pin exactlyTHREE beads with tiny gold/rhinestone spacers, roundwire safety-pinloop on one end and catchend on other. Photoreal website-ready. Beads are rounded irregular cube/barrel-like pearlescent iridescent glass beads, NOT hearts, not simple spherical pearls. Preserve source36beads across12pins: pink/red pearlized rows, dark smoky iridescent grey rows, pale champagne/white rows, emerald green rows, and multicolour pearlized rows as photographed. Original mix mostly white/cream/green with top pink and charcoal. No plain silver pins or heart shapes. Macro on actual white/green pearlescent cube bead plus gold spacer.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2573_White-Saree-Pins-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2573_White-Saree-Pins-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2573_White-Saree-Pins-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2573_White-Saree-Pins-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2573_White-Saree-Pins-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2572",
+      "sku": "PEACHES-2572",
+      "name": "Marbled Heart Bead Saree Pin Assortment",
+      "category": "Accessories",
+      "folder": "2572_Colourful-Stone-Saree-Pins-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Twelve gold saree safety pins with three multicoloured marbled puffed-heart beads each",
+      "evidence_prompt_sha256": "1c18caaa316c8b920de4777b0cda50aec459e3ebd837833626f01ba07f7b6cfc",
+      "evidence_prompt_excerpt": "ed as12horizontal rows on ONE plain white backing card, every pin visible and complete inside own cell. Each pin exactlyTHREE beads with tiny gold/rhinestone spacers, roundwire safety-pinloop on one end and catchend on other. Photoreal website-ready. Beads are distinctly puffed HEART-SHAPED marbled resin/stone-look beads, exactlyTHREE hearts on each pin. Source colour palette emerald green, sky blue, orange/peach, burgundy, cream and onewhite/grey marbled heart. Preserve source mixed three-heart colour combinations rather than making every pin same colour. Twelve pins36hearts total. Do not substitute round beads or flowers. Macro tight real marbled green heart, gold spacer and gold pin wire.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2572_Colourful-Stone-Saree-Pins-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2572_Colourful-Stone-Saree-Pins-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2572_Colourful-Stone-Saree-Pins-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2572_Colourful-Stone-Saree-Pins-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2572_Colourful-Stone-Saree-Pins-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2570",
+      "sku": "PEACHES-2570",
+      "name": "Twin Heart Bead Saree Pin Assortment",
+      "category": "Accessories",
+      "folder": "2570_Pink-Saree-Pins-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "6f8495ec2066a81936eac1134b0ada34458dee6f63f4911d399d54e277889f3c",
+      "evidence_prompt_excerpt": "atorring. Original12rows: twobluepairs, twored/magentapairs, twolilacpairs, twocream/whitepairs, twopeachpairs, twohotpinkpairs. Preserve2hearts/pin and12pins24heartstotal. Macro tightactualiridescentpinkheart scrolltexture andrhinestoneseparator. Keepbothheartsononepin, do notaddthirdheart. CORRECTIVE COUNT: previousimage11pins becausehotpinkhadonlyONErow. MUSTSHOW12pins=24hearts: row1blueblue,row2blueblue,row3redred,row4redred,row5lilaclilac,row6lilaclilac,row7whitewhite,row8whitewhite,row9peachpeach,row10peachpeach,row11hotpinkhotpink,row12hotpinkhotpink. ExactlyTWELVE separatehorizontalpins oncard inALLfourfullviews. Fitextra12throwwithinimage,donotcutbottom. Macrocanremainpink2heartpin.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2570_Pink-Saree-Pins-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2570_Pink-Saree-Pins-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2570_Pink-Saree-Pins-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2570_Pink-Saree-Pins-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2570_Pink-Saree-Pins-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2569",
+      "sku": "PEACHES-2569",
+      "name": "Dark Cat Eye Bead Saree and Abaya Pin Assortment",
+      "category": "Accessories",
+      "folder": "2569_Dark-Saree-Pins-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "44cc6346a14d9d516ea38e26a5f560e63a2babd658436011e65d4ac2e9034d5f",
+      "evidence_prompt_excerpt": "und ALL12PINS;cell2top-middle lavender/creamstyled ALL12PINS;cell3top-right lifestylescarf/dresserflatlay ALL12PINS;cell4bottom-left standalone tightrealpinmacro;cell5bottom-middle promotional ALL12PINS heading 'Saree & Abaya Pins';cell6bottom-rightblankcream. Noindividualpinfullviews. Showfullcardwithall12pinrows within each512squarecell, sourcewhiteprintedcard. Removehand,shop,priceoverlayandplasticbag. Exact top-to-bottom12rows:2EMERALDGREEN,2SILVERYGRAY,2DEEPRED,2BRONZEBROWN,2COBALTBLUE,2BLACK. Eachrowfourroundedcatseye/metallustrobeads, samecolouracrosseachrow. Sixcolours2rowseach=12rows,48beads. Preservegoldpinclosedlooponeendclaspotherend. Detailmacrogreenfourbeadpinrhinestonespacers.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2569_Dark-Saree-Pins-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2569_Dark-Saree-Pins-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2569_Dark-Saree-Pins-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2569_Dark-Saree-Pins-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2569_Dark-Saree-Pins-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2568",
+      "sku": "PEACHES-2568",
+      "name": "Marbled Four Bead Saree Pin Assortment",
+      "category": "Accessories",
+      "folder": "2568_Round-Saree-Pins-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "c66860c90e0bba6abb8813c87eff282a058ce1f49bb4ec1b0187f0a56722d89c",
+      "evidence_prompt_excerpt": "2top-middle lavender/creamstyled ALL12PINS;cell3top-right lifestylescarf/dresserflatlay ALL12PINS;cell4bottom-left standalone tightrealpinmacro;cell5bottom-middle promotional ALL12PINS heading 'Saree & Abaya Pins';cell6bottom-rightblankcream. Noindividualpinfullviews. Showfullcardwithall12pinrows within each512squarecell, sourcewhiteprintedcard. Removehand,shop,priceoverlayandplasticbag. Exact top-to-bottom12rows,4beadspereach:BRONZE,BLACK,RED,BLACKIRIDESCENT,PEARLYWHITE/GOLD,GRAYIRIDESCENT,BRONZE,BLACK,RED,BLACKIRIDESCENT,PEARLYWHITE/GOLD,GRAYIRIDESCENT. Glossyroundmarbled/metallustrobeads, thinrhinestonespacers. Twelvepins48beads. Detailmacro actualbronze4roundbeadpinthinrhinestonespacers.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2568_Round-Saree-Pins-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2568_Round-Saree-Pins-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2568_Round-Saree-Pins-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2568_Round-Saree-Pins-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2568_Round-Saree-Pins-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2567",
+      "sku": "PEACHES-2567",
+      "name": "Chrome and Gold Bead Saree Pin Assortment",
+      "category": "Accessories",
+      "folder": "2567_Clear-Saree-Pins-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Twelve gold saree safety pins with four metallic round beads each, alternating gunmetal chrome and gold rows",
+      "evidence_prompt_sha256": "2b1aeff05e31bb61c555e8361f10f7a66c3094269c5adf7246254ace6ea179c9",
+      "evidence_prompt_excerpt": "fety pins in12horizontal rows on ONE long white backing card. Each pin exactlyFOUR round beads separated by small gold/rhinestone spacer rings, gold safety-pin wire loop one end/catchotherend. Preserve source bead type,colours,count. Every pin complete and visible inside full-view cell with margin. Photoreal website-ready. Source12pins alternate SIX reflective GUNMETAL/SILVER-CHROME bead pins and SIX shiny GOLD bead pins down the card. Four metallic round spheres per pin,48beads total. These are reflective metallic coloured bead spheres, NOT transparent crystal beads, not white pearls or matte black. Keep chrome row1,goldrow2 alternating down to goldrow12. Macro of chrome sphere/gold spacer.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2567_Clear-Saree-Pins-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2567_Clear-Saree-Pins-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2567_Clear-Saree-Pins-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2567_Clear-Saree-Pins-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2567_Clear-Saree-Pins-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2565",
+      "sku": "PEACHES-2565",
+      "name": "Pastel Four Bead Saree and Abaya Pin Assortment",
+      "category": "Accessories",
+      "folder": "2565_Printed-Saree-Pins-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Twelve four-small-cat-eye-bead saree/abaya safety pins, source pastelcoloursequence",
+      "evidence_prompt_sha256": "e3943c1c7b0af2925166788c73681aa78e2d2226a0464271da45f2dd9aeb75f1",
+      "evidence_prompt_excerpt": "old-tone decorative safety-pins on ONE longwhitecard. Each pin has FOUR equallysmall round translucent marble/cateye glassbeads with thinrhinestonegoldspacers, total48beads. Source top-to-bottom pincolour sequence:paleyellow,skyblue,coralpinkred,creamchampagne,palelavender,skyblue,white,paleyellow,skyblue,coralpinkred,palelavender,white. Preserve12pins4beadseach; no hearts,noflowers,notlargecentralbeads. AllTWELVE pins fullyvisible separatelytogether in eachfullview1/2/3/5, longwhitecardwith12parallelrows, do not dropbottompin. Keep samegoldwirelargecurvedclasp andoppositecircleloop. Detail standalone tight macroof actualroundskybluebead andgoldrhinestonespacer. Remove hand/shop/pricebanner.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2565_Printed-Saree-Pins-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2565_Printed-Saree-Pins-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2565_Printed-Saree-Pins-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2565_Printed-Saree-Pins-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2565_Printed-Saree-Pins-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2564",
+      "sku": "PEACHES-2564",
+      "name": "Marbled Round Bead Saree and Abaya Pin Assortment",
+      "category": "Accessories",
+      "folder": "2564_Bright-Saree-Pins-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Twelve marbled-round-bead saree/abaya safety pins, largecentre andtwosmallerbeads each,sourcecolourorder",
+      "evidence_prompt_sha256": "dfc2d6cf61f69b2f296de18a5b066968d2b9ef7ad5078c7b0f256b355ee11889",
+      "evidence_prompt_excerpt": "hy sufficient. Actual product TWELVE gold-tone decorative safety-pins on ONE longwhitecard. Each pinhas THREE roundMARBLED glassbeads: ONElargercentralroundbead flankedbyTWOsmallersamecolourroundbeads, goldspacers. Eachtrio onecolourwithfinewhite/blackmarbledswirls. Exact source top-to-bottom twelvepincolours:RED,NAVYBLUE,TURQUOISEBLUE,DARKBROWN,WHITE,RED,NAVYBLUE,TURQUOISEBLUE,DARKBROWN,WHITE,RED,NAVYBLUE. Preserveall12pins36beads anddistinctsizes/colours/goldcurvedclasps. Fullviews1/2/3/5 mustshow ALLTWELVE wholepins together, not11. Nothearts,notflowerbrooches,not4equalbeads. Detail tight standalone macroof realcentralREDmarbledroundbead andgoldspacer, notfullpin. Remove hand/pricebanner.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2564_Bright-Saree-Pins-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2564_Bright-Saree-Pins-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2564_Bright-Saree-Pins-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2564_Bright-Saree-Pins-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2564_Bright-Saree-Pins-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2562",
+      "sku": "PEACHES-2562",
+      "name": "Bright Four Bead Saree and Abaya Pin Assortment",
+      "category": "Accessories",
+      "folder": "2562_Pastel-Saree-Pins-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "e3ee444d042d62abd4decc7b88b9fdd1f1e13a5f3e11405e1bd4879761743e47",
+      "evidence_prompt_excerpt": "ya Pins',unusedblankcream. Exactboundaries512/1024/512,no gutters/borders. Actualbeads ROUND glossy coloured beads,4eachpin. Exact12pins top-to-bottom colours PURPLE,YELLOW,WHITE,RED,TURQUOISEBLUE,PURPLE,WHITE,RED,TURQUOISEBLUE,PURPLE,WHITE,RED. Totals3purple1yellow3white3red2blue. Do notloseyellowpin. Detail tightpurple4roundbeads/clearspacers/goldwire. CORRECTIVE: priorfullviewcells01/02/03passed andwillbekept. EXACTbottomLEFTcell(x0to512,y512to1024) mustbe TIGHT CLOSEUP OFONEPURPLEPIN'SFOURBEADS/SPACERS, do notshowmanypins. EXACTbottomMIDDLEcell(x512to1024,y512to1024) must showall12pins/cardplusheading, NOTjusttext. BottomRIGHTblankunused. Do notswapbottomcells. ONLYonecorrectiveallowed.\n",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2562_Pastel-Saree-Pins-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2562_Pastel-Saree-Pins-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2562_Pastel-Saree-Pins-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2562_Pastel-Saree-Pins-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2562_Pastel-Saree-Pins-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2561",
+      "sku": "PEACHES-2561",
+      "name": "Colourful Four Bead Saree and Abaya Pin Assortment",
+      "category": "Accessories",
+      "folder": "2561_Colourful-Saree-Pins-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "076d7baceca353b4729f9224687475caaa9f9994cb43be7f48de4781566361cf",
+      "evidence_prompt_excerpt": "act original productidentity/count/shapes/colours. Removehand,outerbag/cartonstockbackground/wholesalepriceoverlay. No crossingboundaries or unrelatedproducts. ActualproductONEwhitecardholding12goldtonesaree/abayapins, eachFOURroundcats-eye glossybeads with3rhinestoneseparatorrings. Preserve12horizontalpinrows exactlyoriginalcolourorder: red,palelime,turquoise,grey,magenta,blue,red,palelime,turquoise,grey,magenta,blue. All4fullviews show12distinctpins48roundbeadstotal, noheartshapes. Preservegoldwireclosure/loopshape. Macro tightlyrealpartturquoisecatseyeroundbeadanddiamanteseparator. Promotionalheading \"Colourful Saree & Abaya Pins\". Originalprintedmodelheader maystay, noinventedextra pins.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2561_Colourful-Saree-Pins-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2561_Colourful-Saree-Pins-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2561_Colourful-Saree-Pins-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2561_Colourful-Saree-Pins-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2561_Colourful-Saree-Pins-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2560",
+      "sku": "PEACHES-2560",
+      "name": "Lip Colour Tube Display Assortment",
+      "category": "Beauty & Personal Care",
+      "folder": "2560_Red-Cosmetic-Tubes-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "0adb427ada43ba79abca1b948a3c5f2812eedda418d6ae3603d6dcfaa16a2607",
+      "evidence_prompt_excerpt": "ixcolourgroups repeated4rows; originalsqueezetube shape andwhiteupperbody,lipgraphic,colourcap. No openlipstickbullets. Everyfullviewincludesone24tubedisplayboxonly. Macro tightrealfrontredlipgraphicprinted squeezetube andcap, no inventedusage. Promotionalheading \"Lip Colour Tube Assortment\" withoutunsupportedclaims. CORRECTIVECOUNT: previousimagehadtoomanyrows. Exactly24tubes=FOURROWSofSIXTUBES, not5or6rows. Showall24tubes separatedclearlyby6columnsand4depthrows. ONLYTHREErows ofcrimpedtops behindthefrontrow, so front6+back18=24total. Do notcountthe3printedillustrationsonheaderasphysicaltubes. Entireboxwith24distincttubesfitsineachcell; makeboxcompact. Macro canbecloseprintedlipgraphiconly.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2560_Red-Cosmetic-Tubes-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2560_Red-Cosmetic-Tubes-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2560_Red-Cosmetic-Tubes-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2560_Red-Cosmetic-Tubes-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2560_Red-Cosmetic-Tubes-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2559",
+      "sku": "PEACHES-2559",
+      "name": "Six Shade Concealer Set",
+      "category": "Beauty & Personal Care",
+      "folder": "2559_Black-Cosmetic-Tubes-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "b6904b98d559098b67d12baa41d796d1688fcf4974f9e4a21444fb44582a6e18",
+      "evidence_prompt_excerpt": "tom-left standalone tightmacroactualpackaging/productdetail;cell5bottom-middle fullproductpromotional accurateheading;cell6bottom-rightblankcream. No stocksubstitutes,no inventedclaims/benefits.Actualproduct ONEblackcardboard six-shade concealertubeset, exactlySIXsqueezetubeswithblackcaps inoriginalblacktray. Tube shades yellow/mustard, palebeige, lighttan, warmgoldentan, warmmediumbrown, darkbrown. Text existing PRO.conceal HDhigh-definitionconcealer andBLACKOPALPOP trayretainassource; don'treplacebrandwithunrelated. Entire6tubesinbox together eachfullview, tubesforeground, backgroundboxesremoved. Detailmacro2actualconcealertubelabelsblackcapandcolourtube. Heading 'Six-Shade Concealer Set'.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2559_Black-Cosmetic-Tubes-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2559_Black-Cosmetic-Tubes-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2559_Black-Cosmetic-Tubes-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2559_Black-Cosmetic-Tubes-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2559_Black-Cosmetic-Tubes-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2558",
+      "sku": "PEACHES-2558",
+      "name": "Dark Brown 6.0 Hair Dye",
+      "category": "Beauty & Personal Care",
+      "folder": "2558_Black-Henna-Cones-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "777d4a8ee07b5914d4bd0cc1b2e74eb4fdd5e5995f07607a44af5793d6c33e40",
+      "evidence_prompt_excerpt": "l1top-left fullproductwhitebackground;cell2top-middle fullproductlavender/creamstyled;cell3top-right fullproductlifestylevanity;cell4bottom-left standalone tightmacroactualpackaging/productdetail;cell5bottom-middle fullproductpromotional accurateheading;cell6bottom-rightblankcream. No stocksubstitutes,no inventedclaims/benefits.Actualproduct ONE rectangularKAIWS HANNAHAIRDYE retailbox shade6.0 DarkBrown, brown/orangeblackpackaging withphotoofwomanlongbrownhair. Preserveexactboxfrontidentitycolours,6.0DarkBrownlabel,brandvisual,existinglabelprint. No hennacones despitewrongfoldername. Oneboxonlyeachfullview. Detailmacroactual6.0DarkBrowntext/hairimageonboxfront. Heading 'Dark Brown Hair Dye'.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2558_Black-Henna-Cones-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2558_Black-Henna-Cones-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2558_Black-Henna-Cones-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2558_Black-Henna-Cones-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2558_Black-Henna-Cones-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2557",
+      "sku": "PEACHES-2557",
+      "name": "Golden Coral 7.43 Hair Dye",
+      "category": "Beauty & Personal Care",
+      "folder": "2557_Brown-Henna-Cones-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "One Hanna hair-dye box shade7.43 Golden Coral",
+      "evidence_prompt_sha256": "88120450193a2fc5e9a3c65cd7fc90543272f11ec63f10700d6b8e48ebcaab64",
+      "evidence_prompt_excerpt": "despitefoldername. Match actualsource packaging: tallbronze/brown/goldcarton, frontphotoof light-skinnedadultwomanwith copper/goldencoral side-swept hair, large7.43 nearupperleft, Golden Coral text, large stylised darkbrandletterswithgoldS atbottom, HANNA HAIR DYE inwhitebelow. Allfullviews1/2/3/5 show ONE SAME WHOLEBOX only. Backgroundshippingcartons/stock arenotpartofproduct; remove hand/priceoverlay/stock and preserveonlyfrontproductbox. No openedcontents/inventedtubes, no unsupportedclaims. Lifestyle onesamebox onhaircarevanity. Detail standalone tightcrop of actual7.43 Golden Coral shadeprint andcopperhairimage oncarton, notretypedunrelatedlabel. PromotionalheadingGolden Coral Hair Dye.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2557_Brown-Henna-Cones-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2557_Brown-Henna-Cones-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2557_Brown-Henna-Cones-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2557_Brown-Henna-Cones-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2557_Brown-Henna-Cones-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2556",
+      "sku": "PEACHES-2556",
+      "name": "Golden Yellow 0.33 Hair Dye",
+      "category": "Beauty & Personal Care",
+      "folder": "2556_Red-Henna-Cones-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "One Hanna hair-dye box shade0.33 Golden Yellow",
+      "evidence_prompt_sha256": "b74a9b114fad6e663b178da21ab92fa1937dd2c07b0d649444f8d2826f29e69b",
+      "evidence_prompt_excerpt": " redhennacones despitefoldername. Match actualsource packaging: tallbronze/brown/goldcarton, frontphotoof adultwomanwithbrightGOLDENYELLOWwavyhair, large0.33 nearupperleft, Golden Yellow text, large stylised darkbrandletterswithgoldS atbottom, HANNA HAIR DYE inwhitebelow. Allfullviews1/2/3/5 show ONE SAME WHOLEBOX only, shade0.33not7.43. Backgroundshippingcartons/stock arenotpartofproduct; remove hand/priceoverlay/stock and preserveonlyfrontproductbox. No openedcontents/inventedtubes,no addedunsupportedclaims. Lifestyle onebox onhaircarevanity. Detail standalone tightcrop of actual0.33 Golden Yellow shadeprint andgoldenhairimage oncarton, notfullbox. PromotionalheadingGolden Yellow Hair Dye.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2556_Red-Henna-Cones-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2556_Red-Henna-Cones-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2556_Red-Henna-Cones-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2556_Red-Henna-Cones-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2556_Red-Henna-Cones-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2555",
+      "sku": "PEACHES-2555",
+      "name": "Bright Red 045 Hair Colour",
+      "category": "Beauty & Personal Care",
+      "folder": "2555_Dark-Henna-Cones-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "ONE sealed Bright Red045 hair dye retail box with red-haired woman printed on brown/gold packaging; NOT henna cones",
+      "evidence_prompt_sha256": "18ceb2ee7009d0615b42cdd418a7634aa798236e6f34a2979ee9625a419ca946",
+      "evidence_prompt_excerpt": "ll with margin. Photoreal website-ready. ACTUAL product is ONE rectangular sealed hair-dye retail BOX with printed woman portrait and vivid long deep bright-red hair; original red/brown/gold packaging with shade045 Bright Red and stylized brand lettering must remain as printed in reference. This is NOT henna cones despite folder name. Preserve box exactly, no replacement hair-dye brand/model, no loose tubes or added duplicate boxes. Full views show ONEbox only; lifestyle beside simple hairbrush on vanity, no additional products. Detail tight real crop of actual BrightRed045 printed hair-colour packaging section. Promo heading Bright Red Hair Colour. Do not invent effectiveness/safety claims.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2555_Dark-Henna-Cones-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2555_Dark-Henna-Cones-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2555_Dark-Henna-Cones-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2555_Dark-Henna-Cones-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2555_Dark-Henna-Cones-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2553",
+      "sku": "PEACHES-2553",
+      "name": "Rose O Love Makeup Book",
+      "category": "Beauty & Personal Care",
+      "folder": "2553_Makeup-Palette-Set-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "df11a9fecf6217da221cbbe36c374e564ef8b079396291c1855308ad6312f73a",
+      "evidence_prompt_excerpt": "ext,keepactualpackaginglabels. No inventedpanlayouts,additionalpans/brushes. ReferenceIGOODCO IG3233 Rose O Love pinkmakeupbook. Preserve cataloguepresentation: upperleft closedpinkrosecover;upperright openbookwithmodelphotoand15OVALeyeshadowpans arranged3columns5rows plus3largefacepansvisibleonrightfold;lowerleft fullyopen15ROUNDeyeshadowpanpage3columns5rows andmodelphotoopposite;lowerrightFaceChartsprintedpagebeside6largeROUNDfacepans2columns3rows. These arealternateviews ofsamepinkbook, retainall4sourcepanelsasonepresentation. Match originalpanorder/colours, pinkcase,roseillustration,modelphotoprint. Detailmacro actualpinkshimmerovalpanandpinkstarspacer. Heading 'Rose O Love Makeup Book'.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2553_Makeup-Palette-Set-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2553_Makeup-Palette-Set-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2553_Makeup-Palette-Set-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2553_Makeup-Palette-Set-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2553_Makeup-Palette-Set-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2552",
+      "sku": "PEACHES-2552",
+      "name": "OAUMD 29 Colour Makeup Book",
+      "category": "Beauty & Personal Care",
+      "folder": "2552_Warm-Tone-Makeup-Palette-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "9450efabbf669f6561e844e8e2a4d2a1e16f176185413fec8508a6b702c19c8d",
+      "evidence_prompt_excerpt": "lay,externalcataloguetext,keepactualpackaginglabels. No inventedpanlayouts,additionalpans/brushes. ReferenceOAUMDpink29colourmakeupbookL7037B. Preserve fullcataloguepresentation: originalpinkcounterdisplaywithsamevisibleclosedbookstock/illustratedpinkgirlbackboard; oneclosedbookonright; onefullyopenbookbelow. Openbookexactly29pans:LEFTmirror beside6smallsquarepansverticaland3largerectanglesvertical, RIGHT20ROUNDeyeshadows4columns5rows, doubleendedspongeapplicatorrightslot. Originalpanorderandcoloursmustmatch, noaddedpans. Preservepinkillustratedgirlclosedcover,OAUMDlabel. Entire3partpresentation ineachfullview. Detailmacro actualroundeyeshadowpans/glittertexture. Heading 'OAUMD Makeup Book'.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2552_Warm-Tone-Makeup-Palette-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2552_Warm-Tone-Makeup-Palette-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2552_Warm-Tone-Makeup-Palette-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2552_Warm-Tone-Makeup-Palette-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2552_Warm-Tone-Makeup-Palette-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2551",
+      "sku": "PEACHES-2551",
+      "name": "OAUMD Pink Makeup Book",
+      "category": "Beauty & Personal Care",
+      "folder": "2551_Colourful-Makeup-Palette-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "483f7ec7cadbc578693e475d47ee5cd774f22e3ae4a2fe526503126c1e73ce3d",
+      "evidence_prompt_excerpt": "style. Bottomrowtight realpart macro of2actualoriginaleyeshadowpans ONLY, promotionalentireassortment+heading,blankcreamunused. Exactboundaries512/1024/512 no gutters/borders. Existingwhitephotoalreadyvalidandwillbepreserved; createother4views faithfully. Subject PINK OAUMD makeupbookgirlcover assortment, separateclosedbookatLEFT ofdisplay. Openbookpinkcasing: LEFT tallmirror,FOURrectangular pans stackedbesideFIVEroundpans vertical;RIGHT20roundpans5rows4columns and one double-endedsponge inrightslot. Keep EXACT4rect+5leftcircle+20rightcircle=29pans,not5rect. Match actualneutralpink/coral/brown/gold,purplecolours. Heading 'OAUMD Pink Makeup Book'. Macro tightrealbronzeandpinkpans,notnewpans.\n",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2551_Colourful-Makeup-Palette-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2551_Colourful-Makeup-Palette-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2551_Colourful-Makeup-Palette-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2551_Colourful-Makeup-Palette-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2551_Colourful-Makeup-Palette-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2550",
+      "sku": "PEACHES-2550",
+      "name": "OAUMD Purple Makeup Book",
+      "category": "Beauty & Personal Care",
+      "folder": "2550_Purple-Makeup-Palette-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "7d42c1b5d1d1c5eaeba46e59b003570ff7b9a14fa50d7c78b40b21e627cb6332",
+      "evidence_prompt_excerpt": "lours. Toprowwhite,lavendercreamstyled,naturalvanitylifestyle. Bottomrowtight realpart macro of2actualoriginaleyeshadowpans ONLY, promotionalentireassortment+heading,blankcreamunused. Exactboundaries512/1024/512 no gutters/borders. Existingwhitephotoalreadyvalidandwillbepreserved; createother4views faithfully. Subject PURPLE OAUMD makeupbookgirl/ballooncover assortment, separateclosedbookatRIGHTofdisplay. Openbookpurplecasing: LEFT tallmirror, SIXroundpans2rows3aboveSIXrectangularpans3rows2;RIGHT20roundpans5rows4 anddoubleendedspongeinrightslot. Exact32pans, matchactualgold/pink/coral/brown/cream/purple. Heading 'OAUMD Purple Makeup Book'. Macro tightrealgold/coralroundpans,notinventedpans.\n",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2550_Purple-Makeup-Palette-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2550_Purple-Makeup-Palette-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2550_Purple-Makeup-Palette-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2550_Purple-Makeup-Palette-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2550_Purple-Makeup-Palette-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2549",
+      "sku": "PEACHES-2549",
+      "name": "OAUMD 33 Colour Makeup Book Palette",
+      "category": "Beauty & Personal Care",
+      "folder": "2549_Pink-Makeup-Palette-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "356ce713d07bf24cc9c017faa47466dccfefacc504d5fd2375a7da8e6488c46c",
+      "evidence_prompt_excerpt": "oks/twoexampleopenbooks below. Keep SAME entirecomposition in eachfullview withoriginalpinkdisplay12bookcount/twofairycovervariantsandtwoopenbooks. Samples illustratebooknotextrasalesquantity; do not inventcovers. Eachopenbook hasleftmirror,12leftrectangularpans(6lip+6face)and21rightrectangularpans(7rows3cols),total33; blackpanframes andsingledualendedspongeapplicator bottomright. Preserve exact warmneutralgold/orange/red/pinkcolourlayout. No extra pans orroundpans. Macro tightrealgoldshimmerrectangularpantexture withblackdividers, nofullbook. Promotionalheading \"OAUMD Makeup Book Palette\" only no unsupportedclaims. Removeoldprice/chineseadvertisingoutsideproduct, retainprintedcovers/header.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2549_Pink-Makeup-Palette-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2549_Pink-Makeup-Palette-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2549_Pink-Makeup-Palette-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2549_Pink-Makeup-Palette-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2549_Pink-Makeup-Palette-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2548",
+      "sku": "PEACHES-2548",
+      "name": "Blue Cosmetic Contact Lens and Case",
+      "category": "Beauty & Personal Care",
+      "folder": "2548_Blue-Contact-Lenses-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "40c7f98afdbb80a15343bbff8fdf676c2227a03a60f283546519b1a7693a81cc",
+      "evidence_prompt_excerpt": "ctpromotionalaccurateheading/blankcream. Keepobjectsinsideeachcell. Preserve actual original product identity/count/shapes/colours. ActualproductONE blue cosmeticcontactlens restinginonewelloftransparentplasticdoublewelllenscase, otherwelllooks empty/translucent; preserve exactsingleblueirisringwithdarkouterrim andclearcentre, caseandlidshape. Do not addsecondbluecontactlens orpackagingbox. Do notshoweyeballs/people or inventpower/healthclaims. White/styled/lifestylefullviews showthesamecasewithonebluelens. Macro standalone tightcrop actualbluepixelatedirispatternandclearcentre. Promotionalheading \"Blue Cosmetic Contact Lens\". Removeoldoutsidepower/diametertext andretainactualcase/lens only.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2548_Blue-Contact-Lenses-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2548_Blue-Contact-Lenses-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2548_Blue-Contact-Lenses-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2548_Blue-Contact-Lenses-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2548_Blue-Contact-Lenses-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2547",
+      "sku": "PEACHES-2547",
+      "name": "Contact Lens Colour Reference Guide - Portrait",
+      "category": "Beauty & Personal Care",
+      "folder": "2547_Contact-Lens-Eye-Guide-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Twelve-colour contact lens eye reference guide, portrait2columns\u00d76rows, no physicalproduct photograph",
+      "evidence_prompt_sha256": "9f41f7659e12054cfe020636953b5adf5507c3c9567533bb21be1d761332fe40",
+      "evidence_prompt_excerpt": "fferent packaging or extra swatches. Remove price overlay if any, retain original brand when present, no claims about fit,safety or medical efficacy. Whole original guide is ONE product record. Full original guide fits fully within each full-view cell with margin. Website-ready clean lighting. Original is narrow portrait12-eye guide, exactly2columns\u00d76rows. Preserve row pairs and labels: STERLING GRAY / BLUE; BRILLIANT BLUE / GREEN; GEMSTONE GREEN / PURE HAZEL; HONEY / BROWN; TRUE SAPPHIRE / AMETHYST; GRAY / TURQUOISE. No retail box is shown; do not add one. Each eye swatch must retain reference iris colour. Macro is original blueeye iris detail. Keep guide portrait2x6 layout in allfullviews.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2547_Contact-Lens-Eye-Guide-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2547_Contact-Lens-Eye-Guide-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2547_Contact-Lens-Eye-Guide-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2547_Contact-Lens-Eye-Guide-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2547_Contact-Lens-Eye-Guide-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2546",
+      "sku": "PEACHES-2546",
+      "name": "FreshLook Contact Lens Colour Reference Guide",
+      "category": "Beauty & Personal Care",
+      "folder": "2546_Contact-Lens-Colour-Guide-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "FreshLook contact lens12-colour reference guide with12eye swatches,logo and one originalboximage; no loose lens source",
+      "evidence_prompt_sha256": "d34230dcaf8df0a18364e01170216da377172ffd39bbb449da5883c86acc6384",
+      "evidence_prompt_excerpt": "ims about fit,safety or medical efficacy. Whole original guide is ONE product record. Full original guide fits fully within each full-view cell with margin. Website-ready clean lighting. Original guide has exactly12eye swatches,2ROWS\u00d76COLUMNS: top Amethyst,Blue,Brown,Green,Turquoise,SterlingSilver; bottomGrey,Honey,PureHazel,TrueSapphire,GemstoneGreen,BrilliantBlue. Below originalswatches retain FRESHLOOK COLOR CONTACT LENSES logo and ONE purple/white FRESHLOOK box image as shown. Remove old590Rsprice only. Allfullviews preserve12swatches+originalbrandlogo+oneboximage together as entireguide composition. Do not addreal3Dloose lenses or moreboxes. Macro tight actualblueeye swatch from source.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2546_Contact-Lens-Colour-Guide-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2546_Contact-Lens-Colour-Guide-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2546_Contact-Lens-Colour-Guide-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2546_Contact-Lens-Colour-Guide-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2546_Contact-Lens-Colour-Guide-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2545",
+      "sku": "PEACHES-2545",
+      "name": "Plush Bow Hair Clip Assortment",
+      "category": "Hair Accessories",
+      "folder": "2545_Plush-Bunny-Scrunchies-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Twelve plush faux-fur bow hairclips, two packs of six, all sourcecolours",
+      "evidence_prompt_sha256": "e302770c5d2db7418eea71db420b6a591f66f90a6e64359664c634d89be3fb44",
+      "evidence_prompt_excerpt": "e-ready photography sufficient. Actual assortment TWELVE fuzzyfauxfur BOW hairclips (notbunnyscrunchies despitefoldername), packagedintwolongclearbags SIXbowsperbag. Leftbagcolourstop-to-bottom: LAVENDER,WHITE,DUSTYROSE,PALEPINK,SAGEGREEN,HOTPINK. Rightbag:RED,MUSTARDGOLD,DUSTYPEACH,PALEYELLOW,SKYBLUE,BLACK. Eachhasplushbowloops/cinchedcentre andshortdownwardtails, noface/noanimals/noinventedelasticrings. Preserveexact12furbows andsourcecolours/shapes andthickfuzzytexture. All12bows mustappear together in eachfullview1/2/3/5, arrange2columns6rows, notonebowperscene. Remove hand/pricebanner/storeclutter. Detail tight standalone macrooffurtexture/cinchedcentre onrealSAGEbow; notfullassortment.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2545_Plush-Bunny-Scrunchies-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2545_Plush-Bunny-Scrunchies-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2545_Plush-Bunny-Scrunchies-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2545_Plush-Bunny-Scrunchies-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2545_Plush-Bunny-Scrunchies-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2544",
+      "sku": "PEACHES-2544",
+      "name": "Printed Star Hair Claw Clip Assortment",
+      "category": "Hair Accessories",
+      "folder": "2544_Character-Hair-Accessory-Sets-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Twelve pastel printed rounded-star mini hair clawclips, onecard two columns/sixrows",
+      "evidence_prompt_sha256": "65b9b67c8cc29f3c3ad6574f5907e85f541da14f83f55721821e2d114f84ff40",
+      "evidence_prompt_excerpt": "hy sufficient. Actualproduct ONE longwhite ACCESSORIES displaycard holding TWELVE tiny glossySTAR-shaped hairclawclips inTWOcolumnsSIXrows. Eachhasroundedfivepointstarwings with pastelblue/pink/lavenderprintedcartoonanimalfaces matchingactualreference; preserveexactsourceartwork andcolour distribution, smallclearplasticjaws/silversprings, notflowers/notplainstars/not6clips. Fullviews1/2/3/5 show entirewhitecard with ALL12starclips and12countable positions (2columns6rows). Noadditionalcards. Sourceplasticwrappingcanremainclean, removehand/shop/priceoverlay. Detail standalone tightmacro ofoneactualblue/pinkprintedstarclip anditsvisiblehinge, notfullcard. AccurateheadingPrinted Star Hair Clips.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2544_Character-Hair-Accessory-Sets-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2544_Character-Hair-Accessory-Sets-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2544_Character-Hair-Accessory-Sets-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2544_Character-Hair-Accessory-Sets-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2544_Character-Hair-Accessory-Sets-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2543",
+      "sku": "PEACHES-2543",
+      "name": "Mini Light Keyring Assortment",
+      "category": "Accessories",
+      "folder": "2543_Multi-Function-Keyrings-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "5abe0d79cefd9faeb806a24e1e0ce63e21e2664e357d3fee5a11be8abb193929",
+      "evidence_prompt_excerpt": " noaddedunits. Toprowwhite,lavendercreamstyled,naturaldesk/tablelifestyle. Bottomrowtightrealpartmacroonly,promotionalwholeassortmentwithaccurateheading,unusedblankcream. Exactboundaries512/1024/512 no gutters/borders. Subject EXACT12 small cylindricalmetal mini-torch/laser keyrings hanging fromONEblack/yellowretaildisplaycard. Colours lefttoright2SILVERwithwhiteclips,2BLACKblackclips,2BLUEblueclips,2REDredclips,2GREENgreenclips,2PURPLEpurpleclips. Preserve12units/silverridgedends/greenendrings/matchingcarabinerclips/twosmallmetalbuttons and originalcardprint. Never showactivatedbeam, nonewclaims. Detailtightrealbuttons/silverridgedend ofONEblueunit. Heading 'Mini Light Keyring Assortment'.\n",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2543_Multi-Function-Keyrings-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2543_Multi-Function-Keyrings-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2543_Multi-Function-Keyrings-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2543_Multi-Function-Keyrings-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2543_Multi-Function-Keyrings-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2541",
+      "sku": "PEACHES-2541",
+      "name": "Pearl Butterfly Hair Claw Assortment",
+      "category": "Hair Accessories",
+      "folder": "2541_Clear-Butterfly-Claws-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "68f74dc90a9665db6c20bdc3d6e26f95c965874ae9ce063602cf0e69a1d3415f",
+      "evidence_prompt_excerpt": "PROMOTIONALALL12 accurateheading;cell6bottom-rightblankcream. Repeat entire12piece assortment ineachfullview, arrange2rows6claws or3rows4claws forclearcount. Preserveoriginalshape,creamwhitepearls,transparentchampagnegoldplasticbase,metalcoilhinge/teeth,exactquantity. Removehand,plasticbag,shop,price/stickers. Notmetalreplacement,nounrelatedhairclips. Source12identicalclear-champagnehairclaws withornate WHITEPEARLoutlined butterfly/oval-loop face, pearlcurves crossedbydiagonalpearlbars asactualreference. Preserveexactmouldedshapes notgenericbutterfly. Goldspringandtransparentteeth. Whole12pieces shownineachfullview, detailonly tightpearlcurve/springpart. Heading 'Pearl Butterfly Hair Claws'.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2541_Clear-Butterfly-Claws-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2541_Clear-Butterfly-Claws-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2541_Clear-Butterfly-Claws-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2541_Clear-Butterfly-Claws-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2541_Clear-Butterfly-Claws-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2540",
+      "sku": "PEACHES-2540",
+      "name": "Pearl Bow Hair Claw Assortment",
+      "category": "Hair Accessories",
+      "folder": "2540_Clear-Square-Claws-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "2cd81e7c597e509c590bd81a9c83e3b4ad9ed1e7b85a7db9bd22837e8d64debf",
+      "evidence_prompt_excerpt": "t/twoloop bowface, longpearl-edgedhorizontalwings taperingatmiddleandtwoloopedpearlpetals, asactualreference. Preserveactualtwo-loopbowshapenotsquare, transparentcombteeth andgoldspring. Exactly12piecesineachfullview. Detailmacrorealpearlrimandhinge. Heading 'Pearl Bow Hair Claws'. CRITICALCORRECTION: originalclawface is TWO LARGE ELONGATED OPEN LOOPS making HORIZONTAL BOW/INFINITYSYMBOL, pinchedcrossedmiddle, pearloutlineallaroundeachlongloop. Notoneuprightteardroploopwithtwowingbars. Viewfromsameangleasoriginaltofaithfullypreserveopenbowloopshape. Repeatoriginalclawshape12times, donotredesign. Eachwing/loophaslargeEMPTYCENTRE. Preservepointedouterends. Useoriginalphotofrontgeometryexactly.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2540_Clear-Square-Claws-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2540_Clear-Square-Claws-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2540_Clear-Square-Claws-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2540_Clear-Square-Claws-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2540_Clear-Square-Claws-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2538",
+      "sku": "PEACHES-2538",
+      "name": "Printed Bear Hair Claw Assortment",
+      "category": "Hair Accessories",
+      "folder": "2538_Clear-Printed-Claws-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "b9aa638089ae9dd16323e21ef36c10a1155507e7667909fd737839680b3c6489",
+      "evidence_prompt_excerpt": "ctualcount/shapes/colours/identity;removehand,shopbackground,outerbag,wholesalepriceoverlay. Fullviewsincludeentire12clawassortment, noextras. Actual12transparentbear-shapedhairclawclips printedwithhearts andbearfaces; eachbearhasOPENHEARTcutoutbelly,roundears,beararmsandfeet,clawteethbehind. Preserveoriginalsixcolourpairs(twoeach): skyblue,lilac,yellow,pink,green,peachred. Arrange2columns6rows original: leftblueblue/lilaclilac/yellowyellow; rightpinkpink/greengreen/peachpeach. Everyfullviewexactly12distinctbearclawclips, nottoys/jewellery. Macro tightactualtransparentpinkbearheartcutout/printedheartandclawhinge. Promotionalheading \"Bear Hair Claw Assortment\". No unrelatedlicensedcharacters.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2538_Clear-Printed-Claws-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2538_Clear-Printed-Claws-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2538_Clear-Printed-Claws-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2538_Clear-Printed-Claws-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2538_Clear-Printed-Claws-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2537",
+      "sku": "PEACHES-2537",
+      "name": "Pastel Cat Hair Claw Assortment",
+      "category": "Hair Accessories",
+      "folder": "2537_Pastel-Printed-Claws-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Twelve pastel printed-cat hairclaws, two columns/sixrows, sourceyellow/blue/lavender/pink/cream/pinkpairs",
+      "evidence_prompt_sha256": "a52aac47a3d7a4959abc0a0a592b6fd0e8b2651ff966413a66f7509ff2d708eb",
+      "evidence_prompt_excerpt": "E product. Website-ready photography sufficient. Actual assortment TWELVE translucentpastel CAT-shaped hairclawclips, packedtwostripsofSIXeach. Eachclip has whitecuteCATface withblackeyes/whiskers, colouredbowatear andmatchingpastelbody printedwithdecorativefloralpattern, actualsourcegraphicretained. SIXcolourpairs source: twoPALEYELLOW, twoPALEBLUE, twoLAVENDER, twoPINK, twoCREAMPEACH, twoPINKagain; total12not10. Fullviews1/2/3/5 show ALLTWELVE clips together intwocolumns6rows, sourcecathead/body clawshape/spring/colours unchanged. No extrastockorhand orpriceoverlay. Detail standalone tightmacro ofoneactualpalebluecatface/bowandhinge, notfullassortment. AccurateheadingPastel Cat Hair Claws.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2537_Pastel-Printed-Claws-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2537_Pastel-Printed-Claws-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2537_Pastel-Printed-Claws-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2537_Pastel-Printed-Claws-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2537_Pastel-Printed-Claws-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2536",
+      "sku": "PEACHES-2536",
+      "name": "Pastel Flower Hair Claw Assortment",
+      "category": "Hair Accessories",
+      "folder": "2536_Pastel-Leaf-Claws-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Twelve six-petal gold-outline pastel flower hairclaws, six sourcecolourpairs",
+      "evidence_prompt_sha256": "c770714cc0cf4c09667cc5e1c4cc6949da9410a8c86e8187f689267bf2c269d2",
+      "evidence_prompt_excerpt": "ers mustbevisible together in eachfullview1/2/3/5, 2columns6rows. Preserve EXACTSIXpetalseach flower andsourcegoldoutlines/materials/shapes/colourcounts, no fivepetals/noleaves/nobutterflies. Removehand/pricebanner/shop. Detail standalone tight realpartmacro ofSKYBLUEenamelpetalandgoldedgehinge, notfullflowercard. AccurateheadingPastel Flower Hair Claws. CORRECTIVE LAST ATTEMPT: previousallfullviews10flowers5rows not12. Everyfullview MUST have SIXROWS andTWOCOLUMNS: row1yellow+blue,row2yellow+blue,row3pink+mint,row4pink+mint,row5peach+gray,row6peach+gray. Countbothpeachflowersandbothgrayflowers, do notmerge2into1. Exactly12flowers, each6petals. Fitall6rowsinsideeachcell. Fullassortmentnot10.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2536_Pastel-Leaf-Claws-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2536_Pastel-Leaf-Claws-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2536_Pastel-Leaf-Claws-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2536_Pastel-Leaf-Claws-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2536_Pastel-Leaf-Claws-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2535",
+      "sku": "PEACHES-2535",
+      "name": "Open Heart Hair Claw Assortment",
+      "category": "Hair Accessories",
+      "folder": "2535_Metallic-Outline-Claws-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Twelve coloured open-heart hair claw clips with ivory teeth and gold springs",
+      "evidence_prompt_sha256": "af0826222bb7eecb1b1da706efdf8063d72236126da06874172096d92db5011a",
+      "evidence_prompt_excerpt": "ours,teeth,springmechanism and decoration. Fullviews arrangeexactlyTWELVE separate hairclaws in2rows\u00d76 or2columns\u00d76 onwhite backing, allvisible withmargin. Noextra clips,photoreal website-ready. Actual products TWELVE open HEART-OUTLINE hair claw clips, thick smooth coloured front heart frames, ivory/cream claw backs with fine parallel teeth, GOLD coil springs. Top row six colours BLACK,CORAL-PEACH,NAVY,OLIVE/TAUPE,BRICK-RED,DARKGREEN; bottomrow GREY,BURGUNDY,MUSTARD-GOLD,PURPLE,DUSTYPINK,TEAL. Preserve distinct12colour assortment and hollow heart silhouette, notmetallicrectangleclaws. Count12exact. Detail tight real blackheart edge/ivoryteeth/goldspring. Promo heading Heart Hair Claw Clips.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2535_Metallic-Outline-Claws-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2535_Metallic-Outline-Claws-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2535_Metallic-Outline-Claws-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2535_Metallic-Outline-Claws-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2535_Metallic-Outline-Claws-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2534",
+      "sku": "PEACHES-2534",
+      "name": "Pearl Bar Hair Claw Assortment",
+      "category": "Hair Accessories",
+      "folder": "2534_Clear-Banana-Clips-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": "Twelve pearl-bar transparent butterfly/bow hair claw clips, six champagne-tint and six colourless clear; NOT banana clips",
+      "evidence_prompt_sha256": "333130582e4a597326efa2e2738255842c3c47e5057284a551865e6d3f78140d",
+      "evidence_prompt_excerpt": "tlyTWELVE separate hairclaws in2rows\u00d76 or2columns\u00d76 onwhite backing, allvisible withmargin. Noextra clips,photoreal website-ready. Actual products TWELVE small transparent butterfly/bow-shaped HAIR CLAW clips, notbananaclips. Eachclip has visible goldcoilspring and straight rowofround iridescent WHITE PEARLS across one edge/bar. SIX warm amber/champagne-tinted clear clips and SIX colourless transparent clips, two matching six-clip groups shown originally. Preserve transparentbutterfly/roundedbow body,shorttoothclaw construction, pearlbar shapes. Count12exact, nohearts or longbanana shapes. Detail standalone tight real pearlbar+transparenthinge+goldspring. Promo heading Pearl Hair Claw Clips.",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2534_Clear-Banana-Clips-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2534_Clear-Banana-Clips-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2534_Clear-Banana-Clips-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2534_Clear-Banana-Clips-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2534_Clear-Banana-Clips-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2533",
+      "sku": "PEACHES-2533",
+      "name": "Printed Butterfly Hair Claw Assortment",
+      "category": "Hair Accessories",
+      "folder": "2533_Printed-Pastel-Claws-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "d9eff6c0a8ca9763045042cddb677defd4817dcfdb5a7089ee07d90d675373cd",
+      "evidence_prompt_excerpt": "tydesktoplifestyle wholeassortment. Bottomrowtight standalone realpart macroonly,promotionalwholeassortmentplusaccurateheading,blankcreamunused. Exactboundaries512/1024/512 no gutters/borders. Subject EXACTLY12 butterfly-shaped printed plastic HAIRCLAWCLIPS on2longwhitecards,6clipspercard. Eachhas4roundbutterflywings with originalblue/pinkcharacterfaceprint, centrebody/springhinge. Preserve reference12clip arrangement and matchingcolourvariants:6pairs overall pale pink, mint/aqua, whitepink, whiteblue, brightpink, skyblue. No substituteunprintedbutterfly. Fullviews all12visible,countable,two6cards sidebyside. Detailtightoneactualblueprintedwing/hinge. Heading 'Printed Butterfly Hair Claws'.\n",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2533_Printed-Pastel-Claws-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2533_Printed-Pastel-Claws-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2533_Printed-Pastel-Claws-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2533_Printed-Pastel-Claws-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2533_Printed-Pastel-Claws-1/New/05_Promotional.png"
+      ]
+    },
+    {
+      "product_id": "2532",
+      "sku": "PEACHES-2532",
+      "name": "Plush Hair Claw Clip Assortment",
+      "category": "Hair Accessories",
+      "folder": "2532_Plush-Scrunchies-1",
+      "name_source": "Reviewed actual-subject notes and exact original-referenced generation prompts; folder names not relied on.",
+      "actual_subject": null,
+      "evidence_prompt_sha256": "afb911498875c48dbcd3619956f21545200fb7e4640e7e3ae3205816bba8a7b3",
+      "evidence_prompt_excerpt": "usaccurateheading,blankcreamunused. Exactboundaries512/1024/512 no gutters/borders. Actualsubject is PLUSH/FUZZY COVERED HAIRCLAWCLIPS, not scrunchies despitefoldername. Preserve source12clip assortment, twooverlappingwhitebackingstrips and exactoriginalclip colours/positions red,mustardorange,coral,cream/paleyellow,skyblue,black,lavender,white,peach,softpink,sage,dustypink. Eachplushcoveredclaw has chunkycurvedfork/butterflyorYsilhouette asphotographed, fuzzyfabric, visibleclawmechanism whereavailable. Do notturn into roundhairties orinventears. Fullviews all12matchingoriginalassortment arrangedcountably2columns6. Detailtightactualfuzzyfabric/clawedge only. Heading 'Plush Hair Claw Clips'.\n",
+      "checked_image_urls": [
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2532_Plush-Scrunchies-1/New/01_White-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2532_Plush-Scrunchies-1/New/02_Styled-Background.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2532_Plush-Scrunchies-1/New/03_Lifestyle.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2532_Plush-Scrunchies-1/New/04_Detail.png",
+        "https://raw.githubusercontent.com/heshannamal/peachesImg/main/PRODUCT_PHOTOS/2532_Plush-Scrunchies-1/New/05_Promotional.png"
+      ]
+    }
+  ]
+}

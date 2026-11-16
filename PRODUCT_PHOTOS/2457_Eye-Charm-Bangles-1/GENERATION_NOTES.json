@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260922-WA0124.jpg": "5887b5136c1cb6b55846cd922254cccb86f93417b938015fc4cca081b1ba7215"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-6a9688ee-948f-4933-83c5-b555de17967b.png",
+      "source_output": "/workspace/generated_images/exec-6a9688ee-948f-4933-83c5-b555de17967b.png",
+      "sha256": "129fcf19164536f46807f3385e644dfcd1de1f70b2a69f852904a8a2eab687aa",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Blue Eye-Charm Bangles\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual assortment TWO matching silver-tone adjustableOPENCUFFBANGLES withwavy/twistedDOUBLEWIREframework andTWOroundsilverterminalballs atopenendsperbangle. Betweenwavyrails eachbanglehasFOURdarkBLUEEVILEYEglassbeads (blue/white/lightblueringaroundblackpupil) alternatingFOURsmallfacetedBLACKbeads aroundcircumference. PreserveTWOwholebangles, silverdouble-wire scallopedshape,2terminalballseach,blueeye/blackbeadidentity/count; notchainbracelets/nogold. ALLTWO together infullviews1/2/3/5, non-overlapenoughshow2count. Lifestyle bothonvanity,jewelleryflatlay,nopersonneeded. Detail standalone tightmacroofactualoneblueeyebead framedbysilverwavyrails andadjacentblackbead, notwholebangles. Removepricebanner. AccurateheadingBlue Eye-Charm Bangles.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-6a9688ee-948f-4933-83c5-b555de17967b.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Blue Eye-Charm Bangles\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual assortment TWO matching silver-tone adjustableOPENCUFFBANGLES withwavy/twistedDOUBLEWIREframework andTWOroundsilverterminalballs atopenendsperbangle. Betweenwavyrails eachbanglehasFOURdarkBLUEEVILEYEglassbeads (blue/white/lightblueringaroundblackpupil) alternatingFOURsmallfacetedBLACKbeads aroundcircumference. PreserveTWOwholebangles, silverdouble-wire scallopedshape,2terminalballseach,blueeye/blackbeadidentity/count; notchainbracelets/nogold. ALLTWO together infullviews1/2/3/5, non-overlapenoughshow2count. Lifestyle bothonvanity,jewelleryflatlay,nopersonneeded. Detail standalone tightmacroofactualoneblueeyebead framedbysilverwavyrails andadjacentblackbead, notwholebangles. Removepricebanner. AccurateheadingBlue Eye-Charm Bangles.",
+      "sha256": "d8529cc1254aeb32e10fff5cf9345ae76fcadfe0260292eef77c71ed0e8a8842",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6a9688ee-948f-4933-83c5-b555de17967b.png",
+      "grid_sha256": "129fcf19164536f46807f3385e644dfcd1de1f70b2a69f852904a8a2eab687aa",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared to source: Two silver-tone wavy doublewire openbangles withalternatingblueeyebeads/blackfacetedbeads. Sourcecount/identity/shapes/colours retained allfullviews; correct white/styled/lifestyle/promo andaccurateheading; standalone tightrealpartmacro passed. Website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-6a9688ee-948f-4933-83c5-b555de17967b.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Blue Eye-Charm Bangles\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual assortment TWO matching silver-tone adjustableOPENCUFFBANGLES withwavy/twistedDOUBLEWIREframework andTWOroundsilverterminalballs atopenendsperbangle. Betweenwavyrails eachbanglehasFOURdarkBLUEEVILEYEglassbeads (blue/white/lightblueringaroundblackpupil) alternatingFOURsmallfacetedBLACKbeads aroundcircumference. PreserveTWOwholebangles, silverdouble-wire scallopedshape,2terminalballseach,blueeye/blackbeadidentity/count; notchainbracelets/nogold. ALLTWO together infullviews1/2/3/5, non-overlapenoughshow2count. Lifestyle bothonvanity,jewelleryflatlay,nopersonneeded. Detail standalone tightmacroofactualoneblueeyebead framedbysilverwavyrails andadjacentblackbead, notwholebangles. Removepricebanner. AccurateheadingBlue Eye-Charm Bangles.",
+      "sha256": "2565b9ca6e6da6e13e4470f0928157476bc05e667267ca1bdf02f899e82beaab",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6a9688ee-948f-4933-83c5-b555de17967b.png",
+      "grid_sha256": "129fcf19164536f46807f3385e644dfcd1de1f70b2a69f852904a8a2eab687aa",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared to source: Two silver-tone wavy doublewire openbangles withalternatingblueeyebeads/blackfacetedbeads. Sourcecount/identity/shapes/colours retained allfullviews; correct white/styled/lifestyle/promo andaccurateheading; standalone tightrealpartmacro passed. Website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-6a9688ee-948f-4933-83c5-b555de17967b.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Blue Eye-Charm Bangles\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual assortment TWO matching silver-tone adjustableOPENCUFFBANGLES withwavy/twistedDOUBLEWIREframework andTWOroundsilverterminalballs atopenendsperbangle. Betweenwavyrails eachbanglehasFOURdarkBLUEEVILEYEglassbeads (blue/white/lightblueringaroundblackpupil) alternatingFOURsmallfacetedBLACKbeads aroundcircumference. PreserveTWOwholebangles, silverdouble-wire scallopedshape,2terminalballseach,blueeye/blackbeadidentity/count; notchainbracelets/nogold. ALLTWO together infullviews1/2/3/5, non-overlapenoughshow2count. Lifestyle bothonvanity,jewelleryflatlay,nopersonneeded. Detail standalone tightmacroofactualoneblueeyebead framedbysilverwavyrails andadjacentblackbead, notwholebangles. Removepricebanner. AccurateheadingBlue Eye-Charm Bangles.",
+      "sha256": "95933679b60eddd7a2179aed17c46662059d77683d8ba85fafa657fbf0f7892c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6a9688ee-948f-4933-83c5-b555de17967b.png",
+      "grid_sha256": "129fcf19164536f46807f3385e644dfcd1de1f70b2a69f852904a8a2eab687aa",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual grid/crops compared to source: Two silver-tone wavy doublewire openbangles withalternatingblueeyebeads/blackfacetedbeads. Sourcecount/identity/shapes/colours retained allfullviews; correct white/styled/lifestyle/promo andaccurateheading; standalone tightrealpartmacro passed. Website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-6a9688ee-948f-4933-83c5-b555de17967b.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Blue Eye-Charm Bangles\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual assortment TWO matching silver-tone adjustableOPENCUFFBANGLES withwavy/twistedDOUBLEWIREframework andTWOroundsilverterminalballs atopenendsperbangle. Betweenwavyrails eachbanglehasFOURdarkBLUEEVILEYEglassbeads (blue/white/lightblueringaroundblackpupil) alternatingFOURsmallfacetedBLACKbeads aroundcircumference. PreserveTWOwholebangles, silverdouble-wire scallopedshape,2terminalballseach,blueeye/blackbeadidentity/count; notchainbracelets/nogold. ALLTWO together infullviews1/2/3/5, non-overlapenoughshow2count. Lifestyle bothonvanity,jewelleryflatlay,nopersonneeded. Detail standalone tightmacroofactualoneblueeyebead framedbysilverwavyrails andadjacentblackbead, notwholebangles. Removepricebanner. AccurateheadingBlue Eye-Charm Bangles.",
+      "sha256": "c48120ac100114f0d5bf6a9f33a8aaf66d464d3890af24323954e7e9aa5bf64c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6a9688ee-948f-4933-83c5-b555de17967b.png",
+      "grid_sha256": "129fcf19164536f46807f3385e644dfcd1de1f70b2a69f852904a8a2eab687aa",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual grid/crops compared to source: Two silver-tone wavy doublewire openbangles withalternatingblueeyebeads/blackfacetedbeads. Sourcecount/identity/shapes/colours retained allfullviews; correct white/styled/lifestyle/promo andaccurateheading; standalone tightrealpartmacro passed. Website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-6a9688ee-948f-4933-83c5-b555de17967b.png",
+      "prompt": "Edit referenced ACTUAL original photograph into ONE landscape1536x1024 native website product contact sheet. Exact3columns2rows equal512squarecells, boundaries x512/1024/y512, no gutters/borders/celllabels. Cell1top-left cleanwhitebackground productphoto; cell2top-middle lavender/creamstyledproduct; cell3top-right lifestyle product onhome shelf; cell4bottom-left standalone TIGHTREALPARTMACRO only, do notshow wholeproduct; cell5bottom-middle promotional sameproduct plus accurateheading \"Blue Eye-Charm Bangles\"; cell6bottom-right blankcream. Fullviews1/2/3/5 mustretain entireactualproduct(s) with generousmargins, correctidentity/count/shapes/colours. Website-ready quality sufficient. Removepriceoverlay/storeclutter; preserveactualsubject notunrelatedstock. Actual assortment TWO matching silver-tone adjustableOPENCUFFBANGLES withwavy/twistedDOUBLEWIREframework andTWOroundsilverterminalballs atopenendsperbangle. Betweenwavyrails eachbanglehasFOURdarkBLUEEVILEYEglassbeads (blue/white/lightblueringaroundblackpupil) alternatingFOURsmallfacetedBLACKbeads aroundcircumference. PreserveTWOwholebangles, silverdouble-wire scallopedshape,2terminalballseach,blueeye/blackbeadidentity/count; notchainbracelets/nogold. ALLTWO together infullviews1/2/3/5, non-overlapenoughshow2count. Lifestyle bothonvanity,jewelleryflatlay,nopersonneeded. Detail standalone tightmacroofactualoneblueeyebead framedbysilverwavyrails andadjacentblackbead, notwholebangles. Removepricebanner. AccurateheadingBlue Eye-Charm Bangles.",
+      "sha256": "967f7c05cf1106ff22bcbd0f3a276fe802a57352682aa8460baa8f0a4548b09b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-6a9688ee-948f-4933-83c5-b555de17967b.png",
+      "grid_sha256": "129fcf19164536f46807f3385e644dfcd1de1f70b2a69f852904a8a2eab687aa",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual grid/crops compared to source: Two silver-tone wavy doublewire openbangles withalternatingblueeyebeads/blackfacetedbeads. Sourcecount/identity/shapes/colours retained allfullviews; correct white/styled/lifestyle/promo andaccurateheading; standalone tightrealpartmacro passed. Website-ready."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Two silver-tone wavy doublewire openbangles withalternatingblueeyebeads/blackfacetedbeads",
+  "originals_verified_against_frozen_plan": true
+}

@@ -1,0 +1,53 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250130-WA0128.jpg": "c72b67e7c499a5bdefcc2545abb7d7d8ab3a5e5505019da1d0e28708793c7b22"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source": [
+        "Originals/IMG-20250130-WA0128.jpg"
+      ],
+      "prompt": "Square website photo on clean white background. Preserve EXACT original overlapping arrangement of clear-bag packaged shell anklets on white foot-shaped Fashion Anklet cards. Same visible cowrie shells, cream cord knots and cream starfish. Keep original overlaps and hidden occlusion, do not separate or invent hidden products. Remove hand/shop/price only. Entire assortment in frame, soft shadows.",
+      "sha256": "f27b60274a5efcccbdcae2a562a17db08df56167b64c5d957c0a0f813bc3662d",
+      "checked": true,
+      "visual_review": "Visible product identity/arrangement/colours/materials compared with original; original occlusion retained."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square website product photo. Entire exact overlapping packaged shell/starfish anklet assortment from reference on lavender cream background. Preserve visible geometry, count, colour, material, packaging and arrangement/occlusion; no invented hidden parts. Fully framed, soft light, no new text.",
+      "sha256": "57d8fbc999bd18370d03060ba37cf8c1ba84d17ae5f9d4a8f5e60fa4c38c3914",
+      "checked": true,
+      "visual_review": "Visible product colour/shape/count/arrangement reviewed, website suitable."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square lifestyle website product photo. Entire exact overlapping clear-bag shell/starfish anklet assortment on foot-shaped cards in same arrangement on cream vanity, blurred lavender room and soft daylight. Preserve all visible original shapes, colours, materials and occlusion; no added jewellery, no hidden parts invented. No hands/person or new text.",
+      "sha256": "a1b8d3f0db722685e1adcedb00092479d379c4ba6e3181c00e20815174f953d1",
+      "checked": true,
+      "visual_review": "Whole visible product assortment reviewed, identity/colours/arrangement retained."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square tight macro crop ONLY visible cowrie shell, adjacent cream starfish and cream cord knot on front original anklet in reference. Preserve exact shell shape, colour and materials, retain wrapping visible. No whole assortment, no invented hidden parts, no text, realistic detail photo.",
+      "sha256": "660510e2c9aee0bccdfdb2e0ada06815814348ef34c9b61803f8fa6c4f16ecd7",
+      "checked": true,
+      "visual_review": "Tight macro reviewed against visible source; main shape/material/colour match."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source": "New/01_White-Background.png",
+      "prompt": "Square website promotional product photo. Entire exact packaged shell and starfish anklet assortment from reference. Preserve visible count, main shape/colours/materials and original overlapping arrangement. Lavender cream background, reduce product scale to fit, small dark plum heading Shell & Starfish Anklets and PRODUCT COLLECTION. No added products or price, realistic soft light.",
+      "sha256": "fb9a340b5f6c760feeae3189b844c3e39c172c8e192ad58cacf1876a88457035",
+      "checked": true,
+      "visual_review": "Promotional assortment reviewed, main identity/visible count/colour/shape retained, website suitable."
+    }
+  ],
+  "inventory_mislabel": "Original is shell/starfish cord anklets on foot-shaped cards, not metallic hair claws.",
+  "status": "five images generated and visually checked"
+}

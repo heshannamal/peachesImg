@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20261005-WA0366.jpg": "e938fb4381bca8722e80894c4c72d9d711a1cd90cb45107a4357ae96d6a73c2c"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-28ddeb74-40bc-4462-a22f-7618a6fd2c04.png",
+      "source_output": "/workspace/generated_images/exec-28ddeb74-40bc-4462-a22f-7618a6fd2c04.png",
+      "sha256": "4c2c2b66c557393699955ed197a6036bef3a55364b9d2539960d98cf66af96ed",
+      "prompt": "Faithful product reference edit into ONE LANDSCAPE1536x1024 image consisting EXACTLY THREEequalcolumns and TWOequalrows, each512x512, NOgutters/borders/panellabels. Keep every view completely inside its cell with margins. Reading order: topLEFT01 purewhite seamless full product; topMIDDLE02 lavender/cream styled full product; topRIGHT03 cream dressingtable lifestyle full product; bottomLEFT04 standalone tightmacro ONLY actual visible pendant part, not fullproduct; bottomMIDDLE05 lavender/cream promotional fullproduct with accurate heading; bottomRIGHT06 BLANKunusedcream. Preserve original visible identity/count/shapes/material colours and white backingcard/clearpacket in all fullviews, no invented hidden jewellery, no added items or material/warranty claims. Remove hand/shop/price and external warranty overlay only. Website-ready realistic clear lighting and soft shadows. Actual exact ONE finegold-tone chain necklace and ONE BLACK butterfly-outline pendant with FOUR rounded asymmetric wings and goldrim on original longwhite card in clearbag. NOT astar; preserve exact fourwing contour, blackinfill and goldrim/centraljunction, chainlinkstructure and hangingovalshape. Samefront view no opening or rear/clasp invention. Detailcell tightcrop actualblackwing/goldrim/chainjunction ONLY. Promotional heading BUTTERFLY PENDANT NECKLACE.\n",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-28ddeb74-40bc-4462-a22f-7618a6fd2c04.png",
+      "prompt": "Faithful product reference edit into ONE LANDSCAPE1536x1024 image consisting EXACTLY THREEequalcolumns and TWOequalrows, each512x512, NOgutters/borders/panellabels. Keep every view completely inside its cell with margins. Reading order: topLEFT01 purewhite seamless full product; topMIDDLE02 lavender/cream styled full product; topRIGHT03 cream dressingtable lifestyle full product; bottomLEFT04 standalone tightmacro ONLY actual visible pendant part, not fullproduct; bottomMIDDLE05 lavender/cream promotional fullproduct with accurate heading; bottomRIGHT06 BLANKunusedcream. Preserve original visible identity/count/shapes/material colours and white backingcard/clearpacket in all fullviews, no invented hidden jewellery, no added items or material/warranty claims. Remove hand/shop/price and external warranty overlay only. Website-ready realistic clear lighting and soft shadows. Actual exact ONE finegold-tone chain necklace and ONE BLACK butterfly-outline pendant with FOUR rounded asymmetric wings and goldrim on original longwhite card in clearbag. NOT astar; preserve exact fourwing contour, blackinfill and goldrim/centraljunction, chainlinkstructure and hangingovalshape. Samefront view no opening or rear/clasp invention. Detailcell tightcrop actualblackwing/goldrim/chainjunction ONLY. Promotional heading BUTTERFLY PENDANT NECKLACE.\n",
+      "sha256": "f7b713faf5e80a184db93b4186efbb5532e4e4d33c2c5171b55f9f6689b750d6",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-28ddeb74-40bc-4462-a22f-7618a6fd2c04.png",
+      "grid_sha256": "4c2c2b66c557393699955ed197a6036bef3a55364b9d2539960d98cf66af96ed",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual512crop comparedwithoriginal: ONE finegold-tonechain and black four-wing butterfly pendant/goldrim onoriginalcard; completecount, asymmetricalmainshape/colour/chain/pack preserved. Real visiblependant macro and accurateheading, cleanboundaries; minor packaging typography accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-28ddeb74-40bc-4462-a22f-7618a6fd2c04.png",
+      "prompt": "Faithful product reference edit into ONE LANDSCAPE1536x1024 image consisting EXACTLY THREEequalcolumns and TWOequalrows, each512x512, NOgutters/borders/panellabels. Keep every view completely inside its cell with margins. Reading order: topLEFT01 purewhite seamless full product; topMIDDLE02 lavender/cream styled full product; topRIGHT03 cream dressingtable lifestyle full product; bottomLEFT04 standalone tightmacro ONLY actual visible pendant part, not fullproduct; bottomMIDDLE05 lavender/cream promotional fullproduct with accurate heading; bottomRIGHT06 BLANKunusedcream. Preserve original visible identity/count/shapes/material colours and white backingcard/clearpacket in all fullviews, no invented hidden jewellery, no added items or material/warranty claims. Remove hand/shop/price and external warranty overlay only. Website-ready realistic clear lighting and soft shadows. Actual exact ONE finegold-tone chain necklace and ONE BLACK butterfly-outline pendant with FOUR rounded asymmetric wings and goldrim on original longwhite card in clearbag. NOT astar; preserve exact fourwing contour, blackinfill and goldrim/centraljunction, chainlinkstructure and hangingovalshape. Samefront view no opening or rear/clasp invention. Detailcell tightcrop actualblackwing/goldrim/chainjunction ONLY. Promotional heading BUTTERFLY PENDANT NECKLACE.\n",
+      "sha256": "549d0f615391166363dcd9ccf5a6849d923b72f66614521cab32f2a765514c19",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-28ddeb74-40bc-4462-a22f-7618a6fd2c04.png",
+      "grid_sha256": "4c2c2b66c557393699955ed197a6036bef3a55364b9d2539960d98cf66af96ed",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual512crop comparedwithoriginal: ONE finegold-tonechain and black four-wing butterfly pendant/goldrim onoriginalcard; completecount, asymmetricalmainshape/colour/chain/pack preserved. Real visiblependant macro and accurateheading, cleanboundaries; minor packaging typography accepted."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-28ddeb74-40bc-4462-a22f-7618a6fd2c04.png",
+      "prompt": "Faithful product reference edit into ONE LANDSCAPE1536x1024 image consisting EXACTLY THREEequalcolumns and TWOequalrows, each512x512, NOgutters/borders/panellabels. Keep every view completely inside its cell with margins. Reading order: topLEFT01 purewhite seamless full product; topMIDDLE02 lavender/cream styled full product; topRIGHT03 cream dressingtable lifestyle full product; bottomLEFT04 standalone tightmacro ONLY actual visible pendant part, not fullproduct; bottomMIDDLE05 lavender/cream promotional fullproduct with accurate heading; bottomRIGHT06 BLANKunusedcream. Preserve original visible identity/count/shapes/material colours and white backingcard/clearpacket in all fullviews, no invented hidden jewellery, no added items or material/warranty claims. Remove hand/shop/price and external warranty overlay only. Website-ready realistic clear lighting and soft shadows. Actual exact ONE finegold-tone chain necklace and ONE BLACK butterfly-outline pendant with FOUR rounded asymmetric wings and goldrim on original longwhite card in clearbag. NOT astar; preserve exact fourwing contour, blackinfill and goldrim/centraljunction, chainlinkstructure and hangingovalshape. Samefront view no opening or rear/clasp invention. Detailcell tightcrop actualblackwing/goldrim/chainjunction ONLY. Promotional heading BUTTERFLY PENDANT NECKLACE.\n",
+      "sha256": "ec239f509c0ee61c56c525760e5c5d257297022a5f585c015233fadeb4f12f73",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-28ddeb74-40bc-4462-a22f-7618a6fd2c04.png",
+      "grid_sha256": "4c2c2b66c557393699955ed197a6036bef3a55364b9d2539960d98cf66af96ed",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual512crop comparedwithoriginal: ONE finegold-tonechain and black four-wing butterfly pendant/goldrim onoriginalcard; completecount, asymmetricalmainshape/colour/chain/pack preserved. Real visiblependant macro and accurateheading, cleanboundaries; minor packaging typography accepted."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-28ddeb74-40bc-4462-a22f-7618a6fd2c04.png",
+      "prompt": "Faithful product reference edit into ONE LANDSCAPE1536x1024 image consisting EXACTLY THREEequalcolumns and TWOequalrows, each512x512, NOgutters/borders/panellabels. Keep every view completely inside its cell with margins. Reading order: topLEFT01 purewhite seamless full product; topMIDDLE02 lavender/cream styled full product; topRIGHT03 cream dressingtable lifestyle full product; bottomLEFT04 standalone tightmacro ONLY actual visible pendant part, not fullproduct; bottomMIDDLE05 lavender/cream promotional fullproduct with accurate heading; bottomRIGHT06 BLANKunusedcream. Preserve original visible identity/count/shapes/material colours and white backingcard/clearpacket in all fullviews, no invented hidden jewellery, no added items or material/warranty claims. Remove hand/shop/price and external warranty overlay only. Website-ready realistic clear lighting and soft shadows. Actual exact ONE finegold-tone chain necklace and ONE BLACK butterfly-outline pendant with FOUR rounded asymmetric wings and goldrim on original longwhite card in clearbag. NOT astar; preserve exact fourwing contour, blackinfill and goldrim/centraljunction, chainlinkstructure and hangingovalshape. Samefront view no opening or rear/clasp invention. Detailcell tightcrop actualblackwing/goldrim/chainjunction ONLY. Promotional heading BUTTERFLY PENDANT NECKLACE.\n",
+      "sha256": "a237d710cda8f7044188f1ab3cf79bfe71ea9d960fc4b257f300f872940c462b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-28ddeb74-40bc-4462-a22f-7618a6fd2c04.png",
+      "grid_sha256": "4c2c2b66c557393699955ed197a6036bef3a55364b9d2539960d98cf66af96ed",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual512crop comparedwithoriginal: ONE finegold-tonechain and black four-wing butterfly pendant/goldrim onoriginalcard; completecount, asymmetricalmainshape/colour/chain/pack preserved. Real visiblependant macro and accurateheading, cleanboundaries; minor packaging typography accepted."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-28ddeb74-40bc-4462-a22f-7618a6fd2c04.png",
+      "prompt": "Faithful product reference edit into ONE LANDSCAPE1536x1024 image consisting EXACTLY THREEequalcolumns and TWOequalrows, each512x512, NOgutters/borders/panellabels. Keep every view completely inside its cell with margins. Reading order: topLEFT01 purewhite seamless full product; topMIDDLE02 lavender/cream styled full product; topRIGHT03 cream dressingtable lifestyle full product; bottomLEFT04 standalone tightmacro ONLY actual visible pendant part, not fullproduct; bottomMIDDLE05 lavender/cream promotional fullproduct with accurate heading; bottomRIGHT06 BLANKunusedcream. Preserve original visible identity/count/shapes/material colours and white backingcard/clearpacket in all fullviews, no invented hidden jewellery, no added items or material/warranty claims. Remove hand/shop/price and external warranty overlay only. Website-ready realistic clear lighting and soft shadows. Actual exact ONE finegold-tone chain necklace and ONE BLACK butterfly-outline pendant with FOUR rounded asymmetric wings and goldrim on original longwhite card in clearbag. NOT astar; preserve exact fourwing contour, blackinfill and goldrim/centraljunction, chainlinkstructure and hangingovalshape. Samefront view no opening or rear/clasp invention. Detailcell tightcrop actualblackwing/goldrim/chainjunction ONLY. Promotional heading BUTTERFLY PENDANT NECKLACE.\n",
+      "sha256": "349dbb5435fcc842d79eb9f205b8d244b3d98bca422096570ac4d7cf9990679c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-28ddeb74-40bc-4462-a22f-7618a6fd2c04.png",
+      "grid_sha256": "4c2c2b66c557393699955ed197a6036bef3a55364b9d2539960d98cf66af96ed",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual512crop comparedwithoriginal: ONE finegold-tonechain and black four-wing butterfly pendant/goldrim onoriginalcard; completecount, asymmetricalmainshape/colour/chain/pack preserved. Real visiblependant macro and accurateheading, cleanboundaries; minor packaging typography accepted."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "plan_original_hashes_verified": true
+}

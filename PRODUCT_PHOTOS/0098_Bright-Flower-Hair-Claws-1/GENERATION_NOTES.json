@@ -1,0 +1,51 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250128-WA0539.jpg": "3541efcf92fa8dca8433d5ad9e15c0736c62568e21a63044745206c8ab038ec4"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-58b964a8-03f8-4e85-b28a-69609d1209d1.png",
+      "prompt": "Edit reference into premium clean white seamless ecommerce photograph. Whole twelve-piece flower hair-claw assortment in TWO clear zip bags of six each, two parallel rows. Preserve reference alternating pink, yellow, light blue, mint, lavender and pink daisy decorations, raised dotted centres, open rectangular pastel claw frames and gold coil springs. Same original front view and arrangement. Remove price overlay with background reconstruction only; do not invent extra products or change flower shapes. Keep exact original front view, count, arrangement, shapes and colours; do not invent backs or extra items. Remove hand, shop setting and old price text overlay. No added text. All actual product visible, soft realistic shadows, sharp material details.",
+      "sha256": "ef6c17713e4c7c3af26cb36fb0f66eb03dab83ad1c3ce71c543fec0ea91c09cb",
+      "checked": true,
+      "visual_review": "Two bags of six daisy claws preserve colour sequence and packaging; price overlay removed."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-d650855a-001c-4ac9-b31a-4f1f79975e52.png",
+      "prompt": "Create ONE clean website product photograph from actual reference. Subject: Two clear zipped packs of flower-decorated claw clips. Preserve visible pink,yellow,blue,mint,lavender flowers, bumpy centres, springs and packing, original overlapping arrangement and visible crop; do not invent parts hidden by source crop. Preserve actual product count, shape, colours and materials. Remove hand, shop, old price overlay and unrelated background products. No invented reverse sides or extra products. Simple lavender cream studio background; preserve original visible product composition.",
+      "sha256": "0d1e8d569373239a6fb94c36b2ac3f58dd173acf8885d7d94acf025114531ba4",
+      "checked": true,
+      "visual_review": "Two clear flower claw packs, visible flower colours and arrangements retained. Website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-27d37f5f-d12d-4bd0-86d1-ca47794e2a4a.png",
+      "prompt": "Make ONE simple clean website promotional product photo from actual reference. Subject: Two clear zipped packs of flower-decorated claw clips. Preserve visible pink,yellow,blue,mint,lavender flowers, bumpy centres, springs and packing, original overlapping arrangement and visible crop; do not invent parts hidden by source crop. Keep actual product count, shapes, colours and material. Remove hand/shop/old price overlays/unrelated background products. Whole subject centred with margins on pale lavender and cream studio background. Compact dark plum heading 'FLOWER HAIR CLAWS', smaller 'PRODUCT COLLECTION'. No claims, extra items or invented reverse views.",
+      "sha256": "4487be8b3a2bb872954116567c28ce60d0716c8eac8631bb911345b41ff0ebbd",
+      "checked": true,
+      "visual_review": "Compared with original: main product count, arrangement, colours and shape preserved; clear website promotional composition."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-42af0db3-b733-4015-9b91-dadb35def24c.png",
+      "prompt": "ONE clean website product photo edited from actual reference. Subject: Two clear zipped packs of flower-decorated claw clips. Preserve visible pink,yellow,blue,mint,lavender flowers, bumpy centres, springs and packing, original overlapping arrangement and visible crop; do not invent parts hidden by source crop. Keep actual shapes, colours, materials and visible count. Remove hand, shop and old price overlay. No extra products or invented reverse views. Existing two flower claw packs on light wood dressing table, cream cloth outside edges; preserve original visible composition.",
+      "sha256": "5633dc11b1417d066890dcaab94a391014e4a9763334524df757741c613d88e2",
+      "checked": true,
+      "visual_review": "Compared with original: visible product shape, colour and material retained; suitable detail or lifestyle view for website."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-1ae621a7-c8a0-4226-8cd0-0bf7cf715b89.png",
+      "prompt": "ONE clean website product photo edited from actual reference. Subject: Two clear zipped packs of flower-decorated claw clips. Preserve visible pink,yellow,blue,mint,lavender flowers, bumpy centres, springs and packing, original overlapping arrangement and visible crop; do not invent parts hidden by source crop. Keep actual shapes, colours, materials and visible count. Remove hand, shop and old price overlay. No extra products or invented reverse views. TIGHT MACRO crop of only existing upper pink daisy flower with yellow bumpy centre, claw body and visible gold spring. No whole pack or collage.",
+      "sha256": "29c78c67822b4223e2cb3fa03a9f6b8ca7f64bc8c7821b5c2e96f7f00cf0b5dd",
+      "checked": true,
+      "visual_review": "Compared with original: visible product shape, colour and material retained; suitable detail or lifestyle view for website."
+    }
+  ],
+  "status": "five images generated and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences"
+}

@@ -1,0 +1,61 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250305-WA0397.jpg": "1d38795fff84334499233bd5f174ff111d5be4644816c815c376837cb41e099f",
+    "Originals/IMG-20250305-WA0403.jpg": "545c6816aa6b7c73682056fda30f89065f0fc2ab55047f771f8a4e37da2a2785"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-245d4112-c593-4de9-94eb-7e808a0967a9.png",
+      "prompt": "Website-ready square ecommerce reference edit of ENTIRE assortment across BOTH photos as ONE product. Show TWO original clearpackets side by side, each THREE frontwhitecards THREE clips each,18front clips total. Firstpacket topblack middlebrown bottomcream: doubleoutline star clip, outlined heart clip, tripleheart clip. Secondpacket topcream middlebrown bottomblack: catface longclip, bowclip, doubleoutline star clip. Preserve exact reference cardorder colours actualcount shapes decorations packaging and rearpartial glimpses. Purewhite seamless background softshadow full original packetsvisible, removehandshopprice only no extra text or invented hidden pieces.",
+      "sha256": "75347aaaf6d1a4ebb79cf7c4841ab37d75866aab133c6e81dee690d3a1f2f2ef",
+      "checked": true,
+      "visual_review": "Compared both originals: two packets six front cards eighteen clips retained, correct double-star/heart/tripleheart and cat/bow/star motifs and blackbrowncream order; minor product-print differences accepted."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-ecfb4d49-d3dd-4e0c-91d9-9d797e54781b.png",
+      "prompt": "Website-ready square ecommerce reference edit of ENTIRE assortment across BOTH photos as ONE product. Show TWO original clearpackets side by side, each THREE frontwhitecards THREE clips each,18front clips total. Firstpacket topblack middlebrown bottomcream: doubleoutline star clip, outlined heart clip, tripleheart clip. Secondpacket topcream middlebrown bottomblack: catface longclip, bowclip, doubleoutline star clip. Preserve exact reference cardorder colours actualcount shapes decorations packaging and rearpartial glimpses. Lavender cream studio background softshadow full original packetsvisible, removehandshopprice only no extra text or invented hidden pieces.",
+      "sha256": "589d4493128b4a81e2a0b09f4ace6944210e30851d5aa4401c97c7a4fd7c9178",
+      "checked": true,
+      "visual_review": "Compared original packets and generatedstyledimage: all frontcards and clipcounts retained, correct blackbrowncream colours and actual motifs/major shapes; minor label typography and motif tilt accepted. Lavendercream background suitable."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-c866c949-80f7-4221-8f21-144a537637c0.png",
+      "prompt": "Website-ready square ecommerce reference edit of ENTIRE assortment across BOTH photos as ONE product. Show TWO original clearpackets side by side, each THREE frontwhitecards THREE clips each,18front clips total. Firstpacket topblack middlebrown bottomcream: doubleoutline star clip, outlined heart clip, tripleheart clip. Secondpacket topcream middlebrown bottomblack: catface longclip, bowclip, doubleoutline star clip. Preserve exact reference cardorder colours actualcount shapes decorations packaging and rearpartial glimpses. On cream bedroom dressingtable with softlyblurred lavenderwall and daylight, softshadow full original packetsvisible, removehandshopprice only no extra text or invented hidden pieces.",
+      "sha256": "cc9be9adb19498bb1b2f1fc8d81520c38fc77d65164d61d2650fc3bed24f7d05",
+      "checked": true,
+      "visual_review": "Compared actualoriginals: full threepacket27clip or twopacket18clip assortments retained, same main shapes/motifs/colourrows and visiblepackaging, no extrapolated hiddenproducts. Minor tilt and typography accepted; natural creamvanity lifestyleview."
+    },
+    {
+      "saved_file": "Rejected/04_Detail-fullclip-instead-of-tightcrop.png",
+      "source_output": "/workspace/generated_images/exec-9e5bf99f-5750-4b44-8207-e614b19d13d5.png",
+      "prompt": "Square standalone tight real-part macro crop of cream double-outline-star hairclip on first reference bottomcard: show two cream hollow fivepoint stars, adjoining rectangular cream clip stem and visible metal spring only as actuallysource. Preserve exactshape colour gloss texture. No newparts/text/collage/fullassortment. Website detail naturalsoftlight.",
+      "sha256": "ed93049269a09de2a98f57d4996b73e40ecb03186307841c2f8f058ed3ac202d",
+      "checked": false,
+      "visual_review": "Materialviewtypeerror: fullclip isolated rather than tightrealpartcrop. One corrective crop allowed."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-7378e463-37a3-4396-bc6a-4553cc9d974e.png",
+      "prompt": "EXTREME TIGHT MACRO CROP of ONLY junction between TWO cream hollow fivepoint stars on bottomleftclip in original reference. Zoomuntilstarpoints are cut by frame, show glossy star edges and small visible spring fragment. DO NOT show entire clip, fullstem or fullstars, no assortment. Exactexistingcream plastic material shape, no newparts,text. Square website realpartdetailphotograph.",
+      "sha256": "bfa3176272e9b5fe738ba6591ecba920580fe09fd693c9f1526805ee0f9c9241",
+      "checked": true,
+      "visual_review": "Corrected standalone extremetightcrop of real cream doublestar junction, source glossy material shape and visible spring retained; viewtypecorrect."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-8058bb09-d6f3-4ee7-a235-0bbe7e224dcf.png",
+      "prompt": "Website-ready square ecommerce reference edit of ENTIRE assortment across BOTH photos as ONE product. Show TWO original clearpackets side by side, each THREE frontwhitecards THREE clips each,18front clips total. Firstpacket topblack middlebrown bottomcream: doubleoutline star clip, outlined heart clip, tripleheart clip. Secondpacket topcream middlebrown bottomblack: catface longclip, bowclip, doubleoutline star clip. Preserve exact reference cardorder colours actualcount shapes decorations packaging and rearpartial glimpses. Lavendercream promotional background softshadow full original packetsvisible, removehandshopprice only Accurate heading STAR AND HEART HAIR CLIP SETS and smaller PRODUCT COLLECTION. No price or claims, no invented hiddenpieces.",
+      "sha256": "687c955cf8a90e087e81b82063505c1db409db3db1852ec341f02994a2c49006",
+      "checked": true,
+      "visual_review": "Compared originals: eighteen frontclips sixcards twopackets retained with correct star/heart/cat/bow designs and blackbrowncream rows; accurate STAR AND HEART HAIR CLIP SETS heading."
+    }
+  ],
+  "status": "five images saved and visually checked",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "plan_original_hashes_verified": true
+}

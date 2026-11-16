@@ -1,0 +1,128 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260924-WA0201.jpg": "b4f8875c6958a67421213203d48b245f7845d54ed683744449ba913df7ae3eea"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-f1002251-df10-4ea0-b6e1-647f82997e9d.png",
+      "source_output": "/workspace/generated_images/exec-f1002251-df10-4ea0-b6e1-647f82997e9d.png",
+      "sha256": "67018c2bcc56bcce39d8a901022afee9a479b8459ef068af8eb60647b5a5061e",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows512squarecells boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full product assortment whitebackground; top-middle same lavender/cream styled; top-right full assortment realistic relevant lifestyle; bottom-left standalone tight actualpartmacro,notwholeassortment; bottom-middle full assortment promotional with accurateheading specified; bottom-right blankcream. Preserve original count,identity,shapes,colours,labels/printeddesigns. Remove hand,shop,priceoverlay/oldadverttext only. Fullviews allitemscompleteinsideowncellmargin,noextra similarprops. Photorealwebsite-ready,noinventedclaims. Actual source blue snow-spray aerosol can design with whitecap and snowmanillustration. It presents TWO views ofsamecan: onecappedupright andoneuncappedtiltedwithwhitenozzle demonstratingsmallwhitefinespray. Preserve these TWO cans/views togetherinallfullviews: ONEcappedONEuncapped, samebluebody/snowman/scarf/SNOWSPRAYlabel. No extra cap as thirdobject; no hands. Lifestyle on simple partytable, no additionalaerosolcans. Detail tight real uncappedwhitenozzle/silverrim/blueprintededge. Heading Party Snow Spray. No extra effectiveness/safetyclaims.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-f1002251-df10-4ea0-b6e1-647f82997e9d.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows512squarecells boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full product assortment whitebackground; top-middle same lavender/cream styled; top-right full assortment realistic relevant lifestyle; bottom-left standalone tight actualpartmacro,notwholeassortment; bottom-middle full assortment promotional with accurateheading specified; bottom-right blankcream. Preserve original count,identity,shapes,colours,labels/printeddesigns. Remove hand,shop,priceoverlay/oldadverttext only. Fullviews allitemscompleteinsideowncellmargin,noextra similarprops. Photorealwebsite-ready,noinventedclaims. Actual source blue snow-spray aerosol can design with whitecap and snowmanillustration. It presents TWO views ofsamecan: onecappedupright andoneuncappedtiltedwithwhitenozzle demonstratingsmallwhitefinespray. Preserve these TWO cans/views togetherinallfullviews: ONEcappedONEuncapped, samebluebody/snowman/scarf/SNOWSPRAYlabel. No extra cap as thirdobject; no hands. Lifestyle on simple partytable, no additionalaerosolcans. Detail tight real uncappedwhitenozzle/silverrim/blueprintededge. Heading Party Snow Spray. No extra effectiveness/safetyclaims.",
+      "sha256": "b8c3fdaa24c94ccc991b60ba972cccbec74d0b801518d02b1c607407fab1bde0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f1002251-df10-4ea0-b6e1-647f82997e9d.png",
+      "grid_sha256": "67018c2bcc56bcce39d8a901022afee9a479b8459ef068af8eb60647b5a5061e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual saved crops checked vs source.2depictionssamebluesnow-spraycan,1capped1uncappeddemo; blue/snowman/scarf/SNOWSPRAYlabel identity retained,count2views. Tight realnozzle/silverrimdetail. Accurate PartySnowSprayheading, white/lavender/partytablelifestyle/promo correct, cleanboundaries. Website-ready."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-f1002251-df10-4ea0-b6e1-647f82997e9d.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows512squarecells boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full product assortment whitebackground; top-middle same lavender/cream styled; top-right full assortment realistic relevant lifestyle; bottom-left standalone tight actualpartmacro,notwholeassortment; bottom-middle full assortment promotional with accurateheading specified; bottom-right blankcream. Preserve original count,identity,shapes,colours,labels/printeddesigns. Remove hand,shop,priceoverlay/oldadverttext only. Fullviews allitemscompleteinsideowncellmargin,noextra similarprops. Photorealwebsite-ready,noinventedclaims. Actual source blue snow-spray aerosol can design with whitecap and snowmanillustration. It presents TWO views ofsamecan: onecappedupright andoneuncappedtiltedwithwhitenozzle demonstratingsmallwhitefinespray. Preserve these TWO cans/views togetherinallfullviews: ONEcappedONEuncapped, samebluebody/snowman/scarf/SNOWSPRAYlabel. No extra cap as thirdobject; no hands. Lifestyle on simple partytable, no additionalaerosolcans. Detail tight real uncappedwhitenozzle/silverrim/blueprintededge. Heading Party Snow Spray. No extra effectiveness/safetyclaims.",
+      "sha256": "7b9c149598e83a148f64d4c2ea3d049760d625e8a9296c5521aca7e8c2e9a061",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f1002251-df10-4ea0-b6e1-647f82997e9d.png",
+      "grid_sha256": "67018c2bcc56bcce39d8a901022afee9a479b8459ef068af8eb60647b5a5061e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "Actual saved crops checked vs source.2depictionssamebluesnow-spraycan,1capped1uncappeddemo; blue/snowman/scarf/SNOWSPRAYlabel identity retained,count2views. Tight realnozzle/silverrimdetail. Accurate PartySnowSprayheading, white/lavender/partytablelifestyle/promo correct, cleanboundaries. Website-ready."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-f1002251-df10-4ea0-b6e1-647f82997e9d.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows512squarecells boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full product assortment whitebackground; top-middle same lavender/cream styled; top-right full assortment realistic relevant lifestyle; bottom-left standalone tight actualpartmacro,notwholeassortment; bottom-middle full assortment promotional with accurateheading specified; bottom-right blankcream. Preserve original count,identity,shapes,colours,labels/printeddesigns. Remove hand,shop,priceoverlay/oldadverttext only. Fullviews allitemscompleteinsideowncellmargin,noextra similarprops. Photorealwebsite-ready,noinventedclaims. Actual source blue snow-spray aerosol can design with whitecap and snowmanillustration. It presents TWO views ofsamecan: onecappedupright andoneuncappedtiltedwithwhitenozzle demonstratingsmallwhitefinespray. Preserve these TWO cans/views togetherinallfullviews: ONEcappedONEuncapped, samebluebody/snowman/scarf/SNOWSPRAYlabel. No extra cap as thirdobject; no hands. Lifestyle on simple partytable, no additionalaerosolcans. Detail tight real uncappedwhitenozzle/silverrim/blueprintededge. Heading Party Snow Spray. No extra effectiveness/safetyclaims.",
+      "sha256": "7dc1e2373bc1a90dd7b74859da3e5896dad4f3f6b2e1df64023d4c601ba7fada",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f1002251-df10-4ea0-b6e1-647f82997e9d.png",
+      "grid_sha256": "67018c2bcc56bcce39d8a901022afee9a479b8459ef068af8eb60647b5a5061e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actual saved crops checked vs source.2depictionssamebluesnow-spraycan,1capped1uncappeddemo; blue/snowman/scarf/SNOWSPRAYlabel identity retained,count2views. Tight realnozzle/silverrimdetail. Accurate PartySnowSprayheading, white/lavender/partytablelifestyle/promo correct, cleanboundaries. Website-ready."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-f1002251-df10-4ea0-b6e1-647f82997e9d.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows512squarecells boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full product assortment whitebackground; top-middle same lavender/cream styled; top-right full assortment realistic relevant lifestyle; bottom-left standalone tight actualpartmacro,notwholeassortment; bottom-middle full assortment promotional with accurateheading specified; bottom-right blankcream. Preserve original count,identity,shapes,colours,labels/printeddesigns. Remove hand,shop,priceoverlay/oldadverttext only. Fullviews allitemscompleteinsideowncellmargin,noextra similarprops. Photorealwebsite-ready,noinventedclaims. Actual source blue snow-spray aerosol can design with whitecap and snowmanillustration. It presents TWO views ofsamecan: onecappedupright andoneuncappedtiltedwithwhitenozzle demonstratingsmallwhitefinespray. Preserve these TWO cans/views togetherinallfullviews: ONEcappedONEuncapped, samebluebody/snowman/scarf/SNOWSPRAYlabel. No extra cap as thirdobject; no hands. Lifestyle on simple partytable, no additionalaerosolcans. Detail tight real uncappedwhitenozzle/silverrim/blueprintededge. Heading Party Snow Spray. No extra effectiveness/safetyclaims.",
+      "sha256": "2e81da6a078dead5aef88462e754b9ba535910edb87045f1dff374600961adc0",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f1002251-df10-4ea0-b6e1-647f82997e9d.png",
+      "grid_sha256": "67018c2bcc56bcce39d8a901022afee9a479b8459ef068af8eb60647b5a5061e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "Actual saved crops checked vs source.2depictionssamebluesnow-spraycan,1capped1uncappeddemo; blue/snowman/scarf/SNOWSPRAYlabel identity retained,count2views. Tight realnozzle/silverrimdetail. Accurate PartySnowSprayheading, white/lavender/partytablelifestyle/promo correct, cleanboundaries. Website-ready."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-f1002251-df10-4ea0-b6e1-647f82997e9d.png",
+      "prompt": "Native photo edit referenced faithfully to original. Landscape1536x1024 precise3columns x2rows512squarecells boundaries x512/x1024/y512; no gutters,borders,panel labels. Top-left full product assortment whitebackground; top-middle same lavender/cream styled; top-right full assortment realistic relevant lifestyle; bottom-left standalone tight actualpartmacro,notwholeassortment; bottom-middle full assortment promotional with accurateheading specified; bottom-right blankcream. Preserve original count,identity,shapes,colours,labels/printeddesigns. Remove hand,shop,priceoverlay/oldadverttext only. Fullviews allitemscompleteinsideowncellmargin,noextra similarprops. Photorealwebsite-ready,noinventedclaims. Actual source blue snow-spray aerosol can design with whitecap and snowmanillustration. It presents TWO views ofsamecan: onecappedupright andoneuncappedtiltedwithwhitenozzle demonstratingsmallwhitefinespray. Preserve these TWO cans/views togetherinallfullviews: ONEcappedONEuncapped, samebluebody/snowman/scarf/SNOWSPRAYlabel. No extra cap as thirdobject; no hands. Lifestyle on simple partytable, no additionalaerosolcans. Detail tight real uncappedwhitenozzle/silverrim/blueprintededge. Heading Party Snow Spray. No extra effectiveness/safetyclaims.",
+      "sha256": "67cfdfde2c0fbed196716347dfecfab634eabd54b6b8f04d153cd9063857f10d",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-f1002251-df10-4ea0-b6e1-647f82997e9d.png",
+      "grid_sha256": "67018c2bcc56bcce39d8a901022afee9a479b8459ef068af8eb60647b5a5061e",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Actual saved crops checked vs source.2depictionssamebluesnow-spraycan,1capped1uncappeddemo; blue/snowman/scarf/SNOWSPRAYlabel identity retained,count2views. Tight realnozzle/silverrimdetail. Accurate PartySnowSprayheading, white/lavender/partytablelifestyle/promo correct, cleanboundaries. Website-ready."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "actual_subject": "Blue snow spray aerosol can shown in two original depictions: capped and uncapped spraying demo",
+  "original_baseline_verified": true
+}

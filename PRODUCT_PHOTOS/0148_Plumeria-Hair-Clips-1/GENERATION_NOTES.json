@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20250207-WA0194.jpg": "bbec3dbdb4948a6f52f1bf14cf160b8415e1294b4ddab52a0fde3f6d857ed22c"
+  },
+  "records": [
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-1d065908-1918-42ec-beb6-a2cab0017e2f.png",
+      "prompt": "Edit reference into website-ready product photo. Whole bag assortment of medium five-petal foam plumeria hair clips in pink purple orange green blue and white with yellow centers and black alligator clips on backs. Preserve visible densely overlapping quantities and colors, do not substitute real flowers. Preserve identity shape colors and main count. Entire product/assortment isolated neatly on pure white seamless studio background, realistic soft shadow, no added text. Remove hands, shop, people, price overlays and old stickers. One square photograph.",
+      "sha256": "7abadd3aa4b4fb2537abb9b8687c828253c774bc675313f0f768ae995438dc7c",
+      "checked": true,
+      "visual_review": "Visually reviewed: website-ready, correct source subject, form, colors and assortment identity; no hand, shop or old price overlay."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-df0e8546-4626-4b51-aac9-a9e23cc1e23f.png",
+      "prompt": "Faithfully edit reference for website product photography. Whole bag assortment of foam five-petal plumeria hair clips pink purple orange blue green white with yellow centers, black clips on backs. Preserve dense overlapping quantity. Preserve exact subject, shape colors and original visible stock density. Whole assortment/product on simple lavender and cream studio surface with soft shadows, no added text. Remove hands, shop, unrelated stock and old price overlays. One square image.",
+      "sha256": "88d1f5e7c79c142e78b1a46da4af8c06361c0fa0ba243a5b4b9200e4ad4bea14",
+      "checked": true,
+      "visual_review": "Visually reviewed: correct subject, shape/colors and dense assortment retained, suitable website image. No hand, shop or price overlay. Detail crop count not applicable."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-76e93d0c-9959-4673-9255-47bbc61de0a8.png",
+      "prompt": "Faithfully edit reference for website product photography. Whole bag assortment of foam five-petal plumeria hair clips pink purple orange blue green white with yellow centers, black clips on backs. Preserve dense overlapping quantity. Preserve exact subject, shape colors and original visible stock density. Whole assortment/product on a clean cream desk or vanity with subtle contextual props, soft daylight, no people, no added text. Remove hands, shop, unrelated stock and old price overlays. One square image.",
+      "sha256": "f19c2fda5a0ce2d548902c4b35080b93f2db68ade2e09adb958ea41929164955",
+      "checked": true,
+      "visual_review": "Visually reviewed: correct subject, shape/colors and dense assortment retained, suitable website image. No hand, shop or price overlay. Detail crop count not applicable."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-55cc0c05-5e3f-4b9a-8caf-ccbbf704f402.png",
+      "prompt": "Faithfully edit reference for website product photography. Reference subject Whole bag assortment of foam five-petal plumeria hair clips pink purple orange blue green white with yellow centers, black clips on backs. Preserve dense overlapping quantity. DETAIL VIEW: Tight macro crop of a small existing material/detail portion of one item, do not show whole pack or whole product. No text overlays. Preserve real product texture shape colors and existing details. Remove hands, shop, unrelated stock and old price overlays. One square image.",
+      "sha256": "f6bec1318aa88cda7bda014b38f620d7176f1a8ffb9e57de116796010c789832",
+      "checked": true,
+      "visual_review": "Visually reviewed: correct subject, shape/colors and dense assortment retained, suitable website image. No hand, shop or price overlay. Detail crop count not applicable."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-b5440326-7d6c-4918-884e-45461f0efd7a.png",
+      "prompt": "Faithfully edit reference for website promotional product photography. Whole bag assortment of foam five-petal plumeria hair clips pink purple orange blue green white with yellow centers, black clips on backs. Preserve dense overlapping quantity. Preserve subject shape colors and dense stock quantity. Whole assortment/product on simple lavender and cream backdrop, compact descriptive title Plumeria Hair Clips and smaller PRODUCT COLLECTION. Remove hands, shop, unrelated stock and old price overlays. One square image.",
+      "sha256": "27a702b779ebe2c5f28a4d37ec616b7944cbd49213bb090e075f41786e367521",
+      "checked": true,
+      "visual_review": "Visually reviewed: correct subject, shape/colors and dense assortment retained, suitable website image. No hand, shop or price overlay. Detail crop count not applicable."
+    }
+  ],
+  "status": "complete",
+  "quality_standard": "website-ready; preserve identity/count/shape/colour; accept minor cosmetic differences",
+  "originals_unchanged": true
+}

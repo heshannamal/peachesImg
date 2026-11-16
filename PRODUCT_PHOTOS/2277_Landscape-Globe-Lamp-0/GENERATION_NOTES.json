@@ -1,0 +1,129 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260807-WA0272.jpg": "d540697c25e597203766f5dc825f5da6638ea15111aa1a1d2423f6bb3e3430e1"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-7e9dc570-53cf-4c6d-9186-048da75759fa.png",
+      "source_output": "/workspace/generated_images/exec-7e9dc570-53cf-4c6d-9186-048da75759fa.png",
+      "sha256": "996ead0b9768a60d75d624395c304ee2ce22ef4a0a0357f96b27a29030ccfeed",
+      "prompt": "Original-referencednativeedit ONE1536x1024exact3x2equal512grid topWHITEbackground/lavendercreamstyled/lifestylebedside;bottomTIGHTrealetchedpartmacro/promoheading\"Solar System Crystal Globe Lamp\"/blankcream. ActualONEclearroundglasssphere onONEshortlightwoodroundLEDbase withwarmwhiteillumination. InternalWHITEetchingSOLARSYSTEM withSunandplanets alongellipticalorbits, smallplanetlabels andmanywhitestars. Preserveactualplanet/orbitdiagramnotlandscape. ALLfourfullviewsONEwholeglasssphere+wholewoodbase sourceidentitycountshapescolours unchanged. Whitebackgroundclearorboutlinevisible,styledlavendercream, lifestyleoneglowinglamponbedside, nootherlamps. MacrostandaloneTIGHTactualetchedplanet/characterpartnotwholeorb. PromoSMALLaccurateheading+wholelamp nottextonly. Removepricebanner/store/cordoutofframeifneeded. Websitequality.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-7e9dc570-53cf-4c6d-9186-048da75759fa.png",
+      "prompt": "Original-referencednativeedit ONE1536x1024exact3x2equal512grid topWHITEbackground/lavendercreamstyled/lifestylebedside;bottomTIGHTrealetchedpartmacro/promoheading\"Solar System Crystal Globe Lamp\"/blankcream. ActualONEclearroundglasssphere onONEshortlightwoodroundLEDbase withwarmwhiteillumination. InternalWHITEetchingSOLARSYSTEM withSunandplanets alongellipticalorbits, smallplanetlabels andmanywhitestars. Preserveactualplanet/orbitdiagramnotlandscape. ALLfourfullviewsONEwholeglasssphere+wholewoodbase sourceidentitycountshapescolours unchanged. Whitebackgroundclearorboutlinevisible,styledlavendercream, lifestyleoneglowinglamponbedside, nootherlamps. MacrostandaloneTIGHTactualetchedplanet/characterpartnotwholeorb. PromoSMALLaccurateheading+wholelamp nottextonly. Removepricebanner/store/cordoutofframeifneeded. Websitequality.",
+      "sha256": "54d1b8fcfa9382ee481a3c0ae914a7c09bb06fa4d8f53bf5c30178a3f4e9c198",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7e9dc570-53cf-4c6d-9186-048da75759fa.png",
+      "grid_sha256": "996ead0b9768a60d75d624395c304ee2ce22ef4a0a0357f96b27a29030ccfeed",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        768,
+        512
+      ],
+      "visual_review": "Actualsolarsystemetchedorb+woodbase, true2x2cellsremapped; correctwhite/bedside/tightetchmacro/accuratepromo."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-7e9dc570-53cf-4c6d-9186-048da75759fa.png",
+      "prompt": "Original-referencednativeedit ONE1536x1024exact3x2equal512grid topWHITEbackground/lavendercreamstyled/lifestylebedside;bottomTIGHTrealetchedpartmacro/promoheading\"Solar System Crystal Globe Lamp\"/blankcream. ActualONEclearroundglasssphere onONEshortlightwoodroundLEDbase withwarmwhiteillumination. InternalWHITEetchingSOLARSYSTEM withSunandplanets alongellipticalorbits, smallplanetlabels andmanywhitestars. Preserveactualplanet/orbitdiagramnotlandscape. ALLfourfullviewsONEwholeglasssphere+wholewoodbase sourceidentitycountshapescolours unchanged. Whitebackgroundclearorboutlinevisible,styledlavendercream, lifestyleoneglowinglamponbedside, nootherlamps. MacrostandaloneTIGHTactualetchedplanet/characterpartnotwholeorb. PromoSMALLaccurateheading+wholelamp nottextonly. Removepricebanner/store/cordoutofframeifneeded. Websitequality.",
+      "sha256": "fb776ddb4373eb463af4db15fa942a3f6ccd9891c75bbf1826984e280c21befc",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7e9dc570-53cf-4c6d-9186-048da75759fa.png",
+      "grid_sha256": "996ead0b9768a60d75d624395c304ee2ce22ef4a0a0357f96b27a29030ccfeed",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        768,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Distinctstyledviewmissing2x2grid, onecorrective."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-7e9dc570-53cf-4c6d-9186-048da75759fa.png",
+      "prompt": "Original-referencednativeedit ONE1536x1024exact3x2equal512grid topWHITEbackground/lavendercreamstyled/lifestylebedside;bottomTIGHTrealetchedpartmacro/promoheading\"Solar System Crystal Globe Lamp\"/blankcream. ActualONEclearroundglasssphere onONEshortlightwoodroundLEDbase withwarmwhiteillumination. InternalWHITEetchingSOLARSYSTEM withSunandplanets alongellipticalorbits, smallplanetlabels andmanywhitestars. Preserveactualplanet/orbitdiagramnotlandscape. ALLfourfullviewsONEwholeglasssphere+wholewoodbase sourceidentitycountshapescolours unchanged. Whitebackgroundclearorboutlinevisible,styledlavendercream, lifestyleoneglowinglamponbedside, nootherlamps. MacrostandaloneTIGHTactualetchedplanet/characterpartnotwholeorb. PromoSMALLaccurateheading+wholelamp nottextonly. Removepricebanner/store/cordoutofframeifneeded. Websitequality.",
+      "sha256": "fb776ddb4373eb463af4db15fa942a3f6ccd9891c75bbf1826984e280c21befc",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7e9dc570-53cf-4c6d-9186-048da75759fa.png",
+      "grid_sha256": "996ead0b9768a60d75d624395c304ee2ce22ef4a0a0357f96b27a29030ccfeed",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        768,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "Actualsolarsystemetchedorb+woodbase, true2x2cellsremapped; correctwhite/bedside/tightetchmacro/accuratepromo."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-7e9dc570-53cf-4c6d-9186-048da75759fa.png",
+      "prompt": "Original-referencednativeedit ONE1536x1024exact3x2equal512grid topWHITEbackground/lavendercreamstyled/lifestylebedside;bottomTIGHTrealetchedpartmacro/promoheading\"Solar System Crystal Globe Lamp\"/blankcream. ActualONEclearroundglasssphere onONEshortlightwoodroundLEDbase withwarmwhiteillumination. InternalWHITEetchingSOLARSYSTEM withSunandplanets alongellipticalorbits, smallplanetlabels andmanywhitestars. Preserveactualplanet/orbitdiagramnotlandscape. ALLfourfullviewsONEwholeglasssphere+wholewoodbase sourceidentitycountshapescolours unchanged. Whitebackgroundclearorboutlinevisible,styledlavendercream, lifestyleoneglowinglamponbedside, nootherlamps. MacrostandaloneTIGHTactualetchedplanet/characterpartnotwholeorb. PromoSMALLaccurateheading+wholelamp nottextonly. Removepricebanner/store/cordoutofframeifneeded. Websitequality.",
+      "sha256": "0fe8b226f71770e05e35104cde8bd6c3baec18ca64814255fe5e94e5f2c9a9cb",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7e9dc570-53cf-4c6d-9186-048da75759fa.png",
+      "grid_sha256": "996ead0b9768a60d75d624395c304ee2ce22ef4a0a0357f96b27a29030ccfeed",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        768,
+        1024
+      ],
+      "visual_review": "Actualsolarsystemetchedorb+woodbase, true2x2cellsremapped; correctwhite/bedside/tightetchmacro/accuratepromo."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-7e9dc570-53cf-4c6d-9186-048da75759fa.png",
+      "prompt": "Original-referencednativeedit ONE1536x1024exact3x2equal512grid topWHITEbackground/lavendercreamstyled/lifestylebedside;bottomTIGHTrealetchedpartmacro/promoheading\"Solar System Crystal Globe Lamp\"/blankcream. ActualONEclearroundglasssphere onONEshortlightwoodroundLEDbase withwarmwhiteillumination. InternalWHITEetchingSOLARSYSTEM withSunandplanets alongellipticalorbits, smallplanetlabels andmanywhitestars. Preserveactualplanet/orbitdiagramnotlandscape. ALLfourfullviewsONEwholeglasssphere+wholewoodbase sourceidentitycountshapescolours unchanged. Whitebackgroundclearorboutlinevisible,styledlavendercream, lifestyleoneglowinglamponbedside, nootherlamps. MacrostandaloneTIGHTactualetchedplanet/characterpartnotwholeorb. PromoSMALLaccurateheading+wholelamp nottextonly. Removepricebanner/store/cordoutofframeifneeded. Websitequality.",
+      "sha256": "f47be41f72c33df074b76971685891ab3eb51dad65d75c1de2cac64eb598721b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-7e9dc570-53cf-4c6d-9186-048da75759fa.png",
+      "grid_sha256": "996ead0b9768a60d75d624395c304ee2ce22ef4a0a0357f96b27a29030ccfeed",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        768,
+        512,
+        1536,
+        1024
+      ],
+      "visual_review": "Actualsolarsystemetchedorb+woodbase, true2x2cellsremapped; correctwhite/bedside/tightetchmacro/accuratepromo."
+    }
+  ],
+  "status": "corrective_in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts": {
+    "02_Styled-Background.png": 1
+  }
+}

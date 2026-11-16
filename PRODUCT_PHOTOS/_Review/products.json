@@ -27751,9 +27751,9 @@
     "source_image_ids": [
       2546
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -27813,7 +27813,7 @@
     ],
     "new_images": 0,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "blocked_moderation",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -27823,35 +27823,39 @@
     "source_image_ids": [
       2552
     ],
-    "new_images": 0,
+    "new_images": 4,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2278",
-    "folder": "2278_Cartoon-Bunny-Globe-Lamp-0",
+    "folder": "2278_Cartoon-Bunny-Globe-Lamp-1",
     "source_image_ids": [
       2553
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2279",
-    "folder": "2279_Dreamcatcher-Globe-Lamp-0",
+    "folder": "2279_Dreamcatcher-Globe-Lamp-1",
     "source_image_ids": [
       2554
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2280",

@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260807-WA0305.jpg": "b862fae2e2b7bf79b9e527b04e84fe9ad1c996d97cfcc9e0dce59d7279424b16"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-d660663c-a693-4d81-9d33-674057201bb1.png",
+      "source_output": "/workspace/generated_images/exec-d660663c-a693-4d81-9d33-674057201bb1.png",
+      "sha256": "d8f31e6be3ddd06c3b411ebeeb98c9b7453cd68eb6c1d15afb52e47277ecc998",
+      "prompt": "Native edit referenced actualoriginal intoONE1536x1024 exact3x2equal512grid topWHITEbackground/lavendercreamstyled/lifestylebedside;bottomTIGHTstandaloneactualetchedglassdetail/promoheading\"Happy Birthday Crystal Globe Lamp\"/blankcream. ActualONEclearroundglasscrystalsphere onONEshortcircularlightwoodLEDbase, warmwhiteglowfrombelow, blackpowercablecanbeoutofframe. InternalWHITEetched3Dbirthdaycakewithcandles/stars/hearts andaccurateHappyBirthdaylettering above. PreservecakeandHappyBirthdayidentity, notlandscape despitefoldername. ALLfourfullviews ONEwholeglasssphere+wholewoodbase, exactsourceinternaletching, noextraorb/base. Whitebackgroundwithvisibleclearorboutline, styledlavendercream,lifestyleoneactualglowinglamponbedside. MacroTIGHTrealengravedglasspartnotentiresphere/base. PromoSMALLaccurateheadingplusWHOLElamp nottextonly. Removepriceoverlay/store, preserveidentityshapescolours. Websitequality.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-d660663c-a693-4d81-9d33-674057201bb1.png",
+      "prompt": "Native edit referenced actualoriginal intoONE1536x1024 exact3x2equal512grid topWHITEbackground/lavendercreamstyled/lifestylebedside;bottomTIGHTstandaloneactualetchedglassdetail/promoheading\"Happy Birthday Crystal Globe Lamp\"/blankcream. ActualONEclearroundglasscrystalsphere onONEshortcircularlightwoodLEDbase, warmwhiteglowfrombelow, blackpowercablecanbeoutofframe. InternalWHITEetched3Dbirthdaycakewithcandles/stars/hearts andaccurateHappyBirthdaylettering above. PreservecakeandHappyBirthdayidentity, notlandscape despitefoldername. ALLfourfullviews ONEwholeglasssphere+wholewoodbase, exactsourceinternaletching, noextraorb/base. Whitebackgroundwithvisibleclearorboutline, styledlavendercream,lifestyleoneactualglowinglamponbedside. MacroTIGHTrealengravedglasspartnotentiresphere/base. PromoSMALLaccurateheadingplusWHOLElamp nottextonly. Removepriceoverlay/store, preserveidentityshapescolours. Websitequality.",
+      "sha256": "be7b29dc0cea15861136798166f23ca4bef51a7809d5147a11466e1d9e7fc35b",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-d660663c-a693-4d81-9d33-674057201bb1.png",
+      "grid_sha256": "d8f31e6be3ddd06c3b411ebeeb98c9b7453cd68eb6c1d15afb52e47277ecc998",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "One actualglasssphere onwoodbase, HappyBirthday cake/stars/hearts etching retained; correctwhite/lavenderstyled/bedsideviews, tightactualetchingmacro, accuratepromotionalheading. Websitequality."
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-d660663c-a693-4d81-9d33-674057201bb1.png",
+      "prompt": "Native edit referenced actualoriginal intoONE1536x1024 exact3x2equal512grid topWHITEbackground/lavendercreamstyled/lifestylebedside;bottomTIGHTstandaloneactualetchedglassdetail/promoheading\"Happy Birthday Crystal Globe Lamp\"/blankcream. ActualONEclearroundglasscrystalsphere onONEshortcircularlightwoodLEDbase, warmwhiteglowfrombelow, blackpowercablecanbeoutofframe. InternalWHITEetched3Dbirthdaycakewithcandles/stars/hearts andaccurateHappyBirthdaylettering above. PreservecakeandHappyBirthdayidentity, notlandscape despitefoldername. ALLfourfullviews ONEwholeglasssphere+wholewoodbase, exactsourceinternaletching, noextraorb/base. Whitebackgroundwithvisibleclearorboutline, styledlavendercream,lifestyleoneactualglowinglamponbedside. MacroTIGHTrealengravedglasspartnotentiresphere/base. PromoSMALLaccurateheadingplusWHOLElamp nottextonly. Removepriceoverlay/store, preserveidentityshapescolours. Websitequality.",
+      "sha256": "464330f71997591f4b2ece3b102aef102849fad88d7c1e6bd17b7246e7e36150",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-d660663c-a693-4d81-9d33-674057201bb1.png",
+      "grid_sha256": "d8f31e6be3ddd06c3b411ebeeb98c9b7453cd68eb6c1d15afb52e47277ecc998",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ],
+      "visual_review": "One actualglasssphere onwoodbase, HappyBirthday cake/stars/hearts etching retained; correctwhite/lavenderstyled/bedsideviews, tightactualetchingmacro, accuratepromotionalheading. Websitequality."
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-d660663c-a693-4d81-9d33-674057201bb1.png",
+      "prompt": "Native edit referenced actualoriginal intoONE1536x1024 exact3x2equal512grid topWHITEbackground/lavendercreamstyled/lifestylebedside;bottomTIGHTstandaloneactualetchedglassdetail/promoheading\"Happy Birthday Crystal Globe Lamp\"/blankcream. ActualONEclearroundglasscrystalsphere onONEshortcircularlightwoodLEDbase, warmwhiteglowfrombelow, blackpowercablecanbeoutofframe. InternalWHITEetched3Dbirthdaycakewithcandles/stars/hearts andaccurateHappyBirthdaylettering above. PreservecakeandHappyBirthdayidentity, notlandscape despitefoldername. ALLfourfullviews ONEwholeglasssphere+wholewoodbase, exactsourceinternaletching, noextraorb/base. Whitebackgroundwithvisibleclearorboutline, styledlavendercream,lifestyleoneactualglowinglamponbedside. MacroTIGHTrealengravedglasspartnotentiresphere/base. PromoSMALLaccurateheadingplusWHOLElamp nottextonly. Removepriceoverlay/store, preserveidentityshapescolours. Websitequality.",
+      "sha256": "d86a0a57cdf2b4fa65b04712e131727bc924e91ca643529871423143e45fae6c",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-d660663c-a693-4d81-9d33-674057201bb1.png",
+      "grid_sha256": "d8f31e6be3ddd06c3b411ebeeb98c9b7453cd68eb6c1d15afb52e47277ecc998",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ],
+      "visual_review": "One actualglasssphere onwoodbase, HappyBirthday cake/stars/hearts etching retained; correctwhite/lavenderstyled/bedsideviews, tightactualetchingmacro, accuratepromotionalheading. Websitequality."
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-d660663c-a693-4d81-9d33-674057201bb1.png",
+      "prompt": "Native edit referenced actualoriginal intoONE1536x1024 exact3x2equal512grid topWHITEbackground/lavendercreamstyled/lifestylebedside;bottomTIGHTstandaloneactualetchedglassdetail/promoheading\"Happy Birthday Crystal Globe Lamp\"/blankcream. ActualONEclearroundglasscrystalsphere onONEshortcircularlightwoodLEDbase, warmwhiteglowfrombelow, blackpowercablecanbeoutofframe. InternalWHITEetched3Dbirthdaycakewithcandles/stars/hearts andaccurateHappyBirthdaylettering above. PreservecakeandHappyBirthdayidentity, notlandscape despitefoldername. ALLfourfullviews ONEwholeglasssphere+wholewoodbase, exactsourceinternaletching, noextraorb/base. Whitebackgroundwithvisibleclearorboutline, styledlavendercream,lifestyleoneactualglowinglamponbedside. MacroTIGHTrealengravedglasspartnotentiresphere/base. PromoSMALLaccurateheadingplusWHOLElamp nottextonly. Removepriceoverlay/store, preserveidentityshapescolours. Websitequality.",
+      "sha256": "10170b4f57b0141ac6615fcedfab5d962b7e7ea7cf56858e2c026e3cabb735b5",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-d660663c-a693-4d81-9d33-674057201bb1.png",
+      "grid_sha256": "d8f31e6be3ddd06c3b411ebeeb98c9b7453cd68eb6c1d15afb52e47277ecc998",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ],
+      "visual_review": "One actualglasssphere onwoodbase, HappyBirthday cake/stars/hearts etching retained; correctwhite/lavenderstyled/bedsideviews, tightactualetchingmacro, accuratepromotionalheading. Websitequality."
+    },
+    {
+      "saved_file": "New/05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-d660663c-a693-4d81-9d33-674057201bb1.png",
+      "prompt": "Native edit referenced actualoriginal intoONE1536x1024 exact3x2equal512grid topWHITEbackground/lavendercreamstyled/lifestylebedside;bottomTIGHTstandaloneactualetchedglassdetail/promoheading\"Happy Birthday Crystal Globe Lamp\"/blankcream. ActualONEclearroundglasscrystalsphere onONEshortcircularlightwoodLEDbase, warmwhiteglowfrombelow, blackpowercablecanbeoutofframe. InternalWHITEetched3Dbirthdaycakewithcandles/stars/hearts andaccurateHappyBirthdaylettering above. PreservecakeandHappyBirthdayidentity, notlandscape despitefoldername. ALLfourfullviews ONEwholeglasssphere+wholewoodbase, exactsourceinternaletching, noextraorb/base. Whitebackgroundwithvisibleclearorboutline, styledlavendercream,lifestyleoneactualglowinglamponbedside. MacroTIGHTrealengravedglasspartnotentiresphere/base. PromoSMALLaccurateheadingplusWHOLElamp nottextonly. Removepriceoverlay/store, preserveidentityshapescolours. Websitequality.",
+      "sha256": "a0ca5196f31a0d96f5897760ef8ff572db72c064b8c4fdc13967c6861409ca4e",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-d660663c-a693-4d81-9d33-674057201bb1.png",
+      "grid_sha256": "d8f31e6be3ddd06c3b411ebeeb98c9b7453cd68eb6c1d15afb52e47277ecc998",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "One actualglasssphere onwoodbase, HappyBirthday cake/stars/hearts etching retained; correctwhite/lavenderstyled/bedsideviews, tightactualetchingmacro, accuratepromotionalheading. Websitequality."
+    }
+  ],
+  "status": "five_images_saved_and_visually_checked",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "originals_verified_against_frozen_plan": true
+}

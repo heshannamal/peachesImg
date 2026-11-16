@@ -119,17 +119,47 @@
         1024
       ],
       "visual_review": "Actual saved crop inspected against original: one crystal globe with exact frontstanding bunnyhood character engraving, suspenders/shorts/feet, woodLEDbase and powercord preserved. Correct independent styled/lifestyle/detail/promo view; tight actual engraving macro and accurate heading."
+    },
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-a502a9c9-e15a-4407-986f-dea0e864af0d.png",
+      "source_output": "/workspace/generated_images/exec-a502a9c9-e15a-4407-986f-dea0e864af0d.png",
+      "sha256": "0e9da91037d8748351069b3932bb21ec786bf3dc0a0e13a4dffa66e68c936785",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Top ONEfullproduct white/ONEfullproductlavendercreamstyled/ONEfullproductbedsidelifestyle. Bottom TIGHTstandalone REALPART engravedglassmacro/ONEfullproductpromotion accurateheading/blankcream. No spanningpanels. Exactly ONE clear spherical crystal globe on ONE short round wooden LEDbase, warmwhite illumination underneath, thinblackpowercord. Preserve actual engraving identity/proportions, sphere/base shapes/materials/colours. Do not colour the whiteengraving or replacewith generic character. Remove sourceprice/code/banner/background clutter. All fullproduct fits owncell with margins. Headingonly,no unsupportedclaims. Engraving exactly actual frontstanding rabbit-hooded character, TWO uprightlong bunnyears, fluffyround hood framing two ovaleyes/tinyblacknose/mouth, short arms, suspenders over dark shorts marked LA BUBU, smallshoes. Preserve this precise fullbody engraving, not generic rabbit silhouette. Actualbase palewood. Macro actual bunnyhood/face engraving and glasscurvature. Heading 'Bunny Character Globe Lamp'. MATERIAL CORRECTION: TOP-LEFT panel MUST have PURE WHITE background outside globe and base, not black. Preserve exact same glassglobe and actualengraving, warmLEDbase. All other alreadyvalid views retained. White backdrop is required website view.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-a502a9c9-e15a-4407-986f-dea0e864af0d.png",
+      "prompt": "Faithfully EDIT actual referenced product into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Top ONEfullproduct white/ONEfullproductlavendercreamstyled/ONEfullproductbedsidelifestyle. Bottom TIGHTstandalone REALPART engravedglassmacro/ONEfullproductpromotion accurateheading/blankcream. No spanningpanels. Exactly ONE clear spherical crystal globe on ONE short round wooden LEDbase, warmwhite illumination underneath, thinblackpowercord. Preserve actual engraving identity/proportions, sphere/base shapes/materials/colours. Do not colour the whiteengraving or replacewith generic character. Remove sourceprice/code/banner/background clutter. All fullproduct fits owncell with margins. Headingonly,no unsupportedclaims. Engraving exactly actual frontstanding rabbit-hooded character, TWO uprightlong bunnyears, fluffyround hood framing two ovaleyes/tinyblacknose/mouth, short arms, suspenders over dark shorts marked LA BUBU, smallshoes. Preserve this precise fullbody engraving, not generic rabbit silhouette. Actualbase palewood. Macro actual bunnyhood/face engraving and glasscurvature. Heading 'Bunny Character Globe Lamp'. MATERIAL CORRECTION: TOP-LEFT panel MUST have PURE WHITE background outside globe and base, not black. Preserve exact same glassglobe and actualengraving, warmLEDbase. All other alreadyvalid views retained. White backdrop is required website view.",
+      "sha256": "18fff64998051fe432bdbb9ca7fbb2ca36fff5bcd4e261340848e2d3f2ef336f",
+      "checked": true,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-a502a9c9-e15a-4407-986f-dea0e864af0d.png",
+      "grid_sha256": "0e9da91037d8748351069b3932bb21ec786bf3dc0a0e13a4dffa66e68c936785",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "visual_review": "Actual corrective crop inspected: pure white exterior background, same single globe/bunnyhood engraving/woodbase/cord, full margins; material view error resolved."
     }
   ],
-  "status": "partial_stopped_before_corrective",
+  "status": "five_images_saved_and_visually_checked",
   "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
   "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
   "corrective_attempts_spent": {
-    "01_White-Background.png": 0
+    "01_White-Background.png": 1
   },
   "original_baselines_verified": true,
   "corrective_budget_remaining": {
-    "01_White-Background.png": 1
+    "01_White-Background.png": 0
   },
   "stop_reason": "New global sentinel present before corrective native call; no corrective call made."
 }

@@ -27871,9 +27871,9 @@
     "source_image_ids": [
       2556
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -27895,9 +27895,9 @@
     "source_image_ids": [
       2558
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -27919,9 +27919,9 @@
     "source_image_ids": [
       2560
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -27933,33 +27933,37 @@
     ],
     "new_images": 0,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "blocked_moderation",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2287",
-    "folder": "2287_Landscape-Text-Globe-Lamp-0",
+    "folder": "2287_Landscape-Text-Globe-Lamp-1",
     "source_image_ids": [
       2562
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2288",
-    "folder": "2288_Bunny-Character-Globe-Lamp-0",
+    "folder": "2288_Bunny-Character-Globe-Lamp-1",
     "source_image_ids": [
       2563
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2289",

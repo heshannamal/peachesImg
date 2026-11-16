@@ -27619,9 +27619,9 @@
     "source_image_ids": [
       2533
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -27631,23 +27631,25 @@
     "source_image_ids": [
       2534
     ],
-    "new_images": 0,
-    "generation_complete": false,
-    "generation_status": "pending",
-    "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
-  },
-  {
-    "product_id": "2262",
-    "folder": "2262_Gift-Box-Size-Assortment-0",
-    "source_image_ids": [
-      2537
-    ],
     "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
+  },
+  {
+    "product_id": "2262",
+    "folder": "2262_Gift-Box-Size-Assortment-1",
+    "source_image_ids": [
+      2537
+    ],
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
+    "grouping_status": "initial-visual-grouping",
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2263",
@@ -27705,7 +27707,7 @@
     "source_image_ids": [
       2542
     ],
-    "new_images": 4,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",

@@ -27582,9 +27582,9 @@
     "source_image_ids": [
       2527
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -27595,9 +27595,9 @@
       2528,
       2531
     ],
-    "new_images": 0,
+    "new_images": 4,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
@@ -27607,35 +27607,39 @@
     "source_image_ids": [
       2530
     ],
-    "new_images": 0,
+    "new_images": 5,
     "generation_complete": false,
-    "generation_status": "pending",
+    "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
     "required_new_images": 5
   },
   {
     "product_id": "2260",
-    "folder": "2260_Printed-Drinking-Bottles-0",
+    "folder": "2260_Printed-Drinking-Bottles-1",
     "source_image_ids": [
       2533
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2261",
-    "folder": "2261_Character-Fluffy-Purses-0",
+    "folder": "2261_Character-Fluffy-Purses-1",
     "source_image_ids": [
       2534
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2262",
@@ -27671,7 +27675,7 @@
     "source_image_ids": [
       2539
     ],
-    "new_images": 1,
+    "new_images": 5,
     "generation_complete": false,
     "generation_status": "in_progress",
     "grouping_status": "initial-visual-grouping",
@@ -27679,39 +27683,45 @@
   },
   {
     "product_id": "2265",
-    "folder": "2265_Body-Lotion-Assortment-0",
+    "folder": "2265_Body-Lotion-Assortment-1",
     "source_image_ids": [
       2540
     ],
-    "new_images": 1,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2266",
-    "folder": "2266_Tresemme-Shampoo-0",
+    "folder": "2266_Tresemme-Shampoo-1",
     "source_image_ids": [
       2541
     ],
-    "new_images": 4,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "new_images": 5,
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2267",
-    "folder": "2267_Glass-Lotus-Ornaments-0",
+    "folder": "2267_Glass-Lotus-Ornaments-1",
     "source_image_ids": [
       2542
     ],
     "new_images": 5,
-    "generation_complete": false,
-    "generation_status": "in_progress",
+    "generation_complete": true,
+    "generation_status": "complete",
     "grouping_status": "initial-visual-grouping",
-    "required_new_images": 5
+    "required_new_images": 5,
+    "generation_batch": "scheduled-2216-2315",
+    "style_review": "visually-checked"
   },
   {
     "product_id": "2268",

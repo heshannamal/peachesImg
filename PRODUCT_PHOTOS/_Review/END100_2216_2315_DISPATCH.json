@@ -1,12 +1,6 @@
 {
   "status": "running",
   "next_unassigned": [
-    "2255",
-    "2254",
-    "2253",
-    "2252",
-    "2251",
-    "2250",
     "2249",
     "2248",
     "2247",
@@ -48,20 +42,20 @@
       "2258"
     ],
     "batch6_worker2": [
-      "2265",
-      "2264"
+      "2251",
+      "2250"
     ],
     "batch6_worker3": [
       "2257",
       "2256"
     ],
     "batch6_worker4": [
-      "2267",
-      "2266"
+      "2253",
+      "2252"
     ],
     "batch6_worker5": [
-      "2261",
-      "2260"
+      "2255",
+      "2254"
     ]
   },
   "assignment_history": [
@@ -238,6 +232,27 @@
       "product_ids": [
         "2263",
         "2262"
+      ]
+    },
+    {
+      "worker": "batch6_worker5",
+      "product_ids": [
+        "2261",
+        "2260"
+      ]
+    },
+    {
+      "worker": "batch6_worker4",
+      "product_ids": [
+        "2267",
+        "2266"
+      ]
+    },
+    {
+      "worker": "batch6_worker2",
+      "product_ids": [
+        "2265",
+        "2264"
       ]
     }
   ]

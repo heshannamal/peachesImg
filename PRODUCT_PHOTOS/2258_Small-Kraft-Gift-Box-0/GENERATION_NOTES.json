@@ -1,0 +1,127 @@
+{
+  "tool": "built-in image_gen",
+  "whole_assortment": true,
+  "original_hashes": {
+    "Originals/IMG-20260804-WA0099.jpg": "526bbf71efa6d76143a5c6f5c3af788c1e9510cfc340dc32c385b5a2dc11397d",
+    "Originals/IMG-20260804-WA0096.jpg": "caad279406f3ab8ff7d35276dd696acc76b306f5edde3dbab978591fe15c4768"
+  },
+  "records": [
+    {
+      "kind": "generation_grid_source",
+      "saved_file": "Generation_Grids/exec-4661c6b3-17ed-4e3a-bcdd-d0e7b46bedb4.png",
+      "source_output": "/workspace/generated_images/exec-4661c6b3-17ed-4e3a-bcdd-d0e7b46bedb4.png",
+      "sha256": "b1894f82c4be16496bba4cc26f02708d3f2cae7ed19698d3a8a4e1f0b2b6021f",
+      "prompt": "Faithfully EDIT actual referenced kraft gift boxes into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Topfullproductwhite/fullproductlavendercreamstyled/fullproductgiftwrappingtablelifestyle. Bottom TIGHTstandaloneREALPARTmacro/fullproductpromo accurateheading/blankcream. No spanningpanels. Preserve actual kraftbrown corrugatedpaperboard texture/construction/shape/count, no ribbons/printing/windows/newboxdesign. Remove sourceprice/shopmarblebackground. All completeproduct fits eachfullcell with margins. Headingonly,no inventedclaims. Bothreferences show SAME smallkraft mailer product: first ONE assembledOPENbox resting atop actual thick STACKof flatunassembleddie-cutboxblanks tied byTWO WHITEplasticstraps, second closeup SAMEopenbox. Wholeproductview must retain exact entire flatblankstack plus ONEopenbox, not two openboxes. Preserve source stack thickness/layers and tiedshape, openlidroundtab/frontwall/foldedsidewings, plainkraftbrown. Macro actual openbox foldedcorner/corrugatededge and texture. Heading 'Small Kraft Gift Boxes'.",
+      "checked": false,
+      "visual_review": "Source grid preserved; individual crop records carry website-view reviews."
+    },
+    {
+      "saved_file": "New/01_White-Background.png",
+      "source_output": "/workspace/generated_images/exec-4661c6b3-17ed-4e3a-bcdd-d0e7b46bedb4.png",
+      "prompt": "Faithfully EDIT actual referenced kraft gift boxes into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Topfullproductwhite/fullproductlavendercreamstyled/fullproductgiftwrappingtablelifestyle. Bottom TIGHTstandaloneREALPARTmacro/fullproductpromo accurateheading/blankcream. No spanningpanels. Preserve actual kraftbrown corrugatedpaperboard texture/construction/shape/count, no ribbons/printing/windows/newboxdesign. Remove sourceprice/shopmarblebackground. All completeproduct fits eachfullcell with margins. Headingonly,no inventedclaims. Bothreferences show SAME smallkraft mailer product: first ONE assembledOPENbox resting atop actual thick STACKof flatunassembleddie-cutboxblanks tied byTWO WHITEplasticstraps, second closeup SAMEopenbox. Wholeproductview must retain exact entire flatblankstack plus ONEopenbox, not two openboxes. Preserve source stack thickness/layers and tiedshape, openlidroundtab/frontwall/foldedsidewings, plainkraftbrown. Macro actual openbox foldedcorner/corrugatededge and texture. Heading 'Small Kraft Gift Boxes'.",
+      "sha256": "f262b433cb23d6267e1124ec7a904bc9d3651250c14a4034a2e0d88722930b28",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4661c6b3-17ed-4e3a-bcdd-d0e7b46bedb4.png",
+      "grid_sha256": "b1894f82c4be16496bba4cc26f02708d3f2cae7ed19698d3a8a4e1f0b2b6021f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        0,
+        512,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/02_Styled-Background.png",
+      "source_output": "/workspace/generated_images/exec-4661c6b3-17ed-4e3a-bcdd-d0e7b46bedb4.png",
+      "prompt": "Faithfully EDIT actual referenced kraft gift boxes into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Topfullproductwhite/fullproductlavendercreamstyled/fullproductgiftwrappingtablelifestyle. Bottom TIGHTstandaloneREALPARTmacro/fullproductpromo accurateheading/blankcream. No spanningpanels. Preserve actual kraftbrown corrugatedpaperboard texture/construction/shape/count, no ribbons/printing/windows/newboxdesign. Remove sourceprice/shopmarblebackground. All completeproduct fits eachfullcell with margins. Headingonly,no inventedclaims. Bothreferences show SAME smallkraft mailer product: first ONE assembledOPENbox resting atop actual thick STACKof flatunassembleddie-cutboxblanks tied byTWO WHITEplasticstraps, second closeup SAMEopenbox. Wholeproductview must retain exact entire flatblankstack plus ONEopenbox, not two openboxes. Preserve source stack thickness/layers and tiedshape, openlidroundtab/frontwall/foldedsidewings, plainkraftbrown. Macro actual openbox foldedcorner/corrugatededge and texture. Heading 'Small Kraft Gift Boxes'.",
+      "sha256": "9f811d0110198c8405627aa669a1b44f1122729d67d37782f82b1042b4435cca",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4661c6b3-17ed-4e3a-bcdd-d0e7b46bedb4.png",
+      "grid_sha256": "b1894f82c4be16496bba4cc26f02708d3f2cae7ed19698d3a8a4e1f0b2b6021f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        0,
+        1024,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/03_Lifestyle.png",
+      "source_output": "/workspace/generated_images/exec-4661c6b3-17ed-4e3a-bcdd-d0e7b46bedb4.png",
+      "prompt": "Faithfully EDIT actual referenced kraft gift boxes into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Topfullproductwhite/fullproductlavendercreamstyled/fullproductgiftwrappingtablelifestyle. Bottom TIGHTstandaloneREALPARTmacro/fullproductpromo accurateheading/blankcream. No spanningpanels. Preserve actual kraftbrown corrugatedpaperboard texture/construction/shape/count, no ribbons/printing/windows/newboxdesign. Remove sourceprice/shopmarblebackground. All completeproduct fits eachfullcell with margins. Headingonly,no inventedclaims. Bothreferences show SAME smallkraft mailer product: first ONE assembledOPENbox resting atop actual thick STACKof flatunassembleddie-cutboxblanks tied byTWO WHITEplasticstraps, second closeup SAMEopenbox. Wholeproductview must retain exact entire flatblankstack plus ONEopenbox, not two openboxes. Preserve source stack thickness/layers and tiedshape, openlidroundtab/frontwall/foldedsidewings, plainkraftbrown. Macro actual openbox foldedcorner/corrugatededge and texture. Heading 'Small Kraft Gift Boxes'.",
+      "sha256": "f32c49858a05d729130e92d1cbd2666a84a93ebb43982e3b86ed4b7519ec6a81",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4661c6b3-17ed-4e3a-bcdd-d0e7b46bedb4.png",
+      "grid_sha256": "b1894f82c4be16496bba4cc26f02708d3f2cae7ed19698d3a8a4e1f0b2b6021f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        1024,
+        0,
+        1536,
+        512
+      ]
+    },
+    {
+      "saved_file": "New/04_Detail.png",
+      "source_output": "/workspace/generated_images/exec-4661c6b3-17ed-4e3a-bcdd-d0e7b46bedb4.png",
+      "prompt": "Faithfully EDIT actual referenced kraft gift boxes into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Topfullproductwhite/fullproductlavendercreamstyled/fullproductgiftwrappingtablelifestyle. Bottom TIGHTstandaloneREALPARTmacro/fullproductpromo accurateheading/blankcream. No spanningpanels. Preserve actual kraftbrown corrugatedpaperboard texture/construction/shape/count, no ribbons/printing/windows/newboxdesign. Remove sourceprice/shopmarblebackground. All completeproduct fits eachfullcell with margins. Headingonly,no inventedclaims. Bothreferences show SAME smallkraft mailer product: first ONE assembledOPENbox resting atop actual thick STACKof flatunassembleddie-cutboxblanks tied byTWO WHITEplasticstraps, second closeup SAMEopenbox. Wholeproductview must retain exact entire flatblankstack plus ONEopenbox, not two openboxes. Preserve source stack thickness/layers and tiedshape, openlidroundtab/frontwall/foldedsidewings, plainkraftbrown. Macro actual openbox foldedcorner/corrugatededge and texture. Heading 'Small Kraft Gift Boxes'.",
+      "sha256": "1ae213143847b33fc6ba72902edf2e6dc3ee4e6d6f6b016ea76cf0aaae842fc7",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4661c6b3-17ed-4e3a-bcdd-d0e7b46bedb4.png",
+      "grid_sha256": "b1894f82c4be16496bba4cc26f02708d3f2cae7ed19698d3a8a4e1f0b2b6021f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        0,
+        512,
+        512,
+        1024
+      ]
+    },
+    {
+      "saved_file": "Rejected/initial_05_Promotional.png",
+      "source_output": "/workspace/generated_images/exec-4661c6b3-17ed-4e3a-bcdd-d0e7b46bedb4.png",
+      "prompt": "Faithfully EDIT actual referenced kraft gift boxes into1536x1024 website SIXequal512squarepanels3columns2rows x512/1024y512. Topfullproductwhite/fullproductlavendercreamstyled/fullproductgiftwrappingtablelifestyle. Bottom TIGHTstandaloneREALPARTmacro/fullproductpromo accurateheading/blankcream. No spanningpanels. Preserve actual kraftbrown corrugatedpaperboard texture/construction/shape/count, no ribbons/printing/windows/newboxdesign. Remove sourceprice/shopmarblebackground. All completeproduct fits eachfullcell with margins. Headingonly,no inventedclaims. Bothreferences show SAME smallkraft mailer product: first ONE assembledOPENbox resting atop actual thick STACKof flatunassembleddie-cutboxblanks tied byTWO WHITEplasticstraps, second closeup SAMEopenbox. Wholeproductview must retain exact entire flatblankstack plus ONEopenbox, not two openboxes. Preserve source stack thickness/layers and tiedshape, openlidroundtab/frontwall/foldedsidewings, plainkraftbrown. Macro actual openbox foldedcorner/corrugatededge and texture. Heading 'Small Kraft Gift Boxes'.",
+      "sha256": "c30eb47173a26a7dbe1abbc972415ce72f7a97dd33fc90f4b5dd3bd4e054a5cf",
+      "checked": false,
+      "generation_method": "native_five_style_grid_cropped",
+      "grid_source_file": "Generation_Grids/exec-4661c6b3-17ed-4e3a-bcdd-d0e7b46bedb4.png",
+      "grid_sha256": "b1894f82c4be16496bba4cc26f02708d3f2cae7ed19698d3a8a4e1f0b2b6021f",
+      "grid_dimensions": [
+        1536,
+        1024
+      ],
+      "crop_box": [
+        512,
+        512,
+        1024,
+        1024
+      ],
+      "visual_review": "Promo omits entire flatblankstack, shows only openbox. Correct once.",
+      "corrective_attempts": 1
+    }
+  ],
+  "status": "in_progress",
+  "quality_standard": "website-ready; native grid cropped as explicitly requested; preserve identity/count/shapes/colours",
+  "generation_workflow": "One native3x2grid; first5cells are views01\u201305, sixthcellunused; existing outputs preserved",
+  "corrective_attempts_spent": {
+    "05_Promotional.png": 1
+  }
+}
